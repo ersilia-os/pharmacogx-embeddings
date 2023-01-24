@@ -1,0 +1,25 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+GGCX	GAS6	Activation			hepatocyte	18495950	GAS6, GGCX			GGCX activates GAS6.
+GGCX	F9	Activation			hepatocyte, null	25681132, 17048007	F9, GGCX			GGCX activates F9.
+GGCX	F10	Activation			hepatocyte, null	25681132	F10, GGCX			GGCX activates F10.
+GGCX	MGP	Activation			hepatocyte, null	35767717, 28657840, 18495950	GGCX, MGP			GGCX activates MGP.
+GGCX	F7	Activation			hepatocyte, null	25681132, 17048007	F7, GGCX			GGCX activates F7.
+GGCX	PROZ	Activation			hepatocyte, null	17048007	GGCX, PROZ			GGCX activates PROZ.
+GGCX	F2	Activation			hepatocyte, null	21320153	F2, GGCX			GGCX activates F2.
+GGCX	PROC	Activation			hepatocyte, null	33958549, 17048007	GGCX, PROC			GGCX activates PROC.
+GGCX	PROS1	Activation			hepatocyte, null	19752777	GGCX, PROS1			GGCX activates PROS1.
+GGCX	BGLAP	Activation			hepatocyte, null	31040164	BGLAP, GGCX			GGCX activates BGLAP.
+vitamin K1 2,3-epoxide	<i>Vitamin K</i>	Biochemical Reaction	EPHX1, VKORC1	Gene	hepatocyte	35922516, 19297519, 16493479, 16270630, 15900282, 15358623				Biochemical reaction from vitamin K1 epoxide to Vitamin K. This interaction can be catalyzed by EPHX1 or VKORC1.
+<i>Vitamin K</i>	hydroxy-vitamin K	Biochemical Reaction	CYP4F2	Gene	hepatocyte	19297519, 18250228				Biochemical reaction from Vitamin K to hydroxy-vitamin K. This interaction is catalyzed by CYP4F2.
+<i>Vitamin K</i>	vitamin K dihydroquinone	Biochemical Reaction	AIFM2, NQO1, VKORC1	Gene	hepatocyte	35922516, 33406703, 31040164, 19297519, 16493479, 16270630, 15358623				Biochemical reaction from Vitamin K to vitamin K dihydroquinone. This interaction can be catalyzed by NQO1, VKORC1 or AIFM2.
+vitamin K dihydroquinone	vitamin K1 2,3-epoxide	Biochemical Reaction	GGCX	Gene	hepatocyte	35922516, 31040164, 19297519				Biochemical reaction from vitamin K dihydroquinone to vitamin K1 epoxide. This interaction is catalyzed by GGCX.
+CALU	GGCX	Inhibition			hepatocyte	16493479	CALU, GGCX			CALU inhibits GGCX.
+warfarin	VKORC1	Inhibition			hepatocyte	35922516, 19297519, 18250228, 16270630, 15358623	VKORC1	warfarin		warfarin inhibits VKORC1.
+F2	clotting cascade	Leads To			null	21320153	F2			F2 leads to clotting cascade.
+F10	clotting cascade	Leads To			null	23690629	F10			F10 leads to clotting cascade.
+GAS6	apoptosis	Leads To			hepatocyte	18495950	GAS6			GAS6 leads to apoptosis.
+PROS1	clotting cascade	Leads To			null	24233386	PROS1			PROS1 leads to clotting cascade.
+F9	clotting cascade	Leads To			null	23690629	F9			F9 leads to clotting cascade.
+PROZ	clotting cascade	Leads To			null	23690629	PROZ			PROZ leads to clotting cascade.
+PROC	clotting cascade	Leads To			null	24233386	PROC			PROC leads to clotting cascade.
+F7	clotting cascade	Leads To			null	23690629	F7			F7 leads to clotting cascade.

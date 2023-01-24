@@ -1,0 +1,11 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+5'-glucuronyl  zidovudine	3'-amino- 3'-deoxythymidine  glucuronide	Biochemical Reaction			cell	1996084,8690233			
+HIV-RT	HIV-RT	Biochemical Reaction	zidovudine	Control	cell	2430286,8690233		zidovudine	
+zidovudine	3'-amino-3'- deoxythymidine	Biochemical Reaction	CYP2A6,CYP2C9,CYP2E1,CYP3A4,POR	Catalysis	cell		"CYP2C9","CYP2A6","POR","CYP2E1","CYP3A4"	zidovudine	
+zidovudine	5'-glucuronyl  zidovudine	Biochemical Reaction	UGT2B7	Catalysis	cell		UGT2B7	zidovudine	
+zidovudine	zidovudine	Biochemical Reaction	NME1,NME2	Catalysis	cell		"NME2","NME1"	zidovudine	
+zidovudine	zidovudine	Biochemical Reaction	DTYMK	Catalysis	cell		DTYMK	zidovudine	
+zidovudine	zidovudine	Biochemical Reaction	TK1	Catalysis	cell		TK1	zidovudine	
+zidovudine	zidovudine	Transport	ABCB1,ABCC4,ABCC5,ABCG2	Catalysis	cell	10470083,15456083,16130519,16791115,18364470,18535159,20015290,20504255	"ABCC4","ABCB1","ABCC5","ABCG2"	zidovudine	
+zidovudine	zidovudine	Transport	ABCC4,ABCG2	Catalysis	cell	10470083,16791115	"ABCC4","ABCG2"	zidovudine	
+zidovudine	zidovudine	Transport	SLC22A11,SLC22A6,SLC22A7,SLC22A8,SLC28A1,SLC28A3	Catalysis	cell		"SLC22A6","SLC22A8","SLC22A7","SLC28A1","SLC22A11","SLC28A3"	zidovudine	

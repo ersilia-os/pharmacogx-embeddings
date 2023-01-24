@@ -1,0 +1,161 @@
+{
+  "citations": [
+    {
+      "id": 15109202,
+      "title": "Pharmacogenetics of anti-cancer drugs: State of the art and implementation - recommendations of the French National Network of Pharmacogenetics.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/28262261",
+      "authors": [
+        "Quaranta Sylvie",
+        "Thomas Fabienne"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451127600,
+          "resource": "PubMed",
+          "resourceId": "28262261",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/28262261",
+          "version": 0
+        },
+        {
+          "id": 1451127601,
+          "resource": "DOI",
+          "resourceId": "10.1016/j.therap.2017.01.005",
+          "_url": "http://dx.doi.org/10.1016%2Fj.therap.2017.01.005",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapie",
+      "meshDiseases": [],
+      "meshTerms": [
+        "Antineoplastic Agents",
+        "Dihydrouracil Dehydrogenase (NADP)",
+        "Genotyping Techniques",
+        "Glucuronosyltransferase",
+        "Humans",
+        "Methyltransferases",
+        "Pharmacogenetics",
+        "Pharmacogenomic Testing",
+        "Polymorphism, Genetic"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "205-215",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2017-04-01T00:00:00-07:00",
+      "summary": "Individualized treatment is of special importance in oncology because the drugs used for chemotherapy have a very narrow therapeutic index. Pharmacogenetics may contribute substantially to clinical routine for optimizing cancer treatment to limit toxic effects while maintaining efficacy. This review presents the usefulness of pharmacogenetic tests for some key applications: dihydropyrimidine dehydrogenase (DPYD) genotyping for fluoropyrimidine (5-fluorouracil, capecitabine), UDP glucuronosylstransferase (UGT1A1) for irinotecan and thiopurine S-methyltransferase (TPMT) for thiopurine drugs. Depending on the level of evidence, the French National Network of Pharmacogenetics (RNPGx) has issued three levels of recommendations for these pharmacogenetic tests: essential, advisable, and potentially useful. Other applications, for which the level of evidence is still discussed, will be evoked in the final section of this review.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2017
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166202721",
+    "name": "Annotation of RNPGx Guideline for capecitabine, fluorouracil and DPYD",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1451136660,
+        "date": "2020-05-13T00:00:00-07:00",
+        "description": "Approving to live",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451678162,
+        "date": "2022-02-10T13:50:10.628-08:00",
+        "description": "Added RNPGx as source",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741827,
+        "date": "2022-04-05T14:07:10.870-07:00",
+        "description": "Added testing guidance tag and link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15109202,"title":"Pharmacogenetics of anti-cancer drugs: State of the art and implementation - recommendations of the French National Network of Pharmacogenetics.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/28262261","crossReferences":[{"id":1451127600,"resource":"PubMed","resourceId":"28262261","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28262261"},{"id":1451127601,"resource":"DOI","resourceId":"10.1016/j.therap.2017.01.005","_url":"http://dx.doi.org/10.1016%2Fj.therap.2017.01.005"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166153760",
+        "symbol": "rs3918290",
+        "name": "rs3918290",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153888",
+        "symbol": "rs55886062",
+        "name": "rs55886062",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153889",
+        "symbol": "rs56038477",
+        "name": "rs56038477",
+        "version": 3
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153895",
+        "symbol": "rs67376798",
+        "name": "rs67376798",
+        "version": 4
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA448771",
+        "name": "capecitabine",
+        "version": 19
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA128406956",
+        "name": "fluorouracil",
+        "version": 15
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA145",
+        "symbol": "DPYD",
+        "name": "dihydropyrimidine dehydrogenase",
+        "version": 6907
+      }
+    ],
+    "source": "RNPGx",
+    "summaryMarkdown": {
+      "id": 1451129280,
+      "html": "<p>The French National Network of Pharmacogenetics (Réseau national de pharmacogénétique (RNPGx)) recommends testing for DPYD deficiency before initiating a treatment regimen based on 5-FU or capecitabine, with dose reductions for DPYD partial deficiency and contraindicates fluoropyrimidines in patients with complete deficiency.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451129281,
+      "html": "<p>The French National Network of Pharmacogenetics (RNPGx) publication about the state of the art and clinical implementation — recommendations from the French National Network of Pharmacogenetics for anti-cancer drugs states:</p>\n<blockquote class=\"blockquote\">\n<p>The RNPGx recommends screening for <a href=\"/gene/PA145\">DPYD</a> deficiency\nbefore initiating a treatment regimen based on 5-FU or\ncapecitabine, especially in patients at risk of toxicity\n(protocols using bolus administration or high-doses, fluoropyrimidine toxicity reported in a family member) or in an\nadjuvant situation.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>Phenotyping by determining the serum UH2/U ratio or\nlymphocyte DPD activity is considered essential</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>If phenotyping is not available, genotyping should be\nperformed... genotyping to search for\nthe three consensual variants as proposed by the CPIC\n(*2A <a href=\"/variant/PA166153760\">rs3918290</a>, *13 <a href=\"/variant/PA166153888\">rs55886062</a>, and c.2846A&gt;T <a href=\"/variant/PA166153895\">rs67376798</a>) is advisable.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>If genotyping predicts partial deficiency (patient who\nis heterozygous for one of the alleles *2A, *13, or\nc.2846A&gt;T), dose should be reduced 50% for the first cycle. If a complete deficiency is demonstrated, fluoropyrimidines are contraindicated due to the risk of fatal toxicity with the standard dose.</p>\n</blockquote>\n<p>While the recommendation section text does not mention Hap3B <a href=\"/variant/PA166153889\">rs56038477</a> it is listed in Table 1 and in Table 3 the diplotype *1/HapB3 is given activity score of 1.5 and 75% of standard dose.</p>\n<p><a href=\"/page/testingGuidance\">Read more about the RNPGx levels of recommendation for testing</a>.</p>\n",
+      "version": 1
+    },
+    "userId": "cfthorn",
+    "version": 2
+  }
+}

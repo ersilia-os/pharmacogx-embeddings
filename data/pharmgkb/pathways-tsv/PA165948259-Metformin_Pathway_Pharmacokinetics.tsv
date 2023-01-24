@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+metformin	metformin	Transport	SLC47A1,SLC47A2	Catalysis	cell	17509534,18674516,19164462,19332510	"SLC47A2","SLC47A1"	metformin	
+metformin	metformin	Transport	SLC22A1	Catalysis	"enterocyte","cell"		SLC22A1	metformin	
+metformin	metformin	Transport	SLC22A3,SLC29A4	Catalysis	"cell","enterocyte"		"SLC22A3","SLC29A4"	metformin	
+metformin	metformin	Transport	SLC22A2	Catalysis	"hepatocyte","cell"		SLC22A2	metformin	
+metformin	metformin	Transport	SLC22A1	Catalysis	cell		SLC22A1	metformin	
+metformin	metformin	Transport	SLC47A1	Catalysis	"hepatocyte","cell"		SLC47A1	metformin	
+metformin	metformin	Transport	SLC22A1,SLC22A3	Catalysis	"hepatocyte","cell"	18384255,21241070	"SLC22A3","SLC22A1"	metformin	

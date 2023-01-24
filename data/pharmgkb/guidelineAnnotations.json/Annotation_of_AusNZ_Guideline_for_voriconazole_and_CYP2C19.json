@@ -1,0 +1,128 @@
+{
+  "citations": [
+    {
+      "id": 15126602,
+      "title": "Consensus guidelines for optimising antifungal drug delivery and monitoring to avoid toxicity and improve outcomes in patients with haematological malignancy and haemopoietic stem cell transplant recipients, 2021.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/34937141",
+      "authors": [
+        "Chau Maggie M",
+        "Daveson Kathryn",
+        "Alffenaar Jan-Willem C",
+        "Gwee Amanda",
+        "Ho Su Ann",
+        "Marriott Deborah J E",
+        "Trubiano Jason A",
+        "Zhao Jessie",
+        "Roberts Jason A",
+        "Australasian Antifungal Guidelines Steering Committee"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451632985,
+          "resource": "PubMed",
+          "resourceId": "34937141",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/34937141",
+          "version": 0
+        },
+        {
+          "id": 1451632986,
+          "resource": "DOI",
+          "resourceId": "10.1111/imj.15587",
+          "_url": "http://dx.doi.org/10.1111%2Fimj.15587",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Internal medicine journal",
+      "meshDiseases": [],
+      "meshTerms": [],
+      "month": 11,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "37-66",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2021-11-01T00:00:00-07:00",
+      "summary": "Antifungal agents can have complex dosing and the potential for drug interaction, both of which can lead to subtherapeutic antifungal drug concentrations and poorer clinical outcomes for patients with haematological malignancy and haemopoietic stem cell transplant recipients. Antifungal agents can also be associated with significant toxicities when drug concentrations are too high. Suboptimal dosing can be minimised by clinical assessment, laboratory monitoring, avoidance of interacting drugs, and dose modification. Therapeutic drug monitoring (TDM) plays an increasingly important role in antifungal therapy, particularly for antifungal agents that have an established exposure-response relationship with either a narrow therapeutic window, large dose-exposure variability, cytochrome P450 gene polymorphism affecting drug metabolism, the presence of antifungal drug interactions or unexpected toxicity, and/or concerns for non-compliance or inadequate absorption of oral antifungals. These guidelines provide recommendations on antifungal drug monitoring and TDM-guided dosing adjustment for selected antifungal agents, and include suggested resources for identifying and analysing antifungal drug interactions. Recommended competencies for optimal interpretation of antifungal TDM and dose recommendations are also provided.",
+      "terms": [],
+      "version": 0,
+      "volume": "51 Suppl 7",
+      "year": 2021
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166257241",
+    "name": "Annotation of AusNZ Guideline for voriconazole and CYP2C19",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1451632983,
+        "date": "2022-01-03T00:00:00-08:00",
+        "type": "Create",
+        "version": 1
+      },
+      {
+        "id": 1451678111,
+        "date": "2022-02-10T13:52:17.760-08:00",
+        "description": "Added AusNZ as source",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741820,
+        "date": "2022-04-05T13:53:00.874-07:00",
+        "description": "Added testing guidance tag",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15126602,"title":"Consensus guidelines for optimising antifungal drug delivery and monitoring to avoid toxicity and improve outcomes in patients with haematological malignancy and haemopoietic stem cell transplant recipients, 2021.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/34937141","crossReferences":[{"id":1451632985,"resource":"PubMed","resourceId":"34937141","_url":"https://www.ncbi.nlm.nih.gov/pubmed/34937141"},{"id":1451632986,"resource":"DOI","resourceId":"10.1111/imj.15587","_url":"http://dx.doi.org/10.1111%2Fimj.15587"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": true,
+    "pediatricMarkdown": {
+      "id": 1451632982,
+      "html": "<p>Excerpt from the guideline:</p>\n<blockquote class=\"blockquote\">\n<p>In the paediatric population, consider switching to another antifungal agent if unable to achieve target concentrations with voriconazole 12 mg/kg twice daily for children &lt;12 years of age and young adolescents 12–14 years of age weighing &lt;50 kg.</p>\n</blockquote>\n",
+      "version": 0
+    },
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA10233",
+        "name": "voriconazole",
+        "version": 5
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA124",
+        "symbol": "CYP2C19",
+        "name": "cytochrome P450 family 2 subfamily C member 19",
+        "version": 7209
+      }
+    ],
+    "source": "AusNZ",
+    "summaryMarkdown": {
+      "id": 1451632980,
+      "html": "<p>An alternative antifungal agent should be considered instead of voriconazole in patients who are known to be CYP2C19 ultrarapid metabolizers. CYP2C19 genotyping and use of an alternative antifungal agent is also recommended in patients with subtherapeutic voriconazole serum concentrations despite two dose adjustments.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451632981,
+      "html": "<p>The Australian and New Zealand consensus guidelines for the management of invasive fungal disease and use of antifungal agents in the hematology/oncology setting contain recommendations for the use of voriconazole in the context of CYP2C19 genotype [Article:<a href=\"/pmid/34937141\">34937141</a>].</p>\n<p>Excerpts from the guideline:</p>\n<blockquote class=\"blockquote\">\n<p><strong>Recommendations</strong></p>\n<ul>\n<li>Consider switching to alternative antifungal agent and CYP2C19 genotype testing if voriconazole serum concentrations remain subtherapeutic despite two appropriate dose adjustments (Moderate recommendation, Level III evidence).</li>\n<li>Consider antifungal agents other than voriconazole if patient is a known CYP2C19 ultrarapid metaboliser (Strong recommendation, Level III evidence).</li>\n</ul>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>Higher than standard doses of voriconazole may be required to achieve target exposures in some patients, including those with CYP2C19 genetic variation and, in particular, an ultrarapid metaboliser phenotype. Dosing recommendations for voriconazole treatment from the Clinical Pharmacogenetics Implementation Consortium (CPIC) and the Dutch Pharmacogenetics Working Group (DPWG) for each CYP2C19 phenotype are summarised in Table 8. The population pharmacokinetics/pharmacodynamics model by Mangal et al. proposed voriconazole doses of 500–600mg 12-hourly without pantoprazole, or 400–450mg 12-hourly with pantoprazole, for aspergillosis treatment in adult CYP2C19 ultrarapid or rapid metabolisers.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>If voriconazole concentrations remain subtherapeutic after two appropriate dose adjustments then this suggests the patient may be a rapid/ultrarapid metaboliser. In this case, we recommend considering a switch to an alternative antifungal agent and CYP2C19 genotype testing. However, if this is not clinically appropriate, consider increasing voriconazole frequency, and adding pantoprazole or omeprazole and/or cimetidine, as a CYP450 inhibitor.</p>\n</blockquote>\n",
+      "version": 1
+    },
+    "userId": "rachel",
+    "version": 4
+  }
+}

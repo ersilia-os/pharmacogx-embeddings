@@ -1,0 +1,25 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+AcetylCoA	Mevalonate	Biochemical Reaction	HMGCR	Catalysis	hepatocyte		HMGCR		
+APOA1,APOA4	HDL	Biochemical Reaction	PLTP	Catalysis		10079112,12052475,14695459	"APOA1","APOA4","PLTP"		
+Cholesterol Ester	APOA5,APOB,APOC1,APOC2,APOC3,APOE	Biochemical Reaction	MTTP	Catalysis	hepatocyte	10225972,11588264,1423598,15136504,15864113,1703299,2879788,2932736,565877,6308458,6402711,6413973,6897360,7068630,7848292,8044422,8533758,8688083	"APOC2","APOC1","MTTP","APOC3","APOE","APOB","APOA5"		
+Cholesterol	Cholesterol Ester	Biochemical Reaction	SOAT1	Catalysis	hepatocyte	12621162,15451793	SOAT1		
+Cholesterol	Cholic Acid	Biochemical Reaction	CYP7A1	Catalysis	hepatocyte	10735582,12093894,15262185,15502389,15707388,15910869	CYP7A1		
+Cholesterol	HDL	Biochemical Reaction	LCAT	Catalysis		10799014,11945882,12023990,12174215	LCAT		
+Free FA	Cholesterol Ester	Biochemical Reaction			hepatocyte				
+Free FA	Phospholipid	Biochemical Reaction	DGAT1	Catalysis	hepatocyte	12123490,14569040	DGAT1		
+Free FA	Triglycerides	Biochemical Reaction	DGAT1	Catalysis	hepatocyte	10802663,12031956,12123490,12204791,14569040	DGAT1		
+HDL	Cholesterol	Biochemical Reaction	SCARB1	Catalysis	hepatocyte	12519372,12568179,12788901,12801612,12807968,12816880,15671101,15694942	SCARB1		
+HDL	IDL	Biochemical Reaction				10910363,12663600,14563342,14583798,14660992,14984434,14998629,15071125,15655129,15681846,15856070,16002074,8675707,9420339			
+HDL	VLDL	Biochemical Reaction				10910363,12663600,14563342,14583798,14660992,14984434,14998629,15071125,15655129,15681846,15856070,16002074,8675707,9420339			
+HMGCR	HMGCR	Biochemical Reaction	hmg coa reductase inhibitors	Inhibition	hepatocyte	10665838,11349148,16103896	HMGCR	hmg coa reductase inhibitors	
+IDL	Cholesterol	Biochemical Reaction	LRP1	Catalysis	hepatocyte		LRP1		
+IDL	HDL	Biochemical Reaction							
+IDL	LDL	Biochemical Reaction	LIPC	Catalysis		11171785,1158882,12547874,15126514,15156410,15292318,16115483,16338252	LIPC		
+LDL	Cholesterol	Biochemical Reaction	LDLR,SCARB1	Catalysis	hepatocyte	10736278,10797611,10856535,11071065,11317192,11348882,11500190,11600564,12028507,12059987,12668918,15172466,15530894,15864114,15931608,1940775,226968,2390138,3343347,7605354,7830029,8345800,8462179,9105566,9368827,9591747,9645910	"SCARB1","LDLR"		
+Mevalonate	Squalene	Biochemical Reaction	FDFT1	Catalysis	hepatocyte	7685352	FDFT1		
+Squalene	Cholesterol	Biochemical Reaction	SQLE	Catalysis	hepatocyte		SQLE		
+VLDL	HDL	Biochemical Reaction							
+VLDL	IDL	Biochemical Reaction	LPL	Catalysis		10364086,10407505,15127290,15545743,8675619,8873668,9662394	LPL		
+Cholesterol	Cholesterol	Transport	ABCG5,ABCG8	Catalysis	enterocyte	11099417,11849674,14703505,15175362	"ABCG8","ABCG5"		
+Cholesterol	Cholesterol	Transport	ABCB1	Catalysis	cell	10431236,11349008,11940086,15297675,15474503	ABCB1		
+Cholesterol	Cholesterol	Transport	ABCB1	Catalysis	enterocyte	10431236,11349008,11940086,15297675,15474503	ABCB1		

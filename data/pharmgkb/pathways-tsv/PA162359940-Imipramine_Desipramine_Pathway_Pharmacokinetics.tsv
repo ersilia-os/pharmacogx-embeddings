@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+2-Hydroxydesipramine	2-Hydroxydesipramine glucuronide	Biochemical Reaction			hepatocyte	10319193,16553509,1813901,2687860,2687861,3709631,6467794,7461025			
+2-Hydroxyimipramine	2-Hydroxyimipramine glucuronide	Biochemical Reaction			hepatocyte	10319193,16553509,1813901,2687860,2687861,3709631,6467794,7461025			
+desipramine	2-Hydroxydesipramine	Biochemical Reaction	CYP2D6	Catalysis	hepatocyte	10319193,16553509,1813901,2687860,2687861,3709631,6467794,7461025	CYP2D6	desipramine	
+imipramine	2-Hydroxyimipramine	Biochemical Reaction	CYP2D6	Catalysis	hepatocyte	10319193,16553509,1813901,2687860,2687861,3709631,6467794,7461025	CYP2D6	imipramine	
+imipramine	desipramine	Biochemical Reaction	CYP1A2,CYP2C19,CYP3A4	Catalysis	hepatocyte	10319902,9084901	"CYP1A2","CYP2C19","CYP3A4"	"imipramine","desipramine"	

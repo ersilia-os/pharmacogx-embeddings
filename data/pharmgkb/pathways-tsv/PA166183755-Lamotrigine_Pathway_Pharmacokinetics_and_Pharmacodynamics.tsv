@@ -1,0 +1,27 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+ESR1	UGT1A4	Activation			hepatocyte	24879639	ESR1, UGT1A4			ESR1 activates UGT1A4.
+ESR1	UGT2B7	Activation			hepatocyte	24879639	ESR1, UGT2B7			ESR1 activates UGT2B7.
+NR1I3	UGT2B7	Activation			hepatocyte	24879639, 22371261	NR1I3, UGT2B7			NR1I3 activates UGT2B7.
+ESR1	UGT1A3	Activation			hepatocyte	24879639	ESR1, UGT1A3			ESR1 activates UGT1A3.
+NR1I3	UGT1A4	Activation			hepatocyte	24879639, 22371261	NR1I3, UGT1A4			NR1I3 activates UGT1A4.
+NR1I3	UGT1A3	Activation			hepatocyte	24879639, 22371261	NR1I3, UGT1A3			NR1I3 activates UGT1A3.
+NR1I2	UGT2B7	Activation			hepatocyte	24879639, 22371261	NR1I2, UGT2B7			NR1I2 activates UGT2B7.
+NR1I2	UGT1A4	Activation			hepatocyte	24879639, 22371261	NR1I2, UGT1A4			NR1I2 activates UGT1A4.
+NR1I2	UGT1A3	Activation			hepatocyte	24879639, 22371261	NR1I2, UGT1A3			NR1I2 activates UGT1A3.
+lamotrigine	lamotrigine 2-n-glucuronide	Biochemical Reaction	UGT1A3, UGT1A4, UGT2B7	Gene	hepatocyte	19845433, 19387891, 16565174, 1795036, 1673389		lamotrigine		Biochemical reaction from lamotrigine to lamotrigine 2-n-glucuronide. This interaction can be catalyzed by UGT2B7, UGT1A4 or UGT1A3.
+lamotrigine	N2-methyl lamotrigine	Biochemical Reaction			hepatocyte	1795036		lamotrigine		Biochemical reaction from lamotrigine to N2-methyl lamotrigine.
+lamotrigine	lamotrigine-arene-oxide	Biochemical Reaction	CYP2A6, CYP2D6	Gene	hepatocyte	19961160		lamotrigine		Biochemical reaction from lamotrigine to lamotrigine-arene-oxide. This interaction can be catalyzed by CYP2A6 or CYP2D6.
+lamotrigine	lamotrigine n2-oxide	Biochemical Reaction			hepatocyte	19387891, 1795036		lamotrigine		Biochemical reaction from lamotrigine to lamotrigine n2-oxide.
+lamotrigine-arene-oxide	lamotrigine glutathione adduct	Biochemical Reaction			hepatocyte	19961160				Biochemical reaction from lamotrigine-arene-oxide to lamotrigine glutathione adduct.
+lamotrigine	lamotrigine 5-n-glucuronide	Biochemical Reaction	UGT1A3, UGT1A4, UGT2B7	Gene	hepatocyte	19845433, 19387891, 16565174, 1795036, 1673389		lamotrigine		Biochemical reaction from lamotrigine to lamotrigine 5-n-glucuronide. This interaction can be catalyzed by UGT1A3, UGT1A4 or UGT2B7.
+lamotrigine	SCN	Inhibition			null, neuron	24283699, 24096830, 9765515, 9249262, 7491269, 8394919, 7687190		lamotrigine		lamotrigine inhibits SCN.
+lamotrigine	CACNA1	Inhibition			null, neuron	9778600, 9169293, 8831112, 7687190		lamotrigine		lamotrigine inhibits CACNA1.
+lamotrigine	lamotrigine	Transport	SLC22A1	Gene	null, hepatocyte	27610747, 22227272		lamotrigine		Transport from lamotrigine to lamotrigine. This interaction is catalyzed by SLC22A1.
+lamotrigine glutathione adduct	lamotrigine glutathione adduct	Transport	ABCC1	Gene	hepatocyte, null	19961160				Transport from lamotrigine glutathione adduct to lamotrigine glutathione adduct. This interaction is catalyzed by ABCC1.
+N2-methyl lamotrigine	N2-methyl lamotrigine	Transport	ABCC3, ABCC4	Gene	hepatocyte, null	1795036				Transport from N2-methyl lamotrigine to N2-methyl lamotrigine. This interaction can be catalyzed by ABCC3 or ABCC4.
+lamotrigine n2-oxide	lamotrigine n2-oxide	Transport	ABCC3, ABCC4	Gene	hepatocyte, null	11087428				Transport from lamotrigine n2-oxide to lamotrigine n2-oxide. This interaction can be catalyzed by ABCC4 or ABCC3.
+lamotrigine	lamotrigine	Transport	SLC22A1	Gene	null	27610747, 22227272		lamotrigine		Transport from lamotrigine to lamotrigine. This interaction is catalyzed by SLC22A1.
+lamotrigine 2-n-glucuronide	lamotrigine 2-n-glucuronide	Transport	ABCC2, ABCC3, ABCC4	Gene	hepatocyte, null	24346835, 16472997				Transport from lamotrigine 2-n-glucuronide to lamotrigine 2-n-glucuronide. This interaction can be catalyzed by ABCC2, ABCC4 or ABCC3.
+lamotrigine	lamotrigine	Transport			hepatocyte, null	25645391, 22197850, 19415824, 18824002		lamotrigine		Transport from lamotrigine to lamotrigine.
+lamotrigine 5-n-glucuronide	lamotrigine 5-n-glucuronide	Transport	ABCC2, ABCC3, ABCC4	Gene	hepatocyte, null	24346835, 16472997				Transport from lamotrigine 5-n-glucuronide to lamotrigine 5-n-glucuronide. This interaction can be catalyzed by ABCC4, ABCC2 or ABCC3.
+lamotrigine	lamotrigine	Transport	ABCB1, ABCC2, ABCG2	Gene	null	27610747, 25645391, 23588114, 22197850, 19415824, 18824002, 18835265, 16529607		lamotrigine		Transport from lamotrigine to lamotrigine. This interaction can be catalyzed by ABCB1, ABCC2 or ABCG2.

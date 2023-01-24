@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+bosutinib	desmethylbosutinib	Biochemical Reaction	CYP3A4	Gene	hepatocyte	26402671, 25736937, 21148045		bosutinib		Biochemical reaction from bosutinib to desmethylbosutinib. This interaction is catalyzed by CYP3A4.
+bosutinib	SRC	Inhibition			neoplastic cell	25736937, 17114238	SRC	bosutinib		bosutinib inhibits SRC.
+bosutinib	BCR-ABL	Inhibition			neoplastic cell	23674887, 19039322, 17114238		bosutinib		bosutinib inhibits BCR-ABL (ABL1, BCR).
+ketoconazole	CYP3A4	Inhibition			hepatocyte	21148045	CYP3A4	ketoconazole		ketoconazole inhibits CYP3A4.
+bosutinib	bosutinib	Transport	ABCB1	Gene	neoplastic cell, null	24019750, 19785662		bosutinib		Transport from bosutinib to bosutinib. This interaction is catalyzed by ABCB1.
+bosutinib	bosutinib	Transport			null, neoplastic cell	26402671, 19785662		bosutinib		Transport from bosutinib to bosutinib.
+bosutinib	bosutinib	Transport			hepatocyte, null	26402671, 19785662		bosutinib		Transport from bosutinib to bosutinib.

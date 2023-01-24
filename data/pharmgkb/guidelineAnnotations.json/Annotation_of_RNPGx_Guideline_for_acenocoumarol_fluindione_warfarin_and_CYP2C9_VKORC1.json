@@ -1,0 +1,170 @@
+{
+  "citations": [
+    {
+      "id": 15109262,
+      "title": "Pharmacogenetics in cardiovascular diseases: State of the art and implementation-recommendations of the French National Network of Pharmacogenetics (RNPGx).",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/28237404",
+      "authors": [
+        "Lamoureux Fabien",
+        "Duflot Thomas",
+        "French Network of Pharmacogenetics (RNPGX)"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451127922,
+          "resource": "PubMed",
+          "resourceId": "28237404",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/28237404",
+          "version": 0
+        },
+        {
+          "id": 1451127923,
+          "resource": "DOI",
+          "resourceId": "10.1016/j.therap.2016.09.017",
+          "_url": "http://dx.doi.org/10.1016%2Fj.therap.2016.09.017",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapie",
+      "meshDiseases": [
+        "PA443635"
+      ],
+      "meshTerms": [
+        "Anticoagulants",
+        "Cardiovascular Diseases",
+        "Cytochrome P-450 CYP2C9",
+        "Genotype",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Liver-Specific Organic Anion Transporter 1",
+        "Pharmacogenetics",
+        "Polymorphism, Genetic",
+        "Vitamin K Epoxide Reductases"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "257-267",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2017-04-01T00:00:00-07:00",
+      "summary": "The use of genomic markers to predict drug response and effectiveness has the potential to improve healthcare by increasing drug efficacy and minimizing adverse effects. Polymorphisms associated with inter-individual variability in drug metabolism, transport, or pharmacodynamics of major cardiovascular drugs have been identified. These include single nucleotide polymorphisms (SNP) affecting clinical outcomes in patients receiving antiplatelet agents, oral anticoagulants and statins. Based on clinical evidence supporting genetic testing in the management of cardiovascular diseases using these drug classes, this short review presents clinical guidance regarding current pharmacogenetics implementation in routine medical practice.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2017
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166202621",
+    "name": "Annotation of RNPGx Guideline for acenocoumarol, fluindione, warfarin and CYP2C9, VKORC1",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1451128262,
+        "date": "2020-05-13T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1451741840,
+        "date": "2022-04-05T14:04:54.203-07:00",
+        "description": "Added testing guidance tag and link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15109262,"title":"Pharmacogenetics in cardiovascular diseases: State of the art and implementation-recommendations of the French National Network of Pharmacogenetics (RNPGx).","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/28237404","crossReferences":[{"id":1451127922,"resource":"PubMed","resourceId":"28237404","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28237404"},{"id":1451127923,"resource":"DOI","resourceId":"10.1016/j.therap.2016.09.017","_url":"http://dx.doi.org/10.1016%2Fj.therap.2016.09.017"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816543",
+        "symbol": "CYP2C9*2",
+        "name": "*2",
+        "version": 21
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816544",
+        "symbol": "CYP2C9*3",
+        "name": "*3",
+        "version": 23
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155091",
+        "symbol": "rs9923231",
+        "name": "rs9923231",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155096",
+        "symbol": "rs9934438",
+        "name": "rs9934438",
+        "version": 4
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA452632",
+        "name": "acenocoumarol",
+        "version": 7
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA165980614",
+        "name": "fluindione",
+        "version": 3
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451906",
+        "name": "warfarin",
+        "version": 16
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA126",
+        "symbol": "CYP2C9",
+        "name": "cytochrome P450 family 2 subfamily C member 9",
+        "version": 7876
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA133787052",
+        "symbol": "VKORC1",
+        "name": "vitamin K epoxide reductase complex subunit 1",
+        "version": 15
+      }
+    ],
+    "source": "RNPGx",
+    "summaryMarkdown": {
+      "id": 1451128260,
+      "html": "<p>Testing for VKORC1/CYP2C9 genotype is advisable to determine the optimal dose and to orient the prescription to an alternative therapeutic option such as a direct-action oral anticoagulant before initiating vitamin K antagonists (VKA) treatment. Testing is also advisable to explain an hemorrhagic event or VKA resistance after treatment initiation.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451128261,
+      "html": "<p>The French National Network of Pharmacogenetics (RNPGx) guideline for CYP2C9/VKORC1 and oral vitamin K antagonists (VKA) recommends taking into account the VKORC1/CYP2C9 genotype and non-genetic covariables of VKA exposure. Before initiating VKA treatment (testing is advisable to determine the optimal dose and to orient the prescription to an alternative therapeutic option such as a direct-action oral anticoagulant); after treatment initiation (testing is advisable to explain an hemorrhagic event or VKA resistance).</p>\n<blockquote class=\"blockquote\">\n<p>Recommendations published by the RNPGx correspond to international guidelines issuing from the CPIC and extended to VKAs available in France: fluindione (Préviscan®), acenocoumarol (Sintrom®) and warfarin (Coumadine®). The RNPGx is in favor of taking into account the VKORC1/CYP2C9 genotype and non-genetic covariables of VKA exposure: before initiating VKA treatment (testing is advisable to determine the optimal dose and to orient the prescription to an alternative therapeutic option such as a direct-action oral anticoagulant); after treatment initiation (testing is advisable to explain an hemorrhagic event or VKA resistance).</p>\n<p>The effects of VKORC1 and CYP2C9 polymorphisms are cumulative so that both genotypes should always be considered. In subjects with a homozygous or heterozygous c.-1639A variant of gene VKORC1, the VKORC1 enzyme is expressed less and a standard VKA dose is associated with\nhigher risk of hemorrhage due to overexposure. Patients who are carriers of homozygous or heterozygous alleles CYP2C9*2 or *3 exhibit reduced liver metabolism of VKA and are at risk of over exposure.</p>\n<p>When there is a risk of hemorrhage due to over exposure in patients carriers of one or more of these alleles, the VKA should be initiated at a lower dose (from 20% to 80% of standard dose). This dose adaptation must also take into account the type of VKA used (warfarin, acenocoumarol or fluindione) because of the variable risk impact, the genotype (CYP2C9 and VKORC1), and other cofactors known to influence exposure to VKAs, including: comedication (statins, sulfonamides, amiodarone, azole antifungals. . .); comorbidities (liver diseases, smoking. . .); individual factors (age, ethnic background); and environmental factors (diet. . .). Algorithms have been developed to\noptimize dosage as a function of these covariables. Indications for warfarin doses are given by genotype (VKORC1 and CYP2C9) in Table 2. The dose reduction necessary in patients heterozygous for a mutated allele is about 20—40% of the standard dose, but can reach 90% for patients with two or more mutated alleles. Furthermore, longer drug half-life is susceptible to modify the INR monitoring strategy. As an indication, good control of warfarin concentrations (and thus INR) is reached in 7—8 days in extensive metabolizers while it takes 11 days to reach equilibrium in slow metabolizers.</p>\n<p>Adapted Table 2: Suggested dosage for warfarin (mg/d) as a function of CYP2C9 and VKORC1 genotypes.</p>\n</blockquote>\n<table class=\"table\">\n<thead>\n<tr>\n<th><em>VKORC1</em> Genotype</th>\n<th><em>CYP2C9*1/*1</em></th>\n<th><em>CYP2C9*1/*2</em></th>\n<th><em>CYP2C9*1/*3</em></th>\n<th><em>CYP2C9*2/*2</em></th>\n<th><em>CYP2C9*2/*3</em></th>\n<th><em>CYP2C9*3/*3</em></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>GG</td>\n<td>5-7</td>\n<td>5-7</td>\n<td>3-4</td>\n<td>3-4</td>\n<td>3-4</td>\n<td>0.5-2</td>\n</tr>\n<tr>\n<td>GA</td>\n<td>5-7</td>\n<td>3-4</td>\n<td>3-4</td>\n<td>3-4</td>\n<td>0.5-2</td>\n<td>0.5-2</td>\n</tr>\n<tr>\n<td>AA</td>\n<td>3-4</td>\n<td>3-4</td>\n<td>0.5-2</td>\n<td>0.5-2</td>\n<td>0.5-2</td>\n<td>0.5-2</td>\n</tr>\n</tbody>\n</table>\n<p><a href=\"/page/testingGuidance\">Read more about the RNPGx levels of recommendation for testing</a>.</p>\n",
+      "version": 1
+    },
+    "userId": "lgong",
+    "version": 2
+  }
+}

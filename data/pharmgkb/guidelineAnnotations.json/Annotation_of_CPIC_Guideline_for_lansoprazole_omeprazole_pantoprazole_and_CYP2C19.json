@@ -1,0 +1,995 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166219103",
+    "name": "Annotation of CPIC Guideline for lansoprazole, omeprazole, pantoprazole and CYP2C19",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1451254360,
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/",
+        "_url": "https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/",
+        "version": 0
+      }
+    ],
+    "descriptiveVideoId": "KgRrti8dIRs",
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1451227060,
+        "alleles": [
+          {
+            "id": 1451227061,
+            "_label": "*1",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980634",
+              "symbol": "CYP2C19*1",
+              "name": "*1",
+              "version": 25
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227062,
+            "_label": "*2",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980635",
+              "symbol": "CYP2C19*2",
+              "name": "*2",
+              "version": 25
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227063,
+            "_label": "*3",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980636",
+              "symbol": "CYP2C19*3",
+              "name": "*3",
+              "version": 25
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227064,
+            "_label": "*4",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980637",
+              "symbol": "CYP2C19*4",
+              "name": "*4",
+              "version": 25
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227065,
+            "_label": "*5",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980638",
+              "symbol": "CYP2C19*5",
+              "name": "*5",
+              "version": 25
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227066,
+            "_label": "*6",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816522",
+              "symbol": "CYP2C19*6",
+              "name": "*6",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227067,
+            "_label": "*7",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816523",
+              "symbol": "CYP2C19*7",
+              "name": "*7",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227068,
+            "_label": "*8",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816524",
+              "symbol": "CYP2C19*8",
+              "name": "*8",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227069,
+            "_label": "*9",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816525",
+              "symbol": "CYP2C19*9",
+              "name": "*9",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227070,
+            "_label": "*10",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816526",
+              "symbol": "CYP2C19*10",
+              "name": "*10",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227071,
+            "_label": "*11",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816527",
+              "symbol": "CYP2C19*11",
+              "name": "*11",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227072,
+            "_label": "*12",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816528",
+              "symbol": "CYP2C19*12",
+              "name": "*12",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227073,
+            "_label": "*13",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816529",
+              "symbol": "CYP2C19*13",
+              "name": "*13",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227074,
+            "_label": "*14",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816530",
+              "symbol": "CYP2C19*14",
+              "name": "*14",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227075,
+            "_label": "*15",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816531",
+              "symbol": "CYP2C19*15",
+              "name": "*15",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227076,
+            "_label": "*16",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816532",
+              "symbol": "CYP2C19*16",
+              "name": "*16",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227077,
+            "_label": "*17",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816533",
+              "symbol": "CYP2C19*17",
+              "name": "*17",
+              "version": 29
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227078,
+            "_label": "*18",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816534",
+              "symbol": "CYP2C19*18",
+              "name": "*18",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227079,
+            "_label": "*19",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816535",
+              "symbol": "CYP2C19*19",
+              "name": "*19",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227080,
+            "_label": "*22",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816536",
+              "symbol": "CYP2C19*22",
+              "name": "*22",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227081,
+            "_label": "*23",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816537",
+              "symbol": "CYP2C19*23",
+              "name": "*23",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227082,
+            "_label": "*24",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816538",
+              "symbol": "CYP2C19*24",
+              "name": "*24",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227083,
+            "_label": "*25",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816539",
+              "symbol": "CYP2C19*25",
+              "name": "*25",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227084,
+            "_label": "*26",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816540",
+              "symbol": "CYP2C19*26",
+              "name": "*26",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227085,
+            "_label": "*28",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115675",
+              "symbol": "CYP2C19*28",
+              "name": "*28",
+              "version": 20
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227086,
+            "_label": "*29",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123292",
+              "symbol": "CYP2C19*29",
+              "name": "*29",
+              "version": 19
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227087,
+            "_label": "*30",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123293",
+              "symbol": "CYP2C19*30",
+              "name": "*30",
+              "version": 19
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227088,
+            "_label": "*31",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123294",
+              "symbol": "CYP2C19*31",
+              "name": "*31",
+              "version": 19
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227089,
+            "_label": "*32",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123295",
+              "symbol": "CYP2C19*32",
+              "name": "*32",
+              "version": 19
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227090,
+            "_label": "*33",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123296",
+              "symbol": "CYP2C19*33",
+              "name": "*33",
+              "version": 19
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227091,
+            "_label": "*34",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115676",
+              "symbol": "CYP2C19*34",
+              "name": "*34",
+              "version": 20
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227092,
+            "_label": "*35",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166128094",
+              "symbol": "CYP2C19*35",
+              "name": "*35",
+              "version": 16
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227093,
+            "_label": "*36",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166218471",
+              "symbol": "CYP2C19*36",
+              "name": "*36",
+              "version": 8
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227094,
+            "_label": "*37",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166218472",
+              "symbol": "CYP2C19*37",
+              "name": "*37",
+              "version": 8
+            },
+            "version": 0
+          },
+          {
+            "id": 1451227095,
+            "_label": "*38",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166218473",
+              "symbol": "CYP2C19*38",
+              "name": "*38",
+              "version": 10
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA124",
+          "symbol": "CYP2C19",
+          "name": "cytochrome P450 family 2 subfamily C member 19",
+          "alleleFile": "CYP2C19_allele_definition_table.xlsx",
+          "altNames": {
+            "synonym": [
+              "cytochrome P450, family 2, subfamily C, polypeptide 19"
+            ],
+            "symbol": [
+              "CPCJ",
+              "CYP2C",
+              "P450IIC19"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "q23.33",
+          "cbStop": "q23.33",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA504",
+            "name": "chr10",
+            "version": 3
+          },
+          "chrStartPosB37": 96522463,
+          "chrStartPosB38": 94762681,
+          "chrStopPosB37": 96612671,
+          "chrStopPosB38": 94853205,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553242512,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "1557",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=1557",
+              "version": 0
+            },
+            {
+              "id": 132256028,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000165841",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165841",
+              "version": 0
+            },
+            {
+              "id": 73372,
+              "resource": "GenAtlas",
+              "resourceId": "CYP2C19",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=CYP2C19",
+              "version": 1
+            },
+            {
+              "id": 88300,
+              "resource": "GeneCard",
+              "resourceId": "CYP2C19",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2C19",
+              "version": 1
+            },
+            {
+              "id": 608081307,
+              "resource": "HGNC",
+              "resourceId": "HGNC:2621",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A2621",
+              "version": 1
+            },
+            {
+              "id": 608081309,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS09293",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS09293",
+              "version": 0
+            },
+            {
+              "id": 560874113,
+              "resource": "ModBase",
+              "resourceId": "P33261",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P33261",
+              "version": 0
+            },
+            {
+              "id": 455910,
+              "resource": "MutDB",
+              "resourceId": "CYP2C19",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=CYP2C19",
+              "version": 1
+            },
+            {
+              "id": 10744,
+              "resource": "NCBI Gene",
+              "resourceId": "1557",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/1557",
+              "version": 1
+            },
+            {
+              "id": 716,
+              "resource": "OMIM",
+              "resourceId": "124020",
+              "_url": "https://omim.org/entry/124020",
+              "version": 1
+            },
+            {
+              "id": 560556306,
+              "resource": "OMIM",
+              "resourceId": "609535",
+              "_url": "https://omim.org/entry/609535",
+              "version": 0
+            },
+            {
+              "id": 1451280335,
+              "resource": "PharmVar Gene",
+              "resourceId": "CYP2C19",
+              "_url": "https://www.pharmvar.org/gene/CYP2C19",
+              "version": 0
+            },
+            {
+              "id": 560556305,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_008384",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_008384",
+              "version": 0
+            },
+            {
+              "id": 37037,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_030059",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_030059",
+              "version": 1
+            },
+            {
+              "id": 37896,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000760",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000760",
+              "version": 1
+            },
+            {
+              "id": 46971,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000769",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000769",
+              "version": 1
+            },
+            {
+              "id": 122288,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000769",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000769",
+              "version": 1
+            },
+            {
+              "id": 62333091,
+              "name": "CP2CJ_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P33261",
+              "_url": "https://www.uniprot.org/uniprot/P33261",
+              "version": 1
+            },
+            {
+              "id": 88,
+              "resource": "URL",
+              "resourceId": "http://www.imm.ki.se/CYPalleles/cyp2c19.htm",
+              "_url": "http://www.imm.ki.se/CYPalleles/cyp2c19.htm",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": false,
+          "pharmVarGene": true,
+          "strand": "plus",
+          "terms": [
+            {"id":560498878,"_url":"http://amigo.geneontology.org/amigo/term/GO:0004497","resource":"Gene Ontology","term":"monooxygenase activity","termId":"GO:0004497"},
+            {"id":560500134,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005783","resource":"Gene Ontology","term":"endoplasmic reticulum","termId":"GO:0005783"},
+            {"id":560500141,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005789","resource":"Gene Ontology","term":"endoplasmic reticulum membrane","termId":"GO:0005789"},
+            {"id":560500144,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005792","resource":"Gene Ontology","term":"microsome","termId":"GO:0005792"},
+            {"id":560501294,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008202","resource":"Gene Ontology","term":"steroid metabolic process","termId":"GO:0008202"},
+            {"id":560496176,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008395","resource":"Gene Ontology","term":"steroid hydroxylase activity","termId":"GO:0008395"},
+            {"id":560503412,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009055","resource":"Gene Ontology","term":"electron carrier activity","termId":"GO:0009055"},
+            {"id":560499972,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016020","resource":"Gene Ontology","term":"membrane","termId":"GO:0016020"},
+            {"id":560506711,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016098","resource":"Gene Ontology","term":"monoterpenoid metabolic process","termId":"GO:0016098"},
+            {"id":560495264,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016491","resource":"Gene Ontology","term":"oxidoreductase activity","termId":"GO:0016491"},
+            {"id":560507281,"_url":"http://amigo.geneontology.org/amigo/term/GO:0017144","resource":"Gene Ontology","term":"drug metabolic process","termId":"GO:0017144"},
+            {"id":560508105,"_url":"http://amigo.geneontology.org/amigo/term/GO:0018675","resource":"Gene Ontology","term":"(S)-limonene 6-monooxygenase activity","termId":"GO:0018675"},
+            {"id":560508106,"_url":"http://amigo.geneontology.org/amigo/term/GO:0018676","resource":"Gene Ontology","term":"(S)-limonene 7-monooxygenase activity","termId":"GO:0018676"},
+            {"id":560509226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019825","resource":"Gene Ontology","term":"oxygen binding","termId":"GO:0019825"},
+            {"id":560496866,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019899","resource":"Gene Ontology","term":"enzyme binding","termId":"GO:0019899"},
+            {"id":560509358,"_url":"http://amigo.geneontology.org/amigo/term/GO:0020037","resource":"Gene Ontology","term":"heme binding","termId":"GO:0020037"},
+            {"id":560513624,"_url":"http://amigo.geneontology.org/amigo/term/GO:0033767","resource":"Gene Ontology","term":"4-hydroxyacetophenone monooxygenase activity","termId":"GO:0033767"},
+            {"id":560515690,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042738","resource":"Gene Ontology","term":"exogenous drug catabolic process","termId":"GO:0042738"},
+            {"id":560495388,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046483","resource":"Gene Ontology","term":"heterocycle metabolic process","termId":"GO:0046483"},
+            {"id":560495445,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046872","resource":"Gene Ontology","term":"metal ion binding","termId":"GO:0046872"},
+            {"id":560509993,"_url":"http://amigo.geneontology.org/amigo/term/GO:0055114","resource":"Gene Ontology","term":"oxidation reduction","termId":"GO:0055114"}
+          ],
+          "version": 7209
+        },
+        "version": 0
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451243900,
+        "date": "2020-08-11T13:53:36.705-07:00",
+        "description": "posted",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451612300,
+        "date": "2021-12-09T14:03:12.824-08:00",
+        "description": "Added video",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15113542,"title":"Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2C19 and Proton Pump Inhibitor Dosing.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7868475","crossReferences":[{"id":1451837569,"resource":"PubMed Central","resourceId":"PMC7868475","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7868475"},{"id":1451242280,"resource":"PubMed","resourceId":"32770672","_url":"https://www.ncbi.nlm.nih.gov/pubmed/32770672"},{"id":1451242281,"resource":"DOI","resourceId":"10.1002/cpt.2015","_url":"http://dx.doi.org/10.1002%2Fcpt.2015"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "pediatricMarkdown": {
+      "id": 1451266720,
+      "html": "<p>Guideline excerpt: &quot;The CYP2C19-guided PPI recommendations presented in Table 2 also apply to pediatric patients. ..... A recent pilot study of CYP2C19-genotype-guided dosing of PPIs in children has been promising, and additional studies are ongoing [Articles:<a href=\"/pmid/30341969\">30341969</a>, <a href=\"/pmid/30659924\">30659924</a>]. These reports support genotype-based optimization of PPI therapy for children. However, very low clearance in pre-term infants and infants less than 2-3 months of age [Article:<a href=\"/pmid/20484619\">20484619</a>] makes recommendations in the neonatal population difficult to support.&quot;</p>\n",
+      "version": 0
+    },
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA450180",
+        "name": "lansoprazole",
+        "version": 15
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA450704",
+        "name": "omeprazole",
+        "version": 20
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA450774",
+        "name": "pantoprazole",
+        "version": 14
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA124",
+        "symbol": "CYP2C19",
+        "name": "cytochrome P450 family 2 subfamily C member 19",
+        "version": 7209
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1451226172,
+      "html": "<p>The CPIC Dosing Guideline for omeprazole, lansoprazole, pantoprazole recommends to increase the starting daily dose and to monitor efficacy in CYP2C19 ultrarapid metabolizer. For CYP2C19 rapid and normal metabolizers in the treatment of H. pylori infection and erosive esophagitis increasing the dose might be considered after initiation with the standard starting daily dose. The recommendations for intermediate and poor metabolizer for chronic therapy (&gt;12 weeks) and efficacy achieved is to consider 50% reduction in daily dose. See full guideline for further details and supporting evidence.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433691,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/cpic-guideline-for-proton-pump-inhibitors-and-cyp2c19/\" target=\"_blank\">CPIC&reg; Guideline for CYP2C19 and Proton Pump Inhibitor Dosing</a>.</p>\n<h3 id=\"august-2020\">August 2020</h3>\n<p><em>Advance online publication August 2020.</em></p>\n<ul>\n<li>\n<p>The <a rel=\"noopener noreferrer\" href=\"https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/cpt.2015\" target=\"_blank\">CPIC Guideline for CYP2C19 and Proton Pump Inhibitor Dosing</a> is published in <em>Clinical Pharmacology and Therapeutics</em>.</p>\n</li>\n<li>\n<p>These guidelines are applicable to:</p>\n<ul>\n<li>pediatric patients</li>\n<li>adult patients</li>\n</ul>\n</li>\n<li>\n<p>Excerpts from the 2020 Proton Pump Inhibitor Dosing dosing guideline:</p>\n<ul>\n<li>\n<p>&quot;<em>CYP2C19</em> genotypes have been linked to PPI exposure, with lower exposure associated with treatment failure and higher exposure associated with improved efficacy. Higher exposure of PPIs has also been associated with adverse effects, as has long-term use.&quot;</p>\n</li>\n<li>\n<p>&quot;The RM and UM phenotypes are driven by the presence of the increased function CYP2C19*17 allele. Due to the relatively recent discovery of this variant and because the majority of studies describing associations between CYP2C19 genotype, pharmacokinetics, and pharmacodynamics of PPIs were conducted in Asian populations in whom the CYP2C19*17 allele occurs less frequently, there are limited data on the relationship between CYP2C19*17, pharmacokinetic parameters, acid secretion indices and therapeutic outcomes in CYP2C19 RMs and UMs.&quot;</p>\n</li>\n<li>\n<p>&quot;Nevertheless, the low PPI exposure documented in patients who are CYP2C19 UMs compared to NMs, IMs, and PMs suggests that these individuals may benefit from higher than standard daily doses of PPIs (Tables S1-S3).&quot;</p>\n</li>\n<li>\n<p>&quot; While CYP2C19 NMs are expected to have normal PPI metabolism and clearance, a large body of literature from studies in Asian populations reported an association between CYP2C19 NMs and decreased therapeutic effectiveness with these PPIs (e.g., failure to eradicate H. pylori infection and lower healing rates of erosive esophagitis) compared to CYP2C19 IMs and PMs (Tables S1-S4). Therefore, for CYP2C19 NMs, initiating these PPIs at standard daily doses (e.g., label recommended doses) is generally recommended; however, for H. pylori infection or erosive esophagitis, clinicians may consider increasing the recommended dose for these indications by 50-100% to optimize therapeutic efficacy.&quot;</p>\n</li>\n<li>\n<p>&quot;CYP2C19 IMs and PMs are considered to be “therapeutically advantaged” compared to NMs in terms of efficacy. However, it has been suggested that continued inhibition of acid secretion in individuals taking PPIs chronically who are genotyped as CYP2C19 IMs or PMs may have a higher risk of PPI-related adverse events compared to NM, RM, or UM phenotypes. While the current data are insufficient to make strong dosing recommendations, potential associations of CYP2C19 phenotype and incidence of adverse events (e.g., infections) are emerging.&quot;</p>\n</li>\n<li>\n<p>&quot;<em><strong>Pediatrics</strong></em>: The CYP2C19-guided PPI recommendations presented in Table 2 also apply to pediatric patients. ...... A recent pilot study of CYP2C19-genotype-guided dosing of PPIs in children has been promising, and additional studies are ongoing. These reports support genotype-based optimization of PPI therapy for children. However, very low clearance in pre-term infants and infants less than 2-3 months of age makes recommendations in the neonatal population difficult to support. Additional pediatric considerations are discussed in the Supplemental Material.&quot;</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/2020/32770672.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium guideline for <em>CYP2C19</em> and Proton Pump Inhibitors</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/2020/32770672-supplement.pdf\" target=\"_blank\">2020 supplement</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/cyp2c19RefMaterials\">CYP2C19 Gene-Specific Information Tables</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/Omeprazole-Drug_Resource_Mappings.xlsx\" target=\"_blank\">Omeprazole Drug Resource Mappings</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/Omeprazole_Pre_and_Post_Test_Alerts.xlsx\" target=\"_blank\">Omeprazole Pre and Post Test Alerts and Flow Chart</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/Lansoprazole-Drug_Resource_Mappings.xlsx\" target=\"_blank\">Lansoprazole Drug Resource Mappings</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/Lansoprazole_Pre_and_Post_Test_Alerts.xlsx\" target=\"_blank\">Lansoprazole Pre and Post Test Alerts and Flow Chart</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/Pantoprazole-Drug_Resource_Mappings.xlsx\" target=\"_blank\">Pantoprazole Drug Resource Mappings</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/PPI/Pantoprazole_Pre_and_Post_Test_Alerts.xlsx\" target=\"_blank\">Pantoprazole Pre and Post Test Alerts and Flow Chart</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-recommended-dosing-of-omeprazole-lansoprazole-pantoprazole-by-cyp2c19-phenotype\">Table 1: Recommended dosing of omeprazole, lansoprazole, pantoprazole by CYP2C19 phenotype</h3>\n<p><em>Adapted from Tables 1 and 2 of the 2020 guideline.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype<sup>a</sup></th>\n<th>Genotype</th>\n<th>Examples of genotypes<sup>b</sup></th>\n<th>Implications</th>\n<th>Therapeutic recommendations</th>\n<th>Classification of recommendations<sup>c</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>CYP2C19 Ultrarapid metabolizer</td>\n<td>An individual carrying two increased function alleles</td>\n<td><em>*17/*17</em></td>\n<td>Decreased plasma concentrations of PPIs compared to CYP2C19 NMs; increased risk of therapeutic failure</td>\n<td>Increase starting daily dose by 100%. Daily dose may be given in divided doses. Monitor for efficacy.</td>\n<td>Optional</td>\n</tr>\n<tr>\n<td>CYP2C19 Rapid metabolizer</td>\n<td>An individual carrying one normal function allele and one increased function allele</td>\n<td><em>*1/*17</em></td>\n<td>Decreased plasma concentrations of PPIs compared to CYP2C19 NMs; increased risk of therapeutic failure</td>\n<td>Initiate standard starting daily dose. Consider increasing dose by 50-100% for the treatment of <em>H. pylori</em> infection and erosive esophagitis. Daily dose may be given in divided doses. Monitor for efficacy.</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>CYP2C19 Normal metabolizer</td>\n<td>An individual carrying two normal function alleles</td>\n<td><em>*1/*1</em></td>\n<td>Normal PPI metabolism; may be at increased risk of therapeutic failure compared to CYP2C19 IMs and PMs</td>\n<td>Initiate standard starting daily dose. Consider increasing dose by 50-100% for the treatment of <em>H. pylori</em> infection and erosive esophagitis. Daily dose may be given in divided doses. Monitor for efficacy.</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>CYP2C19 likely intermediate metabolizer <sup>d</sup></td>\n<td>An individual carrying one normal function allele and one decreased function allele or one increased function allele and one decreased function allele or two decreased function alleles</td>\n<td><em>*1/*9, *9/*17, *9/*9</em></td>\n<td>Likely increased plasma concentration of PPI compared to CYP2C19 NMs; likely increased chance of efficacy and potentially toxicity</td>\n<td>Initiate standard starting daily dose. For chronic therapy (&gt;12 weeks) and efficacy achieved, consider 50% reduction in daily dose and monitor for continued efficacy.</td>\n<td>Optional<sup>e</sup></td>\n</tr>\n<tr>\n<td>CYP2C19 intermediate metabolizer</td>\n<td>An individual carrying one normal function allele and one no function allele or one increased function allele and one no function allele</td>\n<td><em>*1/*2, *1/*3, *2/*17, *3/*17</em></td>\n<td>Increased plasma concentration of PPI compared to CYP2C19 NMs; increased chance of efficacy and potentially toxicity</td>\n<td>Initiate standard starting daily dose. For chronic therapy (&gt;12 weeks) and efficacy achieved, consider 50% reduction in daily dose and monitor for continued efficacy.</td>\n<td>Optional</td>\n</tr>\n<tr>\n<td>CYP2C19 likely poor metabolizer <sup>d</sup></td>\n<td>An individual carrying one decreased function allele and one no function allele</td>\n<td><em>*2/*9, *3/*9</em></td>\n<td>Likely increased plasma concentration of PPI compared to CYP2C19 NMs; likely increased chance of efficacy and potentially toxicity</td>\n<td>Initiate standard starting daily dose. For chronic therapy (&gt;12 weeks) and efficacy achieved, consider 50% reduction in daily dose and monitor for continued efficacy.</td>\n<td>Moderate<sup>e</sup></td>\n</tr>\n<tr>\n<td>CYP2C19 poor metabolizer</td>\n<td>An individual carrying two no function alleles</td>\n<td><em>*2/*2, *3/*3, *2/*3</em></td>\n<td>Increased plasma concentration of PPI compared to CYP2C19 NMs; increased chance of efficacy and potentially toxicity</td>\n<td>Initiate standard starting daily dose. For chronic therapy (&gt;12 weeks) and efficacy achieved, consider 50% reduction in daily dose and monitor for continued efficacy.</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>Indeterminate</td>\n<td>An individual carrying one or two uncertain function alleles</td>\n<td><em>*1/*12, *2/*12, *12/*14</em></td>\n<td>N/A</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> The online <a href=\"https://www.pharmgkb.org/page/cyp2c19RefMaterials\">CYP2C19 Frequency Table</a> provides phenotype frequencies for major race/ethnic groups, and the online <a href=\"https://www.pharmgkb.org/page/cyp2c19RefMaterials\">CYP2C19 Diplotype-Phenotype Table</a> provides a complete list of possible diplotypes and phenotype assignments .<br />\n<sup>b</sup> For a complete list of CYP2C19 diplotypes and resulting phenotypes, see the <a href=\"https://www.pharmgkb.org/page/cyp2c19RefMaterials\">CYP2C19 genotype to phenotype table</a>.<br />\n<sup>c</sup> Rating scheme described in Supplement.<br />\n<sup>d</sup> There are limited data to characterize the function of decreased function alleles.<br />\n<sup>e</sup> The strength of recommendation for “likely” phenotypes are the same as their respective confirmed phenotypes. “Likely” indicates the uncertainty in the phenotype assignment, but it is reasonable to apply the recommendation for the confirmed phenotype to the corresponding “likely” phenotype.</p>\n",
+      "version": 1
+    },
+    "userId": "katrin",
+    "version": 5
+  }
+}

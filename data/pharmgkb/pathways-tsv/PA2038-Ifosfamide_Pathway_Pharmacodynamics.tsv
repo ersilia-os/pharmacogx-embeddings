@@ -1,0 +1,19 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+2-chloroethylamine	1,3-oxazolidin-2-one	Biochemical Reaction			cell	8699325			
+4-hydroxyifosfamide	4-ketoifosfamide	Biochemical Reaction	ADH1A,ADH1B,ADH1C,ADH4,ADH5,ADH6,ADH7	Catalysis	cell	12136253,8699325	"ADH4","ADH1C","ADH1B","ADH1A","ADH7","ADH5","ADH6"		
+acrolein	acrylic acid	Biochemical Reaction	ALDH1A1,ALDH3A1	Catalysis	cell		"ALDH3A1","ALDH1A1"		
+acrolein	thioether product	Biochemical Reaction	GSH	Catalysis	cell	8887466			
+aldoifosfamide	4-hydroxyifosfamide	Biochemical Reaction			cell				
+aldoifosfamide	4-hydroxyifosfamide	Biochemical Reaction			cell	9137530			
+aldoifosfamide	alcoifosfamide	Biochemical Reaction	AKR1A1,AKR1B1,AKR1B10	Catalysis	cell		"AKR1B10","AKR1A1","AKR1B1"		
+aldoifosfamide	carboxyifosfamide	Biochemical Reaction	ALDH1A1	Catalysis	cell	8699325	ALDH1A1		
+aldoifosfamide	acrolein,isophosphoramide mustard	Biochemical Reaction			cell	2295063,2754703,8699325			
+chloro-acetaldehyde	chloroacetic acid	Biochemical Reaction	ALDH2	Catalysis	cell		ALDH2		
+isophosphoramide mustard	2-chloroethylamine	Biochemical Reaction			cell	6821629,8699325			
+isophosphoramide mustard	aziridine	Biochemical Reaction			cell	7783148			
+4-hydroxyifosfamide	4-hydroxyifosfamide	Transport			cell	19224214			
+	4-hydroxyifosfamide	Transport		Control	cell	19224214			
+	aldoifosfamide	Transport		Control	cell	19224214			
+	chloro-acetaldehyde	Transport		Control	cell	19224214			
+aldoifosfamide	aldoifosfamide	Transport			cell	19224214			
+chloro-acetaldehyde	chloro-acetaldehyde	Transport			cell	19224214			

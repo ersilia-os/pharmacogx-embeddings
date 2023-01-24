@@ -1,0 +1,1964 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166180457",
+    "name": "Annotation of CPIC Guideline for desflurane, enflurane, halothane, isoflurane, methoxyflurane, sevoflurane, succinylcholine and CACNA1S, RYR1",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1450370704,
+        "name": "CPIC® Guideline for Potent Volatile Anesthetic Agents and Succinylcholine and RYR1 and CACNA1S – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/",
+        "_url": "https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/",
+        "version": 1
+      }
+    ],
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1449732882,
+        "alleles": [
+          {
+            "id": 1449732883,
+            "_label": "c.520C>T",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180430",
+              "symbol": "CACNA1S c.520C>T",
+              "name": "c.520C>T",
+              "version": 3
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732884,
+            "_label": "c.3257G>A",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180431",
+              "symbol": "CACNA1S c.3257G>A",
+              "name": "c.3257G>A",
+              "version": 3
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732934,
+            "_label": "Unknown",
+            "allele": "Unknown",
+            "function": {
+              "id": 1445558512,
+              "description": "for amitriptyline guideline to enter only one CYP gene while the second CYP is set \"Unknown\"",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown",
+              "termId": "haplotypeTags:1445558512",
+              "version": 0
+            },
+            "version": 0
+          },
+          {
+            "id": 1449733226,
+            "_label": "negative for an EMHG - MHS causative CACNA1S variant",
+            "allele": "negative for an EMHG - MHS causative CACNA1S variant",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA85",
+          "symbol": "CACNA1S",
+          "name": "calcium voltage-gated channel subunit alpha1 S",
+          "altNames": {
+            "synonym": [
+              "calcium channel, voltage-dependent, L type, alpha 1S subunit"
+            ],
+            "symbol": [
+              "CACNL1A3",
+              "Cav1.1",
+              "Dihydropyridine Receptor Alpha 1 Subunit",
+              "HOKPP",
+              "MHS5",
+              "hypoPP"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "q32.1",
+          "cbStop": "q32.1",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA503",
+            "name": "chr1",
+            "version": 3
+          },
+          "chrStartPosB37": 201008635,
+          "chrStartPosB38": 201039509,
+          "chrStopPosB37": 201081694,
+          "chrStopPosB38": 201112566,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553244083,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "779",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=779",
+              "version": 0
+            },
+            {
+              "id": 132253974,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000081248",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000081248",
+              "version": 0
+            },
+            {
+              "id": 72139,
+              "resource": "GenAtlas",
+              "resourceId": "CACNA1S",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=CACNA1S",
+              "version": 1
+            },
+            {
+              "id": 87067,
+              "resource": "GeneCard",
+              "resourceId": "CACNA1S",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CACNA1S",
+              "version": 1
+            },
+            {
+              "id": 608177152,
+              "resource": "HGNC",
+              "resourceId": "HGNC:1397",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A1397",
+              "version": 1
+            },
+            {
+              "id": 608177154,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS01391",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS01391",
+              "version": 0
+            },
+            {
+              "id": 570653181,
+              "name": "Ca<sub>v</sub>1.1",
+              "resource": "IUPHAR Receptor",
+              "resourceId": "528",
+              "_url": "https://www.guidetopharmacology.org/GRAC/ObjectDisplayForward?objectId=528",
+              "version": 1
+            },
+            {
+              "id": 560885340,
+              "resource": "ModBase",
+              "resourceId": "Q13698",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q13698",
+              "version": 0
+            },
+            {
+              "id": 454677,
+              "resource": "MutDB",
+              "resourceId": "CACNA1S",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=CACNA1S",
+              "version": 1
+            },
+            {
+              "id": 20926,
+              "resource": "NCBI Gene",
+              "resourceId": "779",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/779",
+              "version": 1
+            },
+            {
+              "id": 422,
+              "resource": "OMIM",
+              "resourceId": "114208",
+              "_url": "https://omim.org/entry/114208",
+              "version": 1
+            },
+            {
+              "id": 560550227,
+              "resource": "OMIM",
+              "resourceId": "170400",
+              "_url": "https://omim.org/entry/170400",
+              "version": 0
+            },
+            {
+              "id": 560550229,
+              "resource": "OMIM",
+              "resourceId": "188580",
+              "_url": "https://omim.org/entry/188580",
+              "version": 0
+            },
+            {
+              "id": 560550228,
+              "resource": "OMIM",
+              "resourceId": "601887",
+              "_url": "https://omim.org/entry/601887",
+              "version": 0
+            },
+            {
+              "id": 560550226,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_009816",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_009816",
+              "version": 0
+            },
+            {
+              "id": 36614,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_004487",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_004487",
+              "version": 1
+            },
+            {
+              "id": 37242,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000060",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000060",
+              "version": 1
+            },
+            {
+              "id": 46317,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000069",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000069",
+              "version": 1
+            },
+            {
+              "id": 121634,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000069",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000069",
+              "version": 1
+            },
+            {
+              "id": 123118690,
+              "name": "CAC1S_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "Q13698",
+              "_url": "https://www.uniprot.org/uniprot/Q13698",
+              "version": 2
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": true,
+          "pharmVarGene": false,
+          "strand": "minus",
+          "terms": [
+            {"id":560496071,"_url":"http://amigo.geneontology.org/amigo/term/GO:0001501","resource":"Gene Ontology","term":"skeletal system development","termId":"GO:0001501"},
+            {"id":560496941,"_url":"http://amigo.geneontology.org/amigo/term/GO:0002074","resource":"Gene Ontology","term":"extraocular skeletal muscle development","termId":"GO:0002074"},
+            {"id":560499634,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005244","resource":"Gene Ontology","term":"voltage-gated ion channel activity","termId":"GO:0005244"},
+            {"id":560499845,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005509","resource":"Gene Ontology","term":"calcium ion binding","termId":"GO:0005509"},
+            {"id":560500078,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005737","resource":"Gene Ontology","term":"cytoplasm","termId":"GO:0005737"},
+            {"id":560500224,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005886","resource":"Gene Ontology","term":"plasma membrane","termId":"GO:0005886"},
+            {"id":560500231,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005891","resource":"Gene Ontology","term":"voltage-gated calcium channel complex","termId":"GO:0005891"},
+            {"id":560501464,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006811","resource":"Gene Ontology","term":"ion transport","termId":"GO:0006811"},
+            {"id":560497002,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006816","resource":"Gene Ontology","term":"calcium ion transport","termId":"GO:0006816"},
+            {"id":560501615,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006936","resource":"Gene Ontology","term":"muscle contraction","termId":"GO:0006936"},
+            {"id":560497868,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006941","resource":"Gene Ontology","term":"striated muscle contraction","termId":"GO:0006941"},
+            {"id":560501705,"_url":"http://amigo.geneontology.org/amigo/term/GO:0007029","resource":"Gene Ontology","term":"endoplasmic reticulum organization","termId":"GO:0007029"},
+            {"id":560502267,"_url":"http://amigo.geneontology.org/amigo/term/GO:0007520","resource":"Gene Ontology","term":"myoblast fusion","termId":"GO:0007520"},
+            {"id":560502275,"_url":"http://amigo.geneontology.org/amigo/term/GO:0007528","resource":"Gene Ontology","term":"neuromuscular junction development","termId":"GO:0007528"},
+            {"id":560502687,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008331","resource":"Gene Ontology","term":"high voltage-gated calcium channel activity","termId":"GO:0008331"},
+            {"id":560505993,"_url":"http://amigo.geneontology.org/amigo/term/GO:0015270","resource":"Gene Ontology","term":"dihydropyridine-sensitive calcium channel activity","termId":"GO:0015270"},
+            {"id":560500226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016021","resource":"Gene Ontology","term":"integral to membrane","termId":"GO:0016021"},
+            {"id":560507018,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016529","resource":"Gene Ontology","term":"sarcoplasmic reticulum","termId":"GO:0016529"},
+            {"id":560510283,"_url":"http://amigo.geneontology.org/amigo/term/GO:0030315","resource":"Gene Ontology","term":"T-tubule","termId":"GO:0030315"},
+            {"id":560511539,"_url":"http://amigo.geneontology.org/amigo/term/GO:0031674","resource":"Gene Ontology","term":"I band","termId":"GO:0031674"},
+            {"id":560505637,"_url":"http://amigo.geneontology.org/amigo/term/GO:0043501","resource":"Gene Ontology","term":"skeletal muscle adaptation","termId":"GO:0043501"},
+            {"id":560522109,"_url":"http://amigo.geneontology.org/amigo/term/GO:0055001","resource":"Gene Ontology","term":"muscle cell development","termId":"GO:0055001"},
+            {"id":560501512,"_url":"http://amigo.geneontology.org/amigo/term/GO:0055085","resource":"Gene Ontology","term":"transmembrane transport","termId":"GO:0055085"}
+          ],
+          "version": 19
+        },
+        "version": 0
+      },
+      {
+        "id": 1449732881,
+        "alleles": [
+          {
+            "id": 1449732885,
+            "_label": "c.103T>C",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180378",
+              "symbol": "RYR1 c.103T>C",
+              "name": "c.103T>C",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732886,
+            "_label": "c.130C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180379",
+              "symbol": "RYR1 c.130C>T",
+              "name": "c.130C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732887,
+            "_label": "c.487C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180380",
+              "symbol": "RYR1 c.487C>T",
+              "name": "c.487C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732888,
+            "_label": "c.488G>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180381",
+              "symbol": "RYR1 c.488G>T",
+              "name": "c.488G>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732890,
+            "_label": "c.742G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180383",
+              "symbol": "RYR1 c.742G>A",
+              "name": "c.742G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732889,
+            "_label": "c.742G>C",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180382",
+              "symbol": "RYR1 c.742G>C",
+              "name": "c.742G>C",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732891,
+            "_label": "c.982C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180384",
+              "symbol": "RYR1 c.982C>T",
+              "name": "c.982C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732892,
+            "_label": "c.1021G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180385",
+              "symbol": "RYR1 c.1021G>A",
+              "name": "c.1021G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732893,
+            "_label": "c.1021G>C",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180386",
+              "symbol": "RYR1 c.1021G>C",
+              "name": "c.1021G>C",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732894,
+            "_label": "c.1201C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180387",
+              "symbol": "RYR1 c.1201C>T",
+              "name": "c.1201C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732895,
+            "_label": "c.1209C>G",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180388",
+              "symbol": "RYR1 c.1209C>G",
+              "name": "c.1209C>G",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732896,
+            "_label": "c.1565A>C",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180389",
+              "symbol": "RYR1 c.1565A>C",
+              "name": "c.1565A>C",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732897,
+            "_label": "c.1589G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180390",
+              "symbol": "RYR1 c.1589G>A",
+              "name": "c.1589G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732898,
+            "_label": "c.1597C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180391",
+              "symbol": "RYR1 c.1597C>T",
+              "name": "c.1597C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732899,
+            "_label": "c.1598G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180392",
+              "symbol": "RYR1 c.1598G>A",
+              "name": "c.1598G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732900,
+            "_label": "c.1654C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180393",
+              "symbol": "RYR1 c.1654C>T",
+              "name": "c.1654C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732901,
+            "_label": "c.1840C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180394",
+              "symbol": "RYR1 c.1840C>T",
+              "name": "c.1840C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732902,
+            "_label": "c.1841G>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180395",
+              "symbol": "RYR1 c.1841G>T",
+              "name": "c.1841G>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732903,
+            "_label": "c.6487C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180396",
+              "symbol": "RYR1 c.6487C>T",
+              "name": "c.6487C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732904,
+            "_label": "c.6488G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180397",
+              "symbol": "RYR1 c.6488G>A",
+              "name": "c.6488G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732905,
+            "_label": "c.6502G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180398",
+              "symbol": "RYR1 c.6502G>A",
+              "name": "c.6502G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732906,
+            "_label": "c.6617C>G",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180399",
+              "symbol": "RYR1 c.6617C>G",
+              "name": "c.6617C>G",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732907,
+            "_label": "c.6617C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180400",
+              "symbol": "RYR1 c.6617C>T",
+              "name": "c.6617C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732908,
+            "_label": "c.7007G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180401",
+              "symbol": "RYR1 c.7007G>A",
+              "name": "c.7007G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1451269020,
+            "_label": "c.7042_7044delGAG",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166224181",
+              "symbol": "RYR1 c.7042_7044delGAG",
+              "name": "c.7042_7044delGAG",
+              "version": 3
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732910,
+            "_label": "c.7048G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180403",
+              "symbol": "RYR1 c.7048G>A",
+              "name": "c.7048G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732911,
+            "_label": "c.7063C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180404",
+              "symbol": "RYR1 c.7063C>T",
+              "name": "c.7063C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732912,
+            "_label": "c.7124G>C",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180405",
+              "symbol": "RYR1 c.7124G>C",
+              "name": "c.7124G>C",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732913,
+            "_label": "c.7282G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180406",
+              "symbol": "RYR1 c.7282G>A",
+              "name": "c.7282G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732914,
+            "_label": "c.7300G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180407",
+              "symbol": "RYR1 c.7300G>A",
+              "name": "c.7300G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732915,
+            "_label": "c.7304G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180408",
+              "symbol": "RYR1 c.7304G>A",
+              "name": "c.7304G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732916,
+            "_label": "c.7354C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180409",
+              "symbol": "RYR1 c.7354C>T",
+              "name": "c.7354C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732917,
+            "_label": "c.7360C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180410",
+              "symbol": "RYR1 c.7360C>T",
+              "name": "c.7360C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732918,
+            "_label": "c.7361G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180411",
+              "symbol": "RYR1 c.7361G>A",
+              "name": "c.7361G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732919,
+            "_label": "c.7372C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180412",
+              "symbol": "RYR1 c.7372C>T",
+              "name": "c.7372C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732920,
+            "_label": "c.7373G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180413",
+              "symbol": "RYR1 c.7373G>A",
+              "name": "c.7373G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732922,
+            "_label": "c.7522C>G",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180415",
+              "symbol": "RYR1 c.7522C>G",
+              "name": "c.7522C>G",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732921,
+            "_label": "c.7522C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180414",
+              "symbol": "RYR1 c.7522C>T",
+              "name": "c.7522C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732923,
+            "_label": "c.7523G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180416",
+              "symbol": "RYR1 c.7523G>A",
+              "name": "c.7523G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732924,
+            "_label": "c.9310G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180417",
+              "symbol": "RYR1 c.9310G>A",
+              "name": "c.9310G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732925,
+            "_label": "c.11969G>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180418",
+              "symbol": "RYR1 c.11969G>T",
+              "name": "c.11969G>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732926,
+            "_label": "c.14387A>G",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180419",
+              "symbol": "RYR1 c.14387A>G",
+              "name": "c.14387A>G",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732927,
+            "_label": "c.14477C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180420",
+              "symbol": "RYR1 c.14477C>T",
+              "name": "c.14477C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732928,
+            "_label": "c.14497C>T",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180421",
+              "symbol": "RYR1 c.14497C>T",
+              "name": "c.14497C>T",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732929,
+            "_label": "c.14512C>G",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180422",
+              "symbol": "RYR1 c.14512C>G",
+              "name": "c.14512C>G",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732930,
+            "_label": "c.14545G>A",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180423",
+              "symbol": "RYR1 c.14545G>A",
+              "name": "c.14545G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732931,
+            "_label": "c.14582G>A",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180424",
+              "symbol": "RYR1 c.14582G>A",
+              "name": "c.14582G>A",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732932,
+            "_label": "c.14693T>C",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166180425",
+              "symbol": "RYR1 c.14693T>C",
+              "name": "c.14693T>C",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449733227,
+            "_label": "negative for an EMHG - MHS causative RYR1 variant",
+            "allele": "negative for an EMHG - MHS causative RYR1 variant",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1449732936,
+            "_label": "Unknown",
+            "allele": "Unknown",
+            "function": {
+              "id": 1445558512,
+              "description": "for amitriptyline guideline to enter only one CYP gene while the second CYP is set \"Unknown\"",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown",
+              "termId": "haplotypeTags:1445558512",
+              "version": 0
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA34896",
+          "symbol": "RYR1",
+          "name": "ryanodine receptor 1",
+          "altNames": {
+            "synonym": [
+              "protein phosphatase 1, regulatory subunit 137",
+              "ryanodine receptor 1 (skeletal)"
+            ],
+            "symbol": [
+              "CCO",
+              "MHS",
+              "MHS1",
+              "PPP1R137",
+              "RYR"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "q13.2",
+          "cbStop": "q13.2",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA520",
+            "name": "chr19",
+            "version": 3
+          },
+          "chrStartPosB37": 38924340,
+          "chrStartPosB38": 38433700,
+          "chrStopPosB37": 39078204,
+          "chrStopPosB38": 38587564,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553245915,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "6261",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=6261",
+              "version": 0
+            },
+            {
+              "id": 132268622,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000196218",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000196218",
+              "version": 0
+            },
+            {
+              "id": 82150,
+              "resource": "GenAtlas",
+              "resourceId": "RYR1",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=RYR1",
+              "version": 1
+            },
+            {
+              "id": 97078,
+              "resource": "GeneCard",
+              "resourceId": "RYR1",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=RYR1",
+              "version": 1
+            },
+            {
+              "id": 606354697,
+              "resource": "HGNC",
+              "resourceId": "HGNC:10483",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A10483",
+              "version": 1
+            },
+            {
+              "id": 560880215,
+              "resource": "ModBase",
+              "resourceId": "P21817",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P21817",
+              "version": 0
+            },
+            {
+              "id": 464688,
+              "resource": "MutDB",
+              "resourceId": "RYR1",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=RYR1",
+              "version": 1
+            },
+            {
+              "id": 18990,
+              "resource": "NCBI Gene",
+              "resourceId": "6261",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/6261",
+              "version": 1
+            },
+            {
+              "id": 560554647,
+              "resource": "OMIM",
+              "resourceId": "117000",
+              "_url": "https://omim.org/entry/117000",
+              "version": 0
+            },
+            {
+              "id": 560554646,
+              "resource": "OMIM",
+              "resourceId": "145600",
+              "_url": "https://omim.org/entry/145600",
+              "version": 0
+            },
+            {
+              "id": 2233,
+              "resource": "OMIM",
+              "resourceId": "180901",
+              "_url": "https://omim.org/entry/180901",
+              "version": 1
+            },
+            {
+              "id": 560554648,
+              "resource": "OMIM",
+              "resourceId": "255320",
+              "_url": "https://omim.org/entry/255320",
+              "version": 0
+            },
+            {
+              "id": 560527458,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_008866",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_008866",
+              "version": 0
+            },
+            {
+              "id": 36835,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_011109",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_011109",
+              "version": 1
+            },
+            {
+              "id": 37696,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000531",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000531",
+              "version": 1
+            },
+            {
+              "id": 560554645,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_001036188",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_001036188",
+              "version": 0
+            },
+            {
+              "id": 46771,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000540",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000540",
+              "version": 1
+            },
+            {
+              "id": 560554644,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_001042723",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001042723",
+              "version": 0
+            },
+            {
+              "id": 122088,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000540",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000540",
+              "version": 1
+            },
+            {
+              "id": 123477598,
+              "name": "RYR1_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P21817",
+              "_url": "https://www.uniprot.org/uniprot/P21817",
+              "version": 2
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": true,
+          "pharmVarGene": false,
+          "strand": "plus",
+          "terms": [
+            {"id":560496305,"_url":"http://amigo.geneontology.org/amigo/term/GO:0001666","resource":"Gene Ontology","term":"response to hypoxia","termId":"GO:0001666"},
+            {"id":560496173,"_url":"http://amigo.geneontology.org/amigo/term/GO:0004872","resource":"Gene Ontology","term":"receptor activity","termId":"GO:0004872"},
+            {"id":560499604,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005216","resource":"Gene Ontology","term":"ion channel activity","termId":"GO:0005216"},
+            {"id":560499611,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005219","resource":"Gene Ontology","term":"ryanodine-sensitive calcium-release channel activity","termId":"GO:0005219"},
+            {"id":560499636,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005245","resource":"Gene Ontology","term":"voltage-gated calcium channel activity","termId":"GO:0005245"},
+            {"id":560499845,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005509","resource":"Gene Ontology","term":"calcium ion binding","termId":"GO:0005509"},
+            {"id":560495229,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005515","resource":"Gene Ontology","term":"protein binding","termId":"GO:0005515"},
+            {"id":560499850,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005516","resource":"Gene Ontology","term":"calmodulin binding","termId":"GO:0005516"},
+            {"id":560495464,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005624","resource":"Gene Ontology","term":"membrane fraction","termId":"GO:0005624"},
+            {"id":560500078,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005737","resource":"Gene Ontology","term":"cytoplasm","termId":"GO:0005737"},
+            {"id":560500142,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005790","resource":"Gene Ontology","term":"smooth endoplasmic reticulum","termId":"GO:0005790"},
+            {"id":560500224,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005886","resource":"Gene Ontology","term":"plasma membrane","termId":"GO:0005886"},
+            {"id":560500225,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005887","resource":"Gene Ontology","term":"integral to plasma membrane","termId":"GO:0005887"},
+            {"id":560500284,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005938","resource":"Gene Ontology","term":"cell cortex","termId":"GO:0005938"},
+            {"id":560501464,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006811","resource":"Gene Ontology","term":"ion transport","termId":"GO:0006811"},
+            {"id":560497002,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006816","resource":"Gene Ontology","term":"calcium ion transport","termId":"GO:0006816"},
+            {"id":560501615,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006936","resource":"Gene Ontology","term":"muscle contraction","termId":"GO:0006936"},
+            {"id":560505594,"_url":"http://amigo.geneontology.org/amigo/term/GO:0014701","resource":"Gene Ontology","term":"junctional sarcoplasmic reticulum membrane","termId":"GO:0014701"},
+            {"id":560505653,"_url":"http://amigo.geneontology.org/amigo/term/GO:0014802","resource":"Gene Ontology","term":"terminal cisterna","termId":"GO:0014802"},
+            {"id":560499610,"_url":"http://amigo.geneontology.org/amigo/term/GO:0015278","resource":"Gene Ontology","term":"calcium-release channel activity","termId":"GO:0015278"},
+            {"id":560507018,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016529","resource":"Gene Ontology","term":"sarcoplasmic reticulum","termId":"GO:0016529"},
+            {"id":560510282,"_url":"http://amigo.geneontology.org/amigo/term/GO:0030314","resource":"Gene Ontology","term":"junctional membrane complex","termId":"GO:0030314"},
+            {"id":560510283,"_url":"http://amigo.geneontology.org/amigo/term/GO:0030315","resource":"Gene Ontology","term":"T-tubule","termId":"GO:0030315"},
+            {"id":560510925,"_url":"http://amigo.geneontology.org/amigo/term/GO:0031000","resource":"Gene Ontology","term":"response to caffeine","termId":"GO:0031000"},
+            {"id":560511539,"_url":"http://amigo.geneontology.org/amigo/term/GO:0031674","resource":"Gene Ontology","term":"I band","termId":"GO:0031674"},
+            {"id":560505663,"_url":"http://amigo.geneontology.org/amigo/term/GO:0051209","resource":"Gene Ontology","term":"release of sequestered calcium ion into cytosol","termId":"GO:0051209"},
+            {"id":560501915,"_url":"http://amigo.geneontology.org/amigo/term/GO:0051480","resource":"Gene Ontology","term":"cytosolic calcium ion homeostasis","termId":"GO:0051480"},
+            {"id":560501512,"_url":"http://amigo.geneontology.org/amigo/term/GO:0055085","resource":"Gene Ontology","term":"transmembrane transport","termId":"GO:0055085"}
+          ],
+          "version": 131
+        },
+        "version": 2
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1450072941,
+        "date": "2018-12-05T00:00:00-08:00",
+        "type": "Update",
+        "version": 1
+      },
+      {
+        "id": 1450820287,
+        "date": "2019-10-01T00:07:54.234-07:00",
+        "description": "corrected c.488G>A to c.488G>T",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451263880,
+        "date": "2020-09-15T06:56:27.250-07:00",
+        "description": "Added tags for rs1800559 and rs772226819",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451440640,
+        "date": "2021-05-18T09:16:25.433-07:00",
+        "description": "Fixed markdown error",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451590503,
+        "date": "2021-11-19T00:00:00-08:00",
+        "description": "added November 2021 update text and removed c.1589G>A p.(Arg530His) and c.1598G>A p.(Arg533His) from the table of the guideline annotation",
+        "type": "Update",
+        "version": 1
+      },
+      {
+        "id": 1451590521,
+        "date": "2021-11-19T19:35:01.429-08:00",
+        "description": "added rsID tags for RYR1 variants",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15101548,"title":"Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for the Use of Potent Volatile Anesthetic Agents and Succinylcholine in the Context of RYR1 or CACNA1S Genotypes.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513720","crossReferences":[{"id":1451837620,"resource":"PubMed Central","resourceId":"PMC6513720","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6513720"},{"id":1450044284,"resource":"PubMed","resourceId":"30499100","_url":"https://www.ncbi.nlm.nih.gov/pubmed/30499100"},{"id":1450044285,"resource":"DOI","resourceId":"10.1002/cpt.1319","_url":"http://dx.doi.org/10.1002%2Fcpt.1319"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15102220,"title":"CPIC® Guideline for Potent Volatile Anesthetic Agents and Succinylcholine and RYR1 and CACNA1S – CPIC","_sameAs":"https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/","crossReferences":[{"id":1450370704,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/","_url":"https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "pediatricMarkdown": {
+      "id": 1451266700,
+      "html": "<p>Guideline excerpt: &quot;The identification of a causative variant associated with MHS in a parent should lead to complete evaluation of all at-risk family members, including children. Genetic cascade testing may be sufficient to determine the MHS status of relatives. However, there is some controversy regarding the risk status of individuals who test negative for the familial variant. In addition, the complementary roles of IVCT or CHCT and genetic testing are not fully determined. These issues should be addressed in each family by an expert in the genetics of MHS. Triggering agents are relatively contraindicated (i.e., these agents should almost never be used) in all patients with MHS, regardless of age.&quot;</p>\n",
+      "version": 0
+    },
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166155524",
+        "symbol": "rs111888148",
+        "name": "rs111888148",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155526",
+        "symbol": "rs112563513",
+        "name": "rs112563513",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155528",
+        "symbol": "rs118192116",
+        "name": "rs118192116",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155529",
+        "symbol": "rs118192122",
+        "name": "rs118192122",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155531",
+        "symbol": "rs118192124",
+        "name": "rs118192124",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155532",
+        "symbol": "rs118192161",
+        "name": "rs118192161",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155533",
+        "symbol": "rs118192162",
+        "name": "rs118192162",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155534",
+        "symbol": "rs118192163",
+        "name": "rs118192163",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155535",
+        "symbol": "rs118192167",
+        "name": "rs118192167",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166163669",
+        "symbol": "rs118192168",
+        "name": "rs118192168",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155536",
+        "symbol": "rs118192170",
+        "name": "rs118192170",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155537",
+        "symbol": "rs118192172",
+        "name": "rs118192172",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155538",
+        "symbol": "rs118192175",
+        "name": "rs118192175",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155539",
+        "symbol": "rs118192176",
+        "name": "rs118192176",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155540",
+        "symbol": "rs118192177",
+        "name": "rs118192177",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155541",
+        "symbol": "rs118192178",
+        "name": "rs118192178",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155543",
+        "symbol": "rs121918592",
+        "name": "rs121918592",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155544",
+        "symbol": "rs121918593",
+        "name": "rs121918593",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155545",
+        "symbol": "rs121918594",
+        "name": "rs121918594",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155546",
+        "symbol": "rs121918595",
+        "name": "rs121918595",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166177994",
+        "symbol": "rs121918596",
+        "name": "rs121918596",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166180325",
+        "symbol": "rs144336148",
+        "name": "rs144336148",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153638",
+        "symbol": "rs1800559",
+        "name": "rs1800559",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155375",
+        "symbol": "rs1801086",
+        "name": "rs1801086",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155564",
+        "symbol": "rs193922747",
+        "name": "rs193922747",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166180322",
+        "symbol": "rs193922748",
+        "name": "rs193922748",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155565",
+        "symbol": "rs193922753",
+        "name": "rs193922753",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166180323",
+        "symbol": "rs193922762",
+        "name": "rs193922762",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166176176",
+        "symbol": "rs193922764",
+        "name": "rs193922764",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166180324",
+        "symbol": "rs193922768",
+        "name": "rs193922768",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155567",
+        "symbol": "rs193922770",
+        "name": "rs193922770",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155568",
+        "symbol": "rs193922772",
+        "name": "rs193922772",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155569",
+        "symbol": "rs193922802",
+        "name": "rs193922802",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155570",
+        "symbol": "rs193922803",
+        "name": "rs193922803",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155571",
+        "symbol": "rs193922807",
+        "name": "rs193922807",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155572",
+        "symbol": "rs193922809",
+        "name": "rs193922809",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155573",
+        "symbol": "rs193922816",
+        "name": "rs193922816",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155574",
+        "symbol": "rs193922818",
+        "name": "rs193922818",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166163667",
+        "symbol": "rs193922832",
+        "name": "rs193922832",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166163663",
+        "symbol": "rs193922843",
+        "name": "rs193922843",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155575",
+        "symbol": "rs193922876",
+        "name": "rs193922876",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155576",
+        "symbol": "rs193922878",
+        "name": "rs193922878",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155481",
+        "symbol": "rs28933396",
+        "name": "rs28933396",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155482",
+        "symbol": "rs28933397",
+        "name": "rs28933397",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155516",
+        "symbol": "rs63749869",
+        "name": "rs63749869",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153940",
+        "symbol": "rs772226819",
+        "name": "rs772226819",
+        "version": 4
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA164749136",
+        "name": "desflurane",
+        "version": 6
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA449461",
+        "name": "enflurane",
+        "version": 9
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA449845",
+        "name": "halothane",
+        "version": 16
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA450106",
+        "name": "isoflurane",
+        "version": 5
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA450434",
+        "name": "methoxyflurane",
+        "version": 6
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451341",
+        "name": "sevoflurane",
+        "version": 7
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451522",
+        "name": "succinylcholine",
+        "version": 6
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA85",
+        "symbol": "CACNA1S",
+        "name": "calcium voltage-gated channel subunit alpha1 S",
+        "version": 19
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA34896",
+        "symbol": "RYR1",
+        "name": "ryanodine receptor 1",
+        "version": 131
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1449732232,
+      "html": "<p>The CPIC Dosing Guideline recommends that halogenated volatile anesthetics such as desflurane, enflurane, halothane, isoflurane, methoxyflurane, sevoflurane and the depolarizing muscle relaxants succinylcholine are relatively contraindicated in persons with malignant hyperthermia susceptibility (MHS). See full guideline for disclaimers, further details and supporting evidence.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433624,
+      "html": "<p>This annotation is based on the CPIC&reg; guideline for <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/cpic-guideline-for-ryr1-and-cacna1s/\" target=\"_blank\">potent volatile anesthetic agents and succinylcholine and RYR1 and CACNA1S</a>.</p>\n<h3 id=\"november-2021-update\">November 2021 update</h3>\n<p>Subsequent to the publication of the CPIC guideline for RYR1 and malignant hyperthermia [Article:<a href=\"/pmid/30499100\">30499100</a>], the ClinGen variant curation expert panel (VCEP) developed and published recommendations for RYR1 pathogenicity classifications in malignant hyperthermia susceptibility. These revised ACMG/AMP criteria were applied to the 44 variants originally included in the CPIC recommendations and 29 variants were classified as pathogenic, 13 as likely pathogenic, and 2 as variants of uncertain significance [Article:<a href=\"/pmid/33767344\">33767344</a>]. Based on this classification, the assignment for the variants c.1589G&gt;A p.(Arg530His) and c.1598G&gt;A p.(Arg533His) has been changed from “malignant hyperthermia-associated” to “uncertain function” in the RYR1 allele functionality table. Additional variants beyond these 44 have been identified by the VCEP and the current CPIC authors are reviewing these variants for inclusion in the CPIC tables.</p>\n<h3 id=\"september-2019-update\">September 2019 update</h3>\n<p>The published version of this article included a typographical error in Table 1 and in the supplemental tables: RYR1 c.488G&gt;A should instead be listed as RYR1 c.488G&gt;T. The Table 1 in guideline, RYR1 allele definition table, RYR1 allele functionality table, and RYR1 frequency table have been updated accordingly.</p>\n<h3 id=\"november-2018\">November 2018</h3>\n<p><em>Advance online publication November 2018</em></p>\n<ul>\n<li>The CPIC guidelines regarding the use of potent volatile anesthetic agents and succinylcholine in the context of <em>RYR1</em> or <em>CACNA1S</em> genotypes is published in <em>Clinical Pharmacology and Therapeutics</em> by the Clinical Pharmacogenetics Implementation Consortium (CPIC).</li>\n<li>Excerpts from the 2018 dosing guideline:\n<ul>\n<li>&quot;The diagnosis of malignant hyperthermia susceptibility (MHS) is made by one of two criteria: (a) positive response to an in vitro muscle bioassay, such as the in vitro contracture test (IVCT), or the caffeine-halothane contracture test (CHCT) as it is known in the United States; or (b) the presence of a pathogenic variant in <em>RYR1</em> or <em>CACNA1S</em> found by molecular genetic testing.&quot;</li>\n<li>&quot;MHS is inherited in an autosomal dominant pattern and a heterozygous genotype of a pathogenic variant in <em>RYR1</em> can be considered as diagnostic of the trait.&quot;</li>\n<li>&quot;The guidelines focus on the clinical utility of the identification of variants in these genes in individuals without a personal or family history of a reaction to these drugs or agents.&quot;</li>\n<li>&quot;The literature review focused on 48 <em>RYR1</em> and 2 <em>CACNA1S</em> variants accepted as ‘diagnostic mutations’ by the European Malignant Hyperthermia Group (EMHG).&quot;</li>\n<li>&quot;The lack of inclusion of a variant in this guideline should not be interpreted to mean that we have judged them to be benign.&quot;</li>\n<li>&quot;A result that is negative, or a result that detects a variant that is not among the 50 listed here, is more difficult to interpret....The interpretation of a negative genetic testing result in an at-risk individual who is related to a person with MHS and a pathogenic variant is complex and controversial and is outside the scope of this recommendation.&quot;</li>\n<li>&quot;An individual negative for an <em>RYR1</em>- or <em>CACNA1S</em>-associated malignant hyperthermia ‘diagnostic mutation’ as designated by the EMHG, should be considered to have uncertain susceptibility. A negative result does not eliminate the chance that this patient is susceptible to malignant hyperthermia.&quot;</li>\n<li>&quot;There is less experience with MHS in children as compared to adults, but unpublished observations suggest that the risk of an MH reaction may be higher when an anesthetic is administered in childhood. The identification of a causative variant associated with MHS in a parent should lead to complete evaluation of all at risk family members, including children.&quot;</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/volatile_anesthetic_succinylcholine/2018/30499100.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for the use of potent volatile anesthetic agents and succinylcholine in the context of <em>RYR1</em> or <em>CACNA1S</em> genotypes</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/volatile_anesthetic_succinylcholine/2018/30499100-supplement.pdf\" target=\"_blank\">2018 supplement</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/ryr1RefMaterials\">Gene-specific Information Tables for RYR1</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/cacna1sRefMaterials\">Gene-specific Information Tables for CACNA1S</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/volatile_anesthetic_succinylcholine/Desflurane_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Desflurane drug resource mapping</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/volatile_anesthetic_succinylcholine/Enflurane_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Enflurane drug resource mapping</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/volatile_anesthetic_succinylcholine/Halothane_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Halothane drug resource mapping</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/volatile_anesthetic_succinylcholine/Isoflurane_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Isoflurane drug resource mapping</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/volatile_anesthetic_succinylcholine/Methoxyflurane_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Methoxyflurane drug resource mapping</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/volatile_anesthetic_succinylcholine/Sevoflurane_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Sevoflurane drug resource mapping</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/volatile_anesthetic_succinylcholine/Succinylcholine_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Succinylcholine drug resource mapping</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/volatile_anesthetic_succinylcholine/volatile_anesthetic_agents_succinylcholine_pre_and_post_test_alerts_and_flow_chart.xlsx\" target=\"_blank\">Volatile anesthetic agents or succinylcholine pre and post test alerts and flow chart</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-recommendations-for-inhaled-anesthetics-or-succinylcholine-in-the-context-of-ryr1-or-cacna1s-genotypes\">Table 1: Recommendations for inhaled anesthetics or succinylcholine in the context of <em>RYR1</em> or <em>CACNA1S</em> genotypes.</h3>\n<p><em>Adapted from Tables 1 and 2 of the 2018 guideline manuscript.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th><em>RYR1</em> or <em>CACNA1S</em> phenotype</th>\n<th>Genotype</th>\n<th>Example Variants</th>\n<th>Implications for phenotypic measures</th>\n<th>Dosing recommendations for inhaled anesthetics or succinylcholine</th>\n<th>Classification of recommendations<sup>a</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Malignant Hyperthermia susceptible</td>\n<td>An individual heterozygous<sup>b</sup> for a <em>RYR1</em> or <em>CACNA1S</em> malignant hyperthermia causative variant as designated by the EMHG <sup>c,d,e</sup></td>\n<td><em>RYR1</em> c.103T&gt;C; p.(Cys35Arg), <em>RYR1</em> c.130C&gt;T; p.(Arg44Cys), RYR1 c.487C&gt;T; p.(Arg163Cys), RYR1 c.488G&gt;T; p.(Arg163Leu), RYR1 c.742G&gt;A/C; p.(Gly248Arg), RYR1 c.982C&gt;T; p.(Arg328Trp), RYR1 c.1021G&gt;C ; p.(Gly341Arg), RYR1 c.1021G&gt;A; p.(Gly341Arg), RYR1 c.1201C&gt;T; p.(Arg401Cys), RYR1 c.1209C&gt;G; p.(Ile403Met), RYR1 c.1565A&gt;C; p.(Try522Ser), RYR1 c.1597C&gt;T; p.(Arg533Cys), RYR1 c.1654C&gt;T; p.(Arg552Trp), RYR1 c.1840C&gt;T; p.(Arg614Cys), RYR1 c.1841G&gt;T; p.(Arg614Leu), RYR1 c.6487C&gt;T; p.(Arg2163Cys), RYR1 c.6488G&gt;A; p.(Arg2163His), RYR1 c.6502G&gt;A; p.(Val2168Met), RYR1 c.6617C&gt;G; p.(Thr2206Arg), RYR1 c.6617C&gt;T; p.(Thr2206Met), RYR1 c.7007G&gt;A; p.(Arg2336His), RYR1 c.7039_7041delGAG/RYR1 c.7042_7044delGAG; p.(Glu2348del), RYR1 c.7048G&gt;A; p.(Ala2350Thr), RYR1 c.7063C&gt;T; p.(Arg2355Trp), RYR1 c.7124G&gt;C; p.(Gly2375Ala), RYR1 c.7282G&gt;A; p.(Ala2428Thr), RYR1 c.7300G&gt;A; p.(Gly2434Arg), RYR1 c.7304G&gt;A; p.(Arg2435His), RYR1 c.7354C&gt;T; p.(Arg2452Trp), RYR1 c.7360C&gt;T; p.(Arg2454Cys), RYR1 c.7361G&gt;A; p.(Arg2454His), RYR1 c.7372C&gt;T; p.(Arg2458Cys), RYR1 c.7373G&gt;A; p.(Arg2458His), RYR1 c.7522C&gt;G; p.(Arg2508Gly), RYR1 c.7522C&gt;T; p.(Arg2508Cys), RYR1 c.7523G&gt;A; p.(Arg2508His), RYR1 c.9310G&gt;A; p.(Glu3104Lys), RYR1 c.11969G&gt;T; p.(Gly3990Val), RYR1 c.14387A&gt;G; p.(Try4796Cys), RYR1 c.14477C&gt;T; p.(Thr4826Ile), RYR1 c.14497C&gt;T; p.(His4833Tyr), RYR1 c.14512C&gt;G; p.(Leu4838Val), RYR1 c.14545G&gt;A; p.(Val4849Ile), RYR1 c.14582G&gt;A; p.(Arg4861His), RYR1 c.14693T&gt;C; p.(Ile4898Thr), CACNA1S c.520C&gt;T; p.(Arg174Trp), CACNA1S c3257G&gt;A; p. (Arg1086His)</td>\n<td>Individuals are at increased risk of developing malignant hyperthermia if administered halogenated volatile anesthetics or the depolarizing muscle relaxant succinylcholine <sup>f</sup></td>\n<td>Halogenated volatile anesthetics or depolarizing muscle relaxants succinylcholine are relatively contraindicated in persons with MHS. They should not be used, except in extraordinary circumstances where the benefits outweigh the risks. In general, alternative anesthetics are widely available and effective in patients with MHS.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Uncertain susceptibility</td>\n<td>An individual negative for a <em>RYR1</em> or <em>CACNA1S</em> malignant hyperthermia causative variant as designated by the European Malignant Hyperthermia Group (EMHG) <sup>c,d,e</sup></td>\n<td></td>\n<td>These results do not eliminate the chance that this patient is susceptible to Malignant Hyperthermia. The genetic cause of about half of all MH survivors, with MH susceptibility confirmed by contracture test, remains unknown [Article:<a href=\"/pmid/28902675\">28902675</a>].</td>\n<td>Clinical findings, family history, further genetic testing and other laboratory data should guide use of halogenated volatile anesthetics or depolarizing muscle relaxants.</td>\n<td>Strong</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> Rating scheme described in Supplement.<br />\n<sup>b</sup> Individuals who have biallelic (homozygous or compound heterozygous) pathogenic variants in RYR1 generally will have autosomal recessive myopathies and should be managed according to the standard of care for those disorders. While some may indeed have susceptibility to anesthetic agents, the recommendations described here cannot adequately address such patients and they should be managed by a physician who is knowledgeable regarding those disorders.<br />\n<sup>c</sup> European Malignant Hyperthermia Group https://www.emhg.org/diagnostic-mutations (accessed September 8, 2018)<br />\n<sup>d</sup> A negative or inconclusive genetic test cannot be assumed to indicate normal RYR1-related phenotype and should be interpreted in context of clinical findings, family history and other laboratory data.<br />\n<sup>e</sup> It is recognized that clinical laboratories and treating physicians can make a determination that a variant not evaluated by EMHG is pathogenic.<br />\n<sup>f</sup> A list of unsafe halogenated volatile anesthetics or depolarizing muscle relaxants and alternative anesthetics can be found at http://www.mhaus.org/healthcare-professionals/be-prepared/safe-and-unsafe-anesthetics.</p>\n",
+      "version": 2
+    },
+    "userId": "katrin",
+    "version": 14
+  }
+}

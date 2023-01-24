@@ -1,0 +1,377 @@
+{
+  "citations": [
+    {
+      "id": 15136122,
+      "title": "Dutch pharmacogenetics working group guideline for the gene-drug interaction of ABCG2, HLA-B and Allopurinol, and MTHFR, folic acid and methotrexate.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/36056234",
+      "authors": [
+        "van der Pol Karel H",
+        "Nijenhuis Marga",
+        "Soree Bianca",
+        "de Boer-Veger Nienke J",
+        "Buunk Anne Marie",
+        "Guchelaar Henk-Jan",
+        "Risselada Arne",
+        "van Schaik Ron H N",
+        "Swen Jesse J",
+        "Touw Daan",
+        "van der Weide Jan",
+        "van Westrhenen Roos",
+        "Deneer Vera H M",
+        "Houwink Elisa J F",
+        "Rongen Gerard A"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451889545,
+          "resource": "PubMed",
+          "resourceId": "36056234",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/36056234",
+          "version": 0
+        },
+        {
+          "id": 1451889546,
+          "resource": "DOI",
+          "resourceId": "10.1038/s41431-022-01180-0",
+          "_url": "http://dx.doi.org/10.1038%2Fs41431-022-01180-0",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "European journal of human genetics : EJHG",
+      "meshDiseases": [],
+      "meshTerms": [],
+      "month": 9,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2022-09-01T00:00:00-07:00",
+      "summary": "The Dutch Pharmacogenetics Working Group (DPWG) aims to facilitate PGx implementation by developing evidence-based pharmacogenetics guidelines to optimize pharmacotherapy. This guideline describes the gene-drug interaction of ABCG2 with allopurinol, HLA-B with allopurinol, MTHFR with folic acid, and MTHFR with methotrexate, relevant for the treatment of gout, cancer, and rheumatoid arthritis. A systematic review was performed based on which pharmacotherapeutic recommendations were developed. Allopurinol is less effective in patients with the ABCG2 p.(Gln141Lys) variant. In HLA-B*58:01 carriers, the risk of severe cutaneous adverse events associated with allopurinol is strongly increased. The DPWG recommends using a higher allopurinol dose in patients with the ABCG2 p.(Gln141Lys) variant. For HLA-B*58:01 positive patients the DPWG recommends choosing an alternative (for instance febuxostat). The DPWG indicates that another option would be to precede treatment with allopurinol tolerance induction. Genotyping of ABCG2 in patients starting on allopurinol was judged to be 'potentially beneficial' for drug effectiveness, meaning genotyping can be considered on an individual patient basis. Genotyping for HLA-B*58:01 in patients starting on allopurinol was judged to be 'beneficial' for drug safety, meaning it is advised to consider genotyping the patient before (or directly after) drug therapy has been initiated. For MTHFR-folic acid there is evidence for a gene-drug interaction, but there is insufficient evidence for a clinical effect that makes therapy adjustment useful. Finally, for MTHFR-methotrexate there is insufficient evidence for a gene-drug interaction.",
+      "terms": [],
+      "version": 0,
+      "year": 2022
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166264961",
+    "name": "Annotation of DPWG Guideline for allopurinol and ABCG2",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1451695865,
+        "alleles": [
+          {
+            "id": 1451903461,
+            "_label": "rs2231142 reference (G)",
+            "allele": "rs2231142 reference (G)",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451903462,
+            "_label": "rs2231142 variant (T)",
+            "allele": "rs2231142 variant (T)",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA390",
+          "symbol": "ABCG2",
+          "name": "ATP binding cassette subfamily G member 2 (Junior blood group)",
+          "altNames": {
+            "synonym": [
+              "ATP-binding cassette, sub-family G (WHITE), member 2 (Junior blood group)"
+            ],
+            "symbol": [
+              "ABCP",
+              "BCRP",
+              "CD338",
+              "EST157481",
+              "MXR"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "q22.1",
+          "cbStop": "q22.1",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA529",
+            "name": "chr4",
+            "version": 3
+          },
+          "chrStartPosB37": 89011416,
+          "chrStartPosB38": 88090264,
+          "chrStopPosB37": 89152569,
+          "chrStopPosB38": 88231417,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553239020,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "9429",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=9429",
+              "version": 0
+            },
+            {
+              "id": 132250315,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000118777",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000118777",
+              "version": 0
+            },
+            {
+              "id": 70393,
+              "resource": "GenAtlas",
+              "resourceId": "ABCG2",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=ABCG2",
+              "version": 1
+            },
+            {
+              "id": 85321,
+              "resource": "GeneCard",
+              "resourceId": "ABCG2",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=ABCG2",
+              "version": 1
+            },
+            {
+              "id": 608130171,
+              "resource": "HGNC",
+              "resourceId": "HGNC:74",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A74",
+              "version": 1
+            },
+            {
+              "id": 608130173,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS04249",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS04249",
+              "version": 0
+            },
+            {
+              "id": 560934764,
+              "resource": "ModBase",
+              "resourceId": "Q8IX16",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q8IX16",
+              "version": 0
+            },
+            {
+              "id": 452931,
+              "resource": "MutDB",
+              "resourceId": "ABCG2",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=ABCG2",
+              "version": 1
+            },
+            {
+              "id": 23360,
+              "resource": "NCBI Gene",
+              "resourceId": "9429",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/9429",
+              "version": 1
+            },
+            {
+              "id": 6303,
+              "resource": "OMIM",
+              "resourceId": "603756",
+              "_url": "https://omim.org/entry/603756",
+              "version": 1
+            },
+            {
+              "id": 36897,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_016354",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_016354",
+              "version": 1
+            },
+            {
+              "id": 41547,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_004818",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_004818",
+              "version": 1
+            },
+            {
+              "id": 50635,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_004827",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_004827",
+              "version": 1
+            },
+            {
+              "id": 119519,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_004827",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_004827",
+              "version": 1
+            },
+            {
+              "id": 62333510,
+              "name": "ABCG2_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "Q9UNQ0",
+              "_url": "https://www.uniprot.org/uniprot/Q9UNQ0",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": false,
+          "pharmVarGene": false,
+          "strand": "minus",
+          "terms": [
+            {"id":560495256,"_url":"http://amigo.geneontology.org/amigo/term/GO:0000166","resource":"Gene Ontology","term":"nucleotide binding","termId":"GO:0000166"},
+            {"id":560499603,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005215","resource":"Gene Ontology","term":"transporter activity","termId":"GO:0005215"},
+            {"id":560495229,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005515","resource":"Gene Ontology","term":"protein binding","termId":"GO:0005515"},
+            {"id":560499859,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005524","resource":"Gene Ontology","term":"ATP binding","termId":"GO:0005524"},
+            {"id":560500224,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005886","resource":"Gene Ontology","term":"plasma membrane","termId":"GO:0005886"},
+            {"id":560501462,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006810","resource":"Gene Ontology","term":"transport","termId":"GO:0006810"},
+            {"id":560502917,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008559","resource":"Gene Ontology","term":"xenobiotic-transporting ATPase activity","termId":"GO:0008559"},
+            {"id":560500226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016021","resource":"Gene Ontology","term":"integral to membrane","termId":"GO:0016021"},
+            {"id":560507209,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016887","resource":"Gene Ontology","term":"ATPase activity","termId":"GO:0016887"},
+            {"id":560515491,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042493","resource":"Gene Ontology","term":"response to drug","termId":"GO:0042493"},
+            {"id":560499651,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042626","resource":"Gene Ontology","term":"ATPase activity, coupled to transmembrane movement of substances","termId":"GO:0042626"},
+            {"id":560513251,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042803","resource":"Gene Ontology","term":"protein homodimerization activity","termId":"GO:0042803"}
+          ],
+          "version": 3595
+        },
+        "version": 2
+      }
+    ],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1451695864,
+        "date": "2022-02-25T00:00:00-08:00",
+        "type": "Create",
+        "version": 1
+      },
+      {
+        "id": 1451699240,
+        "date": "2022-03-01T10:01:58.531-08:00",
+        "description": "Complemented genotypes to positive strand.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451704259,
+        "date": "2022-03-03T16:33:36.080-08:00",
+        "description": "Annotation current with May 2021 DPWG Guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451706060,
+        "date": "2022-03-07T11:59:46.353-08:00",
+        "description": "Added information about preemptive genotyping",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451732898,
+        "date": "2022-03-28T09:57:49.814-07:00",
+        "description": "Annotation current with February 2022 DPWG guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451733280,
+        "date": "2022-03-28T14:29:15.310-07:00",
+        "description": "Updated link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741461,
+        "date": "2022-04-05T11:08:42.289-07:00",
+        "description": "Added testing guidance tag",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451883981,
+        "date": "2022-09-16T09:20:22.978-07:00",
+        "description": "Fixed link to gene information document and added explanatory note",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451889552,
+        "date": "2022-09-22T14:59:22.227-07:00",
+        "description": "Added guideline publication",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451903460,
+        "date": "2022-10-04T10:40:09.044-07:00",
+        "description": "included variant mapping",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15136122,"title":"Dutch pharmacogenetics working group guideline for the gene-drug interaction of ABCG2, HLA-B and Allopurinol, and MTHFR, folic acid and methotrexate.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/36056234","crossReferences":[{"id":1451889545,"resource":"PubMed","resourceId":"36056234","_url":"https://www.ncbi.nlm.nih.gov/pubmed/36056234"},{"id":1451889546,"resource":"DOI","resourceId":"10.1038/s41431-022-01180-0","_url":"http://dx.doi.org/10.1038%2Fs41431-022-01180-0"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166156544",
+        "symbol": "rs2231142",
+        "name": "rs2231142",
+        "version": 3
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA448320",
+        "name": "allopurinol",
+        "version": 8
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA390",
+        "symbol": "ABCG2",
+        "name": "ATP binding cassette subfamily G member 2 (Junior blood group)",
+        "version": 3595
+      }
+    ],
+    "source": "DPWG",
+    "summaryMarkdown": {
+      "id": 1451695862,
+      "html": "<p>Patients with the GT or TT genotypes at <a href=\"/variant/PA166156544\">rs2231142</a> should be given an increased dose of allopurinol.</p>\n",
+      "version": 1
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451695863,
+      "html": "<p><em><strong>IMPORTANT: As of March 2022, gene information documents from the DPWG are no longer publicly available from the KNMP website. PharmGKB is currently providing PDF versions of these documents to users. These files were downloaded in February 2022. As such, we cannot guarantee that these documents match the mappings DPWG may use internally as there have been no publicly accessible updates since February 2022.</strong></em></p>\n<h3 id=\"dutch-pharmacogenetics-working-group-dpwg-guideline-for-the-gene-drug-interaction-of-abcg2-hla-b-and-allopurinol-and-mthfr-folic-acid-and-methotrexate-european-journal-of-human-genetics-2022\">Dutch pharmacogenetics working group (DPWG) guideline for the gene-drug interaction of ABCG2, HLA-B and Allopurinol, and MTHFR, folic acid and methotrexate. European journal of human genetics (2022)</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group published a paper with the guidelines as per the May 2021 guideline including more details and scoring the clinical implementation [Article:<a href=\"/pmid/36056234\">36056234</a>]. The article includes the following mapping for the variant ABCG2 p.(Gln141Lys): rs-number: 2231142; NM_001257386.1:c.421 C &gt; A; NP_001244315.1:p.Gln141Lys; NG_032067.2:g.105152 C &gt; A.</p>\n<h3 id=\"may-2021-guideline\">May 2021 Guideline</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group (DPWG) has evaluated therapeutic dose recommendations for allopurinol based on ABCG2 genotype. They recommend a dose increase for patients with the GT or TT genotypes (described in the document as their equivalent amino acids GK and KK, respectively).</p>\n<p><em><strong>Note:</strong></em> The DPWG allopurinol guideline publication [Article:<a href=\"/pmid/36056234\">36056234</a>] includes the following mapping for the variant ABCG2 p.(Gln141Lys): rs-number: 2231142; NM_001257386.1:c.421 C &gt; A; NP_001244315.1:p.Gln141Lys; NG_032067.2:g.105152 C &gt; A. <em>ABCG2</em> is found on the negative strand. All genotypes displayed in this annotation have been complemented to the positive strand by PharmGKB.</p>\n<p><em>Wording in table taken from the <a download=\"DPWG_May_2021.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/DPWG_May_2021.pdf\">Dutch guidelines May 2021 update</a>.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Allele/Genotype/Phenotype</th>\n<th>Drug</th>\n<th>Description</th>\n<th>Recommendation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>141KK (TT genotype)<sup>a</sup></td>\n<td>allopurinol</td>\n<td>The effectiveness of allopurinol is reduced, meaning that a higher dose is required. The gene variation reduces the excretion of uric acid by kidneys and intestines, meaning that a stronger inhibition of the uric acid production by allopurinol is required to achieve the desired uric acid concentration.</td>\n<td>Use 1.4 times the standard dose. This equates to a dose titration schedule of 100, 300, 400, 600 and 700 mg/day instead of the usual schedule of 100, 200, 300, 400 and 500 mg/day.</td>\n</tr>\n<tr>\n<td>141QK (GT genotype)<sup>a</sup></td>\n<td>allopurinol</td>\n<td>The effectiveness of allopurinol is reduced, meaning that a higher dose is required. The gene variation reduces the excretion of uric acid by kidneys and intestines, meaning that a stronger inhibition of the uric acid production by allopurinol is required to achieve the desired uric acid concentration.</td>\n<td>Use 1.25 times the standard dose. This equates to a dose titration schedule of 100, 200, 400 and 500 mg/day instead of the usual schedule of 100, 200, 300 and 400 mg/day.</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> These genotypes have been complemented to the positive strand, in line with standard PharmGKB procedures.</p>\n<h4 id=\"preemptive-genotyping\">Preemptive genotyping</h4>\n<p>Excerpts from the <a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0007256.PDF\" target=\"_blank\">DPWG risk analysis document</a> for allopurinol and ABCG2:</p>\n<blockquote class=\"blockquote\">\n<p>The KNMP Pharmacogenetics Working Group considers genotyping of ABCG2 before starting allopurinol to be potentially beneficial for drug effectiveness. Genotyping can be considered on an individual patient basis. If, however, the genotype is available, the Dutch Pharmacogenetics Working Group recommends adhering to the gene-drug guideline.</p>\n</blockquote>\n<p><a href=\"/page/testingGuidance\">Read more about how DPWG assigns their recommendations for preemptive genotyping.</a></p>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0007256.PDF\" target=\"_blank\">Read for more information about this recommendation</a>, <a download=\"ABCG2.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/ABCG2.pdf\">Read about gene information from DPWG</a></p>\n",
+      "version": 5
+    },
+    "userId": "rachel",
+    "version": 11
+  }
+}

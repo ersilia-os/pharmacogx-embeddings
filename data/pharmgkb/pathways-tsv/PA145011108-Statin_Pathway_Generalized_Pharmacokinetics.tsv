@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+hmg coa reductase inhibitors	Active & Inactive metabolites	Biochemical Reaction	CYP2C19,CYP2C8,CYP2C9,CYP2D6,CYP3A4,CYP3A5,UGT1A1,UGT1A3,UGT2B7	Catalysis	hepatocyte	10064574,12848784,12891229,14531725,15199031,15284534,15518608,15650881,15801541,15900215,15998357,16103896,16321621,9217719,9321523	"CYP2C9","CYP2C8","UGT1A1","CYP2D6","UGT1A3","CYP2C19","CYP3A4","CYP3A5","UGT2B7"	hmg coa reductase inhibitors	
+hmg coa reductase inhibitors	Active & Inactive metabolites	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	enterocyte	10490896,16321621	"CYP3A4","CYP3A5"	hmg coa reductase inhibitors	
+hmg coa reductase inhibitors	hmg coa reductase inhibitors	Transport	SLCO1A2,SLCO1B1,SLCO1B3,SLCO2B1	Catalysis	hepatocyte		"SLCO1B1","SLCO2B1","SLCO1A2","SLCO1B3"	hmg coa reductase inhibitors	
+hmg coa reductase inhibitors	hmg coa reductase inhibitors	Transport	ABCB1,ABCB11,ABCC2,ABCG2	Catalysis	hepatocyte	10751037,15226675,15616150,15901800	"ABCB1","ABCC2","ABCB11","ABCG2"	hmg coa reductase inhibitors	
+hmg coa reductase inhibitors	hmg coa reductase inhibitors	Transport	ABCB1,ABCC2,ABCG2	Catalysis	renal principal cell	10751037	"ABCB1","ABCC2","ABCG2"	hmg coa reductase inhibitors	
+hmg coa reductase inhibitors	hmg coa reductase inhibitors	Transport	SLC15A1,SLCO2B1	Catalysis	enterocyte		"SLC15A1","SLCO2B1"	hmg coa reductase inhibitors	
+hmg coa reductase inhibitors	hmg coa reductase inhibitors	Transport	SLC22A6,SLC22A8	Catalysis	renal principal cell	14729100,14978359	"SLC22A6","SLC22A8"	hmg coa reductase inhibitors	

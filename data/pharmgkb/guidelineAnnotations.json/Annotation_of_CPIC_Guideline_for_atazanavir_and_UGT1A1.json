@@ -1,0 +1,602 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166128738",
+    "name": "Annotation of CPIC Guideline for atazanavir and UGT1A1",
+    "alternateDrugAvailable": true,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983449,
+        "name": "CPIC® Guideline for Atazanavir and UGT1A1 – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-atazanavir-and-ugt1a1/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-atazanavir-and-ugt1a1/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "PPOa3z0wIYo",
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1449560756,
+        "alleles": [
+          {
+            "id": 1449560757,
+            "_label": "*1",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115841",
+              "symbol": "UGT1A1*1",
+              "name": "*1",
+              "version": 14
+            },
+            "version": 2
+          },
+          {
+            "id": 1449560763,
+            "_label": "*6",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115858",
+              "symbol": "UGT1A1*6",
+              "name": "*6",
+              "version": 12
+            },
+            "version": 2
+          },
+          {
+            "id": 1449560764,
+            "_label": "*27",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115865",
+              "symbol": "UGT1A1*27",
+              "name": "*27",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560758,
+            "_label": "*28",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115842",
+              "symbol": "UGT1A1*28",
+              "name": "*28",
+              "version": 14
+            },
+            "version": 2
+          },
+          {
+            "id": 1449560759,
+            "_label": "*36",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115843",
+              "symbol": "UGT1A1*36",
+              "name": "*36",
+              "version": 14
+            },
+            "version": 2
+          },
+          {
+            "id": 1449560760,
+            "_label": "*37",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115844",
+              "symbol": "UGT1A1*37",
+              "name": "*37",
+              "version": 14
+            },
+            "version": 2
+          },
+          {
+            "id": 1449560762,
+            "_label": "*80",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115850",
+              "symbol": "UGT1A1*80",
+              "name": "*80",
+              "version": 12
+            },
+            "version": 2
+          },
+          {
+            "id": 1451236500,
+            "_label": "*80+*28",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166220483",
+              "symbol": "UGT1A1*80+*28",
+              "name": "*80+*28",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451236501,
+            "_label": "*80+*37",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166220484",
+              "symbol": "UGT1A1*80+*37",
+              "name": "*80+*37",
+              "version": 5
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA420",
+          "symbol": "UGT1A1",
+          "name": "UDP glucuronosyltransferase 1 family, polypeptide A1",
+          "alleleFile": "UGT1A1_allele_definition_table.xlsx",
+          "altNames": {
+            "symbol": [
+              "UGT1A"
+            ]
+          },
+          "buildVersion": "GRCh38",
+          "cbStart": "q37.1",
+          "cbStop": "q37.1",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA523",
+            "name": "chr2",
+            "version": 3
+          },
+          "chrStartPosB37": 234668916,
+          "chrStartPosB38": 233760270,
+          "chrStopPosB37": 234681946,
+          "chrStopPosB38": 233773300,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553243129,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "54658",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=54658",
+              "version": 0
+            },
+            {
+              "id": 608140457,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000241635",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000241635",
+              "version": 0
+            },
+            {
+              "id": 84499,
+              "resource": "GenAtlas",
+              "resourceId": "UGT1A1",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=UGT1A1",
+              "version": 1
+            },
+            {
+              "id": 99427,
+              "resource": "GeneCard",
+              "resourceId": "UGT1A1",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=UGT1A1",
+              "version": 1
+            },
+            {
+              "id": 608140455,
+              "resource": "HGNC",
+              "resourceId": "HGNC:12530",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A12530",
+              "version": 1
+            },
+            {
+              "id": 560883392,
+              "resource": "ModBase",
+              "resourceId": "P22309",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P22309",
+              "version": 0
+            },
+            {
+              "id": 467037,
+              "resource": "MutDB",
+              "resourceId": "UGT1A1",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=UGT1A1",
+              "version": 1
+            },
+            {
+              "id": 17547,
+              "resource": "NCBI Gene",
+              "resourceId": "54658",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/54658",
+              "version": 1
+            },
+            {
+              "id": 560530563,
+              "resource": "OMIM",
+              "resourceId": "143500",
+              "_url": "https://omim.org/entry/143500",
+              "version": 0
+            },
+            {
+              "id": 2572,
+              "resource": "OMIM",
+              "resourceId": "191740",
+              "_url": "https://omim.org/entry/191740",
+              "version": 1
+            },
+            {
+              "id": 560530562,
+              "resource": "OMIM",
+              "resourceId": "218800",
+              "_url": "https://omim.org/entry/218800",
+              "version": 0
+            },
+            {
+              "id": 560530565,
+              "resource": "OMIM",
+              "resourceId": "237900",
+              "_url": "https://omim.org/entry/237900",
+              "version": 0
+            },
+            {
+              "id": 608140456,
+              "resource": "OMIM",
+              "resourceId": "601816",
+              "_url": "https://omim.org/entry/601816",
+              "version": 0
+            },
+            {
+              "id": 560530564,
+              "resource": "OMIM",
+              "resourceId": "606785",
+              "_url": "https://omim.org/entry/606785",
+              "version": 0
+            },
+            {
+              "id": 1451154302,
+              "name": "NG_002601.2",
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_002601.2",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_002601.2",
+              "version": 0
+            },
+            {
+              "id": 37628,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000454",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000454",
+              "version": 1
+            },
+            {
+              "id": 46703,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000463",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000463",
+              "version": 1
+            },
+            {
+              "id": 122020,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000463",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000463",
+              "version": 1
+            },
+            {
+              "id": 62329337,
+              "name": "UD11_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P22309",
+              "_url": "https://www.uniprot.org/uniprot/P22309",
+              "version": 1
+            },
+            {
+              "id": 608140458,
+              "name": "Q5DT03_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "Q5DT03",
+              "_url": "https://www.uniprot.org/uniprot/Q5DT03",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": false,
+          "pharmVarGene": false,
+          "strand": "plus",
+          "terms": [
+            {"id":560496649,"_url":"http://amigo.geneontology.org/amigo/term/GO:0001889","resource":"Gene Ontology","term":"liver development","termId":"GO:0001889"},
+            {"id":560496785,"_url":"http://amigo.geneontology.org/amigo/term/GO:0001972","resource":"Gene Ontology","term":"retinoic acid binding","termId":"GO:0001972"},
+            {"id":560499243,"_url":"http://amigo.geneontology.org/amigo/term/GO:0004857","resource":"Gene Ontology","term":"enzyme inhibitor activity","termId":"GO:0004857"},
+            {"id":560499828,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005496","resource":"Gene Ontology","term":"steroid binding","termId":"GO:0005496"},
+            {"id":560500134,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005783","resource":"Gene Ontology","term":"endoplasmic reticulum","termId":"GO:0005783"},
+            {"id":560500141,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005789","resource":"Gene Ontology","term":"endoplasmic reticulum membrane","termId":"GO:0005789"},
+            {"id":560500144,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005792","resource":"Gene Ontology","term":"microsome","termId":"GO:0005792"},
+            {"id":560501435,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006789","resource":"Gene Ontology","term":"bilirubin conjugation","termId":"GO:0006789"},
+            {"id":560501453,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006805","resource":"Gene Ontology","term":"xenobiotic metabolic process","termId":"GO:0006805"},
+            {"id":560502337,"_url":"http://amigo.geneontology.org/amigo/term/GO:0007584","resource":"Gene Ontology","term":"response to nutrient","termId":"GO:0007584"},
+            {"id":560502340,"_url":"http://amigo.geneontology.org/amigo/term/GO:0007586","resource":"Gene Ontology","term":"digestion","termId":"GO:0007586"},
+            {"id":560501456,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008152","resource":"Gene Ontology","term":"metabolic process","termId":"GO:0008152"},
+            {"id":560501294,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008202","resource":"Gene Ontology","term":"steroid metabolic process","termId":"GO:0008202"},
+            {"id":560501314,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008210","resource":"Gene Ontology","term":"estrogen metabolic process","termId":"GO:0008210"},
+            {"id":560504171,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009812","resource":"Gene Ontology","term":"flavonoid metabolic process","termId":"GO:0009812"},
+            {"id":560505797,"_url":"http://amigo.geneontology.org/amigo/term/GO:0015020","resource":"Gene Ontology","term":"glucuronosyltransferase activity","termId":"GO:0015020"},
+            {"id":560499972,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016020","resource":"Gene Ontology","term":"membrane","termId":"GO:0016020"},
+            {"id":560500226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016021","resource":"Gene Ontology","term":"integral to membrane","termId":"GO:0016021"},
+            {"id":560507281,"_url":"http://amigo.geneontology.org/amigo/term/GO:0017144","resource":"Gene Ontology","term":"drug metabolic process","termId":"GO:0017144"},
+            {"id":560508309,"_url":"http://amigo.geneontology.org/amigo/term/GO:0018879","resource":"Gene Ontology","term":"biphenyl metabolic process","termId":"GO:0018879"},
+            {"id":560496866,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019899","resource":"Gene Ontology","term":"enzyme binding","termId":"GO:0019899"},
+            {"id":560512358,"_url":"http://amigo.geneontology.org/amigo/term/GO:0032496","resource":"Gene Ontology","term":"response to lipopolysaccharide","termId":"GO:0032496"},
+            {"id":560515491,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042493","resource":"Gene Ontology","term":"response to drug","termId":"GO:0042493"},
+            {"id":560509788,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042573","resource":"Gene Ontology","term":"retinoic acid metabolic process","termId":"GO:0042573"},
+            {"id":560503590,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042594","resource":"Gene Ontology","term":"response to starvation","termId":"GO:0042594"},
+            {"id":560513251,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042803","resource":"Gene Ontology","term":"protein homodimerization activity","termId":"GO:0042803"},
+            {"id":560517245,"_url":"http://amigo.geneontology.org/amigo/term/GO:0045471","resource":"Gene Ontology","term":"response to ethanol","termId":"GO:0045471"},
+            {"id":560505413,"_url":"http://amigo.geneontology.org/amigo/term/GO:0045939","resource":"Gene Ontology","term":"negative regulation of steroid metabolic process","termId":"GO:0045939"},
+            {"id":560495388,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046483","resource":"Gene Ontology","term":"heterocycle metabolic process","termId":"GO:0046483"},
+            {"id":560518296,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046982","resource":"Gene Ontology","term":"protein heterodimerization activity","termId":"GO:0046982"},
+            {"id":560511834,"_url":"http://amigo.geneontology.org/amigo/term/GO:0048545","resource":"Gene Ontology","term":"response to steroid hormone stimulus","termId":"GO:0048545"},
+            {"id":560516196,"_url":"http://amigo.geneontology.org/amigo/term/GO:0051384","resource":"Gene Ontology","term":"response to glucocorticoid stimulus","termId":"GO:0051384"},
+            {"id":560513368,"_url":"http://amigo.geneontology.org/amigo/term/GO:0051552","resource":"Gene Ontology","term":"flavone metabolic process","termId":"GO:0051552"}
+          ],
+          "version": 6110
+        },
+        "version": 2
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1446898242,
+        "date": "2015-09-18T00:00:00-07:00",
+        "type": "Create",
+        "version": 1
+      },
+      {
+        "id": 1451115140,
+        "date": "2020-04-21T14:35:44.443-07:00",
+        "description": "Updated link to UGT1A1 gene information tables page",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451236400,
+        "date": "2020-07-31T09:07:37.457-07:00",
+        "description": "Updated allele function assignment",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451236420,
+        "date": "2020-07-31T09:10:41.591-07:00",
+        "description": "Updated allele function assignment",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451236421,
+        "date": "2020-07-31T09:10:52.003-07:00",
+        "description": "Updated allele function assignment",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451236422,
+        "date": "2020-07-31T09:11:03.320-07:00",
+        "description": "Updated allele function assignment",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451236423,
+        "date": "2020-07-31T09:11:04.438-07:00",
+        "description": "Updated allele function assignment",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451236440,
+        "date": "2020-07-31T09:11:12.620-07:00",
+        "description": "Updated allele function assignment",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451236460,
+        "date": "2020-07-31T09:11:33.720-07:00",
+        "description": "Updated allele function assignment",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451236480,
+        "date": "2020-07-31T09:11:43.450-07:00",
+        "description": "Updated allele function assignment",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451236481,
+        "date": "2020-07-31T09:11:58.374-07:00",
+        "description": "Updated allele function assignment",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451314280,
+        "date": "2021-01-19T10:45:39.629-08:00",
+        "description": "Tagged UGT1A1 haplotypes",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451965540,
+        "date": "2022-12-14T16:35:30.924-08:00",
+        "description": "added 2017 online content update based on CPIC guideline page",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15093021,"title":"Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for UGT1A1 and Atazanavir Prescribing.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4785051","crossReferences":[{"id":1449290642,"resource":"PubMed Central","resourceId":"PMC4785051","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4785051"},{"id":1449290641,"resource":"PubMed","resourceId":"26417955","_url":"https://www.ncbi.nlm.nih.gov/pubmed/26417955"},{"id":1449290643,"resource":"DOI","resourceId":"10.1002/cpt.269","_url":"http://dx.doi.org/10.1002%2Fcpt.269"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15100914,"title":"CPIC® Guideline for Atazanavir and UGT1A1 – CPIC","_sameAs":"https://cpicpgx.org/guidelines/guideline-for-atazanavir-and-ugt1a1/","crossReferences":[{"id":1447983449,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-atazanavir-and-ugt1a1/","_url":"https://cpicpgx.org/guidelines/guideline-for-atazanavir-and-ugt1a1/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA166115841",
+        "symbol": "UGT1A1*1",
+        "name": "*1",
+        "version": 14
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA166115842",
+        "symbol": "UGT1A1*28",
+        "name": "*28",
+        "version": 14
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA166115843",
+        "symbol": "UGT1A1*36",
+        "name": "*36",
+        "version": 14
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA166115844",
+        "symbol": "UGT1A1*37",
+        "name": "*37",
+        "version": 14
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA166115858",
+        "symbol": "UGT1A1*6",
+        "name": "*6",
+        "version": 12
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA166115850",
+        "symbol": "UGT1A1*80",
+        "name": "*80",
+        "version": 12
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA166220483",
+        "symbol": "UGT1A1*80+*28",
+        "name": "*80+*28",
+        "version": 5
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA10251",
+        "name": "atazanavir",
+        "version": 6
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA420",
+        "symbol": "UGT1A1",
+        "name": "UDP glucuronosyltransferase 1 family, polypeptide A1",
+        "version": 6110
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1447982423,
+      "html": "<p>The CPIC dosing guideline recommends considering advising individuals who carry two decreased function <em>UGT1A1</em> alleles about a substantial likelihood of developing jaundice, which may cause non-adherence. The dosing guideline recommends that alternative agents be considered if the risk of non-adherence due to jaundice is high. The risk of discontinuation is low and very low for individuals carrying one, or no decreased function <em>UGT1A1</em> alleles, respectively.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433669,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-atazanavir-and-ugt1a1/\" target=\"_blank\">CPIC&reg; guideline for atazanavir and UGT1A1</a>.</p>\n<h3 id=\"november-2017-update\">November 2017 Update</h3>\n<p>UGT1A1*80 is in very high linkage disequilibrium with *28 and *37. In the rare event that *80 is detected but *28 and *37 are not, there are not enough clinical data to predict metabolizer status with certainty. However, if only *80 is interrogated and the patient is heterozygous or homozygous for *80, an intermediate or poor metabolizer phenotype may be inferred, respectively. The UGT1A1 Allele Definition Table, UGT1A1 Allele Functionality Table, and UGT1A1 Diplotype-Phenotype Table have been updated accordingly.</p>\n<h3 id=\"april-2016\">April 2016</h3>\n<p><em>Advance online publication September 2015</em></p>\n<ul>\n<li>\n<p>Guidelines regarding the use of pharmacogenomic tests in determining whether atazanavir treatment should be undertaken have been published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">(CPIC)</a>.</p>\n</li>\n<li>\n<p>These guidelines are applicable to:</p>\n<ul>\n<li>Adults</li>\n<li>At the time of this writing there are no pediatric data regarding associations between <em>UGT1A1</em> genotypes and likelihood of bilirubin-related discontinuation of atazanavir. However, <em>UGT1A1</em> genotypes are expected to affect atazanavir-related hyperbilirubinemia similarly in adults and children. Therefore, recommendations for adults may be directly adapted to pediatric patients.</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/atazanavir/2015/26417955.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium Guidelines for Atazanavir and <em>UGT1A1</em> Prescribing</a>.</li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/atazanavir/2015/26417955-supplement.pdf\" target=\"_blank\">2015 Supplement</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/ugt1a1RefMaterials\">Gene-Specific Information Tables for UGT1A1</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-recommended-therapeutic-use-of-atazanavir-based-on-ugt1a1-genotype\">Table 1: Recommended therapeutic use of atazanavir based on <em>UGT1A1</em> genotype</h3>\n<p><em>Adapted from Tables 1 and 2 of the 2015 guideline manuscript.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Likely phenotype</th>\n<th>Genotypes</th>\n<th>Examples of diplotypes</th>\n<th>Implications for phenotypic measures</th>\n<th>Recommendations for atazanavir therapy</th>\n<th>Classification of recommendation for atazanavir therapy</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Extensive Metabolizer</td>\n<td>An individual carrying 2 reference <sup>b</sup> function and/or increased function alleles; or individuals of genotype CC at <a href=\"/variant/PA166155607\">rs887829</a></td>\n<td>*1/*1; *1/*36; *36/*36; <a href=\"/variant/PA166155607\">rs887829</a> CC</td>\n<td>Reference <sup>c</sup> UGT1A1 activity; very low likelihood of bilirubin-related discontinuation of atazanavir.</td>\n<td>There is no need to avoid prescribing of atazanavir based on <em>UGT1A1</em> genetic test result.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Intermediate Metabolizer</td>\n<td>An individual carrying one reference <sup>b</sup> function (*1) <sup>c</sup> or increased function allele (*36) plus one decreased function allele (*6, *28, *37). Alternatively identified by heterozygosity for <a href=\"/variant/PA166155607\">rs887829</a> C/T.</td>\n<td>*1/*28; *1/*37; *36/*28; *36/*37; <a href=\"/variant/PA166155607\">rs887829</a> C/T, *1/*6</td>\n<td>Somewhat decreased UGT1A1 activity; low likelihood of bilirubin-related discontinuation of atazanavir.</td>\n<td>There is no need to avoid prescribing of atazanavir based on <em>UGT1A1</em> genetic test result. Inform the patient that some patients stop atazanavir because of jaundice (yellow eyes and skin), but that this patient’s genotype makes this unlikely</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Poor Metabolizer</td>\n<td>An individual carrying two decreased function alleles (*6, *28, *37). Alternatively identified by homozygosity for <a href=\"/variant/PA166155607\">rs887829</a> T/T (*80/*80)</td>\n<td>*28/*28; *28/*37; *37/*37; <a href=\"/variant/PA166155607\">rs887829</a> T/T (*80/*80), *6/*6 <sup>a</sup></td>\n<td>Markedly decreased UGT1A1 activity; high likelihood of bilirubin-related discontinuation of atazanavir.</td>\n<td>Consider an alternative agent particularly where jaundice would be of concern to the patient.</td>\n<td>Strong</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> Homozygosity for UGT1A1*6, which occurs almost exclusively in individuals of Asian descent, is associated with Gilbert syndrome. However, at this time, it is unclear if patients with this diplotype are at increased risk of severe atazanavir-associated hyperbilirubinemia.</p>\n<p><sup>b</sup> “reference” function refers to the UGT1A1 alleles to which other alleles are compared.</p>\n<p><sup>c</sup> The reference function *1 allele is a fully functional refers to the <a href=\"/variant/PA166159020\">rs8175347</a> TA6 allele.</p>\n",
+      "version": 1
+    },
+    "userId": "whaleyr",
+    "version": 48
+  }
+}

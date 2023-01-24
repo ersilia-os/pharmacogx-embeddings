@@ -1,0 +1,30 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+. NO	. NO	Biochemical Reaction	ibuprofen	Inhibition	cell	16880623		ibuprofen	
+. NO	ONOO -	Biochemical Reaction			cell	16978905			
+. OH	. OH	Biochemical Reaction	ibuprofen	Inhibition	cell	16880623		ibuprofen	
+anandamide	arachidonic acid	Biochemical Reaction	FAAH	Catalysis	cell	9353392	FAAH		
+anandamide	CNR1	Biochemical Reaction			cell	22225576,9353392	CNR1		
+anandamide	CNR2	Biochemical Reaction			cell	22225576,9353392	CNR2		
+arachidonic acid	PGH2	Biochemical Reaction	PTGS1,PTGS2	Catalysis	cell	8969167	"PTGS2","PTGS1"		
+FAAH	FAAH	Biochemical Reaction	ibuprofen	Inhibition	cell	17397826	FAAH	ibuprofen	
+H2O2	. OH	Biochemical Reaction			cell	16978905			
+ibuprofen	CNR2	Biochemical Reaction			cell	16480822,17397826	CNR2	ibuprofen	
+NOS1,NOS2,NOS3	NOS1,NOS2,NOS3	Biochemical Reaction	ibuprofen	Activation,Inhibition	cell	21048099,9276767	"NOS2","NOS3","NOS1"	ibuprofen	
+O2 . -	H2O2	Biochemical Reaction			cell	16978905			
+O2 . -	ONOO -	Biochemical Reaction			cell	16978905			
+O2	O2 . -	Biochemical Reaction			cell	16978905			
+O2	O2 . -	Biochemical Reaction			cell	16978905			
+ONOO -	ONOO -	Biochemical Reaction	ibuprofen	Inhibition	cell	16880623		ibuprofen	
+PGH2	PGD2	Biochemical Reaction	HPGDS,PTGDS	Catalysis	cell	11729303	"HPGDS","PTGDS"		
+PGH2	PGE2	Biochemical Reaction	PTGES,PTGES2,PTGES3	Catalysis	cell	10869354	"PTGES2","PTGES3","PTGES"		
+PGH2	PGF2a	Biochemical Reaction	AKR1B1,AKR1C3	Catalysis	cell	11729303	"AKR1C3","AKR1B1"		
+PGH2	PGI2	Biochemical Reaction	PTGIS	Catalysis	cell		PTGIS		
+PGH2	TxA2	Biochemical Reaction	TBXAS1	Catalysis	cell		TBXAS1		
+Phospholipid	arachidonic acid	Biochemical Reaction	PLA2G2A,PLA2G4A	Catalysis	cell		"PLA2G2A","PLA2G4A"		
+PTGDR,PTGDR2	PTGDR,PTGDR2	Biochemical Reaction	PGD2	Activation	cell	11729303	"PTGDR2","PTGDR"		
+PTGER1,PTGER2,PTGER3,PTGER4	PTGER1,PTGER2,PTGER3,PTGER4	Biochemical Reaction	PGE2	Activation	cell	11729303	"PTGER4","PTGER1","PTGER2","PTGER3"		
+PTGFR	PTGFR	Biochemical Reaction	PGF2a	Activation	cell	11729303	PTGFR		
+PTGIR	PTGIR	Biochemical Reaction	PGI2	Activation	cell	11729303	PTGIR		
+PTGS1	PTGS1	Biochemical Reaction	ibuprofen	Inhibition	cell	19949916,9515184	PTGS1	ibuprofen	
+PTGS2	PTGS2	Biochemical Reaction	ibuprofen	Inhibition	cell	19949916,9515184	PTGS2	ibuprofen	
+TBXA2R	TBXA2R	Biochemical Reaction	TxA2	Activation	cell	11729303	TBXA2R		

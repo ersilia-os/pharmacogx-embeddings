@@ -1,0 +1,47 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+FCGR1A	IL10	Activation			monocyte	12782719, 9653099	FCGR1A, IL10		heparin-induced thrombocytopenia,Thrombosis	FCGR1A activates IL10.
+FCGR3A	IL10	Activation			monocyte	12782719	FCGR3A, IL10		heparin-induced thrombocytopenia,Thrombosis	FCGR3A activates IL10.
+F3	F2	Activation			monocyte, null	28747771, 23798713, 19372318, 10887118	F2, F3		heparin-induced thrombocytopenia,Thrombosis	F3 activates F2.
+F3	F2	Activation			endothelial cell, null	28747771, 23798713, 19372318, 10887118	F2, F3		heparin-induced thrombocytopenia,Thrombosis	F3 activates F2.
+anti-heparin/PF4 IgG	PF4	Activation			null	28218620, 11809731, 3807952	PF4		heparin-induced thrombocytopenia,Thrombosis	anti-heparin/PF4 IgG activates PF4.
+anti-heparin/PF4 IgG	PF4	Activation			null	20724543	PF4		heparin-induced thrombocytopenia,Thrombosis	anti-heparin/PF4 IgG activates PF4.
+Heparin/PF4/IgG complex	FCGR2A	Activation			null, monocyte	26518435	FCGR2A		heparin-induced thrombocytopenia,Thrombosis	Heparin/PF4/IgG complex (heparin, IGHG1, IGHG2, IGHG3, IGHG4, IGKC, IGKJ@, IGKV@, IGLC@, IGLJ@, IGLV@, PF4) activates FCGR2A.
+FCGR1A	F3	Activation			monocyte	22394597	F3, FCGR1A		heparin-induced thrombocytopenia,Thrombosis	FCGR1A activates F3.
+Heparin/PF4/IgG complex	FCGR2A	Activation			null, neutrophil	30899022	FCGR2A		heparin-induced thrombocytopenia,Thrombosis	Heparin/PF4/IgG complex (heparin, IGHG1, IGHG2, IGHG3, IGHG4, IGKC, IGKJ@, IGKV@, IGLC@, IGLJ@, IGLV@, PF4) activates FCGR2A.
+endothelial cell activation	F3	Activation			endothelial cell	11809731, 3807952	F3		heparin-induced thrombocytopenia,Thrombosis	endothelial cell activation activates F3.
+Src family kinases	FCGR2A	Activation			platelet	25900780, 21848694, 19494352	FCGR2A		heparin-induced thrombocytopenia,Thrombosis	Src family kinases (BLK, FGR, FRK, FYN, HCK, LCK, LYN, SRC, YES1) activates FCGR2A.
+Heparin/PF4/IgG complex	B-cell receptor	Activation			null, B cell	27412887			heparin-induced thrombocytopenia,Thrombosis	Heparin/PF4/IgG complex (heparin, IGHG1, IGHG2, IGHG3, IGHG4, IGKC, IGKJ@, IGKV@, IGLC@, IGLJ@, IGLV@, PF4) activates B-cell receptor.
+monocyte activation	F3	Activation			monocyte	22394597, 21848694, 20724543, 11493478, 11342462	F3		heparin-induced thrombocytopenia,Thrombosis	monocyte activation activates F3.
+Heparin/PF4/IgG complex	FCGR1A	Activation			null, monocyte	22394597	FCGR1A		heparin-induced thrombocytopenia,Thrombosis	Heparin/PF4/IgG complex (heparin, IGHG1, IGHG2, IGHG3, IGHG4, IGKC, IGKJ@, IGKV@, IGLC@, IGLJ@, IGLV@, PF4) activates FCGR1A.
+Heparin/PF4/IgG complex	FCGR3A	Activation			null, monocyte	19018092	FCGR3A		heparin-induced thrombocytopenia,Thrombosis	Heparin/PF4/IgG complex (heparin, IGHG1, IGHG2, IGHG3, IGHG4, IGKC, IGKJ@, IGKV@, IGLC@, IGLJ@, IGLV@, PF4) activates FCGR3A.
+Heparin/PF4/IgG complex	FCGR2A	Activation			null, platelet	11588041, 2818941	FCGR2A		heparin-induced thrombocytopenia,Thrombosis	Heparin/PF4/IgG complex (heparin, IGHG1, IGHG2, IGHG3, IGHG4, IGKC, IGKJ@, IGKV@, IGLC@, IGLJ@, IGLV@, PF4) activates FCGR2A.
+TRA/TRB/CD4 complex	HLA-DRA/HLA-DRB1 complex	Activation			T cell, B cell	29715484			heparin-induced thrombocytopenia,Thrombosis	TRA/TRB/CD4 complex (CD4, TRA, TRB) activates HLA-DRA/HLA-DRB1 complex (HLA-DRA, HLA-DRB1).
+IL10	B-cell receptor	Activation			monocyte, B cell	24507158, 9521060, 7495731, 1371884	IL10		heparin-induced thrombocytopenia,Thrombosis	IL10 activates B-cell receptor.
+platelet activation	F2	Comes From			platelet, null	32463151, 19691581, 12231555	F2		heparin-induced thrombocytopenia,Thrombosis	Comes from from platelet activation to F2.
+Heparin/PF4 complex, anti-heparin/PF4 IgG	Heparin/PF4/IgG complex	Complex Assembly			null	19144981, 10381515, 1514184			heparin-induced thrombocytopenia,Thrombosis	Complex assembly from Heparin/PF4 complex (heparin, PF4), anti-heparin/PF4 IgG to Heparin/PF4/IgG complex (heparin, IGHG1, IGHG2, IGHG3, IGHG4, IGKC, IGKJ@, IGKV@, IGLC@, IGLJ@, IGLV@, PF4).
+PF4, heparin	Heparin/PF4 complex	Complex Assembly			null	26176382, 7922353	PF4	heparin	heparin-induced thrombocytopenia,Thrombosis	Complex assembly from PF4, heparin to Heparin/PF4 complex (heparin, PF4).
+IgG	anti-heparin/PF4 IgG	Conversion			B cell, null	26176382			heparin-induced thrombocytopenia,Thrombosis	Conversion from IgG to anti-heparin/PF4 IgG.
+Src family kinases	Src family kinases	Conversion	PTPRJ	Gene	platelet	23065825, 22677127, 20345711			heparin-induced thrombocytopenia,Thrombosis	Conversion from Src family kinases (BLK, FGR, FRK, FYN, HCK, LCK, LYN, SRC, YES1) to Src family kinases (BLK, FGR, FRK, FYN, HCK, LCK, LYN, SRC, YES1). This interaction is catalyzed by PTPRJ.
+ACP1	FCGR2A	Inhibition			platelet	17537991	ACP1, FCGR2A		heparin-induced thrombocytopenia,Thrombosis	ACP1 inhibits FCGR2A.
+UBASH3B	FCGR2A	Inhibition			platelet	27765766	FCGR2A, UBASH3B		heparin-induced thrombocytopenia,Thrombosis	UBASH3B inhibits FCGR2A.
+PECAM1	FCGR2A	Inhibition			platelet	22793995, 12893767	FCGR2A, PECAM1		heparin-induced thrombocytopenia,Thrombosis	PECAM1 inhibits FCGR2A.
+FCGR2A	platelet activation	Leads To			platelet	25900780, 21848694, 19494352, 15845897	FCGR2A		heparin-induced thrombocytopenia,Thrombosis	FCGR2A leads to platelet activation.
+FCGR2A	monocyte activation	Leads To			monocyte	26518435	FCGR2A		heparin-induced thrombocytopenia,Thrombosis	FCGR2A leads to monocyte activation.
+F2	heparin-induced thrombocytopenia	Leads To			null	23798713, 13911732	F2		heparin-induced thrombocytopenia,Thrombosis	F2 leads to heparin-induced thrombocytopenia.
+GPIIb/IIIa, ITGB3	platelet aggregation	Leads To			platelet, null	18208809, 11007943	ITGB3		heparin-induced thrombocytopenia,Thrombosis	GPIIb/IIIa (ITGA2B, ITGB3), ITGB3 leads to platelet aggregation.
+GPR65	regulation of T cell apoptotic process	Leads To			T cell	22445881, 8599842	GPR65		heparin-induced thrombocytopenia,Thrombosis	GPR65 leads to regulation of T cell apoptotic process.
+F2	platelet activation	Leads To			null, platelet	12632026, 11084032	F2		heparin-induced thrombocytopenia,Thrombosis	F2 leads to platelet activation.
+immunoglobulin production	IgG	Leads To			B cell	26176382, 23460609			heparin-induced thrombocytopenia,Thrombosis	immunoglobulin production leads to IgG.
+Heparin/PF4/IgG complex	platelet aggregation	Leads To			null	21848694, 12871282			heparin-induced thrombocytopenia,Thrombosis	Heparin/PF4/IgG complex (heparin, IGHG1, IGHG2, IGHG3, IGHG4, IGKC, IGKJ@, IGKV@, IGLC@, IGLJ@, IGLV@, PF4) leads to platelet aggregation.
+IL10	negative regulation of activated T cell proliferation	Leads To			monocyte, T cell	1578140, 1655948	IL10		heparin-induced thrombocytopenia,Thrombosis	IL10 leads to negative regulation of activated T cell proliferation.
+B-cell receptor	immunoglobulin production	Leads To			B cell	26176382, 9521060, 7495731, 1371884			heparin-induced thrombocytopenia,Thrombosis	B-cell receptor leads to immunoglobulin production.
+ITGB3	platelet activation	Leads To			platelet	22793995, 18208809	ITGB3		heparin-induced thrombocytopenia,Thrombosis	ITGB3 leads to platelet activation.
+neutrophil activation	Thrombosis	Leads To			neutrophil, null	30899022, 30634198, 30232279, 18539895			heparin-induced thrombocytopenia,Thrombosis	neutrophil activation leads to Thrombosis.
+platelet activation	PF4	Leads To			platelet	15140134, 12738684	PF4		heparin-induced thrombocytopenia,Thrombosis	platelet activation leads to PF4.
+F2	Thrombosis	Leads To			null	23798713, 17635715	F2		heparin-induced thrombocytopenia,Thrombosis	F2 leads to Thrombosis.
+HLA-DRA/HLA-DRB1 complex	immunoglobulin production	Leads To			B cell	10948188, 8627185			heparin-induced thrombocytopenia,Thrombosis	HLA-DRA/HLA-DRB1 complex (HLA-DRA, HLA-DRB1) leads to immunoglobulin production.
+FCGR2A	neutrophil activation	Leads To			neutrophil	30899022, 18539895	FCGR2A		heparin-induced thrombocytopenia,Thrombosis	FCGR2A leads to neutrophil activation.
+platelet aggregation	heparin-induced thrombocytopenia	Leads To			null	26291522, 21168221, 6722356			heparin-induced thrombocytopenia,Thrombosis	platelet aggregation leads to heparin-induced thrombocytopenia.
+PF4	monocyte activation	Leads To			null, monocyte	20724543, 11493478, 11342462	PF4		heparin-induced thrombocytopenia,Thrombosis	PF4 leads to monocyte activation.
+PF4	endothelial cell activation	Leads To			null, endothelial cell	11809731, 3807952	PF4		heparin-induced thrombocytopenia,Thrombosis	PF4 leads to endothelial cell activation.
+PF4	PF4	Transport			platelet, null	10673384, 6386495	PF4		heparin-induced thrombocytopenia,Thrombosis	Transport from PF4 to PF4.

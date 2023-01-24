@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+siponimod	S1PR1	Activation			hepatocyte, astrocyte	26856814	S1PR1	siponimod	Bradycardia,Demyelinating Diseases	siponimod activates S1PR1.
+siponimod	S1PR3	Activation			hepatocyte, astrocyte	26856814	S1PR3	siponimod	Bradycardia,Demyelinating Diseases	siponimod activates S1PR3.
+siponimod	S1PR5	Activation			hepatocyte, astrocyte	26856814	S1PR5	siponimod	Bradycardia,Demyelinating Diseases	siponimod activates S1PR5.
+siponimod m5	siponimod m3	Biochemical Reaction			hepatocyte	30088221, 29735753			Bradycardia,Demyelinating Diseases	Biochemical reaction from siponimod m5 to siponimod m3.
+siponimod	siponimod m5	Biochemical Reaction	CYP2B6, CYP2C19, CYP2C8, CYP2C9, CYP3A4	Gene	hepatocyte	31926605, 30088221, 29735753		siponimod	Bradycardia,Demyelinating Diseases	Biochemical reaction from siponimod to siponimod m5. This interaction can be catalyzed by CYP2B6, CYP2C9, CYP2C8, CYP3A4 or CYP2C19.
+S1PR1	Demyelinating Diseases	Inhibition			astrocyte, null	26856814	S1PR1		Bradycardia,Demyelinating Diseases	S1PR1 inhibits Demyelinating Diseases.
+S1PR5	Demyelinating Diseases	Inhibition			astrocyte, null	26856814	S1PR5		Bradycardia,Demyelinating Diseases	S1PR5 inhibits Demyelinating Diseases.
+S1PR3	Bradycardia	Leads To			astrocyte, null	26856814	S1PR3		Bradycardia,Demyelinating Diseases	S1PR3 leads to Bradycardia.

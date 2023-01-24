@@ -1,0 +1,113 @@
+{
+  "citations": [
+    {
+      "id": 15101667,
+      "title": "CYP2D6 as a treatment decision aid for ER-positive non-metastatic breast cancer patients: a systematic review with accompanying clinical practice guidelines.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/30411242",
+      "authors": [
+        "Drögemöller Britt I",
+        "Wright Galen E B",
+        "Shih Joanne",
+        "Monzon Jose G",
+        "Gelmon Karen A",
+        "Ross Colin J D",
+        "Amstutz Ursula",
+        "Carleton Bruce C",
+        "CPNDS Clinical Recommendations Group"
+      ],
+      "crossReferences": [
+        {
+          "id": 1450361941,
+          "resource": "PubMed",
+          "resourceId": "30411242",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/30411242",
+          "version": 0
+        },
+        {
+          "id": 1450361942,
+          "resource": "DOI",
+          "resourceId": "10.1007/s10549-018-5027-0",
+          "_url": "http://dx.doi.org/10.1007%2Fs10549-018-5027-0",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Breast cancer research and treatment",
+      "meshDiseases": [],
+      "meshTerms": [],
+      "month": 11,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2018-11-01T00:00:00-07:00",
+      "summary": "OBJECTIVE: Tamoxifen is one of the principal treatments for estrogen receptor (ER)-positive breast cancer. Unfortunately, between 30 and 50% of patients receiving this hormonal therapy relapse. Since CYP2D6 genetic variants have been reported to play an important role in survival outcomes after treatment with tamoxifen, this study sought to summarize and critically appraise the available scientific evidence on this topic.\n\nMETHODS: A systematic literature review was conducted to identify studies investigating associations between CYP2D6 genetic variation and survival outcomes after tamoxifen treatment. Critical appraisal of the retrieved scientific evidence was performed, and recommendations were developed for CYP2D6 genetic testing in the context of tamoxifen therapy.\n\nRESULTS: Although conflicting literature exists, the majority of the current evidence points toward CYP2D6 genetic variation affecting survival outcomes after tamoxifen treatment. Of note, review of the CYP2D6 genotyping assays used in each of the studies revealed the importance of comprehensive genotyping strategies to accurately predict CYP2D6 metabolizer phenotypes.\n\nCONCLUSIONS: Critical appraisal of the literature provided evidence for the value of comprehensive CYP2D6 genotyping panels in guiding treatment decisions for non-metastatic ER-positive breast cancer patients. Based on this information, it is recommended that alternatives to standard tamoxifen treatments may be considered in CYP2D6 poor or intermediate metabolizers.",
+      "terms": [],
+      "version": 0,
+      "year": 2018
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166181721",
+    "name": "Annotation of CPNDS Guideline for tamoxifen and CYP2D6",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1450361953,
+        "date": "2019-01-28T14:27:26.413-08:00",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741800,
+        "date": "2022-04-05T13:52:27.952-07:00",
+        "description": "Updated formatting and added testing guidance tag",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15101667,"title":"CYP2D6 as a treatment decision aid for ER-positive non-metastatic breast cancer patients: a systematic review with accompanying clinical practice guidelines.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/30411242","crossReferences":[{"id":1450361941,"resource":"PubMed","resourceId":"30411242","_url":"https://www.ncbi.nlm.nih.gov/pubmed/30411242"},{"id":1450361942,"resource":"DOI","resourceId":"10.1007/s10549-018-5027-0","_url":"http://dx.doi.org/10.1007%2Fs10549-018-5027-0"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA451581",
+        "name": "tamoxifen",
+        "version": 21
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA128",
+        "symbol": "CYP2D6",
+        "name": "cytochrome P450 family 2 subfamily D member 6",
+        "version": 7890
+      }
+    ],
+    "source": "CPNDS",
+    "summaryMarkdown": {
+      "id": 1450361939,
+      "html": "<p>The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published clinical practice guidelines for <em>CYP2D6</em> as a treatment decision aid for ER-positive non-metastatic breast cancer patients. The guidelines recommend that alternatives to standard tamoxifen treatments may be considered in CYP2D6 poor or intermediate metabolizers with an emphasis on the use of comprehensive CYP2D6 genotyping panels in guiding treatment decisions.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1450361940,
+      "html": "<p>The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published clinical practice guidelines for <em>CYP2D6</em> as a treatment decision aid for ER-positive non-metastatic breast cancer patients in the journal <em>Breast Cancer Research and Treatment</em>.\nExcerpts from &quot;<em>CYP2D6</em> as a treatment decision aid for ER-positive non-metastatic breast cancer patients: a systematic review with accompanying clinical practice guidelines&quot; [Article:<a href=\"/pmid/30411242\">30411242</a>] follow:</p>\n<p>Literature review</p>\n<blockquote class=\"blockquote\">\n<ul>\n<li>Evidence was only evaluated regarding the treatment of ER-positive breast cancer with tamoxifen, the recommendations do not apply to ER-negative or triple-negative breast cancer.</li>\n<li>48 articles were identified for inclusion and systematically evaluated.</li>\n<li>Examination of confounding factors based on 38 studies showed that comprehensive genotyping panels being more likely to report a significant association with CYP2D6-survival outcome (P = 0.006).</li>\n<li>Majority of evidence points toward the influence that <em>CYP2D6</em> genetic variation exerts on survival outcomes after treatment with tamoxifen.</li>\n</ul>\n</blockquote>\n<p>Guidance</p>\n<blockquote class=\"blockquote\">\n<p><strong>Which patients should be tested for <em>CYP2D6</em>?</strong><br />\n&nbsp;</p>\n<ul>\n<li>Genetic testing for <em>CYP2D6</em> is RECOMMENDED prior to initiation of adjuvant tamoxifen treatment (Grade B— Moderate) for postmenopausal women with non-metastatic ER-positive breast cancer in whom tamoxifen is being considered as a therapeutic alternative to aromatase inhibitors (AIs).</li>\n<li>In cases where initial tamoxifen treatment is being considered, <em>CYP2D6</em> genotyping should be performed and individuals who are CYP2D6 poor/intermediate metabolizers should opt for 5 years of AI treatment.</li>\n<li>Genetic testing for <em>CYP2D6</em> is RECOMMENDED prior to initiation of adjuvant treatment in higher-risk breast cancer patients (Grade B—moderate) for premenopausal women with non-metastatic ER-positive breast cancer.</li>\n<li>Without ovarian suppression, aromatase inhibitors (AIs) are not a viable therapeutic alternative in premenopausal women. In such patients, if tamoxifen is the only therapeutic option, <em>CYP2D6</em> genotyping prior to initiation of treatment may inform dosing decisions.</li>\n</ul>\n</blockquote>\n<p>Table 1 - Treatment guidelines for non-metastatic ER-positive breast cancer patients based on CYP2D6 activity scores from the publication “<em>CYP2D6</em> as a treatment decision aid for ER-positive non-metastatic breast cancer patients: a systematic review with accompanying clinical practice guidelines&quot; [Article:<a href=\"/pmid/30411242\">30411242</a>]</p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>CYP2D6 metabolizer status</th>\n<th>Therapeutic recommendation - AIs are viable treatment option</th>\n<th>Therapeutic recommendation - AIs are contraindicated</th>\n<th>Strength of recommendation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Poor Metabolizer (AS = 0.0)</td>\n<td>AI (with ovarian suppressor in premenopausal women)</td>\n<td>Tamoxifen (40 mg/day) <sup>a,b</sup></td>\n<td>Grade B—moderate</td>\n</tr>\n<tr>\n<td>Intermediate Metabolizer (AS = 0.5–1.0)</td>\n<td>AI (with ovarian suppressor in premenopausal women)</td>\n<td>Tamoxifen (40 mg/day) <sup>b</sup></td>\n<td>Grade B—moderate</td>\n</tr>\n<tr>\n<td>Normal/Ultrarapid Metabolizer (AS = 1.5) <sup>c</sup></td>\n<td>AI (with ovarian suppressor in premenopausal women) or tamoxifen (20 mg/day) <sup>b</sup></td>\n<td>Tamoxifen (20 mg/day) <sup>b</sup></td>\n<td>Grade B—moderate</td>\n</tr>\n</tbody>\n</table>\n<p>AI- aromatase inhibitor, AS activity score</p>\n<p><sup>a</sup> Studies have shown that in individuals with AS=0.0, although a dosage change increases endoxifen levels, these levels do not completely normalize. Therefore, AIs may be a preferred treatment in these individuals<br />\n<sup>b</sup> In individuals receiving tamoxifen, moderate or strong CYP2D6 inhibitors (refer to the Flockhart P450 Drug Interaction Table for classification of CYP2D6 inhibitors) should be avoided<br />\n<sup>c</sup> Evidence is currently limited regarding whether individuals with an AS=1.0 should be considered intermediate metabolizers. Therefore, dosing decisions for these individuals may be made in accordance with NM/IM dosing guidelines</p>\n<p><strong>Which genetic variants should be tested for <em>CYP2D6</em>?</strong></p>\n<ul>\n<li>Testing of all common genetic variants is RECOMMENDED (Grade A—strong)\n<ul>\n<li>Due to the large number of genetic variants observed in <em>CYP2D6</em>, exhaustive genotyping panels including both common and rare variants are preferred. However, where this is not feasible, patients should preferably be genotyped for variants affecting the function of CYP2D6 occurring at a frequency of &gt; 1% in major ethnic groups. See supplemental material for variants.</li>\n</ul>\n</li>\n</ul>\n<p><strong>Which biological samples are recommended for genotyping?</strong></p>\n<ul>\n<li>The use of DNA that is derived from a source other than tumor or FFPE samples is RECOMMENDED (Grade A— strong)</li>\n</ul>\n",
+      "version": 1
+    },
+    "userId": "katrin",
+    "version": 2
+  }
+}

@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+fluvastatin	6-hydroxyfluvastatin	Biochemical Reaction	CYP2C9	Gene	hepatocyte	30989645, 12891229, 10064574		fluvastatin		Biochemical reaction from fluvastatin to 6-hydroxyfluvastatin. This interaction is catalyzed by CYP2C9.
+fluvastatin	5-hydroxyfluvastatin	Biochemical Reaction	CYP1A1, CYP2C8, CYP2C9, CYP2D6, CYP3A4	Gene	hepatocyte	15801541, 10064574		fluvastatin		Biochemical reaction from fluvastatin to 5-hydroxyfluvastatin. This interaction can be catalyzed by CYP3A4, CYP2C9, CYP2D6, CYP1A1 or CYP2C8.
+fluvastatin	desisopropyl-dihydro-fluvastatin	Biochemical Reaction	CYP2C9	Gene	hepatocyte	10064574		fluvastatin		Biochemical reaction from fluvastatin to desisopropyl-dihydro-fluvastatin. This interaction is catalyzed by CYP2C9.
+fluvastatin	fluvastatin	Transport	ABCC2, ABCG2	Gene	hepatocyte, null	23562342, 19842935		fluvastatin		Transport from fluvastatin to fluvastatin. This interaction can be catalyzed by ABCC2 or ABCG2.
+fluvastatin	fluvastatin	Transport	SLCO1B1, SLCO2B1	Gene	null, hepatocyte	30989645, 16198652, 15548849		fluvastatin		Transport from fluvastatin to fluvastatin. This interaction can be catalyzed by SLCO1B1 or SLCO2B1.

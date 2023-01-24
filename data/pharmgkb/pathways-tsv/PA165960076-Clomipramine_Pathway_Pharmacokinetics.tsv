@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+clomipramine	desmethyl clomipramine	Biochemical Reaction	CYP1A2,CYP2C19,CYP3A4	Catalysis	hepatocyte		"CYP1A2","CYP2C19","CYP3A4"	clomipramine	
+desmethyl clomipramine	didesmethyl clomipramine	Biochemical Reaction			hepatocyte	7903373			
+hydroxy clomipramine	hydroxy clomipramine glucuronide	Biochemical Reaction			hepatocyte	1451721,7859811			
+hydroxy desmethyl  clomipramine	hydroxy desmethyl  clomipramine glucuronide	Biochemical Reaction			hepatocyte	1451721,7859811			
+clomipramine	hydroxy clomipramine	Biochemical Reaction	CYP2D6	Catalysis	hepatocyte	1451721,7859811	CYP2D6	clomipramine	
+desmethyl clomipramine	hydroxy desmethyl  clomipramine	Biochemical Reaction	CYP2D6	Catalysis	hepatocyte	1451721,7859811	CYP2D6		

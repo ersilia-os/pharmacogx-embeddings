@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+methylphenidate	ritalinic acid	Biochemical Reaction	CES1	Gene	hepatocyte	2079507, 2395090, 4473537		methylphenidate		Biochemical reaction from methylphenidate to ritalinic acid. This interaction is catalyzed by CES1.
+p-hydroxy-methylphenidate	p-hydroxy-ritalinic acid	Biochemical Reaction			hepatocyte	4473537				Biochemical reaction from p-hydroxy-methylphenidate to p-hydroxy-ritalinic acid.
+p-hydroxy-ritalinic acid	p-hydroxy-ritalinic acid glucuoronide	Biochemical Reaction			hepatocyte	4473537				Biochemical reaction from p-hydroxy-ritalinic acid to p-hydroxy-ritalinic acid glucuoronide.
+methylphenidate	6-oxo-methylphenidate	Biochemical Reaction			hepatocyte	4473537		methylphenidate		Biochemical reaction from methylphenidate to 6-oxo-methylphenidate.
+methylphenidate	p-hydroxy-methylphenidate	Biochemical Reaction			hepatocyte	7328584, 4473537		methylphenidate		Biochemical reaction from methylphenidate to p-hydroxy-methylphenidate.
+6-oxo-methylphenidate	6-oxo-ritalinic acid	Biochemical Reaction			hepatocyte	4473537				Biochemical reaction from 6-oxo-methylphenidate to 6-oxo-ritalinic acid.
+ritalinic acid	elimination	Leads To			hepatocyte, null	4473537				ritalinic acid leads to elimination.
+6-oxo-ritalinic acid	elimination	Leads To			hepatocyte, null	4473537				6-oxo-ritalinic acid leads to elimination.
+p-hydroxy-ritalinic acid glucuoronide	elimination	Leads To			hepatocyte, null	4473537				p-hydroxy-ritalinic acid glucuoronide leads to elimination.

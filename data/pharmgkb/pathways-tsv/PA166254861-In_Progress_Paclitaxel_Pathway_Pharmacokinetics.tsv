@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+paclitaxel	3'-p-hydroxypaclitaxel	Biochemical Reaction	CYP3A4	Gene	hepatocyte	9492385		paclitaxel		Biochemical reaction from paclitaxel to 3'-p-hydroxypaclitaxel. This interaction is catalyzed by CYP3A4.
+paclitaxel	6alpha-hydroxypaclitaxel	Biochemical Reaction	CYP2C8	Gene	hepatocyte	9492385		paclitaxel		Biochemical reaction from paclitaxel to 6alpha-hydroxypaclitaxel. This interaction is catalyzed by CYP2C8.
+3'-p-hydroxypaclitaxel	dihydroxypaclitaxel	Biochemical Reaction	CYP2C8	Gene	hepatocyte	9492385				Biochemical reaction from 3'-p-hydroxypaclitaxel to dihydroxypaclitaxel. This interaction is catalyzed by CYP2C8.
+6alpha-hydroxypaclitaxel	dihydroxypaclitaxel	Biochemical Reaction	CYP3A4	Gene	hepatocyte	9492385				Biochemical reaction from 6alpha-hydroxypaclitaxel to dihydroxypaclitaxel. This interaction is catalyzed by CYP3A4.

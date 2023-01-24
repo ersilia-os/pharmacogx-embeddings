@@ -1,0 +1,148 @@
+{
+  "citations": [
+    {
+      "id": 15096965,
+      "title": "Clinical Practice Recommendations on Genetic Testing of CYP2C9 and VKORC1 Variants in Warfarin Therapy.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/26186657",
+      "authors": [
+        "Shaw Kaitlyn",
+        "Amstutz Ursula",
+        "Kim Richard B",
+        "Lesko Lawrence J",
+        "Turgeon Jacques",
+        "Michaud Veronique",
+        "Hwang Soomi",
+        "Ito Shinya",
+        "Ross Colin",
+        "Carleton Bruce C",
+        "CPNDS Clinical Recommendation Group"
+      ],
+      "crossReferences": [
+        {
+          "id": 1449287318,
+          "resource": "PubMed",
+          "resourceId": "26186657",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/26186657",
+          "version": 0
+        },
+        {
+          "id": 1449287319,
+          "resource": "DOI",
+          "resourceId": "10.1097/FTD.0000000000000192",
+          "_url": "http://dx.doi.org/10.1097%2FFTD.0000000000000192",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapeutic drug monitoring",
+      "meshDiseases": [],
+      "meshTerms": [
+        "Anticoagulants",
+        "Cytochrome P-450 CYP2C9",
+        "Genetic Testing",
+        "Humans",
+        "Practice Guidelines as Topic",
+        "Vitamin K Epoxide Reductases",
+        "Warfarin"
+      ],
+      "month": 8,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "428-36",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2015-08-01T00:00:00-07:00",
+      "summary": "OBJECTIVE: To systematically review evidence on genetic variants influencing outcomes during warfarin therapy and provide practice recommendations addressing the key questions: (1) Should genetic testing be performed in patients with an indication for warfarin therapy to improve achievement of stable anticoagulation and reduce adverse effects? (2) Are there subgroups of patients who may benefit more from genetic testing compared with others? (3) How should patients with an indication for warfarin therapy be managed based on their genetic test results?\n\nMETHODS: A systematic literature search was performed for VKORC1 and CYP2C9 and their association with warfarin therapy. Evidence was critically appraised, and clinical practice recommendations were developed based on expert group consensus.\n\nRESULTS: Testing of VKORC1 (-1639G>A), CYP2C9*2, and CYP2C9*3 should be considered for all patients, including pediatric patients, within the first 2 weeks of therapy or after a bleeding event. Testing for CYP2C9*5, *6, *8, or *11 and CYP4F2 (V433M) is currently not recommended. Testing should also be considered for all patients who are at increased risk of bleeding complications, who consistently show out-of-range international normalized ratios, or suffer adverse events while receiving warfarin. Genotyping results should be interpreted using a pharmacogenetic dosing algorithm to estimate the required dose.\n\nCONCLUSIONS: This review provides the latest update on genetic markers for warfarin therapy, clinical practice recommendations as a basis for informed decision making regarding the use of genotype-guided dosing in patients with an indication for warfarin therapy, and identifies knowledge gaps to guide future research.",
+      "terms": [],
+      "version": 2,
+      "volume": "37",
+      "year": 2015
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166170752",
+    "name": "Annotation of CPNDS Guideline for warfarin and CYP2C9",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1449003697,
+        "date": "2017-10-31T00:00:00-07:00",
+        "description": "initial save",
+        "type": "Create",
+        "version": 1
+      },
+      {
+        "id": 1451741822,
+        "date": "2022-04-05T13:53:14.941-07:00",
+        "description": "Added testing guidance tag",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15096965,"title":"Clinical Practice Recommendations on Genetic Testing of CYP2C9 and VKORC1 Variants in Warfarin Therapy.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/26186657","crossReferences":[{"id":1449287318,"resource":"PubMed","resourceId":"26186657","_url":"https://www.ncbi.nlm.nih.gov/pubmed/26186657"},{"id":1449287319,"resource":"DOI","resourceId":"10.1097/FTD.0000000000000192","_url":"http://dx.doi.org/10.1097%2FFTD.0000000000000192"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816543",
+        "symbol": "CYP2C9*2",
+        "name": "*2",
+        "version": 21
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816544",
+        "symbol": "CYP2C9*3",
+        "name": "*3",
+        "version": 23
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155091",
+        "symbol": "rs9923231",
+        "name": "rs9923231",
+        "version": 5
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA451906",
+        "name": "warfarin",
+        "version": 16
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA126",
+        "symbol": "CYP2C9",
+        "name": "cytochrome P450 family 2 subfamily C member 9",
+        "version": 7876
+      }
+    ],
+    "source": "CPNDS",
+    "summaryMarkdown": {
+      "id": 1449003696,
+      "html": "<p>The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published guidelines for the use of pharmacogenetic testing for variants in VKORC1 and CYP2C9 in adult and pediatric patients with an indication for warfarin. They recommend testing for the VKORC1 SNP -1639G&gt;A (rs9923231) and the CYP2C9 alleles *2 and *3 in order to better guide warfarin dosage.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1449003695,
+      "html": "<p>The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published guidelines in the journal Therapeutic Drug Monitoring. Excerpts from “Clinical Practice Recommendations on Genetic Testing of CYP2C9 and VKORC1 Variants in Warfarin Therapy” [Article:<a href=\"/pmid/26186657\">26186657</a>] follow:</p>\n<blockquote class=\"blockquote\">\n<ul>\n<li>\n<p>Testing of all warfarin-naive patients for VKORC1 (-1639G&gt;A), CYP2C9*2, and CYP2C9*3 should be considered before initiation of therapy and within the first 2 weeks of therapy (level B - moderate recommendation). Genetic testing for CYP2C9*5, *6, *8 or *11 and CYP4F2 V433M is currently not recommended (level C - optional recommendation).\n<strong>Management of patients with VKORC1 and CYP2C9 variants</strong></p>\n</li>\n<li>\n<p>Genotyping results should be interpreted using a pharmacogenetic dosing algorithm to estimate the required dose (level A – strong recommendation).</p>\n</li>\n<li>\n<p>After testing for CYP2C9*2, CYP2C9*3, and VKORC1 (-1639G&gt;A), pharmacogenetic dosing algorithms that incorporate both clinical variables and genetic information should be used to predict a stable warfarin dose.</p>\n</li>\n<li>\n<p>Of importance, pharmacogenetic-guided dosing should not replace regular INR monitoring. Rather, test results should be used to help physicians estimate an appropriate warfarin dose, while still using regular INR monitoring to ensure that stable anticoagulation is achieved.</p>\n</li>\n</ul>\n</blockquote>\n<p>See full guideline [Article:<a href=\"/pmid/26186657\">26186657</a>] for further details and grading scheme.</p>\n",
+      "version": 2
+    },
+    "userId": "rachel",
+    "version": 7
+  }
+}

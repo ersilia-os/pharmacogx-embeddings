@@ -1,0 +1,14 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+cotinine	norcotinine	Biochemical Reaction	CYP2A6	Gene	hepatocyte	16359169, 9010629				Biochemical reaction from cotinine to norcotinine. This interaction is catalyzed by CYP2A6.
+nicotine	nicotine iminium ion	Biochemical Reaction	CYP2A13, CYP2A6, CYP2B6	Gene	hepatocyte	25293881, 16359169, 16272956, 15735609, 15528319, 15592323, 15940289, 15564629, 15475735, 11207029, 11180041, 10999944, 10544257, 10350185, 8937855		nicotine		Biochemical reaction from nicotine to nicotine iminium ion. This interaction can be catalyzed by CYP2B6, CYP2A13 or CYP2A6.
+nicotine n-oxide	nicotine	Biochemical Reaction			hepatocyte	28290528, 4753093		nicotine		Biochemical reaction from nicotine n-oxide to nicotine.
+cotinine	3-hydroxycotinine	Biochemical Reaction	CYP2A13, CYP2A6	Gene	hepatocyte	16188955, 16359169, 15528319, 8627511				Biochemical reaction from cotinine to 3-hydroxycotinine. This interaction can be catalyzed by CYP2A6 or CYP2A13.
+cotinine	cotinine glucuronide	Biochemical Reaction	UGT1A1, UGT1A4, UGT1A9, UGT2B10	Gene	hepatocyte	17576790, 12433823				Biochemical reaction from cotinine to cotinine glucuronide. This interaction can be catalyzed by UGT1A9, UGT2B10, UGT1A4 or UGT1A1.
+nicotine iminium ion	cotinine	Biochemical Reaction	AOX1	Gene	hepatocyte	25293881, 19184652				Biochemical reaction from nicotine iminium ion to cotinine. This interaction is catalyzed by AOX1.
+3-hydroxycotinine	3-hydroxycotinine glucuronide	Biochemical Reaction	UGT1A4, UGT1A9, UGT2B15, UGT2B4, UGT2B7	Gene	hepatocyte	15470160				Biochemical reaction from 3-hydroxycotinine to 3-hydroxycotinine glucuronide. This interaction can be catalyzed by UGT2B7, UGT2B4, UGT1A9, UGT1A4 or UGT2B15.
+nicotine	nicotine n-oxide	Biochemical Reaction	FMO3	Gene	hepatocyte	28290528, 1446003, 3380084		nicotine		Biochemical reaction from nicotine to nicotine n-oxide. This interaction is catalyzed by FMO3.
+cotinine	5-hydroxycotinine	Biochemical Reaction	CYP2A13, CYP2A6	Gene	hepatocyte	16359169				Biochemical reaction from cotinine to 5-hydroxycotinine. This interaction can be catalyzed by CYP2A6 or CYP2A13.
+nornicotine	norcotinine	Biochemical Reaction			hepatocyte	9010629				Biochemical reaction from nornicotine to norcotinine.
+cotinine	cotinine n-oxide	Biochemical Reaction			hepatocyte	21452992				Biochemical reaction from cotinine to cotinine n-oxide.
+nicotine	nicotine glucuronide	Biochemical Reaction	UGT1A4, UGT2B10, UGT2B7	Gene	hepatocyte	17576790, 12433823		nicotine		Biochemical reaction from nicotine to nicotine glucuronide. This interaction can be catalyzed by UGT2B10, UGT1A4 or UGT2B7.
+nicotine	nornicotine	Biochemical Reaction	CYP2A13, CYP2A6, CYP2B6	Gene	hepatocyte	16135656		nicotine		Biochemical reaction from nicotine to nornicotine. This interaction can be catalyzed by CYP2B6, CYP2A13 or CYP2A6.

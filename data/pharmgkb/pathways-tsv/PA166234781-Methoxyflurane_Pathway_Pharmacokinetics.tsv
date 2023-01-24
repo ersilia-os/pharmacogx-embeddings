@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+methoxyflurane	methoxydifluoroacetic acid	Biochemical Reaction			brush border cell of the proximal tubule	17006072		methoxyflurane	nephrotoxicity	Biochemical reaction from methoxyflurane to methoxydifluoroacetic acid.
+methoxyflurane	dichloroacetic acid, fluoride	Biochemical Reaction	CYP1A2, CYP2C9, CYP2D6, CYP2E1	Gene	brush border cell of the proximal tubule	17006072, 8214760		methoxyflurane	nephrotoxicity	Biochemical reaction from methoxyflurane to dichloroacetic acid, fluoride. This interaction can be catalyzed by CYP2E1, CYP1A2, CYP2D6 or CYP2C9.
+dichloroacetic acid	nephrotoxicity	Leads To			brush border cell of the proximal tubule	17006073			nephrotoxicity	dichloroacetic acid leads to nephrotoxicity.
+fluoride	nephrotoxicity	Leads To			brush border cell of the proximal tubule	17006073			nephrotoxicity	fluoride leads to nephrotoxicity.

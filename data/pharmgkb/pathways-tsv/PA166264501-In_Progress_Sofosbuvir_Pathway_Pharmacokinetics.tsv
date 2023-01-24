@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+sofosbuvir	GS-566500	Biochemical Reaction	CES1, CTSA	Gene	hepatocyte	35107877, 25822283		sofosbuvir		Biochemical reaction from sofosbuvir to GS-566500. This interaction can be catalyzed by CES1 or CTSA.
+GS-606965	GS-461203	Biochemical Reaction	CMPK1, CMPK2, UCK2	Gene	hepatocyte	35107877, 25822283				Biochemical reaction from GS-606965 to GS-461203. This interaction can be catalyzed by CMPK1, UCK2 or CMPK2.
+GS-566500	GS-606965	Biochemical Reaction	HINT1	Gene	hepatocyte	35107877, 25822283				Biochemical reaction from GS-566500 to GS-606965. This interaction is catalyzed by HINT1.
+GS-606965	GS-331007	Biochemical Reaction			hepatocyte	25822283				Biochemical reaction from GS-606965 to GS-331007.

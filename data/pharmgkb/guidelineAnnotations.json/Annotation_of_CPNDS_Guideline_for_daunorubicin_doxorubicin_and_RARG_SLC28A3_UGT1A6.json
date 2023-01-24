@@ -1,0 +1,120 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166159180",
+    "name": "Annotation of CPNDS Guideline for daunorubicin, doxorubicin and RARG, SLC28A3, UGT1A6",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1448102965,
+        "date": "2016-06-16T00:00:00-07:00",
+        "type": "Create",
+        "version": 1
+      },
+      {
+        "id": 1451741749,
+        "date": "2022-04-05T13:46:18.357-07:00",
+        "description": "Added testing guidance tag",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451822481,
+        "date": "2022-07-11T09:07:38.014-07:00",
+        "description": "Added pediatric information",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15097536,"title":"Recommendations for genetic testing to reduce the incidence of anthracycline-induced cardiotoxicity.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338111","crossReferences":[{"id":1449288594,"resource":"PubMed Central","resourceId":"PMC5338111","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5338111"},{"id":1449288593,"resource":"PubMed","resourceId":"27197003","_url":"https://www.ncbi.nlm.nih.gov/pubmed/27197003"},{"id":1449288595,"resource":"DOI","resourceId":"10.1111/bcp.13008","_url":"http://dx.doi.org/10.1111%2Fbcp.13008"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": true,
+    "pediatricMarkdown": {
+      "id": 1451822480,
+      "html": "<p>Excerpt from the CPNDS guideline:</p>\n<blockquote class=\"blockquote\">\n<p>Pharmacogenomic testing should be performed in all pediatric cancer patients who are treated with doxorubicin or daunorubicin for the following genetic variants <em>RARG</em> rs2229774, <em>SLC28A3</em> rs7853758, <em>UGT1A6*4</em> rs17863783.</p>\n</blockquote>\n",
+      "version": 0
+    },
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166155854",
+        "symbol": "rs17863783",
+        "name": "rs17863783",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166154532",
+        "symbol": "rs2229774",
+        "name": "rs2229774",
+        "version": 3
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166157790",
+        "symbol": "rs7853758",
+        "name": "rs7853758",
+        "version": 5
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA449212",
+        "name": "daunorubicin",
+        "version": 7
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA449412",
+        "name": "doxorubicin",
+        "version": 30
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA34227",
+        "symbol": "RARG",
+        "name": "retinoic acid receptor gamma",
+        "version": 16
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA426",
+        "symbol": "SLC28A3",
+        "name": "solute carrier family 28 member 3",
+        "version": 53
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA37181",
+        "symbol": "UGT1A6",
+        "name": "UDP glucuronosyltransferase 1 family, polypeptide A6",
+        "version": 365
+      }
+    ],
+    "source": "CPNDS",
+    "summaryMarkdown": {
+      "id": 1448102957,
+      "html": "<p>The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published guidelines for the use of <em>RARG</em> , <em>SLC28A3</em> , and <em>UGT1A6</em> when prescribing anthracyclines for pediatric cancer patients. They recommend that pharmacogenomic testing of <em>RARG</em> rs2229774, <em>SLC28A3</em> rs7853758, and <em>UGT1A6 *4</em> (rs17863783) should be performed in all pediatric cancer patients who are treated with daunorubicin or doxorubicin because the association of those genetic variants with anthracycline associated cardiotoxicity (ACT).</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1448102956,
+      "html": "<p>The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published genotype-based drug dosing guidelines for anthracyclines in the British Journal of Clinical Pharmacology. Excerpts from &quot;Recommendations for Genetic Testing to Reduce the Incidence of Anthracycline-induced Cardiotoxicity.&quot; [Article:<a href=\"/pmid/27197003\">27197003</a>] follow:</p>\n<blockquote class=\"blockquote\">\n<ul>\n<li>\n<p>All other patients should be considered at moderate genetic risk. Pharmacogenomic testing should be performed in all pediatric cancer patients who are treated with doxorubicin or daunorubicin for the following genetic variants <em>RARG</em> rs2229774, <em>SLC28A3</em> rs7853758, <em>UGT1A6*4</em> rs17863783. The rs2229774 A allele and the UGT1A6*4 s17863783 T allele are the high risk variants, whereas the rs7853758 A allele is a low-risk allele. For patients who carry the reduced risk allele without the high-risk alleles, classification into a lower cardiotoxicity risk should be considered ___(Level B - moderate recommendation)___.</p>\n</li>\n<li>\n<p>Genetic testing is not recommended for adults and pediatric patients receiving alternate anthracyclines ___(Level C - optional recommendation)___.</p>\n</li>\n</ul>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p><strong>Management options based on ACT risk</strong></p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<ul>\n<li>\n<p><em>Low risk patients - normal follow up</em> <strong><em>(Level A recommendation)</em></strong></p>\n</li>\n<li>\n<p><em>Moderate risk patients - increase frequency of monitoring</em> <strong><em>(Level A recommendation)</em></strong></p>\n</li>\n<li>\n<p><em>High risk patients - the following management options should be considered</em>:</p>\n<ul>\n<li>Increase frequency of monitoring with serial yearly echocardiographic monitoring an follow-up as recommended by COG guidelines <strong><em>(Level A recommendation)</em></strong></li>\n<li>Aggressive screening and management of cardiovascular risk factors including obesity, diabetes, hypertension, coronary artery idea, lipid disorders and peripheral vascular disease <strong><em>(Level A recommendation)</em></strong></li>\n<li>Prescribe dexrazoxane <strong><em>(Level B recommendation)</em></strong></li>\n<li>Use liposomal encapsulated anthracycline preparations <strong><em>(Level C recommendation)</em></strong></li>\n<li>Use of continuous inclusion or slower inclusion rates <strong><em>(Level C recommendation)</em></strong></li>\n<li>Use of less cardiotoxic types of anthracyclines <strong><em>(Level C recommendation)</em></strong></li>\n<li>Use of other cardioprotective agents <strong><em>(Level C recommendation)</em></strong></li>\n<li>Prescribe alternative chemotherapy regiments for certain tumor types where alternative regiments have been shown to be equally effective <strong><em>(Level C recommendation)</em></strong></li>\n</ul>\n</li>\n</ul>\n</blockquote>\n<p>See full guideline ([Article:<a href=\"/pmid/27197003\">27197003</a>]) for further details and grading scheme.</p>\n",
+      "version": 11
+    },
+    "userId": "mariealus",
+    "version": 17
+  }
+}

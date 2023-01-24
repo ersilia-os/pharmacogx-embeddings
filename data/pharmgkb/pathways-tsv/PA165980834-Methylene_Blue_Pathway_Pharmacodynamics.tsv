@@ -1,0 +1,12 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+CYB5A	CYB5A	Biochemical Reaction	CYB5R3	Catalysis	erythrocyte	10533013,18318771,22024786,7073040,8416301	"CYB5A","CYB5R3"		
+Fe2+ Hemoglobin	Fe3+ Methemoglobin	Biochemical Reaction	Hydrogen Peroxide,methylene blue,methylene blue,reactive oxygen species	Catalysis	erythrocyte	10533013,15862084,22024786,7073040,8416301		methylene blue	
+Fe3+ Methemoglobin	Fe2+ Hemoglobin	Biochemical Reaction	BLVRB,CYB5A,FAD,FMN,Leukomethylene Blue,riboflavin	Catalysis	erythrocyte	10533013,22024786	"CYB5A","BLVRB"	riboflavin	
+Hydrogen Peroxide	Hydrogen Peroxide	Biochemical Reaction		Inhibition	erythrocyte				
+Leukomethylene Blue	methylene blue	Biochemical Reaction			erythrocyte			methylene blue	
+methylene blue	Leukomethylene Blue	Biochemical Reaction	BLVRB	Catalysis	erythrocyte		BLVRB	methylene blue	
+NADH	NAD	Biochemical Reaction	CYB5R3	Catalysis	erythrocyte		CYB5R3		
+NADPH	NADP	Biochemical Reaction	BLVRB	Catalysis	erythrocyte		BLVRB		
+NADPH	NADPH	Biochemical Reaction	G6PD	Activation	erythrocyte	16204390,18177777,18226191,20350285,21376665	G6PD		
+		Biochemical Reaction		Inhibition					
+reactive oxygen species	reactive oxygen species	Biochemical Reaction		Inhibition	erythrocyte	7073040			

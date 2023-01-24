@@ -1,0 +1,868 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166122686",
+    "name": "Annotation of CPIC Guideline for fluorouracil and DPYD",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983463,
+        "name": "CPIC® Guideline for Fluoropyrimidines and DPYD – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-fluoropyrimidines-and-dpyd/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-fluoropyrimidines-and-dpyd/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "2wB2l4W9x8s",
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1449561417,
+        "alleles": [
+          {
+            "id": 1449561418,
+            "_label": "c.1679T>G (*13)",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166171118",
+              "symbol": "DPYD c.1679T>G (*13)",
+              "name": "c.1679T>G (*13)",
+              "version": 11
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561419,
+            "_label": "c.2846A>T",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166171119",
+              "symbol": "DPYD c.2846A>T",
+              "name": "c.2846A>T",
+              "version": 10
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561420,
+            "_label": "c.1129-5923C>G, c.1236G>A (HapB3)",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166171120",
+              "symbol": "DPYD c.1129-5923C>G, c.1236G>A (HapB3)",
+              "name": "c.1129-5923C>G, c.1236G>A (HapB3)",
+              "version": 11
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561421,
+            "_label": "c.1898delC (*3)",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166171121",
+              "symbol": "DPYD c.1898delC (*3)",
+              "name": "c.1898delC (*3)",
+              "version": 11
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561422,
+            "_label": "c.295_298delTCAT (*7)",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166171122",
+              "symbol": "DPYD c.295_298delTCAT (*7)",
+              "name": "c.295_298delTCAT (*7)",
+              "version": 11
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561423,
+            "_label": "c.703C>T (*8)",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166171123",
+              "symbol": "DPYD c.703C>T (*8)",
+              "name": "c.703C>T (*8)",
+              "version": 11
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561424,
+            "_label": "c.2983G>T (*10)",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166171124",
+              "symbol": "DPYD c.2983G>T (*10)",
+              "name": "c.2983G>T (*10)",
+              "version": 10
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561425,
+            "_label": "c.1156G>T (*12)",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166171125",
+              "symbol": "DPYD c.1156G>T (*12)",
+              "name": "c.1156G>T (*12)",
+              "version": 11
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561426,
+            "_label": "c.557A>G",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166171126",
+              "symbol": "DPYD c.557A>G",
+              "name": "c.557A>G",
+              "version": 10
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561428,
+            "_label": "c.1905+1G>A (*2A)",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166171117",
+              "symbol": "DPYD c.1905+1G>A (*2A)",
+              "name": "c.1905+1G>A (*2A)",
+              "version": 11
+            },
+            "version": 1
+          },
+          {
+            "id": 1451060360,
+            "_label": "Any normal function variant or no variant detected",
+            "allele": "Any normal function variant or no variant detected",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "version": 1
+          },
+          {
+            "id": 1451103720,
+            "_label": "c.61C>T",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194362",
+              "symbol": "DPYD c.61C>T",
+              "name": "c.61C>T",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103740,
+            "_label": "c.601A>C",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194371",
+              "symbol": "DPYD c.601A>C",
+              "name": "c.601A>C",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103760,
+            "_label": "c.632A>G",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194372",
+              "symbol": "DPYD c.632A>G",
+              "name": "c.632A>G",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103761,
+            "_label": "c.868A>G",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194374",
+              "symbol": "DPYD c.868A>G",
+              "name": "c.868A>G",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103762,
+            "_label": "c.1024G>A",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194379",
+              "symbol": "DPYD c.1024G>A",
+              "name": "c.1024G>A",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103763,
+            "_label": "c.1057C>T",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194380",
+              "symbol": "DPYD c.1057C>T",
+              "name": "c.1057C>T",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103764,
+            "_label": "c.1314T>G",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194388",
+              "symbol": "DPYD c.1314T>G",
+              "name": "c.1314T>G",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103780,
+            "_label": "c.1475C>T",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194393",
+              "symbol": "DPYD c.1475C>T",
+              "name": "c.1475C>T",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103781,
+            "_label": "c.1484A>G",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194394",
+              "symbol": "DPYD c.1484A>G",
+              "name": "c.1484A>G",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103782,
+            "_label": "c.1774C>T",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194402",
+              "symbol": "DPYD c.1774C>T",
+              "name": "c.1774C>T",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103800,
+            "_label": "c.1775G>A",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194403",
+              "symbol": "DPYD c.1775G>A",
+              "name": "c.1775G>A",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103801,
+            "_label": "c.1777G>A",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194404",
+              "symbol": "DPYD c.1777G>A",
+              "name": "c.1777G>A",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103802,
+            "_label": "c.2021G>A",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194410",
+              "symbol": "DPYD c.2021G>A",
+              "name": "c.2021G>A",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103820,
+            "_label": "c.2279C>T",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194415",
+              "symbol": "DPYD c.2279C>T",
+              "name": "c.2279C>T",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103803,
+            "_label": "c.2639G>T",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194421",
+              "symbol": "DPYD c.2639G>T",
+              "name": "c.2639G>T",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103804,
+            "_label": "c.2872A>G",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194424",
+              "symbol": "DPYD c.2872A>G",
+              "name": "c.2872A>G",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451103821,
+            "_label": "c.2933A>G",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166194427",
+              "symbol": "DPYD c.2933A>G",
+              "name": "c.2933A>G",
+              "version": 5
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA145",
+          "symbol": "DPYD",
+          "name": "dihydropyrimidine dehydrogenase",
+          "altNames": {
+            "symbol": [
+              "DPD"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "p21.3",
+          "cbStop": "p21.3",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA503",
+            "name": "chr1",
+            "version": 3
+          },
+          "chrStartPosB37": 97543299,
+          "chrStartPosB38": 97077743,
+          "chrStopPosB37": 98386615,
+          "chrStopPosB38": 97921059,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553241004,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "1806",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=1806",
+              "version": 0
+            },
+            {
+              "id": 132256781,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000188641",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000188641",
+              "version": 0
+            },
+            {
+              "id": 73824,
+              "resource": "GenAtlas",
+              "resourceId": "DPYD",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=DPYD",
+              "version": 1
+            },
+            {
+              "id": 88752,
+              "resource": "GeneCard",
+              "resourceId": "DPYD",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=DPYD",
+              "version": 1
+            },
+            {
+              "id": 608166378,
+              "resource": "HGNC",
+              "resourceId": "HGNC:3012",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A3012",
+              "version": 1
+            },
+            {
+              "id": 608166386,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS06975",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS06975",
+              "version": 0
+            },
+            {
+              "id": 560885045,
+              "resource": "ModBase",
+              "resourceId": "Q12882",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q12882",
+              "version": 0
+            },
+            {
+              "id": 456362,
+              "resource": "MutDB",
+              "resourceId": "DPYD",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=DPYD",
+              "version": 1
+            },
+            {
+              "id": 11131,
+              "resource": "NCBI Gene",
+              "resourceId": "1806",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/1806",
+              "version": 1
+            },
+            {
+              "id": 2866,
+              "resource": "OMIM",
+              "resourceId": "274270",
+              "_url": "https://omim.org/entry/274270",
+              "version": 1
+            },
+            {
+              "id": 608166384,
+              "resource": "OMIM",
+              "resourceId": "612779",
+              "_url": "https://omim.org/entry/612779",
+              "version": 0
+            },
+            {
+              "id": 1451280334,
+              "resource": "PharmVar Gene",
+              "resourceId": "DPYD",
+              "_url": "https://www.pharmvar.org/gene/DPYD",
+              "version": 0
+            },
+            {
+              "id": 560574649,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_008807",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_008807",
+              "version": 0
+            },
+            {
+              "id": 37071,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_032977",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_032977",
+              "version": 1
+            },
+            {
+              "id": 37281,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000101",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000101",
+              "version": 1
+            },
+            {
+              "id": 608166383,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_001153773",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_001153773",
+              "version": 0
+            },
+            {
+              "id": 46356,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000110",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000110",
+              "version": 1
+            },
+            {
+              "id": 608166382,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_001160301",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001160301",
+              "version": 0
+            },
+            {
+              "id": 121673,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000110",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000110",
+              "version": 1
+            },
+            {
+              "id": 62330367,
+              "name": "DPYD_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "Q12882",
+              "_url": "https://www.uniprot.org/uniprot/Q12882",
+              "version": 1
+            },
+            {
+              "id": 608166385,
+              "name": "Q96HL6_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "Q96HL6",
+              "_url": "https://www.uniprot.org/uniprot/Q96HL6",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": true,
+          "pharmVarGene": true,
+          "strand": "minus",
+          "terms": [
+            {"id":560498530,"_url":"http://amigo.geneontology.org/amigo/term/GO:0004158","resource":"Gene Ontology","term":"dihydroorotate oxidase activity","termId":"GO:0004158"},
+            {"id":560498531,"_url":"http://amigo.geneontology.org/amigo/term/GO:0004159","resource":"Gene Ontology","term":"dihydrouracil dehydrogenase (NAD+) activity","termId":"GO:0004159"},
+            {"id":560495048,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005488","resource":"Gene Ontology","term":"binding","termId":"GO:0005488"},
+            {"id":560499841,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005506","resource":"Gene Ontology","term":"iron ion binding","termId":"GO:0005506"},
+            {"id":560500078,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005737","resource":"Gene Ontology","term":"cytoplasm","termId":"GO:0005737"},
+            {"id":560500177,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005829","resource":"Gene Ontology","term":"cytosol","termId":"GO:0005829"},
+            {"id":560500566,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006145","resource":"Gene Ontology","term":"purine base catabolic process","termId":"GO:0006145"},
+            {"id":560500682,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006207","resource":"Gene Ontology","term":"'de novo' pyrimidine base biosynthetic process","termId":"GO:0006207"},
+            {"id":560500684,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006208","resource":"Gene Ontology","term":"pyrimidine base catabolic process","termId":"GO:0006208"},
+            {"id":560500687,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006210","resource":"Gene Ontology","term":"thymine catabolic process","termId":"GO:0006210"},
+            {"id":560500691,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006212","resource":"Gene Ontology","term":"uracil catabolic process","termId":"GO:0006212"},
+            {"id":560500695,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006214","resource":"Gene Ontology","term":"thymidine catabolic process","termId":"GO:0006214"},
+            {"id":560500709,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006222","resource":"Gene Ontology","term":"UMP biosynthetic process","termId":"GO:0006222"},
+            {"id":560503412,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009055","resource":"Gene Ontology","term":"electron carrier activity","termId":"GO:0009055"},
+            {"id":560495264,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016491","resource":"Gene Ontology","term":"oxidoreductase activity","termId":"GO:0016491"},
+            {"id":560507384,"_url":"http://amigo.geneontology.org/amigo/term/GO:0017113","resource":"Gene Ontology","term":"dihydropyrimidine dehydrogenase (NADP+) activity","termId":"GO:0017113"},
+            {"id":560513251,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042803","resource":"Gene Ontology","term":"protein homodimerization activity","termId":"GO:0042803"},
+            {"id":560495445,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046872","resource":"Gene Ontology","term":"metal ion binding","termId":"GO:0046872"},
+            {"id":560520673,"_url":"http://amigo.geneontology.org/amigo/term/GO:0050660","resource":"Gene Ontology","term":"FAD binding","termId":"GO:0050660"},
+            {"id":560520674,"_url":"http://amigo.geneontology.org/amigo/term/GO:0050661","resource":"Gene Ontology","term":"NADP or NADPH binding","termId":"GO:0050661"},
+            {"id":560521260,"_url":"http://amigo.geneontology.org/amigo/term/GO:0051539","resource":"Gene Ontology","term":"4 iron, 4 sulfur cluster binding","termId":"GO:0051539"},
+            {"id":560509993,"_url":"http://amigo.geneontology.org/amigo/term/GO:0055114","resource":"Gene Ontology","term":"oxidation reduction","termId":"GO:0055114"}
+          ],
+          "version": 6907
+        },
+        "version": 3
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1184511807,
+        "date": "2014-07-30T00:00:00-07:00",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1448604804,
+        "date": "2017-03-16T17:47:59.311-07:00",
+        "description": "Updated extended dosing guidelines",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1449140397,
+        "date": "2017-11-13T10:55:34.511-08:00",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1449154751,
+        "date": "2017-11-28T10:14:26.842-08:00",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451359980,
+        "date": "2021-03-19T08:09:11.104-07:00",
+        "description": "Correction of IM dosing recommendations",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15099812,"title":"Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760397","crossReferences":[{"id":1449285368,"resource":"PubMed Central","resourceId":"PMC5760397","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760397"},{"id":1449285367,"resource":"PubMed","resourceId":"29152729","_url":"https://www.ncbi.nlm.nih.gov/pubmed/29152729"},{"id":1449285369,"resource":"DOI","resourceId":"10.1002/cpt.911","_url":"http://dx.doi.org/10.1002%2Fcpt.911"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15062135,"title":"Clinical Pharmacogenetics Implementation Consortium guidelines for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3831181","crossReferences":[{"id":1449277398,"resource":"PubMed Central","resourceId":"PMC3831181","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3831181"},{"id":1449277397,"resource":"PubMed","resourceId":"23988873","_url":"https://www.ncbi.nlm.nih.gov/pubmed/23988873"},{"id":1449277399,"resource":"DOI","resourceId":"10.1038/clpt.2013.172","_url":"http://dx.doi.org/10.1038%2Fclpt.2013.172"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15100909,"title":"CPIC® Guideline for Fluoropyrimidines and DPYD – CPIC","_sameAs":"https://cpicpgx.org/guidelines/guideline-for-fluoropyrimidines-and-dpyd/","crossReferences":[{"id":1447983463,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-fluoropyrimidines-and-dpyd/","_url":"https://cpicpgx.org/guidelines/guideline-for-fluoropyrimidines-and-dpyd/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "pediatricMarkdown": {
+      "id": 1451266760,
+      "html": "<p>Guideline excerpt: &quot;At the time of this writing, data on the possible role of DPYD genetic variation in 5-fluorouracil toxicity in pediatric patient populations are extremely scarce; however, there is no evidence to suggest that 5-fluorouracil pharmacokinetics differ from adult patients and thus no evidence that DPYD variants would affect 5-fluorouracil metabolism differently in children.&quot;</p>\n",
+      "version": 0
+    },
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA128406956",
+        "name": "fluorouracil",
+        "version": 15
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA145",
+        "symbol": "DPYD",
+        "name": "dihydropyrimidine dehydrogenase",
+        "version": 6907
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1450180196,
+      "html": "<p>The CPIC Dosing Guideline for 5-fluorouracil and capecitabine recommends an alternative drug for patients who are DPYD poor metabolizers with an activity score of 0. In those who are poor metabolizers with an activity score of 0.5, an alternative drug is also recommended, but if this is not considered a suitable therapeutic option, 5-fluorouracil or capecitabine should be administered at a strongly reduced dose with early therapeutic drug monitoring. Patients who are intermediate metabolizers with an activity score of 1 or 1.5 should receive a dose reduction of 50%. Patients with the c.[2846A&gt;T];[2846A&gt;T] genotype may require a &gt;50% dose reduction.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433657,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-fluoropyrimidines-and-dpyd/\" target=\"_blank\">CPIC&reg; guideline for fluoropyrimidines and DPYD</a>.</p>\n<h3 id=\"november-2018-update-on-pharmgkb\">November 2018 Update on PharmGKB</h3>\n<ul>\n<li>The DPYD guideline published in November 2017 recommended to reduce the dose of fluoropyrimidines by 25-50% (from the full standard dose) in DPYD Intermediate Metabolizers with an activity score of 1.5. At the time of the guideline publication, this dose range was recommended due to limited evidence for genotype-guided dosing of decreased function alleles/variants. However, a recent prospective study [Article:<a href=\"/pmid/30348537\">30348537</a>] provides evidence to support a recommendation for a 50% dose reduction in heterozygous carriers of the decreased function variants c.2846A&gt;T (<a href=\"https://www.pharmgkb.org/variant/PA166153895\">rs67376798</a>) or c.1129–5923C&gt;G (<a href=\"https://www.pharmgkb.org/variant/PA166153906\">rs75017182</a>); HapB3 or its tagging SNP c.1236G&gt;A; <a href=\"https://www.pharmgkb.org/variant/PA166153889\">rs56038477</a>). These data suggest that all Intermediate Metabolizers with an activity score of 1.5 should receive a 50% dose reduction. <strong>Therefore CPIC revised its recommendation such that all DPYD Intermediate Metabolizers should receive a 50% dose reduction from the full standard starting dose, whether the activity score is 1 or 1.5 followed by dose titration, based on clinical judgement and ideally therapeutic drug monitoring.</strong></li>\n<li>In addition, recent case reports from patients who are homozygous for c.2846A&gt;T (activity score of 1) indicate that a dose reduction of more than 50% may be required in some carriers of this genotype. <strong>Therefore, in patients with an activity score of 1 due to a homozygous c.[2846A&gt;T];[2846A&gt;T] genotype, clinicians should be aware that a &gt;50% reduction in starting dose might be warranted.</strong></li>\n</ul>\n<h3 id=\"november-2017-update\">November 2017 Update</h3>\n<p><em>Advance online publication November 2017</em></p>\n<ul>\n<li>The 2017 update of CPIC guidelines regarding 5-fluorouracil and capecitabine has been accepted for publication in Clinical Pharmacology and Therapeutics.  Literature up to March 2017 was reviewed, and recommendations and supplemental information were updated. In particular, the dosing recommendations were modified to only apply to 5-fluorouracil and capecitabine; they no longer apply to tegafur. Additionally, dosing recommendations are now given in the context of <a rel=\"noopener noreferrer\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/26265346\" target=\"_blank\">DPYD activity score</a>.</li>\n<li>Excerpts from the 2017 dosing guideline update:\n<ul>\n<li>&quot;The strength of the prescribing recommendations is based on the known impact of some variants (c.1905+1G&gt;A, c.1679T&gt;G, c.2846A&gt;T, c.1129– 5923C&gt;G) on DPD activity, the demonstrated relationship between DPD activity and 5-fluorouracil clearance, and between 5-fluorouracil exposure and its toxic effects.&quot;</li>\n<li>&quot;At the time of this writing, data on the possible role of DPYD genetic variation in 5-fluorouracil toxicity in pediatric patient populations is extremely scarce; however, there is no evidence to suggest that 5-fluorouracil pharmacokinetics differ from adult patients, and thus no evidence that DPYD variants would affect 5-fluorouracil metabolism differently in children.&quot;</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/fluoropyrimidines/2017/29152729.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium Guideline for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing: 2017 Update</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/fluoropyrimidines/2017/29152729-supplement.pdf\" target=\"_blank\">2017 supplement</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/dpydRefMaterials\">Gene-specific Information Tables for DPYD</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/fluoropyrimidines/Capecitabine_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Capecitabine drug resource mapping</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/fluoropyrimidines/Fluoropyrimidines_Pre_and_Post_Test_Alerts_and_Flow_Chart.xlsx\" target=\"_blank\">Fluoropyrimidines pre- and post-test alerts and flow chart</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-recommended-dosing-of-fluoropyrimidines-by-genotype-phenotype\">Table 1: Recommended dosing of fluoropyrimidines by genotype/phenotype.</h3>\n<p><em>Adapted from Tables 1 and 2 of the 2017 guideline manuscript (November 2018 Update on PharmGKB).</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Likely Phenotype</th>\n<th>Activity Score<sup>a</sup></th>\n<th>Genotypes<sup>b</sup></th>\n<th>Examples of genotypes<sup>c</sup></th>\n<th>Implications</th>\n<th>Dosing recommendations</th>\n<th>Classification of recommendations<sup>d</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><em>DPYD</em> Normal Metabolizer</td>\n<td>2</td>\n<td>An individual carrying two normal alleles</td>\n<td>c.[=];[=], c.[85T&gt;C<sup>e</sup>];[=], c.[1627A&gt;G<sup>f</sup>];[=]</td>\n<td>Normal DPD activity and “normal” risk for fluoropyrimidine toxicity</td>\n<td>Based on genotype, there is no indication to change dose or therapy. Use label-recommended dosage and administration</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td><em>DPYD</em> Intermediate Metabolizer</td>\n<td>1 or 1.5</td>\n<td>An individual carrying one normal function allele plus one no function allele or one decreased function allele, or an individual carrying two decreased function alleles</td>\n<td>c.[1905+1G&gt;A<sup>g</sup>];[=], c.[1679T&gt;G<sup>h</sup>];[=], c.[2846A&gt;T<sup>i</sup>];[=]; c.[1129–5923C&gt;G<sup>j</sup>];[=]; c.[1129–5923C&gt;G];[1129–5923C&gt;G]; c.[2846A&gt;T];[2846A&gt;T]</td>\n<td>Decreased DPD activity (leukocyte DPD activity at 30% to 70% that of the normal population) and increased risk for severe or even fatal drug toxicity when treated with fluoropyrimidine drugs</td>\n<td>Reduce starting dose by 50% followed by titration of dose based on toxicity or therapeutic drug monitoring (if available).  Patients with the c.[2846A&gt;T];[2846A&gt;T] genotype may require &gt;50% reduction in starting dose.</td>\n<td>Activity score 1: Strong<br/>Activity score 1.5: Moderate</td>\n</tr>\n<tr>\n<td><em>DPYD</em> Poor Metabolizer</td>\n<td>0 or 0.5</td>\n<td>An individual carrying two no function alleles or an individual carrying one no function plus one decreased function allele</td>\n<td>c.[1905+1G&gt;A];[1905+1G&gt;A], c.[1679T&gt;G];[1679T&gt;G], c.[1905+1G&gt;A];[2846A&gt;T] c.[1905+1G&gt;A];[1129-5923C&gt;G]</td>\n<td>Complete DPD deficiency and increased risk for severe or even fatal drug toxicity when treated with fluoropyrimidine drugs</td>\n<td>Activity score 0.5: Avoid use of 5- fluorouracil or 5-fluorouracil prodrug-based regimens. In the event, based on clinical advice, alternative agents are not considered a suitable therapeutic option, 5-fluorouracil should be administered at a strongly reduced dose<sup>k</sup> with early therapeutic drug monitoring.<sup>l</sup><br/>Activity score 0: Avoid use of 5-fluorouracil or 5-fluorouracil prodrug-based regimens.</td>\n<td>Strong</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> Calculated as the sum of the two lowest individual variant activity scores. See main guideline for further information.<br />\n<sup>b</sup> Allele definitions, assignment of allele function and references can be found using the <a href=\"https://www.pharmgkb.org/page/dpydRefMaterials\">DPYD Allele Functionality Table</a>.<br />\n<sup>c</sup> HGVS nomenclature using the reference sequence NM_000110.3.<br />\n<sup>d</sup> Rating scheme described in the <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/fluoropyrimidines/2013/23988873-supplement.pdf\" target=\"_blank\">Supplement</a>.<br />\n<sup>e</sup> Also known as <a href=\"/variant/PA166153648\">rs1801265</a> or DPYD*9A<br />\n<sup>f</sup> Also known as <a href=\"/variant/PA166153646\">rs1801159</a> or DPYD*5<br />\n<sup>g</sup> Also known as <a href=\"/variant/PA166153760\">rs3918290</a> or DPYD*2A<br />\n<sup>h</sup> Also known as <a href=\"/variant/PA166153888\">rs55886062</a> or DPYD*13<br />\n<sup>i</sup> Also known as <a href=\"/variant/PA166153895\">rs67376798</a><br />\n<sup>j</sup> Also known as <a href=\"/variant/PA166153906\">rs75017182</a>. Likely HapB3 causal variant. See <a href=\"https://www.pharmgkb.org/page/dpydRefMaterials\">DPYD Allele Functionality Table</a> for other HapB3 proxy SNPs.<br />\n<sup>k</sup> If available, a phenotyping test (see main text for further details) should be considered to estimate the starting dose. In absence of phenotyping data, a dose of &lt;25% of the normal starting dose is estimated assuming additive effects of alleles on 5-FU clearance.<br />\n<sup>l</sup> Therapeutic drug monitoring should be done at the earliest time point possible (e.g., minimum time point in steady state) in order to immediately discontinue the infusion if the drug level is too high.</p>\n<h3 id=\"may-2014-update-on-pharmgkb\">May 2014 Update on PharmGKB</h3>\n<ul>\n<li>The CPIC authors recommend that the <em>DPYD*4</em>, <em>*5</em>, <em>*6</em> and <em>*9A</em> alleles be categorized as &quot;normal&quot; activity, in part based upon the recent publication <a rel=\"noopener noreferrer\" href=\"http://www.ncbi.nlm.nih.gov/pubmed/?term=24648345\" target=\"_blank\">Comparative Functional Analysis of DPYD Variants of Potential Clinical Relevance to Dihydropyrimidine Dehydrogenase Activity</a>.</li>\n</ul>\n<h3 id=\"december-2013-publication\">December 2013 Publication</h3>\n<p><em>Advance online publication October 2013.</em></p>\n<ul>\n<li>Guidelines regarding the use of pharmacogenomic tests in dosing for fluoropyrimidines have been published in <em>Clinical Pharmacology and Therapeutics</em> by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">(CPIC)</a>.</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/fluoropyrimidines/2013/23988873.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium Guidelines for Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/fluoropyrimidines/2013/23988873-supplement.pdf\" target=\"_blank\">2013 supplement</a></li>\n</ul>\n</li>\n</ul>\n",
+      "version": 0
+    },
+    "userId": "carrillo",
+    "version": 45
+  }
+}

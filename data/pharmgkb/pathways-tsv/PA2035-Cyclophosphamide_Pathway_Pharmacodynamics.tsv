@@ -1,0 +1,25 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+4-hydroxycyclophosphamide	aldophosphamide	Biochemical Reaction			malignant cell	10469895, 6708049			Neurotoxicity Syndromes	Biochemical reaction from 4-hydroxycyclophosphamide to aldophosphamide.
+phosphoramide mustard	chloroethyl aziridine	Biochemical Reaction			malignant cell	9484502			Neurotoxicity Syndromes	Biochemical reaction from phosphoramide mustard to chloroethyl aziridine.
+acrolein, glutathione	thioether product	Biochemical Reaction			malignant cell	8887466			Neurotoxicity Syndromes	Biochemical reaction from acrolein, glutathione to thioether product.
+acrolein	acrylic acid	Biochemical Reaction	ALDH1A1, ALDH3A1	Gene	malignant cell, cell	8887466			Neurotoxicity Syndromes	Biochemical reaction from acrolein to acrylic acid. This interaction can be catalyzed by ALDH1A1 or ALDH3A1.
+aldophosphamide	alcophosphamide	Biochemical Reaction	ADH, AKR1	Gene Collection	malignant cell	9394035, 8216347			Neurotoxicity Syndromes	Biochemical reaction from aldophosphamide to alcophosphamide. This interaction can be catalyzed by ADH (ADH1A, ADH1B, ADH1C, ADH4, ADH5, ADH6, ADH7) or AKR1 (AKR1A1, AKR1B1, AKR1B10).
+aldophosphamide	carboxyphosphamide	Biochemical Reaction	ALDH1A1, ALDH3A1, ALDH5A1	Gene	malignant cell	10469894, 9394035, 7365745			Neurotoxicity Syndromes	Biochemical reaction from aldophosphamide to carboxyphosphamide. This interaction can be catalyzed by ALDH1A1, ALDH5A1 or ALDH3A1.
+aldophosphamide	acrolein, phosphoramide mustard	Biochemical Reaction			malignant cell	10469895, 3815352, 3806624, 6708049			Neurotoxicity Syndromes	Biochemical reaction from aldophosphamide to acrolein, phosphoramide mustard.
+4-hydroxycyclophosphamide	4-ketocyclophosphamide	Biochemical Reaction	ADH	Gene Collection	malignant cell	10410955, 9884322, 1131393, 5446958			Neurotoxicity Syndromes	Biochemical reaction from 4-hydroxycyclophosphamide to 4-ketocyclophosphamide. This interaction is catalyzed by ADH (ADH1A, ADH1B, ADH1C, ADH4, ADH5, ADH6, ADH7).
+chloroacetaldehyde	chloroacetic acid	Biochemical Reaction	ALDH2	Gene	malignant cell	9298599			Neurotoxicity Syndromes	Biochemical reaction from chloroacetaldehyde to chloroacetic acid. This interaction is catalyzed by ALDH2.
+glutathione	detoxification	Leads To			malignant cell	9484502			Neurotoxicity Syndromes	glutathione leads to detoxification.
+carboxyphosphamide	detoxification	Leads To			malignant cell, cell	10469894			Neurotoxicity Syndromes	carboxyphosphamide leads to detoxification.
+phosphoramide mustard	detoxification	Leads To			malignant cell	9484502			Neurotoxicity Syndromes	phosphoramide mustard leads to detoxification.
+4-ketocyclophosphamide	detoxification	Leads To			malignant cell, cell	9884322			Neurotoxicity Syndromes	4-ketocyclophosphamide leads to detoxification.
+phosphoramide mustard	DNA damage [MESH:D004249]	Leads To			malignant cell	12972057			Neurotoxicity Syndromes	phosphoramide mustard leads to DNA damage [MESH:D004249].
+acrolein	DNA damage [MESH:D004249]	Leads To			malignant cell	20158384, 10397244			Neurotoxicity Syndromes	acrolein leads to DNA damage [MESH:D004249].
+chloroethyl aziridine	DNA damage [MESH:D004249]	Leads To			malignant cell	9484502			Neurotoxicity Syndromes	chloroethyl aziridine leads to DNA damage [MESH:D004249].
+chloroacetaldehyde	Neurotoxicity Syndromes	Leads To			malignant cell, cell	11461933, 8763899			Neurotoxicity Syndromes	chloroacetaldehyde leads to Neurotoxicity Syndromes.
+DNA adducts [MESH:D018736]	apoptosis	Leads To			malignant cell	20158384			Neurotoxicity Syndromes	DNA adducts [MESH:D018736] leads to apoptosis.
+DNA adducts [MESH:D018736]	DNA repair [MESH:D004260]	Leads To	ERCC1, ERCC4, MGMT	Gene	malignant cell	20158384, 10397244, 8621235, 8765433			Neurotoxicity Syndromes	DNA adducts [MESH:D018736] leads to DNA repair [MESH:D004260]. This interaction can be catalyzed by ERCC1, ERCC4 or MGMT.
+Cyclophosphamide Pathway, Pharmacokinetics	chloroacetaldehyde	Leads To			null, malignant cell	21175440, 10692561			Neurotoxicity Syndromes	Cyclophosphamide Pathway, Pharmacokinetics leads to chloroacetaldehyde.
+Cyclophosphamide Pathway, Pharmacokinetics	aldophosphamide	Leads To			null, malignant cell	21175440, 10692561			Neurotoxicity Syndromes	Cyclophosphamide Pathway, Pharmacokinetics leads to aldophosphamide.
+Cyclophosphamide Pathway, Pharmacokinetics	4-hydroxycyclophosphamide	Leads To			null, malignant cell	21175440, 10692561			Neurotoxicity Syndromes	Cyclophosphamide Pathway, Pharmacokinetics leads to 4-hydroxycyclophosphamide.
+DNA damage [MESH:D004249]	DNA adducts [MESH:D018736]	Leads To			malignant cell	20158384, 9484502			Neurotoxicity Syndromes	DNA damage [MESH:D004249] leads to DNA adducts [MESH:D018736].
+cyclophosphamide	Cyclophosphamide Pathway, Pharmacokinetics	Leads To			null	10692561		cyclophosphamide	Neurotoxicity Syndromes	cyclophosphamide leads to Cyclophosphamide Pathway, Pharmacokinetics.

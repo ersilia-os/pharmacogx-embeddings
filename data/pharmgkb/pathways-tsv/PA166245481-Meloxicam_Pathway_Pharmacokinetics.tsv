@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+meloxicam	5-methylthiazol-2-ylcarbamoylcarboxylic acid	Biochemical Reaction			hepatocyte	10092958		meloxicam		Biochemical reaction from meloxicam to 5-methylthiazol-2-ylcarbamoylcarboxylic acid.
+5'-carboxymeloxicam	2-[(hydroxyacetyl)amino]-5- thiazolecarboxylic acid	Biochemical Reaction			hepatocyte	10092958				Biochemical reaction from 5'-carboxymeloxicam to 2-[(hydroxyacetyl)amino]-5- thiazolecarboxylic acid.
+5'-hydroxymeloxicam	5'-carboxymeloxicam	Biochemical Reaction			hepatocyte	10092958, 9493314				Biochemical reaction from 5'-hydroxymeloxicam to 5'-carboxymeloxicam.
+meloxicam	5'-hydroxymeloxicam	Biochemical Reaction	CYP2C9, CYP3A4	Gene	hepatocyte	10381752, 10092958, 9493314		meloxicam		Biochemical reaction from meloxicam to 5'-hydroxymeloxicam. This interaction can be catalyzed by CYP2C9 or CYP3A4.

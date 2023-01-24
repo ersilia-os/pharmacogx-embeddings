@@ -1,0 +1,21 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+FPGS	Antimetabolite Pathway - Folate Cycle, Pharmacodynamics	Activation			malignant cell, cell	18035049	FPGS			FPGS activates Antimetabolite Pathway - Folate Cycle, Pharmacodynamics.
+MTHFR	Antimetabolite Pathway - Folate Cycle, Pharmacodynamics	Activation			malignant cell, cell	19465420, 19384296, 19144510, 18245544	MTHFR			MTHFR activates Antimetabolite Pathway - Folate Cycle, Pharmacodynamics.
+DHFR	Antimetabolite Pathway - Folate Cycle, Pharmacodynamics	Activation			malignant cell, cell	15814641	DHFR			DHFR activates Antimetabolite Pathway - Folate Cycle, Pharmacodynamics.
+GGH	Antimetabolite Pathway - Folate Cycle, Pharmacodynamics	Activation			malignant cell, cell	19093176, 18414409, 18035049	GGH			GGH activates Antimetabolite Pathway - Folate Cycle, Pharmacodynamics.
+leucovorin	TYMS	Activation			malignant cell	15638735, 12724731	TYMS	leucovorin		leucovorin activates TYMS.
+5,10-methenyltetrahydrofolate	dihydrofolic acid	Biochemical Reaction	TYMS	Gene	malignant cell	17549067, 12724731				Biochemical reaction from 5,10-methenyltetrahydrofolate to dihydrofolic acid. This interaction is catalyzed by TYMS.
+deoxyuridine monophosphate	deoxythymidine monophosphate	Biochemical Reaction	TYMS	Gene	malignant cell	12724731				Biochemical reaction from deoxyuridine monophosphate to deoxythymidine monophosphate. This interaction is catalyzed by TYMS.
+tegafur	fluorouracil	Biochemical Reaction			malignant cell	18172246		fluorouracil, tegafur		Biochemical reaction from tegafur to fluorouracil.
+fluorouracil	fluorodeoxyuridine triphosphate	Biochemical Reaction	Fluoropyrimidine Pathway, Pharmacokinetics	Pathway	malignant cell	12724731		fluorouracil		Biochemical reaction from fluorouracil to fluorodeoxyuridine triphosphate. This interaction is catalyzed by Fluoropyrimidine Pathway, Pharmacokinetics.
+fluorouracil	fluorodeoxyuridine monophosphate	Biochemical Reaction	Fluoropyrimidine Pathway, Pharmacokinetics	Pathway	malignant cell	12724731		fluorouracil		Biochemical reaction from fluorouracil to fluorodeoxyuridine monophosphate. This interaction is catalyzed by Fluoropyrimidine Pathway, Pharmacokinetics.
+capecitabine	fluorouracil	Biochemical Reaction			malignant cell	9849491		capecitabine, fluorouracil		Biochemical reaction from capecitabine to fluorouracil.
+fluorouracil	fluorouridine triphosphate	Biochemical Reaction	Fluoropyrimidine Pathway, Pharmacokinetics	Pathway	malignant cell	12724731		fluorouracil		Biochemical reaction from fluorouracil to fluorouridine triphosphate. This interaction is catalyzed by Fluoropyrimidine Pathway, Pharmacokinetics.
+fluorodeoxyuridine monophosphate	TYMS	Inhibition			malignant cell	15638735, 12724731	TYMS			fluorodeoxyuridine monophosphate inhibits TYMS.
+fluorouridine triphosphate	damage	Leads To			malignant cell	12724731				fluorouridine triphosphate leads to damage.
+dihydrofolic acid	Antimetabolite Pathway - Folate Cycle, Pharmacodynamics	Leads To			malignant cell, cell	15814641				dihydrofolic acid leads to Antimetabolite Pathway - Folate Cycle, Pharmacodynamics.
+DNA damage [MESH:D004249]	apoptosis	Leads To			malignant cell	12724731				DNA damage [MESH:D004249] leads to apoptosis.
+fluorodeoxyuridine triphosphate	DNA damage [MESH:D004249]	Leads To			malignant cell	12724731				fluorodeoxyuridine triphosphate leads to DNA damage [MESH:D004249].
+damage	apoptosis	Leads To			malignant cell	19155291				damage leads to apoptosis.
+TP53	apoptosis	Leads To			malignant cell	19155291, 18357466, 18498133	TP53			TP53 leads to apoptosis.
+DNA damage [MESH:D004249]	DNA repair [MESH:D004260]	Leads To	ERCC2, SMUG1, TDG, XRCC3	Gene	malignant cell	19402749, 17549067, 18267032, 17283124				DNA damage [MESH:D004249] leads to DNA repair [MESH:D004260]. This interaction can be catalyzed by XRCC3, SMUG1, TDG or ERCC2.

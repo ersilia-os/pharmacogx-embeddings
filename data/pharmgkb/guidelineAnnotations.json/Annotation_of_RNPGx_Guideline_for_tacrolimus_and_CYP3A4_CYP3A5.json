@@ -1,0 +1,163 @@
+{
+  "citations": [
+    {
+      "id": 15109243,
+      "title": "Pharmacogenetics of immunosuppressants: State of the art and clinical implementation - recommendations from the French National Network of Pharmacogenetics (RNPGx).",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/28318610",
+      "authors": [
+        "Woillard Jean-Baptiste",
+        "Chouchana Laurent",
+        "Picard Nicolas",
+        "Loriot Marie-Anne",
+        "French Network of Pharmacogenetics (RNPGX)"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451127902,
+          "resource": "PubMed",
+          "resourceId": "28318610",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/28318610",
+          "version": 0
+        },
+        {
+          "id": 1451127903,
+          "resource": "DOI",
+          "resourceId": "10.1016/j.therap.2016.09.016",
+          "_url": "http://dx.doi.org/10.1016%2Fj.therap.2016.09.016",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapie",
+      "meshDiseases": [
+        "PA133888799",
+        "PA446116"
+      ],
+      "meshTerms": [
+        "ATP Binding Cassette Transporter, Subfamily B",
+        "Cytochrome P-450 CYP3A",
+        "Genotype",
+        "Glucuronosyltransferase",
+        "Humans",
+        "Immunosuppressive Agents",
+        "Inflammatory Bowel Diseases",
+        "Methyltransferases",
+        "Organ Transplantation",
+        "Pharmacogenetics",
+        "Pharmacogenomic Testing",
+        "Polymorphism, Genetic"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "285-299",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2017-04-01T00:00:00-07:00",
+      "summary": "Therapeutic drug monitoring is already widely used for immunosuppressive drugs due to their narrow therapeutic index. This article summarizes evidence reported in the literature regarding the pharmacogenetics of (i) immunosuppressive drugs used in transplantation and (ii) azathioprine used in chronic inflammatory bowel disease. The conditions of use of currently available major pharmacogenetic tests are detailed and recommendations are provided based on a scale established by the RNPGx scoring tests as \"essential\", \"advisable\" and \"potentially useful\". Other applications for which the level of evidence is still debated are also discussed.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2017
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166202481",
+    "name": "Annotation of RNPGx Guideline for tacrolimus and CYP3A4, CYP3A5",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451127861,
+        "date": "2020-05-05T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1451129761,
+        "date": "2020-05-07T00:00:00-07:00",
+        "description": "Added literature",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451678142,
+        "date": "2022-02-10T13:48:13.405-08:00",
+        "description": "Added RNPGx as source",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741862,
+        "date": "2022-04-05T14:10:09.142-07:00",
+        "description": "Added testing guidance tag and link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15109243,"title":"Pharmacogenetics of immunosuppressants: State of the art and clinical implementation - recommendations from the French National Network of Pharmacogenetics (RNPGx).","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/28318610","crossReferences":[{"id":1451127902,"resource":"PubMed","resourceId":"28318610","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28318610"},{"id":1451127903,"resource":"DOI","resourceId":"10.1016/j.therap.2016.09.016","_url":"http://dx.doi.org/10.1016%2Fj.therap.2016.09.016"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA166048680",
+        "symbol": "CYP3A4*22",
+        "name": "*22",
+        "version": 10
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA166128219",
+        "symbol": "CYP3A5*3",
+        "name": "*3",
+        "version": 12
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA451578",
+        "name": "tacrolimus",
+        "version": 23
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA130",
+        "symbol": "CYP3A4",
+        "name": "cytochrome P450 family 3 subfamily A member 4",
+        "version": 8038
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA131",
+        "symbol": "CYP3A5",
+        "name": "cytochrome P450 family 3 subfamily A member 5",
+        "version": 7961
+      }
+    ],
+    "source": "RNPGx",
+    "summaryMarkdown": {
+      "id": 1451127880,
+      "html": "<p>Testing for the <em>CYP3A5*3</em> and <em>CYP3A4*22</em> alleles is recommended in patients receiving a kidney, heart or lung transplant. CYP3A extensive or intermediate meatbolizers (EMs or IMs) should be given an initial dose of tacrolimus 1.5-2 times higher than that recommended for CYP3A poor metabolizers (PMs), up to a maximum dose of 0.30 mg/kg/day.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451127860,
+      "html": "<p>The French National Network of Pharmacogenetics (RNPGx) guideline for CYP3A4, CYP3A5 and tacrolimus recommends testing for the CYP3A5*3 and CYP3A4*22 alleles prior to kidney, heart and lung transplant procedures. The RNPGx dosing recommendations for tacrolimus correspond to those found in the <a href=\"http://www.pharmgkb.org/guidelineAnnotation/PA166124619\">CPIC guideline for tacrolimus and CYP3A5</a>.</p>\n<blockquote class=\"blockquote\">\n<p>The RNPGx recommends genotyping for CYP3A5 in all cases before kidney, heart and lung transplantation, and consequently before the final selection of the immunosuppressive drug to be used. Although the level of evidence is still lower, CYP3A4 genotyping appears to be <em>advisable</em> either together with CYP3A5 genotyping or to obtain a better prediction of each patient’s metabolic status.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>For CYP3A5 genotyping, the RNPGx recommendations correspond to the international guidelines for tacrolimus published by the CPIC. For this genotyping, this recommendation is considered to be at the <em>advisable</em> level.</p>\n<p>The additional benefit obtained by CYP3A4 (CYP3A4*22) genotyping to adapt the initial tacrolimus dose remains to be assessed (<em>potentially useful</em> test).</p>\n<p>For retrospective tests ordered to explain the need for increased tacrolimus dose, CYP3A5 genotyping is considered to be <em>potentially useful</em> by the RNPGx. For retrospective tests ordered to explain the need for decreasing the dose of tacrolimus or other CYP3A4-substrate immunosuppressive agents, search for the CYP3A4*22 allele is considered to be <em>potentially useful</em> by the RNPGx.</p>\n</blockquote>\n<p><a href=\"/page/testingGuidance\">Read more about the RNPGx levels of recommendation for testing</a>.</p>\n<p>Figure 1 of the guideline shows how to integrate CYP3A4 and CYP3A5 genotype information together to assign a phenotype to a patient.</p>\n<h3 id=\"table-1-proposed-dose-adaptation-for-tacrolimus-as-a-function-of-cyp3a5-genotype-according-to-cpic\">Table 1: Proposed dose adaptation for tacrolimus as a function of CYP3A5 genotype according to CPIC</h3>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype CYP3A5</th>\n<th>Expressors</th>\n<th>Non-expressors</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Genotype CYP3A5</td>\n<td><em>CYP3A5*1/*3</em> or <em>CYP3A5*1/*1</em></td>\n<td><em>CYP3A5*3/*3</em></td>\n</tr>\n<tr>\n<td>Dose adjustment<br/>Initial dose</td>\n<td>Based on TDM<br/>1.5 to 2 times the dose recommended<br/>to non-expressors; maximum dose 0.30mg/kg/day</td>\n<td>Based on TDM<br/>0.15 mg/kg/day</td>\n</tr>\n</tbody>\n</table>\n<p><em>Adapted from Table 2 of the 2017 guideline</em></p>\n",
+      "version": 1
+    },
+    "userId": "rachel",
+    "version": 2
+  }
+}

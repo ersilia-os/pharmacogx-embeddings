@@ -1,0 +1,88 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166222181",
+    "name": "Annotation of CPIC Guideline for diclofenac,ibuprofen and CYP2C8",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1451251583,
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/",
+        "_url": "https://cpicpgx.org/guidelines/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/",
+        "version": 0
+      }
+    ],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451251582,
+        "date": "2020-08-19T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15105062,"title":"Clinical Pharmacogenetics Implementation Consortium Guideline (CPIC) for CYP2C9 and Nonsteroidal Anti-Inflammatory Drugs.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8080882","crossReferences":[{"id":1451837598,"resource":"PubMed Central","resourceId":"PMC8080882","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8080882"},{"id":1451090662,"resource":"PubMed","resourceId":"32189324","_url":"https://www.ncbi.nlm.nih.gov/pubmed/32189324"},{"id":1451090663,"resource":"DOI","resourceId":"10.1002/cpt.1830","_url":"http://dx.doi.org/10.1002%2Fcpt.1830"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": false,
+    "recommendation": false,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA165958685",
+        "symbol": "CYP2C8*3",
+        "name": "*3",
+        "version": 8
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165958686",
+        "symbol": "CYP2C8*4",
+        "name": "*4",
+        "version": 8
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA449293",
+        "name": "diclofenac",
+        "version": 9
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA449957",
+        "name": "ibuprofen",
+        "version": 11
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA125",
+        "symbol": "CYP2C8",
+        "name": "cytochrome P450 family 2 subfamily C member 8",
+        "version": 7077
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1451251580,
+      "html": "<p>There are currently no recommendations for NSAIDs dosing based on CYP2C8 genotypes.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433683,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/cpic-guideline-for-nsaids-based-on-cyp2c9-genotype/\" target=\"_blank\">CPIC&reg; guideline for Nonsteroidal Anti-inflammatory Drugs and CYP2C9</a>. The CPIC authors have evaluated therapeutic dose recommendations for ibuprofen and diclofenac dosing based on CYP2C8 genotypes. They conclude that no action is needed for this gene-drug interaction at this time.</p>\n<h3 id=\"march-2020\">March 2020</h3>\n<ul>\n<li>\n<p>The <a rel=\"noopener noreferrer\" href=\"https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/cpt.1830\" target=\"_blank\">CPIC guideline regarding for <em>CYP2C9</em> and Nonsteroidal Anti-inflammatory Drugs</a> is published in Clinical Pharmacology and Therapeutics.</p>\n</li>\n<li>\n<p>These guidelines are applicable to:</p>\n<ul>\n<li>\n<p>pediatric patients</p>\n</li>\n<li>\n<p>adult patients</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Excerpts from the 2020 Nonsteroidal Anti-inflammatory Drugs dosing guideline:</p>\n<ul>\n<li>\n<p>&quot;A systematic literature review focused on CYP2C9 genotype and NSAID (celecoxib, diclofenac, flurbiprofen, ibuprofen, indomethacin, lornoxicam, meloxicam, nabumetone, naproxen, piroxicam, tenoxicam, and sulindac) use and CYP2C8 genotype and ibuprofen, piroxicam and diclofenac use was\nconducted (details in Supplemental Material).&quot;</p>\n</li>\n<li>\n<p>&quot;SUPPLEMENTAL TABLE S10. EVIDENCE LINKING CYP2C8 GENOTYPE WITH IBUPROFEN AND DICLOFENAC PHENOTYPE (NO RECOMMENDATION PROVIDED IN GUIDELINE) &quot;</p>\n</li>\n<li>\n<p>&quot;Other Considerations: CYP2C9 is located within a cluster of CYP2C genes (CYP2C18, CYP2C19, CYP2C9, and CYP2C8) on chromosome 10 (Figure S1), which evolved from a common ancestral CYP gene through duplication events. Importantly, the CYP2C9*2 allele is in strong linkage disequilibrium with the CYP2C8*3 allele (Table S11), such that more than 80% of individuals who carry the CYP2C9*2 allele also carry the CYP2C8*3 allele in many populations. This may be of clinical relevance for drugs that are substrates for both CYP2C8 and CYP2C9 such as diclofenac and ibuprofen.&quot;</p>\n</li>\n<li>\n<p>&quot;The potential for drug-drug interactions should be considered when initiating NSAID therapy. CYP2C9 decreased function allele carriers are at higher risk of supratherapeutic INR or major bleeding with concomitant use of warfarin or other coumarin anticoagulants with NSAIDs, compared to NMs. Thus, it is recommended that this drug combination be avoided in CYP2C9 IMs and PMs. Variants in other genes, including CYP2C8 and drug targets such as PTGS1 and PTGS2, may also influence the outcome of NSAID therapy, but the evidence is insufficient to recommend using these variants to guide NSAID dosing at this time (see Supplemental Material).&quot;</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/NSAID/2020/32189324.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for <em>CYP2C9</em> and NSAIDs Therapy</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/NSAID/2020/32189324-supplement.pdf\" target=\"_blank\">2020 supplement</a></li>\n</ul>\n</li>\n</ul>\n",
+      "version": 0
+    },
+    "userId": "lgong",
+    "version": 1
+  }
+}

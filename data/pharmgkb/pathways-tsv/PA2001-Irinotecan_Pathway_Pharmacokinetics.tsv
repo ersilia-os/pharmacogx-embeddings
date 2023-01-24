@@ -1,0 +1,17 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+SN-38	sn-38 glucuronide	Biochemical Reaction	UGT1A1, UGT1A9	Gene	hepatocyte	23386248, 18797458, 12960109, 12730278, 12181437, 11990381, 9466980		SN-38	Diarrhea,Neutropenia	Biochemical reaction from SN-38 to SN-38 glucuronide. This interaction can be catalyzed by UGT1A1 or UGT1A9.
+irinotecan	irinotecan M4	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	11602529, 10815927		irinotecan	Diarrhea,Neutropenia	Biochemical reaction from irinotecan to irinotecan M4. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+irinotecan	SN-38	Biochemical Reaction	CES1, CES2	Gene	hepatocyte	20653675, 17640957, 12960109		SN-38, irinotecan	Diarrhea,Neutropenia	Biochemical reaction from irinotecan to SN-38. This interaction can be catalyzed by CES2 or CES1.
+irinotecan	SN-38	Biochemical Reaction	BCHE, CES1, CES2	Gene	null	20653675, 12960109, 10197614		SN-38, irinotecan	Diarrhea,Neutropenia	Biochemical reaction from irinotecan to SN-38. This interaction can be catalyzed by CES2, CES1 or BCHE.
+irinotecan	apc	Biochemical Reaction	CYP3A4	Gene	hepatocyte	11602529, 10815927		irinotecan	Diarrhea,Neutropenia	Biochemical reaction from irinotecan to APC. This interaction is catalyzed by CYP3A4.
+irinotecan	npc	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	11602529, 10815927		irinotecan	Diarrhea,Neutropenia	Biochemical reaction from irinotecan to NPC. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+npc	SN-38	Biochemical Reaction	CES1, CES2	Gene	hepatocyte	9655905		SN-38	Diarrhea,Neutropenia	Biochemical reaction from NPC to SN-38. This interaction can be catalyzed by CES1 or CES2.
+irinotecan	SN-38	Biochemical Reaction	CES1, CES2	Gene	enterocyte	20653675, 12960109		SN-38, irinotecan	Diarrhea,Neutropenia	Biochemical reaction from irinotecan to SN-38. This interaction can be catalyzed by CES1 or CES2.
+SN-38	sn-38 glucuronide	Biochemical Reaction	UGT1A1, UGT1A10, UGT1A6, UGT1A7	Gene	enterocyte	23963147, 23386248, 19696792, 12893990		SN-38	Diarrhea,Neutropenia	Biochemical reaction from SN-38 to SN-38 glucuronide. This interaction can be catalyzed by UGT1A6, UGT1A7, UGT1A1 or UGT1A10.
+SN-38	Diarrhea	Leads To			enterocyte, null	23963147, 23386248		SN-38	Diarrhea,Neutropenia	SN-38 leads to Diarrhea.
+SN-38	Neutropenia	Leads To			null	23386248, 18797458		SN-38	Diarrhea,Neutropenia	SN-38 leads to Neutropenia.
+SN-38	SN-38	Transport	SLCO1B1	Gene	null, hepatocyte	15608127, 11489791		SN-38	Diarrhea,Neutropenia	Transport from SN-38 to SN-38. This interaction is catalyzed by SLCO1B1.
+irinotecan	irinotecan	Transport	ABCB1, ABCC2	Gene	hepatocyte, enterocyte	18418374, 14646693, 11489791		irinotecan	Diarrhea,Neutropenia	Transport from irinotecan to irinotecan. This interaction can be catalyzed by ABCC2 or ABCB1.
+SN-38	SN-38	Transport	ABCB1, ABCC2, ABCC5, ABCG2	Gene	hepatocyte, enterocyte	26352872, 18418374, 12810652, 11489791		SN-38	Diarrhea,Neutropenia	Transport from SN-38 to SN-38. This interaction can be catalyzed by ABCC5, ABCG2, ABCB1 or ABCC2.
+SN-38	SN-38	Transport	ABCC1, ABCG1	Gene	hepatocyte, null	26352872, 11489791, 10220571		SN-38	Diarrhea,Neutropenia	Transport from SN-38 to SN-38. This interaction can be catalyzed by ABCG1 or ABCC1.
+sn-38 glucuronide	sn-38 glucuronide	Transport	ABCC2	Gene	hepatocyte, enterocyte	18418374, 11489791			Diarrhea,Neutropenia	Transport from SN-38 glucuronide to SN-38 glucuronide. This interaction is catalyzed by ABCC2.

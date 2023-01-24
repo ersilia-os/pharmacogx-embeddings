@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+lovastatin	6'-exomethylene lovastatin	Biochemical Reaction	CYP3A4	Gene	hepatocyte	17178259, 10490896, 7905377, 2297361		lovastatin		Biochemical reaction from lovastatin to 6'-exomethylene lovastatin. This interaction is catalyzed by CYP3A4.
+lovastatin	6'beta-hydroxylovastatin	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	20386561, 17178259, 10490896, 7905377, 2297361		lovastatin		Biochemical reaction from lovastatin to 6'beta-hydroxylovastatin. This interaction can be catalyzed by CYP3A4 or CYP3A5.
+lovastatin	3"-hydroxy lovastatin	Biochemical Reaction	CYP3A4	Gene	hepatocyte	20386561, 17178259, 10490896, 7905377, 2297361		lovastatin		Biochemical reaction from lovastatin to 3"-hydroxy lovastatin. This interaction is catalyzed by CYP3A4.
+lovastatin	lovastatin	Transport	SLCO1B1	Gene	null, hepatocyte	17178259		lovastatin		Transport from lovastatin to lovastatin. This interaction is catalyzed by SLCO1B1.
+lovastatin	lovastatin	Transport	ABCB1	Gene	hepatocyte, null	17178259		lovastatin		Transport from lovastatin to lovastatin. This interaction is catalyzed by ABCB1.

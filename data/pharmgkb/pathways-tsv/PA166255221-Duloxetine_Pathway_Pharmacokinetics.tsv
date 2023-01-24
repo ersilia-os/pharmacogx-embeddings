@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+5-hydroxy duloxetine	5-hydroxy-6-methoxy duloxetine	Biochemical Reaction			hepatocyte	34785568, 21366359				Biochemical reaction from 5-hydroxy duloxetine to 5-hydroxy-6-methoxy duloxetine.
+4-hydroxy duloxetine	4-hydroxy duloxetine glucuronide	Biochemical Reaction			hepatocyte	34785568, 21366359				Biochemical reaction from 4-hydroxy duloxetine to 4-hydroxy duloxetine glucuronide.
+5-hydroxy-6-methoxy duloxetine	5-hydroxy, 6-methoxy duloxetine sulfate	Biochemical Reaction			hepatocyte	34785568, 21366359				Biochemical reaction from 5-hydroxy-6-methoxy duloxetine to 5-hydroxy, 6-methoxy duloxetine sulfate.
+duloxetine	5-hydroxy duloxetine	Biochemical Reaction	CYP1A2, CYP2D6	Gene	hepatocyte	34785568, 32365274, 32733111, 21366359, 17316589, 17380590, 17713974, 12920170		duloxetine		Biochemical reaction from duloxetine to 5-hydroxy duloxetine. This interaction can be catalyzed by CYP1A2 or CYP2D6.
+duloxetine	4-hydroxy duloxetine	Biochemical Reaction	CYP1A2, CYP2D6	Gene	hepatocyte	34785568, 32365274, 32733111, 21366359, 17316589, 17380590, 17713974, 12920170		duloxetine		Biochemical reaction from duloxetine to 4-hydroxy duloxetine. This interaction can be catalyzed by CYP2D6 or CYP1A2.

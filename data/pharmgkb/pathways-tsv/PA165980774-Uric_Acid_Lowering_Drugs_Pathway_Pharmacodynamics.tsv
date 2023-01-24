@@ -1,0 +1,15 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+allopurinol	Oxypurinol	Biochemical Reaction	XDH	Catalysis	hepatocyte	20562597	XDH	allopurinol	
+ATP	AMP	Biochemical Reaction	KHK	Catalysis	hepatocyte	18398011,23175570,24065788	KHK		
+fructose	fructose-1-phosphate	Biochemical Reaction	KHK	Catalysis	hepatocyte	18398011,23175570,24065788	KHK	fructose	
+Hypoxanthine	Xanthine	Biochemical Reaction	XDH	Catalysis	hepatocyte	12646938,16597166	XDH		
+Uric Acid	5-hydroxyisourate	Biochemical Reaction	pegloticase,rasburicase	Catalysis		12646938,16597166,20562597		"pegloticase","rasburicase"	
+Xanthine	Uric Acid	Biochemical Reaction	XDH	Catalysis	hepatocyte	11934348,12646938,16597166,20562597,22665944	XDH		
+XDH	XDH	Biochemical Reaction	allopurinol,febuxostat,Oxypurinol	Inhibition	hepatocyte	12646938,16597166,19247302,20401506,20562597,22665944	XDH	"febuxostat","allopurinol"	
+5-hydroxyisourate	Allantoin	Conversion				12646938,16597166			
+5-hydroxyisourate	Hydrogen Peroxide	Conversion				12646938,16597166			
+	Uric Acid	Transport		Control					
+fructose	SLC2A5	Transport			hepatocyte	18398011,23175570,24065788	SLC2A5	fructose	
+Hydrogen Peroxide	hydrogen peroxide	Transport			erythrocyte				
+SLC2A5	fructose	Transport			hepatocyte	18398011,23175570,24065788	SLC2A5	fructose	
+Uric Acid	Uric Acid	Transport			hepatocyte				

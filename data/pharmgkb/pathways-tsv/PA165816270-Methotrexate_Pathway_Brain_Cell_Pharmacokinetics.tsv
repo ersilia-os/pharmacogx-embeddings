@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+methotrexate	methotrexate	Transport	SLC22A6, SLC22A8	Gene	null, choroid plexus epithelial cell	28566636, 12011098, 7388786		methotrexate		Transport from methotrexate to methotrexate. This interaction can be catalyzed by SLC22A6 or SLC22A8.
+methotrexate	methotrexate	Transport	ABCB1	Gene	choroid plexus epithelial cell, null	30977678		methotrexate		Transport from methotrexate to methotrexate. This interaction is catalyzed by ABCB1.
+methotrexate	methotrexate	Transport	ABCC1, ABCC4	Gene	choroid plexus epithelial cell, null	11139374		methotrexate		Transport from methotrexate to methotrexate. This interaction can be catalyzed by ABCC1 or ABCC4.
+methotrexate	methotrexate	Transport	ABCB1, ABCC4, ABCG2, SLC22A8	Gene	endothelial cell, null	30977678, 28566636, 16146333		methotrexate		Transport from methotrexate to methotrexate. This interaction can be catalyzed by ABCB1, ABCG2, ABCC4 or SLC22A8.
+methotrexate	methotrexate	Transport	SLC22A8, SLCO1A2	Gene	null, endothelial cell	16702441, 12011098		methotrexate		Transport from methotrexate to methotrexate. This interaction can be catalyzed by SLC22A8 or SLCO1A2.

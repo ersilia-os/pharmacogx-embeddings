@@ -1,0 +1,14 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+ribavirin triphosphate	ribavirin monophosphate	Biochemical Reaction	ITPA	Gene	enterocyte	30045981, 29580856, 20173735			Drug Toxicity	Biochemical reaction from ribavirin triphosphate to ribavirin monophosphate. This interaction is catalyzed by ITPA.
+ribavirin	ribavirin monophosphate	Biochemical Reaction	ADK, NT5C2	Gene	enterocyte	21396942, 15917509, 2159925		ribavirin	Drug Toxicity	Biochemical reaction from ribavirin to ribavirin monophosphate. This interaction can be catalyzed by NT5C2 or ADK.
+ribavirin	ribavirin carboxylate	Biochemical Reaction	ADA	Gene	enterocyte	12499231, 280136		ribavirin	Drug Toxicity	Biochemical reaction from ribavirin to ribavirin carboxylate. This interaction is catalyzed by ADA.
+ribavirin monophosphate	ribavirin	Biochemical Reaction	NT5C2	Gene	enterocyte	2159925		ribavirin	Drug Toxicity	Biochemical reaction from ribavirin monophosphate to ribavirin. This interaction is catalyzed by NT5C2.
+ribavirin diphosphate	ribavirin triphosphate	Biochemical Reaction	NME1, NME2	Gene	enterocyte	12606760, 10349689, 8626464, 280136			Drug Toxicity	Biochemical reaction from ribavirin diphosphate to ribavirin triphosphate. This interaction can be catalyzed by NME2 or NME1.
+ribavirin	1,2,4-triazole-3-carboxamide	Biochemical Reaction	PNP	Gene	enterocyte	24107682, 2737800		ribavirin	Drug Toxicity	Biochemical reaction from ribavirin to 1,2,4-triazole-3-carboxamide. This interaction is catalyzed by PNP.
+viramidine	ribavirin	Biochemical Reaction	ADA	Gene	enterocyte	21396942		ribavirin, viramidine	Drug Toxicity	Biochemical reaction from viramidine to ribavirin. This interaction is catalyzed by ADA.
+ribavirin monophosphate	ribavirin diphosphate	Biochemical Reaction	GUK1	Gene	enterocyte	10349689, 1383219, 280136			Drug Toxicity	Biochemical reaction from ribavirin monophosphate to ribavirin diphosphate. This interaction is catalyzed by GUK1.
+ribavirin	Drug Toxicity	Leads To			enterocyte	20486858		ribavirin	Drug Toxicity	ribavirin leads to Drug Toxicity.
+ribavirin triphosphate	ribavirin triphosphate	Transport	SLC29A3	Gene	enterocyte	19164483, 16446384			Drug Toxicity	Transport from ribavirin triphosphate to ribavirin triphosphate. This interaction is catalyzed by SLC29A3.
+ribavirin	ribavirin	Transport	SLC28A2, SLC28A3, SLC29A1	Gene	null, enterocyte	30716294, 24957263, 20504255, 20096989, 18635603, 17412768, 15861032, 9605565		ribavirin	Drug Toxicity	Transport from ribavirin to ribavirin. This interaction can be catalyzed by SLC28A3, SLC28A2 or SLC29A1.
+ribavirin	ribavirin	Transport	SLC29A1	Gene	enterocyte, null	30716294, 16265592		ribavirin	Drug Toxicity	Transport from ribavirin to ribavirin. This interaction is catalyzed by SLC29A1.
+ribavirin	ribavirin	Transport	SLC29A3	Gene	enterocyte	20486858, 19164483, 16446384		ribavirin	Drug Toxicity	Transport from ribavirin to ribavirin. This interaction is catalyzed by SLC29A3.

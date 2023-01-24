@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+2,6-dimethylxylidine	4-hydroxyxylidine	Biochemical Reaction	CYP2E1	Gene	hepatocyte	23530020, 14749694, 12019189			Methemoglobinemia	Biochemical reaction from 2,6-xylidine to 4-hydroxyxylidine. This interaction is catalyzed by CYP2E1.
+glycinexylidide	2,6-dimethylxylidine	Biochemical Reaction			hepatocyte	14749694			Methemoglobinemia	Biochemical reaction from glycinexylidide to 2,6-xylidine.
+monoethylglycinexylidide	glycinexylidide	Biochemical Reaction			hepatocyte	14749694, 12019189			Methemoglobinemia	Biochemical reaction from monoethylglycinexylidide to glycinexylidide.
+lidocaine	2,6-dimethylxylidine	Biochemical Reaction	CES1	Gene	hepatocyte	24751575, 12019189		lidocaine	Methemoglobinemia	Biochemical reaction from lidocaine to 2,6-xylidine. This interaction is catalyzed by CES1.
+lidocaine	3-hydroxylidocaine	Biochemical Reaction	CYP1A2, CYP3A4	Gene	hepatocyte	10901707		lidocaine	Methemoglobinemia	Biochemical reaction from lidocaine to 3-hydroxylidocaine. This interaction can be catalyzed by CYP1A2 or CYP3A4.
+2,6-dimethylxylidine	2,6-dimethylphenylhydroxylamine	Biochemical Reaction	CYP1A2, CYP2A6, CYP2B6, CYP2D6	Gene	hepatocyte	21925229			Methemoglobinemia	Biochemical reaction from 2,6-xylidine to 2,6-dimethylphenylhydroxylamine. This interaction can be catalyzed by CYP2B6, CYP2A6, CYP1A2 or CYP2D6.
+lidocaine	monoethylglycinexylidide	Biochemical Reaction	CYP1A2, CYP3A4	Gene	hepatocyte	29263648, 14749694, 12019189, 10901707, 3443650		lidocaine	Methemoglobinemia	Biochemical reaction from lidocaine to monoethylglycinexylidide. This interaction can be catalyzed by CYP1A2 or CYP3A4.
+monoethylglycinexylidide	2,6-dimethylxylidine	Biochemical Reaction			hepatocyte	12019189			Methemoglobinemia	Biochemical reaction from monoethylglycinexylidide to 2,6-xylidine.
+4-hydroxyxylidine	Methemoglobinemia	Leads To			hepatocyte, null	23530020			Methemoglobinemia	4-hydroxyxylidine leads to Methemoglobinemia.

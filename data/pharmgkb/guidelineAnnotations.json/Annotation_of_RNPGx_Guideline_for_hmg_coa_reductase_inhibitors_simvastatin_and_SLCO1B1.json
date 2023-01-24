@@ -1,0 +1,143 @@
+{
+  "citations": [
+    {
+      "id": 15109262,
+      "title": "Pharmacogenetics in cardiovascular diseases: State of the art and implementation-recommendations of the French National Network of Pharmacogenetics (RNPGx).",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/28237404",
+      "authors": [
+        "Lamoureux Fabien",
+        "Duflot Thomas",
+        "French Network of Pharmacogenetics (RNPGX)"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451127922,
+          "resource": "PubMed",
+          "resourceId": "28237404",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/28237404",
+          "version": 0
+        },
+        {
+          "id": 1451127923,
+          "resource": "DOI",
+          "resourceId": "10.1016/j.therap.2016.09.017",
+          "_url": "http://dx.doi.org/10.1016%2Fj.therap.2016.09.017",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapie",
+      "meshDiseases": [
+        "PA443635"
+      ],
+      "meshTerms": [
+        "Anticoagulants",
+        "Cardiovascular Diseases",
+        "Cytochrome P-450 CYP2C9",
+        "Genotype",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Liver-Specific Organic Anion Transporter 1",
+        "Pharmacogenetics",
+        "Polymorphism, Genetic",
+        "Vitamin K Epoxide Reductases"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "257-267",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2017-04-01T00:00:00-07:00",
+      "summary": "The use of genomic markers to predict drug response and effectiveness has the potential to improve healthcare by increasing drug efficacy and minimizing adverse effects. Polymorphisms associated with inter-individual variability in drug metabolism, transport, or pharmacodynamics of major cardiovascular drugs have been identified. These include single nucleotide polymorphisms (SNP) affecting clinical outcomes in patients receiving antiplatelet agents, oral anticoagulants and statins. Based on clinical evidence supporting genetic testing in the management of cardiovascular diseases using these drug classes, this short review presents clinical guidance regarding current pharmacogenetics implementation in routine medical practice.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2017
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166202561",
+    "name": "Annotation of RNPGx Guideline for hmg coa reductase inhibitors, simvastatin and SLCO1B1",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451136860,
+        "date": "2020-05-13T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1451678183,
+        "date": "2022-02-10T13:49:34.513-08:00",
+        "description": "Added RNPGx as source",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741831,
+        "date": "2022-04-05T14:08:45.144-07:00",
+        "description": "Added testing guidance tag and link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15109262,"title":"Pharmacogenetics in cardiovascular diseases: State of the art and implementation-recommendations of the French National Network of Pharmacogenetics (RNPGx).","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/28237404","crossReferences":[{"id":1451127922,"resource":"PubMed","resourceId":"28237404","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28237404"},{"id":1451127923,"resource":"DOI","resourceId":"10.1016/j.therap.2016.09.017","_url":"http://dx.doi.org/10.1016%2Fj.therap.2016.09.017"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166154579",
+        "symbol": "rs4149056",
+        "name": "rs4149056",
+        "version": 5
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA133950441",
+        "name": "hmg coa reductase inhibitors",
+        "version": 14
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451363",
+        "name": "simvastatin",
+        "version": 23
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA134865839",
+        "symbol": "SLCO1B1",
+        "name": "solute carrier organic anion transporter family member 1B1",
+        "version": 49
+      }
+    ],
+    "source": "RNPGx",
+    "summaryMarkdown": {
+      "id": 1451128080,
+      "html": "<p>Testing for rs4149056 before starting statin treatment, or early after treatment onset (potentially useful test) is recommended in patients with one or more risk factors described (as a function of statin type and dose, co-medications, and the pathophysiological or genetic setting). If the genotype is not known early, the RNPGx considers that a polymorphism test is potentially useful in the event of muscle toxicity in patients treated with statins, in order to rule out or confirm a genetic cause.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451128042,
+      "html": "<p>The French National Network of Pharmacogenetics (RNPGx) guideline for SLCO1B1 and statins recommends testing for rs4149056 before starting treatment, or early after treatment onset (potentially useful test) in patients with one or more risk factors described (as a function of statin type and dose, co-medications, and the pathophysiological or genetic setting). If the genotype is not known early, the RNPGx considers that a polymorphism test is potentially useful in the event of muscle toxicity in patients treated with statins, in order to rule out or confirm a genetic cause.</p>\n<blockquote class=\"blockquote\">\n<p>RNPGx is in favor of rs4149056 testing before starting treatment, or early after treatment onset (potentially useful test) in patients with one or more risk factors described in the preceding chapter (as a function of statin type and dose, co-medications, and the pathophysiological or genetic setting). If the genotype is not known early, the RNPGx considers that a polymorphism test is potentially useful in the event of muscle toxicity in patients treated with statins, in order to rule out or confirm a genetic cause.</p>\n<p>Statin exposure (especially with simvastatin) and risk of myopathy are always higher in patients who are carriers of one or more SLCO1B1 alleles associated with OATP1B1 deficiency. This risk of myopathy is correlated with administered dose, the degree of the OATP1B1 activity deficit, and treatment combination with OATP1B1 and/or CYP3A4/5 isoform inhibitors (e.g. ciclosporin). The main risk factors for statin related myotoxicity are: genetic (e.g. SLCO1B1, CYP3A4/5. . .), pathophysiological (kidney failure, history of myopathy, diabetes mellitus, very young or very old age, female gender, hypothyroidism. . .) and drug-related (dose, type of statin, potential drug interactions).</p>\n<p>As an example, homozygous CC carriers of SLCO1B1*5/*5 (rs4149056) alleles treated with simvastatin at the dose of 80 mg/d have a 17-fold higher risk of myopathy (corresponding to a 15—20% annual incidence in this population). This risk is 3- to 5-fold higher (1—2% annual incidence) in heterozygous TC carriers (SLCO1B1*1/*5). The corresponding risk is about 0.3% in patients with the most common wild genotype TT (SLCO1B1*1/*1) receiving simvastatin 80 mg/d: the myopathy risk is multifactorial and the positive predictive value of genetic testing is thus limited.</p>\n<p>If known prior to treatment onset, a SLCO1B1 genotype corresponding to homozygous or heterozygous presence of a C allele should be considered when assessing the patient’s risk-benefit ratio before prescribing a maximal statin dose. On the basis of current knowledge, high-dose statins, as well as OATP1B1 and/or CYP3A inhibitors should be avoided in carriers of CC or TC genotypes. The patient should also be informed about the potential toxicity of the treatment and treatment should be discontinued in the event of unexplained muscle pain.</p>\n<p>Internationally, the CPIC recommends taking into account the SLCO1B1 genotype together with the dose, the type of statin, and co-medications for assessing the risk of potential statin toxicity (Fig. 4). In agreement with the FDA guidelines, the CPIC recommends: (i) against prescribing simvastatin at 80 mg/d the first year of treatment (and more generally any maximum dose statin if there is a doubt about tolerance); (ii) for simvastatin, to reduce the dose to 40 mg/d maximum in heterozygous patients (SLCO1B1*1/*5) and to 20 mg/d maximum in homozygous patients (SLCO1B1*5/*5). Under these conditions, in the event of treatment failure or toxicity, an alternative treatment should be envisaged; (iii) in all situations for patients carriers of the rs4149056 allele, use of the minimal statin dose, close monitoring of creatinine phosphokinase levels, and avoiding combining the statin with OATP1B1 inhibitors (susceptible of increasing the exposure to statins).</p>\n<p>Figure 4. Indications for SLCO1B1 genotyping for simvastatin treatment. Proposed therapeutic strategy as a function of risk factors and\ncurrent CPIC and FDA guidelines\n<img src=\"https://s3.pgkb.org/attachment/Figure4_SLCO1B1.png\" alt=\"Figure 4. Indications for SLCO1B1 genotyping for simvastatin treatment. Proposed therapeutic strategy as a function of risk factors and\ncurrent CPIC and FDA guidelines\" /></p>\n</blockquote>\n<p><a href=\"/page/testingGuidance\">Read more about the RNPGx levels of recommendation for testing</a>.</p>\n",
+      "version": 1
+    },
+    "userId": "lgong",
+    "version": 2
+  }
+}

@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+arteether	dihydro- artemisinin	Biochemical Reaction	CYP2B6,CYP3A4,CYP3A5	Catalysis	hepatocyte	9531517	"CYP2B6","CYP3A4","CYP3A5"	arteether	
+artemether	dihydro- artemisinin	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte	11069212,18193915	"CYP3A4","CYP3A5"	artemether	
+artemisinin	9,10-dihydrodeoxy- artemisinin	Biochemical Reaction	CYP2A6,CYP2B6,CYP3A4	Catalysis	hepatocyte	11069212,2084705,8053019	"CYP2A6","CYP2B6","CYP3A4"	artemisinin	
+artemisinin	crystal-7	Biochemical Reaction	CYP2A6,CYP2B6,CYP3A4	Catalysis	hepatocyte	11069212,2084705,8053019	"CYP2A6","CYP2B6","CYP3A4"	artemisinin	
+artemisinin	deoxy- artemisinin	Biochemical Reaction	CYP2A6,CYP2B6,CYP3A4	Catalysis	hepatocyte	11069212,2084705,8053019	"CYP2A6","CYP2B6","CYP3A4"	artemisinin	
+artemisinin	deoxydihydro- artemisinin	Biochemical Reaction	CYP2A6,CYP2B6,CYP3A4	Catalysis	hepatocyte	11069212,2084705,8053019	"CYP2A6","CYP2B6","CYP3A4"	artemisinin	
+artesunate	dihydro- artemisinin	Biochemical Reaction	CYP2A6	Catalysis	hepatocyte	11791963,12920490,2084705	CYP2A6	artesunate	
+dihydro- artemisinin	alpha-dihydro- artemisinin- beta-glucoronide	Biochemical Reaction	UGT1A9,UGT2B7	Catalysis	hepatocyte	12167566	"UGT1A9","UGT2B7"		

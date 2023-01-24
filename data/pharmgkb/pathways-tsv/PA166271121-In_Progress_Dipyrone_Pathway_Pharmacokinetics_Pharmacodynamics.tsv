@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+4-methylaminoantipyrine	4-formylaminoantipyrine	Biochemical Reaction			hepatocyte	25241292, 7758252, 1618251				Biochemical reaction from 4-methylaminoantipyrine to 4-formylaminoantipyrine.
+4-aminoantipyrine	4-acetamidoantipyrine	Biochemical Reaction	NAT2	Gene	hepatocyte	25241292, 7758252, 1618251				Biochemical reaction from 4-aminoantipyrine to 4-acetamidoantipyrine. This interaction is catalyzed by NAT2.
+dipyrone	4-methylaminoantipyrine	Biochemical Reaction			null, hepatocyte	25241292, 7758252, 1618251		dipyrone		Biochemical reaction from dipyrone to 4-methylaminoantipyrine.
+4-methylaminoantipyrine	4-aminoantipyrine	Biochemical Reaction	CYP2C19	Gene	hepatocyte	25241292, 7758252, 1618251				Biochemical reaction from 4-methylaminoantipyrine to 4-aminoantipyrine. This interaction is catalyzed by CYP2C19.
+4-aminoantipyrine	PTGS2	Inhibition			hepatocyte, cell	25241292	PTGS2			4-aminoantipyrine inhibits PTGS2.
+4-aminoantipyrine	PTGS1	Inhibition			hepatocyte, cell	25241292	PTGS1			4-aminoantipyrine inhibits PTGS1.
+4-methylaminoantipyrine	PTGS1	Inhibition			hepatocyte, cell	25241292	PTGS1			4-methylaminoantipyrine inhibits PTGS1.
+4-methylaminoantipyrine	PTGS2	Inhibition			hepatocyte, cell	25241292	PTGS2			4-methylaminoantipyrine inhibits PTGS2.

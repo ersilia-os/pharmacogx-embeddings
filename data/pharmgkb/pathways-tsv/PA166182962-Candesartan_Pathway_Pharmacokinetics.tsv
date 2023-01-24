@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+candesartan	o-desethyl candesartan	Biochemical Reaction	CYP2C9	Gene	hepatocyte	23487168, 17827781, 9331001		candesartan		Biochemical reaction from candesartan to o-desethyl candesartan. This interaction is catalyzed by CYP2C9.
+candesartan cilexetil	candesartan	Biochemical Reaction			hepatocyte	23487168		candesartan, candesartan cilexetil		Biochemical reaction from candesartan cilexetil to candesartan.
+candesartan	CYP2C9	Inhibition			hepatocyte	17827781	CYP2C9	candesartan		candesartan inhibits CYP2C9.
+candesartan	candesartan	Transport	ABCB1	Gene	hepatocyte, null	23487168		candesartan		Transport from candesartan to candesartan. This interaction is catalyzed by ABCB1.

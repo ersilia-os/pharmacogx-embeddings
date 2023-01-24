@@ -1,0 +1,22 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+ADCY1,ADCY2	ADCY1,ADCY2	Biochemical Reaction	GNAI1,GNAI2,GNAI3,GNAS	Activation,Inhibition	neuron	11916537,15034221,16896947	"GNAI3","GNAS","ADCY2","ADCY1","GNAI1","GNAI2"		
+ATP	cyclic AMP	Biochemical Reaction	ADCY1,ADCY2	Catalysis	neuron	12726882	"ADCY2","ADCY1"		
+Ca2+	Ca2+	Biochemical Reaction	IP3	Activation	neuron	16896947			
+diacylglycerol	diacylglycerol	Biochemical Reaction	PLCB1,PLCB2,PLCB3,PLCB4	Activation	neuron	16896947	"PLCB3","PLCB4","PLCB1","PLCB2"		
+GNAI1,GNAI2,GNAI3	GNAI1,GNAI2,GNAI3	Biochemical Reaction	HTR1A,HTR1B,HTR1D,HTR1E,HTR1F	Activation	neuron	11590474,11916537,12726882	"HTR1E","HTR1F","HTR1D","GNAI3","HTR1A","HTR1B","GNAI1","GNAI2"		
+GNAQ	GNAQ	Biochemical Reaction	HTR2A,HTR2C	Activation	neuron	11590474,11916537,12726882	"GNAQ","HTR2C","HTR2A"		
+GNAS	GNAS	Biochemical Reaction	HTR4,HTR6,HTR7	Activation	neuron	11590474,11916537,12726882	"HTR6","HTR7","GNAS","HTR4"		
+HTR3A	HTR3A	Biochemical Reaction	serotonin	Activation	neuron	11590474,11916537,12726882	HTR3A		
+IP3	IP3	Biochemical Reaction	PLCB1,PLCB2,PLCB3,PLCB4	Activation	neuron	16896947	"PLCB3","PLCB4","PLCB1","PLCB2"		
+PLCB1,PLCB2,PLCB3,PLCB4	PLCB1,PLCB2,PLCB3,PLCB4	Biochemical Reaction	GNAQ	Activation	neuron	11916537,15034221,16896947	"PLCB3","PLCB4","GNAQ","PLCB1","PLCB2"		
+serotonin	5-hydroxyindoleacetic acid	Biochemical Reaction	MAOA	Catalysis	neuron	10591056,14697877	MAOA		
+SLC6A4	SLC6A4	Biochemical Reaction	citalopram,fluoxetine,fluvoxamine,paroxetine,sertraline	Inhibition	neuron	10674711,14642278,7969065,8221701,9400006	SLC6A4	"fluoxetine","paroxetine","fluvoxamine","citalopram","sertraline"	
+tryptophan	serotonin	Biochemical Reaction	DDC,TPH1,TPH2	Catalysis	neuron	10889538,12511643,16581041,8897471	"TPH2","DDC","TPH1"		
+HTR1A,HTR1B,HTR1D,HTR1E,HTR1F	HTR1A,HTR1B,HTR1D,HTR1E,HTR1F	Conversion	serotonin	Activation	neuron		"HTR1E","HTR1F","HTR1D","HTR1A","HTR1B"		
+HTR1A,HTR1B,HTR1D	HTR1A,HTR1B,HTR1D	Conversion	serotonin	Activation	neuron		"HTR1D","HTR1A","HTR1B"		
+HTR2A,HTR2C	HTR2A,HTR2C	Conversion	serotonin	Activation	neuron		"HTR2C","HTR2A"		
+HTR4	HTR4	Conversion	serotonin	Activation	neuron		HTR4		
+HTR6	HTR6	Conversion	serotonin	Activation	neuron		HTR6		
+HTR7	HTR7	Conversion	serotonin	Activation	neuron		HTR7		
+serotonin	serotonin	Transport	SLC18A2	Catalysis	neuron	1438304,9665836	SLC18A2		
+serotonin	serotonin	Transport	SLC6A4	Catalysis	neuron	12769604,14642278,8125921	SLC6A4		

@@ -1,0 +1,594 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166104997",
+    "name": "Annotation of CPIC Guideline for abacavir and HLA-B",
+    "alternateDrugAvailable": true,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983436,
+        "name": "CPIC® Guideline for Abacavir and HLA-B – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-abacavir-and-hla-b/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-abacavir-and-hla-b/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "-ho-Se249_8",
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1449561708,
+        "alleles": [
+          {
+            "id": 1449561709,
+            "_label": "*57:01:01",
+            "function": {
+              "id": 1445558333,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Presence",
+              "termId": "haplotypeTags:1445558333",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165956565",
+              "symbol": "HLA-B*57:01:01",
+              "name": "*57:01:01",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561710,
+            "_label": "Other",
+            "allele": "Other",
+            "function": {
+              "id": 1445558334,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Absence",
+              "termId": "haplotypeTags:1445558334",
+              "version": 0
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA35056",
+          "symbol": "HLA-B",
+          "name": "major histocompatibility complex, class I, B",
+          "altNames": {
+            "symbol": [
+              "AS"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "p21.33",
+          "cbStop": "p21.33",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA532",
+            "name": "chr6",
+            "version": 3
+          },
+          "chrStartPosB37": 31321649,
+          "chrStartPosB38": 31353866,
+          "chrStopPosB37": 31324989,
+          "chrStopPosB38": 31357245,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553240536,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "3106",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=3106",
+              "version": 0
+            },
+            {
+              "id": 608121133,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000234745",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000234745",
+              "version": 0
+            },
+            {
+              "id": 75780,
+              "resource": "GenAtlas",
+              "resourceId": "HLA-B",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=HLA-B",
+              "version": 1
+            },
+            {
+              "id": 90708,
+              "resource": "GeneCard",
+              "resourceId": "HLA-B",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HLA-B",
+              "version": 1
+            },
+            {
+              "id": 608121130,
+              "resource": "HGNC",
+              "resourceId": "HGNC:4932",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A4932",
+              "version": 1
+            },
+            {
+              "id": 608121134,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS11467",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS11467",
+              "version": 0
+            },
+            {
+              "id": 560875826,
+              "resource": "ModBase",
+              "resourceId": "P01889",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P01889",
+              "version": 0
+            },
+            {
+              "id": 560879669,
+              "resource": "ModBase",
+              "resourceId": "P10319",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P10319",
+              "version": 0
+            },
+            {
+              "id": 560884476,
+              "resource": "ModBase",
+              "resourceId": "P18463",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P18463",
+              "version": 0
+            },
+            {
+              "id": 560884475,
+              "resource": "ModBase",
+              "resourceId": "P18464",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P18464",
+              "version": 0
+            },
+            {
+              "id": 560884478,
+              "resource": "ModBase",
+              "resourceId": "P18465",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P18465",
+              "version": 0
+            },
+            {
+              "id": 560874353,
+              "resource": "ModBase",
+              "resourceId": "P30461",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30461",
+              "version": 0
+            },
+            {
+              "id": 560874355,
+              "resource": "ModBase",
+              "resourceId": "P30462",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30462",
+              "version": 0
+            },
+            {
+              "id": 560934538,
+              "resource": "ModBase",
+              "resourceId": "P30474",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30474",
+              "version": 0
+            },
+            {
+              "id": 560874370,
+              "resource": "ModBase",
+              "resourceId": "P30479",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30479",
+              "version": 0
+            },
+            {
+              "id": 560874359,
+              "resource": "ModBase",
+              "resourceId": "P30480",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30480",
+              "version": 0
+            },
+            {
+              "id": 560874390,
+              "resource": "ModBase",
+              "resourceId": "P30483",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30483",
+              "version": 0
+            },
+            {
+              "id": 560874391,
+              "resource": "ModBase",
+              "resourceId": "P30484",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30484",
+              "version": 0
+            },
+            {
+              "id": 560874392,
+              "resource": "ModBase",
+              "resourceId": "P30485",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30485",
+              "version": 0
+            },
+            {
+              "id": 560874393,
+              "resource": "ModBase",
+              "resourceId": "P30486",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30486",
+              "version": 0
+            },
+            {
+              "id": 560874394,
+              "resource": "ModBase",
+              "resourceId": "P30487",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30487",
+              "version": 0
+            },
+            {
+              "id": 560874395,
+              "resource": "ModBase",
+              "resourceId": "P30488",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30488",
+              "version": 0
+            },
+            {
+              "id": 560874384,
+              "resource": "ModBase",
+              "resourceId": "P30490",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30490",
+              "version": 0
+            },
+            {
+              "id": 560874282,
+              "resource": "ModBase",
+              "resourceId": "P30492",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30492",
+              "version": 0
+            },
+            {
+              "id": 560874281,
+              "resource": "ModBase",
+              "resourceId": "P30493",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30493",
+              "version": 0
+            },
+            {
+              "id": 560874277,
+              "resource": "ModBase",
+              "resourceId": "P30495",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30495",
+              "version": 0
+            },
+            {
+              "id": 560874272,
+              "resource": "ModBase",
+              "resourceId": "P30498",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30498",
+              "version": 0
+            },
+            {
+              "id": 560873709,
+              "resource": "ModBase",
+              "resourceId": "Q29718",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29718",
+              "version": 0
+            },
+            {
+              "id": 560880154,
+              "resource": "ModBase",
+              "resourceId": "Q29836",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29836",
+              "version": 0
+            },
+            {
+              "id": 560936153,
+              "resource": "ModBase",
+              "resourceId": "Q29846",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29846",
+              "version": 0
+            },
+            {
+              "id": 560936154,
+              "resource": "ModBase",
+              "resourceId": "Q29847",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29847",
+              "version": 0
+            },
+            {
+              "id": 560936167,
+              "resource": "ModBase",
+              "resourceId": "Q29855",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29855",
+              "version": 0
+            },
+            {
+              "id": 560879690,
+              "resource": "ModBase",
+              "resourceId": "Q29940",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29940",
+              "version": 0
+            },
+            {
+              "id": 560936059,
+              "resource": "ModBase",
+              "resourceId": "Q29982",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29982",
+              "version": 0
+            },
+            {
+              "id": 560881267,
+              "resource": "ModBase",
+              "resourceId": "Q31610",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q31610",
+              "version": 0
+            },
+            {
+              "id": 560881268,
+              "resource": "ModBase",
+              "resourceId": "Q31612",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q31612",
+              "version": 0
+            },
+            {
+              "id": 560936598,
+              "resource": "ModBase",
+              "resourceId": "Q9BCM7",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9BCM7",
+              "version": 0
+            },
+            {
+              "id": 560936597,
+              "resource": "ModBase",
+              "resourceId": "Q9BCM8",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9BCM8",
+              "version": 0
+            },
+            {
+              "id": 560936746,
+              "resource": "ModBase",
+              "resourceId": "Q9MY78",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9MY78",
+              "version": 0
+            },
+            {
+              "id": 560936886,
+              "resource": "ModBase",
+              "resourceId": "Q9TP36",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9TP36",
+              "version": 0
+            },
+            {
+              "id": 560936887,
+              "resource": "ModBase",
+              "resourceId": "Q9TP37",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9TP37",
+              "version": 0
+            },
+            {
+              "id": 458318,
+              "resource": "MutDB",
+              "resourceId": "HLA-B",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=HLA-B",
+              "version": 1
+            },
+            {
+              "id": 14512,
+              "resource": "NCBI Gene",
+              "resourceId": "3106",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/3106",
+              "version": 1
+            },
+            {
+              "id": 236,
+              "resource": "OMIM",
+              "resourceId": "106300",
+              "_url": "https://omim.org/entry/106300",
+              "version": 1
+            },
+            {
+              "id": 1187,
+              "resource": "OMIM",
+              "resourceId": "142830",
+              "_url": "https://omim.org/entry/142830",
+              "version": 1
+            },
+            {
+              "id": 560528823,
+              "resource": "OMIM",
+              "resourceId": "608579",
+              "_url": "https://omim.org/entry/608579",
+              "version": 0
+            },
+            {
+              "id": 123312434,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_002397",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_002397",
+              "version": 1
+            },
+            {
+              "id": 608121131,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_023187",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_023187",
+              "version": 0
+            },
+            {
+              "id": 36716,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_007592",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_007592",
+              "version": 1
+            },
+            {
+              "id": 124576757,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_113891",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_113891",
+              "version": 0
+            },
+            {
+              "id": 608105122,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167246",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167246",
+              "version": 0
+            },
+            {
+              "id": 608105117,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167247",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167247",
+              "version": 0
+            },
+            {
+              "id": 608105118,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167248",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167248",
+              "version": 0
+            },
+            {
+              "id": 608105119,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167249",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167249",
+              "version": 0
+            },
+            {
+              "id": 42142,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_005505",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_005505",
+              "version": 1
+            },
+            {
+              "id": 51237,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_005514",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_005514",
+              "version": 1
+            },
+            {
+              "id": 120121,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_005514",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_005514",
+              "version": 1
+            },
+            {
+              "id": 123312435,
+              "name": "1B07_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P01889",
+              "_url": "https://www.uniprot.org/uniprot/P01889",
+              "version": 2
+            }
+          ],
+          "hasNonStandardHaplotypes": true,
+          "hideHaplotypes": true,
+          "pharmVarGene": false,
+          "strand": "minus",
+          "terms": [
+            {"id":560497373,"_url":"http://amigo.geneontology.org/amigo/term/GO:0002474","resource":"Gene Ontology","term":"antigen processing and presentation of peptide antigen via MHC class I","termId":"GO:0002474"},
+            {"id":560495229,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005515","resource":"Gene Ontology","term":"protein binding","termId":"GO:0005515"},
+            {"id":560495464,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005624","resource":"Gene Ontology","term":"membrane fraction","termId":"GO:0005624"},
+            {"id":560500224,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005886","resource":"Gene Ontology","term":"plasma membrane","termId":"GO:0005886"},
+            {"id":560500225,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005887","resource":"Gene Ontology","term":"integral to plasma membrane","termId":"GO:0005887"},
+            {"id":560497046,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006952","resource":"Gene Ontology","term":"defense response","termId":"GO:0006952"},
+            {"id":560497106,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006955","resource":"Gene Ontology","term":"immune response","termId":"GO:0006955"},
+            {"id":560499972,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016020","resource":"Gene Ontology","term":"membrane","termId":"GO:0016020"},
+            {"id":560500226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016021","resource":"Gene Ontology","term":"integral to membrane","termId":"GO:0016021"},
+            {"id":560497350,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019882","resource":"Gene Ontology","term":"antigen processing and presentation","termId":"GO:0019882"},
+            {"id":560512256,"_url":"http://amigo.geneontology.org/amigo/term/GO:0032393","resource":"Gene Ontology","term":"MHC class I receptor activity","termId":"GO:0032393"},
+            {"id":560515583,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042612","resource":"Gene Ontology","term":"MHC class I protein complex","termId":"GO:0042612"},
+            {"id":560516834,"_url":"http://amigo.geneontology.org/amigo/term/GO:0044419","resource":"Gene Ontology","term":"interspecies interaction between organisms","termId":"GO:0044419"}
+          ],
+          "version": 40
+        },
+        "version": 0
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1183699748,
+        "date": "2012-02-29T00:00:00-08:00",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1183847536,
+        "date": "2014-02-28T00:00:00-08:00",
+        "description": "CPIC update to guidelines published",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1184512476,
+        "date": "2014-08-05T00:00:00-07:00",
+        "description": "updated pubication date for update to May 2014",
+        "type": "Update",
+        "version": 1
+      },
+      {
+        "id": 1184782525,
+        "date": "2014-09-30T00:00:00-07:00",
+        "description": "Supplement was missing figures; complete supplement with figures added",
+        "type": "Correction",
+        "version": 1
+      },
+      {
+        "id": 1451461940,
+        "date": "2021-06-16T18:33:15.314-07:00",
+        "description": "Added text from guideline regarding pediatrics",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15070904,"title":"Clinical Pharmacogenetics Implementation Consortium Guidelines for HLA-B Genotype and Abacavir Dosing: 2014 update.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3994233","crossReferences":[{"id":1449279728,"resource":"PubMed Central","resourceId":"PMC3994233","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3994233"},{"id":1449279727,"resource":"PubMed","resourceId":"24561393","_url":"https://www.ncbi.nlm.nih.gov/pubmed/24561393"},{"id":1449279729,"resource":"DOI","resourceId":"10.1038/clpt.2014.38","_url":"http://dx.doi.org/10.1038%2Fclpt.2014.38"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":14962778,"title":"Clinical pharmacogenetics implementation consortium guidelines for HLA-B genotype and abacavir dosing.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3374459","crossReferences":[{"id":1449267214,"resource":"PubMed Central","resourceId":"PMC3374459","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3374459"},{"id":827848488,"resource":"PubMed","resourceId":"22378157","_url":"https://www.ncbi.nlm.nih.gov/pubmed/22378157"},{"id":1449267215,"resource":"DOI","resourceId":"10.1038/clpt.2011.355","_url":"http://dx.doi.org/10.1038%2Fclpt.2011.355"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15100923,"title":"CPIC® Guideline for Abacavir and HLA-B – CPIC","_sameAs":"https://cpicpgx.org/guidelines/guideline-for-abacavir-and-hla-b/","crossReferences":[{"id":1447983436,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-abacavir-and-hla-b/","_url":"https://cpicpgx.org/guidelines/guideline-for-abacavir-and-hla-b/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA448004",
+        "name": "abacavir",
+        "version": 10
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA35056",
+        "symbol": "HLA-B",
+        "name": "major histocompatibility complex, class I, B",
+        "version": 40
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1447982036,
+      "html": "<p>In individuals with the HLA-B*57:01 variant allele (&quot;HLA-B*57:01-positive&quot;), abacavir is not recommended and should be considered only under exceptional circumstances. See full guideline for disclaimers, further details and supporting evidence.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433650,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-abacavir-and-hla-b/\" target=\"_blank\">CPIC&reg; guideline for abacavir and HLA-B</a>.</p>\n<h3 id=\"may-2014-update\">May 2014 Update</h3>\n<p><em>Accepted article preview online 21 February 2014; Advance online publication 12 March 2014</em></p>\n<p>The <a rel=\"noopener noreferrer\" href=\"http://www.nature.com/clpt/journal/v95/n5/full/clpt201438a.html\" target=\"_blank\">2014 update of CPIC guidelines</a> regarding abacavir has been published in <em>Clinical Pharmacology and Therapeutics</em>. Literature published between April 2011-November 2013 was reviewed and there is <strong>no new evidence that would change the original guidelines. Therefore, the dosing recommendations in the original publication remain clinically current</strong>.</p>\n<ul>\n<li>These guidelines are applicable to:\n<ul>\n<li>HIV Patients</li>\n<li>&quot;Although much of the evidence linking HLA- B*57:01 to abacavir hypersensitivity was conducted in adults, there is no reason to suspect that children positive for HLA- B*57:01 would be at less risk for abacavir hypersensitivity reactions than adults positive for HLA-B*57:01. Furthermore, the Panel on Antiretroviral Therapy and Medical Management of HIV-Infected Children (Guidelines for the Use of Antiretroviral Agents in Pediatric HIV Infection; http://aidsinfo.nih.gov/con- tentfiles/lvguidelines/pediatricguidelines.pdf ) recommends against the use of abacavir in children who test positive for HLA-B*57:01.&quot;</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/abacavir/2014/24561393.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium Guidelines for <em>HLA-B</em> Genotype and Abacavir Dosing: 2014 Update </a>.</li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/abacavir/2014/24561393-supplement.pdf\" target=\"_blank\">2014 supplement</a>.</li>\n</ul>\n</li>\n</ul>\n<h3 id=\"april-2012\">April 2012</h3>\n<p><em>Advance online publication February 2012</em></p>\n<ul>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/abacavir/2012/22378157.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium Guidelines for <em>HLA-B</em> Genotype and Abacavir Dosing</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/abacavir/2012/22378157-supplement.pdf\" target=\"_blank\">2012 supplement</a>.</li>\n</ul>\n</li>\n</ul>\n<p>Excerpt from the abacavir dosing guidelines:</p>\n<blockquote class=\"blockquote\">\n<p>We agree with others* that <em>HLA-B*57:01</em> screening should be performed in all abacavir-naive individuals before initiation of abacavir-containing therapy (see Table 1 below); this is consistent with the recommendations of the FDA, the US Department of Health and Human Services, and the European Medicines Agency. In abacavir-naive individuals who are <em>HLA-B*57:01</em>-positive, abacavir is not recommended and should be considered only under exceptional circumstances when the potential benefit, based on resistance patterns and treatment history, outweighs the risk.</p>\n</blockquote>\n<p>*[Articles:<a href=\"/pmid/18826546\">18826546</a>, <a href=\"/pmid/19640227\">19640227</a>, <a href=\"/pmid/21174626\">21174626</a>, <a href=\"/pmid/21412232\">21412232</a>] <a rel=\"noopener noreferrer\" href=\"http://www.aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL.pdf\" target=\"_blank\">Guidelines for the Use of Antiretroviral Agents in HIV-1-Infected Adults and Adolescents (PDF) </a></p>\n<h3 id=\"table-1-recommended-therapeutic-use-of-abacavir-based-on-hla-b-genotype\">Table 1: Recommended therapeutic use of abacavir based on <em>HLA-B</em> genotype</h3>\n<p><em>Adapted from Tables 1 and 2 of the 2012 guideline manuscript.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Likely phenotype</th>\n<th>Genotypes</th>\n<th>Examples of diplotypes</th>\n<th>Implications for phenotypic measures</th>\n<th>Recommendations for abacavir therapy</th>\n<th>Classification of recommendation for abacavir therapy <sup>a</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Very low risk of hypersensitivity (constitutes ~94% <sup>b</sup> of patients)</td>\n<td>Absence of <em>*57:01</em> alleles (reported as &quot;negative&quot; on a genotyping test)</td>\n<td>*X/*X <sup>c</sup></td>\n<td>Low or reduced risk of abacavir hypersensitivity</td>\n<td>Use abacavir per standard dosing guidelines</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>High risk of hypersensitivity (~6% of patients)</td>\n<td>Presence of at least one <em>*57:01</em> allele (reported as &quot;positive&quot; on a genotyping test)</td>\n<td><em>*57:01</em>/*X <sup>c</sup> <em>*57:01/*57:01</em></td>\n<td>Significantly increased risk of abacavir hypersensitivity</td>\n<td>Abacavir is not recommended</td>\n<td>Strong</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> Rating scheme described in the <a download=\"CPIC_HLAB-Abacavir_Supplemental_Material.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/CPIC_HLAB-Abacavir_Supplemental_Material.pdf\">2012 Supplement</a></p>\n<p><sup>b</sup> See the <a download=\"CPIC_HLAB-Abacavir_Supplemental_Material.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/CPIC_HLAB-Abacavir_Supplemental_Material.pdf\">2012 Supplement</a> for estimates of genotype frequencies among different ethnic/geographic groups</p>\n<p><sup>c</sup> *X = any <em>HLA-B</em> genotype other than <em>*57:01</em>.</p>\n<p><em>HLA-B</em> = human leukocyte antigen B</p>\n<p><strong>Listen to an interview with the lead author:</strong> <a rel=\"noopener noreferrer\" href=\"http://www.theaidsreader.com/display/article/1145619/2064707\" target=\"_blank\">podcast</a></p>\n",
+      "version": 1
+    },
+    "userId": "carrillo",
+    "version": 44
+  }
+}

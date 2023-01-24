@@ -1,0 +1,658 @@
+{
+  "citations": [
+    {
+      "id": 15136122,
+      "title": "Dutch pharmacogenetics working group guideline for the gene-drug interaction of ABCG2, HLA-B and Allopurinol, and MTHFR, folic acid and methotrexate.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/36056234",
+      "authors": [
+        "van der Pol Karel H",
+        "Nijenhuis Marga",
+        "Soree Bianca",
+        "de Boer-Veger Nienke J",
+        "Buunk Anne Marie",
+        "Guchelaar Henk-Jan",
+        "Risselada Arne",
+        "van Schaik Ron H N",
+        "Swen Jesse J",
+        "Touw Daan",
+        "van der Weide Jan",
+        "van Westrhenen Roos",
+        "Deneer Vera H M",
+        "Houwink Elisa J F",
+        "Rongen Gerard A"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451889545,
+          "resource": "PubMed",
+          "resourceId": "36056234",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/36056234",
+          "version": 0
+        },
+        {
+          "id": 1451889546,
+          "resource": "DOI",
+          "resourceId": "10.1038/s41431-022-01180-0",
+          "_url": "http://dx.doi.org/10.1038%2Fs41431-022-01180-0",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "European journal of human genetics : EJHG",
+      "meshDiseases": [],
+      "meshTerms": [],
+      "month": 9,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2022-09-01T00:00:00-07:00",
+      "summary": "The Dutch Pharmacogenetics Working Group (DPWG) aims to facilitate PGx implementation by developing evidence-based pharmacogenetics guidelines to optimize pharmacotherapy. This guideline describes the gene-drug interaction of ABCG2 with allopurinol, HLA-B with allopurinol, MTHFR with folic acid, and MTHFR with methotrexate, relevant for the treatment of gout, cancer, and rheumatoid arthritis. A systematic review was performed based on which pharmacotherapeutic recommendations were developed. Allopurinol is less effective in patients with the ABCG2 p.(Gln141Lys) variant. In HLA-B*58:01 carriers, the risk of severe cutaneous adverse events associated with allopurinol is strongly increased. The DPWG recommends using a higher allopurinol dose in patients with the ABCG2 p.(Gln141Lys) variant. For HLA-B*58:01 positive patients the DPWG recommends choosing an alternative (for instance febuxostat). The DPWG indicates that another option would be to precede treatment with allopurinol tolerance induction. Genotyping of ABCG2 in patients starting on allopurinol was judged to be 'potentially beneficial' for drug effectiveness, meaning genotyping can be considered on an individual patient basis. Genotyping for HLA-B*58:01 in patients starting on allopurinol was judged to be 'beneficial' for drug safety, meaning it is advised to consider genotyping the patient before (or directly after) drug therapy has been initiated. For MTHFR-folic acid there is evidence for a gene-drug interaction, but there is insufficient evidence for a clinical effect that makes therapy adjustment useful. Finally, for MTHFR-methotrexate there is insufficient evidence for a gene-drug interaction.",
+      "terms": [],
+      "version": 0,
+      "year": 2022
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166265141",
+    "name": "Annotation of DPWG Guideline for allopurinol and HLA-B",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1451697680,
+        "alleles": [
+          {
+            "id": 1451697700,
+            "_label": "*58:01",
+            "function": {
+              "id": 1445558333,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Presence",
+              "termId": "haplotypeTags:1445558333",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165987831",
+              "symbol": "HLA-B*58:01",
+              "name": "*58:01",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1451698856,
+            "_label": "Other",
+            "allele": "Other",
+            "function": {
+              "id": 1445558334,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Absence",
+              "termId": "haplotypeTags:1445558334",
+              "version": 0
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA35056",
+          "symbol": "HLA-B",
+          "name": "major histocompatibility complex, class I, B",
+          "altNames": {
+            "symbol": [
+              "AS"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "p21.33",
+          "cbStop": "p21.33",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA532",
+            "name": "chr6",
+            "version": 3
+          },
+          "chrStartPosB37": 31321649,
+          "chrStartPosB38": 31353866,
+          "chrStopPosB37": 31324989,
+          "chrStopPosB38": 31357245,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553240536,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "3106",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=3106",
+              "version": 0
+            },
+            {
+              "id": 608121133,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000234745",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000234745",
+              "version": 0
+            },
+            {
+              "id": 75780,
+              "resource": "GenAtlas",
+              "resourceId": "HLA-B",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=HLA-B",
+              "version": 1
+            },
+            {
+              "id": 90708,
+              "resource": "GeneCard",
+              "resourceId": "HLA-B",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HLA-B",
+              "version": 1
+            },
+            {
+              "id": 608121130,
+              "resource": "HGNC",
+              "resourceId": "HGNC:4932",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A4932",
+              "version": 1
+            },
+            {
+              "id": 608121134,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS11467",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS11467",
+              "version": 0
+            },
+            {
+              "id": 560875826,
+              "resource": "ModBase",
+              "resourceId": "P01889",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P01889",
+              "version": 0
+            },
+            {
+              "id": 560879669,
+              "resource": "ModBase",
+              "resourceId": "P10319",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P10319",
+              "version": 0
+            },
+            {
+              "id": 560884476,
+              "resource": "ModBase",
+              "resourceId": "P18463",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P18463",
+              "version": 0
+            },
+            {
+              "id": 560884475,
+              "resource": "ModBase",
+              "resourceId": "P18464",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P18464",
+              "version": 0
+            },
+            {
+              "id": 560884478,
+              "resource": "ModBase",
+              "resourceId": "P18465",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P18465",
+              "version": 0
+            },
+            {
+              "id": 560874353,
+              "resource": "ModBase",
+              "resourceId": "P30461",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30461",
+              "version": 0
+            },
+            {
+              "id": 560874355,
+              "resource": "ModBase",
+              "resourceId": "P30462",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30462",
+              "version": 0
+            },
+            {
+              "id": 560934538,
+              "resource": "ModBase",
+              "resourceId": "P30474",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30474",
+              "version": 0
+            },
+            {
+              "id": 560874370,
+              "resource": "ModBase",
+              "resourceId": "P30479",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30479",
+              "version": 0
+            },
+            {
+              "id": 560874359,
+              "resource": "ModBase",
+              "resourceId": "P30480",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30480",
+              "version": 0
+            },
+            {
+              "id": 560874390,
+              "resource": "ModBase",
+              "resourceId": "P30483",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30483",
+              "version": 0
+            },
+            {
+              "id": 560874391,
+              "resource": "ModBase",
+              "resourceId": "P30484",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30484",
+              "version": 0
+            },
+            {
+              "id": 560874392,
+              "resource": "ModBase",
+              "resourceId": "P30485",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30485",
+              "version": 0
+            },
+            {
+              "id": 560874393,
+              "resource": "ModBase",
+              "resourceId": "P30486",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30486",
+              "version": 0
+            },
+            {
+              "id": 560874394,
+              "resource": "ModBase",
+              "resourceId": "P30487",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30487",
+              "version": 0
+            },
+            {
+              "id": 560874395,
+              "resource": "ModBase",
+              "resourceId": "P30488",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30488",
+              "version": 0
+            },
+            {
+              "id": 560874384,
+              "resource": "ModBase",
+              "resourceId": "P30490",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30490",
+              "version": 0
+            },
+            {
+              "id": 560874282,
+              "resource": "ModBase",
+              "resourceId": "P30492",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30492",
+              "version": 0
+            },
+            {
+              "id": 560874281,
+              "resource": "ModBase",
+              "resourceId": "P30493",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30493",
+              "version": 0
+            },
+            {
+              "id": 560874277,
+              "resource": "ModBase",
+              "resourceId": "P30495",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30495",
+              "version": 0
+            },
+            {
+              "id": 560874272,
+              "resource": "ModBase",
+              "resourceId": "P30498",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30498",
+              "version": 0
+            },
+            {
+              "id": 560873709,
+              "resource": "ModBase",
+              "resourceId": "Q29718",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29718",
+              "version": 0
+            },
+            {
+              "id": 560880154,
+              "resource": "ModBase",
+              "resourceId": "Q29836",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29836",
+              "version": 0
+            },
+            {
+              "id": 560936153,
+              "resource": "ModBase",
+              "resourceId": "Q29846",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29846",
+              "version": 0
+            },
+            {
+              "id": 560936154,
+              "resource": "ModBase",
+              "resourceId": "Q29847",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29847",
+              "version": 0
+            },
+            {
+              "id": 560936167,
+              "resource": "ModBase",
+              "resourceId": "Q29855",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29855",
+              "version": 0
+            },
+            {
+              "id": 560879690,
+              "resource": "ModBase",
+              "resourceId": "Q29940",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29940",
+              "version": 0
+            },
+            {
+              "id": 560936059,
+              "resource": "ModBase",
+              "resourceId": "Q29982",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29982",
+              "version": 0
+            },
+            {
+              "id": 560881267,
+              "resource": "ModBase",
+              "resourceId": "Q31610",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q31610",
+              "version": 0
+            },
+            {
+              "id": 560881268,
+              "resource": "ModBase",
+              "resourceId": "Q31612",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q31612",
+              "version": 0
+            },
+            {
+              "id": 560936598,
+              "resource": "ModBase",
+              "resourceId": "Q9BCM7",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9BCM7",
+              "version": 0
+            },
+            {
+              "id": 560936597,
+              "resource": "ModBase",
+              "resourceId": "Q9BCM8",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9BCM8",
+              "version": 0
+            },
+            {
+              "id": 560936746,
+              "resource": "ModBase",
+              "resourceId": "Q9MY78",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9MY78",
+              "version": 0
+            },
+            {
+              "id": 560936886,
+              "resource": "ModBase",
+              "resourceId": "Q9TP36",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9TP36",
+              "version": 0
+            },
+            {
+              "id": 560936887,
+              "resource": "ModBase",
+              "resourceId": "Q9TP37",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9TP37",
+              "version": 0
+            },
+            {
+              "id": 458318,
+              "resource": "MutDB",
+              "resourceId": "HLA-B",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=HLA-B",
+              "version": 1
+            },
+            {
+              "id": 14512,
+              "resource": "NCBI Gene",
+              "resourceId": "3106",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/3106",
+              "version": 1
+            },
+            {
+              "id": 236,
+              "resource": "OMIM",
+              "resourceId": "106300",
+              "_url": "https://omim.org/entry/106300",
+              "version": 1
+            },
+            {
+              "id": 1187,
+              "resource": "OMIM",
+              "resourceId": "142830",
+              "_url": "https://omim.org/entry/142830",
+              "version": 1
+            },
+            {
+              "id": 560528823,
+              "resource": "OMIM",
+              "resourceId": "608579",
+              "_url": "https://omim.org/entry/608579",
+              "version": 0
+            },
+            {
+              "id": 123312434,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_002397",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_002397",
+              "version": 1
+            },
+            {
+              "id": 608121131,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_023187",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_023187",
+              "version": 0
+            },
+            {
+              "id": 36716,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_007592",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_007592",
+              "version": 1
+            },
+            {
+              "id": 124576757,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_113891",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_113891",
+              "version": 0
+            },
+            {
+              "id": 608105122,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167246",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167246",
+              "version": 0
+            },
+            {
+              "id": 608105117,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167247",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167247",
+              "version": 0
+            },
+            {
+              "id": 608105118,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167248",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167248",
+              "version": 0
+            },
+            {
+              "id": 608105119,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167249",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167249",
+              "version": 0
+            },
+            {
+              "id": 42142,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_005505",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_005505",
+              "version": 1
+            },
+            {
+              "id": 51237,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_005514",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_005514",
+              "version": 1
+            },
+            {
+              "id": 120121,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_005514",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_005514",
+              "version": 1
+            },
+            {
+              "id": 123312435,
+              "name": "1B07_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P01889",
+              "_url": "https://www.uniprot.org/uniprot/P01889",
+              "version": 2
+            }
+          ],
+          "hasNonStandardHaplotypes": true,
+          "hideHaplotypes": true,
+          "pharmVarGene": false,
+          "strand": "minus",
+          "terms": [
+            {"id":560497373,"_url":"http://amigo.geneontology.org/amigo/term/GO:0002474","resource":"Gene Ontology","term":"antigen processing and presentation of peptide antigen via MHC class I","termId":"GO:0002474"},
+            {"id":560495229,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005515","resource":"Gene Ontology","term":"protein binding","termId":"GO:0005515"},
+            {"id":560495464,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005624","resource":"Gene Ontology","term":"membrane fraction","termId":"GO:0005624"},
+            {"id":560500224,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005886","resource":"Gene Ontology","term":"plasma membrane","termId":"GO:0005886"},
+            {"id":560500225,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005887","resource":"Gene Ontology","term":"integral to plasma membrane","termId":"GO:0005887"},
+            {"id":560497046,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006952","resource":"Gene Ontology","term":"defense response","termId":"GO:0006952"},
+            {"id":560497106,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006955","resource":"Gene Ontology","term":"immune response","termId":"GO:0006955"},
+            {"id":560499972,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016020","resource":"Gene Ontology","term":"membrane","termId":"GO:0016020"},
+            {"id":560500226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016021","resource":"Gene Ontology","term":"integral to membrane","termId":"GO:0016021"},
+            {"id":560497350,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019882","resource":"Gene Ontology","term":"antigen processing and presentation","termId":"GO:0019882"},
+            {"id":560512256,"_url":"http://amigo.geneontology.org/amigo/term/GO:0032393","resource":"Gene Ontology","term":"MHC class I receptor activity","termId":"GO:0032393"},
+            {"id":560515583,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042612","resource":"Gene Ontology","term":"MHC class I protein complex","termId":"GO:0042612"},
+            {"id":560516834,"_url":"http://amigo.geneontology.org/amigo/term/GO:0044419","resource":"Gene Ontology","term":"interspecies interaction between organisms","termId":"GO:0044419"}
+          ],
+          "version": 40
+        },
+        "version": 0
+      }
+    ],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1451704262,
+        "date": "2022-03-03T16:33:36.508-08:00",
+        "description": "Annotation current with May 2021 DPWG Guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451706061,
+        "date": "2022-03-07T12:02:05.697-08:00",
+        "description": "Added information about preemptive genotyping",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451732901,
+        "date": "2022-03-28T09:57:50.185-07:00",
+        "description": "Annotation current with February 2022 DPWG guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451733282,
+        "date": "2022-03-28T14:29:39.020-07:00",
+        "description": "Updated link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741481,
+        "date": "2022-04-05T11:09:16.243-07:00",
+        "description": "Added testing guidance tag",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451884000,
+        "date": "2022-09-16T09:21:39.533-07:00",
+        "description": "Fixed link to gene information document and added explanatory note",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451889554,
+        "date": "2022-09-22T15:00:14.771-07:00",
+        "description": "Added guideline publication",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15136122,"title":"Dutch pharmacogenetics working group guideline for the gene-drug interaction of ABCG2, HLA-B and Allopurinol, and MTHFR, folic acid and methotrexate.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/36056234","crossReferences":[{"id":1451889545,"resource":"PubMed","resourceId":"36056234","_url":"https://www.ncbi.nlm.nih.gov/pubmed/36056234"},{"id":1451889546,"resource":"DOI","resourceId":"10.1038/s41431-022-01180-0","_url":"http://dx.doi.org/10.1038%2Fs41431-022-01180-0"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA165987831",
+        "symbol": "HLA-B*58:01",
+        "name": "*58:01",
+        "version": 2
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA448320",
+        "name": "allopurinol",
+        "version": 8
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA35056",
+        "symbol": "HLA-B",
+        "name": "major histocompatibility complex, class I, B",
+        "version": 40
+      }
+    ],
+    "source": "DPWG",
+    "summaryMarkdown": {
+      "id": 1451697660,
+      "html": "<p>Individuals with the HLA-B*58:01 allele should be given an alternative drug or undergo induction of allopurinol tolerance.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451697661,
+      "html": "<p><em><strong>IMPORTANT: As of March 2022, gene information documents from the DPWG are no longer publicly available from the KNMP website. PharmGKB is currently providing PDF versions of these documents to users. These files were downloaded in February 2022. As such, we cannot guarantee that these documents match the mappings DPWG may use internally as there have been no publicly accessible updates since February 2022.</strong></em></p>\n<h3 id=\"dutch-pharmacogenetics-working-group-dpwg-guideline-for-the-gene-drug-interaction-of-abcg2-hla-b-and-allopurinol-and-mthfr-folic-acid-and-methotrexate-european-journal-of-human-genetics-2022\">Dutch pharmacogenetics working group (DPWG) guideline for the gene-drug interaction of ABCG2, HLA-B and Allopurinol, and MTHFR, folic acid and methotrexate. European journal of human genetics (2022)</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group published a paper with the guidelines as per the May 2021 guideline including more details and scoring the clinical implementation [Article:<a href=\"/pmid/36056234\">36056234</a>]</p>\n<h3 id=\"may-2021-guideline\">May 2021 Guideline</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group (DPWG) has evaluated therapeutic dose recommendations for allopurinol based on presence of the HLA-B*58:01 allele.</p>\n<p><em>Wording in table taken from the <a download=\"DPWG_May_2021.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/DPWG_May_2021.pdf\">Dutch guidelines May 2021 update</a>.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Allele/Genotype/Phenotype</th>\n<th>Drug</th>\n<th>Description</th>\n<th>Recommendation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>HLA-B*5801</td>\n<td>allopurinol</td>\n<td>A strongly increased risk of developing the life-threatening cutaneous side effects Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) and DRESS is present in patients with this genetic variation. The risk of an allopurinol-induced life-threatening cutaneous side effect (mortality 11%) in these patients is 1.6-2.0% for the entire group and 8-18% for the group with chronic renal insufficiency.</td>\n<td>1. Choose an alternative, such as febuxostat 2. Another option is to induce allopurinol tolerance first: To induce allopurinol tolerance, the allopurinol dose is increased every 3 days until a dose of 100 mg/day has been achieved on Day 28. The consecutive daily doses in the induction protocol are 50 µg, 100 µg, 200 µg, 500 µg, 1 mg, 5 mg, 10 mg, 25 mg, 50 mg and 100 mg.</td>\n</tr>\n</tbody>\n</table>\n<h4 id=\"preemptive-genotyping\">Preemptive genotyping</h4>\n<p>Excerpts from the <a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0006391.PDF\" target=\"_blank\">DPWG risk analysis document</a> for allopurinol and HLA-B:</p>\n<blockquote class=\"blockquote\">\n<p>The KNMP Pharmacogenetics Working Group considers genotyping of patients before starting allopurinol to be beneficial for drug safety. It is advised to consider genotyping the patient before (or directly after) drug therapy has been initiated to guide drug and dose selection.</p>\n</blockquote>\n<p><a href=\"/page/testingGuidance\">Read more about how DPWG assigns their recommendations for preemptive genotyping.</a></p>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0007256.PDF\" target=\"_blank\">Read for more information about this recommendation</a>, <a download=\"HLAs.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/HLAs.pdf\">Read about gene information from DPWG</a></p>\n",
+      "version": 2
+    },
+    "userId": "cfthorn",
+    "version": 4
+  }
+}

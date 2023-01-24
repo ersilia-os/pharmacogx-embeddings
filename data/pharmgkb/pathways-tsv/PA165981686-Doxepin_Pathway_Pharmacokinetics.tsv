@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+desmethyldoxepin	didesmethyldoxepin	Biochemical Reaction			hepatocyte	9181631			
+desmethyldoxepin	hydroxy-desmethyldoxepin	Biochemical Reaction	CYP2D6	Catalysis	hepatocyte		CYP2D6		
+doxepin	desmethyldoxepin	Biochemical Reaction	CYP1A2,CYP2C19,CYP2C9,CYP3A4	Catalysis	hepatocyte	11037801,12180536,2360109	"CYP2C9","CYP1A2","CYP2C19","CYP3A4"	doxepin	
+doxepin	doxepin-N-oxide	Biochemical Reaction			hepatocyte	1981729		doxepin	
+doxepin	hydroxy-doxepin	Biochemical Reaction	CYP2D6	Catalysis	hepatocyte		CYP2D6	doxepin	
+doxepin-N-oxide	doxepin-N-oxide glucuronide	Biochemical Reaction			hepatocyte	1981729			
+hydroxy-desmethyldoxepin	hydroxy-desmethyldoxepin glucuronide	Biochemical Reaction			hepatocyte	1981729,9733660			
+hydroxy-doxepin	hydroxy-doxepin glucuronide	Biochemical Reaction			hepatocyte	1981729,9733660			

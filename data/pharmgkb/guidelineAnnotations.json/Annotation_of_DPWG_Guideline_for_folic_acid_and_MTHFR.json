@@ -1,0 +1,149 @@
+{
+  "citations": [
+    {
+      "id": 15136122,
+      "title": "Dutch pharmacogenetics working group guideline for the gene-drug interaction of ABCG2, HLA-B and Allopurinol, and MTHFR, folic acid and methotrexate.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/36056234",
+      "authors": [
+        "van der Pol Karel H",
+        "Nijenhuis Marga",
+        "Soree Bianca",
+        "de Boer-Veger Nienke J",
+        "Buunk Anne Marie",
+        "Guchelaar Henk-Jan",
+        "Risselada Arne",
+        "van Schaik Ron H N",
+        "Swen Jesse J",
+        "Touw Daan",
+        "van der Weide Jan",
+        "van Westrhenen Roos",
+        "Deneer Vera H M",
+        "Houwink Elisa J F",
+        "Rongen Gerard A"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451889545,
+          "resource": "PubMed",
+          "resourceId": "36056234",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/36056234",
+          "version": 0
+        },
+        {
+          "id": 1451889546,
+          "resource": "DOI",
+          "resourceId": "10.1038/s41431-022-01180-0",
+          "_url": "http://dx.doi.org/10.1038%2Fs41431-022-01180-0",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "European journal of human genetics : EJHG",
+      "meshDiseases": [],
+      "meshTerms": [],
+      "month": 9,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2022-09-01T00:00:00-07:00",
+      "summary": "The Dutch Pharmacogenetics Working Group (DPWG) aims to facilitate PGx implementation by developing evidence-based pharmacogenetics guidelines to optimize pharmacotherapy. This guideline describes the gene-drug interaction of ABCG2 with allopurinol, HLA-B with allopurinol, MTHFR with folic acid, and MTHFR with methotrexate, relevant for the treatment of gout, cancer, and rheumatoid arthritis. A systematic review was performed based on which pharmacotherapeutic recommendations were developed. Allopurinol is less effective in patients with the ABCG2 p.(Gln141Lys) variant. In HLA-B*58:01 carriers, the risk of severe cutaneous adverse events associated with allopurinol is strongly increased. The DPWG recommends using a higher allopurinol dose in patients with the ABCG2 p.(Gln141Lys) variant. For HLA-B*58:01 positive patients the DPWG recommends choosing an alternative (for instance febuxostat). The DPWG indicates that another option would be to precede treatment with allopurinol tolerance induction. Genotyping of ABCG2 in patients starting on allopurinol was judged to be 'potentially beneficial' for drug effectiveness, meaning genotyping can be considered on an individual patient basis. Genotyping for HLA-B*58:01 in patients starting on allopurinol was judged to be 'beneficial' for drug safety, meaning it is advised to consider genotyping the patient before (or directly after) drug therapy has been initiated. For MTHFR-folic acid there is evidence for a gene-drug interaction, but there is insufficient evidence for a clinical effect that makes therapy adjustment useful. Finally, for MTHFR-methotrexate there is insufficient evidence for a gene-drug interaction.",
+      "terms": [],
+      "version": 0,
+      "year": 2022
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166264981",
+    "name": "Annotation of DPWG Guideline for folic acid and MTHFR",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451696021,
+        "date": "2022-02-25T22:38:21.260-08:00",
+        "description": "May 2021 guideline",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451704260,
+        "date": "2022-03-03T16:33:36.231-08:00",
+        "description": "Annotation current with May 2021 DPWG Guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451732899,
+        "date": "2022-03-28T09:57:49.945-07:00",
+        "description": "Annotation current with February 2022 DPWG guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451884247,
+        "date": "2022-09-16T10:19:57.619-07:00",
+        "description": "Fixed link to gene information document and added explanatory note",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451889560,
+        "date": "2022-09-22T15:26:43.621-07:00",
+        "description": "Added guideline publication",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15136122,"title":"Dutch pharmacogenetics working group guideline for the gene-drug interaction of ABCG2, HLA-B and Allopurinol, and MTHFR, folic acid and methotrexate.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/36056234","crossReferences":[{"id":1451889545,"resource":"PubMed","resourceId":"36056234","_url":"https://www.ncbi.nlm.nih.gov/pubmed/36056234"},{"id":1451889546,"resource":"DOI","resourceId":"10.1038/s41431-022-01180-0","_url":"http://dx.doi.org/10.1038%2Fs41431-022-01180-0"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": false,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166153644",
+        "symbol": "rs1801133",
+        "name": "rs1801133",
+        "version": 4
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA449692",
+        "name": "folic acid",
+        "version": 30
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA245",
+        "symbol": "MTHFR",
+        "name": "methylenetetrahydrofolate reductase",
+        "version": 3429
+      }
+    ],
+    "source": "DPWG",
+    "summaryMarkdown": {
+      "id": 1451696020,
+      "html": "<p>There are currently no recommendations for folic acid dosing based on MTHFR rs1801133 genotypes.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451695980,
+      "html": "<p><em><strong>IMPORTANT: As of March 2022, gene information documents from the DPWG are no longer publicly available from the KNMP website. PharmGKB is currently providing PDF versions of these documents to users. These files were downloaded in February 2022. As such, we cannot guarantee that these documents match the mappings DPWG may use internally as there have been no publicly accessible updates since February 2022.</strong></em></p>\n<h3 id=\"dutch-pharmacogenetics-working-group-dpwg-guideline-for-the-gene-drug-interaction-of-abcg2-hla-b-and-allopurinol-and-mthfr-folic-acid-and-methotrexate-european-journal-of-human-genetics-2022\">Dutch pharmacogenetics working group (DPWG) guideline for the gene-drug interaction of ABCG2, HLA-B and Allopurinol, and MTHFR, folic acid and methotrexate. European journal of human genetics (2022)</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group published a paper which reiterates that no action is required for the interaction between MTHFR and folic acid [Article:<a href=\"/pmid/36056234\">36056234</a>]</p>\n<h3 id=\"may-2021-guideline\">May 2021 Guideline</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group has evaluated therapeutic dose recommendations for foliumzuur and MTHFR rs1801133 (677C&gt;T) variant. They conclude that NO action is required for this gene-drug interaction.  677CT has no effect on the treatment with folic acid and 677TT either has no effect or a positive effect on the treatment with folic acid. (see <a download=\"DPWG_May_2021.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/DPWG_May_2021.pdf\">Dutch guidelines May 2021 update</a>).</p>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0007205.PDF\" target=\"_blank\">Read for more information about this recommendation</a>, <a download=\"MTHFR.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/MTHFR.pdf\">Read about gene information from DPWG</a></p>\n",
+      "version": 2
+    },
+    "userId": "lgong",
+    "version": 4
+  }
+}

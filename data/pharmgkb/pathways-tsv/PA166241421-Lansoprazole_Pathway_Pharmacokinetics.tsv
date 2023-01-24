@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+lansoprazole	lansoprazole sulfone	Biochemical Reaction	CYP3A4	Gene	hepatocyte	31846760, 23512128, 19652384, 11829200		lansoprazole		Biochemical reaction from lansoprazole to lansoprazole sulfone. This interaction is catalyzed by CYP3A4.
+dexlansoprazole	lansoprazole sulfone	Biochemical Reaction	CYP3A4	Gene	hepatocyte	20371754, 16755125		dexlansoprazole		Biochemical reaction from dexlansoprazole to lansoprazole sulfone. This interaction is catalyzed by CYP3A4.
+lansoprazole	5-hydroxylansoprazole	Biochemical Reaction	CYP2C19	Gene	hepatocyte	31846760, 23512128, 19652384, 11829200		lansoprazole		Biochemical reaction from lansoprazole to 5-hydroxylansoprazole. This interaction is catalyzed by CYP2C19.
+dexlansoprazole	5-hydroxylansoprazole	Biochemical Reaction	CYP2C19	Gene	hepatocyte	20371754, 16755125		dexlansoprazole		Biochemical reaction from dexlansoprazole to 5-hydroxylansoprazole. This interaction is catalyzed by CYP2C19.
+lansoprazole sulfone	5-hydroxylansoprazole sulfone	Biochemical Reaction	CYP2C19	Gene	hepatocyte	31846760, 23512128				Biochemical reaction from lansoprazole sulfone to 5-hydroxylansoprazole sulfone. This interaction is catalyzed by CYP2C19.
+5-hydroxylansoprazole	5-hydroxylansoprazole sulfone	Biochemical Reaction	CYP3A4	Gene	hepatocyte	31846760, 23512128				Biochemical reaction from 5-hydroxylansoprazole to 5-hydroxylansoprazole sulfone. This interaction is catalyzed by CYP3A4.
+lansoprazole	lansoprazole sulfide	Biochemical Reaction	CYP3A4	Gene	hepatocyte	31846760, 23512128		lansoprazole		Biochemical reaction from lansoprazole to lansoprazole sulfide. This interaction is catalyzed by CYP3A4.
+lansoprazole	lansoprazole	Transport	ABCB1	Gene	hepatocyte, null	11770010		lansoprazole		Transport from lansoprazole to lansoprazole. This interaction is catalyzed by ABCB1.

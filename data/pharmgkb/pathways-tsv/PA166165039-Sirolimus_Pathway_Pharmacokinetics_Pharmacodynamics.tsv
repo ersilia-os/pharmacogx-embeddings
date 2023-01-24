@@ -1,0 +1,25 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+MTORC1	RPS6KB1	Activation			cell	20812900, 12150925	RPS6KB1			MTORC1 (AKT1S1, DEPTOR, MLST8, MTOR, RPTOR) activates RPS6KB1.
+YY1	HDAC1	Activation			cell	19439614, 18599616, 17640524, 17206141	HDAC1, YY1			YY1 activates HDAC1.
+RPS6KB1	CDKs	Activation			cell	20812900, 12150925	RPS6KB1			RPS6KB1 activates CDKs.
+CDKs	Proliferation	Activation			cell	20812900, 12150925				CDKs activates Proliferation.
+TCF7L2	Regulation of Wnt signaling pathway	Activation			cell	19439614, 18599616, 17640524, 17206141	TCF7L2			TCF7L2 activates Regulation of Wnt signaling pathway.
+sirolimus	12-hydroxy-sirolimus	Biochemical Reaction	CYP3A4, CYP3A5	Gene	cell	18482220		sirolimus		Biochemical reaction from sirolimus to 12-hydroxy-sirolimus. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+sirolimus	hydroxylated sirolimus metabolites	Biochemical Reaction	CYP3A4, CYP3A5	Gene	cell	18482220		sirolimus		Biochemical reaction from sirolimus to hydroxylated sirolimus metabolites. This interaction can be catalyzed by CYP3A4 or CYP3A5.
+sirolimus	demethylated sirolimus metabolites	Biochemical Reaction	CYP3A4, CYP3A5	Gene	cell	18482220		sirolimus		Biochemical reaction from sirolimus to demethylated sirolimus metabolites. This interaction can be catalyzed by CYP3A4 or CYP3A5.
+MTORC1, YY1-PPARGC1A	YY1	Biochemical Reaction			cell	18046414	YY1			Biochemical reaction from MTORC1 (AKT1S1, DEPTOR, MLST8, MTOR, RPTOR), YY1-PPARGC1A (PPARGC1A, YY1) to YY1.
+sirolimus	39-o-desmethyl sirolimus	Biochemical Reaction	CYP3A4, CYP3A5	Gene	cell	18482220		sirolimus		Biochemical reaction from sirolimus to 39-o-desmethyl sirolimus. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+34-hydroxy-sirolimus	seco-sirolimus	Biochemical Reaction			cell	15385825, 11907172, 10833025				Biochemical reaction from 34-hydroxy-sirolimus to seco-sirolimus.
+seco-sirolimus	dihydro-sirolimus	Biochemical Reaction			cell	15385825, 11907172, 10833025				Biochemical reaction from seco-sirolimus to dihydro-sirolimus.
+sirolimus	piperidine-hydroxy-sirolimus	Biochemical Reaction	CYP2C8	Gene	cell	18482220, 11266932		sirolimus		Biochemical reaction from sirolimus to piperidine-hydroxy-sirolimus. This interaction is catalyzed by CYP2C8.
+sirolimus	34-hydroxy-sirolimus	Biochemical Reaction			cell	8937863		sirolimus		Biochemical reaction from sirolimus to 34-hydroxy-sirolimus.
+sirolimus-FKBP1A	MTORC1	Inhibition			cell	8662507, 7539137				sirolimus-FKBP1A (sirolimus, FKBP1A) inhibits MTORC1 (AKT1S1, DEPTOR, MLST8, MTOR, RPTOR).
+HDAC1	TCF7L2	Inhibition			cell	19439614, 18599616, 17640524, 17206141	HDAC1			HDAC1 inhibits TCF7L2.
+TCF7L2	TCF7L2	Template Reaction			cell	17206141	TCF7L2			Template reaction from TCF7L2 to TCF7L2.
+demethylated sirolimus metabolites	demethylated sirolimus metabolites	Transport	ABCB1	Gene	cell, null	15385826, 14569063, 11907172				Transport from demethylated sirolimus metabolites to demethylated sirolimus metabolites. This interaction is catalyzed by ABCB1.
+sirolimus	sirolimus	Transport	ABCB1	Gene	cell, null	15385826, 14569063, 11907172		sirolimus		Transport from sirolimus to sirolimus. This interaction is catalyzed by ABCB1.
+12-hydroxy-sirolimus	12-hydroxy-sirolimus	Transport	ABCB1	Gene	cell, null	15385826, 14569063, 11907172				Transport from 12-hydroxy-sirolimus to 12-hydroxy-sirolimus. This interaction is catalyzed by ABCB1.
+dihydro-sirolimus	dihydro-sirolimus	Transport	ABCB1	Gene	cell, null	15385826, 14569063, 11907172				Transport from dihydro-sirolimus to dihydro-sirolimus. This interaction is catalyzed by ABCB1.
+seco-sirolimus	seco-sirolimus	Transport	ABCB1	Gene	cell, null	15385826, 14569063, 11907172				Transport from seco-sirolimus to seco-sirolimus. This interaction is catalyzed by ABCB1.
+39-o-desmethyl sirolimus	39-o-desmethyl sirolimus	Transport	ABCB1	Gene	cell, null	15385826, 14569063, 11907172				Transport from 39-o-desmethyl sirolimus to 39-o-desmethyl sirolimus. This interaction is catalyzed by ABCB1.
+hydroxylated sirolimus metabolites	hydroxylated sirolimus metabolites	Transport	ABCB1	Gene	cell, null	15385826, 14569063, 11907172				Transport from hydroxylated sirolimus metabolites to hydroxylated sirolimus metabolites. This interaction is catalyzed by ABCB1.

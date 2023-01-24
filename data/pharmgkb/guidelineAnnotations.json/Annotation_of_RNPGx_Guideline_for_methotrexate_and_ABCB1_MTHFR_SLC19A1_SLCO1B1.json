@@ -1,0 +1,169 @@
+{
+  "citations": [
+    {
+      "id": 15109202,
+      "title": "Pharmacogenetics of anti-cancer drugs: State of the art and implementation - recommendations of the French National Network of Pharmacogenetics.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/28262261",
+      "authors": [
+        "Quaranta Sylvie",
+        "Thomas Fabienne"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451127600,
+          "resource": "PubMed",
+          "resourceId": "28262261",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/28262261",
+          "version": 0
+        },
+        {
+          "id": 1451127601,
+          "resource": "DOI",
+          "resourceId": "10.1016/j.therap.2017.01.005",
+          "_url": "http://dx.doi.org/10.1016%2Fj.therap.2017.01.005",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapie",
+      "meshDiseases": [],
+      "meshTerms": [
+        "Antineoplastic Agents",
+        "Dihydrouracil Dehydrogenase (NADP)",
+        "Genotyping Techniques",
+        "Glucuronosyltransferase",
+        "Humans",
+        "Methyltransferases",
+        "Pharmacogenetics",
+        "Pharmacogenomic Testing",
+        "Polymorphism, Genetic"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "205-215",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2017-04-01T00:00:00-07:00",
+      "summary": "Individualized treatment is of special importance in oncology because the drugs used for chemotherapy have a very narrow therapeutic index. Pharmacogenetics may contribute substantially to clinical routine for optimizing cancer treatment to limit toxic effects while maintaining efficacy. This review presents the usefulness of pharmacogenetic tests for some key applications: dihydropyrimidine dehydrogenase (DPYD) genotyping for fluoropyrimidine (5-fluorouracil, capecitabine), UDP glucuronosylstransferase (UGT1A1) for irinotecan and thiopurine S-methyltransferase (TPMT) for thiopurine drugs. Depending on the level of evidence, the French National Network of Pharmacogenetics (RNPGx) has issued three levels of recommendations for these pharmacogenetic tests: essential, advisable, and potentially useful. Other applications, for which the level of evidence is still discussed, will be evoked in the final section of this review.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2017
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166202781",
+    "name": "Annotation of RNPGx Guideline for methotrexate and ABCB1, MTHFR, SLC19A1, SLCO1B1",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451136641,
+        "date": "2020-05-13T00:00:00-07:00",
+        "description": "Approving to live",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451678109,
+        "date": "2022-02-10T13:51:22.090-08:00",
+        "description": "Added RNPGx as source",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15109202,"title":"Pharmacogenetics of anti-cancer drugs: State of the art and implementation - recommendations of the French National Network of Pharmacogenetics.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/28262261","crossReferences":[{"id":1451127600,"resource":"PubMed","resourceId":"28262261","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28262261"},{"id":1451127601,"resource":"DOI","resourceId":"10.1016/j.therap.2017.01.005","_url":"http://dx.doi.org/10.1016%2Fj.therap.2017.01.005"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": false,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166154633",
+        "symbol": "rs11045879",
+        "name": "rs11045879",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153643",
+        "symbol": "rs1801131",
+        "name": "rs1801131",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153644",
+        "symbol": "rs1801133",
+        "name": "rs1801133",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166154581",
+        "symbol": "rs4149081",
+        "name": "rs4149081",
+        "version": 3
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA450428",
+        "name": "methotrexate",
+        "version": 32
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA267",
+        "symbol": "ABCB1",
+        "name": "ATP binding cassette subfamily B member 1",
+        "version": 6863
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA245",
+        "symbol": "MTHFR",
+        "name": "methylenetetrahydrofolate reductase",
+        "version": 3429
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA327",
+        "symbol": "SLC19A1",
+        "name": "solute carrier family 19 member 1",
+        "version": 3628
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA134865839",
+        "symbol": "SLCO1B1",
+        "name": "solute carrier organic anion transporter family member 1B1",
+        "version": 49
+      }
+    ],
+    "source": "RNPGx",
+    "summaryMarkdown": {
+      "id": 1451129460,
+      "html": "<p>The French National Network of Pharmacogenetics (Réseau national de pharmacogénétique (RNPGx)) states that methotrexate pharmacogenetic tests are potentially useful in cancer patients.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451129461,
+      "html": "<p>The French National Network of Pharmacogenetics (RNPGx) publication about the state of the art and clinical implementation — recommendations from the French National Network of Pharmacogenetics for anti-cancer drugs states:</p>\n<blockquote class=\"blockquote\">\n<p>the polymorphism of\nthe genes implicated in the pharmacokinetics and pharmacodynamics of MTX can enable clinicians to optimize\ntreatment while limiting the risk of toxicity. To date,\nseveral polymorphisms are associated with plasma levels of MTX, and drug efficacy and toxicity. Among these,\ntwo polymorphisms of the MTHFR gene that codes for\nmethylenetetrahydrofolate reductase, c.677C&gt;T (Ala222Val)<a href=\"/variant/PA166153644\">rs1801133</a>\nand c.1298A&gt;C (Glu429Ala)<a href=\"/variant/PA166153643\">rs1801131</a> and reduces MTHFR enzymatic\nactivity have been identified. The risk of developing MTX related toxicity, especially hepatic, gastrointestinal toxicity,\nleucopenia, neurotoxicity, have been significantly associated with c.677C&gt;T in several studies and confirmed in a\nmeta-analysis in 2012 [Article:<a href=\"/pmid/22528943\">22528943</a>]. Nevertheless, a recent metaanalysis including 24 pediatric studies concluded that there\nis no association between the MTHFR variants and toxicity [Article:<a href=\"/pmid/23089671\">23089671</a>]</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>Recently, several polymorphisms of the SLCO1B1 gene,\nnotably <a href=\"/variant/PA166154581\">rs4149081</a> and <a href=\"/variant/PA166154633\">rs11045879</a> have been strongly\nassociated for the first time with MTX clearance and\ngastrointestinal toxicity [Article:<a href=\"/pmid/19901119\">19901119</a>]. These results were duplicated independently in the Genome Wide Association Study\n(GWAS) [Article:<a href=\"/pmid/23233662\">23233662</a>]. In conclusion, despite the absence of a pharmacogenetic marker for the use of MTX in routine clinical\npractice, SLCO1B1 polymorphisms play an important role in\nthe pharmacokinetics of MTX toxicity in oncology patients\nand have provided promising results. Other MTX transporters\ncould be of interest but further study is needed.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>Thus,\naccording to the level of evidence classification of RNPGx\nrecommendations for pharmacogenetic testing — essential,\nadvisable, potentially useful — MTX pharmacogenetic tests\nare potentially useful in cancer patients.</p>\n</blockquote>\n",
+      "version": 0
+    },
+    "userId": "cfthorn",
+    "version": 1
+  }
+}

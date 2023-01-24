@@ -1,0 +1,27 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+verapamil	verapamil D-620	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	10336579		verapamil		Biochemical reaction from verapamil to verapamil D-620. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+(s)-norverapamil	verapamil D-620	Biochemical Reaction	CYP2C8, CYP3A4, CYP3A5	Gene	hepatocyte	10336579				Biochemical reaction from arverapamil to verapamil D-620. This interaction can be catalyzed by CYP2C8, CYP3A4 or CYP3A5.
+(s)-norverapamil	verapamil D-620	Biochemical Reaction	CYP2C8, CYP3A4, CYP3A5	Gene	hepatocyte	10336579				Biochemical reaction from (s)-norverapamil to verapamil D-620. This interaction can be catalyzed by CYP2C8, CYP3A4 or CYP3A5.
+verapamil	(s)-norverapamil	Biochemical Reaction	CYP1A2, CYP2C8, CYP2E1, CYP3A4, CYP3A5	Gene	hepatocyte	10336579, 1516612		verapamil		Biochemical reaction from verapamil to (s)-norverapamil. This interaction can be catalyzed by CYP2E1, CYP1A2, CYP3A5, CYP3A4 or CYP2C8.
+verapamil	(s)-norverapamil	Biochemical Reaction	CYP1A2, CYP2C8, CYP2E1, CYP3A4, CYP3A5	Gene	hepatocyte	20214408, 19761371, 10336579, 1516612		verapamil		Biochemical reaction from verapamil to arverapamil. This interaction can be catalyzed by CYP3A4, CYP3A5, CYP2E1, CYP2C8 or CYP1A2.
+(s)-norverapamil	verapamil PR-22	Biochemical Reaction	CYP2C8, CYP2D6	Gene	hepatocyte	19761371, 10336579				Biochemical reaction from arverapamil to verapamil PR-22. This interaction can be catalyzed by CYP2C8 or CYP2D6.
+verapamil	verapamil D-617	Biochemical Reaction	CYP1A2, CYP2C8, CYP3A4, CYP3A5	Gene	hepatocyte	22226023, 10336579, 8750925		verapamil		Biochemical reaction from verapamil to verapamil D-617. This interaction can be catalyzed by CYP2C8, CYP3A5, CYP3A4 or CYP1A2.
+(s)-norverapamil	verapamil PR-22	Biochemical Reaction	CYP2C8, CYP2D6	Gene	hepatocyte	19761371, 10336579				Biochemical reaction from (s)-norverapamil to verapamil PR-22. This interaction can be catalyzed by CYP2C8 or CYP2D6.
+verapamil D-617	verapamil PR-25	Biochemical Reaction			hepatocyte	22226023, 10336579				Biochemical reaction from verapamil D-617 to verapamil PR-25.
+verapamil	ABCB1	Inhibition			hepatocyte	12897809, 10773005	ABCB1	verapamil		verapamil inhibits ABCB1.
+verapamil PR-22	ABCB1	Inhibition			hepatocyte	12897809	ABCB1			verapamil PR-22 inhibits ABCB1.
+(s)-norverapamil	ABCB1	Inhibition			hepatocyte	12897809, 10773005	ABCB1			(s)-norverapamil inhibits ABCB1.
+(s)-norverapamil	CYP3A4	Inhibition			hepatocyte	14744949	CYP3A4			arverapamil inhibits CYP3A4.
+(s)-norverapamil	CYP3A4	Inhibition			hepatocyte	14744949	CYP3A4			(s)-norverapamil inhibits CYP3A4.
+(s)-norverapamil	ABCB1	Inhibition			hepatocyte	12897809, 10773005	ABCB1			arverapamil inhibits ABCB1.
+furafylline	CYP1A2	Inhibition			hepatocyte	1516612	CYP1A2	furafylline		furafylline inhibits CYP1A2.
+verapamil	CYP1A2	Inhibition			hepatocyte	1516612	CYP1A2	verapamil		verapamil inhibits CYP1A2.
+grapefruit juice	CYP3A4	Inhibition			null, hepatocyte	11956673	CYP3A4	grapefruit juice		grapefruit juice inhibits CYP3A4.
+verapamil D-617	CYP3A4	Inhibition			hepatocyte	14744949	CYP3A4			verapamil D-617 inhibits CYP3A4.
+verapamil	CYP3A4	Inhibition			hepatocyte	20214408, 14744949	CYP3A4	verapamil		verapamil inhibits CYP3A4.
+verapamil	CYP3A5	Leads To			hepatocyte	8632764	CYP3A5	verapamil		verapamil leads to CYP3A5.
+verapamil	CYP3A4	Leads To			hepatocyte	8632764	CYP3A4	verapamil		verapamil leads to CYP3A4.
+verapamil	ABCB1	Leads To			hepatocyte	8632764	ABCB1	verapamil		verapamil leads to ABCB1.
+verapamil D-620	verapamil D-620	Transport	ABCB1	Gene	hepatocyte, null	10773005				Transport from verapamil D-620 to verapamil D-620. This interaction is catalyzed by ABCB1.
+verapamil	verapamil	Transport	ABCB1	Gene	hepatocyte, null	28401570, 27531061		verapamil		Transport from verapamil to verapamil. This interaction is catalyzed by ABCB1.
+verapamil D-617	verapamil D-617	Transport	ABCB1	Gene	hepatocyte, null	10773005				Transport from verapamil D-617 to verapamil D-617. This interaction is catalyzed by ABCB1.

@@ -1,0 +1,747 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166229081",
+    "name": "Annotation of CPIC Guideline for amikacin, gentamicin, kanamycin, paromomycin, plazomicin, streptomycin, tobramycin and MT-RNR1",
+    "alternateDrugAvailable": true,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1451456662,
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/",
+        "_url": "https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/",
+        "version": 0
+      }
+    ],
+    "descriptiveVideoId": "IE5sfgWBIAE",
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1451340420,
+        "alleles": [
+          {
+            "id": 1451456121,
+            "_label": "663A>G",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166229246",
+              "symbol": "MT-RNR1 663A>G",
+              "name": "663A>G",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456131,
+            "_label": "669T>C",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245431",
+              "symbol": "MT-RNR1 669T>C",
+              "name": "669T>C",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456132,
+            "_label": "747A>G",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245432",
+              "symbol": "MT-RNR1 747A>G",
+              "name": "747A>G",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456133,
+            "_label": "786G>A",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245433",
+              "symbol": "MT-RNR1 786G>A",
+              "name": "786G>A",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456135,
+            "_label": "807A>C",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245435",
+              "symbol": "MT-RNR1 807A>C",
+              "name": "807A>C",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456134,
+            "_label": "807A>G",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245434",
+              "symbol": "MT-RNR1 807A>G",
+              "name": "807A>G",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456122,
+            "_label": "827A>G",
+            "function": {
+              "id": 1451332314,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332314",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166229247",
+              "symbol": "MT-RNR1 827A>G",
+              "name": "827A>G",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456136,
+            "_label": "839A>G",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245436",
+              "symbol": "MT-RNR1 839A>G",
+              "name": "839A>G",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456137,
+            "_label": "896A>G",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245437",
+              "symbol": "MT-RNR1 896A>G",
+              "name": "896A>G",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456138,
+            "_label": "930A>G",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245438",
+              "symbol": "MT-RNR1 930A>G",
+              "name": "930A>G",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456123,
+            "_label": "951G>A",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166229248",
+              "symbol": "MT-RNR1 951G>A",
+              "name": "951G>A",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456139,
+            "_label": "960C>del",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245439",
+              "symbol": "MT-RNR1 960C>del",
+              "name": "960C>del",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456124,
+            "_label": "961T>G",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166229249",
+              "symbol": "MT-RNR1 961T>G",
+              "name": "961T>G",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456140,
+            "_label": "961T>del",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245440",
+              "symbol": "MT-RNR1 961T>del",
+              "name": "961T>del",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456141,
+            "_label": "961T>del+Cn",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245441",
+              "symbol": "MT-RNR1 961T>del+Cn",
+              "name": "961T>del+Cn",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456142,
+            "_label": "988G>A",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245442",
+              "symbol": "MT-RNR1 988G>A",
+              "name": "988G>A",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456125,
+            "_label": "1095T>C",
+            "function": {
+              "id": 1451332313,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332313",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166229250",
+              "symbol": "MT-RNR1 1095T>C",
+              "name": "1095T>C",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456126,
+            "_label": "1189T>C",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166229251",
+              "symbol": "MT-RNR1 1189T>C",
+              "name": "1189T>C",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456127,
+            "_label": "1243T>C",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166229252",
+              "symbol": "MT-RNR1 1243T>C",
+              "name": "1243T>C",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456129,
+            "_label": "1494C>T",
+            "function": {
+              "id": 1451332313,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332313",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166229254",
+              "symbol": "MT-RNR1 1494C>T",
+              "name": "1494C>T",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456143,
+            "_label": "1520T>C",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245443",
+              "symbol": "MT-RNR1 1520T>C",
+              "name": "1520T>C",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456144,
+            "_label": "1537C>T",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245444",
+              "symbol": "MT-RNR1 1537C>T",
+              "name": "1537C>T",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456130,
+            "_label": "1555A>G",
+            "function": {
+              "id": 1451332313,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332313",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166229255",
+              "symbol": "MT-RNR1 1555A>G",
+              "name": "1555A>G",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456145,
+            "_label": "1556C>T",
+            "function": {
+              "id": 1451332315,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332315",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166245445",
+              "symbol": "MT-RNR1 1556C>T",
+              "name": "1556C>T",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451456120,
+            "_label": "Reference",
+            "function": {
+              "id": 1451332314,
+              "description": "from CPIC MT-RNR1 guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal risk of aminoglycoside-induced hearing loss",
+              "termId": "alleleFunction:1451332314",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166229245",
+              "symbol": "MT-RNR1 Reference",
+              "name": "Reference",
+              "version": 1
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA31274",
+          "symbol": "MT-RNR1",
+          "name": "mitochondrially encoded 12S RNA",
+          "altNames": {},
+          "buildVersion": "GRCh37.p10",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA540",
+            "name": "chrM",
+            "version": 3
+          },
+          "chrStartPosB37": -1,
+          "chrStartPosB38": -1,
+          "chrStopPosB37": -1,
+          "chrStopPosB38": -1,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553241766,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "4549",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=4549",
+              "version": 0
+            },
+            {
+              "id": 123064314,
+              "resource": "GenAtlas",
+              "resourceId": "MT-RNR1",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=MT-RNR1",
+              "version": 1
+            },
+            {
+              "id": 123064315,
+              "resource": "GeneCard",
+              "resourceId": "MT-RNR1",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=MT-RNR1",
+              "version": 1
+            },
+            {
+              "id": 1451724109,
+              "resource": "HGNC",
+              "resourceId": "HGNC:7470",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A7470",
+              "version": 0
+            },
+            {
+              "id": 123064317,
+              "resource": "MutDB",
+              "resourceId": "MT-RNR1",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=MT-RNR1",
+              "version": 1
+            },
+            {
+              "id": 16047,
+              "resource": "NCBI Gene",
+              "resourceId": "4549",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/4549",
+              "version": 1
+            },
+            {
+              "id": 3376,
+              "resource": "OMIM",
+              "resourceId": "561000",
+              "_url": "https://omim.org/entry/561000",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": true,
+          "pharmVarGene": false,
+          "strand": "plus",
+          "terms": [],
+          "version": 8
+        },
+        "version": 1
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451554700,
+        "date": "2021-08-11T00:00:00-07:00",
+        "description": "Approved",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1451564460,
+        "date": "2021-10-27T10:16:54.534-07:00",
+        "description": "Added link to guideline video",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15120862,"title":"Clinical Pharmacogenetics Implementation Consortium Guideline for the Use of Aminoglycosides Based on MT-RNR1 Genotype.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8613315","crossReferences":[{"id":1451837575,"resource":"PubMed Central","resourceId":"PMC8613315","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8613315"},{"id":1451457520,"resource":"PubMed","resourceId":"34032273","_url":"https://www.ncbi.nlm.nih.gov/pubmed/34032273"},{"id":1451457521,"resource":"DOI","resourceId":"10.1002/cpt.2309","_url":"http://dx.doi.org/10.1002%2Fcpt.2309"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "pediatricMarkdown": {
+      "id": 1451440641,
+      "html": "<p>Excerpt from the guideline:\n&quot;These recommendations are not age-based and should apply to any individual with a MT-RNR1 AIHL-associated genotype where administration of an aminoglycoside is being considered. As hearing, listening and spoken language skills continue to develop in infants and children the impact of aminoglycoside administration in children with an actionable MT-RNR1 variant is likely to be greater than in the adult population</p>\n",
+      "version": 0
+    },
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166159181",
+        "symbol": "rs267606617",
+        "name": "rs267606617",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166158908",
+        "symbol": "rs267606618",
+        "name": "rs267606618",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166158909",
+        "symbol": "rs267606619",
+        "name": "rs267606619",
+        "version": 5
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA164744372",
+        "name": "amikacin",
+        "version": 6
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA449753",
+        "name": "gentamicin",
+        "version": 7
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA450137",
+        "name": "kanamycin",
+        "version": 5
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA164784023",
+        "name": "paromomycin",
+        "version": 5
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA166228921",
+        "name": "plazomicin",
+        "version": 2
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451512",
+        "name": "streptomycin",
+        "version": 6
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451704",
+        "name": "tobramycin",
+        "version": 7
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA31274",
+        "symbol": "MT-RNR1",
+        "name": "mitochondrially encoded 12S RNA",
+        "version": 8
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1451330800,
+      "html": "<p>Administration of aminoglycoside antibiotics should be avoided in patients carrying certain <em>MT-RNR1</em> variants due to the increased risk of developing aminoglycoside-induced hearing loss (AIHL).</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451330801,
+      "html": "<h3 id=\"june-2021\">June 2021</h3>\n<p>The authors of the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/cpic-guideline-for-aminoglycosides-and-mt-rnr1/\" target=\"_blank\">CPIC&reg; guideline for aminoglycosides and <em>MT-RNR1</em></a> evaluated the available evidence for the use of aminoglycoside antibiotics in patients carrying certain <em>MT-RNR1</em> variants.</p>\n<ul>\n<li>\n<p>These guidelines are applicable to:</p>\n<ul>\n<li>adult patients</li>\n<li>pediatric patients</li>\n</ul>\n</li>\n<li>\n<p>Excerpts from the guideline:</p>\n<ul>\n<li>&quot;The critical pharmacogenetics recommendation for a person with an <em>MT-RNR1</em> variant which predisposes to AIHL is that aminoglycoside antibiotics are relatively contraindicated, meaning that aminoglycosides should be avoided unless the increased risk of hearing loss is outweighed by the severity of infection and lack of safe or effective alternative therapies&quot;</li>\n<li>&quot;There is insufficient evidence to suggest that the adverse drug reaction may be more profound with some members of the aminoglycoside class than others. As such, this guidance covers all aminoglycoside antibiotics irrespective of class. We provide a strong recommendation that carriers of MT-RNR1 variants that predispose to AIHL should avoid aminoglycosides unless the increased risk of permanent hearing loss is outweighed by the risk of infection without safe or effective alternative therapies&quot;</li>\n<li>&quot;If no effective alternative to an aminoglycoside is thought to be available, we advise use for the shortest possible time, consultation with an infectious disease expert for alternative approaches, therapeutic drug monitoring and frequent assessment for hearing loss, both during and after therapy, in consultation with an audiovestibular physician.&quot;</li>\n<li>&quot;An individual with no detectable MT-RNR1 variant or carrying MT-RNR1 variants not considered to be predisposing to AIHL (normal risk), including the m.827A&gt;G variant, should still be considered at risk of AIHL.&quot;</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/aminoglycosides/2021/34032273.pdf\" target=\"_blank\">CPIC&reg; Guideline for Aminoglycosides and <em>MT-RNR1</em></a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/aminoglycosides/2021/34032273-supplement.pdf\" target=\"_blank\">Guideline supplement</a></li>\n<li><a href=\"/page/mtrnr1RefMaterials\">MT-RNR1 Gene-Specific Information Tables</a></li>\n<li>Drug Resource Mappings:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/drug_resource/amikacin-Drug_Resource_Mappings.xlsx\" target=\"_blank\">Amikacin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/drug_resource/gentamicin-Drug_Resource_Mappings.xlsx\" target=\"_blank\">Gentamicin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/drug_resource/kanamycin-Drug_Resource_Mappings.xlsx\" target=\"_blank\">Kanamycin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/drug_resource/paromomycin-Drug_Resource_Mappings.xlsx\" target=\"_blank\">Paromomycin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/drug_resource/plazomicin-Drug_Resource_Mappings.xlsx\" target=\"_blank\">Plazomicin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/drug_resource/streptomycin-Drug_Resource_Mappings.xlsx\" target=\"_blank\">Streptomycin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/drug_resource/tobramycin-Drug_Resource_Mappings.xlsx\" target=\"_blank\">Tobramycin</a></li>\n</ul>\n</li>\n<li>Pre and Post Test Alerts and Flow Charts:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/test_alert/amikacin_Pre_and_Post_Test_Alerts.xlsx\" target=\"_blank\">Amikacin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/test_alert/gentamicin_Pre_and_Post_Test_Alerts.xlsx\" target=\"_blank\">Gentamicin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/test_alert/kanamycin_Pre_and_Post_Test_Alerts.xlsx\" target=\"_blank\">Kanamycin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/test_alert/paromomycin_Pre_and_Post_Test_Alerts.xlsx\" target=\"_blank\">Paromomycin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/test_alert/plazomicin_Pre_and_Post_Test_Alerts.xlsx\" target=\"_blank\">Plazomicin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/test_alert/streptomycin_Pre_and_Post_Test_Alerts.xlsx\" target=\"_blank\">Streptomycin</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/test_alert/tobramycin_Pre_and_Post_Test_Alerts.xlsx\" target=\"_blank\">Tobramycin</a></li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-recommended-therapeutic-use-of-aminoglycosides-in-relation-to-mt-rnr1-phenotype\">Table 1: Recommended therapeutic use of aminoglycosides in relation to <em>MT-RNR1</em> phenotype</h3>\n<p><em>Adapted from Tables 1 and 2 of the guideline.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype</th>\n<th>Genotype</th>\n<th>Example genotypes</th>\n<th>Implications</th>\n<th>Recommendations</th>\n<th>Classification of<br/>recommendation<sup>a</sup></th>\n<th>Considerations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>MT-RNR1 increased risk of aminoglycoside-induced hearing loss</td>\n<td>Individuals with an <em>MT-RNR1</em> variant with an increased risk of aminoglycoside-induced hearing loss</td>\n<td>m.1095T&gt;C<br/>m.1494C&gt;T<br/>m.1555A&gt;G</td>\n<td>Very high risk of developing hearing loss if administered an aminoglycoside antibiotic</td>\n<td>Avoid aminoglycoside antibiotics unless the high risk of permanent hearing loss is outweighed by the severity of infection and lack of safe or effective alternative therapies.</td>\n<td>Strong</td>\n<td>If no effective alternative to an aminoglycoside antibiotic is available, evaluate for hearing loss frequently during therapy and ensure that all appropriate precautions are utilized (e.g., lowest possible dose and duration, utilization of therapeutic drug monitoring, hydration, renal function monitoring).</td>\n</tr>\n<tr>\n<td>MT-RNR1 normal risk of aminoglycoside-induced hearing loss</td>\n<td>Individuals with no detectable MT-RNR1 increased risk variant or a MT-RNR1 variant associated with normal risk of aminoglycoside-induced hearing loss</td>\n<td>m.827A&gt;G</td>\n<td>Normal risk of developing hearing loss if administered an aminoglycoside antibiotic.</td>\n<td>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic dose monitoring. Evaluate regularly for hearing loss in line with local guidance.</td>\n<td>Strong</td>\n<td>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</td>\n</tr>\n<tr>\n<td>MT-RNR1 uncertain risk of aminoglycoside-induced hearing loss</td>\n<td>Individuals with a MT-RNR1 variant associated with an uncertain risk of aminoglycoside-induced hearing loss</td>\n<td>m.663A&gt;G<br/>m.669T&gt;C<br/>m.747A&gt;G<br/>m.786G&gt;A<br/>m.807A&gt;G<br/>m.807A&gt;C<br/>m.839A&gt;G<br/>m.896A&gt;G<br/>m.930A&gt;G<br/>m.951G&gt;A<br/>m.960C&gt;del<br/>m.961T&gt;G<br/>m.961T&gt;del<br/>m.961T&gt;del+Cn<br/>m.988G&gt;A<br/>m.1189T&gt;C<br/>m.1243T&gt;C<br/>m.1520T&gt;C<br/>m.1537C&gt;T<br/>m.1556C&gt;T</td>\n<td>Weak or no evidence for an increased risk of MT-RNR1-associated hearing loss if administered an aminoglycoside antibiotic.</td>\n<td>Use aminoglycoside antibiotics at standard doses for the shortest feasible course with therapeutic drug monitoring. Evaluate regularly for hearing loss in line with local guidance.</td>\n<td>Optional</td>\n<td>Individuals without MT-RNR1 aminoglycoside-induced hearing loss increased risk variants are still at risk of aminoglycoside-associated hearing loss, especially with high drug levels or prolonged courses.</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup>  Rating scheme described in the Strength of Recommendations section in the <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/aminoglycosides/2021/34032273-supplement.pdf\" target=\"_blank\">guideline supplement</a>.</p>\n",
+      "version": 1
+    },
+    "userId": "rachel",
+    "version": 4
+  }
+}

@@ -1,0 +1,26 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+alprazolam	hydroxyalprazolam	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte	17635335	"CYP3A4","CYP3A5"	alprazolam	
+bromazepam	Glucoronidation	Biochemical Reaction			hepatocyte	18855614		bromazepam	
+bromazepam	hydroxybromezepam	Biochemical Reaction	CYP1A2,CYP2D6	Catalysis	hepatocyte	18855614	"CYP2D6","CYP1A2"	bromazepam	
+clonazepam	acetylation	Biochemical Reaction	NAT2	Catalysis	hepatocyte	19356010,7273597	NAT2	clonazepam	
+diazepam	nordazepam	Biochemical Reaction	CYP2C19,CYP3A4	Catalysis	hepatocyte	17635335,18855614	"CYP2C19","CYP3A4"	diazepam	
+diazepam	temazepam	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte	18855614	CYP3A4	"temazepam","diazepam"	
+flunitrazepam	hydroxyflunitrazepam	Biochemical Reaction	CYP2C19,CYP3A4	Catalysis	hepatocyte	17635335	"CYP2C19","CYP3A4"	flunitrazepam	
+flunitrazepam	N-desmethylflunitrazepam	Biochemical Reaction	CYP2C19,CYP3A4	Catalysis	hepatocyte	17635335	"CYP2C19","CYP3A4"	flunitrazepam	
+flurazepam	hydroxyflurazepam	Biochemical Reaction			hepatocyte			flurazepam	
+flurazepam	N des-alkylflurazepam	Biochemical Reaction			hepatocyte			flurazepam	
+hydroxyalprazolam	Glucoronidation	Biochemical Reaction			hepatocyte				
+hydroxybromezepam	Glucoronidation	Biochemical Reaction			hepatocyte				
+hydroxyflunitrazepam	Glucoronidation	Biochemical Reaction			hepatocyte				
+hydroxyflurazepam	Glucoronidation	Biochemical Reaction			hepatocyte				
+hydroxymidazolam	Glucoronidation	Biochemical Reaction	UGT1A4,UGT2B4,UGT2B7	Catalysis	hepatocyte	18855614	"UGT1A4","UGT2B4","UGT2B7"		
+hydroxytriazolam	Glucoronidation	Biochemical Reaction			hepatocyte				
+lorazepam	Glucoronidation	Biochemical Reaction	UGT2B15	Catalysis	hepatocyte	18855614	UGT2B15	lorazepam	
+midazolam	Glucoronidation	Biochemical Reaction	UGT1A4	Catalysis	hepatocyte	18256203,18855614	UGT1A4	midazolam	
+midazolam	hydroxymidazolam	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte	17635335,18855614	"CYP3A4","CYP3A5"	midazolam	
+N des-alkylflurazepam	Glucoronidation	Biochemical Reaction			hepatocyte				
+N-desmethylflunitrazepam	Glucoronidation	Biochemical Reaction			hepatocyte				
+nordazepam	oxazepam	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte	18855614	CYP3A4	oxazepam	
+oxazepam	Glucoronidation	Biochemical Reaction	UGT1A9,UGT2B15,UGT2B7	Catalysis	hepatocyte	12386133	"UGT2B15","UGT1A9","UGT2B7"	oxazepam	
+temazepam	oxazepam	Biochemical Reaction	CYP2C19,CYP3A4	Catalysis	hepatocyte	18855614	"CYP2C19","CYP3A4"	"temazepam","oxazepam"	
+triazolam	hydroxytriazolam	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte	17635335,18855614	"CYP3A4","CYP3A5"	triazolam	

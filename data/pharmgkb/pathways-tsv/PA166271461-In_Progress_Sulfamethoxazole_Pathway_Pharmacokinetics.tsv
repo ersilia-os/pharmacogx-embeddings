@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+4-nitrososulfamethoxazole	nitrosulfamethoxazole	Biochemical Reaction			T cell	12676884			Hypersensitivity,protein adduct	Biochemical reaction from 4-nitrososulfamethoxazole to nitrosulfamethoxazole.
+sulfamethoxazole hydroxylamine	4-nitrososulfamethoxazole	Biochemical Reaction			T cell	12676884, 1686233			Hypersensitivity,protein adduct	Biochemical reaction from sulfamethoxazole hydroxylamine to 4-nitrososulfamethoxazole.
+sulfamethoxazole	sulfamethoxazole hydroxylamine	Biochemical Reaction	MPO	Gene	T cell	19666748, 12676884, 7562475		sulfamethoxazole	Hypersensitivity,protein adduct	Biochemical reaction from sulfamethoxazole to sulfamethoxazole hydroxylamine. This interaction is catalyzed by MPO.
+4-nitrososulfamethoxazole	sulfamethoxazole hydroxylamine	Biochemical Reaction			T cell	1686233			Hypersensitivity,protein adduct	Biochemical reaction from 4-nitrososulfamethoxazole to sulfamethoxazole hydroxylamine.
+sulfamethoxazole	n-acetyl sulfamethoxazole	Biochemical Reaction	NAT1, NAT2	Gene	T cell, null	19666748, 7562475, 8466547		sulfamethoxazole	Hypersensitivity,protein adduct	Biochemical reaction from sulfamethoxazole to n-acetyl sulfamethoxazole. This interaction can be catalyzed by NAT2 or NAT1.
+protein adduct	Hypersensitivity	Leads To			T cell, null	19666748			Hypersensitivity,protein adduct	protein adduct leads to Hypersensitivity.
+4-nitrososulfamethoxazole	protein adduct	Leads To			T cell	19666748, 12676884			Hypersensitivity,protein adduct	4-nitrososulfamethoxazole leads to protein adduct.

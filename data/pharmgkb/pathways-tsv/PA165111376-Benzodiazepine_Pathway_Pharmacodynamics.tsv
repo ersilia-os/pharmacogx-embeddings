@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+Complex: Peripheral BDZ receptor(ACBD3, DBI, SLC25A4, TSPO, TSPOAP1, VDAC1)	Complex: Peripheral BDZ receptor(ACBD3, DBI, SLC25A4, TSPO, TSPOAP1, VDAC1)	Biochemical Reaction	benzodiazepine derivatives	Control	cell		"TSPO","DBI","VDAC1","ACBD3","SLC25A4","TSPOAP1"	benzodiazepine derivatives	
+Complex: GABAa receptor inactive(GABRA1, GABRB2, GABRG2)	Complex: GABAa receptor active(GABRA1, GABRB2, GABRG2)	Conversion	benzodiazepine derivatives,GABA	Control	neuron		"GABRA1","GABRB2","GABRG2"	benzodiazepine derivatives	
+Cl-	Cl-	Transport	Complex: GABAa receptor active(GABRA1, GABRB2, GABRG2)	Catalysis	neuron		"GABRA1","GABRB2","GABRG2"		
+GABA	GABA	Transport	SLC32A1	Catalysis	neuron		SLC32A1		
+GABA	GABA	Transport	SLC6A1,SLC6A11,SLC6A12,SLC6A13	Catalysis	neuron	15829583,9798903	"SLC6A13","SLC6A12","SLC6A11","SLC6A1"		

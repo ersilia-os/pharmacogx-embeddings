@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+metoprolol	N-desisopropyl metoprolol	Biochemical Reaction	CYP2B6, CYP2C9, CYP2D6, CYP3A4	Gene	hepatocyte	30087611		metoprolol		Biochemical reaction from metoprolol to N-desisopropyl metoprolol. This interaction can be catalyzed by CYP2B6, CYP2C9, CYP3A4 or CYP2D6.
+metoprolol	alpha-hydroxymetoprolol	Biochemical Reaction	CYP2B6, CYP2C9, CYP2D6, CYP3A4	Gene	hepatocyte	30087611, 24648255, 16192109		metoprolol		Biochemical reaction from metoprolol to alpha-hydroxymetoprolol. This interaction can be catalyzed by CYP2C9, CYP2B6, CYP3A4 or CYP2D6.
+metoprolol	o-demethylmetoprolol	Biochemical Reaction	CYP2B6, CYP2C9, CYP2D6, CYP3A4	Gene	hepatocyte	30087611, 24648255, 16192109		metoprolol		Biochemical reaction from metoprolol to o-demethylmetoprolol. This interaction can be catalyzed by CYP3A4, CYP2B6, CYP2C9 or CYP2D6.
+o-demethylmetoprolol	metoprolol acid	Biochemical Reaction	CYP2D6	Gene	hepatocyte	30087611, 24648255				Biochemical reaction from o-demethylmetoprolol to metoprolol acid. This interaction is catalyzed by CYP2D6.

@@ -1,0 +1,27 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+fluorodeoxyuridine diphosphate	fluorodeoxyuridine triphosphate	Biochemical Reaction			hepatocyte	12724731				Biochemical reaction from fluorodeoxyuridine diphosphate to fluorodeoxyuridine triphosphate.
+floxuridine	fluorodeoxyuridine monophosphate	Biochemical Reaction	TK1	Gene	hepatocyte	12724731				Biochemical reaction from floxuridine to fluorodeoxyuridine monophosphate. This interaction is catalyzed by TK1.
+fluorouridine diphosphate	fluorodeoxyuridine diphosphate	Biochemical Reaction	RRM1, RRM2	Gene	hepatocyte	12724731				Biochemical reaction from fluorouridine diphosphate to fluorodeoxyuridine diphosphate. This interaction can be catalyzed by RRM1 or RRM2.
+5'-deoxy-5-fluorocytidine	5'-deoxy-5-fluorouridine	Biochemical Reaction	CDA	Gene	hepatocyte	28827188, 18172246, 9849491				Biochemical reaction from 5'-deoxy-5-fluorocytidine to 5'-deoxy-5-fluorouridine. This interaction is catalyzed by CDA.
+tegafur	5'-hydroxytegafur	Biochemical Reaction	CYP2A6	Gene	hepatocyte	20463005, 18172246		tegafur		Biochemical reaction from tegafur to 5'-hydroxytegafur. This interaction is catalyzed by CYP2A6.
+5'-deoxy-5-fluorouridine	fluorouracil	Biochemical Reaction	TYMP, UPP1, UPP2	Gene	hepatocyte	18172246, 11956089, 9849491		fluorouracil		Biochemical reaction from 5'-deoxy-5-fluorouridine to fluorouracil. This interaction can be catalyzed by UPP2, UPP1 or TYMP.
+5'-hydroxytegafur	fluorouracil	Biochemical Reaction			hepatocyte	20463005, 18172246		fluorouracil		Biochemical reaction from 5'-hydroxytegafur to fluorouracil.
+capecitabine	5'-deoxy-5-fluorocytidine	Biochemical Reaction	CES1, CES2	Gene	hepatocyte	28827188, 28139840, 18172246		capecitabine		Biochemical reaction from capecitabine to 5'-deoxy-5-fluorocytidine. This interaction can be catalyzed by CES1 or CES2.
+fluorodeoxyuridine diphosphate	fluorodeoxyuridine monophosphate	Biochemical Reaction			hepatocyte	12724731				Biochemical reaction from fluorodeoxyuridine diphosphate to fluorodeoxyuridine monophosphate.
+fluorouracil	dihydrofluorouracil	Biochemical Reaction	DPYD	Gene	hepatocyte	14555507		fluorouracil		Biochemical reaction from fluorouracil to dihydrofluorouracil. This interaction is catalyzed by DPYD.
+fluorouracil	floxuridine	Biochemical Reaction	TYMP	Gene	hepatocyte	12724731, 10741735		fluorouracil		Biochemical reaction from fluorouracil to floxuridine. This interaction is catalyzed by TYMP.
+fluorouridine	fluorouridine monophosphate	Biochemical Reaction	UCK1, UCK2	Gene	hepatocyte	12724731				Biochemical reaction from fluorouridine to fluorouridine monophosphate. This interaction can be catalyzed by UCK1 or UCK2.
+fluorouracil	fluorouridine monophosphate	Biochemical Reaction	PPAT, UMPS	Gene	hepatocyte	12724731		fluorouracil		Biochemical reaction from fluorouracil to fluorouridine monophosphate. This interaction can be catalyzed by PPAT or UMPS.
+fluorouridine diphosphate	fluorouridine triphosphate	Biochemical Reaction			hepatocyte	12724731				Biochemical reaction from fluorouridine diphosphate to fluorouridine triphosphate.
+dihydrofluorouracil	fluoro-beta-ureidopropionate	Biochemical Reaction	DPYS	Gene	hepatocyte	18075467				Biochemical reaction from dihydrofluorouracil to fluoro-beta-ureidopropionate. This interaction is catalyzed by DPYS.
+fluorouridine monophosphate	fluorouridine diphosphate	Biochemical Reaction			hepatocyte	12724731				Biochemical reaction from fluorouridine monophosphate to fluorouridine diphosphate.
+fluoro-beta-ureidopropionate	fluoro-beta-alanine	Biochemical Reaction	UPB1	Gene	hepatocyte	14555507				Biochemical reaction from fluoro-beta-ureidopropionate to fluoro-beta-alanine. This interaction is catalyzed by UPB1.
+fluorouracil	fluorouridine	Biochemical Reaction	UPP1, UPP2	Gene	hepatocyte	11956089		fluorouracil		Biochemical reaction from fluorouracil to fluorouridine. This interaction can be catalyzed by UPP2 or UPP1.
+fluorodeoxyuridine monophosphate	TYMS	Inhibition			hepatocyte	19339911, 12724731	TYMS			fluorodeoxyuridine monophosphate inhibits TYMS.
+fluorodeoxyuridine triphosphate	Fluoropyrimidine Pathway, Pharmacodynamics	Leads To			hepatocyte, cell	12724731				fluorodeoxyuridine triphosphate leads to Fluoropyrimidine Pathway, Pharmacodynamics.
+TYMS	Fluoropyrimidine Pathway, Pharmacodynamics	Leads To			hepatocyte, cell	12724731	TYMS			TYMS leads to Fluoropyrimidine Pathway, Pharmacodynamics.
+fluorouridine triphosphate	Fluoropyrimidine Pathway, Pharmacodynamics	Leads To			hepatocyte, cell	12724731				fluorouridine triphosphate leads to Fluoropyrimidine Pathway, Pharmacodynamics.
+fluorouracil	fluorouracil	Transport	SLC22A7	Gene	null, hepatocyte	15901346		fluorouracil		Transport from fluorouracil to fluorouracil. This interaction is catalyzed by SLC22A7.
+fluorouracil	fluorouracil	Transport	ABCC4, ABCG2	Gene	hepatocyte, null	18820913, 19077464, 18837291		fluorouracil		Transport from fluorouracil to fluorouracil. This interaction can be catalyzed by ABCC4 or ABCG2.
+fluorouracil	fluorouracil	Transport	ABCC3, ABCC4, ABCC5	Gene	hepatocyte, null	19077464		fluorouracil		Transport from fluorouracil to fluorouracil. This interaction can be catalyzed by ABCC3, ABCC5 or ABCC4.
+fluorouracil	fluorouracil	Transport	SLC29A1	Gene	null, hepatocyte	18992248, 17695509		fluorouracil		Transport from fluorouracil to fluorouracil. This interaction is catalyzed by SLC29A1.

@@ -1,0 +1,18 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+(-)-carbovir 5'-diphosphate	(-)-carbovir 5'-triphosphate	Biochemical Reaction	CKB,CKM,NME1,NME2,PCK1,PGK1,PKLR,PKM	Catalysis	cell	1383219,9145876	"PKM","CKM","PKLR","NME2","PGK1","CKB","PCK1","NME1"		
+(-)-carbovir 5'-monophosphate	(-)-carbovir 5'-diphosphate	Biochemical Reaction	GUK1	Catalysis	cell	10066527,1383219,9145876	GUK1		
+	Complex: Abacavir-HLA-B*57:01:01	Biochemical Reaction		Control	cell				
+abacavir 5'-monophosphate	(-)-carbovir 5'-monophosphate	Biochemical Reaction	Cytosolic deaminase	Catalysis	cell	9145874,9145876			
+abacavir	2269W93	Biochemical Reaction	ADH1A,ADH1B,ADH1C	Catalysis	hepatocyte	10582871	"ADH1C","ADH1B","ADH1A"	abacavir	
+abacavir	361W94	Biochemical Reaction	UGT	Catalysis	hepatocyte	10582871		abacavir	
+abacavir	abacavir 5'-monophosphate	Biochemical Reaction	ADK	Catalysis	cell	9145874,9145876	ADK	abacavir	
+abacavir	Complex: Abacavir-HLA-B*57:01:01	Biochemical Reaction			cell			abacavir	
+abacavir	Minor metabolites	Biochemical Reaction			hepatocyte	10582871		abacavir	
+abacavir	Minor metabolites	Biochemical Reaction			hepatocyte	10582871		abacavir	
+HIV-RT	HIV-RT	Biochemical Reaction	(-)-carbovir 5'-triphosphate	Inhibition	cell	9145874			
+"Self" peptide	Complex: Abacavir-HLA-B*57:01:01	Complex Assembly			cell	14511229			
+abacavir	HLA-B*57:01:01	Complex Assembly			cell	22645359,22722860	HLA-B*57:01:01	abacavir	
+abacavir	abacavir	Transport			"hepatocyte","cell"			abacavir	
+abacavir	abacavir	Transport			hepatocyte	18479171,9145874		abacavir	
+abacavir	abacavir	Transport			cell	22645359		abacavir	
+Complex: Abacavir-HLA-B*57:01:01	Complex: Abacavir-HLA-B*57:01:01-self peptide	Transport			cell	14511229			

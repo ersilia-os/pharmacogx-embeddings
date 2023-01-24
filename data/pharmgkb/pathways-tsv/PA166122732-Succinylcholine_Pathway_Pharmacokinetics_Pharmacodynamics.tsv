@@ -1,0 +1,15 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+Complex: dihydropyridine receptor(CACNA1S, CACNA2D1, CACNB1, CACNG1)	Complex: dihydropyridine receptor(CACNA1S, CACNA2D1, CACNB1, CACNG1)	Biochemical Reaction		Activation	skeletal muscle cell	16382099,19018722	"CACNB1","CACNA2D1","CACNA1S","CACNG1"		
+Complex: nicotinic acetylcholine receptor(CHRNA1, CHRNB1, CHRND, CHRNE)	Complex: nicotinic acetylcholine receptor(CHRNA1, CHRNB1, CHRND, CHRNE)	Biochemical Reaction	succinylcholine	Activation	skeletal muscle cell	19018722	"CHRNA1","CHRNB1","CHRND","CHRNE"	succinylcholine	
+RYR1	RYR1	Biochemical Reaction	Complex: dihydropyridine receptor(CACNA1S, CACNA2D1, CACNB1, CACNG1)	Activation	"skeletal muscle cell","muscle cell"	21798098,23413940,24374102	"RYR1","CACNB1","CACNA2D1","CACNA1S","CACNG1"		
+succinylcholine	succinylmonocholine	Conversion	BCHE	Catalysis			BCHE	succinylcholine	
+succinylmonocholine	choline	Conversion	BCHE	Catalysis			BCHE		
+succinylmonocholine	succinic acid	Conversion	BCHE	Catalysis			BCHE		
+Ca2+	RYR1	Transport			muscle cell		RYR1		
+Ca2+	ATP2A1,ATP2A2	Transport			muscle cell		"ATP2A2","ATP2A1"		
+K+	Complex: nicotinic acetylcholine receptor(CHRNA1, CHRNB1, CHRND, CHRNE)	Transport			"skeletal muscle cell","muscle cell"		"CHRNA1","CHRNB1","CHRND","CHRNE"		
+Na+	Complex: nicotinic acetylcholine receptor(CHRNA1, CHRNB1, CHRND, CHRNE)	Transport			"skeletal muscle cell","muscle cell"		"CHRNA1","CHRNB1","CHRND","CHRNE"		
+Complex: nicotinic acetylcholine receptor(CHRNA1, CHRNB1, CHRND, CHRNE)	K+	Transport			"skeletal muscle cell","muscle cell"		"CHRNA1","CHRNB1","CHRND","CHRNE"		
+Complex: nicotinic acetylcholine receptor(CHRNA1, CHRNB1, CHRND, CHRNE)	Na+	Transport			"skeletal muscle cell","muscle cell"		"CHRNA1","CHRNB1","CHRND","CHRNE"		
+RYR1	Ca2+	Transport			muscle cell	11573677,24868161	RYR1		
+ATP2A1,ATP2A2	Ca2+	Transport			muscle cell	17286271	"ATP2A2","ATP2A1"		

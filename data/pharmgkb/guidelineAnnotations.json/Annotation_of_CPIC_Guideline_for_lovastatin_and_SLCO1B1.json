@@ -1,0 +1,110 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166262241",
+    "name": "Annotation of CPIC Guideline for lovastatin and SLCO1B1",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1451668356,
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/cpic-guideline-for-statins/",
+        "_url": "https://cpicpgx.org/guidelines/cpic-guideline-for-statins/",
+        "version": 0
+      }
+    ],
+    "descriptiveVideoId": "SN3SiKDcoS8",
+    "dosingInformation": true,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451687140,
+        "date": "2022-02-17T11:00:51.502-08:00",
+        "description": "CPIC statins 2022 update",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451693922,
+        "date": "2022-02-23T12:23:31.278-08:00",
+        "description": "Added video",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451889443,
+        "date": "2022-09-22T14:14:25.994-07:00",
+        "description": "fixed typo",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15128762,"title":"The Clinical Pharmacogenetics Implementation Consortium Guideline for SLCO1B1, ABCG2, and CYP2C9 genotypes and Statin-Associated Musculoskeletal Symptoms.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9035072","crossReferences":[{"id":1451837607,"resource":"PubMed Central","resourceId":"PMC9035072","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9035072"},{"id":1451681580,"resource":"PubMed","resourceId":"35152405","_url":"https://www.ncbi.nlm.nih.gov/pubmed/35152405"},{"id":1451681581,"resource":"DOI","resourceId":"10.1002/cpt.2557","_url":"http://dx.doi.org/10.1002%2Fcpt.2557"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "pediatricMarkdown": {
+      "id": 1451668782,
+      "html": "<p>Excerpts from the guideline:</p>\n<blockquote class=\"blockquote\">\n<p>&quot;At the time of this writing, there are no data available regarding SLCO1B1 genotype effects on statin response or myopathy in pediatric patients.  However, pharmacokinetic data show that the rs4149056 SNV in SLCO1B1 may affect the disposition of simvastatin more in children compared to adults, and the variant has equivalent impact on pravastatin and rosuvastatin pharmacokinetics between children and adults&quot;</p>\n</blockquote>\n",
+      "version": 0
+    },
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166154579",
+        "symbol": "rs4149056",
+        "name": "rs4149056",
+        "version": 5
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819265",
+        "symbol": "SLCO1B1*15",
+        "name": "*15",
+        "version": 22
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819255",
+        "symbol": "SLCO1B1*5",
+        "name": "*5",
+        "version": 22
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA450272",
+        "name": "lovastatin",
+        "version": 20
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA134865839",
+        "symbol": "SLCO1B1",
+        "name": "solute carrier organic anion transporter family member 1B1",
+        "version": 49
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1451668780,
+      "html": "<p>Prescribe an alternative statin depending on the desired potency for patients with SLCO1B1 decreased function, possible decreased function or poor function phenotype. If lovastatin therapy is warranted in patients with SLCO1B1 decreased or possible decreased phenotype, limit dose to &lt;20mg/day.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451668781,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/cpic-guideline-for-statins/\" target=\"_blank\">CPIC&reg; guideline for SLCO1B1, ABCG2, and CYP2C9 and statin-associated musculoskeletal symptoms</a>.</p>\n<h3 id=\"february-2022\">February 2022</h3>\n<ul>\n<li>\n<p>The <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/statins/2022/publication.pdf\" target=\"_blank\">CPIC guideline for SLCO1B1, ABCG2, and CYP2C9 and statin-associated musculoskeletal symptoms</a>, has been published in Clinical Pharmacology and Therapeutics. CPIC authors summarize literature supporting how SLCO1B1, ABCG2, and CYP2C9 genotype test results should be applied to optimize new or existing statin therapy to reduce the risk of statin-associated musculoskeletal symptoms (SAMS). The current document replaces the original 2012 guideline and the 2014 update for SLCO1B1 and simvastatin. New to this guideline are the addition of recommendations for CYP2C9 and ABCG2 and addition of recommendations for all statins.</p>\n</li>\n<li>\n<p>This guideline is applicable to:</p>\n<ul>\n<li>adult patients</li>\n<li>pediatric patients</li>\n</ul>\n</li>\n<li>\n<p>Excerpt from the 2022 statin dosing guideline:</p>\n<ul>\n<li>\n<p>&quot;SLCO1B1 facilitates the hepatic uptake of statins, as well as other exogenous and endogenous compounds (e.g., bilirubin and 17-beta-glucuronosyl estradiol).  Decreased function of this transporter (inherited through genetic variability or acquired through drug-mediated inhibition) can markedly increase the systemic exposure to statins, the putative causal factor underlying the link to SAMS. The SLCO1B1 gene locus occupies 109 kb on chromosome 12 (Chr 12p12.2) and, although many single nucleotide variants (SNVs) have been identified in this gene, only a few are known to have a clinically relevant functional impact (SLCO1B1 Allele Definition and Functionality Tables)&quot;.</p>\n</li>\n<li>\n<p>&quot;The most common and well-studied variant in SLCO1B1 is c.521T&gt;C (rs4149056), and can be genotyped alone (e.g., PCR-based single SNV assay) or multiplexed on a variety of array-based platforms. All SLCO1B1 genetic tests should interrogate c.521T&gt;C; however, while other less common variants in this gene may have limited evidence to guide action, they may also be important&quot;.</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/statins/2022/publication.pdf\" target=\"_blank\">The Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for SLCO1B1, ABCG2, and CYP2C9 and statin-associated musculoskeletal symptoms</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/statins/2022/supplement.pdf\" target=\"_blank\">2022 supplement</a></li>\n<li><a href=\"/page/slco1b1RefMaterials\">Gene-specific Information Tables for SLCO1B1</a></li>\n<li><a href=\"https://api.pharmgkb.org/v1/preview/download/file/attachment/lovastatin-Drug_Resource_Mappings.xlsx\">Lovastatin Drug Resource Mappings</a></li>\n<li><a href=\"https://api.pharmgkb.org/v1/preview/download/file/attachment/Lovastatin_Pre_and_Post_Test_Alerts.xlsx\">Lovastatin Pre and Post Test Alerts</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/images/flow_chart/Lovastatin_CDS_Flow_Chart.jpg\" target=\"_blank\">Lovastatin CDS Flow Chart</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-recommended-dosing-of-lovastatin-based-on-slco1b1-phenotype\">Table 1: Recommended dosing of lovastatin based on SLCO1B1 phenotype</h3>\n<p><em>Adapted from Table 1 and 2 of the 2022 guideline update manuscript.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype</th>\n<th>Genotype</th>\n<th>Examples of diplotypes <sup>a</sup></th>\n<th>Implications for simvastatin</th>\n<th>Dosing recommendations for simvastatin <sup>b,c</sup></th>\n<th>Classification of recommendations <sup>d</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Normal function</td>\n<td>An individual carrying two normal function alleles or one normal plus one increased function allele</td>\n<td>*1/*1, *1/*14</td>\n<td>Typical myopathy risk and statin exposure</td>\n<td>Prescribe desired starting dose and adjust doses based on disease-specific guidelines.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Increased function</td>\n<td>An individual carrying two increased function alleles</td>\n<td>*14/*14</td>\n<td>Typical myopathy risk and statin exposure</td>\n<td>Prescribe desired starting dose and adjust doses based on disease-specific guidelines.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Decreased function</td>\n<td>An individual carrying one normal or increased function allele plus one no function allele</td>\n<td>*1/*5, *1/*15</td>\n<td>Increased lovastatin acid exposure as compared to normal function which may translate to increased myopathy risk</td>\n<td>Prescribe an alternative statin depending on the desired potency (see Figure 1 for recommendations for alternative statins). If lovastatin therapy is warranted, limit dose to ≤20mg/day.</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>Possible decreased function</td>\n<td>An individual carrying one no function allele plus one uncertain/unknown function allele</td>\n<td>*5/*6, *15/*10, *5/*43</td>\n<td>Increased lovastatin acid exposure as compared to normal function which may translate to increased myopathy risk</td>\n<td>Prescribe an alternative statin depending on the desired potency (see Figure 1 for recommendations for alternative statins). If lovastatin therapy is warranted, limit dose to ≤20mg/day.</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>Poor function</td>\n<td>An individual carrying two no function alleles</td>\n<td>*5/*5, *5/*15, *15/*15</td>\n<td>Increased lovastatin acid exposure as compared to normal and decreased function which may translate to increased myopathy risk</td>\n<td>Prescribe an alternative statin depending on the desired potency (see Figure 1 for recommendations for alternative statins).</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>Indeterminate</td>\n<td>An individual carrying one normal function allele plus one uncertain or unknown function allele OR  allele combinations with uncertain and/or unknown function alleles</td>\n<td>*1/*7, *1/*10, *7/*10</td>\n<td>n/a</td>\n<td>No recommendation.</td>\n<td>No recommendation.</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"figure-1-slco1b1-recommendations-with-intensity-and-statin-dose-stratified-by-slco1b1-phenotype-all-doses-assume-adult-dosing\">Figure 1 : SLCO1B1 recommendations with intensity and statin dose stratified by SLCO1B1 phenotype; all doses assume adult dosing.</h3>\n<p><em>Adapted from Figure 1 of the 2022 guideline manuscript</em></p>\n<p><img src=\"https://s3.pgkb.org/attachment/CPIC_statin_guideline_figure_1.png\" alt=\"Fig1\" /></p>\n<ul>\n<li>&quot;Therapeutic recommendations: SLCO1B1. The American College of Cardiology and the American Heart Association issued an updated clinical practice guideline for the management of blood cholesterol in 2018. In those guidelines, statins at various daily doses are classified as high-, medium- or low-intensity statins based on expected ranges of LDL-cholesterol lowering. For example, they recommend initiation of high-intensity statins in patients with evidence of clinical atherosclerotic cardiovascular disease (ASCVD) which may include atorvastatin at 40 or 80 mg once daily or rosuvastatin at 20 or 40 mg once daily.   Figure 1 is designed to be used in conjunction with the aforementioned guideline, as it provides statin recommendations, including preferred statin intensity and statin dose, stratified by SLCO1B1 phenotype (i.e., decreased or poor function). Statin and statin doses indicated in the light grey boxes can be prescribed with the lowest risk for SAMS. Statin and statin doses indicated in dark grey boxes should be used with caution (possible increased risk for SAMS) and statin and statin doses indicated in black boxes should be avoided as the available evidence suggests that they are associated with increased risk of harm. The recommendations are based on the combination of available pharmacokinetic and SAMS-risk data, in most cases, and are informed by the number of available statin options within each intensity.&quot;</li>\n</ul>\n",
+      "version": 1
+    },
+    "userId": "lgong",
+    "version": 3
+  }
+}

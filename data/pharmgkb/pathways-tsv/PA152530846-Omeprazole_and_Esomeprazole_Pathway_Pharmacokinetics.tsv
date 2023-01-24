@@ -1,0 +1,15 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+5-hydroxyomeprazole	carboxyomeprazole	Biochemical Reaction			hepatocyte	7917780				Biochemical reaction from 5-hydroxyomeprazole to carboxyomeprazole.
+omeprazole sulfone	hydroxyomeprazole sulfone	Biochemical Reaction	CYP2C19	Gene	hepatocyte	7917780				Biochemical reaction from omeprazole sulfone to hydroxyomeprazole sulfone. This interaction is catalyzed by CYP2C19.
+esomeprazole	3-hydroxyomeprazole	Biochemical Reaction	CYP3A4	Gene	hepatocyte	16093273		esomeprazole		Biochemical reaction from esomeprazole to 3-hydroxyomeprazole. This interaction is catalyzed by CYP3A4.
+omeprazole sulfone	omeprazole sulfone n-oxide	Biochemical Reaction	CYP3A4	Gene	hepatocyte	7917780				Biochemical reaction from omeprazole sulfone to omeprazole sulfone n-oxide. This interaction is catalyzed by CYP3A4.
+5-hydroxyomeprazole	hydroxyomeprazole sulfone	Biochemical Reaction	CYP3A4	Gene	hepatocyte	7917780				Biochemical reaction from 5-hydroxyomeprazole to hydroxyomeprazole sulfone. This interaction is catalyzed by CYP3A4.
+esomeprazole	5-hydroxyomeprazole	Biochemical Reaction	CYP2C19	Gene	hepatocyte	31846760, 16093273		esomeprazole		Biochemical reaction from esomeprazole to 5-hydroxyomeprazole. This interaction is catalyzed by CYP2C19.
+r-omeprazole	5-hydroxyomeprazole	Biochemical Reaction	CYP2C19, CYP3A4	Gene	hepatocyte	31846760, 16093273, 7917780, 12959268				Biochemical reaction from r-omeprazole to 5-hydroxyomeprazole. This interaction can be catalyzed by CYP2C19 or CYP3A4.
+r-omeprazole	omeprazole sulfone	Biochemical Reaction	CYP3A4	Gene	hepatocyte	31846760, 16093273, 7917780, 12959268				Biochemical reaction from r-omeprazole to omeprazole sulfone. This interaction is catalyzed by CYP3A4.
+esomeprazole	5'o-desmethylomeprazole	Biochemical Reaction	CYP2C19	Gene	hepatocyte	31846760, 16093273		esomeprazole		Biochemical reaction from esomeprazole to 5'-O-desmethylomeprazole. This interaction is catalyzed by CYP2C19.
+r-omeprazole	3-hydroxyomeprazole	Biochemical Reaction	CYP3A4	Gene	hepatocyte	16093273				Biochemical reaction from r-omeprazole to 3-hydroxyomeprazole. This interaction is catalyzed by CYP3A4.
+r-omeprazole	5'o-desmethylomeprazole	Biochemical Reaction	CYP2C19, CYP3A4	Gene	hepatocyte	31846760, 16093273, 12959268				Biochemical reaction from r-omeprazole to 5'-O-desmethylomeprazole. This interaction can be catalyzed by CYP2C19 or CYP3A4.
+omeprazole	esomeprazole	Leads To			hepatocyte	16093273		esomeprazole, omeprazole		omeprazole leads to esomeprazole.
+omeprazole	r-omeprazole	Leads To			hepatocyte	16093273		omeprazole		omeprazole leads to r-omeprazole.
+omeprazole	omeprazole	Transport	ABCB1	Gene	hepatocyte, null	11770010		omeprazole		Transport from omeprazole to omeprazole. This interaction is catalyzed by ABCB1.

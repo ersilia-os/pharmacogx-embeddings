@@ -1,0 +1,4 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+phenprocoumon	7-hydroxyphenprocoumon	Biochemical Reaction	CYP2C9, CYP3A4	Gene	hepatocyte	16372822, 15742978, 15054565, 15128047		phenprocoumon		Biochemical reaction from phenprocoumon to 7-hydroxyphenprocoumon. This interaction can be catalyzed by CYP2C9 or CYP3A4.
+phenprocoumon	4'-hydroxyphenprocoumon	Biochemical Reaction	CYP2C8, CYP2C9, CYP3A4	Gene	hepatocyte	16372822, 15054565, 15128047		phenprocoumon		Biochemical reaction from phenprocoumon to 4'-hydroxyphenprocoumon. This interaction can be catalyzed by CYP2C8, CYP3A4 or CYP2C9.
+phenprocoumon	6-hydroxyphenprocoumon	Biochemical Reaction	CYP2C9, CYP3A4	Gene	hepatocyte	16372822, 15054565, 15128047		phenprocoumon		Biochemical reaction from phenprocoumon to 6-hydroxyphenprocoumon. This interaction can be catalyzed by CYP3A4 or CYP2C9.

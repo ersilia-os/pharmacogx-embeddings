@@ -1,0 +1,18 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+N-desmethyl rosiglitazone	N-desmethyl glucuronide rosiglitazone	Biochemical Reaction			hepatocyte	10859151			
+N-desmethyl rosiglitazone	N-desmethyl-ortho-hydroxy rosiglitazone	Biochemical Reaction			hepatocyte	10859151			
+N-desmethyl rosiglitazone	N-desmethyl-para-hydroxy rosiglitazone	Biochemical Reaction			hepatocyte	10859151			
+N-desmethyl-ortho-hydroxy rosiglitazone	N-desmethyl-ortho-O-sulfate rosiglitazone	Biochemical Reaction			hepatocyte	10859151			
+N-desmethyl-para-hydroxy rosiglitazone	N-desmethyl-para-O-sulfate rosiglitazone	Biochemical Reaction			hepatocyte	10859151			
+ortho-hydroxy rosiglitazone	N-desmethyl-ortho-hydroxy rosiglitazone	Biochemical Reaction			hepatocyte	10859151			
+ortho-hydroxy rosiglitazone	ortho-O-glucuronide rosiglitazone	Biochemical Reaction			hepatocyte	10859151			
+ortho-hydroxy rosiglitazone	ortho-O-sulfate rosiglitazone	Biochemical Reaction			hepatocyte	10859151			
+para-hydroxy rosiglitazone	N-desmethyl-para-hydroxy rosiglitazone	Biochemical Reaction			hepatocyte	10859151			
+para-hydroxy rosiglitazone	para-O-glucuronide rosiglitazone	Biochemical Reaction			hepatocyte	10859151			
+para-hydroxy rosiglitazone	para-O-sulfate rosiglitazone	Biochemical Reaction			hepatocyte	10859151			
+rosiglitazone	N-desmethyl rosiglitazone	Biochemical Reaction	CYP2C8,CYP2C9	Catalysis	hepatocyte	10510156,10859151	"CYP2C9","CYP2C8"	rosiglitazone	
+rosiglitazone	N-despyridinyl rosiglitazone	Biochemical Reaction			hepatocyte	10859151		rosiglitazone	
+rosiglitazone	ortho-hydroxy rosiglitazone	Biochemical Reaction	CYP2C8,CYP2C9	Catalysis	hepatocyte	10510156,10859151	"CYP2C9","CYP2C8"	rosiglitazone	
+rosiglitazone	para-hydroxy rosiglitazone	Biochemical Reaction	CYP2C8,CYP2C9	Catalysis	hepatocyte		"CYP2C9","CYP2C8"	rosiglitazone	
+rosiglitazone	phenoxyacetic acid derivative	Biochemical Reaction			hepatocyte	10859151		rosiglitazone	
+rosiglitazone	rosiglitazone	Transport	SLCO1B1	Catalysis	hepatocyte	14579113	SLCO1B1	rosiglitazone	

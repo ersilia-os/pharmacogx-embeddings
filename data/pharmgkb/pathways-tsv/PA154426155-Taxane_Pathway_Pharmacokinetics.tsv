@@ -1,0 +1,12 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+ABCB1,ABCC1,ABCC2,ABCG2	ABCB1,ABCC1,ABCC2,ABCG2	Biochemical Reaction	NR1I2	Control	cell	11329060	"ABCC1","ABCB1","ABCC2","NR1I2","ABCG2"		
+CYP2C8	CYP2C8	Biochemical Reaction	NR1I2	Control	cell	15933212	"CYP2C8","NR1I2"		
+CYP3A4	CYP3A4	Biochemical Reaction	NR1I2	Control	cell	18839173	"NR1I2","CYP3A4"		
+docetaxel	metabolite	Biochemical Reaction	CYP1B1,CYP3A4,CYP3A5	Catalysis	cell		"CYP1B1","CYP3A4","CYP3A5"	docetaxel	
+NR1I2	NR1I2	Biochemical Reaction	paclitaxel	Control	cell	11329060,18839173	NR1I2	paclitaxel	
+paclitaxel	metabolite	Biochemical Reaction	CYP2C8,CYP3A4	Catalysis	cell		"CYP2C8","CYP3A4"	paclitaxel	
+paclitaxel	metabolite	Biochemical Reaction	CYP1B1	Catalysis	cell		CYP1B1	paclitaxel	
+docetaxel	docetaxel	Transport	ABCB1,ABCC1,ABCC2,ABCG2	Catalysis	cell		"ABCC1","ABCB1","ABCC2","ABCG2"	docetaxel	
+docetaxel	docetaxel	Transport	SLCO1B3	Catalysis	cell		SLCO1B3	docetaxel	
+paclitaxel	paclitaxel	Transport	ABCB1,ABCC1,ABCC2,ABCG2	Catalysis	cell		"ABCC1","ABCB1","ABCC2","ABCG2"	paclitaxel	
+paclitaxel	paclitaxel	Transport	SLCO1B3	Catalysis	cell		SLCO1B3	paclitaxel	

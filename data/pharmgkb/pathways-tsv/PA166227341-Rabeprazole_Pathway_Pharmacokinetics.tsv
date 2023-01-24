@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+desmethyl rabeprazole	desmethyl rabeprazole thioether	Biochemical Reaction	CYP2D6	Gene	hepatocyte	31846760, 28294690				Biochemical reaction from desmethyl rabeprazole to desmethyl rabeprazole thioether. This interaction is catalyzed by CYP2D6.
+rabeprazole	rabeprazole sulfone	Biochemical Reaction	CYP3A4	Gene	hepatocyte	31846760, 28294690		rabeprazole		Biochemical reaction from rabeprazole to rabeprazole sulfone. This interaction is catalyzed by CYP3A4.
+rabeprazole thioether	desmethyl rabeprazole thioether	Biochemical Reaction	CYP2C19	Gene	hepatocyte	31846760, 28294690				Biochemical reaction from rabeprazole thioether to desmethyl rabeprazole thioether. This interaction is catalyzed by CYP2C19.
+rabeprazole	desmethyl rabeprazole	Biochemical Reaction	CYP2C19	Gene	hepatocyte	31846760, 28294690		rabeprazole		Biochemical reaction from rabeprazole to desmethyl rabeprazole. This interaction is catalyzed by CYP2C19.
+rabeprazole	rabeprazole thioether	Biochemical Reaction			hepatocyte	31846760, 28294690, 18679668, 16389533		rabeprazole		Biochemical reaction from rabeprazole to rabeprazole thioether.
+rabeprazole thioether	rabeprazole	Biochemical Reaction	CYP3A4	Gene	hepatocyte	28294690, 16389533		rabeprazole		Biochemical reaction from rabeprazole thioether to rabeprazole. This interaction is catalyzed by CYP3A4.

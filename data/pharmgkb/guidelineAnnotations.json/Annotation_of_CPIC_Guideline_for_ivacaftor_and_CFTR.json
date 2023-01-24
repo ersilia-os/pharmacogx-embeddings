@@ -1,0 +1,1426 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166114461",
+    "name": "Annotation of CPIC Guideline for ivacaftor and CFTR",
+    "alternateDrugAvailable": true,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983498,
+        "name": "CPIC® Guideline for Ivacaftor and CFTR – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-ivacaftor-and-cftr/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-ivacaftor-and-cftr/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "Ru50LgwdTPw",
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1449561722,
+        "alleles": [
+          {
+            "id": 1449561726,
+            "_label": "G551D",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166117965",
+              "symbol": "CFTR G551D",
+              "name": "G551D",
+              "version": 15
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561727,
+            "_label": "G1244E",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166117966",
+              "symbol": "CFTR G1244E",
+              "name": "G1244E",
+              "version": 14
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561728,
+            "_label": "G1349D",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166117967",
+              "symbol": "CFTR G1349D",
+              "name": "G1349D",
+              "version": 14
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561729,
+            "_label": "G178R",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166117968",
+              "symbol": "CFTR G178R",
+              "name": "G178R",
+              "version": 14
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561730,
+            "_label": "G551S",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166117969",
+              "symbol": "CFTR G551S",
+              "name": "G551S",
+              "version": 14
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561731,
+            "_label": "S1251N",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166117970",
+              "symbol": "CFTR S1251N",
+              "name": "S1251N",
+              "version": 14
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561732,
+            "_label": "S1255P",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166117971",
+              "symbol": "CFTR S1255P",
+              "name": "S1255P",
+              "version": 14
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561733,
+            "_label": "S549N",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166117972",
+              "symbol": "CFTR S549N",
+              "name": "S549N",
+              "version": 14
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561734,
+            "_label": "S549R(A>C)",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166117973",
+              "symbol": "CFTR S549R(A>C)",
+              "name": "S549R(A>C)",
+              "version": 14
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561735,
+            "_label": "S549R(T>G)",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166117974",
+              "symbol": "CFTR S549R(T>G)",
+              "name": "S549R(T>G)",
+              "version": 14
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561736,
+            "_label": "R117H",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166153136",
+              "symbol": "CFTR R117H",
+              "name": "R117H",
+              "version": 11
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561737,
+            "_label": "R347H",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164960",
+              "symbol": "CFTR R347H",
+              "name": "R347H",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561738,
+            "_label": "A455E",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166162727",
+              "symbol": "CFTR A455E",
+              "name": "A455E",
+              "version": 10
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561739,
+            "_label": "E56K",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164961",
+              "symbol": "CFTR E56K",
+              "name": "E56K",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561740,
+            "_label": "P67L",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164962",
+              "symbol": "CFTR P67L",
+              "name": "P67L",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561741,
+            "_label": "R74W",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164963",
+              "symbol": "CFTR R74W",
+              "name": "R74W",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561742,
+            "_label": "D110E",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164964",
+              "symbol": "CFTR D110E",
+              "name": "D110E",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561743,
+            "_label": "D110H",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164965",
+              "symbol": "CFTR D110H",
+              "name": "D110H",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561744,
+            "_label": "R117C",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164966",
+              "symbol": "CFTR R117C",
+              "name": "R117C",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561745,
+            "_label": "E193K",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164967",
+              "symbol": "CFTR E193K",
+              "name": "E193K",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561746,
+            "_label": "L206W",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164968",
+              "symbol": "CFTR L206W",
+              "name": "L206W",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561747,
+            "_label": "R352Q",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164969",
+              "symbol": "CFTR R352Q",
+              "name": "R352Q",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561748,
+            "_label": "D579G",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164970",
+              "symbol": "CFTR D579G",
+              "name": "D579G",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561749,
+            "_label": "S945L",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164971",
+              "symbol": "CFTR S945L",
+              "name": "S945L",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561750,
+            "_label": "S977F",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164972",
+              "symbol": "CFTR S977F",
+              "name": "S977F",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561751,
+            "_label": "F1052V",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164973",
+              "symbol": "CFTR F1052V",
+              "name": "F1052V",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561752,
+            "_label": "K1060T",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164974",
+              "symbol": "CFTR K1060T",
+              "name": "K1060T",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561753,
+            "_label": "A1067T",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164975",
+              "symbol": "CFTR A1067T",
+              "name": "A1067T",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561754,
+            "_label": "G1069R",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164976",
+              "symbol": "CFTR G1069R",
+              "name": "G1069R",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561755,
+            "_label": "R1070Q",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164977",
+              "symbol": "CFTR R1070Q",
+              "name": "R1070Q",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561756,
+            "_label": "R1070W",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164978",
+              "symbol": "CFTR R1070W",
+              "name": "R1070W",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561757,
+            "_label": "F1074L",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164979",
+              "symbol": "CFTR F1074L",
+              "name": "F1074L",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561758,
+            "_label": "D1152H",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164980",
+              "symbol": "CFTR D1152H",
+              "name": "D1152H",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561759,
+            "_label": "D1270N",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166164981",
+              "symbol": "CFTR D1270N",
+              "name": "D1270N",
+              "version": 9
+            },
+            "version": 1
+          },
+          {
+            "id": 1451219600,
+            "_label": "711+3A->G",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166213042",
+              "symbol": "CFTR 711+3A->G",
+              "name": "711+3A->G",
+              "version": 9
+            },
+            "version": 0
+          },
+          {
+            "id": 1451219601,
+            "_label": "E831X",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166213043",
+              "symbol": "CFTR E831X",
+              "name": "E831X",
+              "version": 9
+            },
+            "version": 0
+          },
+          {
+            "id": 1451219602,
+            "_label": "3272-26A->G",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166213044",
+              "symbol": "CFTR 3272-26A->G",
+              "name": "3272-26A->G",
+              "version": 9
+            },
+            "version": 0
+          },
+          {
+            "id": 1451219603,
+            "_label": "3849+10kbC->T",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166213045",
+              "symbol": "CFTR 3849+10kbC->T",
+              "name": "3849+10kbC->T",
+              "version": 9
+            },
+            "version": 0
+          },
+          {
+            "id": 1451219604,
+            "_label": "ivacaftor non-responsive CFTR sequence",
+            "function": {
+              "id": 1451214320,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor non-responsive",
+              "termId": "alleleFunction:1451214320",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166218381",
+              "symbol": "CFTR ivacaftor non-responsive CFTR sequence",
+              "name": "ivacaftor non-responsive CFTR sequence",
+              "version": 6
+            },
+            "version": 0
+          },
+          {
+            "id": 1451219605,
+            "_label": "2789+5G->A",
+            "function": {
+              "id": 1451214302,
+              "description": "CFTR guideline according to drug label variants",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "ivacaftor responsive",
+              "termId": "alleleFunction:1451214302",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166162716",
+              "symbol": "CFTR 2789+5G->A",
+              "name": "2789+5G->A",
+              "version": 10
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA109",
+          "symbol": "CFTR",
+          "name": "cystic fibrosis transmembrane conductance regulator",
+          "altNames": {
+            "synonym": [
+              "ATP-binding cassette sub-family C, member 7",
+              "cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)"
+            ],
+            "symbol": [
+              "ABC35",
+              "ABCC7",
+              "CF",
+              "CFTR/MRP",
+              "MRP7",
+              "TNR-CFTR",
+              "dJ760C5.1"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "q31.2",
+          "cbStop": "q31.2",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA534",
+            "name": "chr7",
+            "version": 3
+          },
+          "chrStartPosB37": 117120017,
+          "chrStartPosB38": 117478367,
+          "chrStopPosB37": 117308719,
+          "chrStopPosB38": 117668665,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553244863,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "1080",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=1080",
+              "version": 0
+            },
+            {
+              "id": 132254894,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000001626",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000001626",
+              "version": 0
+            },
+            {
+              "id": 72632,
+              "resource": "GenAtlas",
+              "resourceId": "CFTR",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=CFTR",
+              "version": 1
+            },
+            {
+              "id": 87560,
+              "resource": "GeneCard",
+              "resourceId": "CFTR",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CFTR",
+              "version": 1
+            },
+            {
+              "id": 608109619,
+              "resource": "HGNC",
+              "resourceId": "HGNC:1884",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A1884",
+              "version": 1
+            },
+            {
+              "id": 608109621,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS00075",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS00075",
+              "version": 0
+            },
+            {
+              "id": 560885087,
+              "resource": "ModBase",
+              "resourceId": "P13569",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P13569",
+              "version": 0
+            },
+            {
+              "id": 455170,
+              "resource": "MutDB",
+              "resourceId": "CFTR",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=CFTR",
+              "version": 1
+            },
+            {
+              "id": 9428,
+              "resource": "NCBI Gene",
+              "resourceId": "1080",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/1080",
+              "version": 1
+            },
+            {
+              "id": 560537628,
+              "resource": "OMIM",
+              "resourceId": "167800",
+              "_url": "https://omim.org/entry/167800",
+              "version": 0
+            },
+            {
+              "id": 560555775,
+              "resource": "OMIM",
+              "resourceId": "219700",
+              "_url": "https://omim.org/entry/219700",
+              "version": 0
+            },
+            {
+              "id": 560556093,
+              "resource": "OMIM",
+              "resourceId": "277180",
+              "_url": "https://omim.org/entry/277180",
+              "version": 0
+            },
+            {
+              "id": 5180,
+              "resource": "OMIM",
+              "resourceId": "602421",
+              "_url": "https://omim.org/entry/602421",
+              "version": 1
+            },
+            {
+              "id": 608109620,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_016465",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_016465",
+              "version": 0
+            },
+            {
+              "id": 36721,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_007933",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_007933",
+              "version": 1
+            },
+            {
+              "id": 62329665,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_079596",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_079596",
+              "version": 0
+            },
+            {
+              "id": 37649,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000483",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000483",
+              "version": 1
+            },
+            {
+              "id": 46724,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000492",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000492",
+              "version": 1
+            },
+            {
+              "id": 122041,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000492",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000492",
+              "version": 1
+            },
+            {
+              "id": 123140003,
+              "name": "CFTR_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P13569",
+              "_url": "https://www.uniprot.org/uniprot/P13569",
+              "version": 2
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": true,
+          "pharmVarGene": false,
+          "strand": "plus",
+          "terms": [
+            {"id":560495256,"_url":"http://amigo.geneontology.org/amigo/term/GO:0000166","resource":"Gene Ontology","term":"nucleotide binding","termId":"GO:0000166"},
+            {"id":560499604,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005216","resource":"Gene Ontology","term":"ion channel activity","termId":"GO:0005216"},
+            {"id":560499617,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005224","resource":"Gene Ontology","term":"ATP-binding and phosphorylation-dependent chloride channel activity","termId":"GO:0005224"},
+            {"id":560499281,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005254","resource":"Gene Ontology","term":"chloride channel activity","termId":"GO:0005254"},
+            {"id":560499650,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005260","resource":"Gene Ontology","term":"channel-conductance-controlling ATPase activity","termId":"GO:0005260"},
+            {"id":560495229,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005515","resource":"Gene Ontology","term":"protein binding","termId":"GO:0005515"},
+            {"id":560499859,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005524","resource":"Gene Ontology","term":"ATP binding","termId":"GO:0005524"},
+            {"id":560500078,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005737","resource":"Gene Ontology","term":"cytoplasm","termId":"GO:0005737"},
+            {"id":560500118,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005769","resource":"Gene Ontology","term":"early endosome","termId":"GO:0005769"},
+            {"id":560500245,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005902","resource":"Gene Ontology","term":"microvillus","termId":"GO:0005902"},
+            {"id":560501295,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006695","resource":"Gene Ontology","term":"cholesterol biosynthetic process","termId":"GO:0006695"},
+            {"id":560501462,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006810","resource":"Gene Ontology","term":"transport","termId":"GO:0006810"},
+            {"id":560501464,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006811","resource":"Gene Ontology","term":"ion transport","termId":"GO:0006811"},
+            {"id":560497959,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006833","resource":"Gene Ontology","term":"water transport","termId":"GO:0006833"},
+            {"id":560502339,"_url":"http://amigo.geneontology.org/amigo/term/GO:0007585","resource":"Gene Ontology","term":"respiratory gaseous exchange","termId":"GO:0007585"},
+            {"id":560506360,"_url":"http://amigo.geneontology.org/amigo/term/GO:0015701","resource":"Gene Ontology","term":"bicarbonate transport","termId":"GO:0015701"},
+            {"id":560506364,"_url":"http://amigo.geneontology.org/amigo/term/GO:0015705","resource":"Gene Ontology","term":"iodide transport","termId":"GO:0015705"},
+            {"id":560499972,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016020","resource":"Gene Ontology","term":"membrane","termId":"GO:0016020"},
+            {"id":560500226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016021","resource":"Gene Ontology","term":"integral to membrane","termId":"GO:0016021"},
+            {"id":560506899,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016323","resource":"Gene Ontology","term":"basolateral plasma membrane","termId":"GO:0016323"},
+            {"id":560506900,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016324","resource":"Gene Ontology","term":"apical plasma membrane","termId":"GO:0016324"},
+            {"id":560498127,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016787","resource":"Gene Ontology","term":"hydrolase activity","termId":"GO:0016787"},
+            {"id":560507209,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016887","resource":"Gene Ontology","term":"ATPase activity","termId":"GO:0016887"},
+            {"id":560496866,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019899","resource":"Gene Ontology","term":"enzyme binding","termId":"GO:0019899"},
+            {"id":560510140,"_url":"http://amigo.geneontology.org/amigo/term/GO:0030165","resource":"Gene Ontology","term":"PDZ domain binding","termId":"GO:0030165"},
+            {"id":560505392,"_url":"http://amigo.geneontology.org/amigo/term/GO:0030301","resource":"Gene Ontology","term":"cholesterol transport","termId":"GO:0030301"},
+            {"id":560510292,"_url":"http://amigo.geneontology.org/amigo/term/GO:0030321","resource":"Gene Ontology","term":"transepithelial chloride transport","termId":"GO:0030321"},
+            {"id":560510296,"_url":"http://amigo.geneontology.org/amigo/term/GO:0030324","resource":"Gene Ontology","term":"lung development","termId":"GO:0030324"},
+            {"id":560510587,"_url":"http://amigo.geneontology.org/amigo/term/GO:0030659","resource":"Gene Ontology","term":"cytoplasmic vesicle membrane","termId":"GO:0030659"},
+            {"id":560511102,"_url":"http://amigo.geneontology.org/amigo/term/GO:0031205","resource":"Gene Ontology","term":"endoplasmic reticulum Sec complex","termId":"GO:0031205"},
+            {"id":560511269,"_url":"http://amigo.geneontology.org/amigo/term/GO:0031404","resource":"Gene Ontology","term":"chloride ion binding","termId":"GO:0031404"},
+            {"id":560511774,"_url":"http://amigo.geneontology.org/amigo/term/GO:0031901","resource":"Gene Ontology","term":"early endosome membrane","termId":"GO:0031901"},
+            {"id":560512491,"_url":"http://amigo.geneontology.org/amigo/term/GO:0032635","resource":"Gene Ontology","term":"interleukin-6 production","termId":"GO:0032635"},
+            {"id":560512493,"_url":"http://amigo.geneontology.org/amigo/term/GO:0032637","resource":"Gene Ontology","term":"interleukin-8 production","termId":"GO:0032637"},
+            {"id":560512736,"_url":"http://amigo.geneontology.org/amigo/term/GO:0032870","resource":"Gene Ontology","term":"cellular response to hormone stimulus","termId":"GO:0032870"},
+            {"id":560513960,"_url":"http://amigo.geneontology.org/amigo/term/GO:0034097","resource":"Gene Ontology","term":"response to cytokine stimulus","termId":"GO:0034097"},
+            {"id":560507239,"_url":"http://amigo.geneontology.org/amigo/term/GO:0034707","resource":"Gene Ontology","term":"chloride channel complex","termId":"GO:0034707"},
+            {"id":560496806,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042311","resource":"Gene Ontology","term":"vasodilation","termId":"GO:0042311"},
+            {"id":560515491,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042493","resource":"Gene Ontology","term":"response to drug","termId":"GO:0042493"},
+            {"id":560512735,"_url":"http://amigo.geneontology.org/amigo/term/GO:0043434","resource":"Gene Ontology","term":"response to peptide hormone stimulus","termId":"GO:0043434"},
+            {"id":560512223,"_url":"http://amigo.geneontology.org/amigo/term/GO:0043627","resource":"Gene Ontology","term":"response to estrogen stimulus","termId":"GO:0043627"},
+            {"id":560517597,"_url":"http://amigo.geneontology.org/amigo/term/GO:0045909","resource":"Gene Ontology","term":"positive regulation of vasodilation","termId":"GO:0045909"},
+            {"id":560501512,"_url":"http://amigo.geneontology.org/amigo/term/GO:0055085","resource":"Gene Ontology","term":"transmembrane transport","termId":"GO:0055085"}
+          ],
+          "version": 18
+        },
+        "version": 2
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1183848388,
+        "date": "2014-03-05T00:00:00-08:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1183960130,
+        "date": "2014-03-17T00:00:00-07:00",
+        "description": "Addition of other variants.",
+        "type": "Update",
+        "version": 1
+      },
+      {
+        "id": 1184214951,
+        "date": "2014-05-06T00:00:00-07:00",
+        "description": "Formatting and content changes",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1447986336,
+        "date": "2016-05-10T14:57:16.865-07:00",
+        "description": "Guideline on PharmGKB updated due to changes to the FDA-approved label for ivacaftor",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1448624943,
+        "date": "2017-06-02T11:19:44.411-07:00",
+        "description": "FDA expanded approved use of ivacaftor to treat an additional 23 CFTR mutations.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1449564550,
+        "date": "2018-06-14T00:00:00-07:00",
+        "description": "Added guideline video.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1449717117,
+        "date": "2018-08-23T16:13:37.866-07:00",
+        "description": "Updated video link",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450824213,
+        "date": "2019-10-21T10:33:27.258-07:00",
+        "description": "Added new variants based on ivacaftor drug label and approved by CPIC authors in May 2019",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451274760,
+        "date": "2020-10-07T11:54:51.791-07:00",
+        "description": "Tagging variants.",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15071319,"title":"Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for ivacaftor therapy in the context of CFTR genotype.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4026598","crossReferences":[{"id":1449279797,"resource":"PubMed Central","resourceId":"PMC4026598","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4026598"},{"id":1449279796,"resource":"PubMed","resourceId":"24598717","_url":"https://www.ncbi.nlm.nih.gov/pubmed/24598717"},{"id":1449279798,"resource":"DOI","resourceId":"10.1038/clpt.2014.54","_url":"http://dx.doi.org/10.1038%2Fclpt.2014.54"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15100910,"title":"CPIC® Guideline for Ivacaftor and CFTR – CPIC","_sameAs":"https://cpicpgx.org/guidelines/guideline-for-ivacaftor-and-cftr/","crossReferences":[{"id":1447983498,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-ivacaftor-and-cftr/","_url":"https://cpicpgx.org/guidelines/guideline-for-ivacaftor-and-cftr/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166164943",
+        "symbol": "rs113993958",
+        "name": "rs113993958",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164941",
+        "symbol": "rs115545701",
+        "name": "rs115545701",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164959",
+        "symbol": "rs11971167",
+        "name": "rs11971167",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164946",
+        "symbol": "rs121908752",
+        "name": "rs121908752",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164947",
+        "symbol": "rs121908753",
+        "name": "rs121908753",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166157529",
+        "symbol": "rs121908755",
+        "name": "rs121908755",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166157530",
+        "symbol": "rs121908757",
+        "name": "rs121908757",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166157532",
+        "symbol": "rs121909013",
+        "name": "rs121909013",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164953",
+        "symbol": "rs121909020",
+        "name": "rs121909020",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166157533",
+        "symbol": "rs121909041",
+        "name": "rs121909041",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164950",
+        "symbol": "rs141033578",
+        "name": "rs141033578",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164951",
+        "symbol": "rs150212784",
+        "name": "rs150212784",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164957",
+        "symbol": "rs186045772",
+        "name": "rs186045772",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166157534",
+        "symbol": "rs193922525",
+        "name": "rs193922525",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164956",
+        "symbol": "rs202179988",
+        "name": "rs202179988",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166157537",
+        "symbol": "rs267606723",
+        "name": "rs267606723",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164940",
+        "symbol": "rs368505753",
+        "name": "rs368505753",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164939",
+        "symbol": "rs397508256",
+        "name": "rs397508256",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164948",
+        "symbol": "rs397508288",
+        "name": "rs397508288",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164949",
+        "symbol": "rs397508442",
+        "name": "rs397508442",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164952",
+        "symbol": "rs397508513",
+        "name": "rs397508513",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164942",
+        "symbol": "rs397508537",
+        "name": "rs397508537",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164945",
+        "symbol": "rs397508759",
+        "name": "rs397508759",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166157511",
+        "symbol": "rs74503330",
+        "name": "rs74503330",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166162705",
+        "symbol": "rs74551128",
+        "name": "rs74551128",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166157516",
+        "symbol": "rs75527207",
+        "name": "rs75527207",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164958",
+        "symbol": "rs75541969",
+        "name": "rs75541969",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164944",
+        "symbol": "rs77834169",
+        "name": "rs77834169",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166161186",
+        "symbol": "rs77932196",
+        "name": "rs77932196",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166157519",
+        "symbol": "rs78655421",
+        "name": "rs78655421",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166164955",
+        "symbol": "rs78769542",
+        "name": "rs78769542",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166157521",
+        "symbol": "rs80282562",
+        "name": "rs80282562",
+        "version": 4
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA165950341",
+        "name": "ivacaftor",
+        "version": 5
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA109",
+        "symbol": "CFTR",
+        "name": "cystic fibrosis transmembrane conductance regulator",
+        "version": 18
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1447981606,
+      "html": "<p>Ivacaftor treatment is recommended only in cystic fibrosis (CF) patients that are either homozygous or heterozygous for certain <em>CFTR</em> variants.  See full guideline for disclaimers, further details and supporting evidence.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433622,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-ivacaftor-and-cftr/\" target=\"_blank\">CPIC&reg; guideline for ivacaftor and CFTR</a>.</p>\n<h3 id=\"may-2019-update-on-pharmgkb\">May 2019 Update on PharmGKB</h3>\n<ul>\n<li>Since the most recent update to the CPIC ivacaftor dosing guideline in April 2014, and the most recent update on PharmGKB in June 2017, the <a href=\"/label/PA166104890\">FDA-approved drug label</a> has been updated again to include 5 additional CFTR variants that are approved for KALYDECO use, bringing the total number of indicated variants to 38: 2789+5G-&gt;A (<a href=\"/variant/PA166162698\">rs80224560</a>), 3272-26A-&gt;G (<a href=\"/variant/PA166184909\">rs76151804</a>), 3849+10kbC-&gt;T (<a href=\"/variant/PA166157514\">rs75039782</a>), 711+1G-&gt;T (<a href=\"/variant/PA166162707\">rs77188391</a>) and E831X (<a href=\"/variant/PA166157519\">rs78655421</a>). Table 1, below, has been updated.</li>\n</ul>\n<h3 id=\"june-2017-update-on-pharmgkb\">June 2017 Update on PharmGKB</h3>\n<ul>\n<li>Since the most recent update to the CPIC ivacaftor dosing guideline in April 2014, and the most recent update on PharmGKB in May 2016, the <a href=\"/label/PA166104890\">FDA-approved drug label</a> has been updated again to include 23 additional CFTR variants that are approved for KALYDECO use, bringing the total number of indicated variants to 33. Please see the <a rel=\"noopener noreferrer\" href=\"https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm559212.htm\" target=\"_blank\">FDA News Release</a> from May 17th, 2017 for more information. In light of this change, the CPIC guideline annotation on this PharmGKB webpage has been update to include these additional CFTR variants (see Table 1, below). These variants were not discussed in the 2014 guideline publication. These variants are as follows: E56K (<a href=\"/variant/PA166164939\">rs397508256</a>), P67L (<a href=\"/variant/PA166164940\">rs368505753</a>), R74W (<a href=\"/variant/PA166164941\">rs115545701</a>), D110E (<a href=\"/variant/PA166164942\">rs397508537</a>), D110H (<a href=\"/variant/PA166164943\">rs113993958</a>), R117C (<a href=\"/variant/PA166164944\">rs77834169</a>), E193K (<a href=\"/variant/PA166164945\">rs397508759</a>), L206W (<a href=\"/variant/PA166164946\">rs121908752</a>), R347H (<a href=\"/variant/PA166161186\">rs77932196</a>), R352Q (<a href=\"/variant/PA166164947\">rs121908753</a>), A455E (<a href=\"/variant/PA166162705\">rs74551128</a>), D579G (<a href=\"/variant/PA166164948\">rs397508288</a>), S945L (<a href=\"/variant/PA166164949\">rs397508442</a>), S977F (<a href=\"/variant/PA166164950\">rs141033578</a>), F1052V (<a href=\"/variant/PA166164951\">rs150212784</a>), K1060T (<a href=\"/variant/PA166164952\">rs397508513</a>), A1067T (<a href=\"/variant/PA166164953\">rs121909020</a>), G1069R (<a href=\"/variant/PA166164954\">rs200321110</a>), R1070Q (<a href=\"/variant/PA166164955\">rs78769542</a>), R1070W (<a href=\"/variant/PA166164956\">rs202179988</a>), F1074L (<a href=\"/variant/PA166164957\">rs186045772</a>), D1152H (<a href=\"/variant/PA166164958\">rs75541969</a>), D1270N (<a href=\"/variant/PA166164959\">rs11971167</a>).</li>\n</ul>\n<h3 id=\"may-2016-update-on-pharmgkb\">May 2016 Update on PharmGKB</h3>\n<ul>\n<li>Since the most recent update to the CPIC ivacaftor dosing guideline in April 2014, the <a href=\"/label/PA166104890\">FDA-approved drug label</a> has been updated again to include the variant R117H (<a href=\"/variant/PA166157519\">rs78655421</a>). In light of this change, the CPIC guideline annotation on this PharmGKB webpage has been updated to include this additional <em>CFTR</em> variant (see Table 1 and Figure 1, below). This variant is not discussed in the 2014 guideline publication. Additionally, the updated drug label indicates ivacaftor use for patients 2 years and older; previously it was indicated only for patients 6 years and older.</li>\n</ul>\n<h3 id=\"april-2014-update-on-pharmgkb\">April 2014 Update on PharmGKB</h3>\n<ul>\n<li>After the submission and review of the CPIC guideline manuscript, the <a href=\"/label/PA166104890\">FDA-approved drug label</a> for ivacaftor was updated to include additional variants. In light of these changes, the CPIC guideline annotation on this PharmGKB webpage has been updated to include additional <em>CFTR</em> variants, specifically G1244E (<a href=\"/variant/PA166157537\">rs267606723</a>), G1349D (<a href=\"/variant/PA166157534\">rs193922525</a>), G178R (<a href=\"/variant/PA166157521\">rs80282562</a>), G551S (<a href=\"/variant/PA166157532\">rs121909013</a>), S1251N (<a href=\"/variant/PA166157511\">rs74503330</a>), S1255P (<a href=\"/variant/PA166157533\">rs121909041</a>), S549N (<a href=\"/variant/PA166157529\">rs121908755</a>) and S549R (<a href=\"/variant/PA166157530\">rs121908757</a> and <a href=\"/variant/PA166157531\">rs121909005</a>) (see Table 1 and Figure 1, below).  These variants are not discussed in the 2014 guideline publication.</li>\n</ul>\n<h3 id=\"march-2014\">March 2014</h3>\n<p><em>Accepted article preview online March 2014; Advance online publication March 2014.</em></p>\n<ul>\n<li>Guidelines regarding the use of pharmacogenomic tests in determining whether ivacaftor treatment should be undertaken have been published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">(CPIC)</a>.</li>\n<li>These guidelines are applicable to\n<ul>\n<li>cystic fibrosis patients</li>\n<li>pediatrics, 6 years and older</li>\n<li>adults</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/ivacaftor/2014/24598717.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC) Guidelines for Ivacaftor Therapy in the Context of CFTR Genotype</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/ivacaftor/2014/24598717-supplement.pdf\" target=\"_blank\">2014 supplement</a> (2019 update)</li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-recommended-therapeutic-use-of-ivacaftor-based-on-cftr-genotype\">Table 1: Recommended therapeutic use of ivacaftor based on <em>CFTR</em> genotype</h3>\n<p><em>Adapted from Table 2 of the 2014 guideline manuscript (June 2017 Update on PharmGKB).  Variants have been added to the table below that are not in the published 2014 guideline or supplement; specifically, variants other than G551D and F508del.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>CFTR Genotype</th>\n<th>Examples of diplotypes</th>\n<th>Implications for ivacaftor effects</th>\n<th>Recommendations for ivacaftor therapy</th>\n<th>Classification of recommendation for ivacaftor therapy<sup>c</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Homozygous or Heterozygous G551D-CFTR, <a href=\"/variant/PA166157516\">rs75527207</a> genotype AA or AG</td>\n<td>G551D/ F508del, G551D/ G551D</td>\n<td>Significant improvement in lung function, weight, risk of pulmonary exacerbation, patient reported outcomes, and reduction in sweat chloride concentrations through enhanced CFTR channel activity (increase probability of open channel).</td>\n<td>Use ivacaftor according to the product label</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Homozygous for F508del-CFTR, <a href=\"/variant/PA166157525\">rs113993960</a> or <a href=\"/variant/PA166157536\">rs199826652</a> genotype del/del</td>\n<td>F508del/F508del</td>\n<td>No significant reduction in sweat chloride concentrations; no changes in other clinical measurements including spirometric measurements, pulmonary exacerbations, or body weight<sup>b</sup>. Unlikely to respond to treatment.</td>\n<td>Ivacaftor is not recommended<sup>a</sup></td>\n<td>Moderate<sup>b</sup></td>\n</tr>\n<tr>\n<td>Homozygous or heterozygous for one of the following CFTR variants: E56K, P67L, R74W, D110E, D110H, R117C, R117H, G178R, E193K, L206W, R347H, R352Q, A455E, S549N, S549R, G551D, G551S, D579G, S945L, S997F, F1052V, K1060T, A1067T, G1069R, R1070Q, R1070W, F1074L, D1152H, G1244E, S1251N, S1255P, D1270N, G1349D, 2789+5G-&gt;A, 3272-26A-&gt;G, 3849+10kbC-&gt;T, 711+1G-&gt;T and E831X<sup>d</sup></td>\n<td>F508del/S549N</td>\n<td>Significantly enhanced channel open probability <em>in vitro</em> [Article:<a href=\"/pmid/22293084\">22293084</a>]. <em>In vitro</em> assays with CFBEo- cells expressing S549N-CFTR showed ivacaftor potentiated chloride channel function [Article:<a href=\"/pmid/23027855\">23027855</a>], and a case study showed improved lung function after ivacaftor treatment in a 12-year-old girl with CF with a copy of the S549N variant [Article:<a href=\"/pmid/24081349\">24081349</a>]. Improvement in sweat chloride and CFQ-R respiratory domain scores in patients with the R117H variant [Article:<a href=\"/pmid/26070913\">26070913</a>]. Or, variant was listed in the <a href=\"https://www.pharmgkb.org/label/PA166104890\">FDA-approved drug label</a> as being responsive to ivacaftor.</td>\n<td>Use ivacaftor according to the product label</td>\n<td>Moderate</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> These recommendations are based on treatment of CF patients with ivacaftor alone and current evidence. Clinical trials are currently underway to investigate ivacaftor alone or in combination with other drugs to treat CF patients with CFTR variants other than G551D, therefore there is potential that ivacaftor may be effective in these patients. See the 2014 guidelines for further details.</p>\n<p><sup>b</sup> The recommendation for patients with the F508del/F508del genotype is based on ivacaftor mechanism of action and clinical observational data. The clinical study however was a safety study and was not powered to detect a difference in efficacy [Article:<a href=\"/pmid/22383668\">22383668</a>].</p>\n<p><sup>c</sup> Rating scheme described in the 2014 supplement.</p>\n<p><sup>d</sup> Variants listed in this table include those added to the updated <a href=\"/label/PA166104890\">drug label for ivacaftor</a>. The modifications to this table were made after the acceptance of publication of the 2014 CPIC Ivacaftor-CFTR guideline [Article:<a href=\"/pmid/24598717\">24598717</a>] and are not reflected in the PDFs of the CPIC guideline main manuscript or supplement.</p>\n<h3 id=\"figure-1-treatment-algorithm-for-clinical-use-of-ivacaftor-for-cystic-fibrosis-patients-based-on-cftr-genotype\">Figure 1: Treatment algorithm for clinical use of Ivacaftor for cystic fibrosis patients based on <em>CFTR</em> genotype.</h3>\n<p><em>Adapted from Figure 1 of the 2014 guideline manuscript (June 2017 Update on PharmGKB).  Variants have been added to this figure that are not in the published 2014 guideline or supplement; specifically, variants other than G551D and F508del. Additionally, the age has been updated to 2 years old or older from 6 years and older, due to an update in the FDA-approved drug label for ivacaftor.</em></p>\n<p><img src=\"https://s3.pgkb.org/attachment/Ivacaftor_Figure_1_Update_June_2017.png\" alt=\"Adapted diagram from Figure 1\" /></p>\n<p><sup>e</sup> Ivacaftor is not recommended for CF patients with other CFTR variants or in patients homozygous for the F508del variant (see 2014 guideline for further details, supporting evidence and disclaimers). Future clinical trials for other CFTR variants are ongoing.</p>\n",
+      "version": 0
+    },
+    "userId": "rachel",
+    "version": 61
+  }
+}

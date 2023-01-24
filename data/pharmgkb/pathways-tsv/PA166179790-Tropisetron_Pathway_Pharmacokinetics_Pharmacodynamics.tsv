@@ -1,0 +1,13 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+serotonin	5-HT3 receptor	Activation			null, afferent neuron	13460238				serotonin activates 5-HT3 receptor (HTR3A, HTR3B, HTR3C, HTR3D, HTR3E).
+serotonin	5-HT3 receptor	Activation	tropisetron	Drug	null, afferent neuron	7507039, 13460238				serotonin activates 5-HT3 receptor (HTR3A, HTR3B, HTR3C, HTR3D, HTR3E). This interaction is inhibited by tropisetron.
+7-hydroxytropisetron	tropisetron 7-sulfate	Biochemical Reaction			hepatocyte	1356742		7-hydroxytropisetron, tropisetron 7-sulfate		Biochemical reaction from 7-hydroxytropisetron to tropisetron 7-sulfate.
+tropisetron	6-hydroxytropisetron	Biochemical Reaction	CYP2D6, CYP3A4	Gene	hepatocyte	8861656, 7598739, 8013282, 1356742		6-hydroxytropisetron, tropisetron		Biochemical reaction from tropisetron to 6-hydroxytropisetron. This interaction can be catalyzed by CYP2D6 or CYP3A4.
+5-hydroxytropisetron	tropisetron 5-sulfate	Biochemical Reaction			hepatocyte	1356742		5-hydroxytropisetron, tropisetron 5-sulfate		Biochemical reaction from 5-hydroxytropisetron to tropisetron 5-sulfate.
+6-hydroxytropisetron	tropisetron 6-glucuronide	Biochemical Reaction			hepatocyte	1356742		6-hydroxytropisetron, tropisetron 6-glucuronide		Biochemical reaction from 6-hydroxytropisetron to tropisetron 6-glucuronide.
+5-hydroxytropisetron	tropisetron 5-glucuronide	Biochemical Reaction			hepatocyte	1356742		5-hydroxytropisetron, tropisetron 5-glucuronide		Biochemical reaction from 5-hydroxytropisetron to tropisetron 5-glucuronide.
+tropisetron	5-hydroxytropisetron	Biochemical Reaction	CYP2D6, CYP3A4	Gene	hepatocyte	8861656, 7598739, 8013282, 1356742		5-hydroxytropisetron, tropisetron		Biochemical reaction from tropisetron to 5-hydroxytropisetron. This interaction can be catalyzed by CYP3A4 or CYP2D6.
+tropisetron	7-hydroxytropisetron	Biochemical Reaction	CYP2D6, CYP3A4	Gene	hepatocyte	8861656, 8013282, 1356742		7-hydroxytropisetron, tropisetron		Biochemical reaction from tropisetron to 7-hydroxytropisetron. This interaction can be catalyzed by CYP3A4 or CYP2D6.
+7-hydroxytropisetron	tropisetron 7-glucuronide	Biochemical Reaction			hepatocyte	1356742		7-hydroxytropisetron, tropisetron 7-glucuronide		Biochemical reaction from 7-hydroxytropisetron to tropisetron 7-glucuronide.
+6-hydroxytropisetron	tropisetron 6-sulfate	Biochemical Reaction			hepatocyte	1356742		6-hydroxytropisetron, tropisetron 6-sulfate		Biochemical reaction from 6-hydroxytropisetron to tropisetron 6-sulfate.
+tropisetron	tropisetron	Transport	SLC22A1	Gene	hepatocyte, null	27988869, 20921968		tropisetron		Transport from tropisetron to tropisetron. This interaction is catalyzed by SLC22A1.

@@ -1,0 +1,15 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+1-OH ibuprofen	1-OH-IBU-gluc	Biochemical Reaction			hepatocyte	22226725			
+2-OH ibuprofen	2-OH IBU gluc	Biochemical Reaction			hepatocyte	22226725			
+3-OH ibuprofen	3-OH IBU gluc	Biochemical Reaction			hepatocyte	22226725			
+3-OH ibuprofen	carboxyibuprofen	Biochemical Reaction	Cytosolic dehydrogenase	Catalysis	hepatocyte	9165543,9296349			
+carboxyibuprofen	carboxy IBU gluc	Biochemical Reaction			hepatocyte	22226725			
+ibuprofen	1-OH ibuprofen	Biochemical Reaction			hepatocyte	22226725		ibuprofen	
+ibuprofen	2-OH ibuprofen	Biochemical Reaction	CYP2C19,CYP2C8,CYP2C9,CYP3A4	Catalysis	hepatocyte	22226725	"CYP2C9","CYP2C8","CYP2C19","CYP3A4"	ibuprofen	
+ibuprofen	3-OH ibuprofen	Biochemical Reaction	CYP2C19,CYP2C9	Catalysis	hepatocyte	22226725	"CYP2C9","CYP2C19"	ibuprofen	
+ibuprofen	ibuprofen	Biochemical Reaction	AMACR	Catalysis	hepatocyte	21614403	AMACR	ibuprofen	
+ibuprofen	ibuprofen	Biochemical Reaction			hepatocyte			ibuprofen	
+ibuprofen	ibuprofen-glucuronide	Biochemical Reaction	UGT1A3,UGT1A9,UGT2B17,UGT2B4,UGT2B7	Catalysis	hepatocyte	15047194	"UGT2B17","UGT2B4","UGT1A3","UGT1A9","UGT2B7"	ibuprofen	
+methotrexate	methotrexate	Transport	ABCC2,ABCC4,ibuprofen	Catalysis,Inhibition	cell		"ABCC4","ABCC2"	"methotrexate","ibuprofen"	
+methotrexate	methotrexate	Transport	ibuprofen,SLC22A6,SLC22A8,SLC22A9	Catalysis,Inhibition	cell		"SLC22A6","SLC22A8","SLC22A9"	"methotrexate","ibuprofen"	
+pravastatin	pravastatin	Transport	ibuprofen,SLCO1B1,SLCO1B3	Activation,Catalysis	hepatocyte		"SLCO1B1","SLCO1B3"	"pravastatin","ibuprofen"	

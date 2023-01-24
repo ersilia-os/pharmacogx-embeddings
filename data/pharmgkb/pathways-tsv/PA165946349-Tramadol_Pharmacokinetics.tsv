@@ -1,0 +1,17 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+N,N,O-tridesmethyl-tramadol (M4)	N,N,O-tridesmethyl-tramadol conjugates	Biochemical Reaction			hepatocyte				
+N,N-didesmethyl-tramadol (M3)	N,N,O-tridesmethyl-tramadol (M4)	Biochemical Reaction			hepatocyte	11454734			
+N,O-didesmethyl-tramadol (M5)	N,N,O-tridesmethyl-tramadol (M4)	Biochemical Reaction			hepatocyte	11454734			
+N,O-didesmethyl-tramadol (M5)	N,O-didesmethyl-tramadol conjugates	Biochemical Reaction			hepatocyte	11454734			
+N-desmethyl-tramadol (M2)	N,N-didesmethyl-tramadol (M3)	Biochemical Reaction	CYP2B6,CYP3A4	Catalysis	hepatocyte	11454734	"CYP2B6","CYP3A4"		
+N-desmethyl-tramadol (M2)	N,O-didesmethyl-tramadol (M5)	Biochemical Reaction	CYP2D6	Catalysis	hepatocyte	11454734	CYP2D6		
+O-desmethyl-tramadol (M1)	N,O-didesmethyl-tramadol (M5)	Biochemical Reaction	CYP2B6,CYP3A4	Catalysis	hepatocyte	11454734	"CYP2B6","CYP3A4"		
+O-desmethyl-tramadol (M1)	O-desmethyl-tramadol glucuronide	Biochemical Reaction	UGT1A8,UGT2B7	Catalysis	hepatocyte	20797434	"UGT1A8","UGT2B7"		
+tramadol	N-desmethyl-tramadol (M2)	Biochemical Reaction	CYP2B6,CYP3A4	Catalysis	hepatocyte	11454734	"CYP2B6","CYP3A4"	tramadol	
+tramadol	O-desmethyl-tramadol (M1)	Biochemical Reaction	CYP2D6	Catalysis	hepatocyte	11454734	CYP2D6	tramadol	
+N,N,O-tridesmethyl-tramadol conjugates	N,N,O-tridesmethyl-tramadol conjugates	Transport			hepatocyte				
+N,O-didesmethyl-tramadol conjugates	N,O-didesmethyl-tramadol conjugates	Transport			hepatocyte				
+O-desmethyl-tramadol (M1)	O-desmethyl-tramadol (M1)	Transport	SLC22A1	Catalysis	hepatocyte	21562485	SLC22A1		
+O-desmethyl-tramadol (M1)	O-desmethyl-tramadol (M1)	Transport			hepatocyte	21562485			
+O-desmethyl-tramadol glucuronide	O-desmethyl-tramadol glucuronide	Transport	ABCC2	Catalysis	hepatocyte	21562485	ABCC2		
+tramadol	tramadol	Transport			hepatocyte			tramadol	

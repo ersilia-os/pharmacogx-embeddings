@@ -1,0 +1,170 @@
+{
+  "citations": [
+    {
+      "id": 15109243,
+      "title": "Pharmacogenetics of immunosuppressants: State of the art and clinical implementation - recommendations from the French National Network of Pharmacogenetics (RNPGx).",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/28318610",
+      "authors": [
+        "Woillard Jean-Baptiste",
+        "Chouchana Laurent",
+        "Picard Nicolas",
+        "Loriot Marie-Anne",
+        "French Network of Pharmacogenetics (RNPGX)"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451127902,
+          "resource": "PubMed",
+          "resourceId": "28318610",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/28318610",
+          "version": 0
+        },
+        {
+          "id": 1451127903,
+          "resource": "DOI",
+          "resourceId": "10.1016/j.therap.2016.09.016",
+          "_url": "http://dx.doi.org/10.1016%2Fj.therap.2016.09.016",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapie",
+      "meshDiseases": [
+        "PA133888799",
+        "PA446116"
+      ],
+      "meshTerms": [
+        "ATP Binding Cassette Transporter, Subfamily B",
+        "Cytochrome P-450 CYP3A",
+        "Genotype",
+        "Glucuronosyltransferase",
+        "Humans",
+        "Immunosuppressive Agents",
+        "Inflammatory Bowel Diseases",
+        "Methyltransferases",
+        "Organ Transplantation",
+        "Pharmacogenetics",
+        "Pharmacogenomic Testing",
+        "Polymorphism, Genetic"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "285-299",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2017-04-01T00:00:00-07:00",
+      "summary": "Therapeutic drug monitoring is already widely used for immunosuppressive drugs due to their narrow therapeutic index. This article summarizes evidence reported in the literature regarding the pharmacogenetics of (i) immunosuppressive drugs used in transplantation and (ii) azathioprine used in chronic inflammatory bowel disease. The conditions of use of currently available major pharmacogenetic tests are detailed and recommendations are provided based on a scale established by the RNPGx scoring tests as \"essential\", \"advisable\" and \"potentially useful\". Other applications for which the level of evidence is still debated are also discussed.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2017
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166202521",
+    "name": "Annotation of RNPGx Guideline for azathioprine and TPMT",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1451127981,
+        "date": "2020-05-05T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1451129760,
+        "date": "2020-05-07T00:00:00-07:00",
+        "description": "Added literature",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451678182,
+        "date": "2022-02-10T13:49:02.794-08:00",
+        "description": "Added RNPGx as source",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741841,
+        "date": "2022-04-05T14:06:36.080-07:00",
+        "description": "Added testing guidance tag and link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15109243,"title":"Pharmacogenetics of immunosuppressants: State of the art and clinical implementation - recommendations from the French National Network of Pharmacogenetics (RNPGx).","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/28318610","crossReferences":[{"id":1451127902,"resource":"PubMed","resourceId":"28318610","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28318610"},{"id":1451127903,"resource":"DOI","resourceId":"10.1016/j.therap.2016.09.016","_url":"http://dx.doi.org/10.1016%2Fj.therap.2016.09.016"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819269",
+        "symbol": "TPMT*2",
+        "name": "*2",
+        "version": 14
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819270",
+        "symbol": "TPMT*3A",
+        "name": "*3A",
+        "version": 15
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819271",
+        "symbol": "TPMT*3B",
+        "name": "*3B",
+        "version": 14
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819272",
+        "symbol": "TPMT*3C",
+        "name": "*3C",
+        "version": 14
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA448515",
+        "name": "azathioprine",
+        "version": 24
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA356",
+        "symbol": "TPMT",
+        "name": "thiopurine S-methyltransferase",
+        "version": 7544
+      }
+    ],
+    "source": "RNPGx",
+    "summaryMarkdown": {
+      "id": 1451128000,
+      "html": "<p>Testing for TPMT genotype and phenotype is recommended for patients who are receiving azathioprine as an immunosuppressant. A dose reduction should be considered for patients with intermediate TPMT activity, while a greater dose reduction or selection of an alternate drug should be considered for patients with low TPMT activity.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451127980,
+      "html": "<p>The French National Network of Pharmacogenetics (RNPGx) guideline for TPMT and azathioprine recommends testing of TPMT genotype and phenotype in patients receiving azathioprine as an immunosuppressant. The RNPGx dosing recommendations for azathioprine correspond to those found in the <a href=\"https://www.pharmgkb.org/guidelineAnnotation/PA166104933\">CPIC guideline for thiopurines and <em>TPMT, NUDT15</em></a> and the <a href=\"https://www.pharmgkb.org/guidelineAnnotation/PA166104934\">DPWG guideline for azathioprine and <em>TPMT</em></a>.</p>\n<blockquote class=\"blockquote\">\n<p>Considering the severity of the potential adverse effects, <em>a priori</em> TPMT genotyping is recommended as an <em>essential</em> test.</p>\n<p>In addition, the RNPGx recommends a phenotype test together with the genotype test to optimize the identification of patients with TPMT deficiency linked to rare variants that are not included in the targeted genotyping test.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>For retrospective tests (<em>a posterori</em> tests to explore a toxic effect), the RNPGx considers that TPMT genotyping is <em>advisable</em> if the thiopurine treatment has been definitively discontinued and <em>essential</em> if the treatment is to be continued.</p>\n</blockquote>\n<p><a href=\"/page/testingGuidance\">Read more about the RNPGx levels of recommendation for testing</a>.</p>\n<h3 id=\"table-1-proposed-adaptation-for-the-initial-dose-of-thiopurine-depending-on-the-tpmt-phenotype-or-genotype-according-to-cpic\">Table 1: Proposed adaptation for the initial dose of thiopurine depending on the TPMT phenotype or genotype according to CPIC</h3>\n<table class=\"table\">\n<thead>\n<tr>\n<th>TPMT Phenotype</th>\n<th>Normal/high activity level</th>\n<th>Intermediate activity level</th>\n<th>Low activity level</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>TPMT Genotype</td>\n<td>Homozygous wild-type</td>\n<td>Heterozygous</td>\n<td>Homozygous variant alleles</td>\n</tr>\n<tr>\n<td>Dose adjustment</td>\n<td>Standard dose</td>\n<td>30-70% of standard dose</td>\n<td>Contraindication for thiopurines or 10% of the standard dose, 3 times per week (expert opinion)</td>\n</tr>\n<tr>\n<td>Initial dose</td>\n<td>Azathioprine: 2.0-2.5 mg/kg/day</td>\n<td>Azathioprine: 1.0-1.5 mg/kg/day</td>\n<td>Azathioprine: 0.2-0.25 mg/kg/3 time per week</td>\n</tr>\n</tbody>\n</table>\n<p><em>Adapted from Table 3 of the 2017 guideline</em></p>\n",
+      "version": 1
+    },
+    "userId": "rachel",
+    "version": 2
+  }
+}

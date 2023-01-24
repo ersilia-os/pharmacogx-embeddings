@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+repaglinide	M1	Biochemical Reaction	CYP2C8,CYP3A4	Catalysis	hepatocyte	12919179	"CYP2C8","CYP3A4"	repaglinide	
+repaglinide	M2	Biochemical Reaction	CYP2C8,CYP3A4	Catalysis	hepatocyte	12919179	"CYP2C8","CYP3A4"	repaglinide	
+repaglinide	M4	Biochemical Reaction	CYP2C8,CYP3A4	Catalysis	hepatocyte	12919179,14534525,16390351	"CYP2C8","CYP3A4"	repaglinide	
+repaglinide	M5	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte	12919179	CYP3A4	repaglinide	
+repaglinide	M0-OH	Conversion	CYP2C8,CYP3A4	Catalysis	hepatocyte	12919179	"CYP2C8","CYP3A4"	repaglinide	
+repaglinide	repaglinide	Transport	SLCO1B1	Catalysis	hepatocyte	15961978	SLCO1B1	repaglinide	

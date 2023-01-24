@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+atomoxetine	4'-hydroxy atomoxetine	Biochemical Reaction	CYP2D6	Gene	hepatocyte	27052878, 12485958, 11854152		atomoxetine		Biochemical reaction from atomoxetine to 4'-hydroxy atomoxetine. This interaction is catalyzed by CYP2D6.
+4'-hydroxy atomoxetine	4-hydroxyatomoxetine-O-glucuronide	Biochemical Reaction			hepatocyte	12485958				Biochemical reaction from 4'-hydroxy atomoxetine to 4-hydroxyatomoxetine-O-glucuronide.
+atomoxetine	N-desmethyl atomoxetine	Biochemical Reaction	CYP2C19	Gene	hepatocyte	12485958, 11854152		atomoxetine		Biochemical reaction from atomoxetine to N-desmethyl atomoxetine. This interaction is catalyzed by CYP2C19.
+atomoxetine	2-hydroxymethyl atomoxetine	Biochemical Reaction	CYP2B6, CYP2D6	Gene	hepatocyte	27052878, 12485958		atomoxetine		Biochemical reaction from atomoxetine to 2-hydroxymethyl atomoxetine. This interaction can be catalyzed by CYP2B6 or CYP2D6.
+N-desmethyl-4-hydroxyatomoxetine	N-desmethyl-4-hydroxyatomoxetine glucuronide	Biochemical Reaction			hepatocyte	12485958				Biochemical reaction from N-desmethyl-4-hydroxyatomoxetine to N-desmethyl-4-hydroxyatomoxetine glucuronide.
+atomoxetine	4'-hydroxy atomoxetine	Biochemical Reaction	CYP1A2, CYP2B6, CYP2C19, CYP2E1, CYP3A4	Gene	hepatocyte	11854152		atomoxetine		Biochemical reaction from atomoxetine to 4'-hydroxy atomoxetine. This interaction can be catalyzed by CYP2C19, CYP2E1, CYP3A4, CYP1A2 or CYP2B6.
+N-desmethyl atomoxetine	N-desmethyl-4-hydroxyatomoxetine	Biochemical Reaction	CYP2D6	Gene	hepatocyte	12485958, 11854152				Biochemical reaction from N-desmethyl atomoxetine to N-desmethyl-4-hydroxyatomoxetine. This interaction is catalyzed by CYP2D6.

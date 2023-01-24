@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+naproxen	naproxen glucuronide	Biochemical Reaction	UGT1A6, UGT1A9, UGT2B7	Gene	hepatocyte	16187975		naproxen		Biochemical reaction from naproxen to naproxen glucuronide. This interaction can be catalyzed by UGT1A9, UGT2B7 or UGT1A6.
+naproxen	desmethylnaproxen	Biochemical Reaction	CYP1A2, CYP2C9	Gene	hepatocyte	8866821		naproxen		Biochemical reaction from naproxen to desmethylnaproxen. This interaction can be catalyzed by CYP2C9 or CYP1A2.
+desmethylnaproxen	6-o-desmethylnaproxen iso acyl glucuronide	Biochemical Reaction	UGT1A1, UGT1A3, UGT1A6, UGT1A9, UGT2B7	Gene	hepatocyte	16187975				Biochemical reaction from desmethylnaproxen to desmethylnaproxen acyl glucuronide. This interaction can be catalyzed by UGT1A6, UGT1A3, UGT1A1, UGT1A9 or UGT2B7.
+desmethylnaproxen	6-o-desmethylnaproxen 6-glucuronide	Biochemical Reaction	UGT1A1, UGT1A9	Gene	hepatocyte	16187975				Biochemical reaction from desmethylnaproxen to desmethylnaproxen glucuronide. This interaction can be catalyzed by UGT1A1 or UGT1A9.

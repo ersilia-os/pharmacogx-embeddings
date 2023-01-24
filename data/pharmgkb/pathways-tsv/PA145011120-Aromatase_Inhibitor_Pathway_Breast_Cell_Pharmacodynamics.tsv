@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+Androstenedione	Estrone	Biochemical Reaction	CYP19A1	Catalysis	cell	12700178	CYP19A1		
+Androstenedione	Testosterone	Biochemical Reaction	HSD17B1	Catalysis	cell	12700178	HSD17B1		
+CYP19A1	CYP19A1	Biochemical Reaction	anastrozole,exemestane,letrozole	Control	cell	11821457,15939586,9748124	CYP19A1	"letrozole","exemestane","anastrozole"	
+Estradiol		Biochemical Reaction	ESR1,ESR2	Catalysis	mammary epithelial cell	14668813	"ESR1","ESR2"		
+Estrone	Estradiol	Biochemical Reaction	HSD17B1	Catalysis	cell	12700178	HSD17B1		
+Testosterone	Estradiol	Biochemical Reaction	CYP19A1	Catalysis	cell	12700178	CYP19A1		
+Estradiol	Estradiol	Transport			"mammary epithelial cell","cell"				
+Estrone	Estrone	Transport			"mammary epithelial cell","cell"				

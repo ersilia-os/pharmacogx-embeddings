@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+pimozide	6-hydroxypimozide	Biochemical Reaction	CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	32847865		pimozide		Biochemical reaction from pimozide to 6-hydroxypimozide. This interaction can be catalyzed by CYP2D6, CYP3A4 or CYP3A5.
+pimozide	DHPBI	Biochemical Reaction	CYP3A4, CYP3A7	Gene	hepatocyte	32847865, 9580580		pimozide		Biochemical reaction from pimozide to DHPBI. This interaction can be catalyzed by CYP3A4 or CYP3A7.
+pimozide	5-hydroxypimozide	Biochemical Reaction	CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	32847865		pimozide		Biochemical reaction from pimozide to 5-hydroxypimozide. This interaction can be catalyzed by CYP3A5, CYP2D6 or CYP3A4.
+pimozide	pimozide	Transport	ABCB1	Gene	hepatocyte, null	33119612		pimozide		Transport from pimozide to pimozide. This interaction is catalyzed by ABCB1.

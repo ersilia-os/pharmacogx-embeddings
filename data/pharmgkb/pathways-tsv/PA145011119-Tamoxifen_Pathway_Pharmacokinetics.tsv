@@ -1,0 +1,23 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+4-OH tamoxifen	4-OH tamoxifen sulfate	Biochemical Reaction	SULT1A1,SULT1E1,SULT2A1	Catalysis	hepatocyte	22041137	"SULT1A1","SULT1E1","SULT2A1"		
+4-OH tamoxifen	4-OH tamoxifen-N-glucuronide	Biochemical Reaction	UGT1A3,UGT1A4	Catalysis	hepatocyte		"UGT1A4","UGT1A3"		
+4-OH tamoxifen	4-OH tamoxifen-O-glucuronide	Biochemical Reaction	UGT1A10,UGT1A4,UGT1A8,UGT2B15,UGT2B7	Catalysis	hepatocyte	22041137	"UGT1A10","UGT2B15","UGT1A4","UGT1A8","UGT2B7"		
+4-OH tamoxifen	endoxifen	Biochemical Reaction	CYP2C19,CYP2D6,CYP3A4,CYP3A5	Catalysis	hepatocyte	15159443,15632378	"CYP2D6","CYP2C19","CYP3A4","CYP3A5"		
+alpha-OH tamoxifen	alpha-OH tamoxifen O-glucuronide	Biochemical Reaction			hepatocyte	11023543			
+endoxifen	Endoxifen O-Glucuronide	Biochemical Reaction	UGT1A10,UGT1A8,UGT2B7	Catalysis	hepatocyte	22041137	"UGT1A10","UGT1A8","UGT2B7"		
+endoxifen	Endoxifen Sulfate	Biochemical Reaction	SULT1A1	Catalysis	hepatocyte	22041137	SULT1A1		
+endoxifen	norendoxifen	Biochemical Reaction			hepatocyte	21814747			
+metabolite E	metabolite E glucuronide	Biochemical Reaction		Catalysis	hepatocyte	20565970			
+metabolite E	metabolite E sulfate	Biochemical Reaction	SULT1A1,SULT1E1	Catalysis	hepatocyte	20565970	"SULT1A1","SULT1E1"		
+metabolite Y	metabolite E	Biochemical Reaction			hepatocyte				
+N, N-didesmethyl tamoxifen	metabolite Y	Biochemical Reaction			hepatocyte				
+N-desmethyl tamoxifen	4'-OH-N-desmethyltamoxifen	Biochemical Reaction			hepatocyte	22041137			
+N-desmethyl tamoxifen	endoxifen	Biochemical Reaction	CYP2D6	Catalysis	hepatocyte	15159443,15632378	CYP2D6		
+N-desmethyl tamoxifen	N, N-didesmethyl tamoxifen	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte	15159443	"CYP3A4","CYP3A5"		
+tamoxifen	4'-OH tamoxifen	Biochemical Reaction	CYP2B6,CYP2D6	Catalysis	hepatocyte	22041137	"CYP2B6","CYP2D6"	tamoxifen	
+tamoxifen	4-OH tamoxifen	Biochemical Reaction	CYP2B6,CYP2C19,CYP2C9,CYP2D6,CYP3A4,CYP3A5	Catalysis	hepatocyte	15159443	"CYP2C9","CYP2B6","CYP2D6","CYP2C19","CYP3A4","CYP3A5"	tamoxifen	
+tamoxifen	alpha-OH tamoxifen	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte	22041137	CYP3A4	tamoxifen	
+tamoxifen	N-desmethyl tamoxifen	Biochemical Reaction	CYP1A2,CYP2C19,CYP2C9,CYP2D6,CYP3A4,CYP3A5	Catalysis	hepatocyte	15159443	"CYP2C9","CYP2D6","CYP1A2","CYP2C19","CYP3A4","CYP3A5"	tamoxifen	
+tamoxifen	tamoxifen-N-glucuronide	Biochemical Reaction	UGT1A4	Catalysis	hepatocyte	22041137	UGT1A4	tamoxifen	
+tamoxifen	tamoxifen-N-oxide	Biochemical Reaction	FMO1,FMO3	Catalysis	hepatocyte	15987777	"FMO1","FMO3"	tamoxifen	
+tamoxifen-N-oxide	tamoxifen	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte	15987777	CYP3A4	tamoxifen	

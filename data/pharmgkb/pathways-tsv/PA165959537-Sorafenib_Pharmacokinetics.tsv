@@ -1,0 +1,13 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+CYP2B6	CYP2B6	Biochemical Reaction	sorafenib	Control	hepatocyte	19228077	CYP2B6	sorafenib	
+CYP2C8	CYP2C8	Biochemical Reaction	sorafenib	Control	hepatocyte	19228077	CYP2C8	sorafenib	
+CYP2C9	CYP2C9	Biochemical Reaction	sorafenib	Control	hepatocyte	19228077	CYP2C9	sorafenib	
+M3	M1	Biochemical Reaction			hepatocyte	16133532			
+M4	M5	Biochemical Reaction			hepatocyte	16133532			
+Pyridine N-oxide (M2)	M1	Biochemical Reaction			hepatocyte	16133532			
+sorafenib	glucuronide of sorafinib	Biochemical Reaction	UGT1A9	Catalysis	hepatocyte	16133532,22307138	UGT1A9	sorafenib	
+sorafenib	M3	Biochemical Reaction			hepatocyte	16133532		sorafenib	
+sorafenib	M4	Biochemical Reaction			hepatocyte	16133532		sorafenib	
+UGT1A1	UGT1A1	Biochemical Reaction	sorafenib	Control	hepatocyte	19228077,22307138	UGT1A1	sorafenib	
+sorafenib	Pyridine N-oxide (M2)	Biochemical Reaction	CYP3A4	Catalysis	hepatocyte	19228077	CYP3A4	sorafenib	
+Pyridine N-oxide (M2)	glucuronide of M2	Biochemical Reaction			hepatocyte	19228077			

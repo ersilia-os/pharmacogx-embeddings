@@ -1,0 +1,20 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+Complex: ABCC8_KCNJ11(ABCC8, KCNJ11)	Complex: ABCC8_KCNJ11(ABCC8, KCNJ11)	Biochemical Reaction	ATP,nateglinide,repaglinide,sulfonamides, urea derivatives	Control	type B pancreatic cell	10773014,11728565,11742410	"KCNJ11","ABCC8"	"repaglinide","nateglinide","sulfonamides, urea derivatives"	
+AKT1	AKT1	Biochemical Reaction	PIK3C2A,PIK3CA,PIK3CB,PIK3CD,PIK3CG,PIK3R1,PIK3R2,PIK3R3,PIK3R5	Control	type B pancreatic cell	11742410	"PIK3CA","AKT1","PIK3CD","PIK3R3","PIK3R2","PIK3CB","PIK3R1","PIK3C2A","PIK3CG","PIK3R5"		
+Glucose	Glucose-6-P	Biochemical Reaction	GCK	Catalysis	type B pancreatic cell	11742410	GCK		
+HNF1A	HNF1A	Biochemical Reaction	AKT1	Control	type B pancreatic cell	11742410	"AKT1","HNF1A"		
+HNF1B	HNF1B	Biochemical Reaction	AKT1	Control	type B pancreatic cell	11742410	"AKT1","HNF1B"		
+HNF4A	HNF4A	Biochemical Reaction	AKT1	Control	type B pancreatic cell	11742410	"HNF4A","AKT1"		
+ISL1	ISL1	Biochemical Reaction	AKT1	Control	type B pancreatic cell	11742410	"AKT1","ISL1"		
+MAFA	MAFA	Biochemical Reaction	AKT1	Control	type B pancreatic cell	11742410	"AKT1","MAFA"		
+NEUROD1	NEUROD1	Biochemical Reaction	AKT1	Control	type B pancreatic cell	11742410	"NEUROD1","AKT1"		
+PDX1	PDX1	Biochemical Reaction	AKT1	Control	type B pancreatic cell	11742410	"PDX1","AKT1"		
+PIK3C2A,PIK3CA,PIK3CB,PIK3CD,PIK3CG,PIK3R1,PIK3R2,PIK3R3,PIK3R5	PIK3C2A,PIK3CA,PIK3CB,PIK3CD,PIK3CG,PIK3R1,PIK3R2,PIK3R3,PIK3R5	Biochemical Reaction	Complex: INSR_IRS1_IRS2(INSR, IRS1, IRS2)	Control	type B pancreatic cell	11742410	"PIK3CA","IRS1","INSR","PIK3CD","PIK3R3","PIK3R2","IRS2","PIK3CB","PIK3R1","PIK3C2A","PIK3CG","PIK3R5"		
+CACNA1A,CACNA1C,CACNA1D	CACNA1A,CACNA1C,CACNA1D	Biochemical Reaction	Complex: ABCC8_KCNJ11(ABCC8, KCNJ11)	Control	type B pancreatic cell		"KCNJ11","ABCC8","CACNA1A","CACNA1D","CACNA1C"		
+INS	Complex: INSR_IRS1_IRS2(INSR, IRS1, IRS2)	Complex Assembly			type B pancreatic cell	11742410	"IRS1","INSR","IRS2","INS"		
+Glucose-6-P	ATP,pyruvate	Biochemical Reaction			type B pancreatic cell	11742410			
+pyruvate	ATP,CO2	Biochemical Reaction			type B pancreatic cell	11742410			
+Ca++	Ca++	Transport	CACNA1A,CACNA1C,CACNA1D	Catalysis	type B pancreatic cell	15585596	"CACNA1A","CACNA1D","CACNA1C"		
+Glucose	Glucose	Transport	SLC2A2	Catalysis	type B pancreatic cell	11742410	SLC2A2		
+INS	INS	Transport	Ca++	Control	type B pancreatic cell		INS		
+K+	K+	Transport	Complex: ABCC8_KCNJ11(ABCC8, KCNJ11)	Catalysis	type B pancreatic cell		"KCNJ11","ABCC8"		

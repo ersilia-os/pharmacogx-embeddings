@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+4'-hydroxyclobazam	4'-hydroxy-n-desmethylclobazam	Biochemical Reaction	CYP2B6, CYP2C9, CYP3A4	Gene	hepatocyte	15483195, 35204		4'-hydroxy-n-desmethylclobazam, 4'-hydroxyclobazam		Biochemical reaction from 4'-hydroxyclobazam to 4'-hydroxy-n-desmethylclobazam. This interaction can be catalyzed by CYP2B6, CYP3A4 or CYP2C9.
+clobazam	norclobazam	Biochemical Reaction	CYP2B6, CYP2C19, CYP3A4	Gene	hepatocyte	15483195, 35204		clobazam, norclobazam		Biochemical reaction from clobazam to norclobazam. This interaction can be catalyzed by CYP2B6, CYP2C19 or CYP3A4.
+clobazam	4'-hydroxyclobazam	Biochemical Reaction	CYP2C18, CYP2C19	Gene	hepatocyte	15483195, 35204		4'-hydroxyclobazam, clobazam		Biochemical reaction from clobazam to 4'-hydroxyclobazam. This interaction can be catalyzed by CYP2C19 or CYP2C18.
+norclobazam	4'-hydroxy-n-desmethylclobazam	Biochemical Reaction	CYP2C18, CYP2C19	Gene	hepatocyte	15483195, 35204		4'-hydroxy-n-desmethylclobazam, norclobazam		Biochemical reaction from norclobazam to 4'-hydroxy-n-desmethylclobazam. This interaction can be catalyzed by CYP2C19 or CYP2C18.
+norclobazam	Benzodiazepine Pathway, Pharmacodynamics	Leads To			hepatocyte, null	8764810		norclobazam		norclobazam leads to Benzodiazepine Pathway, Pharmacodynamics.
+clobazam	Benzodiazepine Pathway, Pharmacodynamics	Leads To			hepatocyte, null	8764810		clobazam		clobazam leads to Benzodiazepine Pathway, Pharmacodynamics.

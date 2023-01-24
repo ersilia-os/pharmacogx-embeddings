@@ -1,0 +1,19 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+ABAT	ABAT	Biochemical Reaction	valproic acid	Control	cell	12847559	ABAT	valproic acid	
+ALDH5A1	ALDH5A1	Biochemical Reaction	valproic acid	Control	cell	12847559	ALDH5A1	valproic acid	
+alpha-ketoglutarate	glutamate	Biochemical Reaction	GOT1,GOT1L1,GOT2,GOT2P1,GOT2P2,GOT2L3	Catalysis	cell		"GOT2P2","GOT1L1","GOT1","GOT2L3","GOT2","GOT2P1"		
+alpha-ketoglutarate	succinyl CoA	Biochemical Reaction	OGDH	Catalysis	cell		OGDH		
+CACNA1C,CACNA1D,CACNA1F	CACNA1C,CACNA1D,CACNA1F	Biochemical Reaction	valproic acid	Control	"neuron","cell"	12847559,8387930	"CACNA1D","CACNA1C","CACNA1F"	valproic acid	
+GABA receptors	GABA receptors	Biochemical Reaction	GABA	Control	"neuron","cell"				
+GABA	succinate semialdehyde	Biochemical Reaction	ABAT	Catalysis	cell		ABAT		
+glutamate	GABA	Biochemical Reaction			cell				
+HDAC1	HDAC1	Biochemical Reaction	valproic acid	Control	cell	11473107,11742974	HDAC1	valproic acid	
+HDAC11	HDAC11	Biochemical Reaction	valproic acid	Control	cell	11742974,16121216	HDAC11	valproic acid	
+HDAC9	HDAC9	Biochemical Reaction	valproic acid	Control	cell	11742974,16121216	HDAC9	valproic acid	
+OGDH	OGDH	Biochemical Reaction	valproic acid	Control	cell	12847559	OGDH	valproic acid	
+SCN	SCN	Biochemical Reaction	valproic acid	Control	"neuron","cell"	12847559,8387930		valproic acid	
+succinate semialdehyde	succinate	Biochemical Reaction	ALDH5A1	Catalysis	cell		ALDH5A1		
+succinyl CoA	succinate	Biochemical Reaction	SUCLA2,SUCLA2P,SUCLG1,SUCLG2	Catalysis	cell		"SUCLA2P","SUCLA2","SUCLG2","SUCLG1"		
+calcium	calcium	Transport	CACNA1C,CACNA1D,CACNA1F	Catalysis	neuron		"CACNA1D","CACNA1C","CACNA1F"		
+chloride	chloride	Transport	GABA receptors	Catalysis	neuron				
+sodium	sodium	Transport	SCN	Catalysis	neuron				

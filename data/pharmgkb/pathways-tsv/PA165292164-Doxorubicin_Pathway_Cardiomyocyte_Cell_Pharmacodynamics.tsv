@@ -1,0 +1,30 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+doxorubicinol	ATP5	Activation			cardiac muscle cell	19442138, 2897122				doxorubicinol activates ATP5 (ATP5C1P1, ATP5F1A, ATP5F1B, ATP5F1C, ATP5F1D, ATP5F1E, ATP5ME, ATP5PB, ATP5PD).
+doxorubicin	doxorubicinol	Biochemical Reaction	AKR1A1, AKR1C3, CBR1, CBR3	Gene	cardiac muscle cell	20007405, 18635746, 18616992, 12963485		doxorubicin		Biochemical reaction from doxorubicin to doxorubicinol. This interaction can be catalyzed by CBR3, CBR1, AKR1C3 or AKR1A1.
+doxorubicin	7-deoxydoxorubicinone, reactive oxygen species	Biochemical Reaction			cardiac muscle cell	15169927		doxorubicin		Biochemical reaction from doxorubicin to 7-deoxydoxorubicinone, reactive oxygen species.
+doxorubicin	reactive nitrogen species	Biochemical Reaction	NOS1, NOS2, NOS3	Gene	cardiac muscle cell	15054088, 12591762, 10871338		doxorubicin		Biochemical reaction from doxorubicin to reactive nitrogen species. This interaction can be catalyzed by NOS1, NOS2 or NOS3.
+doxorubicin	reactive oxygen species	Biochemical Reaction	CYBA, NCF4, RAC2	Gene	cardiac muscle cell	17652813, 16330681, 16278810		doxorubicin		Biochemical reaction from doxorubicin to reactive oxygen species. This interaction can be catalyzed by RAC2, CYBA or NCF4.
+dexrazoxane	doxorubicin-Iron (II) complex	Inhibition			cardiac muscle cell	18425895, 15038979, 9777314, 9193323, 9193324		dexrazoxane		dexrazoxane inhibits doxorubicin-Iron (II) complex (doxorubicin, iron(2+)).
+ACO1-Fe2	iron hemostasis [GO:0006879]	Inhibition			cardiac muscle cell	9576481				ACO1-Fe2 (iron(2+), ACO1) inhibits iron hemostasis [GO:0006879].
+dexrazoxane	TOP2B	Inhibition			cardiac muscle cell	19442138	TOP2B	dexrazoxane		dexrazoxane inhibits TOP2B.
+RYR2	calcium hemostasis [GO:0055074]	Inhibition			cardiac muscle cell	19442138, 2897122	RYR2			RYR2 inhibits calcium hemostasis [GO:0055074].
+doxorubicinol	RYR2	Inhibition			cardiac muscle cell	28916620, 25106424	RYR2			doxorubicinol inhibits RYR2.
+dexrazoxane	ACO1-Fe2	Inhibition			cardiac muscle cell	19442138		dexrazoxane		dexrazoxane inhibits ACO1-Fe2 (iron(2+), ACO1).
+doxorubicinol	ACO1	Inhibition			cardiac muscle cell	9576481	ACO1			doxorubicinol inhibits ACO1.
+doxorubicinol	ATP2A2	Inhibition			cardiac muscle cell	25106424	ATP2A2			doxorubicinol inhibits ATP2A2.
+doxorubicin	TOP2B	Inhibition			cardiac muscle cell	19442138	TOP2B	doxorubicin		doxorubicin inhibits TOP2B.
+doxorubicin-Iron (II) complex	iron hemostasis [GO:0006879]	Inhibition			cardiac muscle cell	15038979, 15038980, 9777314, 9576481, 3533644				doxorubicin-Iron (II) complex (doxorubicin, iron(2+)) inhibits iron hemostasis [GO:0006879].
+iron(2+)	ACO1-Fe2	Leads To			cardiac muscle cell	9576481				iron(2+) leads to ACO1-Fe2 (iron(2+), ACO1).
+doxorubicin	doxorubicin-Iron (II) complex	Leads To			cardiac muscle cell	9576481, 3533644		doxorubicin		doxorubicin leads to doxorubicin-Iron (II) complex (doxorubicin, iron(2+)).
+reactive nitrogen species	disruption of nitric oxide [GO:0045019]	Leads To			cardiac muscle cell	15054088				reactive nitrogen species leads to disruption of nitric oxide [GO:0045019].
+ATP5	mitochondrial dysfunction [MEDDRA:10053961]	Leads To			cardiac muscle cell	19442138				ATP5 (ATP5C1P1, ATP5F1A, ATP5F1B, ATP5F1C, ATP5F1D, ATP5F1E, ATP5ME, ATP5PB, ATP5PD) leads to mitochondrial dysfunction [MEDDRA:10053961].
+AKR1A1	doxorubicin-Iron (II) complex	Leads To			cardiac muscle cell	9576481	AKR1A1			AKR1A1 leads to doxorubicin-Iron (II) complex (doxorubicin, iron(2+)).
+calcium	calcium hemostasis [GO:0055074]	Leads To			cardiac muscle cell	2897122				calcium leads to calcium hemostasis [GO:0055074].
+CYCS	mitochondrial dysfunction [MEDDRA:10053961]	Leads To			cardiac muscle cell	12894526	CYCS			CYCS leads to mitochondrial dysfunction [MEDDRA:10053961].
+calcium hemostasis [GO:0055074]	mitochondrial dysfunction [MEDDRA:10053961]	Leads To			cardiac muscle cell	7527602				calcium hemostasis [GO:0055074] leads to mitochondrial dysfunction [MEDDRA:10053961].
+ACO1	ACO1-Fe2	Leads To			cardiac muscle cell	9576481	ACO1			ACO1 leads to ACO1-Fe2 (iron(2+), ACO1).
+reactive oxygen species	mitochondrial dysfunction [MEDDRA:10053961]	Leads To			cardiac muscle cell	17652813, 16330681, 16278810				reactive oxygen species leads to mitochondrial dysfunction [MEDDRA:10053961].
+doxorubicinol	mitochondrial dysfunction [MEDDRA:10053961]	Leads To			cardiac muscle cell	7527602				doxorubicinol leads to mitochondrial dysfunction [MEDDRA:10053961].
+CYCS	CYCS	Transport			cardiac muscle cell	12894526	CYCS			Transport from CYCS to CYCS.
+calcium	calcium	Transport	ATP2A2	Gene	cardiac muscle cell	7527602				Transport from calcium to calcium. This interaction is catalyzed by ATP2A2.
+doxorubicin	doxorubicin	Transport			cardiac muscle cell	12894526, 3456345, 3005279		doxorubicin		Transport from doxorubicin to doxorubicin.

@@ -1,0 +1,11 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+adefovir dipivoxil	adefovir dipivoxil	Biochemical Reaction	AK2,AK4	Catalysis	cell	8619586,9517941	"AK2","AK4"	adefovir dipivoxil	
+adefovir dipivoxil	adefovir dipivoxil	Biochemical Reaction	NME1,NME2	Catalysis	cell	8619586,9517941	"NME2","NME1"	adefovir dipivoxil	
+HepB-RT	HepB-RT	Biochemical Reaction	adefovir dipivoxil	Control	cell			adefovir dipivoxil	
+HIV-RT	HIV-RT	Biochemical Reaction	tenofovir	Control	cell			tenofovir	
+tenofovir	tenofovir	Biochemical Reaction	AK2,AK4	Catalysis	cell	8619586,9517941	"AK2","AK4"	tenofovir	
+tenofovir	tenofovir	Biochemical Reaction	NME1,NME2	Catalysis	cell	8619586,9517941	"NME2","NME1"	tenofovir	
+adefovir dipivoxil	adefovir dipivoxil	Transport	ABCC4	Catalysis	cell	17110501	ABCC4	adefovir dipivoxil	
+adefovir dipivoxil	adefovir dipivoxil	Transport	SLC22A6,SLC26A8	Catalysis	cell	11563082,12462284,17372702	"SLC22A6","SLC26A8"	adefovir dipivoxil	
+tenofovir	tenofovir	Transport	SLC22A6,SLC26A8	Catalysis	cell	11563082,12462284,17372702	"SLC22A6","SLC26A8"	tenofovir	
+tenofovir	tenofovir	Transport	ABCC10,ABCC4	Catalysis	cell	17005808,17110501	"ABCC4","ABCC10"	tenofovir	

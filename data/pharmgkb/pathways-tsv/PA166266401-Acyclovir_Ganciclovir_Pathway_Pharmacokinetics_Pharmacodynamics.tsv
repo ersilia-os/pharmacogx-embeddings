@@ -1,0 +1,18 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+acyclovir triphosphate	acyclovir monophosphate	Biochemical Reaction	NUDT15	Gene	cell	34234136, 16540518				Biochemical reaction from acyclovir triphosphate to acyclovir monophosphate. This interaction is catalyzed by NUDT15.
+acyclovir diphosphate	acyclovir triphosphate	Biochemical Reaction			cell	7159465				Biochemical reaction from acyclovir diphosphate to acyclovir triphosphate.
+aciclovir	acyclovir aldehyde	Biochemical Reaction	ADH1A	Gene	cell	7102704		acyclovir		Biochemical reaction from acyclovir to acyclovir aldehyde. This interaction is catalyzed by ADH1A.
+aciclovir	acyclovir monophosphate	Biochemical Reaction			cell	6285736		acyclovir		Biochemical reaction from acyclovir to acyclovir monophosphate.
+ganciclovir	Ganciclovir Monophosphate	Biochemical Reaction			cell	1319559		ganciclovir		Biochemical reaction from ganciclovir to Ganciclovir Monophosphate.
+acyclovir monophosphate	acyclovir diphosphate	Biochemical Reaction	GUK1	Gene	cell	6285736				Biochemical reaction from acyclovir monophosphate to acyclovir diphosphate. This interaction is catalyzed by GUK1.
+Ganciclovir Monophosphate	ganciclovir diphosphate	Biochemical Reaction	GUK1	Gene	cell	16690197				Biochemical reaction from Ganciclovir Monophosphate to ganciclovir diphosphate. This interaction is catalyzed by GUK1.
+acyclovir aldehyde	carboxymethoxymethylguanine	Biochemical Reaction	ALDH2	Gene	cell	16540518				Biochemical reaction from acyclovir aldehyde to carboxymethoxymethylguanine. This interaction is catalyzed by ALDH2.
+aciclovir	8-hydroxyacyclovir	Biochemical Reaction	AOX1	Gene	cell	7102704		acyclovir		Biochemical reaction from acyclovir to 8-hydroxyacyclovir. This interaction is catalyzed by AOX1.
+ganciclovir triphosphate	Ganciclovir Monophosphate	Biochemical Reaction	NUDT15	Gene	cell	34234136, 16540518				Biochemical reaction from ganciclovir triphosphate to Ganciclovir Monophosphate. This interaction is catalyzed by NUDT15.
+ganciclovir diphosphate	ganciclovir triphosphate	Biochemical Reaction			cell	11465876				Biochemical reaction from ganciclovir diphosphate to ganciclovir triphosphate.
+acyclovir triphosphate	Viral DNA Polymerase	Inhibition			cell	8786764, 2553730, 6285736, 7192534				acyclovir triphosphate inhibits Viral DNA Polymerase.
+ganciclovir triphosphate	Viral DNA Polymerase	Inhibition			cell	8786764, 2553730, 6285736, 7192534				ganciclovir triphosphate inhibits Viral DNA Polymerase.
+ganciclovir	ganciclovir	Transport	ABCC4, SLC47A1, SLC47A2	Gene	cell, null	27402191, 17509534, 12105214		ganciclovir		Transport from ganciclovir to ganciclovir. This interaction can be catalyzed by SLC47A2, SLC47A1 or ABCC4.
+aciclovir	aciclovir	Transport	ABCG2, SLC47A1, SLC47A2	Gene	cell, null	21859328, 17509534		acyclovir		Transport from acyclovir to acyclovir. This interaction can be catalyzed by SLC47A1, SLC47A2 or ABCG2.
+aciclovir	aciclovir	Transport	SLC22A1, SLC22A6, SLC22A7, SLC22A8	Gene	null, cell	28179375, 23744435, 22728397, 22190696, 11861798		acyclovir		Transport from acyclovir to acyclovir. This interaction can be catalyzed by SLC22A8, SLC22A1, SLC22A6 or SLC22A7.
+ganciclovir	ganciclovir	Transport	SLC22A1, SLC22A6, SLC22A7	Gene	null, cell	28179375, 23744435, 22728397, 22190696, 11861798		ganciclovir		Transport from ganciclovir to ganciclovir. This interaction can be catalyzed by SLC22A6, SLC22A1 or SLC22A7.

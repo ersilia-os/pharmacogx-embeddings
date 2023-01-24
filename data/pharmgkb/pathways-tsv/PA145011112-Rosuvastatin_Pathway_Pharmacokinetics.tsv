@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+rosuvastatin	rosuvastatin acyl glucuronide	Biochemical Reaction	UGT1A1, UGT1A3	Gene	hepatocyte	26412035, 27128002, 14693307		rosuvastatin		Biochemical reaction from rosuvastatin to rosuvastatin acyl glucuronide. This interaction can be catalyzed by UGT1A3 or UGT1A1.
+rosuvastatin	n-desmethyl rosuvastatin	Biochemical Reaction	CYP2C19, CYP2C9	Gene	hepatocyte	27128002, 14693307, 12451430		rosuvastatin		Biochemical reaction from rosuvastatin to n-desmethyl rosuvastatin. This interaction can be catalyzed by CYP2C9 or CYP2C19.
+rosuvastatin acyl glucuronide	rosuvastatin lactone	Biochemical Reaction			hepatocyte	26412035				Biochemical reaction from rosuvastatin acyl glucuronide to rosuvastatin lactone.
+rosuvastatin	rosuvastatin	Transport	SLCO2B1	Gene	null, enterocyte	34162690		rosuvastatin		Transport from rosuvastatin to rosuvastatin. This interaction is catalyzed by SLCO2B1.
+rosuvastatin	rosuvastatin	Transport	ABCB11, ABCC2, ABCG2	Gene	hepatocyte, null	30100615, 25630984, 18617601, 16415124, 15901796, 14693307		rosuvastatin		Transport from rosuvastatin to rosuvastatin. This interaction can be catalyzed by ABCB11, ABCG2 or ABCC2.
+rosuvastatin	rosuvastatin	Transport	SLC10A1, SLCO1B1, SLCO1B3, SLCO2B1	Gene	null, hepatocyte	32101444, 29212823, 25630984, 18617601, 16697742, 16198652		rosuvastatin		Transport from rosuvastatin to rosuvastatin. This interaction can be catalyzed by SLCO1B1, SLC10A1, SLCO2B1 or SLCO1B3.

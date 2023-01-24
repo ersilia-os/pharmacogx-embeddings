@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+sulfasalazine	mesalazine	Biochemical Reaction			hepatocyte	19560446, 18167504		mesalazine, sulfasalazine		Biochemical reaction from sulfasalazine to mesalazine.
+sulfapyridine	N-acetylsulfapyridine	Biochemical Reaction	NAT2	Gene	hepatocyte	19560446, 18167504		sulfapyridine		Biochemical reaction from sulfapyridine to N-acetylsulfapyridine. This interaction is catalyzed by NAT2.
+sulfasalazine	sulfapyridine	Biochemical Reaction			hepatocyte	19560446, 18167504		sulfapyridine, sulfasalazine		Biochemical reaction from sulfasalazine to sulfapyridine.
+mesalazine	N-acetyl-5-aminosalicylic acid	Biochemical Reaction	NAT1	Gene	hepatocyte	19560446		mesalazine		Biochemical reaction from mesalazine to N-acetyl-5-aminosalicylic acid. This interaction is catalyzed by NAT1.
+sulfapyridine	hydroxysulfapyridine	Biochemical Reaction			hepatocyte	19560446		sulfapyridine		Biochemical reaction from sulfapyridine to hydroxysulfapyridine.
+sulfasalazine	sulfasalazine	Transport	ABCG2	Gene	hepatocyte, null	18167504		sulfasalazine		Transport from sulfasalazine to sulfasalazine. This interaction is catalyzed by ABCG2.

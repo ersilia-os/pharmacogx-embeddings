@@ -1,0 +1,32 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+AKT1	AKT1	Biochemical Reaction	PDK1	Control	cell	12000750	"AKT1","PDK1"		
+arachidonic acid	PGH2	Biochemical Reaction	PTGS1,PTGS2	Catalysis	cell	8969167	"PTGS2","PTGS1"		
+BCAR1	BCAR1	Biochemical Reaction	celecoxib	Control	cell	16353145	BCAR1	celecoxib	
+CACNA1A,CACNA1B,CACNA1C,CACNA1D,CACNA1E,CACNA1F,CACNA1G,CACNA1H,CACNA1I,CACNA1S,CACNA2D1,CACNA2D2,CACNA2D3,CACNA2D4,CACNB1,CACNB2,CACNB3,CACNB4	CACNA1A,CACNA1B,CACNA1C,CACNA1D,CACNA1E,CACNA1F,CACNA1G,CACNA1H,CACNA1I,CACNA1S,CACNA2D1,CACNA2D2,CACNA2D3,CACNA2D4,CACNB1,CACNB2,CACNB3,CACNB4	Biochemical Reaction	celecoxib	Control	cell	17719233,20689646	"CACNA2D1","CACNA1B","CACNA2D3","CACNA1A","CACNA2D2","CACNA1D","CACNA1C","CACNA2D4","CACNA1F","CACNA1E","CACNA1H","CACNA1G","CACNB1","CACNA1I","CACNB2","CACNB3","CACNB4","CACNA1S"	celecoxib	
+CA12,CA9	CA12,CA9	Biochemical Reaction	celecoxib	Control	cell	16134002,16772765,17955049	"CA12","CA9"	celecoxib	
+CASP3	CASP3	Biochemical Reaction	celecoxib	Control	cell	12824303,16550520	CASP3	celecoxib	
+CASP9	CASP9	Biochemical Reaction	celecoxib	Control	cell	12824303	CASP9	celecoxib	
+CDKN1A	CDKN1A	Biochemical Reaction	celecoxib	Control	cell	11606477,12800245,14973068	CDKN1A	celecoxib	
+CDKN1B	CDKN1B	Biochemical Reaction	celecoxib	Control	cell	12800245,14973068	CDKN1B	celecoxib	
+CTNNB1	CTNNB1	Biochemical Reaction	celecoxib	Control	cell	15946992	CTNNB1	celecoxib	
+DDIT3	DDIT3	Biochemical Reaction	celecoxib	Control	cell	17166886	DDIT3	celecoxib	
+IGFBP3	IGFBP3	Biochemical Reaction	celecoxib	Control	cell	15020235	IGFBP3	celecoxib	
+KCNQ1,KCNQ2,KCNQ3,KCNQ4,KCNQ5	KCNQ1,KCNQ2,KCNQ3,KCNQ4,KCNQ5	Biochemical Reaction	celecoxib	Control	cell	19605525,19654224,20858500	"KCNQ1","KCNQ2","KCNQ3","KCNQ4","KCNQ5"	celecoxib	
+MMP9	MMP9	Biochemical Reaction	celecoxib	Control	cell	18080123,19218449	MMP9	celecoxib	
+PDK1	PDK1	Biochemical Reaction	celecoxib	Control	cell	12000750	PDK1	celecoxib	
+PGH2	PGD2	Biochemical Reaction	HPGDS	Catalysis	cell		HPGDS		
+PGH2	PGE2	Biochemical Reaction	PTGES	Catalysis	cell		PTGES		
+PGH2	PGF2	Biochemical Reaction	AKR1C3	Catalysis	cell		AKR1C3		
+PGH2	PGI2	Biochemical Reaction	PTGIS	Catalysis	cell		PTGIS		
+PGH2	TXA2	Biochemical Reaction	TBXAS1	Catalysis	cell		TBXAS1		
+Phospholipid	arachidonic acid	Biochemical Reaction	PLA2G2A,PLA2G4A	Catalysis	cell		"PLA2G2A","PLA2G4A"		
+PPARG	PPARG	Biochemical Reaction	celecoxib	Control	cell	16299255	PPARG	celecoxib	
+PTGDR	PTGDR	Biochemical Reaction	PGD2	Control	cell	11729303	PTGDR		
+PTGER1,PTGER2,PTGER3,PTGER4	PTGER1,PTGER2,PTGER3,PTGER4	Biochemical Reaction	PGE2	Control	cell	11729303	"PTGER4","PTGER1","PTGER2","PTGER3"		
+PTGFR	PTGFR	Biochemical Reaction	PGF2	Control	cell	11729303	PTGFR		
+PTGIR	PTGIR	Biochemical Reaction	PGI2	Control	cell	11729303	PTGIR		
+PTGS1	PTGS1	Biochemical Reaction	antiinflammatory and antirheumatic products, non-steroids	Control	cell	8969167	PTGS1	antiinflammatory and antirheumatic products, non-steroids	
+PTGS2	PTGS2	Biochemical Reaction	antiinflammatory and antirheumatic products, non-steroids,celecoxib	Control	cell	10193998,8969167	PTGS2	"celecoxib","antiinflammatory and antirheumatic products, non-steroids"	
+ATP2A1,ATP2A2,ATP2A3	ATP2A1,ATP2A2,ATP2A3	Biochemical Reaction	celecoxib	Control	cell	12076251	"ATP2A3","ATP2A2","ATP2A1"	celecoxib	
+TBXA2R	TBXA2R	Biochemical Reaction	TXA2	Control	cell	11729303	TBXA2R		
+VEGFA	VEGFA	Biochemical Reaction	celecoxib	Control	cell	15026340	VEGFA	celecoxib	

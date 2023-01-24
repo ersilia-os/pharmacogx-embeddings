@@ -1,0 +1,15 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+nilotinib	nilotinib n-oxide	Biochemical Reaction	CYP3A4	Gene	hepatocyte	21827214, 20702754		nilotinib		Biochemical reaction from nilotinib to nilotinib n-oxide. This interaction is catalyzed by CYP3A4.
+nilotinib	nilotinib carboxylic acid	Biochemical Reaction			hepatocyte	21827214		nilotinib		Biochemical reaction from nilotinib to nilotinib carboxylic acid.
+nilotinib	ABCB1	Inhibition			hepatocyte	18765523	ABCB1	nilotinib		nilotinib inhibits ABCB1.
+nilotinib	PDGFRA	Inhibition			neoplastic cell	18765523	PDGFRA	nilotinib		nilotinib inhibits PDGFRA.
+nilotinib	CYP2C8	Inhibition			hepatocyte	18765523	CYP2C8	nilotinib		nilotinib inhibits CYP2C8.
+nilotinib	PDGFRB	Inhibition			neoplastic cell	18765523	PDGFRB	nilotinib		nilotinib inhibits PDGFRB.
+nilotinib	BCR-ABL	Inhibition			neoplastic cell	18765523, 16000593, 15710326		nilotinib		nilotinib inhibits BCR-ABL (ABL1, BCR).
+nilotinib	KIT	Inhibition			neoplastic cell	18765523	KIT	nilotinib		nilotinib inhibits KIT.
+nilotinib	CYP3A4	Inhibition			hepatocyte	18765523	CYP3A4	nilotinib		nilotinib inhibits CYP3A4.
+nilotinib	CYP2D6	Inhibition			hepatocyte	18765523	CYP2D6	nilotinib		nilotinib inhibits CYP2D6.
+nilotinib	UGT1A1	Inhibition			hepatocyte	18765523	UGT1A1	nilotinib		nilotinib inhibits UGT1A1.
+nilotinib	CYP2C9	Inhibition			hepatocyte	18765523	CYP2C9	nilotinib		nilotinib inhibits CYP2C9.
+nilotinib	nilotinib	Transport	ABCB1, ABCG2	Gene	hepatocyte, null	19785662, 18765523		nilotinib		Transport from nilotinib to nilotinib. This interaction can be catalyzed by ABCG2 or ABCB1.
+nilotinib	nilotinib	Transport			null, neoplastic cell	21827214		nilotinib		Transport from nilotinib to nilotinib.

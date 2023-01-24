@@ -1,0 +1,159 @@
+{
+  "citations": [
+    {
+      "id": 15139382,
+      "title": "Dutch pharmacogenetics working group (DPWG) guideline for the gene-drug interaction of CYP2D6 and COMT with atomoxetine and methylphenidate.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/36509836",
+      "authors": [
+        "Nijenhuis Marga",
+        "Soree Bianca",
+        "Jama Wafa O M",
+        "de Boer-Veger Nienke J",
+        "Buunk Anne Marie",
+        "Guchelaar Henk-Jan",
+        "Houwink Elisa J F",
+        "Rongen Gerard A",
+        "van Schaik Ron H N",
+        "Swen Jesse J",
+        "Touw Daan",
+        "van der Weide Jan",
+        "van Westrhenen Roos",
+        "Deneer Vera H M",
+        "Risselada Arne"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451967460,
+          "resource": "PubMed",
+          "resourceId": "36509836",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/36509836",
+          "version": 0
+        },
+        {
+          "id": 1451967461,
+          "resource": "DOI",
+          "resourceId": "10.1038/s41431-022-01262-z",
+          "_url": "http://dx.doi.org/10.1038%2Fs41431-022-01262-z",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "European journal of human genetics : EJHG",
+      "meshDiseases": [],
+      "meshTerms": [],
+      "month": 12,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2022-12-01T00:00:00-08:00",
+      "summary": "Pharmacogenetics (PGx) studies the effect of heritable genetic variation on drug response. Clinical adoption of PGx has remained limited, despite progress in the field. To promote implementation, the Dutch Pharmacogenetics Working Group (DPWG) develops evidence-based guidelines on how to optimize pharmacotherapy based on PGx test results. This guideline describes optimization of atomoxetine therapy based on genetic variation in the CYP2D6 gene. The CYP2D6 enzyme is involved in conversion of atomoxetine into the metabolite 4-hydroxyatomoxetine. With decreasing CYP2D6 enzyme activity, the exposure to atomoxetine and the risk of atomoxetine induced side effects increases. So, for patients with genetically absent CYP2D6 enzyme activity (CYP2D6 poor metabolisers), the DPWG recommends to start with the normal initial dose, bearing in mind that increasing this dose probably will not be required. In case of side effects and/or a late response, the DPWG recommends to reduce the dose and check for sustained effectiveness for both poor metabolisers and patients with genetically reduced CYP2D6 enzyme activity (CYP2D6 intermediate metabolisers). Extra vigilance for ineffectiveness is required in patients with genetically increased CYP2D6 enzyme activity (CYP2D6 ultra-rapid metabolisers). No interaction was found between the CYP2D6 and COMT genes and methylphenidate. In addition, no interaction was found between CYP2D6 and clonidine, confirming the suitability of clonidine as a possible alternative for atomoxetine in variant CYP2D6 metabolisers. The DPWG classifies CYP2D6 genotyping as being \"potentially beneficial\" for atomoxetine. CYP2D6 testing prior to treatment can be considered on an individual patient basis.",
+      "terms": [
+        {"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}
+      ],
+      "version": 2,
+      "year": 2022
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166182808",
+    "name": "Annotation of DPWG Guideline for methylphenidate and CYP2D6",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1450414901,
+        "date": "2019-05-22T00:00:00-07:00",
+        "description": "Annotation current with November 2018 DPWG Guideline release",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450820956,
+        "date": "2019-10-07T14:12:34.331-07:00",
+        "description": "No changes based on August 2019 guideline",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450963640,
+        "date": "2020-02-11T06:37:16.484-08:00",
+        "description": "Fixed links to 2018 guideline pdfs.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451704246,
+        "date": "2022-03-03T16:33:34.203-08:00",
+        "description": "Annotation current with May 2021 DPWG Guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451732886,
+        "date": "2022-03-28T09:57:48.320-07:00",
+        "description": "Annotation current with February 2022 DPWG guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451884404,
+        "date": "2022-09-16T10:32:15.775-07:00",
+        "description": "Fixed link to gene information document and added explanatory note",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451968224,
+        "date": "2022-12-19T08:27:40.581-08:00",
+        "description": "Added 2022 guideline paper.",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15139382,"title":"Dutch pharmacogenetics working group (DPWG) guideline for the gene-drug interaction of CYP2D6 and COMT with atomoxetine and methylphenidate.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/36509836","crossReferences":[{"id":1451967460,"resource":"PubMed","resourceId":"36509836","_url":"https://www.ncbi.nlm.nih.gov/pubmed/36509836"},{"id":1451967461,"resource":"DOI","resourceId":"10.1038/s41431-022-01262-z","_url":"http://dx.doi.org/10.1038%2Fs41431-022-01262-z"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15103288,"title":"Dutch Pharmacogenetics Working Group Guidelines August 2019","_sameAs":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf","crossReferences":[{"id":1450815695,"resource":"URL","resourceId":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf","_url":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf"}],"objCls":"Literature","terms":[]},
+      {"id":15102465,"title":"Dutch Pharmacogenetics Working Group Guidelines November 2018","_sameAs":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_November_2018.pdf","crossReferences":[{"id":1450415575,"resource":"URL","resourceId":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_November_2018.pdf","_url":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_November_2018.pdf"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": false,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA450464",
+        "name": "methylphenidate",
+        "version": 7
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA128",
+        "symbol": "CYP2D6",
+        "name": "cytochrome P450 family 2 subfamily D member 6",
+        "version": 7890
+      }
+    ],
+    "source": "DPWG",
+    "summaryMarkdown": {
+      "id": 1450414898,
+      "html": "<p>There are currently no dosing recommendations for methylphenidate based on CYP2D6 genotype.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1450414899,
+      "html": "<h3 id=\"dutch-pharmacogenetics-working-group-dpwg-guideline-for-the-gene-drug-interaction-of-cyp2d6-and-comt-with-atomoxetine-and-methylphenidate\">Dutch pharmacogenetics working group (DPWG) guideline for the gene-drug interaction of CYP2D6 and COMT with atomoxetine and methylphenidate</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group published a paper concluding after systematic literature review that &quot;No interaction was found between the CYP2D6 and COMT genes and methylphenidate&quot; <a href=\"/literature/15139382\">PMID: 36509836</a>.</p>\n<h3 id=\"november-2018-guideline\">November 2018 Guideline</h3>\n<p><em><strong>IMPORTANT: As of March 2022, gene information documents from the DPWG are no longer publicly available from the KNMP website. PharmGKB is currently providing PDF versions of these documents to users. These files were downloaded in February 2022. As such, we cannot guarantee that these documents match the mappings DPWG may use internally as there have been no publicly accessible updates since February 2022.</strong></em></p>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group has evaluated therapeutic dose recommendations for methylphenidate based on CYP2D6 genotypes. They conclude that there is not a gene-drug interaction. <em>See the <a download=\"DPWG_November_2018.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/DPWG_November_2018.pdf\">Dutch guidelines November 2018 update</a></em>.</p>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0002528.PDF\" target=\"_blank\">Read for more information about this recommendation</a>, <a download=\"CYP2D6.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/CYP2D6.pdf\">Read about gene information from DPWG</a></p>\n",
+      "version": 4
+    },
+    "userId": "carrillo",
+    "version": 8
+  }
+}

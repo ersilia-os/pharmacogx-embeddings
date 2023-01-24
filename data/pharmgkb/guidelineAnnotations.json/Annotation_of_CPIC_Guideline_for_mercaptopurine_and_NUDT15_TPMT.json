@@ -1,0 +1,1468 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166104945",
+    "name": "Annotation of CPIC Guideline for mercaptopurine and NUDT15, TPMT",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983453,
+        "name": "CPIC® Guideline for Thiopurines and TPMT and NUDT15 – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "YQD8lTJw43A",
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1451217961,
+        "alleles": [
+          {
+            "id": 1451217980,
+            "_label": "*1",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166131619",
+              "symbol": "NUDT15*1",
+              "name": "*1",
+              "version": 7
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217981,
+            "_label": "*2",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166131620",
+              "symbol": "NUDT15*2",
+              "name": "*2",
+              "version": 6
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217982,
+            "_label": "*3",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166131621",
+              "symbol": "NUDT15*3",
+              "name": "*3",
+              "version": 6
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217983,
+            "_label": "*4",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166131622",
+              "symbol": "NUDT15*4",
+              "name": "*4",
+              "version": 6
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217984,
+            "_label": "*5",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166131623",
+              "symbol": "NUDT15*5",
+              "name": "*5",
+              "version": 6
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217985,
+            "_label": "*6",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166151814",
+              "symbol": "NUDT15*6",
+              "name": "*6",
+              "version": 5
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217986,
+            "_label": "*7",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166215985",
+              "symbol": "NUDT15*7",
+              "name": "*7",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217987,
+            "_label": "*8",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166215986",
+              "symbol": "NUDT15*8",
+              "name": "*8",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217988,
+            "_label": "*9",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166215987",
+              "symbol": "NUDT15*9",
+              "name": "*9",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217989,
+            "_label": "Unknown",
+            "allele": "Unknown",
+            "function": {
+              "id": 1445558512,
+              "description": "for amitriptyline guideline to enter only one CYP gene while the second CYP is set \"Unknown\"",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown",
+              "termId": "haplotypeTags:1445558512",
+              "version": 0
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA134963132",
+          "symbol": "NUDT15",
+          "name": "nudix hydrolase 15",
+          "alleleFile": "NUDT15_allele_definition_table.xlsx",
+          "altNames": {
+            "synonym": [
+              "nudix (nucleoside diphosphate linked moiety X)-type motif 15"
+            ],
+            "symbol": [
+              "FLJ10956",
+              "MTH2"
+            ]
+          },
+          "buildVersion": "GRCh38",
+          "cbStart": "q14.2",
+          "cbStop": "q14.2",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA510",
+            "name": "chr13",
+            "version": 3
+          },
+          "chrStartPosB37": 48611862,
+          "chrStartPosB38": 48037726,
+          "chrStopPosB37": 48626891,
+          "chrStopPosB38": 48052755,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 132264604,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000136159",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000136159",
+              "version": 0
+            },
+            {
+              "id": 981193124,
+              "resource": "GeneCard",
+              "resourceId": "NUDT15",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=NUDT15",
+              "version": 0
+            },
+            {
+              "id": 608068286,
+              "resource": "HGNC",
+              "resourceId": "HGNC:23063",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A23063",
+              "version": 1
+            },
+            {
+              "id": 608068289,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS13617",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS13617",
+              "version": 0
+            },
+            {
+              "id": 560880264,
+              "resource": "ModBase",
+              "resourceId": "Q9NV35",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9NV35",
+              "version": 0
+            },
+            {
+              "id": 77847917,
+              "resource": "NCBI Gene",
+              "resourceId": "55270",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/55270",
+              "version": 0
+            },
+            {
+              "id": 1451669414,
+              "resource": "PharmVar Gene",
+              "resourceId": "NUDT15",
+              "_url": "https://www.pharmvar.org/gene/NUDT15",
+              "version": 0
+            },
+            {
+              "id": 1451144184,
+              "name": "NG_047021.1",
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_047021.1",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_047021.1",
+              "version": 0
+            },
+            {
+              "id": 77847918,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_060753",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_060753",
+              "version": 0
+            },
+            {
+              "id": 77847923,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_018283",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_018283",
+              "version": 0
+            },
+            {
+              "id": 77847915,
+              "name": "NUD15_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "Q9NV35",
+              "_url": "https://www.uniprot.org/uniprot/Q9NV35",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": false,
+          "pharmVarGene": true,
+          "strand": "plus",
+          "terms": [
+            {"id":560495444,"_url":"http://amigo.geneontology.org/amigo/term/GO:0000287","resource":"Gene Ontology","term":"magnesium ion binding","termId":"GO:0000287"},
+            {"id":560498127,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016787","resource":"Gene Ontology","term":"hydrolase activity","termId":"GO:0016787"},
+            {"id":560510123,"_url":"http://amigo.geneontology.org/amigo/term/GO:0030145","resource":"Gene Ontology","term":"manganese ion binding","termId":"GO:0030145"},
+            {"id":560495445,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046872","resource":"Gene Ontology","term":"metal ion binding","termId":"GO:0046872"}
+          ],
+          "version": 10
+        },
+        "version": 0
+      },
+      {
+        "id": 1449560721,
+        "alleles": [
+          {
+            "id": 1449560722,
+            "_label": "*1",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819268",
+              "symbol": "TPMT*1",
+              "name": "*1",
+              "version": 16
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560724,
+            "_label": "*2",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819269",
+              "symbol": "TPMT*2",
+              "name": "*2",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560725,
+            "_label": "*3A",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819270",
+              "symbol": "TPMT*3A",
+              "name": "*3A",
+              "version": 15
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560726,
+            "_label": "*3B",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819271",
+              "symbol": "TPMT*3B",
+              "name": "*3B",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560727,
+            "_label": "*3C",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819272",
+              "symbol": "TPMT*3C",
+              "name": "*3C",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560728,
+            "_label": "*4",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819274",
+              "symbol": "TPMT*4",
+              "name": "*4",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560729,
+            "_label": "*5",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819275",
+              "symbol": "TPMT*5",
+              "name": "*5",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560730,
+            "_label": "*6",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819276",
+              "symbol": "TPMT*6",
+              "name": "*6",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560731,
+            "_label": "*7",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819277",
+              "symbol": "TPMT*7",
+              "name": "*7",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560732,
+            "_label": "*8",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819278",
+              "symbol": "TPMT*8",
+              "name": "*8",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560733,
+            "_label": "*9",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819279",
+              "symbol": "TPMT*9",
+              "name": "*9",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560734,
+            "_label": "*10",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819280",
+              "symbol": "TPMT*10",
+              "name": "*10",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560735,
+            "_label": "*11",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819281",
+              "symbol": "TPMT*11",
+              "name": "*11",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560736,
+            "_label": "*12",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819282",
+              "symbol": "TPMT*12",
+              "name": "*12",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560737,
+            "_label": "*13",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819283",
+              "symbol": "TPMT*13",
+              "name": "*13",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560738,
+            "_label": "*14",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819284",
+              "symbol": "TPMT*14",
+              "name": "*14",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560739,
+            "_label": "*15",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819285",
+              "symbol": "TPMT*15",
+              "name": "*15",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560740,
+            "_label": "*16",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819286",
+              "symbol": "TPMT*16",
+              "name": "*16",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560741,
+            "_label": "*17",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819287",
+              "symbol": "TPMT*17",
+              "name": "*17",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560742,
+            "_label": "*18",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819288",
+              "symbol": "TPMT*18",
+              "name": "*18",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560743,
+            "_label": "*19",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166005216",
+              "symbol": "TPMT*19",
+              "name": "*19",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560744,
+            "_label": "*20",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819290",
+              "symbol": "TPMT*20",
+              "name": "*20",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560745,
+            "_label": "*21",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819291",
+              "symbol": "TPMT*21",
+              "name": "*21",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560746,
+            "_label": "*22",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819292",
+              "symbol": "TPMT*22",
+              "name": "*22",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560747,
+            "_label": "*23",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819293",
+              "symbol": "TPMT*23",
+              "name": "*23",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560748,
+            "_label": "*24",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819295",
+              "symbol": "TPMT*24",
+              "name": "*24",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560749,
+            "_label": "*25",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165819296",
+              "symbol": "TPMT*25",
+              "name": "*25",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560750,
+            "_label": "*26",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166005217",
+              "symbol": "TPMT*26",
+              "name": "*26",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560751,
+            "_label": "*27",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166005218",
+              "symbol": "TPMT*27",
+              "name": "*27",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560752,
+            "_label": "*28",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166005219",
+              "symbol": "TPMT*28",
+              "name": "*28",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560753,
+            "_label": "*29",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166005220",
+              "symbol": "TPMT*29",
+              "name": "*29",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560754,
+            "_label": "*30",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166005221",
+              "symbol": "TPMT*30",
+              "name": "*30",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560755,
+            "_label": "*31",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166005222",
+              "symbol": "TPMT*31",
+              "name": "*31",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217940,
+            "_label": "*32",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166005223",
+              "symbol": "TPMT*32",
+              "name": "*32",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217941,
+            "_label": "*33",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166005224",
+              "symbol": "TPMT*33",
+              "name": "*33",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217942,
+            "_label": "*34",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166005225",
+              "symbol": "TPMT*34",
+              "name": "*34",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217943,
+            "_label": "*35",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166041212",
+              "symbol": "TPMT*35",
+              "name": "*35",
+              "version": 10
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217944,
+            "_label": "*36",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166041213",
+              "symbol": "TPMT*36",
+              "name": "*36",
+              "version": 10
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217945,
+            "_label": "*37",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166119185",
+              "symbol": "TPMT*37",
+              "name": "*37",
+              "version": 8
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217946,
+            "_label": "*38",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166124408",
+              "symbol": "TPMT*38",
+              "name": "*38",
+              "version": 7
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217947,
+            "_label": "*39",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166214283",
+              "symbol": "TPMT*39",
+              "name": "*39",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217948,
+            "_label": "*40",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166214284",
+              "symbol": "TPMT*40",
+              "name": "*40",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217949,
+            "_label": "*41",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166214285",
+              "symbol": "TPMT*41",
+              "name": "*41",
+              "version": 4
+            },
+            "version": 0
+          },
+          {
+            "id": 1451217960,
+            "_label": "Unknown",
+            "allele": "Unknown",
+            "function": {
+              "id": 1445558512,
+              "description": "for amitriptyline guideline to enter only one CYP gene while the second CYP is set \"Unknown\"",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown",
+              "termId": "haplotypeTags:1445558512",
+              "version": 0
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA356",
+          "symbol": "TPMT",
+          "name": "thiopurine S-methyltransferase",
+          "alleleFile": "TPMT_allele_definition_table.xlsx",
+          "altNames": {},
+          "buildVersion": "GRCh38",
+          "cbStart": "p22.3",
+          "cbStop": "p22.3",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA532",
+            "name": "chr6",
+            "version": 3
+          },
+          "chrStartPosB37": 18128542,
+          "chrStartPosB38": 18128311,
+          "chrStopPosB37": 18155400,
+          "chrStopPosB38": 18155169,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553237364,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "7172",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=7172",
+              "version": 0
+            },
+            {
+              "id": 132272227,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000137364",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000137364",
+              "version": 0
+            },
+            {
+              "id": 83901,
+              "resource": "GenAtlas",
+              "resourceId": "TPMT",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=TPMT",
+              "version": 1
+            },
+            {
+              "id": 98829,
+              "resource": "GeneCard",
+              "resourceId": "TPMT",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=TPMT",
+              "version": 1
+            },
+            {
+              "id": 608112626,
+              "resource": "HGNC",
+              "resourceId": "HGNC:12014",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A12014",
+              "version": 1
+            },
+            {
+              "id": 608112636,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS06327",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS06327",
+              "version": 0
+            },
+            {
+              "id": 560935362,
+              "resource": "ModBase",
+              "resourceId": "O43213",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=O43213",
+              "version": 0
+            },
+            {
+              "id": 466439,
+              "resource": "MutDB",
+              "resourceId": "TPMT",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=TPMT",
+              "version": 1
+            },
+            {
+              "id": 20259,
+              "resource": "NCBI Gene",
+              "resourceId": "7172",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/7172",
+              "version": 1
+            },
+            {
+              "id": 2403,
+              "resource": "OMIM",
+              "resourceId": "187680",
+              "_url": "https://omim.org/entry/187680",
+              "version": 1
+            },
+            {
+              "id": 560550106,
+              "resource": "OMIM",
+              "resourceId": "610460",
+              "_url": "https://omim.org/entry/610460",
+              "version": 0
+            },
+            {
+              "id": 1451618680,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_012137.3",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_012137.3",
+              "version": 0
+            },
+            {
+              "id": 37533,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000358",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000358",
+              "version": 1
+            },
+            {
+              "id": 46608,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000367",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000367",
+              "version": 1
+            },
+            {
+              "id": 121925,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000367",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000367",
+              "version": 1
+            },
+            {
+              "id": 62331854,
+              "name": "TPMT_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P51580",
+              "_url": "https://www.uniprot.org/uniprot/P51580",
+              "version": 1
+            },
+            {
+              "id": 608112635,
+              "name": "Q9BS45_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "Q9BS45",
+              "_url": "https://www.uniprot.org/uniprot/Q9BS45",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": false,
+          "pharmVarGene": false,
+          "strand": "minus",
+          "terms": [
+            {"id":560499969,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005625","resource":"Gene Ontology","term":"soluble fraction","termId":"GO:0005625"},
+            {"id":560500078,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005737","resource":"Gene Ontology","term":"cytoplasm","termId":"GO:0005737"},
+            {"id":560500177,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005829","resource":"Gene Ontology","term":"cytosol","termId":"GO:0005829"},
+            {"id":560500558,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006139","resource":"Gene Ontology","term":"nucleobase, nucleoside, nucleotide and nucleic acid metabolic process","termId":"GO:0006139"},
+            {"id":560502520,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008119","resource":"Gene Ontology","term":"thiopurine S-methyltransferase activity","termId":"GO:0008119"},
+            {"id":560501456,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008152","resource":"Gene Ontology","term":"metabolic process","termId":"GO:0008152"},
+            {"id":560498395,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008168","resource":"Gene Ontology","term":"methyltransferase activity","termId":"GO:0008168"},
+            {"id":560505035,"_url":"http://amigo.geneontology.org/amigo/term/GO:0014070","resource":"Gene Ontology","term":"response to organic cyclic substance","termId":"GO:0014070"},
+            {"id":560495039,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016740","resource":"Gene Ontology","term":"transferase activity","termId":"GO:0016740"},
+            {"id":560513429,"_url":"http://amigo.geneontology.org/amigo/term/GO:0033574","resource":"Gene Ontology","term":"response to testosterone stimulus","termId":"GO:0033574"},
+            {"id":560508927,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046498","resource":"Gene Ontology","term":"S-adenosylhomocysteine metabolic process","termId":"GO:0046498"},
+            {"id":560501101,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046500","resource":"Gene Ontology","term":"S-adenosylmethionine metabolic process","termId":"GO:0046500"}
+          ],
+          "version": 7544
+        },
+        "version": 0
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1183699774,
+        "date": "2011-01-26T00:00:00-08:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1183699775,
+        "date": "2013-01-17T00:00:00-08:00",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1447986819,
+        "date": "2016-05-10T21:44:54.940-07:00",
+        "description": "Update guideline with information regarding the NUDT15 gene.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451463580,
+        "date": "2021-06-22T11:08:50.259-07:00",
+        "description": "Added link to video",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15101542,"title":"Clinical Pharmacogenetics Implementation Consortium Guideline for Thiopurine Dosing Based on TPMT and NUDT15 Genotypes: 2018 Update.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6576267","crossReferences":[{"id":1451837563,"resource":"PubMed Central","resourceId":"PMC6576267","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6576267"},{"id":1450043138,"resource":"PubMed","resourceId":"30447069","_url":"https://www.ncbi.nlm.nih.gov/pubmed/30447069"},{"id":1450043139,"resource":"DOI","resourceId":"10.1002/cpt.1304","_url":"http://dx.doi.org/10.1002%2Fcpt.1304"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15051187,"title":"Clinical pharmacogenetics implementation consortium guidelines for thiopurine methyltransferase genotype and thiopurine dosing: 2013 update.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3604643","crossReferences":[{"id":1449275272,"resource":"PubMed Central","resourceId":"PMC3604643","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3604643"},{"id":1449275271,"resource":"PubMed","resourceId":"23422873","_url":"https://www.ncbi.nlm.nih.gov/pubmed/23422873"},{"id":1449275273,"resource":"DOI","resourceId":"10.1038/clpt.2013.4","_url":"http://dx.doi.org/10.1038%2Fclpt.2013.4"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":6690400,"title":"Clinical Pharmacogenetics Implementation Consortium guidelines for thiopurine methyltransferase genotype and thiopurine dosing.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3098761","crossReferences":[{"id":1449245874,"resource":"PubMed Central","resourceId":"PMC3098761","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3098761"},{"id":769164748,"resource":"PubMed","resourceId":"21270794","_url":"https://www.ncbi.nlm.nih.gov/pubmed/21270794"},{"id":1449245875,"resource":"DOI","resourceId":"10.1038/clpt.2010.320","_url":"http://dx.doi.org/10.1038%2Fclpt.2010.320"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15100906,"title":"CPIC® Guideline for Thiopurines and TPMT – CPIC","_sameAs":"https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/","crossReferences":[{"id":1447983453,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/","_url":"https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA450379",
+        "name": "mercaptopurine",
+        "version": 29
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA134963132",
+        "symbol": "NUDT15",
+        "name": "nudix hydrolase 15",
+        "version": 10
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA356",
+        "symbol": "TPMT",
+        "name": "thiopurine S-methyltransferase",
+        "version": 7544
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1450044160,
+      "html": "<p>Consider an alternate agent or extreme dose reduction of mercaptopurine for patients who are TPMT or NUDT15 poor metabolizers.  Start at 30-80% of target dose for patients who are TPMT or NUDT15 intermediate metabolizers.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433695,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-thiopurines-and-tpmt/\" target=\"_blank\">CPIC&reg; guideline for thiopurines and TPMT and NUDT15</a>.</p>\n<h3 id=\"october-2018-update\">October 2018 Update</h3>\n<p><em>Advance online publication November 2018.</em></p>\n<ul>\n<li>The <a rel=\"noopener noreferrer\" href=\"https://ascpt.onlinelibrary.wiley.com/doi/abs/10.1002/cpt.1304?af=R\" target=\"_blank\">2018 update of CPIC guidelines regarding azathioprine, thioguanine and mercaptopurine</a>, have been published in Clinical Pharmacology and Therapeutics.  Literature published between October 2012 to June 2017 was reviewed, recommendations and supplemental information was updated.</li>\n<li>These guidelines are applicable to:\n<ul>\n<li>pediatric patients</li>\n<li>adult patients</li>\n</ul>\n</li>\n<li>Excerpt from the 2018 thiopurine dosing guideline update:\n<ul>\n<li>&quot;TPMT activity exhibits a monogenic co-dominant inheritance and catabolizes\nthiopurines. TPMT variant alleles are associated with low enzyme activity and pronounced pharmacologic effects of thiopurines.&quot;</li>\n<li>&quot;Loss-of-function alleles in the NUDT15 gene are common in Asians and Hispanics and reduces the degradation of active thiopurine nucleotide metabolites, also predisposing to myelosuppression.&quot;</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/thiopurines/2018/CPIC_TPMT_NUDT15_Thiopurine_Submitted.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for thiopurine dosing based on <em>TPMT</em> and <em>NUDT15</em> genotypes: 2018 Update</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/thiopurines/2018/CPIC_TPMT_NUDT15_Thiopurine_Supplemental_Material.pdf\" target=\"_blank\">2018 supplement</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/tpmtRefMaterials\">TPMT Gene-Specific Information Tables</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/nudt15RefMaterials\">NUDT15 Gene-Specific Information Tables</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/thiopurines/Mercaptopurine_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Mercaptopurine Drug Resource Mappings</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/thiopurines/Thiopurines_Pre_and_Post_Test_Alerts_and_Flow_Chart.xlsx\" target=\"_blank\">Thiopurines Pre and Post Test Alerts and Flow Chart</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-recommended-dosing-of-mercaptopurine-by-tpmt-phenotype\">Table 1: Recommended dosing of mercaptopurine by TPMT phenotype</h3>\n<p><em>Adapted from Tables 1 and 2 of the 2018 guideline update.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>TPMT phenotype</th>\n<th>Genotypes</th>\n<th>Examples of diplotypes</th>\n<th>Implications</th>\n<th>Dosing recommendations</th>\n<th>Classification of recommendations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Normal Metabolizer</td>\n<td>An individual carrying two normal function alleles</td>\n<td>*1/*1</td>\n<td>Lower concentrations of TGN metabolites, higher meTIMP, this is the &quot;normal&quot; pattern.  Normal risk of thiopurine-related leukopenia, neutropenia, myelosuppression.</td>\n<td>Start with normal starting dose<sup>a</sup> (e.g., 75 mg/m<sup>2</sup>/day or 1.5 mg/kg/day) and adjust doses of mercaptopurine (and of any other myelosuppressive therapy) without any special emphasis on mercaptopurine compared to other agents.  Allow at least 2 weeks to reach steady-state after each dose adjustment.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Intermediate Metabolizer</td>\n<td>An individual carrying one normal function allele and one no function allele</td>\n<td>*1/*2, *1/*3A, *1/*3B, *1/*3C, *1/*4</td>\n<td>Moderate to high concentrations of TGN metabolites; low concentrations of meTIMP. Increased risk of thiopurine-related leukopenia, neutropenia, myelosuppression.</td>\n<td>Start with reduced starting doses (30-80% of normal dose) if normal starting dose<sup>a</sup> is &gt; or = 75 mg/m<sup>2</sup>/day or &gt; or = 1.5 mg/kg/day (e.g. start at 25-60 mg/m<sup>2</sup>/day or 0.45-1.2 mg/kg/day) and adjust doses of mercaptopurine based on degree of myelosuppression and disease-specific guidelines.  Allow 2-4 weeks to reach steady-state after each dose adjustment. If myelosuppression occurs, and depending on other therapy, emphasis should be on reducing mercaptopurine over other agents.  If normal starting dose is already &lt; 75 mg/m<sup>2</sup>/day or &lt; 1.5 mg/kg/day, dose reduction may not be recommended.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Possible Intermediate Metabolizer</td>\n<td>An individual carrying one uncertain/unknown function allele and one no function allele</td>\n<td>*2/*8, *3A/*7</td>\n<td>Moderate to high concentrations of TGN metabolites; low concentrations of meTIMP. Increased risk of thiopurine-related leukopenia, neutropenia, myelosuppression.</td>\n<td>Start with reduced starting doses (30-80% of normal dose) if normal starting dose<sup>a</sup> is &gt; or = 75 mg/m<sup>2</sup>/day or &gt; or = 1.5 mg/kg/day (e.g. start at 25-60 mg/m<sup>2</sup>/day or 0.45-1.2 mg/kg/day) and adjust doses of mercaptopurine based on degree of myelosuppression and disease-specific guidelines.  Allow 2-4 weeks to reach steady-state after each dose adjustment. If myelosuppression occurs, and depending on other therapy, emphasis should be on reducing mercaptopurine over other agents.  If normal starting dose is already &lt; 75 mg/m<sup>2</sup>/day or &lt; 1.5 mg/kg/day, dose reduction may not be recommended.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Poor Metabolizer</td>\n<td>An individual carrying two no function alleles</td>\n<td>*3A/*3A, *2/*3A, *3A/*3C, *3C/*4, *2/*3C, *3A/*4</td>\n<td>Extremely high concentrations of TGN metabolites; fatal toxicity possible without dose decrease; no meTIMP metabolites</td>\n<td>For malignancy, start with drastically reduced doses (reduce daily dose<sup>a</sup> by 10-fold and reduce frequency to thrice weekly instead of daily, e.g. 10 mg/m<sup>2</sup>/day given just 3 days/week) and adjust doses of mercaptopurine based on degree of myelosuppression and disease-specific guidelines.  Allow 4-6 weeks to reach steady-state after each dose adjustment.  If myelosuppression occurs, emphasis should be on reducing mercaptopurine over other agents.  For non-malignant conditions, consider alternative non-thiopurine immunosuppressant therapy.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Indeterminate</td>\n<td>An individual carrying two uncertain/unknown function alleles OR one normal function allele and one uncertain/unknown function allele</td>\n<td>*6/*8, *1/*8</td>\n<td>None</td>\n<td>None</td>\n<td>None</td>\n</tr>\n<tr>\n<td><sup>a</sup>Normal starting doses vary by race/ethnicity and treatment regimens.  If standard dose is below normal recommended dose, dose reduction might not be recommended for intermediate metabolizers.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"table-2-recommended-dosing-of-mercaptopurine-by-nudt15-phenotype\">Table 2: Recommended dosing of mercaptopurine by NUDT15 phenotype</h3>\n<p><em>Adapted from Tables 1 and 2 of the 2018 guideline update.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>NUDT15 phenotype</th>\n<th>Genotypes</th>\n<th>Examples of diplotypes</th>\n<th>Implications</th>\n<th>Dosing recommendations</th>\n<th>Classification of recommendations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Normal Metabolizer</td>\n<td>An individual carrying two normal function alleles</td>\n<td>*1/*1</td>\n<td>Normal risk of thiopurine-related leukopenia, neutropenia, myelosuppression</td>\n<td>Start with normal starting dose<sup>a</sup> (e.g., 75 mg/m<sup>2</sup>/day or 1.5 mg/kg/day) and adjust doses of mercaptopurine (and of any other myelosuppressive therapy) without any special emphasis on mercaptopurine compared to other agents.  Allow at least 2 weeks to reach steady-state after each dose adjustment.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Intermediate Metabolizer</td>\n<td>An individual carrying one normal function allele and one no function allele</td>\n<td>*1/*2, *1/*3</td>\n<td>Increased risk of thiopurine-related leukopenia, neutropenia, myelosuppression.</td>\n<td>Start with reduced starting doses (30-80% of normal dose) if normal starting dose<sup>a</sup> is &gt; or = 75 mg/m<sup>2</sup>/day or &gt; or = 1.5 mg/kg/day (e.g. start at 25-60 mg/m<sup>2</sup>/day or 0.45-1.2 mg/kg/day) and adjust doses of mercaptopurine based on degree of myelosuppression and disease-specific guidelines.  Allow 2-4 weeks to reach steady-state after each dose adjustment.  If myelosuppression occurs and depending on other therapy, emphasis should be on reducing mercaptopurine over other agents. If normal starting dose is already &lt; 75 mg/m<sup>2</sup>/day or 1.5 mg/kg/day, dose reduction may not be recommended.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Possible Intermediate Metabolizer</td>\n<td>An individual carrying one uncertain function allele and one no function allele</td>\n<td>*2/*5, *3/*6</td>\n<td>Increased risk of thiopurine-related leukopenia, neutropenia, myelosuppression.</td>\n<td>Start with reduced starting doses (30-80% of normal dose) if normal starting dose<sup>a</sup> is &gt; or = 75 mg/m<sup>2</sup>/day or &gt; or = 1.5 mg/kg/day (e.g. start at 25-60 mg/m<sup>2</sup>/day or 0.45-1.2 mg/kg/day) and adjust doses of mercaptopurine based on degree of myelosuppression and disease-specific guidelines.  Allow 2-4 weeks to reach steady-state after each dose adjustment.  If myelosuppression occurs and depending on other therapy, emphasis should be on reducing mercaptopurine over other agents. If normal starting dose is already &lt; 75 mg/m<sup>2</sup>/day or 1.5 mg/kg/day, dose reduction may not be recommended.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Poor Metabolizer</td>\n<td>An individual carrying two no function alleles</td>\n<td>*2/*2, *2/*3, *3/*3</td>\n<td>Greatly increased risk of thiopurine-related leukopenia, neutropenia, myelosuppression</td>\n<td>For malignancy, initiate dose at 10 mg/m<sup>2</sup>/day and adjust dose based on myelosuppression and disease-specific guidelines.  Allow 4-6 weeks to reach steady state after each dose adjustment.  If myelosuppression occurs, emphasis should be on reducing mercaptopurine over other agents.  For non-malignant conditions, consider alternative non-thiopurine immunosuppressant therapy.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Indeterminate</td>\n<td>An individual carrying two uncertain function alleles OR one normal function allele and one uncertain function allele</td>\n<td>*1/*4, *1/*5, *4/*5, *5/*6</td>\n<td>None</td>\n<td>None</td>\n<td>None</td>\n</tr>\n<tr>\n<td><sup>a</sup>Normal starting doses vary by race/ethnicity and treatment regimens.  If standard dose is below normal recommended dose, dose reduction might not be recommended for intermediate metabolizers.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"table-3-recommended-dosing-of-mercaptopurine-by-tpmt-and-nudt15-phenotypes\">Table 3: Recommended dosing of mercaptopurine by TPMT and NUDT15 phenotypes</h3>\n<p><em>Adapted from Figure 2 and Table 2 of the 2018 guideline update.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype</th>\n<th>TPMT Normal Metabolizer</th>\n<th>TPMT Intermediate Metabolizer</th>\n<th>TPMT Possible Intermediate Metabolizer</th>\n<th>TPMT Poor Metabolizer</th>\n<th>Indeterminate</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>NUDT 15 Normal Metabolizer</td>\n<td>Use standard dose</td>\n<td>Start with reduced starting doses (30-80% of normal dose) if normal starting dose<sup>a</sup> is &gt; or = 75 mg/m<sup>2</sup>/day or &gt; or = 1.5 mg/kg/day (e.g. start at 25-60 mg/m<sup>2</sup>/day or 0.45-1.2 mg/kg/day) and adjust doses of mercaptopurine based on degree of myelosuppression and disease-specific guidelines.  Allow 2-4 weeks to reach steady-state after each dose adjustment. If myelosuppression occurs, and depending on other therapy, emphasis should be on reducing mercaptopurine over other agents.  If normal starting dose is already &lt; 75 mg/m<sup>2</sup>/day or &lt; 1.5 mg/kg/day, dose reduction may not be recommended.</td>\n<td>See TPMT Intermediate Metabolizer.</td>\n<td>For malignancy, start with drastically reduced doses (reduce daily dose<sup>a</sup> by 10-fold and reduce frequency to thrice weekly instead of daily, e.g. 10 mg/m<sup>2</sup>/day given just 3 days/week) and adjust doses of mercaptopurine based on degree of myelosuppression and disease-specific guidelines.  Allow 4-6 weeks to reach steady-state after each dose adjustment.  If myelosuppression occurs, emphasis should be on reducing mercaptopurine over other agents.  For non-malignant conditions, consider alternative non-thiopurine immunosuppressant therapy.</td>\n<td>None</td>\n</tr>\n<tr>\n<td>NUDT15 Intermediate Metabolizer</td>\n<td>Start with reduced starting doses (30-80% of normal dose) if normal starting dose<sup>a</sup> is &gt; or = 75 mg/m<sup>2</sup>/day or &gt; or = 1.5 mg/kg/day (e.g. start at 25-60 mg/m<sup>2</sup>/day or 0.45-1.2 mg/kg/day) and adjust doses of mercaptopurine based on degree of myelosuppression and disease-specific guidelines.  Allow 2-4 weeks to reach steady-state after each dose adjustment.  If myelosuppression occurs and depending on other therapy, emphasis should be on reducing mercaptopurine over other agents. If normal starting dose is already &lt; 75 mg/m<sup>2</sup>/day or 1.5 mg/kg/day, dose reduction may not be recommended.</td>\n<td>Start with reduced starting doses (30-80% of normal dose) if normal starting dose<sup>a</sup> is &gt; or = 75 mg/m<sup>2</sup>/day or &gt; or = 1.5 mg/kg/day (e.g. start at 25-60 mg/m<sup>2</sup>/day or 0.45-1.2 mg/kg/day) and adjust doses of mercaptopurine based on degree of myelosuppression and disease-specific guidelines.  Allow 2-4 weeks to reach steady-state after each dose adjustment. If myelosuppression occurs, and depending on other therapy, emphasis should be on reducing mercaptopurine over other agents.  If normal starting dose is already &lt; 75 mg/m<sup>2</sup>/day or &lt; 1.5 mg/kg/day, dose reduction may not be recommended.</td>\n<td>See TPMT Intermediate Metabolizer.</td>\n<td>For malignancy, start with drastically reduced doses (reduce daily dose<sup>a</sup> by 10-fold and reduce frequency to thrice weekly instead of daily, e.g. 10 mg/m<sup>2</sup>/day given just 3 days/week) and adjust doses of mercaptopurine based on degree of myelosuppression and disease-specific guidelines.  Allow 4-6 weeks to reach steady-state after each dose adjustment.  If myelosuppression occurs, emphasis should be on reducing mercaptopurine over other agents.  For non-malignant conditions, consider alternative non-thiopurine immunosuppressant therapy.</td>\n<td>None</td>\n</tr>\n<tr>\n<td>NUDT15 Possible Intermediate Metabolizer</td>\n<td>See NUDT15 Intermediate Metabolizer.</td>\n<td>See NUDT15 Intermediate Metabolizer.</td>\n<td>See TPMT Intermediate Metabolizer/NUDT15 Intermediate Metabolizer.</td>\n<td>See NUDT15 Intermediate Metabolizer.</td>\n<td>None</td>\n</tr>\n<tr>\n<td>NUDT15 Poor  Metabolizer</td>\n<td>For malignancy, initiate dose at 10 mg/m<sup>2</sup>/day and adjust dose based on myelosuppression and disease-specific guidelines.  Allow 4-6 weeks to reach steady state after each dose adjustment.  If myelosuppression occurs, emphasis should be on reducing mercaptopurine over other agents.  For non-malignant conditions, consider alternative non-thiopurine immunosuppressant therapy.</td>\n<td>For malignancy, initiate dose at 10 mg/m<sup>2</sup>/day and adjust dose based on myelosuppression and disease-specific guidelines.  Allow 4-6 weeks to reach steady state after each dose adjustment.  If myelosuppression occurs, emphasis should be on reducing mercaptopurine over other agents.  For non-malignant conditions, consider alternative non-thiopurine immunosuppressant therapy.</td>\n<td>See TPMT Intermediate Metabolizer.</td>\n<td>For malignancy, start with drastically reduced doses (reduce daily dose<sup>a</sup> by 10-fold and reduce frequency to thrice weekly instead of daily, e.g. 10 mg/m<sup>2</sup>/day given just 3 days/week) and adjust doses of mercaptopurine based on degree of myelosuppression and disease-specific guidelines.  Allow 4-6 weeks to reach steady-state after each dose adjustment.  If myelosuppression occurs, emphasis should be on reducing mercaptopurine over other agents.  For non-malignant conditions, consider alternative non-thiopurine immunosuppressant therapy.</td>\n<td>None</td>\n</tr>\n<tr>\n<td>NUDT15 Indeterminate</td>\n<td>None</td>\n<td>None</td>\n<td>None</td>\n<td>None</td>\n<td>None</td>\n</tr>\n<tr>\n<td><sup>a</sup>Normal starting doses vary by race/ethnicity and treatment regimens.  If standard dose is below normal recommended dose, dose reduction might not be recommended for intermediate metabolizers.</td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"may-2016-update-on-pharmgkb\">May 2016 Update on PharmGKB</h3>\n<p>Several studies have reported that individuals who carry low-function alleles for NUDT15 are unable to tolerate usual doses of thiopurines. [Articles:<a href=\"/pmid/25108385\">25108385</a>, <a href=\"/pmid/25624441\">25624441</a>, <a href=\"/pmid/26033531\">26033531</a>, <a href=\"/pmid/26076924\">26076924</a>, <a href=\"/pmid/26405151\">26405151</a>, <a href=\"/pmid/26503813\">26503813</a>, <a href=\"/pmid/26590936\">26590936</a>, <a href=\"/pmid/26735160\">26735160</a>, <a href=\"/pmid/26878724\">26878724</a>] These alleles are more common among those of Asian ancestry and Hispanic ethnicity than others. [Articles:<a href=\"/pmid/25624441\">25624441</a>, <a href=\"/pmid/26878724\">26878724</a>] The dose tolerated by those with two low-function alleles is only ~ 10% that tolerated by those with no low-function NUDT15 or TPMT alleles. [Articles:<a href=\"/pmid/25624441\">25624441</a>, <a href=\"/pmid/26878724\">26878724</a>] CPIC is planning a guideline to address NUDT15 variants and possible dosing recommendations for thiopurines.</p>\n<h3 id=\"april-2013-update\">April 2013 Update</h3>\n<p><em>Advance online publication January 2013</em></p>\n<ul>\n<li>The <a rel=\"noopener noreferrer\" href=\"http://www.nature.com/clpt/journal/vaop/naam/index.html#17012013\" target=\"_blank\">2013 update of CPIC guidelines regarding azathioprine, thioguanine and mercaptopurine</a>, have been published in Clinical Pharmacology and Therapeutics.  Literature published between June 2010-November 2012 was reviewed and there is <strong>no new evidence that would change the original guidelines. Therefore, the dosing recommendations in the original publication remain clinically current.</strong></li>\n<li>These guidelines are applicable to:\n<ul>\n<li>pediatric patients</li>\n<li>adult patients</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a download=\"CPIC_TPMT_update.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/CPIC_TPMT_update.pdf\">Clinical Pharmacogenetics Implementation Consortium Guidelines for Thiopurine Methyltransferase Genotype and Thiopurine Dosing: 2013 Update</a></li>\n<li><a download=\"CPIC_TPMT_update_supp.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/CPIC_TPMT_update_supp.pdf\">2013 supplement</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"march-2011\">March 2011</h3>\n<p><em>Advance online publication January 2011.</em></p>\n<ul>\n<li>Guidelines regarding the use of pharmacogenomic tests in dosing for azathioprine, thioguanine and mercaptopurine were published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">(CPIC)</a>.</li>\n<li>Excerpt from the 2011 thiopurine dosing guidelines:\n<ul>\n<li>&quot;Thiopurines are most commonly used to treat nonmalignant conditions but are also critical anticancer agents. The approach to dosing adjustments based on TPMT status may differ depending on the clinical indication and the propensity to initiate therapy at higher vs. lower starting doses. We and others advocate testing for TPMT status prior to initiating thiopurine therapy, so that starting dosages can be adjusted accordingly.&quot;</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a download=\"cpic-tpmt-article.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/cpic-tpmt-article.pdf\">Clinical Pharmacogenetics Implementation Consortium Guidelines for Thiopurine Methyltransferase Genotype and Thiopurine Dosing</a></li>\n<li><a download=\"cpic-tpmt-supplement.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/cpic-tpmt-supplement.pdf\">2011 supplement</a></li>\n</ul>\n</li>\n</ul>\n",
+      "version": 0
+    },
+    "userId": "rachel",
+    "version": 43
+  }
+}

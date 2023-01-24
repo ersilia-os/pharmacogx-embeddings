@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+irinotecan	SN-38	Biochemical Reaction	BCHE,CES1,CES2	Catalysis	cell	10197614,12171903	"BCHE","CES2","CES1"	"SN-38","irinotecan"	
+irinotecan	SN-38	Biochemical Reaction	BCHE,CES1,CES2	Catalysis	cell		"BCHE","CES2","CES1"	"SN-38","irinotecan"	
+SN-38	SN-38G	Biochemical Reaction	UGT1A1,UGT1A10,UGT1A3,UGT1A4,UGT1A6,UGT1A8,UGT1A9	Catalysis	cell	11695848,12893990	"UGT1A10","UGT1A1","UGT1A4","UGT1A3","UGT1A9","UGT1A8","UGT1A6"	SN-38	
+TOP1	TOP1	Biochemical Reaction	SN-38	Inhibition	cell		TOP1	SN-38	
+irinotecan	irinotecan	Transport	ABCB1,ABCC2	Catalysis	cell		"ABCB1","ABCC2"	irinotecan	
+SN-38	SN-38	Transport	ABCB1,ABCC2,ABCG2	Catalysis	cell		"ABCB1","ABCC2","ABCG2"	SN-38	
+SN-38G	SN-38G	Transport	ABCC2	Catalysis	cell		ABCC2		

@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+acetaminophen	acetaminophen-glucuronide	Biochemical Reaction	UGT1A1,UGT1A6,UGT1A9,UGT2B15	Catalysis	hepatocyte	11714888,16696573,23408116,23462933,6343056	"UGT1A1","UGT2B15","UGT1A9","UGT1A6"	acetaminophen	
+acetaminophen	acetaminophen-sulfate	Biochemical Reaction	SULT1A1,SULT1A3,SULT1A4,SULT1E1,SULT2A1	Catalysis	hepatocyte	21108564,23462933	"SULT1A1","SULT1E1","SULT1A4","SULT1A3","SULT2A1"	acetaminophen	
+acetaminophen	N-acetyl-p-benzoquinone imine	Biochemical Reaction	CYP1A2,CYP2A6,CYP2D6,CYP2E1	Catalysis	hepatocyte	11866476,19219744,23462933	"CYP2A6","CYP2D6","CYP1A2","CYP2E1"	acetaminophen	
+acetaminophen-glutathione	acetaminophen-cysteine	Biochemical Reaction			hepatocyte	22022436,22175791			
+acetylcysteine	glutathione	Biochemical Reaction			hepatocyte	11215692,22998987,3059186,7469630		acetylcysteine	
+N-acetyl-p-benzoquinone imine	acetaminophen-glutathione	Biochemical Reaction	GSTM1,GSTP1,GSTT1	Catalysis	hepatocyte	12630972,22998987,3395122,3965363	"GSTM1","GSTP1","GSTT1"		
+acetaminophen-glucuronide	acetaminophen-glucuronide	Transport	ABCC2,ABCC3,ABCG2	Catalysis	hepatocyte	17627974,23462933	"ABCC3","ABCC2","ABCG2"		
+acetaminophen-sulfate	acetaminophen-sulfate	Transport	ABCC2,ABCC3,ABCC4,ABCG2	Catalysis	hepatocyte	17627974,23462933	"ABCC3","ABCC4","ABCC2","ABCG2"		

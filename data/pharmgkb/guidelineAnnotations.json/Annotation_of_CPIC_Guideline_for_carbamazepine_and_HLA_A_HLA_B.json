@@ -1,0 +1,1022 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166105008",
+    "name": "Annotation of CPIC Guideline for carbamazepine and HLA-A, HLA-B",
+    "alternateDrugAvailable": true,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983473,
+        "name": "CPIC® Guideline for HLA genotype and Use of Carbamazepine and Oxcarbazepine – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-carbamazepine-and-hla-b/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-carbamazepine-and-hla-b/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "AFD2W7ugz2I",
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1449561429,
+        "alleles": [
+          {
+            "id": 1449561430,
+            "_label": "Other",
+            "allele": "Other",
+            "function": {
+              "id": 1445558334,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Absence",
+              "termId": "haplotypeTags:1445558334",
+              "version": 0
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561431,
+            "_label": "*31:01:02",
+            "function": {
+              "id": 1445558333,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Presence",
+              "termId": "haplotypeTags:1445558333",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165954030",
+              "symbol": "HLA-A*31:01:02",
+              "name": "*31:01:02",
+              "version": 3
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA35055",
+          "symbol": "HLA-A",
+          "name": "major histocompatibility complex, class I, A",
+          "altNames": {},
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "p22.1",
+          "cbStop": "p22.1",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA532",
+            "name": "chr6",
+            "version": 3
+          },
+          "chrStartPosB37": 29910247,
+          "chrStartPosB38": 29942470,
+          "chrStopPosB37": 29913661,
+          "chrStopPosB38": 29945884,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553240540,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "3105",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=3105",
+              "version": 0
+            },
+            {
+              "id": 608121114,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000206503",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000206503",
+              "version": 0
+            },
+            {
+              "id": 75779,
+              "resource": "GenAtlas",
+              "resourceId": "HLA-A",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=HLA-A",
+              "version": 1
+            },
+            {
+              "id": 90707,
+              "resource": "GeneCard",
+              "resourceId": "HLA-A",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HLA-A",
+              "version": 1
+            },
+            {
+              "id": 608121112,
+              "resource": "HGNC",
+              "resourceId": "HGNC:4931",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A4931",
+              "version": 1
+            },
+            {
+              "id": 608121118,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS06330",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS06330",
+              "version": 0
+            },
+            {
+              "id": 608121117,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS11577",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS11577",
+              "version": 0
+            },
+            {
+              "id": 560882192,
+              "resource": "ModBase",
+              "resourceId": "P05534",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P05534",
+              "version": 0
+            },
+            {
+              "id": 560879671,
+              "resource": "ModBase",
+              "resourceId": "P10314",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P10314",
+              "version": 0
+            },
+            {
+              "id": 560936036,
+              "resource": "ModBase",
+              "resourceId": "P10315",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P10315",
+              "version": 0
+            },
+            {
+              "id": 560879109,
+              "resource": "ModBase",
+              "resourceId": "P16188",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P16188",
+              "version": 0
+            },
+            {
+              "id": 560879119,
+              "resource": "ModBase",
+              "resourceId": "P16190",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P16190",
+              "version": 0
+            },
+            {
+              "id": 560884477,
+              "resource": "ModBase",
+              "resourceId": "P18462",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P18462",
+              "version": 0
+            },
+            {
+              "id": 560873733,
+              "resource": "ModBase",
+              "resourceId": "P30443",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30443",
+              "version": 0
+            },
+            {
+              "id": 560873730,
+              "resource": "ModBase",
+              "resourceId": "P30447",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30447",
+              "version": 0
+            },
+            {
+              "id": 560874344,
+              "resource": "ModBase",
+              "resourceId": "P30453",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30453",
+              "version": 0
+            },
+            {
+              "id": 560874342,
+              "resource": "ModBase",
+              "resourceId": "P30455",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30455",
+              "version": 0
+            },
+            {
+              "id": 560874337,
+              "resource": "ModBase",
+              "resourceId": "P30456",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30456",
+              "version": 0
+            },
+            {
+              "id": 560874339,
+              "resource": "ModBase",
+              "resourceId": "P30457",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30457",
+              "version": 0
+            },
+            {
+              "id": 560874336,
+              "resource": "ModBase",
+              "resourceId": "P30459",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30459",
+              "version": 0
+            },
+            {
+              "id": 560874249,
+              "resource": "ModBase",
+              "resourceId": "P30512",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30512",
+              "version": 0
+            },
+            {
+              "id": 560882131,
+              "resource": "ModBase",
+              "resourceId": "Q09160",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q09160",
+              "version": 0
+            },
+            {
+              "id": 560936613,
+              "resource": "ModBase",
+              "resourceId": "Q9BD19",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9BD19",
+              "version": 0
+            },
+            {
+              "id": 560936570,
+              "resource": "ModBase",
+              "resourceId": "Q9MYG4",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9MYG4",
+              "version": 0
+            },
+            {
+              "id": 560936753,
+              "resource": "ModBase",
+              "resourceId": "Q9TQH5",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9TQH5",
+              "version": 0
+            },
+            {
+              "id": 560936786,
+              "resource": "ModBase",
+              "resourceId": "Q9TQP6",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9TQP6",
+              "version": 0
+            },
+            {
+              "id": 560936713,
+              "resource": "ModBase",
+              "resourceId": "Q9UQU7",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9UQU7",
+              "version": 0
+            },
+            {
+              "id": 458317,
+              "resource": "MutDB",
+              "resourceId": "HLA-A",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=HLA-A",
+              "version": 1
+            },
+            {
+              "id": 14511,
+              "resource": "NCBI Gene",
+              "resourceId": "3105",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/3105",
+              "version": 1
+            },
+            {
+              "id": 236,
+              "resource": "OMIM",
+              "resourceId": "106300",
+              "_url": "https://omim.org/entry/106300",
+              "version": 1
+            },
+            {
+              "id": 1185,
+              "resource": "OMIM",
+              "resourceId": "142800",
+              "_url": "https://omim.org/entry/142800",
+              "version": 1
+            },
+            {
+              "id": 560528823,
+              "resource": "OMIM",
+              "resourceId": "608579",
+              "_url": "https://omim.org/entry/608579",
+              "version": 0
+            },
+            {
+              "id": 123300739,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_002398",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_002398",
+              "version": 1
+            },
+            {
+              "id": 36716,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_007592",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_007592",
+              "version": 1
+            },
+            {
+              "id": 124576757,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_113891",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_113891",
+              "version": 0
+            },
+            {
+              "id": 608105120,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167244",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167244",
+              "version": 0
+            },
+            {
+              "id": 608105121,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167245",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167245",
+              "version": 0
+            },
+            {
+              "id": 608105122,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167246",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167246",
+              "version": 0
+            },
+            {
+              "id": 608105117,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167247",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167247",
+              "version": 0
+            },
+            {
+              "id": 608105118,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167248",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167248",
+              "version": 0
+            },
+            {
+              "id": 608105119,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167249",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167249",
+              "version": 0
+            },
+            {
+              "id": 978632982,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_001229687",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_001229687",
+              "version": 0
+            },
+            {
+              "id": 39142,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_002107",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_002107",
+              "version": 1
+            },
+            {
+              "id": 978632981,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_001242758",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001242758",
+              "version": 0
+            },
+            {
+              "id": 48221,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_002116",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_002116",
+              "version": 1
+            },
+            {
+              "id": 123538,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_002116",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_002116",
+              "version": 1
+            },
+            {
+              "id": 608121115,
+              "name": "B1PKY1_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "B1PKY1",
+              "_url": "https://www.uniprot.org/uniprot/B1PKY1",
+              "version": 1
+            },
+            {
+              "id": 608121116,
+              "name": "B2R7U3_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "B2R7U3",
+              "_url": "https://www.uniprot.org/uniprot/B2R7U3",
+              "version": 1
+            },
+            {
+              "id": 124583183,
+              "name": "1A03_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P04439",
+              "_url": "https://www.uniprot.org/uniprot/P04439",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": true,
+          "hideHaplotypes": true,
+          "pharmVarGene": false,
+          "strand": "plus",
+          "terms": [
+            {"id":560495211,"_url":"http://amigo.geneontology.org/amigo/term/GO:0000139","resource":"Gene Ontology","term":"Golgi membrane","termId":"GO:0000139"},
+            {"id":560497373,"_url":"http://amigo.geneontology.org/amigo/term/GO:0002474","resource":"Gene Ontology","term":"antigen processing and presentation of peptide antigen via MHC class I","termId":"GO:0002474"},
+            {"id":560495229,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005515","resource":"Gene Ontology","term":"protein binding","termId":"GO:0005515"},
+            {"id":560500225,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005887","resource":"Gene Ontology","term":"integral to plasma membrane","termId":"GO:0005887"},
+            {"id":560497106,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006955","resource":"Gene Ontology","term":"immune response","termId":"GO:0006955"},
+            {"id":560499972,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016020","resource":"Gene Ontology","term":"membrane","termId":"GO:0016020"},
+            {"id":560500226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016021","resource":"Gene Ontology","term":"integral to membrane","termId":"GO:0016021"},
+            {"id":560497350,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019882","resource":"Gene Ontology","term":"antigen processing and presentation","termId":"GO:0019882"},
+            {"id":560511774,"_url":"http://amigo.geneontology.org/amigo/term/GO:0031901","resource":"Gene Ontology","term":"early endosome membrane","termId":"GO:0031901"},
+            {"id":560512256,"_url":"http://amigo.geneontology.org/amigo/term/GO:0032393","resource":"Gene Ontology","term":"MHC class I receptor activity","termId":"GO:0032393"},
+            {"id":560515583,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042612","resource":"Gene Ontology","term":"MHC class I protein complex","termId":"GO:0042612"},
+            {"id":560516834,"_url":"http://amigo.geneontology.org/amigo/term/GO:0044419","resource":"Gene Ontology","term":"interspecies interaction between organisms","termId":"GO:0044419"}
+          ],
+          "version": 42
+        },
+        "version": 0
+      },
+      {
+        "id": 1449561432,
+        "alleles": [
+          {
+            "id": 1449561433,
+            "_label": "Other",
+            "allele": "Other",
+            "function": {
+              "id": 1445558334,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Absence",
+              "termId": "haplotypeTags:1445558334",
+              "version": 0
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561434,
+            "_label": "*15:02:01",
+            "function": {
+              "id": 1445558333,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Presence",
+              "termId": "haplotypeTags:1445558333",
+              "version": 0
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165954769",
+              "symbol": "HLA-B*15:02:01",
+              "name": "*15:02:01",
+              "version": 2
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA35056",
+          "symbol": "HLA-B",
+          "name": "major histocompatibility complex, class I, B",
+          "altNames": {
+            "symbol": [
+              "AS"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "p21.33",
+          "cbStop": "p21.33",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA532",
+            "name": "chr6",
+            "version": 3
+          },
+          "chrStartPosB37": 31321649,
+          "chrStartPosB38": 31353866,
+          "chrStopPosB37": 31324989,
+          "chrStopPosB38": 31357245,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553240536,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "3106",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=3106",
+              "version": 0
+            },
+            {
+              "id": 608121133,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000234745",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000234745",
+              "version": 0
+            },
+            {
+              "id": 75780,
+              "resource": "GenAtlas",
+              "resourceId": "HLA-B",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=HLA-B",
+              "version": 1
+            },
+            {
+              "id": 90708,
+              "resource": "GeneCard",
+              "resourceId": "HLA-B",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=HLA-B",
+              "version": 1
+            },
+            {
+              "id": 608121130,
+              "resource": "HGNC",
+              "resourceId": "HGNC:4932",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A4932",
+              "version": 1
+            },
+            {
+              "id": 608121134,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS11467",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS11467",
+              "version": 0
+            },
+            {
+              "id": 560875826,
+              "resource": "ModBase",
+              "resourceId": "P01889",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P01889",
+              "version": 0
+            },
+            {
+              "id": 560879669,
+              "resource": "ModBase",
+              "resourceId": "P10319",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P10319",
+              "version": 0
+            },
+            {
+              "id": 560884476,
+              "resource": "ModBase",
+              "resourceId": "P18463",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P18463",
+              "version": 0
+            },
+            {
+              "id": 560884475,
+              "resource": "ModBase",
+              "resourceId": "P18464",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P18464",
+              "version": 0
+            },
+            {
+              "id": 560884478,
+              "resource": "ModBase",
+              "resourceId": "P18465",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P18465",
+              "version": 0
+            },
+            {
+              "id": 560874353,
+              "resource": "ModBase",
+              "resourceId": "P30461",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30461",
+              "version": 0
+            },
+            {
+              "id": 560874355,
+              "resource": "ModBase",
+              "resourceId": "P30462",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30462",
+              "version": 0
+            },
+            {
+              "id": 560934538,
+              "resource": "ModBase",
+              "resourceId": "P30474",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30474",
+              "version": 0
+            },
+            {
+              "id": 560874370,
+              "resource": "ModBase",
+              "resourceId": "P30479",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30479",
+              "version": 0
+            },
+            {
+              "id": 560874359,
+              "resource": "ModBase",
+              "resourceId": "P30480",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30480",
+              "version": 0
+            },
+            {
+              "id": 560874390,
+              "resource": "ModBase",
+              "resourceId": "P30483",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30483",
+              "version": 0
+            },
+            {
+              "id": 560874391,
+              "resource": "ModBase",
+              "resourceId": "P30484",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30484",
+              "version": 0
+            },
+            {
+              "id": 560874392,
+              "resource": "ModBase",
+              "resourceId": "P30485",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30485",
+              "version": 0
+            },
+            {
+              "id": 560874393,
+              "resource": "ModBase",
+              "resourceId": "P30486",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30486",
+              "version": 0
+            },
+            {
+              "id": 560874394,
+              "resource": "ModBase",
+              "resourceId": "P30487",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30487",
+              "version": 0
+            },
+            {
+              "id": 560874395,
+              "resource": "ModBase",
+              "resourceId": "P30488",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30488",
+              "version": 0
+            },
+            {
+              "id": 560874384,
+              "resource": "ModBase",
+              "resourceId": "P30490",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30490",
+              "version": 0
+            },
+            {
+              "id": 560874282,
+              "resource": "ModBase",
+              "resourceId": "P30492",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30492",
+              "version": 0
+            },
+            {
+              "id": 560874281,
+              "resource": "ModBase",
+              "resourceId": "P30493",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30493",
+              "version": 0
+            },
+            {
+              "id": 560874277,
+              "resource": "ModBase",
+              "resourceId": "P30495",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30495",
+              "version": 0
+            },
+            {
+              "id": 560874272,
+              "resource": "ModBase",
+              "resourceId": "P30498",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P30498",
+              "version": 0
+            },
+            {
+              "id": 560873709,
+              "resource": "ModBase",
+              "resourceId": "Q29718",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29718",
+              "version": 0
+            },
+            {
+              "id": 560880154,
+              "resource": "ModBase",
+              "resourceId": "Q29836",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29836",
+              "version": 0
+            },
+            {
+              "id": 560936153,
+              "resource": "ModBase",
+              "resourceId": "Q29846",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29846",
+              "version": 0
+            },
+            {
+              "id": 560936154,
+              "resource": "ModBase",
+              "resourceId": "Q29847",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29847",
+              "version": 0
+            },
+            {
+              "id": 560936167,
+              "resource": "ModBase",
+              "resourceId": "Q29855",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29855",
+              "version": 0
+            },
+            {
+              "id": 560879690,
+              "resource": "ModBase",
+              "resourceId": "Q29940",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29940",
+              "version": 0
+            },
+            {
+              "id": 560936059,
+              "resource": "ModBase",
+              "resourceId": "Q29982",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q29982",
+              "version": 0
+            },
+            {
+              "id": 560881267,
+              "resource": "ModBase",
+              "resourceId": "Q31610",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q31610",
+              "version": 0
+            },
+            {
+              "id": 560881268,
+              "resource": "ModBase",
+              "resourceId": "Q31612",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q31612",
+              "version": 0
+            },
+            {
+              "id": 560936598,
+              "resource": "ModBase",
+              "resourceId": "Q9BCM7",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9BCM7",
+              "version": 0
+            },
+            {
+              "id": 560936597,
+              "resource": "ModBase",
+              "resourceId": "Q9BCM8",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9BCM8",
+              "version": 0
+            },
+            {
+              "id": 560936746,
+              "resource": "ModBase",
+              "resourceId": "Q9MY78",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9MY78",
+              "version": 0
+            },
+            {
+              "id": 560936886,
+              "resource": "ModBase",
+              "resourceId": "Q9TP36",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9TP36",
+              "version": 0
+            },
+            {
+              "id": 560936887,
+              "resource": "ModBase",
+              "resourceId": "Q9TP37",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=Q9TP37",
+              "version": 0
+            },
+            {
+              "id": 458318,
+              "resource": "MutDB",
+              "resourceId": "HLA-B",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=HLA-B",
+              "version": 1
+            },
+            {
+              "id": 14512,
+              "resource": "NCBI Gene",
+              "resourceId": "3106",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/3106",
+              "version": 1
+            },
+            {
+              "id": 236,
+              "resource": "OMIM",
+              "resourceId": "106300",
+              "_url": "https://omim.org/entry/106300",
+              "version": 1
+            },
+            {
+              "id": 1187,
+              "resource": "OMIM",
+              "resourceId": "142830",
+              "_url": "https://omim.org/entry/142830",
+              "version": 1
+            },
+            {
+              "id": 560528823,
+              "resource": "OMIM",
+              "resourceId": "608579",
+              "_url": "https://omim.org/entry/608579",
+              "version": 0
+            },
+            {
+              "id": 123312434,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_002397",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_002397",
+              "version": 1
+            },
+            {
+              "id": 608121131,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_023187",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_023187",
+              "version": 0
+            },
+            {
+              "id": 36716,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_007592",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_007592",
+              "version": 1
+            },
+            {
+              "id": 124576757,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_113891",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_113891",
+              "version": 0
+            },
+            {
+              "id": 608105122,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167246",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167246",
+              "version": 0
+            },
+            {
+              "id": 608105117,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167247",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167247",
+              "version": 0
+            },
+            {
+              "id": 608105118,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167248",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167248",
+              "version": 0
+            },
+            {
+              "id": 608105119,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167249",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167249",
+              "version": 0
+            },
+            {
+              "id": 42142,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_005505",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_005505",
+              "version": 1
+            },
+            {
+              "id": 51237,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_005514",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_005514",
+              "version": 1
+            },
+            {
+              "id": 120121,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_005514",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_005514",
+              "version": 1
+            },
+            {
+              "id": 123312435,
+              "name": "1B07_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P01889",
+              "_url": "https://www.uniprot.org/uniprot/P01889",
+              "version": 2
+            }
+          ],
+          "hasNonStandardHaplotypes": true,
+          "hideHaplotypes": true,
+          "pharmVarGene": false,
+          "strand": "minus",
+          "terms": [
+            {"id":560497373,"_url":"http://amigo.geneontology.org/amigo/term/GO:0002474","resource":"Gene Ontology","term":"antigen processing and presentation of peptide antigen via MHC class I","termId":"GO:0002474"},
+            {"id":560495229,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005515","resource":"Gene Ontology","term":"protein binding","termId":"GO:0005515"},
+            {"id":560495464,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005624","resource":"Gene Ontology","term":"membrane fraction","termId":"GO:0005624"},
+            {"id":560500224,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005886","resource":"Gene Ontology","term":"plasma membrane","termId":"GO:0005886"},
+            {"id":560500225,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005887","resource":"Gene Ontology","term":"integral to plasma membrane","termId":"GO:0005887"},
+            {"id":560497046,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006952","resource":"Gene Ontology","term":"defense response","termId":"GO:0006952"},
+            {"id":560497106,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006955","resource":"Gene Ontology","term":"immune response","termId":"GO:0006955"},
+            {"id":560499972,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016020","resource":"Gene Ontology","term":"membrane","termId":"GO:0016020"},
+            {"id":560500226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016021","resource":"Gene Ontology","term":"integral to membrane","termId":"GO:0016021"},
+            {"id":560497350,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019882","resource":"Gene Ontology","term":"antigen processing and presentation","termId":"GO:0019882"},
+            {"id":560512256,"_url":"http://amigo.geneontology.org/amigo/term/GO:0032393","resource":"Gene Ontology","term":"MHC class I receptor activity","termId":"GO:0032393"},
+            {"id":560515583,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042612","resource":"Gene Ontology","term":"MHC class I protein complex","termId":"GO:0042612"},
+            {"id":560516834,"_url":"http://amigo.geneontology.org/amigo/term/GO:0044419","resource":"Gene Ontology","term":"interspecies interaction between organisms","termId":"GO:0044419"}
+          ],
+          "version": 40
+        },
+        "version": 0
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1183699768,
+        "date": "2013-05-21T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1449167600,
+        "date": "2018-02-07T22:42:48.154-08:00",
+        "description": "guideline update",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450372859,
+        "date": "2019-03-20T14:12:46.696-07:00",
+        "description": "Added link to guideline video",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451890640,
+        "date": "2022-09-23T13:46:45.408-07:00",
+        "description": "fixed typo",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15100356,"title":"Clinical Pharmacogenetics Implementation Consortium Guideline for HLA Genotype and Use of Carbamazepine and Oxcarbazepine: 2017 Update.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5847474","crossReferences":[{"id":1449292006,"resource":"PubMed Central","resourceId":"PMC5847474","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5847474"},{"id":1449292005,"resource":"PubMed","resourceId":"29392710","_url":"https://www.ncbi.nlm.nih.gov/pubmed/29392710"},{"id":1449292007,"resource":"DOI","resourceId":"10.1002/cpt.1004","_url":"http://dx.doi.org/10.1002%2Fcpt.1004"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15058356,"title":"Clinical Pharmacogenetics Implementation Consortium guidelines for HLA-B genotype and carbamazepine dosing.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3748365","crossReferences":[{"id":1449276532,"resource":"PubMed Central","resourceId":"PMC3748365","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3748365"},{"id":1449276531,"resource":"PubMed","resourceId":"23695185","_url":"https://www.ncbi.nlm.nih.gov/pubmed/23695185"},{"id":1449276533,"resource":"DOI","resourceId":"10.1038/clpt.2013.103","_url":"http://dx.doi.org/10.1038%2Fclpt.2013.103"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15100921,"title":"CPIC® Guideline for HLA genotype and Use of Carbamazepine and Oxcarbazepine – CPIC","_sameAs":"https://cpicpgx.org/guidelines/guideline-for-carbamazepine-and-hla-b/","crossReferences":[{"id":1447983473,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-carbamazepine-and-hla-b/","_url":"https://cpicpgx.org/guidelines/guideline-for-carbamazepine-and-hla-b/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA448785",
+        "name": "carbamazepine",
+        "version": 13
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA35055",
+        "symbol": "HLA-A",
+        "name": "major histocompatibility complex, class I, A",
+        "version": 42
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA35056",
+        "symbol": "HLA-B",
+        "name": "major histocompatibility complex, class I, B",
+        "version": 40
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1447981980,
+      "html": "<p>The CPIC Dosing Guideline update for carbamazepine recommends an alternative drug for carbamazepine-naive patients carrying at least one copy of either <em>HLA-B*15:02</em> or <em>HLA-A*31:01</em> due to the association of those alleles with an increased risk of Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN). In addition, <em>HLA-A*31:01</em> is associated with an increased risk of drug reaction with eosinophilia and systemic symptoms (DRESS) and maculopapular exanthema (MPE).</p>\n",
+      "version": 1
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433644,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-carbamazepine-and-hla-b/\" target=\"_blank\">CPIC&reg; guideline for carbamazepine, <em>HLA-B</em> and <em>HLA-A</em></a>.</p>\n<h3 id=\"december-2017\">December 2017</h3>\n<p><em>Accepted article preview online January 2018; Advance online publication February 2018.</em></p>\n<ul>\n<li>The 2017 update of CPIC guidelines regarding the use of pharmacogenomic tests in dosing of carbamazepine have been published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium (CPIC). Literature up to June 2016 was reviewed, recommendations and supplemental information were updated.</li>\n<li>Excerpt from the 2017 dosing guideline update:\n<ul>\n<li>&quot;There is evidence linking <em>HLA-B*15:02</em> genotype with the risk of carbamazepine- and oxcarbazepine-induced SJS/TEN and linking <em>HLA-A*31:01</em> genotype with the risk of carbamazepine-induced SJS/TEN, DRESS and MPE.&quot;</li>\n<li>&quot;Data describing the relationship between <em>HLA-B*15:02</em> and <em>HLA-A*31:01</em> genotype and carbamazepine- or oxcarbazepine-induced cutaneous adverse reactions in pediatric patients are scarce. In the absence of data suggesting a different relationship between these <em>HLA</em> alleles and drug-induced hypersensitivity in pediatric patients, the recommendations may be used to guide use of carbamazepine and oxcarbazepine in both adult and pediatric patients.&quot;</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/carbamazepine/2017/CPIC_HLA_CBZ_OXC.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for <em>HLA</em> Genotype and Use of Carbamazepine and Oxcarbazepine: 2017 Update</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/carbamazepine/2017/CPIC_HLA_CBZ_OXC_Supplemental_Material.pdf\" target=\"_blank\">2017 supplement</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/hlabRefMaterials\">HLA Gene-Specific Information Tables</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/carbamazepine/Carbamazepine_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Carbamazepine Drug Resource Mappings</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/carbamazepine/CBZ_OXC_Pre_and_Post_Test_Alerts_and_Flow_Chart.xlsx\" target=\"_blank\">Carbamazepine and Oxcarbazepine Pre and Post Tests Alerts and Flow Chart</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-carbamazepine-therapy-recommendations-based-on-hla-b-and-hla-a-genotype\">Table 1: Carbamazepine therapy recommendations based on <em>HLA-B</em> and <em>HLA-A</em> genotype</h3>\n<p><em>Adapted from Tables 1 and 2 of the 2017 guideline update.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Likely phenotype</th>\n<th>Genotypes</th>\n<th>Examples of Diplotypes</th>\n<th>Phenotypic Implications</th>\n<th>Therapeutic Recommendations</th>\n<th>Classification of Recommendation <sup>a</sup></th>\n<th>Considerations for other aromatic anticonvulsants</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Homozygous for alleles other than <em>HLA-B*15:02</em> and <em>HLA-A*31:01</em></td>\n<td>Non-carrier of <em>HLA-B*15:02</em> or <em>HLA-A*31:01</em>.  No <em>HLA-B*15:02</em> or <em>HLA-A*31:01</em> alleles reported, often reported as &quot;negative&quot; on genotyping tests.</td>\n<td>*X/*X <sup>b</sup><br/>*Y/*Y <sup>c</sup></td>\n<td>Normal or reduced risk of carbamazepine-induced SJS/TEN, DRESS and MPE.</td>\n<td>Use carbamazepine per standard dosing guidelines. <sup>d</sup></td>\n<td>Strong</td>\n<td></td>\n</tr>\n<tr>\n<td>Heterozygote or homozygous for <em>HLA-A*31:01</em> and homozygous for <em>HLA-B</em> alleles other than <em>*15:02</em></td>\n<td>Carrier of <em>HLA-A*31:01</em>.  One or two <em>*31:01</em> alleles, often reported as &quot;positive&quot; on a genotyping test.<br/>Non-carrier of <em>HLA-B*15:02</em>.  No <em>HLA-B*15:02</em> alleles reported, often reported as &quot;negative&quot; on genotyping tests.</td>\n<td>*X/*X <sup>b</sup><br/><em>*31:01</em>/*Y <sup>c</sup><br/><em>*31:01/*31:01</em></td>\n<td>Increased risk of carbamazepine-induced SJS/TEN, DRESS and MPE</td>\n<td>A. If patient is carbamazepine-naive and alternative agents are available, do not use carbamazepine.<br/>B. If patient is carbamazepine-naive and alternative agents are not available, consider the use of carbamazepine with increased frequency of clinical monitoring. Discontinue therapy at first evidence of a cutaneous adverse reaction.<br/>C. The latency period for cutaneous adverse drug reactions is variable depending on phenotype; however, all usually occur within 3 months of regular dosing. Therefore, if patient has previously used carbamazepine for longer than 3 months without incidence of cutaneous adverse reactions, cautiously consider use of carbamazepine.</td>\n<td>A. Strong<br/>B. Optional<br/>C. Optional</td>\n<td>A. Other aromatic anticonvulsants (e.g. eslicarbazepine, lamotrigine, phenytoin, fosphenytoin and phenoarbital) have very limited evidence, if any, linking SJS/TEN, DRESS and/or MPE with the _HLA-A*31:01 allele, and thus no recommendation can be made with respect to choosing another aromatic anticonvulsant as an alternative agent.<br/>C. Previous tolerance of carbamazepine is not indicative of tolerance to other aromatic anticonvulsants.</td>\n</tr>\n<tr>\n<td>Heterozygote or homozygous for <em>HLA-B*15:02</em> and any <em>HLA-A*31:01</em> genotype (or <em>HLA-A*31:01</em> genotype unknown)</td>\n<td>Carrier of <em>HLA-B*15:02</em>.  One or two <em>*15:02</em> alleles, often reported as &quot;positive&quot; on a genotyping test.</td>\n<td><em>*15:02</em>/*X <sup>b</sup><br/><em>*15:02</em>/<em>*15:02</em></td>\n<td>Increased risk of carbamazepine-induced SJS/TEN</td>\n<td>A. If patient is carbamazepine-naive, do not use carbamazepine.<br/>B. The latency period for drug-induced SJS/TEN is short with continuous dosing and adherence to therapy (~4-28 days), and cases usually occur within 3 months of dosing; therefore, if the patient has previously used carbamazepine consistently for longer than 3 months without incidence of cutaneous adverse reactions, cautiously consider use of carbamazepine in the future.</td>\n<td>A. Strong<br/>B. Optional</td>\n<td>A. Other aromatic anticonvulsants (e.g. eslicarbazepine, lamotrigine, phenytoin, fosphenytoin and phenoarbital) have weaker evidence linking SJS/TEN with the <em>HLA-B*15:02</em> allele; however, caution should still be used in choosing an alternative agent.<br/>B. Previous tolerance of carbamazepine is not indicative of tolerance to other aromatic anticonvulsants.</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> Rating scheme described in the 2017 update supplement (see above)</p>\n<p><sup>b</sup> *X = any <em>HLA-B</em> genotype other than <em>*15:02</em></p>\n<p><sup>c</sup> *Y = any <em>HLA-A</em> genotype other than <em>*31:01</em></p>\n<p><em>HLA-B</em> = human leukocyte antigen B</p>\n<p><em>HLA-A</em> = human leukocyte antigen A</p>\n<p><sup>d</sup> <em>HLA-B*15:02</em> has a 100% negative predictive value for carbamazepine-induced SJS/TEN, and its use is currently recommended to guide use of carbamazepine and oxcarbazepine only. Because there is a much weaker association and less than 100% negative predictive value of <em>HLA-B*15:02</em> for SJS/TEN associated with other aromatic anticonvulsants, using these drugs instead of carbamazepine or oxcarbazepine in the setting of a negative <em>HLA-B*15:02</em> test in Southeast Asians will not result in prevention of anticonvulsant-associated SJS/TEN.</p>\n<h3 id=\"september-2013\">September 2013</h3>\n<p><em>Accepted article preview online May 2013; Advance online publication June 2013.</em></p>\n<ul>\n<li>Guidelines regarding the use of pharmacogenomic tests in dosing for carbamazepine have been published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">(CPIC)</a>.</li>\n<li>Excerpt from the 2013 carbamazepine dosing guidelines:</li>\n</ul>\n<blockquote class=\"blockquote\">\n<p>Human leukocyte antigen B (<em>HLA-B</em>) is a gene that encodes a cell surface protein involved in presenting antigens to the immune system.  The variant allele <em>HLA-B*15:02</em> is associated with an increased risk of Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN) in response to carbamazepine treatment.   We summarize evidence from the published literature supporting this association and provide recommendations for the use of carbamazepine based on <em>HLA-B</em> genotype.</p>\n</blockquote>\n<ul>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/carbamazepine/2013/23695185.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium Guidelines for <em>HLA-B</em> Genotype and Carbamazepine Dosing</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/carbamazepine/2013/23695185-supplement.pdf\" target=\"_blank\">2013 supplement</a>.</li>\n</ul>\n</li>\n</ul>\n",
+      "version": 1
+    },
+    "userId": "whaleyr",
+    "version": 49
+  }
+}

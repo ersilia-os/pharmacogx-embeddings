@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+hydralazine	3-methyltriazolophthalazine	Biochemical Reaction	NAT2	Gene	hepatocyte	32927458, 31257615, 7047041		hydralazine		Biochemical reaction from hydralazine to 3-methyltriazolophthalazine. This interaction is catalyzed by NAT2.
+hydralazine	hydralazine acetone hydrazone	Biochemical Reaction			hepatocyte	31257615, 7047041		hydralazine		Biochemical reaction from hydralazine to hydralazine acetone hydrazone.
+hydralazine, pyruvate	hydralazine pyruvic acid hydrazone	Biochemical Reaction			hepatocyte	32927458, 31257615, 7047041		hydralazine		Biochemical reaction from hydralazine, pyruvate to hydralazine pyruvic acid hydrazone.
+hydralazine acetone hydrazone	hydralazine pyruvic acid hydrazone	Biochemical Reaction			hepatocyte	31257615, 7047041				Biochemical reaction from hydralazine acetone hydrazone to hydralazine pyruvic acid hydrazone.

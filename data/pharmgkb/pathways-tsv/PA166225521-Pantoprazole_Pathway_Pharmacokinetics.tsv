@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+pantoprazole	pantoprazole sulfone	Biochemical Reaction	CYP3A4	Gene	hepatocyte	31846760, 27611887, 23512128, 15871633		pantoprazole		Biochemical reaction from pantoprazole to pantoprazole sulfone. This interaction is catalyzed by CYP3A4.
+4-demethyl pantoprazole	pantoprazole sulfate	Biochemical Reaction			hepatocyte	31846760, 23512128, 15871633				Biochemical reaction from 4-demethyl pantoprazole to pantoprazole sulfate.
+pantoprazole	pantoprazole sulfide	Biochemical Reaction	CYP3A4	Gene	hepatocyte	31846760, 27611887, 23512128		pantoprazole		Biochemical reaction from pantoprazole to pantoprazole sulfide. This interaction is catalyzed by CYP3A4.
+pantoprazole	4-demethyl pantoprazole	Biochemical Reaction	CYP2C19	Gene	hepatocyte	27611887, 23512128, 22649281, 20376628, 18823430, 15871633		pantoprazole		Biochemical reaction from pantoprazole to 4-demethyl pantoprazole. This interaction is catalyzed by CYP2C19.
+pantoprazole	pantoprazole	Transport	ABCB1, ABCG2	Gene	hepatocyte, null	27611887, 22355035, 20376628, 18823430, 15976989		pantoprazole		Transport from pantoprazole to pantoprazole. This interaction can be catalyzed by ABCG2 or ABCB1.

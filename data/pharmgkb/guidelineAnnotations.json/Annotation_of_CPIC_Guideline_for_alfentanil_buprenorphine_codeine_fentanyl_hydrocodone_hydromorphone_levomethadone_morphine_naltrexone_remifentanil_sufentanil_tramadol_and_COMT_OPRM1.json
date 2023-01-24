@@ -1,0 +1,149 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166227941",
+    "name": "Annotation of CPIC Guideline for alfentanil, buprenorphine, codeine, fentanyl, hydrocodone, hydromorphone, levomethadone, morphine, naltrexone, remifentanil, sufentanil, tramadol and COMT, OPRM1",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983494,
+        "name": "CPIC® Guideline for Codeine and CYP2D6 – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "_U5Tu5uYjrc",
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451309102,
+        "date": "2021-01-11T00:00:00-08:00",
+        "type": "Create",
+        "version": 1
+      },
+      {
+        "id": 1451598146,
+        "date": "2021-11-29T15:42:20.114-08:00",
+        "description": "Added video",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15115982,"title":"Clinical Pharmacogenetics Implementation Consortium Guideline for CYP2D6, OPRM1, and COMT Genotypes and Select Opioid Therapy.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8249478","crossReferences":[{"id":1451837577,"resource":"PubMed Central","resourceId":"PMC8249478","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8249478"},{"id":1451307240,"resource":"PubMed","resourceId":"33387367","_url":"https://www.ncbi.nlm.nih.gov/pubmed/33387367"},{"id":1451307241,"resource":"DOI","resourceId":"10.1002/cpt.2149","_url":"http://dx.doi.org/10.1002%2Fcpt.2149"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": false,
+    "recommendation": false,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA448084",
+        "name": "alfentanil",
+        "version": 6
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA448685",
+        "name": "buprenorphine",
+        "version": 5
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA449088",
+        "name": "codeine",
+        "version": 12
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA449599",
+        "name": "fentanyl",
+        "version": 8
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA449900",
+        "name": "hydrocodone",
+        "version": 9
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA449918",
+        "name": "hydromorphone",
+        "version": 9
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA166227621",
+        "name": "levomethadone",
+        "version": 3
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA450550",
+        "name": "morphine",
+        "version": 13
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA450588",
+        "name": "naltrexone",
+        "version": 5
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451232",
+        "name": "remifentanil",
+        "version": 5
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451527",
+        "name": "sufentanil",
+        "version": 5
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451735",
+        "name": "tramadol",
+        "version": 10
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA117",
+        "symbol": "COMT",
+        "name": "catechol-O-methyltransferase",
+        "version": 5126
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA31945",
+        "symbol": "OPRM1",
+        "name": "opioid receptor mu 1",
+        "version": 141
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1451309100,
+      "html": "<p>There are currently no recommendations for dosing of alfentanil, buprenorphine, codeine, fentanyl, hydrocodone, hydromorphone, levomethadone, naltrexone, remifentanil, sufentanil or tramadol based on <em>OPRM1</em> or <em>COMT</em> genotypes.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433713,
+      "html": "<p>The authors of the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/\" target=\"_blank\">CPIC&reg; guideline for opioids and <em>CYP2D6</em>, <em>OPRM1</em> and <em>COMT</em></a> evaluated the available evidence for therapeutic dose recommendations for alfentanil, buprenorphine, codeine, fentanyl, hydrocodone, hydromorphone, levomethadone, naltrexone, remifentanil, sufentanil and tramadol based on <em>OPRM1</em> or <em>COMT</em> genotypes.</p>\n<p>Although they found evidence to suggest that the <a href=\"/variant/PA166156991\">rs1799971</a> G allele in <em>OPRM1</em> is associated with increased morphine dose requirements, the alteration in dose is so small that it is not clinically actionable. There was insufficient evidence to provide any other recommendations for other opioids and <em>OPRM1</em> variants. Similarly, there was mixed evidence about the association between variants in <em>COMT</em> and opioid dose or response.</p>\n<h3 id=\"december-2020\">December 2020</h3>\n<ul>\n<li>The CPIC guideline for opioids and <em>CYP2D6</em>, <em>OPRM1</em> and <em>COMT</em> genotypes has been <a rel=\"noopener noreferrer\" href=\"https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2149\" target=\"_blank\">published in Clinical Pharmacology and Therapeutics</a>. This is an update to the CPIC guideline for codeine and <em>CYP2D6</em>.</li>\n<li>These guidelines are applicable to:\n<ul>\n<li>adult patients</li>\n<li>pediatric patients</li>\n</ul>\n</li>\n<li>Excerpts from the guideline:\n<ul>\n<li>&quot;<em>OPRM1</em> variants inconsistently have been shown to alter post-operative dose requirements for\nsome opioids. There is evidence for a small increase in post-operative morphine dose\nrequirements (approximately 10%) in some clinical studies in patients carrying at least one copy of\nthe <em>OPRM1</em> rs1799971 G allele, though the alteration in morphine dose is so modest as to not be\nclinically actionable.&quot;</li>\n<li>&quot;There is also insufficient evidence at this time to conclude altered\nanalgesic response to other opioids in relation to rs1799971, or other <em>OPRM1</em> variants.&quot;</li>\n<li>&quot;For the most highly studied <em>COMT</em> variant, rs4680, there is no evidence to support an association of\nthis variant with opioid adverse events, and there is mixed evidence for an association between <em>COMT</em>\nrs4680 genotype and analgesia or opioid dose requirements.&quot;</li>\n<li>&quot;For all other <em>COMT</em> variants, there is mixed evidence for an association between <em>COMT</em> genotype and analgesia, opioid dose requirements or adverse events.&quot;</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/opioids/2020/33387367.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for CYP2D6, OPRM1, and COMT genotype and select opioid therapy</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/opioids/2020/33387367-supplement.pdf\" target=\"_blank\">Guideline supplement</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"guideline-supplemental-table-s7-morphine-therapy-recommendations-based-on-oprm1-genotype\">Guideline Supplemental Table S7: Morphine therapy recommendations based on <em>OPRM1</em> genotype</h3>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Genotype</th>\n<th>Implications</th>\n<th>Recommendations</th>\n<th>Classification of<br/>recommendation<sup>a</sup></th>\n<th>Considerations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>rs1799971 G</td>\n<td>The rs1799971 G allele is associated with small but statistically significant decreases in analgesia and/or increases in morphine requirements in some studies. However, this does not appear to translate into clinically actionable dose alterations.</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td>Most publications focus on morphine for postoperative pain. Many factors contribute to variability in postoperative morphine response including age, psychological status, tolerance, surgery type and duration, genetics and presurgical pain and opioid use. Due to the marginal difference in dose between genotypes and numerous other factors affecting this outcome, the safest recommendation is to “start low and go slow.”</td>\n</tr>\n<tr>\n<td>Other variants</td>\n<td>No effect or insufficient evidence for morphine adverse events, opioid dose requirements, or analgesia</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"guideline-supplemental-table-s8-fentanyl-therapy-recommendations-based-on-oprm1-genotype\">Guideline Supplemental Table S8: Fentanyl therapy recommendations based on <em>OPRM1</em> genotype</h3>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Genotype</th>\n<th>Implications</th>\n<th>Recommendations</th>\n<th>Classification of<br/>recommendation<sup>a</sup></th>\n<th>Considerations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>rs1799971 G</td>\n<td>No effect for fentanyl adverse events and analgesia. Mixed evidence for an association between <em>OPRM1</em> rs1799971 and fentanyl dose requirements.</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td>Many factors contribute to variability in fentanyl response including age, psychological status, tolerance, surgery type and duration, genetics and presurgical pain and opioid use.</td>\n</tr>\n<tr>\n<td>Other variants</td>\n<td>No effect or insufficient evidence for fentanyl adverse events, opioid dose requirements, or analgesia</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"guideline-supplemental-table-s9-other-opioids-alfentanil-buprenorphine-codeine-hydrocodone-hydromorphone-levomethadone-methadone-naltrexone-oxycodone-remifentanil-sufentanil-and-tramadol-therapy-recommendations-based-on-oprm1-genotype\">Guideline Supplemental Table S9: Other opioids (alfentanil, buprenorphine, codeine, hydrocodone, hydromorphone, levomethadone, methadone, naltrexone, oxycodone, remifentanil, sufentanil and tramadol) therapy recommendations based on <em>OPRM1</em> genotype</h3>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Genotype</th>\n<th>Implications</th>\n<th>Recommendations</th>\n<th>Classification of<br/>recommendation<sup>a</sup></th>\n<th>Considerations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>rs1799971 G</td>\n<td>No effect or insufficient evidence for adverse events, opioid dose requirements, analgesia, or change in opioid dependence/withdrawal therapy</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td>Many factors contribute to variability in postoperative opioid response including age, psychological status, tolerance, surgery type and duration, genetics and presurgical pain and opioid use.</td>\n</tr>\n<tr>\n<td>Other variants</td>\n<td>No effect or insufficient evidence for opioid adverse events, opioid dose requirements, analgesia, or change in opioid dependence/withdrawal therapy</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td>Many factors contribute to variability in postoperative opioid response including age, psychological status, tolerance, surgery type and duration, genetics and presurgical pain and opioid use.</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"guideline-supplemental-table-s10-opioid-therapy-recommendations-based-on-comt-genotype\">Guideline Supplemental Table S10: Opioid therapy recommendations based on <em>COMT</em> genotype</h3>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Genotype</th>\n<th>Implications</th>\n<th>Recommendations</th>\n<th>Classification of<br/>recommendation<sup>a</sup></th>\n<th>Considerations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>rs4680 A</td>\n<td>No effect for opioid adverse events. Insufficient evidence for an association between <em>COMT</em> rs4680 genotype, analgesia and opioid dose requirements.</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td>Many factors contribute to variability in opioid response including other gene variants, age, psychological status, indication and duration of opioid use. Mixed evidence indicates both supporting and non-supporting evidence for an association with neither direction dominating.</td>\n</tr>\n<tr>\n<td>Other variants</td>\n<td>Insufficient evidence for an association between <em>COMT</em> genotype, analgesia, opioid dose requirements and adverse events</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td>Many other factors contribute to variability in opioid response including other gene variants, age, psychological status, indication and duration of opioid use.</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> Rating scheme described in the Strength of Recommendations section in the <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/opioids/2020/33387367-supplement.pdf\" target=\"_blank\">guideline supplement</a></p>\n",
+      "version": 0
+    },
+    "userId": "rachel",
+    "version": 2
+  }
+}

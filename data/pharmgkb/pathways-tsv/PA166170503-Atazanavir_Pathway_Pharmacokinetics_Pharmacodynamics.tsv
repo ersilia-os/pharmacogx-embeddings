@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+atazanavir	atazanavir M2	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	23722954, 21148251, 21148252, 21731578, 19546238, 16176117		atazanavir		Biochemical reaction from atazanavir to atazanavir M2. This interaction can be catalyzed by CYP3A4 or CYP3A5.
+atazanavir	atazanavir M4	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	23722954, 21148251, 21148252, 21731578, 19546238, 16176117		atazanavir		Biochemical reaction from atazanavir to atazanavir M4. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+atazanavir	atazanavir M1	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	23722954, 21148251, 21148252, 21731578, 19546238, 16176117		atazanavir		Biochemical reaction from atazanavir to atazanavir M1. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+atazanavir	atazanavir M5	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	23722954, 21148251, 21148252, 21731578, 19546238, 16176117		atazanavir		Biochemical reaction from atazanavir to atazanavir M5. This interaction can be catalyzed by CYP3A4 or CYP3A5.
+atazanavir	atazanavir M3	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	23722954, 21148251, 21148252, 21731578, 19546238, 16176117		atazanavir		Biochemical reaction from atazanavir to atazanavir M3. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+atazanavir	UGT1A1	Inhibition			hepatocyte	24492252	UGT1A1	atazanavir		atazanavir inhibits UGT1A1.
+atazanavir	atazanavir	Transport			null, hepatocyte	20551216		atazanavir		Transport from atazanavir to atazanavir.
+atazanavir	atazanavir	Transport			hepatocyte, null	24997317, 23224979, 22394315, 20551216, 16355344		atazanavir		Transport from atazanavir to atazanavir.

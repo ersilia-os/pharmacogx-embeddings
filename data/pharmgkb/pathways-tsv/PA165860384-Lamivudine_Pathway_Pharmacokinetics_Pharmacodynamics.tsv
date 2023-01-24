@@ -1,0 +1,14 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+HIV-RT	HIV-RT	Biochemical Reaction	lamivudine	Control	cell	11008000,1318048,16870759		lamivudine	
+lamivudine diphosphate choline	lamivudine	Biochemical Reaction	CHPT1	Catalysis	cell	13673002,16870759	CHPT1	lamivudine	
+Lamivudine diphosphate ethanolamine	lamivudine	Biochemical Reaction			cell	13673002,16870759		lamivudine	
+lamivudine	lamivudine	Biochemical Reaction	CMPK1	Catalysis	cell		CMPK1	lamivudine	
+lamivudine	lamivudine	Biochemical Reaction	NT5C	Catalysis	cell		NT5C	lamivudine	
+lamivudine	lamivudine	Biochemical Reaction	DCK	Catalysis	cell		DCK	lamivudine	
+lamivudine	lamivudine	Biochemical Reaction	NME1,NME2,PGK1	Catalysis	cell		"NME2","PGK1","NME1"	lamivudine	
+lamivudine	lamivudine diphosphate choline	Biochemical Reaction	PCYT1A	Catalysis	cell	13673002,16870759	PCYT1A	lamivudine	
+lamivudine	Lamivudine diphosphate ethanolamine	Biochemical Reaction	PCYT2	Catalysis	cell	13673002,16870759	PCYT2	lamivudine	
+lamivudine	lamivudine sulfoxide	Biochemical Reaction	SULT	Catalysis	cell			lamivudine	
+lamivudine	lamivudine	Transport	ABCC4	Catalysis	cell		ABCC4	lamivudine	
+lamivudine	lamivudine	Transport	ABCB1,ABCC1,ABCC2,ABCC3,ABCC4,ABCG2	Catalysis	cell		"ABCC3","ABCC4","ABCC1","ABCB1","ABCC2","ABCG2"	lamivudine	
+lamivudine	lamivudine	Transport	SLC22A1,SLC22A2,SLC22A3	Catalysis	cell		"SLC22A3","SLC22A2","SLC22A1"	lamivudine	

@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+dextrorphan	dextrorphan O-glucuronide	Biochemical Reaction			hepatocyte	30316900, 15336363				Biochemical reaction from dextrorphan to dextrorphan O-glucuronide.
+dextromethorphan	dextrorphan	Biochemical Reaction	CYP2D6, CYP3A4	Gene	hepatocyte	32942157, 30316900, 15336363, 11602530		dextromethorphan		Biochemical reaction from dextromethorphan to dextrorphan. This interaction can be catalyzed by CYP2D6 or CYP3A4.
+3-methoxymorphinan	3-hydroxymorphinan	Biochemical Reaction	CYP2D6	Gene	hepatocyte	30316900, 15336363				Biochemical reaction from 3-methoxymorphinan to 3-hydroxymorphinan. This interaction is catalyzed by CYP2D6.
+dextrorphan	3-hydroxymorphinan	Biochemical Reaction	CYP3A4	Gene	hepatocyte	30316900, 15336363				Biochemical reaction from dextrorphan to 3-hydroxymorphinan. This interaction is catalyzed by CYP3A4.
+dextromethorphan	3-methoxymorphinan	Biochemical Reaction	CYP2B6, CYP3A4	Gene	hepatocyte	30316900, 15336363, 11602530		dextromethorphan		Biochemical reaction from dextromethorphan to 3-methoxymorphinan. This interaction can be catalyzed by CYP3A4 or CYP2B6.

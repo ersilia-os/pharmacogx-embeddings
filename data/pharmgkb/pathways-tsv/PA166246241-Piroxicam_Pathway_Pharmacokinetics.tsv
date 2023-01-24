@@ -1,0 +1,4 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+piroxicam	desmethyl piroxicam	Biochemical Reaction			hepatocyte	7021122		piroxicam		Biochemical reaction from piroxicam to desmethyl piroxicam.
+piroxicam	piroxicam glucuronide	Biochemical Reaction			hepatocyte	7908879, 7021122		piroxicam		Biochemical reaction from piroxicam to piroxicam glucuronide.
+piroxicam	5'-hydroxypiroxicam	Biochemical Reaction	CYP2C9	Gene	hepatocyte	32164968, 16198655, 7908879, 3582473, 7021122, 89124		piroxicam		Biochemical reaction from piroxicam to 5'-hydroxypiroxicam. This interaction is catalyzed by CYP2C9.

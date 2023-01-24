@@ -1,0 +1,19 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+cyclosporine	AM1	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	enterocyte		"CYP3A4","CYP3A5"	cyclosporine	
+cyclosporine	AM1	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte		"CYP3A4","CYP3A5"	cyclosporine	
+cyclosporine	AM4N	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte		"CYP3A4","CYP3A5"	cyclosporine	
+cyclosporine	AM4N	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	enterocyte		"CYP3A4","CYP3A5"	cyclosporine	
+cyclosporine	AM9	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte		"CYP3A4","CYP3A5"	cyclosporine	
+cyclosporine	AM9	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	enterocyte		"CYP3A4","CYP3A5"	cyclosporine	
+tacrolimus	13-O-Demethyl-tacrolimus	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte		"CYP3A4","CYP3A5"	tacrolimus	
+tacrolimus	13-O-Demethyl-tacrolimus	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	enterocyte		"CYP3A4","CYP3A5"	tacrolimus	
+tacrolimus	31-O-Demethyl-tacrolimus	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	enterocyte		"CYP3A4","CYP3A5"	tacrolimus	
+tacrolimus	31-O-Demethyl-tacrolimus	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte		"CYP3A4","CYP3A5"	tacrolimus	
+cyclosporine	cyclosporine	Transport			"hepatocyte","lymphocyte"	6129301		cyclosporine	
+cyclosporine	cyclosporine	Transport			enterocyte	15041303,6129301		cyclosporine	
+cyclosporine	cyclosporine	Transport	ABCB1	Catalysis	enterocyte	18978522,7681059,9333100	ABCB1	cyclosporine	
+cyclosporine	cyclosporine	Transport			"hepatocyte","enterocyte"			cyclosporine	
+tacrolimus	tacrolimus	Transport			enterocyte	15041303,15244495		tacrolimus	
+tacrolimus	tacrolimus	Transport	ABCB1	Catalysis	enterocyte	15919446,7681059	ABCB1	tacrolimus	
+tacrolimus	tacrolimus	Transport			"hepatocyte","enterocyte"			tacrolimus	
+tacrolimus	tacrolimus	Transport			"hepatocyte","lymphocyte"	15041303		tacrolimus	

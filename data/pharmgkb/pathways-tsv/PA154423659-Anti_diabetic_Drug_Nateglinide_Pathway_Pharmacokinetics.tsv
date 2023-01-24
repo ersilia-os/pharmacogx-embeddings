@@ -1,0 +1,17 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+M1	M11	Biochemical Reaction			hepatocyte	11259325			
+M1	M12	Biochemical Reaction			hepatocyte	11259325			
+M2	M11	Biochemical Reaction			hepatocyte	11259325			
+M2	M12	Biochemical Reaction			hepatocyte				
+M3	M11	Biochemical Reaction			hepatocyte	11259325			
+M3	M12	Biochemical Reaction			hepatocyte	11259325			
+M7	M11	Biochemical Reaction			hepatocyte				
+M7	M12	Biochemical Reaction			hepatocyte				
+nateglinide	M1	Biochemical Reaction	CYP2C9,CYP3A4	Catalysis	hepatocyte	11259325,14748619,16372821	"CYP2C9","CYP3A4"	nateglinide	
+nateglinide	M2	Biochemical Reaction	CYP2C9,CYP3A4	Catalysis	hepatocyte	11259325	"CYP2C9","CYP3A4"	nateglinide	
+nateglinide	M3	Biochemical Reaction	CYP2C9,CYP3A4	Catalysis	hepatocyte	11259325	"CYP2C9","CYP3A4"	nateglinide	
+nateglinide	M4	Biochemical Reaction			hepatocyte	11259325		nateglinide	
+nateglinide	M5	Biochemical Reaction			hepatocyte	11259325		nateglinide	
+nateglinide	M6	Biochemical Reaction			hepatocyte	11259325		nateglinide	
+nateglinide	M7	Biochemical Reaction			hepatocyte	11259325		nateglinide	
+nateglinide	nateglinide	Transport	SLCO1B1	Catalysis	hepatocyte	16796707,18187595	SLCO1B1	nateglinide	

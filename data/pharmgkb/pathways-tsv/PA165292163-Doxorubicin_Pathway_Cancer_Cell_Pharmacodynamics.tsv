@@ -1,0 +1,19 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+doxorubicin	doxorubicin semiquinone	Biochemical Reaction	NOS3, NQO1, XDH	Gene	malignant cell	12688675, 9333325, 1911046		doxorubicin		Biochemical reaction from doxorubicin to doxorubicin semiquinone. This interaction can be catalyzed by XDH, NQO1 or NOS3.
+doxorubicin semiquinone	doxorubicin, reactive oxygen species	Biochemical Reaction			malignant cell	2544260		doxorubicin		Biochemical reaction from doxorubicin semiquinone to doxorubicin, reactive oxygen species.
+doxorubicin	TOP2A	Inhibition			malignant cell	2551497, 6093249	TOP2A	doxorubicin		doxorubicin inhibits TOP2A.
+GPX1	damage	Inhibition			malignant cell	12751786	GPX1			GPX1 inhibits damage.
+CAT	damage	Inhibition			malignant cell	12751786	CAT			CAT inhibits damage.
+SOD1	damage	Inhibition			malignant cell	12751786	SOD1			SOD1 inhibits damage.
+GPX1	reactive oxygen species	Inhibition			malignant cell	2544260	GPX1			GPX1 inhibits reactive oxygen species.
+doxorubicin	Doxorubicin Pathway, Pharmacokinetics	Leads To			malignant cell, hepatocyte	8469347		doxorubicin		doxorubicin leads to Doxorubicin Pathway, Pharmacokinetics.
+doxorubicin	damage	Leads To			malignant cell	10075079, 6093249		doxorubicin		doxorubicin leads to damage.
+reactive oxygen species	damage	Leads To			malignant cell	10075079				reactive oxygen species leads to damage.
+reactive oxygen species	damage	Leads To			malignant cell	12139490, 10075079				reactive oxygen species leads to damage.
+Oxidative stress [MESH:D018384]	damage	Leads To			malignant cell	10075079				Oxidative stress [MESH:D018384] leads to damage.
+damage	DNA repair [MESH:D004260]	Leads To	ERCC2, MLH1, MSH2, TOP2A, TP53	Gene	malignant cell	11790556, 11477562, 9514047				damage leads to DNA repair [MESH:D004260]. This interaction can be catalyzed by ERCC2, TP53, MSH2, MLH1 or TOP2A.
+reactive oxygen species	apoptosis	Leads To	NFKB1	Gene	malignant cell	12139490, 10075079				reactive oxygen species leads to apoptosis. This interaction is catalyzed by NFKB1.
+reactive oxygen species	Oxidative stress [MESH:D018384]	Leads To			malignant cell	12139490, 10075079				reactive oxygen species leads to Oxidative stress [MESH:D018384].
+doxorubicin	doxorubicin	Transport			malignant cell	11289116		doxorubicin		Transport from doxorubicin to doxorubicin.
+doxorubicin	doxorubicin	Transport	SLC22A16	Gene	null, malignant cell	17559346		doxorubicin		Transport from doxorubicin to doxorubicin. This interaction is catalyzed by SLC22A16.
+doxorubicin	doxorubicin	Transport	ABCB1, ABCC1, ABCC2, ABCG2, RALBP1	Gene	malignant cell, null	17704753, 15164094, 12527936, 12370750, 11172691, 7954421, 1352877, 3180056, 7214365		doxorubicin		Transport from doxorubicin to doxorubicin. This interaction can be catalyzed by ABCG2, RALBP1, ABCB1, ABCC1 or ABCC2.

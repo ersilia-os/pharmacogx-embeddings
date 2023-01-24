@@ -1,0 +1,14 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+oxycodone	noroxycodone	Biochemical Reaction	CYP3A	Gene	hepatocyte	27692933, 24523296, 22291644, 16678548, 15039299, 1389934		noroxycodone, oxycodone		Biochemical reaction from oxycodone to noroxycodone. This interaction is catalyzed by CYP3A.
+oxycodone	6beta-oxycodol hydrochloride	Biochemical Reaction			hepatocyte	22291644, 16678548, 14516487		6beta-oxycodol hydrochloride, oxycodone		Biochemical reaction from oxycodone to 6beta-oxycodol hydrochloride.
+oxymorphone	oxymorphone 3-glucuronide	Biochemical Reaction	UGT2B7	Gene	hepatocyte	22511697, 9443856		oxymorphone, oxymorphone 3-glucuronide		Biochemical reaction from oxymorphone to oxymorphone 3-glucuronide. This interaction is catalyzed by UGT2B7.
+noroxycodone	noroxymorphone	Biochemical Reaction	CYP2D6	Gene	hepatocyte	16678548, 15039299, 14516487		noroxycodone, noroxymorphone		Biochemical reaction from noroxycodone to noroxymorphone. This interaction is catalyzed by CYP2D6.
+oxycodone	dihydrooxycodone	Biochemical Reaction			hepatocyte	22291644, 16678548, 14516487		6alpha-oxycodol, oxycodone		Biochemical reaction from oxycodone to 6alpha-oxycodol.
+oxycodone	oxycodone-6-glucuronide	Biochemical Reaction	UGT2B4, UGT2B7	Gene	hepatocyte	27692933, 14516487		oxycodone, oxycodone-glucuronide		Biochemical reaction from oxycodone to oxycodone-glucuronide. This interaction can be catalyzed by UGT2B7 or UGT2B4.
+noroxycodone	6-beta-noroxycodol	Biochemical Reaction			hepatocyte	22291644, 16678548, 14516487		6-beta-noroxycodol, noroxycodone		Biochemical reaction from noroxycodone to 6-beta-noroxycodol.
+oxymorphone	6beta-oxymorphol	Biochemical Reaction			hepatocyte	16678548		6beta-oxymorphol, oxymorphone		Biochemical reaction from oxymorphone to 6beta-oxymorphol.
+oxycodone	oxymorphone	Biochemical Reaction	CYP2D6	Gene	hepatocyte	27692933, 16678548, 15039299, 8477556		oxycodone, oxymorphone		Biochemical reaction from oxycodone to oxymorphone. This interaction is catalyzed by CYP2D6.
+noroxycodone	noroxycodone-glucuronide	Biochemical Reaction			hepatocyte	14516487		noroxycodone, noroxycodone-glucuronide		Biochemical reaction from noroxycodone to noroxycodone-glucuronide.
+oxymorphone	6alpha-oxymorphol	Biochemical Reaction			hepatocyte	16678548		6alpha-oxymorphol, oxymorphone		Biochemical reaction from oxymorphone to 6alpha-oxymorphol.
+noroxycodone	6-alpha-noroxycodol	Biochemical Reaction			hepatocyte	22291644, 16678548, 14516487		6-alpha-noroxycodol, noroxycodone		Biochemical reaction from noroxycodone to 6-alpha-noroxycodol.
+oxymorphone	noroxymorphone	Biochemical Reaction	CYP2D6, CYP3A4	Gene	hepatocyte	16678548, 14516487		noroxymorphone, oxymorphone		Biochemical reaction from oxymorphone to noroxymorphone. This interaction can be catalyzed by CYP3A4 or CYP2D6.

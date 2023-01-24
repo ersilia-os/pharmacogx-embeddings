@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+n-desethylabemaciclib	hydroxy-N-desethylabemaciclib	Biochemical Reaction	CYP3A4	Gene	hepatocyte	35527301, 32080863				Biochemical reaction from n-desethylabemaciclib to hydroxy-N-desethylabemaciclib. This interaction is catalyzed by CYP3A4.
+abemaciclib	n-desethylabemaciclib	Biochemical Reaction	CYP3A4	Gene	hepatocyte	35527301, 32080863		abemaciclib		Biochemical reaction from abemaciclib to n-desethylabemaciclib. This interaction is catalyzed by CYP3A4.
+hydroxyabemaciclib	hydroxy-N-desethylabemaciclib	Biochemical Reaction	CYP3A4	Gene	hepatocyte	32080863				Biochemical reaction from hydroxyabemaciclib to hydroxy-N-desethylabemaciclib. This interaction is catalyzed by CYP3A4.
+abemaciclib	hydroxyabemaciclib	Biochemical Reaction	CYP3A4	Gene	hepatocyte	35527301, 32080863		abemaciclib		Biochemical reaction from abemaciclib to hydroxyabemaciclib. This interaction is catalyzed by CYP3A4.
+abemaciclib	abemaciclib	Transport	ABCB1, ABCG2	Gene	hepatocyte, null	35527301		abemaciclib		Transport from abemaciclib to abemaciclib. This interaction can be catalyzed by ABCG2 or ABCB1.

@@ -1,0 +1,17 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+simvastatin acid	simvastatin acyl glucuronide	Biochemical Reaction	UGT1A1, UGT1A3	Gene	hepatocyte	34045219, 11950779				Biochemical reaction from simvastatin acid to simvastatin acyl glucuronide. This interaction can be catalyzed by UGT1A1 or UGT1A3.
+6-exomethylenesimvastatin	6-hydroxymethyl simvastatin	Biochemical Reaction			hepatocyte	2253556				Biochemical reaction from 6-exomethylenesimvastatin to 6-hydroxymethyl simvastatin.
+simvastatin	simvastatin acid	Biochemical Reaction	CES1, PON1	Gene	hepatocyte	34045219, 31172248, 9321523		simvastatin		Biochemical reaction from simvastatin to simvastatin acid. This interaction can be catalyzed by CES1 or PON1.
+simvastatin acyl glucuronide	simvastatin	Biochemical Reaction			hepatocyte	34045219		simvastatin		Biochemical reaction from simvastatin acyl glucuronide to simvastatin.
+simvastatin	3,5-dihydrodiol simvastatin	Biochemical Reaction	CYP3A	Gene	hepatocyte	9321523		simvastatin		Biochemical reaction from simvastatin to 3,5-dihydrodiol simvastatin. This interaction is catalyzed by CYP3A.
+6-exomethylenesimvastatin	6'-carboxy simvastatin	Biochemical Reaction			hepatocyte	2253556				Biochemical reaction from 6-exomethylenesimvastatin to 6'-carboxy simvastatin.
+simvastatin	6-exomethylenesimvastatin	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	34045219, 31172248, 9321523, 2253556		simvastatin		Biochemical reaction from simvastatin to 6-exomethylenesimvastatin. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+simvastatin acid	6-hydroxymethyl simvastatin acid	Biochemical Reaction	CYP2C8, CYP3A4, CYP3A5	Gene	hepatocyte	34045219, 31172248, 12848784				Biochemical reaction from simvastatin acid to 6-hydroxymethyl simvastatin acid. This interaction can be catalyzed by CYP3A4, CYP3A5 or CYP2C8.
+simvastatin	simvastatin acid	Biochemical Reaction	CES1, PON1	Gene	null	34045219, 31172248, 25747989		simvastatin		Biochemical reaction from simvastatin to simvastatin acid. This interaction can be catalyzed by PON1 or CES1.
+simvastatin	3'-hydroxysimvastatin	Biochemical Reaction	CYP3A	Gene	hepatocyte	9321523, 2253556		simvastatin		Biochemical reaction from simvastatin to 3'-hydroxysimvastatin. This interaction is catalyzed by CYP3A.
+6-exomethylenesimvastatin	HMGCR	Inhibition			hepatocyte	2253556	HMGCR			6-exomethylenesimvastatin inhibits HMGCR.
+6'-carboxy simvastatin	HMGCR	Inhibition			hepatocyte	2253556	HMGCR			6'-carboxy simvastatin inhibits HMGCR.
+6-hydroxymethyl simvastatin acid	HMGCR	Inhibition			hepatocyte	34045219	HMGCR			6-hydroxymethyl simvastatin acid inhibits HMGCR.
+simvastatin acid	HMGCR	Inhibition			hepatocyte	34045219	HMGCR			simvastatin acid inhibits HMGCR.
+simvastatin	simvastatin	Transport	ABCB1, ABCC2	Gene	hepatocyte, null	30024814, 22186618, 19238649, 16321621		simvastatin		Transport from simvastatin to simvastatin. This interaction can be catalyzed by ABCB1 or ABCC2.
+simvastatin	simvastatin	Transport	SLCO1B1	Gene	null, hepatocyte	34045219		simvastatin		Transport from simvastatin to simvastatin. This interaction is catalyzed by SLCO1B1.

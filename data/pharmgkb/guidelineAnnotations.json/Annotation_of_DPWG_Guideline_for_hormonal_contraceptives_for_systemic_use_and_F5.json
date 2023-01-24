@@ -1,0 +1,411 @@
+{
+  "citations": [
+    {
+      "id": 7283333,
+      "title": "Pharmacogenetics: from bench to byte--an update of guidelines.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/21412232",
+      "authors": [
+        "Swen J J",
+        "Nijenhuis M",
+        "de Boer A",
+        "Grandia L",
+        "Maitland-van der Zee A H",
+        "Mulder H",
+        "Rongen G A P J M",
+        "van Schaik R H N",
+        "Schalekamp T",
+        "Touw D J",
+        "van der Weide J",
+        "Wilffert B",
+        "Deneer V H M",
+        "Guchelaar H-J"
+      ],
+      "crossReferences": [
+        {
+          "id": 769250885,
+          "resource": "PubMed",
+          "resourceId": "21412232",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/21412232",
+          "version": 0
+        },
+        {
+          "id": 1449247827,
+          "resource": "DOI",
+          "resourceId": "10.1038/clpt.2011.34",
+          "_url": "http://dx.doi.org/10.1038%2Fclpt.2011.34",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Clinical pharmacology and therapeutics",
+      "meshDiseases": [],
+      "meshTerms": [
+        "Animals",
+        "Aryl Hydrocarbon Hydroxylases",
+        "Cytochrome P-450 CYP2C9",
+        "Drug Administration Schedule",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "Humans",
+        "Pharmaceutical Preparations",
+        "Pharmacogenetics",
+        "Practice Guidelines as Topic"
+      ],
+      "month": 5,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "662-73",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2011-05-01T00:00:00-07:00",
+      "summary": "Currently, there are very few guidelines linking the results of pharmacogenetic tests to specific therapeutic recommendations. Therefore, the Royal Dutch Association for the Advancement of Pharmacy established the Pharmacogenetics Working Group with the objective of developing pharmacogenetics-based therapeutic (dose) recommendations. After systematic review of the literature, recommendations were developed for 53 drugs associated with genes coding for CYP2D6, CYP2C19, CYP2C9, thiopurine-S-methyltransferase (TPMT), dihydropyrimidine dehydrogenase (DPD), vitamin K epoxide reductase (VKORC1), uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1), HLA-B44, HLA-B*5701, CYP3A5, and factor V Leiden (FVL).",
+      "terms": [],
+      "version": 2,
+      "volume": "89",
+      "year": 2011
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166104955",
+    "name": "Annotation of DPWG Guideline for hormonal contraceptives for systemic use and F5",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1451694620,
+        "alleles": [
+          {
+            "id": 1451694840,
+            "_label": "rs6025 C",
+            "allele": "rs6025 C",
+            "function": {
+              "id": 1451694621,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Factor V Leiden negative",
+              "termId": "alleleFunction:1451694621",
+              "version": 0
+            },
+            "version": 0
+          },
+          {
+            "id": 1451694841,
+            "_label": "rs6025 T (Factor V Leiden)",
+            "allele": "rs6025 T (Factor V Leiden)",
+            "function": {
+              "id": 1451694660,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Factor V Leiden positive",
+              "termId": "alleleFunction:1451694660",
+              "version": 0
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA159",
+          "symbol": "F5",
+          "name": "coagulation factor V",
+          "altNames": {
+            "synonym": [
+              "coagulation factor V (proaccelerin, labile factor)"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "q24.2",
+          "cbStop": "q24.2",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA503",
+            "name": "chr1",
+            "version": 3
+          },
+          "chrStartPosB37": 169481192,
+          "chrStartPosB38": 169511954,
+          "chrStopPosB37": 169555769,
+          "chrStopPosB38": 169586632,
+          "cpicGene": false,
+          "crossReferences": [
+            {
+              "id": 553237887,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "2153",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=2153",
+              "version": 0
+            },
+            {
+              "id": 132257556,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000198734",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198734",
+              "version": 0
+            },
+            {
+              "id": 74333,
+              "resource": "GenAtlas",
+              "resourceId": "F5",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=F5",
+              "version": 1
+            },
+            {
+              "id": 89261,
+              "resource": "GeneCard",
+              "resourceId": "F5",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=F5",
+              "version": 1
+            },
+            {
+              "id": 608155007,
+              "resource": "HGNC",
+              "resourceId": "HGNC:3542",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A3542",
+              "version": 1
+            },
+            {
+              "id": 560880888,
+              "resource": "ModBase",
+              "resourceId": "P12259",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P12259",
+              "version": 0
+            },
+            {
+              "id": 456871,
+              "resource": "MutDB",
+              "resourceId": "F5",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=F5",
+              "version": 1
+            },
+            {
+              "id": 11540,
+              "resource": "NCBI Gene",
+              "resourceId": "2153",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/2153",
+              "version": 1
+            },
+            {
+              "id": 560544385,
+              "resource": "OMIM",
+              "resourceId": "188055",
+              "_url": "https://omim.org/entry/188055",
+              "version": 0
+            },
+            {
+              "id": 2724,
+              "resource": "OMIM",
+              "resourceId": "227400",
+              "_url": "https://omim.org/entry/227400",
+              "version": 1
+            },
+            {
+              "id": 560544386,
+              "resource": "OMIM",
+              "resourceId": "600880",
+              "_url": "https://omim.org/entry/600880",
+              "version": 0
+            },
+            {
+              "id": 560544305,
+              "resource": "OMIM",
+              "resourceId": "601367",
+              "_url": "https://omim.org/entry/601367",
+              "version": 0
+            },
+            {
+              "id": 560544384,
+              "resource": "OMIM",
+              "resourceId": "612309",
+              "_url": "https://omim.org/entry/612309",
+              "version": 0
+            },
+            {
+              "id": 560544383,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_011806",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_011806",
+              "version": 0
+            },
+            {
+              "id": 36614,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_004487",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_004487",
+              "version": 1
+            },
+            {
+              "id": 37301,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000121",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000121",
+              "version": 1
+            },
+            {
+              "id": 46376,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000130",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000130",
+              "version": 1
+            },
+            {
+              "id": 121693,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000130",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000130",
+              "version": 1
+            },
+            {
+              "id": 123214779,
+              "name": "FA5_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P12259",
+              "_url": "https://www.uniprot.org/uniprot/P12259",
+              "version": 2
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": false,
+          "pharmVarGene": false,
+          "strand": "minus",
+          "terms": [
+            {"id":560499843,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005507","resource":"Gene Ontology","term":"copper ion binding","termId":"GO:0005507"},
+            {"id":560499845,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005509","resource":"Gene Ontology","term":"calcium ion binding","termId":"GO:0005509"},
+            {"id":560499910,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005576","resource":"Gene Ontology","term":"extracellular region","termId":"GO:0005576"},
+            {"id":560499957,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005615","resource":"Gene Ontology","term":"extracellular space","termId":"GO:0005615"},
+            {"id":560500224,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005886","resource":"Gene Ontology","term":"plasma membrane","termId":"GO:0005886"},
+            {"id":560501853,"_url":"http://amigo.geneontology.org/amigo/term/GO:0007155","resource":"Gene Ontology","term":"cell adhesion","termId":"GO:0007155"},
+            {"id":560502354,"_url":"http://amigo.geneontology.org/amigo/term/GO:0007596","resource":"Gene Ontology","term":"blood coagulation","termId":"GO:0007596"},
+            {"id":560502421,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008015","resource":"Gene Ontology","term":"blood circulation","termId":"GO:0008015"},
+            {"id":560495264,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016491","resource":"Gene Ontology","term":"oxidoreductase activity","termId":"GO:0016491"},
+            {"id":560511018,"_url":"http://amigo.geneontology.org/amigo/term/GO:0031093","resource":"Gene Ontology","term":"platelet alpha granule lumen","termId":"GO:0031093"},
+            {"id":560495445,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046872","resource":"Gene Ontology","term":"metal ion binding","termId":"GO:0046872"},
+            {"id":560509993,"_url":"http://amigo.geneontology.org/amigo/term/GO:0055114","resource":"Gene Ontology","term":"oxidation reduction","termId":"GO:0055114"}
+          ],
+          "version": 140
+        },
+        "version": 0
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1183704485,
+        "date": "2011-08-10T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1450415353,
+        "date": "2019-05-28T10:56:50.705-07:00",
+        "description": "Annotation current with November 2018 DPWG Guideline release",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450820668,
+        "date": "2019-10-03T15:16:11.394-07:00",
+        "description": "No changes based on August 2019 guideline",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1450956349,
+        "date": "2020-01-31T13:35:34.517-08:00",
+        "description": "Updated link to 2011 DPWG methods",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450963580,
+        "date": "2020-02-11T06:16:19.942-08:00",
+        "description": "Fixed links to 2018 guideline pdfs.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451328506,
+        "date": "2021-02-08T14:35:22.683-08:00",
+        "description": "Added reference to rsID for Factor V Leiden in annotation text.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451694844,
+        "date": "2022-02-24T00:00:00-08:00",
+        "description": "Added extended dosing guideline",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451704204,
+        "date": "2022-03-03T16:33:27.275-08:00",
+        "description": "Annotation current with May 2021 DPWG Guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451732844,
+        "date": "2022-03-28T09:57:40.901-07:00",
+        "description": "Annotation current with February 2022 DPWG guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451884326,
+        "date": "2022-09-16T10:24:06.232-07:00",
+        "description": "Fixed link to gene information document and added explanatory note",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":7283333,"title":"Pharmacogenetics: from bench to byte--an update of guidelines.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/21412232","crossReferences":[{"id":769250885,"resource":"PubMed","resourceId":"21412232","_url":"https://www.ncbi.nlm.nih.gov/pubmed/21412232"},{"id":1449247827,"resource":"DOI","resourceId":"10.1038/clpt.2011.34","_url":"http://dx.doi.org/10.1038%2Fclpt.2011.34"}],"objCls":"Literature","terms":[]},
+      {"id":15103288,"title":"Dutch Pharmacogenetics Working Group Guidelines August 2019","_sameAs":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf","crossReferences":[{"id":1450815695,"resource":"URL","resourceId":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf","_url":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf"}],"objCls":"Literature","terms":[]},
+      {"id":15102465,"title":"Dutch Pharmacogenetics Working Group Guidelines November 2018","_sameAs":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_November_2018.pdf","crossReferences":[{"id":1450415575,"resource":"URL","resourceId":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_November_2018.pdf","_url":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_November_2018.pdf"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166153554",
+        "symbol": "rs6025",
+        "name": "rs6025",
+        "version": 4
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA452637",
+        "name": "hormonal contraceptives for systemic use",
+        "version": 2
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA159",
+        "symbol": "F5",
+        "name": "coagulation factor V",
+        "version": 140
+      }
+    ],
+    "source": "DPWG",
+    "summaryMarkdown": {
+      "id": 1447981892,
+      "html": "<p>In individuals who carry the Factor V Leiden allele (<a href=\"/variant/PA166153554\">rs6025</a> T) and have a family history of thrombotic events, estrogen-containing oral contraceptives should be avoided and alternative forms of contraception used.</p>\n",
+      "version": 1
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1447981891,
+      "html": "<h3 id=\"november-2018-update\">November 2018 Update</h3>\n<p><em><strong>IMPORTANT: As of March 2022, gene information documents from the DPWG are no longer publicly available from the KNMP website. PharmGKB is currently providing PDF versions of these documents to users. These files were downloaded in February 2022. As such, we cannot guarantee that these documents match the mappings DPWG may use internally as there have been no publicly accessible updates since February 2022.</strong></em></p>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group has evaluated therapeutic dose recommendations for hormonal contraceptives for systemic use based on Factor V Leiden (FVL, or F5) genotype. They suggest that in individuals who carry the Factor V Leiden allele (<a href=\"/variant/PA166153554\">rs6025</a> T) and have a family history of thrombotic events or a previous thrombosis, estrogen-containing oral contraceptives should be avoided and alternative forms of contraception used.</p>\n<p><em>Wording in table taken from the <a download=\"DPWG_November_2018.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/DPWG_November_2018.pdf\">Dutch guidelines November 2018 update</a></em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Allele/Genotype/Phenotype</th>\n<th>Drug</th>\n<th>Description</th>\n<th>Recommendation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Factor V Leiden heterozygous</td>\n<td>contraceptive with oestrogens</td>\n<td>The heterozygously present genetic polymorphism “factor V Leiden” causes an increased tendency to coagulation, resulting in an increased risk of venous thromboembolism. Contraceptives containing oestrogens can increase this risk even further.</td>\n<td>- If the patient has a FAMILY HISTORY WITH A LOT OF THROMBOSIS, or has had a PREVIOUS THROMBOSIS:<br/>1. Advise the prescriber to avoid the use of contraceptives that contain oestrogens and prescribe an on-hormone contraceptive-such as a copper IUD - as an alternative. One could also opt for a progestogen-only contraceptive method, such as the depot injection, an IUD with levonorgestrel or an implant with etonogestrel.<br/>- OTHER CASES:<br/>1. Advise the patient to avoid additional risk factors for thrombosis (obesity, smoking, etc.).</td>\n</tr>\n<tr>\n<td>Factor V Leiden homozygous</td>\n<td>contraceptive with oestrogens</td>\n<td>The homozygously present genetic polymorphism “factor V Leiden” causes an increased tendency to coagulation, resulting in an increased risk of venous thromboembolism. Contraceptives containing oestrogens can increase this risk even further.</td>\n<td>- If the patient has a FAMILY HISTORY WITH A LOT OF THROMBOSIS, or has had a PREVIOUS THROMBOSIS:<br/>1. Advise the prescriber to avoid the use of contraceptives that contain oestrogens and prescribe a non-hormone contraceptive-such as a copper IUD - as an alternative. One could also opt for a progestogen-only contraceptive method, such as the depot injection, an IUD with levonorgestrel or an implant with etonogestrel.<br/>- OTHER CASES:<br/>1. Advise the patient to avoid additional risk factors for thrombosis (obesity, smoking, etc.).</td>\n</tr>\n</tbody>\n</table>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0001567.PDF\" target=\"_blank\">Read for more information about this recommendation</a>, <a download=\"F5.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/F5.pdf\">Read about gene information from DPWG</a></p>\n<h3 id=\"2011-guideline\">2011 Guideline</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group has evaluated therapeutic dose recommendations for hormonal contraceptives for systemic use based on Factor V Leiden (FVL, or F5) genotype [Article:<a href=\"/pmid/21412232\">21412232</a>].  They suggest that in individuals who carry the Factor V Leiden allele and have a family history of thrombotic events, estrogen-containing oral contraceptives should be avoided and alternative forms of contraception used.</p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype (Genotype)</th>\n<th>Therapeutic Dose Recommendation</th>\n<th>Level of Evidence</th>\n<th>Clinical Relevance</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>F5 homozygous <a href=\"/variant/PA166153554\">rs6025</a> TT</td>\n<td>Positive (family) history of thrombotic events: avoid estrogen-containing oral contraceptives and select alternative (e.g., copper intrauterine device, progestin-only contraceptive). Negative (family) history of thrombotic events: avoid additional risk factors (e.g., obesity, smoking).</td>\n<td>Published controlled studies of moderate quality* relating to phenotyped and/or genotyped patients or healthy volunteers, and having relevant pharmacokinetic or clinical endpoints.</td>\n<td>Clinical effect (S): long-standing discomfort (&gt; 168 hr), permanent symptom or invalidating injury e.g. failure of prophylaxis of atrial fibrillation; venous thromboembolism; decreased effect of clopidogrel on inhibition of platelet aggregation; ADE resulting from increased bioavailability of phenytoin; INR &gt; 6.0; neutropenia 0.5-1.0x10<sup>9</sup>/l; leucopenia 1.0-2.0x10<sup>9</sup>/l; thrombocytopenia 25-50x10<sup>9</sup>/l; severe diarrhea</td>\n</tr>\n<tr>\n<td>F5 heterozygous <a href=\"/variant/PA166153554\">rs6025</a> CT</td>\n<td>Positive (family) history of thrombotic events: avoid estrogen-containing oral contraceptives and select alternative (e.g., copper intrauterine device, progestin-only contraceptive). Negative (family) history of thrombotic events: avoid additional risk factors (e.g., obesity, smoking).</td>\n<td>Published controlled studies of good quality* relating to phenotyped and/or genotyped patients or healthy volunteers, and having relevant pharmacokinetic or clinical endpoints.</td>\n<td>Clinical effect (S): long-standing discomfort (&gt; 168 hr), permanent symptom or invalidating injury e.g. failure of prophylaxis of atrial fibrillation; venous thromboembolism; decreased effect of clopidogrel on inhibition of platelet aggregation; ADE resulting from increased bioavailability of phenytoin; INR &gt; 6.0; neutropenia 0.5-1.0x10<sup>9</sup>/l; leucopenia 1.0-2.0x10<sup>9</sup>/l; thrombocytopenia 25-50x10<sup>9</sup>/l; severe diarrhea</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>*See <a href=\"http://www.pharmgkb.org/page/dpwg\">Methods </a> or [Article:<a href=\"/pmid/18253145\">18253145</a>] for definition of &quot;good&quot; and &quot;moderate&quot; quality.</li>\n<li>S: statistically significant difference.</li>\n</ul>\n",
+      "version": 14
+    },
+    "userId": "katrin",
+    "version": 26
+  }
+}

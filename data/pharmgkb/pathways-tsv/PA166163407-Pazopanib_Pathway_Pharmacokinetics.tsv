@@ -1,0 +1,29 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+pazopanib	pazopanib M26	Biochemical Reaction	CYP1A2, CYP2C19, CYP2C9, CYP2D6, CYP3A4	Gene	hepatocyte	23636448		pazopanib	Hyperbilirubinemia	Biochemical reaction from pazopanib to pazopanib M26. This interaction can be catalyzed by CYP3A4, CYP1A2, CYP2D6, CYP2C9 or CYP2C19.
+pazopanib	pazopanib M24	Biochemical Reaction	CYP1A2, CYP2C19, CYP2C9, CYP2D6, CYP3A4	Gene	hepatocyte	23636448		pazopanib	Hyperbilirubinemia	Biochemical reaction from pazopanib to pazopanib M24. This interaction can be catalyzed by CYP3A4, CYP2D6, CYP1A2, CYP2C9 or CYP2C19.
+pazopanib	pazopanib M27	Biochemical Reaction	CYP1A2, CYP2D6, CYP3A4	Gene	hepatocyte	23636448		pazopanib	Hyperbilirubinemia	Biochemical reaction from pazopanib to pazopanib M27. This interaction can be catalyzed by CYP2D6, CYP1A2 or CYP3A4.
+pazopanib	KIT	Inhibition			null, cell	17620431	KIT	pazopanib	Hyperbilirubinemia	pazopanib inhibits KIT.
+pazopanib	ABCG2	Inhibition			hepatocyte	27418107	ABCG2	pazopanib	Hyperbilirubinemia	pazopanib inhibits ABCG2.
+pazopanib	FLT4	Inhibition			null, cell	17620431	FLT4	pazopanib	Hyperbilirubinemia	pazopanib inhibits FLT4.
+pazopanib	PDGFRA	Inhibition			null, cell	17620431	PDGFRA	pazopanib	Hyperbilirubinemia	pazopanib inhibits PDGFRA.
+pazopanib	SLCO1B1	Inhibition			hepatocyte	24807167	SLCO1B1	pazopanib	Hyperbilirubinemia	pazopanib inhibits SLCO1B1.
+pazopanib	CYP2D6	Inhibition			hepatocyte	20881954	CYP2D6	pazopanib	Hyperbilirubinemia	pazopanib inhibits CYP2D6.
+pazopanib	UGT1A1	Inhibition			hepatocyte	24107802, 20389299	UGT1A1	pazopanib	Hyperbilirubinemia	pazopanib inhibits UGT1A1.
+pazopanib	SLC47A1	Inhibition			hepatocyte	27178732	SLC47A1	pazopanib	Hyperbilirubinemia	pazopanib inhibits SLC47A1.
+pazopanib	CYP3A4	Inhibition			hepatocyte	20881954	CYP3A4	pazopanib	Hyperbilirubinemia	pazopanib inhibits CYP3A4.
+pazopanib	KDR	Inhibition			null, cell	17620431	KDR	pazopanib	Hyperbilirubinemia	pazopanib inhibits KDR.
+pazopanib	PDGFRB	Inhibition			null, cell	17620431	PDGFRB	pazopanib	Hyperbilirubinemia	pazopanib inhibits PDGFRB.
+pazopanib	FLT1	Inhibition			null, cell	17620431	FLT1	pazopanib	Hyperbilirubinemia	pazopanib inhibits FLT1.
+pazopanib	ABCB1	Inhibition			hepatocyte	27418107	ABCB1	pazopanib	Hyperbilirubinemia	pazopanib inhibits ABCB1.
+pazopanib	SLC47A2	Inhibition			hepatocyte	27178732	SLC47A2	pazopanib	Hyperbilirubinemia	pazopanib inhibits SLC47A2.
+pazopanib	SLC22A2	Inhibition			hepatocyte	27178732	SLC22A2	pazopanib	Hyperbilirubinemia	pazopanib inhibits SLC22A2.
+KDR	VEGF Signaling Pathway	Leads To			cell	17620431	KDR		Hyperbilirubinemia	KDR leads to VEGF Signaling Pathway.
+pazopanib M26	VEGF Signaling Pathway	Leads To			hepatocyte, cell	21827214			Hyperbilirubinemia	pazopanib M26 leads to VEGF Signaling Pathway.
+UGT1A1	Hyperbilirubinemia	Leads To			hepatocyte	24107802, 20389299	UGT1A1		Hyperbilirubinemia	UGT1A1 leads to Hyperbilirubinemia.
+FLT1	VEGF Signaling Pathway	Leads To			cell	17620431	FLT1		Hyperbilirubinemia	FLT1 leads to VEGF Signaling Pathway.
+FLT4	VEGF Signaling Pathway	Leads To			cell	17620431	FLT4		Hyperbilirubinemia	FLT4 leads to VEGF Signaling Pathway.
+PDGFRA	VEGF Signaling Pathway	Leads To			cell	17620431	PDGFRA		Hyperbilirubinemia	PDGFRA leads to VEGF Signaling Pathway.
+KIT	VEGF Signaling Pathway	Leads To			cell	17620431	KIT		Hyperbilirubinemia	KIT leads to VEGF Signaling Pathway.
+PDGFRB	VEGF Signaling Pathway	Leads To			cell	17620431	PDGFRB		Hyperbilirubinemia	PDGFRB leads to VEGF Signaling Pathway.
+pazopanib	pazopanib	Transport	ABCB1, ABCG2	Gene	hepatocyte, null	27418107, 22688250, 22918879		pazopanib	Hyperbilirubinemia	Transport from pazopanib to pazopanib. This interaction can be catalyzed by ABCG2 or ABCB1.
+pazopanib	pazopanib	Transport	SLCO1B1, SLCO1B3	Gene	null, hepatocyte	27178732, 23340295		pazopanib	Hyperbilirubinemia	Transport from pazopanib to pazopanib. This interaction can be catalyzed by SLCO1B1 or SLCO1B3.

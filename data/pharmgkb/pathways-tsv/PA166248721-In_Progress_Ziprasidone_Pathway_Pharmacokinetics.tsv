@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+ziprasidone	ziprasidone sulfoxide	Biochemical Reaction	CYP3A4	Gene	hepatocyte	16231965, 12826984		ziprasidone		Biochemical reaction from ziprasidone to ziprasidone sulfoxide. This interaction is catalyzed by CYP3A4.
+ziprasidone	BITP	Biochemical Reaction	CYP3A4	Gene	hepatocyte	16231965, 12826984		ziprasidone		Biochemical reaction from ziprasidone to BITP. This interaction is catalyzed by CYP3A4.
+ziprasidone	s-methyldihydroziprasidone	Biochemical Reaction	AOX1	Gene	hepatocyte	22559212, 16282848, 16231965, 12826984		ziprasidone		Biochemical reaction from ziprasidone to s-methyldihydroziprasidone. This interaction is catalyzed by AOX1.
+ziprasidone sulfoxide	ziprasidone sulfone	Biochemical Reaction	CYP3A4	Gene	hepatocyte	16231965				Biochemical reaction from ziprasidone sulfoxide to ziprasidone sulfone. This interaction is catalyzed by CYP3A4.
+BITP	BITP sulfoxide	Biochemical Reaction	CYP3A4	Gene	hepatocyte	16231965				Biochemical reaction from BITP to BITP sulfoxide. This interaction is catalyzed by CYP3A4.
+ziprasidone sulfone	BITP sulfone	Biochemical Reaction	CYP3A4	Gene	hepatocyte	16231965				Biochemical reaction from ziprasidone sulfone to BITP sulfone. This interaction is catalyzed by CYP3A4.

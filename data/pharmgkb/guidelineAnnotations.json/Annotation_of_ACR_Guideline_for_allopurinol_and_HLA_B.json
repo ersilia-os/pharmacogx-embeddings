@@ -1,0 +1,167 @@
+{
+  "citations": [
+    {
+      "id": 15131222,
+      "title": "2020 American College of Rheumatology Guideline for the Management of Gout.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/32390306",
+      "authors": [
+        "FitzGerald John D",
+        "Dalbeth Nicola",
+        "Mikuls Ted",
+        "Brignardello-Petersen Romina",
+        "Guyatt Gordon",
+        "Abeles Aryeh M",
+        "Gelber Allan C",
+        "Harrold Leslie R",
+        "Khanna Dinesh",
+        "King Charles",
+        "Levy Gerald",
+        "Libbey Caryn",
+        "Mount David",
+        "Pillinger Michael H",
+        "Rosenthal Ann",
+        "Singh Jasvinder A",
+        "Sims James Edward",
+        "Smith Benjamin J",
+        "Wenger Neil S",
+        "Bae Sangmee Sharon",
+        "Danve Abhijeet",
+        "Khanna Puja P",
+        "Kim Seoyoung C",
+        "Lenert Aleksander",
+        "Poon Samuel",
+        "Qasim Anila",
+        "Sehra Shiv T",
+        "Sharma Tarun Sudhir Kumar",
+        "Toprover Michael",
+        "Turgunbaev Marat",
+        "Zeng Linan",
+        "Zhang Mary Ann",
+        "Turner Amy S",
+        "Neogi Tuhina"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451755760,
+          "resource": "PubMed",
+          "resourceId": "32390306",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/32390306",
+          "version": 0
+        },
+        {
+          "id": 1451755761,
+          "resource": "DOI",
+          "resourceId": "10.1002/art.41247",
+          "_url": "http://dx.doi.org/10.1002%2Fart.41247",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Arthritis & rheumatology (Hoboken, N.J.)",
+      "meshDiseases": [
+        "PA444318"
+      ],
+      "meshTerms": [
+        "Allopurinol",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Colchicine",
+        "Febuxostat",
+        "Gout",
+        "Gout Suppressants",
+        "Humans",
+        "Rheumatology",
+        "United States"
+      ],
+      "month": 6,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "879-895",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2020-06-01T00:00:00-07:00",
+      "summary": ": To provide guidance for the management of gout, including indications for and optimal use of urate-lowering therapy (ULT), treatment of gout flares, and lifestyle and other medication recommendations.\n\n: Fifty-seven population, intervention, comparator, and outcomes questions were developed, followed by a systematic literature review, including network meta-analyses with ratings of the available evidence according to the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology, and patient input. A group consensus process was used to compose the final recommendations and grade their strength as strong or conditional.\n\n: Forty-two recommendations (including 16 strong recommendations) were generated. Strong recommendations included initiation of ULT for all patients with tophaceous gout, radiographic damage due to gout, or frequent gout flares; allopurinol as the preferred first-line ULT, including for those with moderate-to-severe chronic kidney disease (CKD; stage >3); using a low starting dose of allopurinol (≤100 mg/day, and lower in CKD) or febuxostat (<40 mg/day); and a treat-to-target management strategy with ULT dose titration guided by serial serum urate (SU) measurements, with an SU target of <6 mg/dl. When initiating ULT, concomitant antiinflammatory prophylaxis therapy for a duration of at least 3-6 months was strongly recommended. For management of gout flares, colchicine, nonsteroidal antiinflammatory drugs, or glucocorticoids (oral, intraarticular, or intramuscular) were strongly recommended.\n\n: Using GRADE methodology and informed by a consensus process based on evidence from the current literature and patient preferences, this guideline provides direction for clinicians and patients making decisions on the management of gout.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2020
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166104993",
+    "name": "Annotation of ACR Guideline for allopurinol and HLA-B",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1183704559,
+        "date": "2012-10-01T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1451678187,
+        "date": "2022-02-10T13:52:44.905-08:00",
+        "description": "Added ACR as source",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741720,
+        "date": "2022-04-05T13:19:06.830-07:00",
+        "description": "Added additional text from guideline publication and Testing Guidance tag",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451755820,
+        "date": "2022-04-19T14:35:11.483-07:00",
+        "description": "Added 2020 guideline",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15131222,"title":"2020 American College of Rheumatology Guideline for the Management of Gout.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/32390306","crossReferences":[{"id":1451755760,"resource":"PubMed","resourceId":"32390306","_url":"https://www.ncbi.nlm.nih.gov/pubmed/32390306"},{"id":1451755761,"resource":"DOI","resourceId":"10.1002/art.41247","_url":"http://dx.doi.org/10.1002%2Fart.41247"}],"objCls":"Literature","terms":[]},
+      {"id":15065128,"title":"2012 American College of Rheumatology guidelines for management of gout. Part 1: systematic nonpharmacologic and pharmacologic therapeutic approaches to hyperuricemia.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3683400","crossReferences":[{"id":1449278170,"resource":"PubMed Central","resourceId":"PMC3683400","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3683400"},{"id":1449278169,"resource":"PubMed","resourceId":"23024028","_url":"https://www.ncbi.nlm.nih.gov/pubmed/23024028"},{"id":1449278171,"resource":"DOI","resourceId":"10.1002/acr.21772","_url":"http://dx.doi.org/10.1002%2Facr.21772"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA448320",
+        "name": "allopurinol",
+        "version": 8
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA35056",
+        "symbol": "HLA-B",
+        "name": "major histocompatibility complex, class I, B",
+        "version": 40
+      }
+    ],
+    "source": "ACR",
+    "summaryMarkdown": {
+      "id": 1447982018,
+      "html": "<p>Testing for the HLA-B*58:01 allele before starting allopurinol treatment is conditionally recommended for patients of Southeast Asian or African American descent.</p>\n",
+      "version": 3
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1447982017,
+      "html": "<h3 id=\"2020-guideline\">2020 Guideline</h3>\n<p>The American College of Rheumatology has updated their guidelines for the management of gout, which include the following statements about allopurinol and the HLA-B*58:01 allele:</p>\n<blockquote class=\"blockquote\">\n<p>Testing for the HLA–B*5801 allele prior to starting allopurinol is conditionally recommended for patients of Southeast Asian descent (e.g., Han Chinese, Korean, Thai) and for African American patients, over not testing for the HLA–B*5801 allele.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>Universal testing for the HLA–B*5801 allele prior to starting allopurinol is conditionally recommended against in patients of other ethnic or racial background over testing for the HLA–B*5801 allele.</p>\n</blockquote>\n<h3 id=\"2012-guideline\">2012 Guideline</h3>\n<p>The <strong>American College of Rheumatology</strong> guidelines for the management of gout include the following statements about pharmacogenomic testing for HLA-B*58:01 and allopurinol:</p>\n<blockquote class=\"blockquote\">\n<p>Those with HLA-B*5801 and of Korean descent with stage 3 or worse CKD (HLA-B*5801 allele frequency ~12%), or of Han Chinese or Thai extraction irrespective of renal function (HLA-B*5801 allele frequency ~6-8%), have been highlighted in the literature as prime examples of subjects at high risk for AHS, marked by HLA-B*5801 hazard ratios of several hundred.  Such high-risk individuals were recommended to be prescribed an alternative to allopurinol if HLA-B*5801 positive.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>Prior to initiation of allopurinol, rapid polymerase chain reaction– based HLA–B*5801 screening should be considered as a risk management component in subpopulations where both the HLA–B*5801 allele frequency is elevated and the HLA–B*5801–positive subjects have a very high hazard ratio (“high risk”) for severe allopurinol hypersensitivity reaction (e.g., Koreans with stage 3 or worse CKD and all those of Han Chinese and Thai descent).</p>\n</blockquote>\n<p>excerpted from <a download=\"GuidelinesHLABallopurinolACR.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/GuidelinesHLABallopurinolACR.pdf\">2012 American College of Rheumatology Guidelines for the Management of Gout. Part1</a></p>\n",
+      "version": 10
+    },
+    "userId": "whaleyr",
+    "version": 19
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "citations": [
+    {
+      "id": 15109202,
+      "title": "Pharmacogenetics of anti-cancer drugs: State of the art and implementation - recommendations of the French National Network of Pharmacogenetics.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/28262261",
+      "authors": [
+        "Quaranta Sylvie",
+        "Thomas Fabienne"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451127600,
+          "resource": "PubMed",
+          "resourceId": "28262261",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/28262261",
+          "version": 0
+        },
+        {
+          "id": 1451127601,
+          "resource": "DOI",
+          "resourceId": "10.1016/j.therap.2017.01.005",
+          "_url": "http://dx.doi.org/10.1016%2Fj.therap.2017.01.005",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapie",
+      "meshDiseases": [],
+      "meshTerms": [
+        "Antineoplastic Agents",
+        "Dihydrouracil Dehydrogenase (NADP)",
+        "Genotyping Techniques",
+        "Glucuronosyltransferase",
+        "Humans",
+        "Methyltransferases",
+        "Pharmacogenetics",
+        "Pharmacogenomic Testing",
+        "Polymorphism, Genetic"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "205-215",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2017-04-01T00:00:00-07:00",
+      "summary": "Individualized treatment is of special importance in oncology because the drugs used for chemotherapy have a very narrow therapeutic index. Pharmacogenetics may contribute substantially to clinical routine for optimizing cancer treatment to limit toxic effects while maintaining efficacy. This review presents the usefulness of pharmacogenetic tests for some key applications: dihydropyrimidine dehydrogenase (DPYD) genotyping for fluoropyrimidine (5-fluorouracil, capecitabine), UDP glucuronosylstransferase (UGT1A1) for irinotecan and thiopurine S-methyltransferase (TPMT) for thiopurine drugs. Depending on the level of evidence, the French National Network of Pharmacogenetics (RNPGx) has issued three levels of recommendations for these pharmacogenetic tests: essential, advisable, and potentially useful. Other applications, for which the level of evidence is still discussed, will be evoked in the final section of this review.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2017
+    },
+    {
+      "id": 15087357,
+      "title": "UGT1A1 genotype and irinotecan therapy: general review and implementation in routine practice.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/25817555",
+      "authors": [
+        "Etienne-Grimaldi Marie-Christine",
+        "Boyer Jean-Christophe",
+        "Thomas Fabienne",
+        "Quaranta Sylvie",
+        "Picard Nicolas",
+        "Loriot Marie-Anne",
+        "Narjoz Céline",
+        "Poncet Delphine",
+        "Gagnieu Marie-Claude",
+        "Ged Cécile",
+        "Broly Franck",
+        "Le Morvan Valérie",
+        "Bouquié Régis",
+        "Gaub Marie-Pierre",
+        "Philibert Laurent",
+        "Ghiringhelli François",
+        "Le Guellec Chantal",
+        "Collective work by Groupe de Pharmacologie Clinique Oncologique (GPCO-Unicancer)",
+        "French Réseau National de Pharmacogénétique Hospitalière (RNPGx)"
+      ],
+      "crossReferences": [
+        {
+          "id": 1449295644,
+          "resource": "PubMed",
+          "resourceId": "25817555",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/25817555",
+          "version": 0
+        },
+        {
+          "id": 1449295645,
+          "resource": "DOI",
+          "resourceId": "10.1111/fcp.12117",
+          "_url": "http://dx.doi.org/10.1111%2Ffcp.12117",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Fundamental & clinical pharmacology",
+      "meshDiseases": [],
+      "meshTerms": [],
+      "month": 6,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "219-37",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2015-06-01T00:00:00-07:00",
+      "summary": "Irinotecan is a major drug in the treatment of advanced colorectal cancer. Its active form is the SN38 metabolite, which is cleared by the biliary route after glucuronidation by uridine diphosphate-glucuronosyltransferase 1A1 (UGT1A1). UGT1A1 activity exhibits a wide intersubject variability, in part related to UGT1A1 gene polymorphisms. The present review on the impact of the deficient UGT1A1*28 variant on irinotecan efficacy and toxicity was produced by a French joint workgroup comprising the Group of Clinical Onco-pharmacology (GPCO-Unicancer) and the National Pharmacogenetics Network (RNPGx). It clearly emerges that for irinotecan doses at least equal to 180 mg/m(2) , patients homozygous for the UGT1A1*28 allele are at increased risk of developing hematological and/or digestive toxicities. Irinotecan dose reduction is thus recommended in homozygous *28/*28 patients. In addition, this personalized medicine strategy aims to secure high-dose irinotecan administration (≥240 mg/m(2) ) that have proven to be safe in homozygous *1/*1 patients only. The clinical relevance of this test is discussed in terms of treatment efficacy improvement, as increasing the irinotecan dose appears to be safe in patients not bearing a deficient allele. Best execution practices, cost-effectiveness, and result interpretation are discussed with the aim of facilitating the implementation of this analysis in clinical practice. The existence of networks of laboratories performing this test in routine hospital treatment, as in France, offers the prospect of widespread screening, thus guaranteeing equal access to safe treatment and optimized therapy for patients receiving irinotecan-based therapy in advanced colorectal cancer.",
+      "terms": [],
+      "version": 2,
+      "volume": "29",
+      "year": 2015
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166127626",
+    "name": "Annotation of RNPGx Guideline for irinotecan and UGT1A1",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1444706897,
+        "date": "2015-04-30T00:00:00-07:00",
+        "description": "initial save",
+        "type": "Create",
+        "version": 1
+      },
+      {
+        "id": 1451136620,
+        "date": "2020-05-13T12:28:32.194-07:00",
+        "description": "Incorporated recommendations from 2017 paper",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451678120,
+        "date": "2022-02-10T13:47:33.645-08:00",
+        "description": "Added RNPGx as source",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741832,
+        "date": "2022-04-05T14:09:25.574-07:00",
+        "description": "Added testing guidance tag and link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15109202,"title":"Pharmacogenetics of anti-cancer drugs: State of the art and implementation - recommendations of the French National Network of Pharmacogenetics.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/28262261","crossReferences":[{"id":1451127600,"resource":"PubMed","resourceId":"28262261","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28262261"},{"id":1451127601,"resource":"DOI","resourceId":"10.1016/j.therap.2017.01.005","_url":"http://dx.doi.org/10.1016%2Fj.therap.2017.01.005"}],"objCls":"Literature","terms":[]},
+      {"id":15087357,"title":"UGT1A1 genotype and irinotecan therapy: general review and implementation in routine practice.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/25817555","crossReferences":[{"id":1449295644,"resource":"PubMed","resourceId":"25817555","_url":"https://www.ncbi.nlm.nih.gov/pubmed/25817555"},{"id":1449295645,"resource":"DOI","resourceId":"10.1111/fcp.12117","_url":"http://dx.doi.org/10.1111%2Ffcp.12117"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA450085",
+        "name": "irinotecan",
+        "version": 15
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA420",
+        "symbol": "UGT1A1",
+        "name": "UDP glucuronosyltransferase 1 family, polypeptide A1",
+        "version": 6110
+      }
+    ],
+    "source": "RNPGx",
+    "summaryMarkdown": {
+      "id": 1447982399,
+      "html": "<p>A French joint working group comprising the National Pharmacogenetics Network (RNPGx) and the Group of Clinical Onco-pharmacology (GPCO-Unicancer) has published guidelines for the use of <em>UGT1A1*28</em> genotype when prescribing irinotecan. They recommend that the dose of irinotecan be reduced in patients with the <em>UGT1A1*28/*28</em> genotype, and that high-dose irinotecan (&gt;=240 mg/m2) only be prescribed to patients with the <em>UGT1A1*1/*1</em> genotype. The French National Network of Pharmacogenetics (RNPGx) included recommendations for irinotecan in  a 2017 paper on several anti-cancer drugs.</p>\n",
+      "version": 1
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1447982398,
+      "html": "<h3 id=\"2017-update\">2017 Update</h3>\n<p>The French National Network of Pharmacogenetics (RNPGx) publication about the state of the art and clinical implementation — recommendations from the French National Network of Pharmacogenetics for anti-cancer drugs states:</p>\n<blockquote class=\"blockquote\">\n<p>UGT1A1 genotyping is advisable for a standard\ndose (180—230 mg/m2) and essential for intensified dose\n(&gt; 240 mg/m2).</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>Thus, individualized treatment can be proposed based\non the UGT1A1 genotype, with either a dose reduction for\n*28/*28 homozygous patients, or possibly dose intensification for non-carriers of the *28 allele.\nFor the other UGT1A1 alleles, genotyping is performed by\na limited number of laboratories and is considered a second intention test.</p>\n</blockquote>\n<p><a href=\"/page/testingGuidance\">Read more about the RNPGx levels of recommendation for testing</a>.</p>\n<h3 id=\"2015-guideline\">2015 Guideline</h3>\n<p>The French joint working group comprising the National Pharmacogenetics Network (RNPGx) and the Group of Clinical Onco-pharmacology (GPCO-Unicancer) has published <em>UGT1A1</em>-based drug dosing guidelines for irinotecan in <em>Fundamental &amp; Clinical Pharmacology</em>. Excerpts from &quot;<em>UGT1A1</em> genotype and irinotecan therapy: general review and implementation in routine practice&quot; [Article:<a href=\"/pmid/25817555\">25817555</a>] follow:</p>\n<blockquote class=\"blockquote\">\n<p>...we recommend pretreatment UGT1A1 genotyping of the TATA box (*28, *36, *37) for all patients scheduled to receive an irinotecan dose &gt;=180 mg/m2. The rare allele *36 (proficient) can be interpreted as an *1 allele and allele *37 (deficient) as an allele *28.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>For low irinotecan doses (&lt;180 mg/m2/week) UGT1A1 genotyping is not indicated as hematological and gastrointestinal toxicities are quite similar regardless of the genotype.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p><strong>For initially scheduled doses between 180 and 230 mg/m2 every 2-3 weeks, *28/*28 patients are at increased risk of developing hematological and/or digestive toxicity as compared to other genotypes...a 25-30% dose reduction at the first cycle is recommended, particularly in cases of associated risk factors (performance status &gt;3).</strong></p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p><strong>For initially scheduled doses &gt;=240 mg/m2 every 2-3 weeks, *28/*28 patients are at a much higher risk of hematological toxicity (neutropenia) as compared to other genotypes. We thus recommend contraindicating such an intensified dose in *28/*28 patients. The administration of an intensified dose (240 mg/m2) is only possible in *1/*1 patients, as well as in *1/*28 patients, in the absence of additional risk factors and under strict medical surveillance.</strong></p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>This...analysis is limited by the fact that other UGT1A1 deficient variants are relevant in non-Caucasian populations, particularly the *6 and *27 alleles in Asian populations.</p>\n</blockquote>\n<p>The joint working group also provided a decision tree to guide irinotecan dosing based on <em>UGT1A1</em> genotype:</p>\n<p><img src=\"https://s3.pgkb.org/attachment/Decision_tree_for_irinotecan_dosing.png\" alt=\"Decision tree for irinotecan dosing\" /></p>\n<p><em><sup>Reprinted with permission from Etienne-Grimaldi et al. UGT1A1 genotype and irinotecan therapy: general review and implementation in routine practice. Fundamental &amp; Clinical Pharmacology (2015)</sup></em></p>\n",
+      "version": 11
+    },
+    "userId": "jmbarbarino",
+    "version": 20
+  }
+}

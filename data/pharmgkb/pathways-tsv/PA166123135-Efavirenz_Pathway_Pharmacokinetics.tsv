@@ -1,0 +1,17 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+NR1I2	CYP3A4	Activation			hepatocyte	20861742, 15496645	CYP3A4, NR1I2			NR1I2 activates CYP3A4.
+NR1I3	CYP2B6	Activation			hepatocyte	17041008	CYP2B6, NR1I3			NR1I3 activates CYP2B6.
+efavirenz	NR1I2	Activation			hepatocyte	20861742, 15496645	NR1I2	efavirenz		efavirenz activates NR1I2.
+NR1I2	CYP2B6	Activation			hepatocyte	20861742, 17041008	CYP2B6, NR1I2			NR1I2 activates CYP2B6.
+efavirenz	NR1I3	Activation			hepatocyte	17041008	NR1I3	efavirenz		efavirenz activates NR1I3.
+efavirenz	8-hydroxyefavirenz	Conversion	CYP1A2, CYP2A6, CYP2B6, CYP3A4, CYP3A5	Gene	hepatocyte	22252501, 20335270, 17559344, 12676886		efavirenz		Conversion from efavirenz to 8-hydroxyefavirenz. This interaction can be catalyzed by CYP1A2, CYP3A5, CYP3A4, CYP2A6 or CYP2B6.
+8-hydroxyefavirenz	8,14-dihydroxyefavirenz	Conversion	CYP2B6	Gene	hepatocyte	22252501, 20335270, 17559344, 12676886, 10534318				Conversion from 8-hydroxyefavirenz to 8,14-dihydroxyefavirenz. This interaction is catalyzed by CYP2B6.
+8,14-dihydroxyefavirenz	8,14-dihydroxyefavirenz glucuronide	Conversion	UGT	Gene Group	hepatocyte	22252501, 21319958, 10534318				Conversion from 8,14-dihydroxyefavirenz to 8,14-dihydroxyefavirenz glucuronide. This interaction is catalyzed by UGT.
+efavirenz	7-hydroxyefavirenz	Conversion	CYP2A6	Gene	hepatocyte	22252501, 20335270, 17559344, 12676886, 10534318		efavirenz		Conversion from efavirenz to 7-hydroxyefavirenz. This interaction is catalyzed by CYP2A6.
+efavirenz	efavirenz-n-glucuronide	Conversion	UGT2B7	Gene	hepatocyte	22252501, 21319958, 19487252		efavirenz		Conversion from efavirenz to efavirenz-n-glucuronide. This interaction is catalyzed by UGT2B7.
+8-hydroxyefavirenz	8-hydroxyefavirenz glucuronide	Conversion	UGT	Gene Group	hepatocyte	22252501, 21319958				Conversion from 8-hydroxyefavirenz to 8-hydroxyefavirenz glucuronide. This interaction is catalyzed by UGT.
+7-hydroxyefavirenz	7-hydroxyefavirenz glucuronide	Conversion	UGT	Gene Group	hepatocyte	22252501, 21319958, 10534318				Conversion from 7-hydroxyefavirenz to 7-hydroxyefavirenz glucuronide. This interaction is catalyzed by UGT.
+8-hydroxyefavirenz glucuronide	elimination	Leads To			hepatocyte, null	10534318				8-hydroxyefavirenz glucuronide leads to elimination.
+efavirenz-n-glucuronide	elimination	Leads To			hepatocyte, null	21282425, 10534318				efavirenz-n-glucuronide leads to elimination.
+8,14-dihydroxyefavirenz glucuronide	elimination	Leads To			hepatocyte, null	10534318				8,14-dihydroxyefavirenz glucuronide leads to elimination.
+7-hydroxyefavirenz glucuronide	elimination	Leads To			hepatocyte, null	10534318				7-hydroxyefavirenz glucuronide leads to elimination.

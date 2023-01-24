@@ -1,0 +1,18 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+prednisolone	20alpha-dihydroprednisolone	Biochemical Reaction	AKR1C1	Gene	hepatocyte	31701669, 30137266, 25800201		prednisolone		Biochemical reaction from prednisolone to 20alpha-dihydroprednisolone. This interaction is catalyzed by AKR1C1.
+prednisone	20alpha-dihydroprednisone	Biochemical Reaction	AKR1C1	Gene	hepatocyte	31701669, 30137266, 25800201		prednisone		Biochemical reaction from prednisone to 20alpha-dihydroprednisone. This interaction is catalyzed by AKR1C1.
+prednisone	6beta-hydroxyprednisone	Biochemical Reaction	CYP3A4	Gene	hepatocyte	31701669, 25800201, 2639662		prednisone		Biochemical reaction from prednisone to 6beta-hydroxyprednisone. This interaction is catalyzed by CYP3A4.
+prednisolone	6beta-hydroxyprednisolone	Biochemical Reaction	CYP3A4	Gene	hepatocyte	31701669, 25800201, 2639662		prednisolone		Biochemical reaction from prednisolone to 6beta-hydroxyprednisolone. This interaction is catalyzed by CYP3A4.
+prednisone	prednisolone	Biochemical Reaction	HSD11B1	Gene	hepatocyte	12466373, 7588203		prednisolone, prednisone		Biochemical reaction from prednisone to prednisolone. This interaction is catalyzed by HSD11B1.
+prednisolone	20beta-dihydroprednisolone	Biochemical Reaction	AKR1C1	Gene	hepatocyte	31701669, 30137266, 25800201		prednisolone		Biochemical reaction from prednisolone to 20beta-dihydroprednisolone. This interaction is catalyzed by AKR1C1.
+prednisone	20beta-dihydroprednisone	Biochemical Reaction	AKR1C1	Gene	hepatocyte	31701669, 30137266, 25800201		prednisone		Biochemical reaction from prednisone to 20beta-dihydroprednisone. This interaction is catalyzed by AKR1C1.
+prednisolone	prednisolone glucuronide	Biochemical Reaction	UGT1A3, UGT2B17, UGT2B7	Gene	hepatocyte	31701669, 25800201		prednisolone		Biochemical reaction from prednisolone to prednisolone glucuronide. This interaction can be catalyzed by UGT2B17, UGT2B7 or UGT1A3.
+ALB	prednisolone	Inhibition			null	3593903	ALB	prednisolone		ALB inhibits prednisolone.
+SERPINA6	prednisolone	Inhibition			null	3593903	SERPINA6	prednisolone		SERPINA6 inhibits prednisolone.
+SERPINA6	prednisone	Inhibition			null	3593903	SERPINA6	prednisone		SERPINA6 inhibits prednisone.
+ALB	prednisone	Inhibition			null	3593903	ALB	prednisone		ALB inhibits prednisone.
+prednisone	prednisone	Transport	ABCB1	Gene	hepatocyte, null	15472518, 14661924		prednisone		Transport from prednisone to prednisone. This interaction is catalyzed by ABCB1.
+prednisolone	prednisolone	Transport	ABCB1	Gene	hepatocyte, null	14661924, 12379510		prednisolone		Transport from prednisolone to prednisolone. This interaction is catalyzed by ABCB1.
+prednisolone	prednisolone	Transport			null, hepatocyte	182169		prednisolone		Transport from prednisolone to prednisolone.
+prednisone	prednisone	Transport			null, hepatocyte	182169		prednisone		Transport from prednisone to prednisone.
+prednisolone glucuronide	prednisolone glucuronide	Transport	ABCC2, ABCC3	Gene	hepatocyte, null	31704245, 29175180				Transport from prednisolone glucuronide to prednisolone glucuronide. This interaction can be catalyzed by ABCC3 or ABCC2.

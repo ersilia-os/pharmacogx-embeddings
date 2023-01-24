@@ -1,0 +1,23 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+rifampin	NR1I2	Activation			null, neoplastic cell	15319341	NR1I2	rifampin		rifampin activates NR1I2.
+NR1I2	CYP3A4	Activation			neoplastic cell	15319341, 11723248, 10935643	CYP3A4, NR1I2			NR1I2 activates CYP3A4.
+ergocalciferol	VDR	Activation			null, neoplastic cell	12969965	VDR	ergocalciferol		ergocalciferol activates VDR.
+NR1I2	ABCB1	Activation			neoplastic cell	11297522	ABCB1, NR1I2			NR1I2 activates ABCB1.
+etoposide	NR1I2	Activation			neoplastic cell	12181418	NR1I2	etoposide		etoposide activates NR1I2.
+<i>xenobiotics</i>	NR1I2	Activation			null, neoplastic cell	17279585	NR1I2			xenobiotics activates NR1I2.
+dexamethasone	NR1I2	Activation			null, neoplastic cell	22994453	NR1I2	dexamethasone		dexamethasone activates NR1I2.
+VDR	CYP3A4	Activation			neoplastic cell	12969965, 11991950, 11723248, 9145912	CYP3A4, VDR			VDR activates CYP3A4.
+NR1I2	CYP3A5	Activation			neoplastic cell	22994453	CYP3A5, NR1I2			NR1I2 activates CYP3A5.
+etoposide	etoposide catechol	Biochemical Reaction	CYP3A4, CYP3A5	Gene	neoplastic cell	15319341, 8114683, 2167725		etoposide		Biochemical reaction from etoposide to etoposide catechol. This interaction can be catalyzed by CYP3A4 or CYP3A5.
+quinone	glutathione conjugate	Biochemical Reaction	GSTP1, GSTT1	Gene	neoplastic cell	16841962, 10900222, 1315544				Biochemical reaction from etoposide quinone to glutathione conjugate. This interaction can be catalyzed by GSTP1 or GSTT1.
+etoposide catechol	quinone	Biochemical Reaction	MPO	Gene	neoplastic cell	16841962, 15319341, 11691792, 2167725, 2972290, 2854106				Biochemical reaction from etoposide catechol to etoposide quinone. This interaction is catalyzed by MPO.
+etoposide	etoposide glucuronide	Biochemical Reaction	UGT1A1	Gene	neoplastic cell	12695347		etoposide		Biochemical reaction from etoposide to etoposide glucuronide. This interaction is catalyzed by UGT1A1.
+etoposide	quinone	Biochemical Reaction	PTGS1, PTGS2	Gene	neoplastic cell	3117357, 3006680		etoposide		Biochemical reaction from etoposide to etoposide quinone. This interaction can be catalyzed by PTGS1 or PTGS2.
+quinone	TOP2B	Inhibition			neoplastic cell	24766193	TOP2B			etoposide quinone inhibits TOP2B.
+etoposide catechol	TOP2A	Inhibition			neoplastic cell	23863110, 17361331	TOP2A			etoposide catechol inhibits TOP2A.
+etoposide	TOP2B	Inhibition			neoplastic cell	30006062	TOP2B	etoposide		etoposide inhibits TOP2B.
+quinone	TOP2A	Inhibition			neoplastic cell	27533850, 21595477, 17361331, 17578914, 11531262, 9748598, 2934259	TOP2A			etoposide quinone inhibits TOP2A.
+etoposide	TOP2A	Inhibition			neoplastic cell	29514855, 17578914	TOP2A	etoposide		etoposide inhibits TOP2A.
+etoposide glucuronide	etoposide glucuronide	Transport	ABCC3	Gene	neoplastic cell, null	20028753, 11581266				Transport from etoposide glucuronide to etoposide glucuronide. This interaction is catalyzed by ABCC3.
+etoposide	etoposide	Transport	ABCB1, ABCC3	Gene	neoplastic cell, null	20309692, 20028753, 11581266		etoposide		Transport from etoposide to etoposide. This interaction can be catalyzed by ABCB1 or ABCC3.
+glutathione conjugate	glutathione conjugate	Transport	ABCC1	Gene	neoplastic cell, null	9685354, 8640791, 7809167, 7954421, 7915193, 7916458, 8275468				Transport from glutathione conjugate to glutathione conjugate. This interaction is catalyzed by ABCC1.

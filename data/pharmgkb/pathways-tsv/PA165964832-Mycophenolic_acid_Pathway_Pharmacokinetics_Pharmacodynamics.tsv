@@ -1,0 +1,23 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+IMPDH1	IMPDH1	Biochemical Reaction	mycophenolic acid	Control	lymphocyte	10878285,16251851,17480004,1826793	IMPDH1	mycophenolic acid	
+IMPDH2	IMPDH2	Biochemical Reaction	mycophenolic acid	Control	lymphocyte	10878285,16251851,17480004,1826793	IMPDH2	mycophenolic acid	
+inosine monophosphate	xanthine monophosphate	Biochemical Reaction	IMPDH1,IMPDH2	Catalysis	lymphocyte		"IMPDH1","IMPDH2"		
+mycophenolate mofetil	mycophenolic acid	Biochemical Reaction	CES1,CES2	Catalysis	hepatocyte	19545654,20823294	"CES2","CES1"	"mycophenolic acid","mycophenolate mofetil"	
+mycophenolate mofetil	mycophenolic acid	Biochemical Reaction	CES2	Catalysis	cell	19545654,20823294	CES2	"mycophenolic acid","mycophenolate mofetil"	
+mycophenolate mofetil	N-(2-carboxymethyl)- morpholine	Biochemical Reaction	CES1,CES2	Catalysis	hepatocyte	9646007	"CES2","CES1"	mycophenolate mofetil	
+mycophenolate mofetil	N-(2-carboxymethyl)- morpholine	Biochemical Reaction	CES2	Catalysis	cell	9646007	CES2	mycophenolate mofetil	
+mycophenolate mofetil	N-(2-hydroxyethyl)- morpholine	Biochemical Reaction	CES2	Catalysis	cell	9646007	CES2	mycophenolate mofetil	
+mycophenolate mofetil	N-(2-hydroxyethyl)- morpholine	Biochemical Reaction	CES1,CES2	Catalysis	hepatocyte	9646007	"CES2","CES1"	mycophenolate mofetil	
+mycophenolate mofetil	N-(2-hydroxyethyl)- morpholine-N-oxide	Biochemical Reaction	CES1,CES2	Catalysis	hepatocyte	9646007	"CES2","CES1"	mycophenolate mofetil	
+mycophenolate mofetil	N-(2-hydroxyethyl)- morpholine-N-oxide	Biochemical Reaction	CES2	Catalysis	cell	9646007	CES2	mycophenolate mofetil	
+mycophenolic acid	6-O-desmethyl- mycophenolic acid	Biochemical Reaction	CYP2C8,CYP3A4,CYP3A5	Catalysis	hepatocyte	15570183	"CYP2C8","CYP3A4","CYP3A5"	mycophenolic acid	
+mycophenolic acid	mycophenolic acid- 7-O-glucornide	Biochemical Reaction	UGT1A10,UGT1A7,UGT1A8	Catalysis	cell		"UGT1A10","UGT1A8","UGT1A7"	mycophenolic acid	
+mycophenolic acid	mycophenolic acid- 7-O-glucornide	Biochemical Reaction	UGT1A9	Catalysis	hepatocyte	11226133,15205394,15258099,15470161,19545654	UGT1A9	mycophenolic acid	
+mycophenolic acid	mycophenolic acid- acyl glucoronide	Biochemical Reaction	UGT2B7	Catalysis	hepatocyte	12021631,12548138,15470161,16790554	UGT2B7	mycophenolic acid	
+mycophenolic acid	mycophenolic acid- acyl glucoronide	Biochemical Reaction	UGT2B7	Catalysis	cell	10688250,15205394,9647757	UGT2B7	mycophenolic acid	
+mycophenolic acid	mycophenolic acid	Transport			hepatocyte	17906856,19890249,21142914		mycophenolic acid	
+mycophenolic acid	mycophenolic acid	Transport			lymphocyte			mycophenolic acid	
+mycophenolic acid	mycophenolic acid	Transport			hepatocyte			mycophenolic acid	
+mycophenolic acid	mycophenolic acid	Transport			cell			mycophenolic acid	
+mycophenolic acid- 7-O-glucornide	mycophenolic acid- 7-O-glucornide	Transport	ABCC2	Catalysis	hepatocyte		ABCC2		
+mycophenolic acid- acyl glucoronide	mycophenolic acid- acyl glucoronide	Transport	ABCC2	Catalysis	hepatocyte	17060857,17906856	ABCC2		

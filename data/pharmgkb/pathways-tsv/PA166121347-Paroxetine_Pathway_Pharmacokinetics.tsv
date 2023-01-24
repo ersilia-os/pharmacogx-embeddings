@@ -1,0 +1,12 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+BRL 35961 - metabolite III	glucuronide	Biochemical Reaction			hepatocyte	10595721,10755376,12818234,1531950,2530779,2530793			
+BRL 36583 - metabolite II	glucuronide	Biochemical Reaction			hepatocyte	10595721,10755376,12818234,1531950,2530779,2530793			
+BRL 36610 - metabolite I	BRL 35961 - metabolite III	Biochemical Reaction			hepatocyte	10595721,10755376,12818234,1531950,2530779,2530793			
+BRL 36610 - metabolite I	glucuronide  and sulphate	Biochemical Reaction			hepatocyte	10595721,10755376,12818234,1531950,2530779,2530793			
+paroxetine  catechol	BRL 35961 - metabolite III	Biochemical Reaction			hepatocyte	10595721,10755376,12818234,1531950,2530779,2530793			
+paroxetine  catechol	BRL 36583 - metabolite II	Biochemical Reaction	COMT	Catalysis	hepatocyte	10595721,10755376,12818234,1531950,2530779,2530793	COMT		
+paroxetine  catechol	BRL 36610 - metabolite I	Biochemical Reaction	COMT	Catalysis	hepatocyte	10595721,10755376,12818234,1531950,2530779,2530793	COMT		
+paroxetine  catechol	other polar metabolites	Biochemical Reaction			hepatocyte	10595721,10755376,12818234,1531950,2530779,2530793			
+paroxetine	paroxetine  catechol	Biochemical Reaction	CYP1A2,CYP2C19,CYP3A4,CYP3A5	Catalysis	hepatocyte	20007670	"CYP1A2","CYP2C19","CYP3A4","CYP3A5"	paroxetine	
+paroxetine	paroxetine  catechol	Biochemical Reaction	CYP2D6	Catalysis	hepatocyte	1388041,1531951,2530793	CYP2D6	paroxetine	
+paroxetine	paroxetine	Transport	ABCB1	Catalysis	neuron	18215618	ABCB1	paroxetine	

@@ -1,0 +1,11 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+aripiprazole	dehydroaripiprazole	Biochemical Reaction	CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	29325225, 21476873, 17164689		aripiprazole		Biochemical reaction from aripiprazole to dehydroaripiprazole. This interaction can be catalyzed by CYP2D6, CYP3A5 or CYP3A4.
+aripiprazole	aripiprazole metabolite DM-1451	Biochemical Reaction	CYP2D6, CYP3A4	Gene	hepatocyte	21476873		aripiprazole		Biochemical reaction from aripiprazole to aripiprazole metabolite DM-1451. This interaction can be catalyzed by CYP3A4 or CYP2D6.
+aripiprazole	1-(2,3-dichlorophenyl)piperazine	Biochemical Reaction	CYP3A4	Gene	hepatocyte	21476873		aripiprazole		Biochemical reaction from aripiprazole to 1-(2,3-dichlorophenyl)piperazine. This interaction is catalyzed by CYP3A4.
+N-hydroxymethyl aripiprazole	aripiprazole, formaldehyde	Biochemical Reaction			null, hepatocyte	28350572		aripiprazole		Biochemical reaction from N-hydroxymethyl aripiprazole to aripiprazole, formaldehyde.
+aripiprazole lauroxil	N-hydroxymethyl aripiprazole, lauric acid	Biochemical Reaction			null	28350572		aripiprazole lauroxil		Biochemical reaction from aripiprazole lauroxil to N-hydroxymethyl aripiprazole, lauric acid.
+dehydroaripiprazole	ABCG2	Inhibition			hepatocyte	22847220	ABCG2			dehydroaripiprazole inhibits ABCG2.
+aripiprazole	ABCB1	Inhibition			hepatocyte	22847220	ABCB1	aripiprazole		aripiprazole inhibits ABCB1.
+dehydroaripiprazole	ABCB1	Inhibition			hepatocyte	22847220	ABCB1			dehydroaripiprazole inhibits ABCB1.
+aripiprazole	ABCG2	Inhibition			hepatocyte	22847220	ABCG2	aripiprazole		aripiprazole inhibits ABCG2.
+aripiprazole	aripiprazole	Transport	ABCB1	Gene	hepatocyte, null	29325225, 29443543, 23737243		aripiprazole		Transport from aripiprazole to aripiprazole. This interaction is catalyzed by ABCB1.

@@ -1,0 +1,18 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+5-S-hydroperoxy-6,8-trans-11,14-cis-eicosatetraenoic acid	Leukotriene A4	Biochemical Reaction	ALOX5	Catalysis	myeloid cell	2166915	ALOX5		
+ALOX5	ALOX5	Biochemical Reaction	zileuton	Control	myeloid cell	17394438	ALOX5	zileuton	
+ALOX5	ALOX5	Biochemical Reaction	zileuton	Control	myeloid cell	17394438	ALOX5	zileuton	
+Arachadonic acid	5-S-hydroperoxy-6,8-trans-11,14-cis-eicosatetraenoic acid	Biochemical Reaction	ALOX5,ALOX5AP	Catalysis	myeloid cell	6324182	"ALOX5","ALOX5AP"		
+CYSLTR1	CYSLTR1	Biochemical Reaction	Leukotriene C4,Leukotriene D4,Leukotriene E4,montelukast,pranlukast,zafirlukast	Control	cell	17394438,9250256,9620942	CYSLTR1	"montelukast","pranlukast","zafirlukast"	
+Leukotriene A4	Leukotriene B4	Biochemical Reaction	LTA4H	Catalysis	erythrocyte	16968946	LTA4H		
+Leukotriene A4	Leukotriene B4	Biochemical Reaction	LTA4H	Catalysis	myeloid cell	9895400	LTA4H		
+Leukotriene A4	Leukotriene C4	Biochemical Reaction	LTC4S	Catalysis	endothelial cell	16968946	LTC4S		
+Leukotriene A4	Leukotriene C4	Biochemical Reaction	LTC4S	Catalysis	myeloid cell	2166915,2995976,6490615	LTC4S		
+Leukotriene C4	Leukotriene D4	Biochemical Reaction	GGT1	Catalysis		9895400	GGT1		
+Leukotriene D4	Leukotriene E4	Biochemical Reaction				9895400			
+LTB4R	LTB4R	Biochemical Reaction	Leukotriene B4	Control	cell	17394438	LTB4R		
+membrane phospholipids	Arachadonic acid	Biochemical Reaction	PLA2G4A	Catalysis	myeloid cell	9403692	PLA2G4A		
+Leukotriene A4	Leukotriene A4	Transport			"myeloid cell","endothelial cell"	16968946			
+Leukotriene A4	Leukotriene A4	Transport			"myeloid cell","erythrocyte"	16968946			
+Leukotriene B4	Leukotriene B4	Transport			myeloid cell	2166027,2753893			
+Leukotriene C4	Leukotriene C4	Transport			myeloid cell	2166027,2753893			

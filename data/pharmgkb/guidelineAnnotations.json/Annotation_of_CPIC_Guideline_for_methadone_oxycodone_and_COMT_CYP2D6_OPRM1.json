@@ -1,0 +1,96 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166228022",
+    "name": "Annotation of CPIC Guideline for methadone, oxycodone and COMT, CYP2D6, OPRM1",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983494,
+        "name": "CPIC® Guideline for Codeine and CYP2D6 – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "_U5Tu5uYjrc",
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451309484,
+        "date": "2021-01-12T00:00:00-08:00",
+        "type": "Create",
+        "version": 1
+      },
+      {
+        "id": 1451598148,
+        "date": "2021-11-29T15:42:35.821-08:00",
+        "description": "Added video",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15115982,"title":"Clinical Pharmacogenetics Implementation Consortium Guideline for CYP2D6, OPRM1, and COMT Genotypes and Select Opioid Therapy.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8249478","crossReferences":[{"id":1451837577,"resource":"PubMed Central","resourceId":"PMC8249478","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8249478"},{"id":1451307240,"resource":"PubMed","resourceId":"33387367","_url":"https://www.ncbi.nlm.nih.gov/pubmed/33387367"},{"id":1451307241,"resource":"DOI","resourceId":"10.1002/cpt.2149","_url":"http://dx.doi.org/10.1002%2Fcpt.2149"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": false,
+    "recommendation": false,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA450401",
+        "name": "methadone",
+        "version": 16
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA450741",
+        "name": "oxycodone",
+        "version": 7
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA117",
+        "symbol": "COMT",
+        "name": "catechol-O-methyltransferase",
+        "version": 5126
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA128",
+        "symbol": "CYP2D6",
+        "name": "cytochrome P450 family 2 subfamily D member 6",
+        "version": 7890
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA31945",
+        "symbol": "OPRM1",
+        "name": "opioid receptor mu 1",
+        "version": 141
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1451309482,
+      "html": "<p>There are currently no recommendations for dosing of methadone or oxycodone based on <em>CYP2D6</em>, <em>OPRM1</em> or <em>COMT</em> genotypes.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433715,
+      "html": "<p>The authors of the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-codeine-and-cyp2d6/\" target=\"_blank\">CPIC&reg; guideline for opioids and <em>CYP2D6</em>, <em>OPRM1</em> and <em>COMT</em></a> evaluated the available evidence for therapeutic dose recommendations for methadone and oxycodone based on <em>CYP2D6</em>, <em>OPRM1</em> or <em>COMT</em> genotypes.</p>\n<p>Following assessment of evidence regarding methadone and CYP2D6 phenotype, the authors concluded that CYP2D6 genotype does not appear to affect methadone adverse events, opioid dose requirements or analgesia. Due to the existence of conflicting data, the authors were unable to reach a conclusion about whether CYP2D6 metabolizer phenotype affects oxycodone analgesia or risk of toxicity. As a result, no recommendation have been given for CYP2D6 phenotypes and methadone or oxycodone.</p>\n<p>There was insufficient evidence to provide any recommendations for methadone or oxycodone and <em>OPRM1</em> variants. Similarly, there was mixed evidence about the association between variants in <em>COMT</em> and opioid dose or response.</p>\n<h3 id=\"december-2020\">December 2020</h3>\n<ul>\n<li>The CPIC guideline for opioids and <em>CYP2D6</em>, <em>OPRM1</em> and <em>COMT</em> genotypes has been <a rel=\"noopener noreferrer\" href=\"https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2149\" target=\"_blank\">published in Clinical Pharmacology and Therapeutics</a>. This is an update to the CPIC guideline for codeine and <em>CYP2D6</em>.</li>\n<li>These guidelines are applicable to:\n<ul>\n<li>adult patients</li>\n<li>pediatric patients</li>\n</ul>\n</li>\n<li>Excerpts from the guideline:\n<ul>\n<li>&quot;There are conflicting data on the association of CYP2D6 metabolizer phenotype with the analgesic effect and toxicity of oxycodone in prospective clinical studies.&quot;</li>\n<li>Due to these conflicting data and small sample sizes, particularly for ultrarapid metabolizers, it is difficult to conclude whether CYP2D6 metabolizer phenotype affects oxycodone analgesia or risk of toxicity.&quot;</li>\n<li>&quot;Although methadone is metabolized to a minor extent by CYP2D6 to an inactive metabolite, CYP2D6 genotype does not appear to affect methadone adverse events, opioid dose requirements or analgesia.&quot;</li>\n<li>&quot;There is also insufficient evidence at this time to conclude altered analgesic response to other opioids in relation to rs1799971, or other <em>OPRM1</em> variants.&quot;</li>\n<li>&quot;For the most highly studied <em>COMT</em> variant, rs4680, there is no evidence to support an association of\nthis variant with opioid adverse events, and there is mixed evidence for an association between <em>COMT</em>\nrs4680 genotype and analgesia or opioid dose requirements.&quot;</li>\n<li>&quot;For all other <em>COMT</em> variants, there is mixed evidence for an association between <em>COMT</em> genotype and analgesia, opioid dose requirements or adverse events.&quot;</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/opioids/2020/33387367.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for CYP2D6, OPRM1, and COMT genotype and select opioid therapy</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/opioids/2020/33387367-supplement.pdf\" target=\"_blank\">Guideline supplement</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-oxycodone-therapy-recommendations-based-on-cyp2d6-phenotype\">Table 1: Oxycodone therapy recommendations based on CYP2D6 phenotype</h3>\n<p><em>Adapted from Tables 1 and S5 of the guideline.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype<sup>a</sup></th>\n<th>Activity score<br/>range</th>\n<th>Activity score<sup>b</sup></th>\n<th>Examples of<br/><em>CYP2D6</em> diplotypes<sup>b</sup></th>\n<th>Implications</th>\n<th>Recommendations</th>\n<th>Classification of<br/>recommendation<sup>d</sup></th>\n<th>Considerations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>CYP2D6 ultrarapid metabolizer</td>\n<td>&gt;2.25</td>\n<td>&gt;2.25</td>\n<td><em>*1/*1xN, *1/*2xN, *2/*2xN<sup>c</sup></em></td>\n<td>Increased metabolism to active metabolite, oxymorphone, but this does not appear to translate into increased analgesia or side effects.</td>\n<td>No recommendation for oxycodone therapy because of weak evidence regarding adverse events or analgesia.</td>\n<td>No recommendation</td>\n<td>CPIC defines “weak” evidence as insufficient to assess the effects on health outcomes because of limited number or power of studies, important flaws in their design or conduct, gaps in the chain of evidence, or lack of information. Further research may change the magnitude and/or direction of the net effect.</td>\n</tr>\n<tr>\n<td>CYP2D6 normal metabolizer</td>\n<td>1.25 &lt;= x &lt;= 2.25</td>\n<td>1.25<br/>1.5<br/>1.75<br/>2.0<br/>2.25</td>\n<td><em>*1/*10<br/>*1/*41, *1/*9<br/>*10/*41x3<br/>*1/*1, *1/*2<br/>*2x2/*10</em></td>\n<td>Expected oxymorphone formation</td>\n<td>Use oxycodone label recommended age- or weight-specific dosing</td>\n<td>Strong</td>\n<td></td>\n</tr>\n<tr>\n<td>CYP2D6 intermediate metabolizer</td>\n<td>0 &lt; x &lt; 1.25</td>\n<td>0.25<br/>0.5<br/>0.75<br/>1.0</td>\n<td>*4/*10<br/>*4/*41, *10/*10<br/>*10/*41<br/>*41/*41, *1/*5</td>\n<td>Decreased metabolism of oxycodone to active metabolite oxymorphone, but this does not appear to translate into decreased analgesia or side effects.</td>\n<td>No recommendation for oxycodone therapy because of weak evidence regarding adverse events or analgesia.</td>\n<td>No recommendation</td>\n<td>CPIC defines “weak” evidence as insufficient to assess the effects on health outcomes because of limited number or power of studies, important flaws in their design or conduct, gaps in the chain of evidence, or lack of information. Further research may change the magnitude and/or direction of the net effect.</td>\n</tr>\n<tr>\n<td>CYP2D6 poor metabolizer</td>\n<td>0</td>\n<td>0</td>\n<td><em>*3/*4, *4/*4, *5/*5, *5/*6</em></td>\n<td>Decreased metabolism of oxycodone to active metabolite oxymorphone, but this does not appear to translate into decreased analgesia or side effects.</td>\n<td>No recommendation for oxycodone therapy because of inconsistent evidence regarding adverse events or analgesia.</td>\n<td>No recommendation</td>\n<td>Inconsistent evidence indicates both supporting and non-supporting evidence for an association between oxycodone use and adverse events, or analgesia.</td>\n</tr>\n<tr>\n<td>CYP2D6 Indeterminate</td>\n<td>n/a</td>\n<td>An individual carrying one or two unknown or uncertain function alleles</td>\n<td><em>*1/*22, *1/*25, *22/*25</em></td>\n<td>n/a</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td>n/a</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"table-2-methadone-therapy-recommendations-based-on-cyp2d6-phenotype\">Table 2: Methadone therapy recommendations based on CYP2D6 phenotype</h3>\n<p><em>Adapted from Tables 1 and S6 of the guideline.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype<sup>a</sup></th>\n<th>Activity score<br/>range</th>\n<th>Activity score<sup>b</sup></th>\n<th>Examples of<br/><em>CYP2D6</em> diplotypes<sup>b</sup></th>\n<th>Implications</th>\n<th>Recommendations</th>\n<th>Classification of<br/>recommendation<sup>d</sup></th>\n<th>Considerations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>CYP2D6 ultrarapid metabolizer</td>\n<td>&gt;2.25</td>\n<td>&gt;2.25</td>\n<td><em>*1/*1xN, *1/*2xN, *2/*2xN<sup>c</sup></em></td>\n<td>No effect or insufficient evidence for methadone adverse events, opioid dose requirements, or analgesia.</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td></td>\n</tr>\n<tr>\n<td>CYP2D6 normal metabolizer</td>\n<td>1.25 &lt;= x &lt;= 2.25</td>\n<td>1.25<br/>1.5<br/>1.75<br/>2.0<br/>2.25</td>\n<td><em>*1/*10<br/>*1/*41, *1/*9<br/>*10/*41x3<br/>*1/*1, *1/*2<br/>*2x2/*10</em></td>\n<td>Expected metabolism</td>\n<td>Use methadone label recommended age- or weight-specific dosing</td>\n<td>Strong</td>\n<td></td>\n</tr>\n<tr>\n<td>CYP2D6 intermediate metabolizer</td>\n<td>0 &lt; x &lt; 1.25</td>\n<td>0.25<br/>0.5<br/>0.75<br/>1.0</td>\n<td>*4/*10<br/>*4/*41, *10/*10<br/>*10/*41<br/>*41/*41, *1/*5</td>\n<td>No effect or insufficient evidence for methadone adverse events, opioid dose requirements, or analgesia.</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td></td>\n</tr>\n<tr>\n<td>CYP2D6 poor metabolizer</td>\n<td>0</td>\n<td>0</td>\n<td><em>*3/*4, *4/*4, *5/*5, *5/*6</em></td>\n<td>No effect or insufficient evidence for methadone adverse events, opioid dose requirements, or analgesia.</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td></td>\n</tr>\n<tr>\n<td>CYP2D6 Indeterminate</td>\n<td>n/a</td>\n<td>An individual carrying one or two unknown or uncertain function alleles</td>\n<td><em>*1/*22, *1/*25, *22/*25</em></td>\n<td>n/a</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td></td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"guideline-supplemental-table-s9-other-opioids-alfentanil-buprenorphine-codeine-hydrocodone-hydromorphone-levomethadone-methadone-naltrexone-oxycodone-remifentanil-sufentanil-and-tramadol-therapy-recommendations-based-on-oprm1-genotype\">Guideline Supplemental Table S9: Other opioids (alfentanil, buprenorphine, codeine, hydrocodone, hydromorphone, levomethadone, methadone, naltrexone, oxycodone, remifentanil, sufentanil and tramadol) therapy recommendations based on <em>OPRM1</em> genotype</h3>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Genotype</th>\n<th>Implications</th>\n<th>Recommendations</th>\n<th>Classification of<br/>recommendation<sup>d</sup></th>\n<th>Considerations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>rs1799971 G</td>\n<td>No effect or insufficient evidence for adverse events, opioid dose requirements, analgesia, or change in opioid dependence/withdrawal therapy</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td>Many factors contribute to variability in postoperative opioid response including age, psychological status, tolerance, surgery type and duration, genetics and presurgical pain and opioid use.</td>\n</tr>\n<tr>\n<td>Other variants</td>\n<td>No effect or insufficient evidence for opioid adverse events, opioid dose requirements, analgesia, or change in opioid dependence/withdrawal therapy</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td>Many factors contribute to variability in postoperative opioid response including age, psychological status, tolerance, surgery type and duration, genetics and presurgical pain and opioid use.</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"guideline-supplemental-table-s10-opioid-therapy-recommendations-based-on-comt-genotype\">Guideline Supplemental Table S10: Opioid therapy recommendations based on <em>COMT</em> genotype</h3>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Genotype</th>\n<th>Implications</th>\n<th>Recommendations</th>\n<th>Classification of<br/>recommendation<sup>d</sup></th>\n<th>Considerations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>rs4680 A</td>\n<td>No effect for opioid adverse events. Insufficient evidence for an association between <em>COMT</em> rs4680 genotype, analgesia and opioid dose requirements.</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td>Many factors contribute to variability in opioid response including other gene variants, age, psychological status, indication and duration of opioid use. Mixed evidence indicates both supporting and non-supporting evidence for an association with neither direction dominating.</td>\n</tr>\n<tr>\n<td>Other variants</td>\n<td>Insufficient evidence for an association between <em>COMT</em> genotype, analgesia, opioid dose requirements and adverse events</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td>Many other factors contribute to variability in opioid response including other gene variants, age, psychological status, indication and duration of opioid use.</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> See the <strong>CYP2D6 Frequency Table</strong> on the <a href=\"/page/cyp2d6RefMaterials\">CYP2D6 Gene-Specific Information Tables page</a> for biogeographical group-specific allele and phenotype frequencies.<br />\n<sup>b</sup> Assignment of allele function and allele activity values including citations for allele function can be found in the <strong>CYP2D6 Allele Definition Table</strong> and <strong>CYP2D6 Allele Functionality Table</strong>. For a complete list of CYP2D6 diplotypes and resulting phenotypes, see the <strong>CYP2D6 Genotype to Phenotype Table</strong>. All of these tables can be accessed on the <a href=\"/page/cyp2d6RefMaterials\">CYP2D6 Gene-Specific Information Tables page</a>.<br />\n<sup>c</sup> Where xN represents the number of CYP2D6 gene copies. For individuals with CYP2D6 duplications or multiplications, see supplemental\ndata for additional information on how to translate diplotypes into phenotypes.<br />\n<sup>d</sup> Rating scheme described in the Strength of Recommendations section in the <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/opioids/2020/33387367-supplement.pdf\" target=\"_blank\">guideline supplement</a></p>\n",
+      "version": 0
+    },
+    "userId": "rachel",
+    "version": 3
+  }
+}

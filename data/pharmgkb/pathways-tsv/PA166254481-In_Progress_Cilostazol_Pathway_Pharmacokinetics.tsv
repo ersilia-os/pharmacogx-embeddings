@@ -1,0 +1,4 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+4-hydroxycilostazol	3,4-dehydrocilostazol	Biochemical Reaction			hepatocyte	34719653, 17646278				Biochemical reaction from 4-hydroxycilostazol to 3,4-dehydrocilostazol.
+cilostazol	trans-hydroxycilostazol	Biochemical Reaction	CYP2C19, CYP3A5	Gene	hepatocyte	34719653, 17646278		cilostazol		Biochemical reaction from cilostazol to trans-hydroxycilostazol. This interaction can be catalyzed by CYP2C19 or CYP3A5.
+cilostazol	4-hydroxycilostazol	Biochemical Reaction	CYP3A4	Gene	hepatocyte	34719653, 17646278		cilostazol		Biochemical reaction from cilostazol to 4-hydroxycilostazol. This interaction is catalyzed by CYP3A4.

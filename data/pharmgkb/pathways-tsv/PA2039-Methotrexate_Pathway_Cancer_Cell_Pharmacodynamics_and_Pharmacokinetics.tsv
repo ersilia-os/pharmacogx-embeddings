@@ -1,0 +1,44 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+5,10-methylenetetrahydrofolate	dihydrofolic acid	Biochemical Reaction	TYMS	Gene	malignant cell	19812215, 19902562, 12604405, 12084458, 11986237				Biochemical reaction from 5,10-methylenetetrahydrofolate to dihydrofolic acid. This interaction is catalyzed by TYMS.
+adenosine monophosphate	adenosine diphosphate	Biochemical Reaction			malignant cell	12106498				Biochemical reaction from adenosine monophosphate to adenosine diphosphate.
+inosine monophosphate	adenosine monophosphate	Biochemical Reaction			malignant cell	12106498				Biochemical reaction from inosine monophosphate to adenosine monophosphate.
+deoxyuridine monophosphate	deoxythymidine monophosphate	Biochemical Reaction	TYMS	Gene	malignant cell	16098809				Biochemical reaction from deoxyuridine monophosphate to deoxythymidine monophosphate. This interaction is catalyzed by TYMS.
+inosine	hypoxanthine	Biochemical Reaction			malignant cell	12106498				Biochemical reaction from inosine to hypoxanthine.
+5,10-methylenetetrahydrofolate	5,10-methenyltetrahydrofolate	Biochemical Reaction	MTHFD1	Gene	malignant cell	19812215, 14647408				Biochemical reaction from 5,10-methylenetetrahydrofolate to 5,10-methenyltetrahydrofolate. This interaction is catalyzed by MTHFD1.
+methotrexate	methotrexate glutamate	Biochemical Reaction			malignant cell	19902562, 12494465, 10029597		methotrexate		Biochemical reaction from methotrexate to methotrexate glutamate.
+adenosine diphosphate	adenosine triphosphate	Biochemical Reaction			malignant cell	12106498				Biochemical reaction from adenosine diphosphate to adenosine triphosphate.
+adenosine	inosine	Biochemical Reaction	ADA	Gene	malignant cell	12106498				Biochemical reaction from adenosine to inosine. This interaction is catalyzed by ADA.
+5,10-methenyltetrahydrofolate	10-formyltetrahydrofolate	Biochemical Reaction	MTHFD1	Gene	malignant cell	19812215, 14647408				Biochemical reaction from 5,10-methenyltetrahydrofolate to 10-formyltetrahydrofolate. This interaction is catalyzed by MTHFD1.
+inosine monophosphate	inosine	Biochemical Reaction			malignant cell	12106498				Biochemical reaction from inosine monophosphate to inosine.
+proteins	methylated proteins	Biochemical Reaction	methyl transferases	Gene Group	malignant cell	19812215				Biochemical reaction from proteins to methylated proteins. This interaction is catalyzed by methyl transferases.
+leucovorin	5,10-methenyltetrahydrofolate	Biochemical Reaction	MTHFS	Gene	malignant cell	19812215, 3801490				Biochemical reaction from leucovorin to 5,10-methenyltetrahydrofolate. This interaction is catalyzed by MTHFS.
+methotrexate polyglutamate	methotrexate glutamate	Biochemical Reaction	GGH	Gene	malignant cell	18035049, 15284538				Biochemical reaction from methotrexate polyglutamate to methotrexate glutamate. This interaction is catalyzed by GGH.
+adenosine monophosphate	adenosine	Biochemical Reaction			malignant cell	12106498				Biochemical reaction from adenosine monophosphate to adenosine.
+tetrahydrofolic acid	5,10-methylenetetrahydrofolate	Biochemical Reaction	SHMT1	Gene	malignant cell	19812215, 15797993				Biochemical reaction from tetrahydrofolic acid to 5,10-methylenetetrahydrofolate. This interaction is catalyzed by SHMT1.
+methotrexate glutamate	methotrexate polyglutamate	Biochemical Reaction	FPGS	Gene	malignant cell	19902562, 19131550, 17875718, 12494465, 10029597				Biochemical reaction from methotrexate glutamate to methotrexate polyglutamate. This interaction is catalyzed by FPGS.
+dihydrofolic acid	tetrahydrofolic acid	Biochemical Reaction	DHFR	Gene	malignant cell	19812215, 14529544, 12084458				Biochemical reaction from dihydrofolic acid to tetrahydrofolic acid. This interaction is catalyzed by DHFR.
+5,10-methylenetetrahydrofolate	levomefolic acid	Biochemical Reaction	MTHFR	Gene	malignant cell	19812215, 15797993, 14647408				Biochemical reaction from 5,10-methylenetetrahydrofolate to levomefolic acid. This interaction is catalyzed by MTHFR.
+DNA	methylated DNA	Biochemical Reaction	methyl transferases	Gene Group	malignant cell	19812215				Biochemical reaction from DNA to methylated DNA. This interaction is catalyzed by methyl transferases.
+glycine	l-serine	Biochemical Reaction	SHMT1	Gene	malignant cell	19812215				Biochemical reaction from glycine to l-serine. This interaction is catalyzed by SHMT1.
+homocysteine	cystathionine	Biochemical Reaction	CBS	Gene	malignant cell	19812215, 16013960				Biochemical reaction from homocysteine to cystathionine. This interaction is catalyzed by CBS.
+methionine	s-adenosylmethionine	Biochemical Reaction			malignant cell	19812215				Biochemical reaction from methionine to s-adenosylmethionine.
+s-adenosylhomocysteine	homocysteine	Biochemical Reaction			malignant cell	19812215				Biochemical reaction from s-adenosylhomocysteine to homocysteine.
+tetrahydrofolic acid	10-formyltetrahydrofolate	Biochemical Reaction	MTHFD1	Gene	malignant cell	19812215, 14647408				Biochemical reaction from tetrahydrofolic acid to 10-formyltetrahydrofolate. This interaction is catalyzed by MTHFD1.
+homocysteine	methionine	Biochemical Reaction	MTR, MTRR, cyanocobalamin	Gene, Biological Intermediate	malignant cell	19812215, 17611986, 15797993				Biochemical reaction from homocysteine to methionine. This interaction can be catalyzed by MTR, cyanocobalamin or MTRR.
+s-adenosylmethionine	s-adenosylhomocysteine	Biochemical Reaction	methyl transferases	Gene Group	malignant cell	19812215				Biochemical reaction from s-adenosylmethionine to s-adenosylhomocysteine. This interaction is catalyzed by methyl transferases.
+levomefolic acid	tetrahydrofolic acid	Biochemical Reaction	MTR, MTRR, cyanocobalamin	Gene, Biological Intermediate	malignant cell	19812215				Biochemical reaction from levomefolic acid to tetrahydrofolic acid. This interaction can be catalyzed by cyanocobalamin, MTRR or MTR.
+methotrexate polyglutamate	TYMS	Inhibition			malignant cell	22571483, 8324932	TYMS			methotrexate polyglutamate inhibits TYMS.
+methotrexate polyglutamate	DHFR	Inhibition			malignant cell	2465007	DHFR			methotrexate polyglutamate inhibits DHFR.
+methotrexate polyglutamate	PPAT	Inhibition			malignant cell, cell	10432311	PPAT			methotrexate polyglutamate inhibits PPAT.
+methotrexate glutamate	DHFR	Inhibition			malignant cell	12084458	DHFR			methotrexate glutamate inhibits DHFR.
+methotrexate	DHFR	Inhibition			malignant cell	14662327, 12084458	DHFR	methotrexate		methotrexate inhibits DHFR.
+s-adenosylmethionine	MTHFR	Inhibition			malignant cell	29891918	MTHFR			s-adenosylmethionine inhibits MTHFR.
+ATIC	ADA	Inhibition			cell, malignant cell	12106498	ADA, ATIC			ATIC inhibits ADA.
+methotrexate polyglutamate	ATIC	Inhibition			malignant cell, cell	22571483, 1597445	ATIC			methotrexate polyglutamate inhibits ATIC.
+methotrexate polyglutamate	GART	Inhibition			malignant cell, cell	1597445	GART			methotrexate polyglutamate inhibits GART.
+10-formyltetrahydrofolate	purine nucleobase calabolic process	Leads To	ATIC, GART, PPAT	Gene	malignant cell	28029518, 16947783, 15457444, 14529544				10-formyltetrahydrofolate leads to purine nucleobase calabolic process. This interaction can be catalyzed by PPAT, ATIC or GART.
+purine nucleobase calabolic process	inosine monophosphate	Leads To			malignant cell	28029518				purine nucleobase calabolic process leads to inosine monophosphate.
+DNA damage [MESH:D004249]	apoptosis	Leads To			null, malignant cell	9096386				DNA damage [MESH:D004249] leads to apoptosis.
+deoxythymidine monophosphate	pyrimidine biosynthetic pathway	Leads To			malignant cell	16098809				deoxythymidine monophosphate leads to pyrimidine biosynthetic pathway.
+methotrexate glutamate	Methotrexate Pathway, Pharmacokinetics	Leads To			malignant cell, null	18035049				methotrexate glutamate leads to Methotrexate Pathway, Pharmacokinetics.
+deoxyuridine monophosphate	DNA damage [MESH:D004249]	Leads To			malignant cell, null	9806758, 9096386				deoxyuridine monophosphate leads to DNA damage [MESH:D004249].

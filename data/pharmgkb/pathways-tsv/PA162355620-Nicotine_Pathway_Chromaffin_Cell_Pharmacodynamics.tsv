@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+CACNA1C,CACNA1G	CACNA1C,CACNA1G	Biochemical Reaction		Control	chromaffin cell	18005395	"CACNA1C","CACNA1G"		
+nicotine	Complex: CHRNA3-CHRNB4(CHRNA3, CHRNB4)	Complex Assembly			chromaffin cell	11602335,12098588,18005395	"CHRNA3","CHRNB4"	nicotine	
+Ca++	Ca++	Transport	CACNA1C,CACNA1G	Catalysis	chromaffin cell	18021322	"CACNA1C","CACNA1G"		
+epinephrine	epinephrine	Transport	Ca++	Catalysis	"blood cell","chromaffin cell"	18021322			
+K+	K+	Transport	Complex: CHRNA3-CHRNB4(CHRNA3, CHRNB4)	Catalysis	chromaffin cell		"CHRNA3","CHRNB4"		
+Na+	Na+	Transport	Complex: CHRNA3-CHRNB4(CHRNA3, CHRNB4)	Catalysis	chromaffin cell		"CHRNA3","CHRNB4"		

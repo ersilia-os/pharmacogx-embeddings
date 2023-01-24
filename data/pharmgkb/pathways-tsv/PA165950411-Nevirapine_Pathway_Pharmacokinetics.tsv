@@ -1,0 +1,16 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+12-Hydroxynevirapine	12-Hydroxynevirapine glucuronide	Biochemical Reaction	UGT	Catalysis	hepatocyte	10421616			
+12-Hydroxynevirapine	4-carboxynevirapine	Biochemical Reaction			hepatocyte	18729332			
+2-Hydroxynevirapine	2-Hydroxynevirapine glucuronide	Biochemical Reaction	UGT	Catalysis	hepatocyte	10421616			
+3-Hydroxynevirapine	3-Hydroxynevirapine glucuronide	Biochemical Reaction	UGT	Catalysis	hepatocyte	10421616			
+8-Hydroxynevirapine	8-Hydroxynevirapine glucuronide	Biochemical Reaction	UGT	Catalysis	hepatocyte	10421616			
+HIV Reverse Transcriptase	HIV Reverse Transcriptase	Biochemical Reaction	nevirapine	Inhibition	hepatocyte	1371177,1713587		nevirapine	
+nevirapine	12-Hydroxynevirapine	Biochemical Reaction	CYP2C9,CYP2D6,CYP3A4,CYP3A5	Catalysis	hepatocyte	10421616	"CYP2C9","CYP2D6","CYP3A4","CYP3A5"	nevirapine	
+nevirapine	2-Hydroxynevirapine	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte	10421616	"CYP3A4","CYP3A5"	nevirapine	
+nevirapine	3-Hydroxynevirapine	Biochemical Reaction	CYP2B6	Catalysis	hepatocyte	10421616	CYP2B6	nevirapine	
+nevirapine	8-Hydroxynevirapine	Biochemical Reaction	CYP2B6,CYP2D6,CYP3A4	Catalysis	hepatocyte	10421616	"CYP2B6","CYP2D6","CYP3A4"	nevirapine	
+12-Hydroxynevirapine glucuronide	12-Hydroxynevirapine glucuronide	Transport	ABCC10	Catalysis	hepatocyte		ABCC10		
+2-Hydroxynevirapine glucuronide	2-Hydroxynevirapine glucuronide	Transport	ABCC10	Catalysis	hepatocyte		ABCC10		
+3-Hydroxynevirapine glucuronide	3-Hydroxynevirapine glucuronide	Transport	ABCC10	Catalysis	hepatocyte		ABCC10		
+8-Hydroxynevirapine glucuronide	8-Hydroxynevirapine glucuronide	Transport	ABCC10	Catalysis	hepatocyte		ABCC10		
+nevirapine	nevirapine	Transport			hepatocyte			nevirapine	

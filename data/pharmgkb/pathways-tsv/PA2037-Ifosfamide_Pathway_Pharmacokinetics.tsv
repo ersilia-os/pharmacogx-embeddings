@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+ifosfamide	3-dechloroethyl ifosfamide, chloroacetaldehyde	Biochemical Reaction			hepatocyte	10534317, 10101149		ifosfamide		Biochemical reaction from ifosfamide to 3-dechloroethyl ifosfamide, chloroacetaldehyde.
+ifosfamide	2-dechloroethyl ifosfamide, chloroacetaldehyde	Biochemical Reaction	CYP2B6, CYP3A4, CYP3A5	Gene	hepatocyte	14970873, 10692561, 10534317, 10348794, 10101149, 8161344		ifosfamide		Biochemical reaction from ifosfamide to 2-dechloroethyl ifosfamide, chloroacetaldehyde. This interaction can be catalyzed by CYP3A4, CYP3A5 or CYP2B6.
+4-hydroxyifosfamide	aldoifosfamide	Biochemical Reaction			hepatocyte	16393888, 9137530				Biochemical reaction from 4-hydroxyifosfamide to aldoifosfamide.
+aldoifosfamide	carboxyifosfamide	Biochemical Reaction	ALDH1A1	Gene	hepatocyte	16393888				Biochemical reaction from aldoifosfamide to carboxyifosfamide. This interaction is catalyzed by ALDH1A1.
+ifosfamide	4-hydroxyifosfamide	Biochemical Reaction	CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP3A4, CYP3A5	Gene	hepatocyte	14970873, 10534317, 10348794, 8161344, 8242617		ifosfamide		Biochemical reaction from ifosfamide to 4-hydroxyifosfamide. This interaction can be catalyzed by CYP2C9, CYP2A6, CYP2B6, CYP3A5, CYP2C8 or CYP3A4.
+aldoifosfamide	acrolein, isophosphoramide mustard	Biochemical Reaction			hepatocyte	16393888				Biochemical reaction from aldoifosfamide to acrolein, isophosphoramide mustard.

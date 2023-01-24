@@ -1,0 +1,12 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+doxorubicin	doxorubicin semiquinone	Biochemical Reaction	NDUFS, NOS1, NOS2, NOS3, NQO1, XDH	Gene Collection, Gene	hepatocyte	15054088, 12688675, 9333325, 1911046, 2850270		doxorubicin		Biochemical reaction from doxorubicin to doxorubicin semiquinone. This interaction can be catalyzed by NOS1, NOS2, NQO1, NOS3, XDH or NDUFS (NDUFS2, NDUFS3, NDUFS7).
+doxorubicin semiquinone	doxorubicin, reactive oxygen species	Biochemical Reaction			hepatocyte	19442138		doxorubicin		Biochemical reaction from doxorubicin semiquinone to doxorubicin, reactive oxygen species.
+doxorubicin hydroxyaglycone	doxorubicinol hydroxyaglycone	Biochemical Reaction			hepatocyte	19442138, 10813659				Biochemical reaction from doxorubicin hydroxyaglycone to doxorubicinol hydroxyaglycone.
+doxorubicin	doxorubicin hydroxyaglycone	Biochemical Reaction			hepatocyte	19442138		doxorubicin		Biochemical reaction from doxorubicin to doxorubicin hydroxyaglycone.
+doxorubicin	doxorubicin deoxyaglycone	Biochemical Reaction	NQO1, POR, XDH	Gene	hepatocyte	19442138, 10860924, 6305277		doxorubicin		Biochemical reaction from doxorubicin to doxorubicin deoxyaglycone. This interaction can be catalyzed by POR, NQO1 or XDH.
+doxorubicin	doxorubicinol	Biochemical Reaction	AKR1A1, AKR1C3, CBR1, CBR3	Gene	hepatocyte	20007405, 19442138, 18635746, 18616992, 12963485		doxorubicin		Biochemical reaction from doxorubicin to doxorubicinol. This interaction can be catalyzed by CBR1, AKR1A1, CBR3 or AKR1C3.
+SOD1	reactive oxygen species	Inhibition			hepatocyte	12751786	SOD1			SOD1 inhibits reactive oxygen species.
+CAT	reactive oxygen species	Inhibition			hepatocyte	12751786	CAT			CAT inhibits reactive oxygen species.
+GPX1	reactive oxygen species	Inhibition			hepatocyte	12751786, 2544260	GPX1			GPX1 inhibits reactive oxygen species.
+doxorubicin	doxorubicin	Transport	ABCB1, ABCC1, ABCC2, ABCG2, RALBP1	Gene	hepatocyte, null	17704753, 15164094, 12527936, 12370750, 11172691, 7954421, 1352877, 3180056, 7214365		doxorubicin		Transport from doxorubicin to doxorubicin. This interaction can be catalyzed by ABCC2, ABCG2, RALBP1, ABCB1 or ABCC1.
+doxorubicin	doxorubicin	Transport	SLC22A16	Gene	null, hepatocyte	17559346		doxorubicin		Transport from doxorubicin to doxorubicin. This interaction is catalyzed by SLC22A16.

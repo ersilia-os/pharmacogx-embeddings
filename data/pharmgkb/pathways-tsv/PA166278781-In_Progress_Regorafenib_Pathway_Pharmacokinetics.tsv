@@ -1,0 +1,11 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+desmethyl regorafenib	n-desmethyl regorafenib n-oxide	Biochemical Reaction	CYP3A4	Gene	hepatocyte	29188322				Biochemical reaction from desmethyl regorafenib to n-desmethyl regorafenib n-oxide. This interaction is catalyzed by CYP3A4.
+regorafenib	regorafenib N-oxide	Biochemical Reaction	CYP3A4	Gene	hepatocyte	35489233, 29188322, 27734608		regorafenib		Biochemical reaction from regorafenib to regorafenib N-oxide. This interaction is catalyzed by CYP3A4.
+regorafenib	regorafenib metabolite m3	Biochemical Reaction	CYP2J2, CYP3A4	Gene	hepatocyte	29188322, 27734608		regorafenib		Biochemical reaction from regorafenib to regorafenib metabolite m3. This interaction can be catalyzed by CYP3A4 or CYP2J2.
+regorafenib N-oxide	regorafenib metabolite m8	Biochemical Reaction	UGT1A9	Gene	hepatocyte	29188322				Biochemical reaction from regorafenib N-oxide to regorafenib metabolite m8. This interaction is catalyzed by UGT1A9.
+regorafenib N-oxide	n-desmethyl regorafenib n-oxide	Biochemical Reaction			hepatocyte	35489233, 29188322				Biochemical reaction from regorafenib N-oxide to n-desmethyl regorafenib n-oxide.
+n-desmethyl regorafenib n-oxide	desmethyl regorafenib	Biochemical Reaction			hepatocyte	29188322, 27734608				Biochemical reaction from n-desmethyl regorafenib n-oxide to desmethyl regorafenib.
+regorafenib	regorafenib glucuronide	Biochemical Reaction	UGT1A9	Gene	hepatocyte	29188322		regorafenib		Biochemical reaction from regorafenib to regorafenib glucuronide. This interaction is catalyzed by UGT1A9.
+regorafenib metabolite m3	desmethyl regorafenib	Biochemical Reaction	ADH1A	Gene	hepatocyte	29188322, 27734608				Biochemical reaction from regorafenib metabolite m3 to desmethyl regorafenib. This interaction is catalyzed by ADH1A.
+regorafenib N-oxide	regorafenib	Biochemical Reaction			hepatocyte	27734608		regorafenib		Biochemical reaction from regorafenib N-oxide to regorafenib.
+regorafenib metabolite m8	regorafenib glucuronide	Biochemical Reaction			hepatocyte	29188322				Biochemical reaction from regorafenib metabolite m8 to regorafenib glucuronide.

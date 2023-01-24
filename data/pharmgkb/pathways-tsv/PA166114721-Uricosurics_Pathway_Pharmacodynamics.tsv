@@ -1,0 +1,21 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+PDZK1	SLC22A12	Activation			epithelial cell of proximal tublule	22359229, 19503597, 18600508	PDZK1, SLC22A12			PDZK1 activates SLC22A12.
+sulfinpyrazone	SLC22A12	Inhibition			epithelial cell of proximal tublule	23318701, 12024214, 1948784, 668783	SLC22A12	sulfinpyrazone		sulfinpyrazone inhibits SLC22A12.
+benzbromarone	SLC2A9	Inhibition			epithelial cell of proximal tublule	22945592	SLC2A9	benzbromarone		benzbromarone inhibits SLC2A9.
+tranilast	SLC2A9	Inhibition			epithelial cell of proximal tublule	23318701	SLC2A9	tranilast		tranilast inhibits SLC2A9.
+benzbromarone	SLC22A12	Inhibition			epithelial cell of proximal tublule	23318701, 22945592, 21272127, 12024214	SLC22A12	benzbromarone		benzbromarone inhibits SLC22A12.
+probenecid	SLC22A12	Inhibition			epithelial cell of proximal tublule	23318701, 22945592, 21272127, 12024214	SLC22A12	probenecid		probenecid inhibits SLC22A12.
+losartan	SLC22A12	Inhibition			epithelial cell of proximal tublule	22945592, 18670416, 12024214, 8743498	SLC22A12	losartan		losartan inhibits SLC22A12.
+tranilast	SLC22A12	Inhibition			epithelial cell of proximal tublule	23318701	SLC22A12	tranilast		tranilast inhibits SLC22A12.
+vitamin c	SLC22A12	Inhibition			epithelial cell of proximal tublule	23253231	SLC22A12	vitamin c		vitamin c inhibits SLC22A12.
+indomethacin	SLC22A12	Inhibition			epithelial cell of proximal tublule	21272127, 12024214	SLC22A12	indomethacin		indomethacin inhibits SLC22A12.
+salicyclic acid	SLC22A12	Inhibition			epithelial cell of proximal tublule	21272127, 12024214	SLC22A12	salicylic acid		salicylic acid inhibits SLC22A12.
+probenecid	SLC22A11	Inhibition			epithelial cell of proximal tublule, cell	23318701	SLC22A11	probenecid		probenecid inhibits SLC22A11.
+probenecid	SLC22A13	Inhibition			epithelial cell of proximal tublule	18411268	SLC22A13	probenecid		probenecid inhibits SLC22A13.
+probenecid	SLC22A6	Inhibition			epithelial cell of proximal tublule	12472777	SLC22A6	probenecid		probenecid inhibits SLC22A6.
+benzbromarone	SLC22A6	Inhibition			epithelial cell of proximal tublule	12472777	SLC22A6	benzbromarone		benzbromarone inhibits SLC22A6.
+uric acid	Uric Acid-Lowering Drugs Pathway, Pharmacodynamics	Leads To			null	22945592				uric acid leads to Uric Acid-Lowering Drugs Pathway, Pharmacodynamics.
+uric acid	uric acid	Transport	SLC22A11, SLC22A12, SLC22A13, SLC2A9	Gene	null, epithelial cell of proximal tublule	23318701, 23253231, 22945592, 22359229, 21272127, 20613716, 18670416, 18842065, 18411268, 18636784, 12024214, 8743498, 1948784, 668783				Transport from uric acid to uric acid. This interaction can be catalyzed by SLC2A9, SLC22A13, SLC22A12 or SLC22A11.
+uric acid	uric acid	Transport	LGALS9, SLC2A9	Gene	epithelial cell of proximal tublule, null	23318701, 22945592, 22359229, 20613716, 18842065				Transport from uric acid to uric acid. This interaction can be catalyzed by LGALS9 or SLC2A9.
+uric acid	uric acid	Transport	ABCC4, ABCG2, LGALS9, SLC17A1, SLC17A3, SLC2A9	Gene	epithelial cell of proximal tublule, null	23318701, 22945592, 22359229, 20613716, 18842065				Transport from uric acid to uric acid. This interaction can be catalyzed by SLC17A1, SLC2A9, LGALS9, SLC17A3, ABCG2 or ABCC4.
+uric acid	uric acid	Transport	SLC22A6, SLC22A8	Gene	null, epithelial cell of proximal tublule	23318701, 22945592, 22359229, 12472777				Transport from uric acid to uric acid. This interaction can be catalyzed by SLC22A8 or SLC22A6.

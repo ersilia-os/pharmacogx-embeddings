@@ -1,0 +1,34 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+dopamine	DRD2	Activation			null, neuron	25355228, 16220327, 11160455, 10490931	DRD2			dopamine activates DRD2.
+dopamine	DRD2	Activation			null, neuron	14675797, 11044595	DRD2			dopamine activates DRD2.
+norepinephrine	ADRA2A	Activation			null, neuron	11520889	ADRA2A			norepinephrine activates ADRA2A.
+dopamine	DRD5	Activation			null, neuron	28341611, 26165920	DRD5			dopamine activates DRD5.
+dopamine	DRD3	Activation			null, neuron	25740505, 19074531	DRD3			dopamine activates DRD3.
+dopamine	DRD1	Activation			null, neuron	27186140, 16549270, 14713295	DRD1			dopamine activates DRD1.
+serotonin	HTR1B	Activation			null, neuron	17201613	HTR1B			serotonin activates HTR1B.
+norepinephrine	ADRA2A	Activation			null, neuron	11520889	ADRA2A			norepinephrine activates ADRA2A.
+serotonin	HTR1A	Activation			null, neuron	17201613	HTR1A			serotonin activates HTR1A.
+dopamine	DRD4	Activation			null, neuron	25740505, 19074531	DRD4			dopamine activates DRD4.
+norepinephrine	normetanephrine	Biochemical Reaction	COMT	Gene	null	15317907				Biochemical reaction from norepinephrine to normetanephrine. This interaction is catalyzed by COMT.
+norepinephrine	3,4-dihydroxyphenylglycolaldehyde	Biochemical Reaction	MAO	Gene Collection	neuron	15317907				Biochemical reaction from norepinephrine to 3,4-dihydroxyphenylglycolaldehyde. This interaction is catalyzed by MAO (MAOA, MAOB).
+l-tryptophan	serotonin	Biochemical Reaction	TPH2	Gene	neuron	12511643				Biochemical reaction from l-tryptophan to serotonin. This interaction is catalyzed by TPH2.
+dopamine	norepinephrine	Biochemical Reaction	DBH	Gene	neuron	3473965				Biochemical reaction from dopamine to norepinephrine. This interaction is catalyzed by DBH.
+dopamine	3-methoxytyramine	Biochemical Reaction	COMT	Gene	null	22966478				Biochemical reaction from dopamine to 3-methoxytyramine. This interaction is catalyzed by COMT.
+l-tyrosine	dopamine	Biochemical Reaction	TH	Gene	neuron	4399447				Biochemical reaction from l-tyrosine to dopamine. This interaction is catalyzed by TH.
+serotonin	5-hydroxyindole-3-acetic acid	Biochemical Reaction	MAO	Gene Collection	neuron	28566493				Biochemical reaction from serotonin to 5-hydroxyindole-3-acetic acid. This interaction is catalyzed by MAO (MAOA, MAOB).
+dopamine	3,4-dihydroxyphenylacetaldehyde	Biochemical Reaction	MAO	Gene Collection	neuron	15317907				Biochemical reaction from dopamine to 3,4-dihydroxyphenylacetaldehyde. This interaction is catalyzed by MAO (MAOA, MAOB).
+methylphenidate	SLC6A4	Inhibition			null, neuron	16515684	SLC6A4	methylphenidate		methylphenidate inhibits SLC6A4.
+methylphenidate	SLC6A2	Inhibition			null, neuron	20691429, 17264780, 17201613, 16515684, 12685517, 10793238, 10485970, 9766762, 8523123, 8786705, 7700252, 8197581, 2530094, 4031878, 39160, 33315, 5033010	SLC6A2	methylphenidate		methylphenidate inhibits SLC6A2.
+methylphenidate	SLC6A3	Inhibition			null, neuron	20691429, 17264780, 17201613, 16515684, 12685517, 10793238, 10485970, 9766762, 8523123, 8786705, 7700252, 8197581, 2530094, 4031878, 39160, 33315, 5033010	SLC6A3	methylphenidate		methylphenidate inhibits SLC6A3.
+synaptic vesicle exocytosis		Leads To			neuron	8221884				synaptic vesicle exocytosis leads to .
+synaptic vesicle exocytosis		Leads To			neuron	8221884				synaptic vesicle exocytosis leads to .
+synaptic vesicle exocytosis		Leads To			neuron	8221884				synaptic vesicle exocytosis leads to .
+norepinephrine	norepinephrine	Transport	SLC6A2	Gene	null, neuron	12431845				Transport from norepinephrine to norepinephrine. This interaction is catalyzed by SLC6A2.
+norepinephrine	norepinephrine	Transport			neuron, null	8221884				Transport from norepinephrine to norepinephrine.
+norepinephrine	norepinephrine	Transport	SLC18A2	Gene	neuron	12351745, 1438304				Transport from norepinephrine to norepinephrine. This interaction is catalyzed by SLC18A2.
+serotonin	serotonin	Transport	SLC18A2	Gene	neuron	12351745, 1438304				Transport from serotonin to serotonin. This interaction is catalyzed by SLC18A2.
+dopamine	dopamine	Transport	SLC18A2	Gene	neuron	12351745, 1438304				Transport from dopamine to dopamine. This interaction is catalyzed by SLC18A2.
+serotonin	serotonin	Transport			neuron, null	8221884				Transport from serotonin to serotonin.
+dopamine	dopamine	Transport			neuron, null	8221884				Transport from dopamine to dopamine.
+dopamine	dopamine	Transport	SLC6A3	Gene	null, neuron	12431845				Transport from dopamine to dopamine. This interaction is catalyzed by SLC6A3.
+serotonin	serotonin	Transport	SLC6A4	Gene	null, neuron	12431845				Transport from serotonin to serotonin. This interaction is catalyzed by SLC6A4.

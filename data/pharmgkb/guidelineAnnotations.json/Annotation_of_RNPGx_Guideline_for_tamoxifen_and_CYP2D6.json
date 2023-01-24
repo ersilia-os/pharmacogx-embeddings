@@ -1,0 +1,119 @@
+{
+  "citations": [
+    {
+      "id": 15109202,
+      "title": "Pharmacogenetics of anti-cancer drugs: State of the art and implementation - recommendations of the French National Network of Pharmacogenetics.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/28262261",
+      "authors": [
+        "Quaranta Sylvie",
+        "Thomas Fabienne"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451127600,
+          "resource": "PubMed",
+          "resourceId": "28262261",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/28262261",
+          "version": 0
+        },
+        {
+          "id": 1451127601,
+          "resource": "DOI",
+          "resourceId": "10.1016/j.therap.2017.01.005",
+          "_url": "http://dx.doi.org/10.1016%2Fj.therap.2017.01.005",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapie",
+      "meshDiseases": [],
+      "meshTerms": [
+        "Antineoplastic Agents",
+        "Dihydrouracil Dehydrogenase (NADP)",
+        "Genotyping Techniques",
+        "Glucuronosyltransferase",
+        "Humans",
+        "Methyltransferases",
+        "Pharmacogenetics",
+        "Pharmacogenomic Testing",
+        "Polymorphism, Genetic"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "205-215",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2017-04-01T00:00:00-07:00",
+      "summary": "Individualized treatment is of special importance in oncology because the drugs used for chemotherapy have a very narrow therapeutic index. Pharmacogenetics may contribute substantially to clinical routine for optimizing cancer treatment to limit toxic effects while maintaining efficacy. This review presents the usefulness of pharmacogenetic tests for some key applications: dihydropyrimidine dehydrogenase (DPYD) genotyping for fluoropyrimidine (5-fluorouracil, capecitabine), UDP glucuronosylstransferase (UGT1A1) for irinotecan and thiopurine S-methyltransferase (TPMT) for thiopurine drugs. Depending on the level of evidence, the French National Network of Pharmacogenetics (RNPGx) has issued three levels of recommendations for these pharmacogenetic tests: essential, advisable, and potentially useful. Other applications, for which the level of evidence is still discussed, will be evoked in the final section of this review.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2017
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166202801",
+    "name": "Annotation of RNPGx Guideline for tamoxifen and CYP2D6",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451136561,
+        "date": "2020-05-13T00:00:00-07:00",
+        "description": "Approving to live",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451678144,
+        "date": "2022-02-10T13:51:37.870-08:00",
+        "description": "Added RNPGx as source",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15109202,"title":"Pharmacogenetics of anti-cancer drugs: State of the art and implementation - recommendations of the French National Network of Pharmacogenetics.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/28262261","crossReferences":[{"id":1451127600,"resource":"PubMed","resourceId":"28262261","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28262261"},{"id":1451127601,"resource":"DOI","resourceId":"10.1016/j.therap.2017.01.005","_url":"http://dx.doi.org/10.1016%2Fj.therap.2017.01.005"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": false,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA451581",
+        "name": "tamoxifen",
+        "version": 21
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA128",
+        "symbol": "CYP2D6",
+        "name": "cytochrome P450 family 2 subfamily D member 6",
+        "version": 7890
+      }
+    ],
+    "source": "RNPGx",
+    "summaryMarkdown": {
+      "id": 1451129500,
+      "html": "<p>The French National Network of Pharmacogenetics (Réseau national de pharmacogénétique (RNPGx)) states that there is no recommendation\nfor genotyping CYP2D6 in all patients starting a tamoxifen regimen.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451129501,
+      "html": "<p>The French National Network of Pharmacogenetics (RNPGx) publication about the state of the art and clinical implementation — recommendations from the French National Network of Pharmacogenetics for anti-cancer drugs states:</p>\n<blockquote class=\"blockquote\">\n<p>Tamoxifen is indicated for the treatment of patients\nwith breast cancer in an adjuvant or metastasis context.\nTamoxifen requires bioactivation into the active metabolites 4-hydroxytamaxifen and endoxifen (N-demethyl-4-\nhydroxytamoxifen). CYP2D6, controlling the limiting step\nfor the formation of endoxifen and 4-hydroxytamoxifen, is\na highly polymorphous gene. There are three metabolizer\nphenotypes: extensive, intermediate and slow. Between\n2005 and 2010, a certain number of studies demonstrated\nthat patients with the intermediate or slow metabolizer phenotype had lower survival rates compared with patients with\nan extensive metabolizer phenotype due to less pronounced\nformation of the active metabolite [Article:<a href=\"/pmid/19809024\">19809024</a>][Article:<a href=\"/pmid/16361630\">16361630</a>]. Subsequently,\nhighly conflicting results were published on this question\n[Article:<a href=\"/pmid/22395643\">22395643</a>][Article:<a href=\"/pmid/22395644\">22395644</a>][Article:<a href=\"/pmid/24060820\">24060820</a>] such that to date there is no recommendation\nfor genotyping CYP2D6 in all patients starting a tamoxifen\nregimen. While waiting for the results of prospective currently in process, this genotype could be potentially useful\nin certain specific cases (major adverse effects, no adverse\neffects).</p>\n</blockquote>\n",
+      "version": 0
+    },
+    "userId": "cfthorn",
+    "version": 1
+  }
+}

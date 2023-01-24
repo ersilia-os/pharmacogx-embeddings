@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+olanzapine	olanzapine n-oxide	Biochemical Reaction	CYP2D6, CYP3A4, CYP3A5, FMO1, FMO3	Gene	hepatocyte	26856397, 23147717, 10511917		olanzapine		Biochemical reaction from olanzapine to olanzapine n-oxide. This interaction can be catalyzed by FMO1, CYP3A4, FMO3, CYP2D6 or CYP3A5.
+olanzapine	unii-t148r8s95b	Biochemical Reaction	UGT1A4, UGT2B10	Gene	hepatocyte	26329789, 21750471, 10511917		olanzapine		Biochemical reaction from olanzapine to olanzapine 4-n-glucuronide. This interaction can be catalyzed by UGT1A4 or UGT2B10.
+olanzapine	n-demethyl olanzapine	Biochemical Reaction	CYP1A2, CYP2C8, CYP2D6, CYP3A4, CYP3A43	Gene	hepatocyte	26856397, 26329789, 23930678, 21519338, 10511917		olanzapine		Biochemical reaction from olanzapine to desmethyl olanzapine. This interaction can be catalyzed by CYP3A4, CYP2C8, CYP1A2, CYP2D6 or CYP3A43.
+olanzapine	2-hydroxymethyl olanzapine	Biochemical Reaction	CYP2D6	Gene	hepatocyte	26856397, 10511917		olanzapine		Biochemical reaction from olanzapine to 2-hydroxymethyl olanzapine. This interaction is catalyzed by CYP2D6.
+olanzapine	unii-a432w914yr	Biochemical Reaction	UGT1A4, UGT2B10	Gene	hepatocyte	26329789, 21750471, 10511917		olanzapine		Biochemical reaction from olanzapine to olanzapine 10-n-glucuronide. This interaction can be catalyzed by UGT1A4 or UGT2B10.
+olanzapine	ABCB1	Inhibition			hepatocyte	22525746, 21843066, 18834354	ABCB1	olanzapine		olanzapine inhibits ABCB1.
+olanzapine	olanzapine	Transport	ABCB1	Gene	hepatocyte, null	22525746, 21843066, 18834354		olanzapine		Transport from olanzapine to olanzapine. This interaction is catalyzed by ABCB1.

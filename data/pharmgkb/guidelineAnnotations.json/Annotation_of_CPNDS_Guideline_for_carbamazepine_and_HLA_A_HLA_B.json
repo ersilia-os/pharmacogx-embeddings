@@ -1,0 +1,164 @@
+{
+  "citations": [
+    {
+      "id": 15071835,
+      "title": "Recommendations for HLA-B*15:02 and HLA-A*31:01 genetic testing to reduce the risk of carbamazepine-induced hypersensitivity reactions.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/24597466",
+      "authors": [
+        "Amstutz Ursula",
+        "Shear Neil H",
+        "Rieder Michael J",
+        "Hwang Soomi",
+        "Fung Vincent",
+        "Nakamura Hidefumi",
+        "Connolly Mary B",
+        "Ito Shinya",
+        "Carleton Bruce C",
+        "CPNDS clinical recommendation group"
+      ],
+      "crossReferences": [
+        {
+          "id": 1449279963,
+          "resource": "PubMed",
+          "resourceId": "24597466",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/24597466",
+          "version": 0
+        },
+        {
+          "id": 1449279964,
+          "resource": "DOI",
+          "resourceId": "10.1111/epi.12564",
+          "_url": "http://dx.doi.org/10.1111%2Fepi.12564",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Epilepsia",
+      "meshDiseases": [
+        "PA443936"
+      ],
+      "meshTerms": [
+        "Anticonvulsants",
+        "Carbamazepine",
+        "Drug Hypersensitivity",
+        "Genetic Markers",
+        "Genetic Testing",
+        "HLA-A Antigens",
+        "HLA-B15 Antigen",
+        "Humans",
+        "Risk Factors"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "496-506",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2014-04-01T00:00:00-07:00",
+      "summary": "OBJECTIVE: To systematically review evidence on genetic risk factors for carbamazepine (CBZ)-induced hypersensitivity reactions (HSRs) and provide practice recommendations addressing the key questions: (1) Should genetic testing for HLA-B*15:02 and HLA-A*31:01 be performed in patients with an indication for CBZ therapy to reduce the occurrence of CBZ-induced HSRs? (2) Are there subgroups of patients who may benefit more from genetic testing for HLA-B*15:02 or HLA-A*31:01 compared to others? (3) How should patients with an indication for CBZ therapy be managed based on their genetic test results?\n\nMETHODS: A systematic literature search was performed for HLA-B*15:02 and HLA-A*31:01 and their association with CBZ-induced HSRs. Evidence was critically appraised and clinical practice recommendations were developed based on expert group consensus.\n\nRESULTS: Patients carrying HLA-B*15:02 are at strongly increased risk for CBZ-induced Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) in populations where HLA-B*15:02 is common, but not CBZ-induced hypersensitivity syndrome (HSS) or maculopapular exanthema (MPE). HLA-B*15:02-positive patients with CBZ-SJS/TEN have been reported from Asian countries only, including China, Thailand, Malaysia, and India. HLA-B*15:02 is rare among Caucasians or Japanese; no HLA-B*15:02-positive patients with CBZ-SJS/TEN have been reported so far in these groups. HLA-A*31:01-positive patients are at increased risk for CBZ-induced HSS and MPE, and possibly SJS/TEN and acute generalized exanthematous pustulosis (AGEP). This association has been shown in Caucasian, Japanese, Korean, Chinese, and patients of mixed origin; however, HLA-A*31:01 is common in most ethnic groups. Not all patients carrying either risk variant develop an HSR, resulting in a relatively low positive predictive value of the genetic tests.\n\nCONCLUSIONS: This review provides the latest update on genetic markers for CBZ HSRs, clinical practice recommendations as a basis for informed decision making regarding the use of HLA-B*15:02 and HLA-A*31:01 genetic testing in patients with an indication for CBZ therapy, and identifies knowledge gaps to guide future research. A PowerPoint slide summarizing this article is available for download in the Supporting Information section here.",
+      "terms": [],
+      "version": 2,
+      "volume": "55",
+      "year": 2014
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166117280",
+    "name": "Annotation of CPNDS Guideline for carbamazepine and HLA-A, HLA-B",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1183944054,
+        "date": "2014-03-11T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1451664740,
+        "date": "2022-01-31T14:30:48.688-08:00",
+        "description": "Added information about recommendations for HLA-A genotype.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741741,
+        "date": "2022-04-05T13:32:47.044-07:00",
+        "description": "Added testing guidance tag",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451901260,
+        "date": "2022-09-30T14:11:02.392-07:00",
+        "description": "fixed typo",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15071835,"title":"Recommendations for HLA-B*15:02 and HLA-A*31:01 genetic testing to reduce the risk of carbamazepine-induced hypersensitivity reactions.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/24597466","crossReferences":[{"id":1449279963,"resource":"PubMed","resourceId":"24597466","_url":"https://www.ncbi.nlm.nih.gov/pubmed/24597466"},{"id":1449279964,"resource":"DOI","resourceId":"10.1111/epi.12564","_url":"http://dx.doi.org/10.1111%2Fepi.12564"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA165954030",
+        "symbol": "HLA-A*31:01:02",
+        "name": "*31:01:02",
+        "version": 3
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165954769",
+        "symbol": "HLA-B*15:02:01",
+        "name": "*15:02:01",
+        "version": 2
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA448785",
+        "name": "carbamazepine",
+        "version": 13
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA35055",
+        "symbol": "HLA-A",
+        "name": "major histocompatibility complex, class I, A",
+        "version": 42
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA35056",
+        "symbol": "HLA-B",
+        "name": "major histocompatibility complex, class I, B",
+        "version": 40
+      }
+    ],
+    "source": "CPNDS",
+    "summaryMarkdown": {
+      "id": 1447982069,
+      "html": "<p>The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published guidelines for the use of HLA-A*31:01 or HLA-B*15:02 genotype when prescribing carbamazepine (CBZ).  They recommend that carbamazepine not be prescribed for CBZ-naive patients who carry at least one HLA-A*31:01 or HLA-B*15:02 allele.</p>\n",
+      "version": 1
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1447982068,
+      "html": "<p>The Canadian Pharmacogenomics Network for Drug Safety (CPNDS) clinical recommendation group has published HLA-A and HLA-B based drug dosing guidelines for carbamazepine in <em>Epilepsia</em>.  Excerpts from &quot;Recommendations for HLA-B*15:02 and HLA-A*31:01 genetic testing to reduce the risk of carbamazepine-induced hypersensitivity reactions&quot; [Article:<a href=\"/pmid/24597466\">24597466</a>] follow:</p>\n<blockquote class=\"blockquote\">\n<p>Genetic testing for HLA-A*31:01 [or] HLA-B*15:02 is recommended for all CBZ-naive patients before initiation of CBZ therapy...In patients who have previously taken CBZ for &gt; 3 months without any adverse effects, and in whom reinitiation of CBZ is considered, genetic testing is NOT recommended (B). In patients who have previously taken CBZ for a shorter period, genetic testing should be considered (B)...In patients who are positive for HLA-B*15:02 or HLA-A*31:01, alternative medications should be used as first-line therapy (A). Consideration in the choice of alternative medications should be given to the possibility of cross-reactivity with structurally similar AEDs (oxcarbazepine, lamotrigine, phenytoin, phenobarbital, primidone).</p>\n</blockquote>\n",
+      "version": 12
+    },
+    "userId": "carrillo",
+    "version": 17
+  }
+}

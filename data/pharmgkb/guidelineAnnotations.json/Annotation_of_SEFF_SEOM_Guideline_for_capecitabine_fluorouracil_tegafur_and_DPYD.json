@@ -1,0 +1,207 @@
+{
+  "citations": [
+    {
+      "id": 15125502,
+      "title": "Consensus of experts from the Spanish Pharmacogenetics and Pharmacogenomics Society and the Spanish Society of Medical Oncology for the genotyping of DPYD in cancer patients who are candidates for treatment with fluoropyrimidines.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/34773566",
+      "authors": [
+        "García-Alfonso P",
+        "Saiz-Rodríguez M",
+        "Mondéjar R",
+        "Salazar J",
+        "Páez D",
+        "Borobia A M",
+        "Safont M J",
+        "García-García I",
+        "Colomer R",
+        "García-González X",
+        "Herrero M J",
+        "López-Fernández L A",
+        "Abad-Santos F"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451585143,
+          "resource": "PubMed",
+          "resourceId": "34773566",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/34773566",
+          "version": 0
+        },
+        {
+          "id": 1451585144,
+          "resource": "DOI",
+          "resourceId": "10.1007/s12094-021-02708-4",
+          "_url": "http://dx.doi.org/10.1007%2Fs12094-021-02708-4",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Clinical & translational oncology : official publication of the Federation of Spanish Oncology Societies and of the National Cancer Institute of Mexico",
+      "meshDiseases": [],
+      "meshTerms": [],
+      "month": 11,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2021-11-01T00:00:00-07:00",
+      "summary": "5-Fluorouracil (5-FU) and oral fluoropyrimidines, such as capecitabine, are widely used in the treatment of cancer, especially gastrointestinal tumors and breast cancer, but their administration can produce serious and even lethal toxicity. This toxicity is often related to the partial or complete deficiency of the dihydropyrimidine dehydrogenase (DPD) enzyme, which causes a reduction in clearance and a longer half-life of 5-FU. It is advisable to determine if a DPD deficiency exists before administering these drugs by genotyping DPYD gene polymorphisms. The objective of this consensus of experts, in which representatives from the Spanish Pharmacogenetics and Pharmacogenomics Society and the Spanish Society of Medical Oncology participated, is to establish clear recommendations for the implementation of genotype and/or phenotype testing for DPD deficiency in patients who are candidates to receive fluoropyrimidines. The genotyping of DPYD previous to treatment classifies individuals as normal, intermediate, or poor metabolizers. Normal metabolizers do not require changes in the initial dose, intermediate metabolizers should start treatment with fluoropyrimidines at doses reduced to 50%, and poor metabolizers are contraindicated for fluoropyrimidines.",
+      "terms": [],
+      "version": 0,
+      "year": 2021
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166254881",
+    "name": "Annotation of SEFF/SEOM Guideline for capecitabine, fluorouracil, tegafur and DPYD",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1451585142,
+        "date": "2021-11-17T00:00:00-08:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1451678165,
+        "date": "2022-02-10T13:51:58.886-08:00",
+        "description": "Added SEFF/SEOM as source",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741740,
+        "date": "2022-04-05T13:32:25.331-07:00",
+        "description": "Added testing guidance tag",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15125502,"title":"Consensus of experts from the Spanish Pharmacogenetics and Pharmacogenomics Society and the Spanish Society of Medical Oncology for the genotyping of DPYD in cancer patients who are candidates for treatment with fluoropyrimidines.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/34773566","crossReferences":[{"id":1451585143,"resource":"PubMed","resourceId":"34773566","_url":"https://www.ncbi.nlm.nih.gov/pubmed/34773566"},{"id":1451585144,"resource":"DOI","resourceId":"10.1007/s12094-021-02708-4","_url":"http://dx.doi.org/10.1007%2Fs12094-021-02708-4"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Variant",
+        "id": "PA166153919",
+        "symbol": "rs115232898",
+        "name": "rs115232898",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153649",
+        "symbol": "rs1801266",
+        "name": "rs1801266",
+        "version": 7
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153651",
+        "symbol": "rs1801268",
+        "name": "rs1801268",
+        "version": 6
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153760",
+        "symbol": "rs3918290",
+        "name": "rs3918290",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153888",
+        "symbol": "rs55886062",
+        "name": "rs55886062",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153889",
+        "symbol": "rs56038477",
+        "name": "rs56038477",
+        "version": 3
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153895",
+        "symbol": "rs67376798",
+        "name": "rs67376798",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153897",
+        "symbol": "rs72549303",
+        "name": "rs72549303",
+        "version": 7
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153902",
+        "symbol": "rs72549309",
+        "name": "rs72549309",
+        "version": 9
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166153913",
+        "symbol": "rs78060119",
+        "name": "rs78060119",
+        "version": 4
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA448771",
+        "name": "capecitabine",
+        "version": 19
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA128406956",
+        "name": "fluorouracil",
+        "version": 15
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA452620",
+        "name": "tegafur",
+        "version": 24
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA145",
+        "symbol": "DPYD",
+        "name": "dihydropyrimidine dehydrogenase",
+        "version": 6907
+      }
+    ],
+    "source": "SEFF/SEOM",
+    "summaryMarkdown": {
+      "id": 1451585140,
+      "html": "<p>Testing for certain DPYD variants in patients who are candidates for fluoropyrimidine treatment is recommended. The guideline contraindicates fluoropyrimidines in DPYD poor metabolizers, while DYPD intermediate metabolizers should have a 50% reduction in starting dose.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451585141,
+      "html": "<p>Experts from the Spanish Pharmacogenetics and Pharmacogenomics Society (SEFF) and the Spanish Society of Medical Oncology (SEOM) have provided recommendations for the implementation of DYPD genotyping and/or phenotyping and subsequent prescribing changes in patients who are candidates for treatment with fluoropyrimidines (also referred to as dihydropyrimidines in the publication).</p>\n<p>Excerpts from the guideline:</p>\n<blockquote class=\"blockquote\">\n<p>The AEMPS [Spanish Agency for Medicine and Health Products] recommends genotyping for four DPYD variants in patients who are candidates for treatment with dihydropyrimidines (Table 2):</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p><strong>Table 2</strong> Characteristics of the recommended DPYD variants</p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Allele</th>\n<th>Level of evidence<br/>assigned to allele *</th>\n<th>Activity score</th>\n<th>Level of evidence<br/>for dose titration <sup>#</sup></th>\n<th>Frequency in<br/>Europeans</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>No function</strong></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>DPYD*2A<br/>(rs3918290, c.1905 + 1G&gt;A, IVS14 + 1G&gt;A)</td>\n<td>High</td>\n<td>0</td>\n<td>1A</td>\n<td>1.0-1.2%</td>\n</tr>\n<tr>\n<td>DPYD*13<br/>(rs55886062, c.1679T&gt;G, I560S)</td>\n<td>Moderate</td>\n<td>0</td>\n<td>1A</td>\n<td>0.1%</td>\n</tr>\n<tr>\n<td><strong>Decreased function</strong></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>DPYD c.2846A&gt;T<br/>(rs67376798, D949V)</td>\n<td>High</td>\n<td>0.5</td>\n<td>1A</td>\n<td>0.8-1.4%</td>\n</tr>\n<tr>\n<td>DPYD c.1236G&gt;A/HapB3<br/>(rs56038477, E412E, in haplotype B3)</td>\n<td>High</td>\n<td>0.5</td>\n<td>1A</td>\n<td>4.1-4.8%</td>\n</tr>\n</tbody>\n</table>\n<p>* Based on Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines<br />\n<sup>#</sup> Based on clinical annotation levels of evidence by PharmGKB</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>To aid in the interpretation of the genotyping results and to define the phenotype of the patient, an individual activity score can be assigned to each of these four DPYD polymorphisms. Thus, if the alleles were *2A or *13 they would have a score of 0 and c.2846A&gt;T and HapB3 of 0.5. If the allele is wild type, the score would be 1.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>[...] it is noted that in addition to the four main variants mentioned above, there are rarer variants and other factors that may influence the development of toxicity associated with treatment with dihydropyrimidines [...] Among the known inactivating variants, in its guide to methodological recommendations and analytical interpretation, SEFF distinguishes six that it considers supported by a “moderate” level of evidence (Table 3). Typing these variants would be recommended in centers where the technique is easily accessible, to correctly assign the pharmacogenetic phenotypes of DPD despite their low frequency in the European population.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p><strong>Table 3</strong> Other very rare DPYD variants supported by a moderate level of evidence</p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>SNP</th>\n<th>cDNA variant</th>\n<th>Protein variant</th>\n<th>Impact on DPD activity</th>\n<th>MAF European no Finnish (gnomAD)</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><strong>Frameshift mutation</strong></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>rs72549303 (*3)</td>\n<td>c.1898del</td>\n<td>p.Pro633fs</td>\n<td>Total loss of function</td>\n<td>Not reported</td>\n</tr>\n<tr>\n<td>rs72549309 (*7)</td>\n<td>c.295_298TCAT</td>\n<td>p.Phe100SerfsTer15</td>\n<td>Total loss of function</td>\n<td>0.0002016</td>\n</tr>\n<tr>\n<td><strong>Missense mutation</strong></td>\n<td></td>\n<td></td>\n<td></td>\n<td></td>\n</tr>\n<tr>\n<td>rs1801266 (*8)</td>\n<td>c.703C&gt;T</td>\n<td>p.Arg235Trp</td>\n<td>Total loss of function</td>\n<td>0,0000852</td>\n</tr>\n<tr>\n<td>rs1801268 (*10)</td>\n<td>c.2983G&gt;T</td>\n<td>p.Val995Phe</td>\n<td>Total loss of function</td>\n<td>Not reported</td>\n</tr>\n<tr>\n<td>rs78060119 (*12)</td>\n<td>c.1156G&gt;T</td>\n<td>p.Glu386Ter</td>\n<td>Total loss of function</td>\n<td>0,0000088</td>\n</tr>\n<tr>\n<td>rs115232898</td>\n<td>c.557A&gt;G</td>\n<td>p.Tyr186Cys</td>\n<td>Decreased function</td>\n<td>0,0000466</td>\n</tr>\n</tbody>\n</table>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>Genotyping allows the classification of individuals as “normal” metabolizers (activity score of 2), “intermediate” metabolizers (activity score of 1–1.5), or “poor” metabolizers (activity score of 0–0.5) (Table 4). While the former does not require modifications in the initial dose the intermediate group should start treatment with a dose reduced to approximately 50% and then escalate the dose in later cycles if no toxicity is observed. For poor metabolizers, the administration of fluoropyrimidines is contraindicated, and other therapeutic options should be considered.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p><strong>Table 4</strong> Dosing of fluoropyrimidines according to DPD phenotype based on genotype</p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype</th>\n<th>Genotype</th>\n<th>Implications</th>\n<th>Dosing recommendations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Normal metabolizer<br/>(Activity score 2)</td>\n<td>Wild-type (absence of mutation)</td>\n<td>Normal DPD activity and<br/>normal risk for fluoropyrimidine toxicity</td>\n<td>According to the data sheet</td>\n</tr>\n<tr>\n<td>Intermediate metabolizer<br/>(activity score 1–1.5)</td>\n<td>Wild-type allele and mutated allele<br/>(*2A or *13 or c.2846A&gt;T or HapB3)<br/>&nbsp;<br/>Two mutated alleles<br/>(c.2846A&gt;T or HapB3)</td>\n<td>Decreased DPD activity (30–70%) and increased<br/>risk for severe or even fatal drug toxicity<br/>when treated with fluoropyrimidines</td>\n<td>Reduce starting dose by 50% followed by titration of dose based on toxicity or pharmacokinetics</td>\n</tr>\n<tr>\n<td>Poor metabolizer<br/>(Activity score 0–0.5)</td>\n<td>Two mutated alleles<br/>(*2A or *13)<br/>&nbsp;<br/>One mutated allele (*2A or *13) and one mutated allele (c.2846A&gt;T or HapB3)</td>\n<td>Complete or almost complete DPD deficiency and increased risk for severe or even fatal drug toxicity when treated with fluoropyrimidines</td>\n<td>Contraindicated treatment with fluoropyrimidines; look for alternative agents*</td>\n</tr>\n</tbody>\n</table>\n<p>*In the event that alternative agents are not considered a suitable therapeutic option and patient has an activity score of 0.5, CPIC indicates that 5-FU could be administered at a strongly reduced dose (&lt; 25% of the normal dose) with early therapeutic drug monitoring of plasma concentration\nof 5-FU, to discontinue therapy if the drug level is too high.</p>\n<p>5-FU: 5-fluorouracil</p>\n</blockquote>\n",
+      "version": 0
+    },
+    "userId": "rachel",
+    "version": 3
+  }
+}

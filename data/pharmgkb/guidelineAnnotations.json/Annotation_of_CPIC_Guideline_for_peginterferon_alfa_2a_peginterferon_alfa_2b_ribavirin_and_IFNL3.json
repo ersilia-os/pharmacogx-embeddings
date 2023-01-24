@@ -1,0 +1,258 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166110235",
+    "name": "Annotation of CPIC Guideline for peginterferon alfa-2a,peginterferon alfa-2b,ribavirin and IFNL3",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983502,
+        "name": "CPIC® Guideline for PEG Interferon-Alpha-Based Regimens and IFNL3 – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-peg-interferon-alpha-based-regimens-and-ifnl3/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-peg-interferon-alpha-based-regimens-and-ifnl3/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "MY5f_qlLH30",
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1449560775,
+        "alleles": [
+          {
+            "id": 1449560776,
+            "_label": "rs12979860 reference (C)",
+            "function": {
+              "id": 1446767120,
+              "description": "used for IFNL3 CPIC guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Favorable response allele",
+              "termId": "haplotypeTags:1446767120",
+              "version": 2
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166129427",
+              "symbol": "IFNL3 rs12979860 reference (C)",
+              "name": "rs12979860 reference (C)",
+              "version": 3
+            },
+            "version": 0
+          },
+          {
+            "id": 1449560777,
+            "_label": "rs12979860T",
+            "function": {
+              "id": 1446767121,
+              "description": "used for IFNL3 CPIC guideline",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unfavorable response allele",
+              "termId": "haplotypeTags:1446767121",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166129428",
+              "symbol": "IFNL3 rs12979860T",
+              "name": "rs12979860T",
+              "version": 2
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA134952671",
+          "symbol": "IFNL3",
+          "name": "interferon lambda 3",
+          "altNames": {
+            "synonym": [
+              "interferon, lambda 3"
+            ],
+            "symbol": [
+              "IL-28B",
+              "IL28B",
+              "IL28C"
+            ]
+          },
+          "buildVersion": "GRCh38",
+          "cbStart": "q13.13",
+          "cbStop": "q13.2",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA520",
+            "name": "chr19",
+            "version": 3
+          },
+          "chrStartPosB37": 39734193,
+          "chrStartPosB38": 39243455,
+          "chrStopPosB37": 39735717,
+          "chrStopPosB38": 39245250,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 132260624,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000197110",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197110",
+              "version": 0
+            },
+            {
+              "id": 981197450,
+              "resource": "GeneCard",
+              "resourceId": "IL28B",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=IL28B",
+              "version": 0
+            },
+            {
+              "id": 606262729,
+              "resource": "HGNC",
+              "resourceId": "HGNC:18365",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A18365",
+              "version": 1
+            },
+            {
+              "id": 77831269,
+              "resource": "NCBI Gene",
+              "resourceId": "282617",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/282617",
+              "version": 0
+            },
+            {
+              "id": 77831267,
+              "resource": "OMIM",
+              "resourceId": "607402",
+              "_url": "https://omim.org/entry/607402",
+              "version": 0
+            },
+            {
+              "id": 560543019,
+              "resource": "OMIM",
+              "resourceId": "609532",
+              "_url": "https://omim.org/entry/609532",
+              "version": 0
+            },
+            {
+              "id": 36835,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_011109",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_011109",
+              "version": 1
+            },
+            {
+              "id": 77831270,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_742151",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_742151",
+              "version": 0
+            },
+            {
+              "id": 77831272,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_172139",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_172139",
+              "version": 0
+            },
+            {
+              "id": 77831268,
+              "name": "IL28B_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "Q8IZI9",
+              "_url": "https://www.uniprot.org/uniprot/Q8IZI9",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": true,
+          "pharmVarGene": false,
+          "strand": "minus",
+          "terms": [
+            {"id":560499516,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005125","resource":"Gene Ontology","term":"cytokine activity","termId":"GO:0005125"},
+            {"id":560499910,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005576","resource":"Gene Ontology","term":"extracellular region","termId":"GO:0005576"},
+            {"id":560499957,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005615","resource":"Gene Ontology","term":"extracellular space","termId":"GO:0005615"},
+            {"id":560503597,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009615","resource":"Gene Ontology","term":"response to virus","termId":"GO:0009615"}
+          ],
+          "version": 8
+        },
+        "version": 0
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1183631742,
+        "date": "2013-10-05T00:00:00-07:00",
+        "type": "Create",
+        "version": 2
+      },
+      {
+        "id": 1184469994,
+        "date": "2014-06-19T00:00:00-07:00",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1447946687,
+        "date": "2016-02-25T09:39:25.272-08:00",
+        "description": "Boceprevir and telaprevir are removed as the guideline focuses on peg interferon alpha-based regimens",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15064565,"title":"Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for IFNL3 (IL28B) genotype and PEG interferon-alpha-based regimens.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3904555","crossReferences":[{"id":1449278051,"resource":"PubMed Central","resourceId":"PMC3904555","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3904555"},{"id":1449278050,"resource":"PubMed","resourceId":"24096968","_url":"https://www.ncbi.nlm.nih.gov/pubmed/24096968"},{"id":1449278052,"resource":"DOI","resourceId":"10.1038/clpt.2013.203","_url":"http://dx.doi.org/10.1038%2Fclpt.2013.203"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15100919,"title":"CPIC® Guideline for PEG Interferon-Alpha-Based Regimens and IFNL3 – CPIC","_sameAs":"https://cpicpgx.org/guidelines/guideline-for-peg-interferon-alpha-based-regimens-and-ifnl3/","crossReferences":[{"id":1447983502,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-peg-interferon-alpha-based-regimens-and-ifnl3/","_url":"https://cpicpgx.org/guidelines/guideline-for-peg-interferon-alpha-based-regimens-and-ifnl3/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA164749390",
+        "name": "peginterferon alfa-2a",
+        "version": 5
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA164784024",
+        "name": "peginterferon alfa-2b",
+        "version": 5
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451241",
+        "name": "ribavirin",
+        "version": 9
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA134952671",
+        "symbol": "IFNL3",
+        "name": "interferon lambda 3",
+        "version": 8
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1447981876,
+      "html": "<p>IFNL3 (IL28B) variation (<a href=\"/variant/PA166155468\">rs12979860</a>) is the strongest baseline predictor of response to PEG-interferon-alpha-containing regimens in HCV genotype 1 patients.  Patients with the favorable response genotype (<a href=\"/variant/PA166155468\">rs12979860</a> CC) have increased likelihood of response (higher SVR rate) to PEG-interferon-alpha-containing regimens as compared to patients with unfavorable response genotype (<a href=\"/variant/PA166155468\">rs12979860</a> CT or TT). Consider implications before initiating PEG-IFN alpha and RBV containing regimens.</p>\n",
+      "version": 10
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433630,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-peg-interferon-alpha-based-regimens-and-ifnl3/\" target=\"_blank\">CPIC&reg; guideline for PEG interferon-alpha-based regimens and IFNL3</a>.</p>\n<h3 id=\"february-2014\">February 2014</h3>\n<p><em>Accepted article preview online October 2013; Advance online publication November 2013.</em></p>\n<ul>\n<li>\n<p>Guidelines regarding the use of pharmacogenomic tests in PEG-interferon-alpha (PEG-IFN alpha) and ribavirin (RBV) therapy have been published in Clinical Pharmacology and Therapeutics by the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC)</a>.</p>\n</li>\n<li>\n<p>These guidelines are applicable to</p>\n<ul>\n<li>adults</li>\n</ul>\n</li>\n<li>\n<p>Excerpt from the 2013 PEG-interferon-alpha therapy dosing guidelines:</p>\n<ul>\n<li>&quot;The role of IFNL3 genotyping depends on treatment selection. IFNL3 genotype is only one factor that could influence response rates to PEG-IFN alpha\u0001 and RBV therapy in HCV genotype 1 infection and should be interpreted in the context of other clinical and genetic factors. &quot;</li>\n<li>&quot;For patients treated with PEG-IFN alpha\u0001 and RBV alone, IFNL3 genotype is the strongest pretreatment predictor of HCV treatment response. In the intention to treat analysis of the original discovery cohort with <a href=\"/variant/PA166155468\">rs12979860</a>, Caucasian CC genotype patients were more likely than CT or TT patients to be undetectable by week 4 (28% versus 5% and 5%, P&lt;0.0001) and to achieve SVR (69% versus 33% and 27%, P&lt;0.0001). Similar patterns were observed in Hispanic and African American patients in this cohort. HCV treatment is associated with significant side effects, and the likelihood of response treatment influences shared decision making between clinicians and patients about initiating treatment.&quot;</li>\n<li>&quot;For treatment naïve patients with genotype 1 infection who are treated with protease inhibitor combinations, all IFNL3 genotypes have improved response rates compared to PEG-IFN alpha\u0001 and RBV only. However, patients with the favorable IFNL3 genotype still have higher response rates with the protease inhibitor combination in treatment naïve patients, and these response rates may guide patients and clinicians in their treatment decisions. In the boceprevir phase 3 naïve study of combination with PEG-IFN alpha\u0001 and RBV, SVR rates for <a href=\"/variant/PA166155468\">rs12979860</a> CC patients receiving boceprevir ranged from 80-82% compared to 65-71% for CT patients and 59-65% for TT patients. Moreover, multivariate regression analysis revealed that <a href=\"/variant/PA166155468\">rs12979860</a> CC was a predictor of SVR compared to CT (odds ratio (OR) 2.6, 95% CI 1.3-5.1) and TT genotypes (OR 2.1, 95% CI 1.2-3.7).&quot;</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/pegintron/2013/24096968.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for IFNL3 (IL28B) genotype and PEG interferon-alpha-based regimens</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/pegintron/2013/24096968-supplement.pdf\" target=\"_blank\">2013 supplement</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-recommended-therapeutic-use-of-peg-interferon-alpha-containing-regimens-based-on-ifnl3-genotype\">Table 1: Recommended therapeutic use of  PEG-interferon-alpha containing regimens based on <em>IFNL3</em> genotype</h3>\n<p><em>Adapted from Table 1 and 2 of the 2013 guideline manuscript</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Genotype at <a href=\"/variant/PA166155468\">rs12979860</a></th>\n<th>Phenotype</th>\n<th>Implications for PEG-IFN alpha\u0001 and RBV <sup>a</sup></th>\n<th>Implications for protease inhibitor combinations with PEG-IFN alpha\u0001 and RBV therapy</th>\n<th>Classification of recommendations <sup>b</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>CC</td>\n<td>Favorable response genotype</td>\n<td>Approximately 70% chance for SVR <sup>c</sup> after 48 weeks of treatment. Consider implications before initiating PEG-IFN alpha and RBV containing regimens.</td>\n<td>Approximately 90% chance for SVR after 24-48 weeks of treatment. Approximately 80-90% of patients are eligible for shortened therapy (24-28 weeks vs. 48 weeks)<sup>d</sup>. Weighs in favor of using PEG-IFN\u0001 alpha and RBV containing regimens.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>CT or TT</td>\n<td>Unfavorable response genotype</td>\n<td>Approximately 30% chance for SVR <sup>c</sup> after 48 weeks of treatment. Consider implications before initiating PEG-IFN alpha and RBV containing regimens.</td>\n<td>Approximately 60% chance for SVR after 24-48 weeks of treatment. Approximately 50% of patients are eligible for shortened therapy (24-28 weeks)<sup>d</sup>. Consider implications before initiating PEG-IFN\u0001 and RBV containing regimens.</td>\n<td>Strong</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> In cases where a protease inhibitor is not available.</p>\n<p><sup>b</sup> Rating scheme described in Supplement.</p>\n<p><sup>c</sup> SVR; sustained virologic response (defined by undetectable serum viral RNA 12-24 weeks after the end of treatment).</p>\n<p><sup>d</sup> Patients receiving boceprevir are eligible for 24-28 weeks instead of the standard 48 weeks if HCV RNA is undetectable by week eight. Patients receiving telaprevir are eligible for 24 weeks of therapy instead of the standard 48 weeks if HCV RNA is undetectable by week four.</p>\n<p>PEG-IFN alpha\u0001: pegylated-interferon alpha 2a or 2b; RBV: ribavirin</p>\n",
+      "version": 0
+    },
+    "userId": "whaleyr",
+    "version": 46
+  }
+}

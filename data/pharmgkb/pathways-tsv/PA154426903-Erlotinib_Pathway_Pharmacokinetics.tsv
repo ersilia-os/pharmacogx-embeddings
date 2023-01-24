@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+erlotinib	osi 420	Biochemical Reaction	CYP1A1, CYP1A2, CYP3A4, CYP3A5	Gene	hepatocyte	24781527, 19733976, 17575239, 16890575, 16381666, 16490804, 16166415, 11432895		erlotinib	Diarrhea,Exanthema	Biochemical reaction from erlotinib to OSI-420. This interaction can be catalyzed by CYP3A4, CYP1A1, CYP3A5 or CYP1A2.
+erlotinib	EGFR	Inhibition			null, malignant cell	23022519, 22594511, 16166415	EGFR	erlotinib	Diarrhea,Exanthema	erlotinib inhibits EGFR.
+erlotinib	UGT1A1	Inhibition			hepatocyte	30105461, 20580994, 19850672	UGT1A1	erlotinib	Diarrhea,Exanthema	erlotinib inhibits UGT1A1.
+erlotinib	ABCG2	Inhibition			hepatocyte	18006847	ABCG2	erlotinib	Diarrhea,Exanthema	erlotinib inhibits ABCG2.
+erlotinib	ABCB1	Inhibition			hepatocyte	18006847	ABCB1	erlotinib	Diarrhea,Exanthema	erlotinib inhibits ABCB1.
+osi 420	Exanthema	Leads To			hepatocyte, null	28444958, 26820683, 24781527			Diarrhea,Exanthema	OSI-420 leads to Exanthema.
+osi 420	Diarrhea	Leads To			hepatocyte, null	26820683, 24781527			Diarrhea,Exanthema	OSI-420 leads to Diarrhea.
+erlotinib	erlotinib	Transport	ABCB1, ABCG2	Gene	hepatocyte, null	19493273, 17312388, 15155841		erlotinib	Diarrhea,Exanthema	Transport from erlotinib to erlotinib. This interaction can be catalyzed by ABCB1 or ABCG2.

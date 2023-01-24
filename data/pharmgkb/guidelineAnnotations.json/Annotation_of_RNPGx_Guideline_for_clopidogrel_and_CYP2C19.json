@@ -1,0 +1,151 @@
+{
+  "citations": [
+    {
+      "id": 15109262,
+      "title": "Pharmacogenetics in cardiovascular diseases: State of the art and implementation-recommendations of the French National Network of Pharmacogenetics (RNPGx).",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/28237404",
+      "authors": [
+        "Lamoureux Fabien",
+        "Duflot Thomas",
+        "French Network of Pharmacogenetics (RNPGX)"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451127922,
+          "resource": "PubMed",
+          "resourceId": "28237404",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/28237404",
+          "version": 0
+        },
+        {
+          "id": 1451127923,
+          "resource": "DOI",
+          "resourceId": "10.1016/j.therap.2016.09.017",
+          "_url": "http://dx.doi.org/10.1016%2Fj.therap.2016.09.017",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapie",
+      "meshDiseases": [
+        "PA443635"
+      ],
+      "meshTerms": [
+        "Anticoagulants",
+        "Cardiovascular Diseases",
+        "Cytochrome P-450 CYP2C9",
+        "Genotype",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Liver-Specific Organic Anion Transporter 1",
+        "Pharmacogenetics",
+        "Polymorphism, Genetic",
+        "Vitamin K Epoxide Reductases"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "257-267",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2017-04-01T00:00:00-07:00",
+      "summary": "The use of genomic markers to predict drug response and effectiveness has the potential to improve healthcare by increasing drug efficacy and minimizing adverse effects. Polymorphisms associated with inter-individual variability in drug metabolism, transport, or pharmacodynamics of major cardiovascular drugs have been identified. These include single nucleotide polymorphisms (SNP) affecting clinical outcomes in patients receiving antiplatelet agents, oral anticoagulants and statins. Based on clinical evidence supporting genetic testing in the management of cardiovascular diseases using these drug classes, this short review presents clinical guidance regarding current pharmacogenetics implementation in routine medical practice.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2017
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166202501",
+    "name": "Annotation of RNPGx Guideline for clopidogrel and CYP2C19",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1451136840,
+        "date": "2020-05-13T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1451678180,
+        "date": "2022-02-10T13:48:30.821-08:00",
+        "description": "Added RNPGx as source",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741829,
+        "date": "2022-04-05T14:07:58.328-07:00",
+        "description": "Added testing guidance tag and link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15109262,"title":"Pharmacogenetics in cardiovascular diseases: State of the art and implementation-recommendations of the French National Network of Pharmacogenetics (RNPGx).","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/28237404","crossReferences":[{"id":1451127922,"resource":"PubMed","resourceId":"28237404","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28237404"},{"id":1451127923,"resource":"DOI","resourceId":"10.1016/j.therap.2016.09.017","_url":"http://dx.doi.org/10.1016%2Fj.therap.2016.09.017"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816533",
+        "symbol": "CYP2C19*17",
+        "name": "*17",
+        "version": 29
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165980635",
+        "symbol": "CYP2C19*2",
+        "name": "*2",
+        "version": 25
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816544",
+        "symbol": "CYP2C9*3",
+        "name": "*3",
+        "version": 23
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA449053",
+        "name": "clopidogrel",
+        "version": 19
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA124",
+        "symbol": "CYP2C19",
+        "name": "cytochrome P450 family 2 subfamily C member 19",
+        "version": 7209
+      }
+    ],
+    "source": "RNPGx",
+    "summaryMarkdown": {
+      "id": 1451128020,
+      "html": "<p>Testing for the main CYP2C19 deficiency alleles before instituting clopidogrel treatment is recommended (a test is essential for coronary angioplasty with stenting and based on the current state of knowledge this test is potentially useful in the other indications). For patients carrying at least one deficiency allele, the RNPGx recommends using an alternative treatment that is not a CYP2C19 substrate (eg. prasugrel, ticagrelor).</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451127921,
+      "html": "<p>The French National Network of Pharmacogenetics (RNPGx) guideline for CYP2C19 and clopidogrel recommends testing for the main CYP2C19 deficiency alleles before instituting clopidogrel treatment (a test is essential for coronary angioplasty with stenting and based on the current state of knowledge this test is potentially useful in the other indications). For patients carrying at least one deficiency allele, the RNPGx recommends using an alternative treatment that is not a CYP2C19 substrate (prasugrel, ticagrelor. . .).</p>\n<blockquote class=\"blockquote\">\n<p>The RNPGx is in favor of testing for the main CYP2C19 deficiency alleles before instituting clopidogrel treatment (a test is essential for coronary angioplasty with stenting and based on the current state of knowledge this test is potentially useful in the other indications). For patients carrying at least one deficiency allele, the RNPGx recommends using an alternative treatment that is not a CYP2C19 substrate\n(prasugrel, ticagrelor. . .). If the genotype remains unknown before treatment onset, a posteriori testing is advisable to explain any recurrent thromboembolic event occurring during treatment in order to provide guidance for therapeutic optimization of the indications given in the marketing approval (testing is advisable).</p>\n<p>Prescription of a first-line treatment with clopidogrel should take into consideration the CYP2C19 genotype as indicated in Fig. 2:</p>\n<p>• CYP2C19*2 and *3 alleles: in patients carrying at least one deleterious CYP2C19*2 or CYP2C19*3 allele who have a high risk of thromboembolic recurrence, an alternative antiaggregant that is not a CYP2C19 substrate (prasugrel,ticagrelor, acetylsalicylic acid. . .) is preferable. Based on current knowledge, it is not recommended to increase the clopidogrel dose in patients carrying the CYP2C19*2 or *3\nallele;</p>\n<p>• CYP2C19*17 allele: although the presence of the CYP2C19*17 allele, whether in a heterozygous or homozygous state, has been associated with increased hemorrhagic risk in patients treated with clopidogrel, it appears to favor the drug’s efficacy, reducing the incidence of recurrent thromboembolic events. Consequently, considering current knowledge, there is no guideline concerning the appropriate dosage to prescribe for a patient with the *17 allele.</p>\n</blockquote>\n<p><a href=\"/page/testingGuidance\">Read more about the RNPGx levels of recommendation for testing</a>.</p>\n",
+      "version": 1
+    },
+    "userId": "lgong",
+    "version": 2
+  }
+}

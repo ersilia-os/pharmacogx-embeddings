@@ -1,0 +1,13 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+MOCOS	XDH	Activation			hepatocyte	24925693	MOCOS, XDH			MOCOS activates XDH.
+MOCOS	AOX1	Activation			hepatocyte	24925693	AOX1, MOCOS			MOCOS activates AOX1.
+oxypurinol	oxypurinol 1-riboside	Biochemical Reaction			hepatocyte	17655371				Biochemical reaction from oxypurinol to oxypurinol 1-riboside.
+allopurinol	oxypurinol	Biochemical Reaction	AOX1, XDH	Gene	hepatocyte	24925693, 17655371, 2323062		allopurinol		Biochemical reaction from allopurinol to oxypurinol. This interaction can be catalyzed by AOX1 or XDH.
+allopurinol ribotide	allopurinol riboside	Biochemical Reaction			hepatocyte	6409116				Biochemical reaction from allopurinol ribotide to allopurinol riboside.
+allopurinol	allopurinol ribotide	Biochemical Reaction	HPRT1	Gene	hepatocyte	6409116		allopurinol		Biochemical reaction from allopurinol to allopurinol ribotide. This interaction is catalyzed by HPRT1.
+oxypurinol	oxypurinol 7-riboside	Biochemical Reaction			hepatocyte	17655371				Biochemical reaction from oxypurinol to oxypurinol 7-riboside.
+allopurinol riboside	allopurinol	Biochemical Reaction	PNP	Gene	hepatocyte	17655371, 6409116		allopurinol		Biochemical reaction from allopurinol riboside to allopurinol. This interaction is catalyzed by PNP.
+oxypurinol	XDH	Inhibition			hepatocyte	17655371, 2323062	XDH			oxypurinol inhibits XDH.
+allopurinol	XDH	Inhibition			hepatocyte	17655371, 2323062	XDH	allopurinol		allopurinol inhibits XDH.
+oxypurinol	oxypurinol	Transport			hepatocyte, null	16135657				Transport from oxypurinol to oxypurinol.
+oxypurinol	oxypurinol	Transport	SLC22A11, SLC22A12	Gene	null, brush border cell of the proximal tubule	16135657				Transport from oxypurinol to oxypurinol. This interaction can be catalyzed by SLC22A12 or SLC22A11.

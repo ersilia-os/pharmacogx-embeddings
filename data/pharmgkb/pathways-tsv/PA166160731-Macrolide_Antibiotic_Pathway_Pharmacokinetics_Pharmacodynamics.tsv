@@ -1,0 +1,35 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+erythromycin	anhydroerythromycin	Biochemical Reaction			null	15308279		erythromycin		Biochemical reaction from erythromycin to anhydroerythromycin.
+erythromycin	desmethylerythromycin	Biochemical Reaction	CYP3A4	Gene	hepatocyte	15308279		erythromycin		Biochemical reaction from erythromycin to desmethylerythromycin. This interaction is catalyzed by CYP3A4.
+clarithromycin	14-hydroxyclarithromycin, n-desmethyl clarithromycin	Biochemical Reaction	CYP3A4	Gene	hepatocyte	15308279		clarithromycin		Biochemical reaction from clarithromycin to 14-hydroxyclarithromycin, n-desmethyl clarithromycin. This interaction is catalyzed by CYP3A4.
+ORM1-Erythromycin	ORM1	Comes From			null	25385446	ORM1			Comes from from ORM1-Erythromycin (erythromycin, ORM1) to ORM1.
+ORM1-clarithromycin	clarithromycin	Comes From			null	25385446		clarithromycin		Comes from from ORM1-clarithromycin (clarithromycin, ORM1) to clarithromycin.
+ORM1-Erythromycin	erythromycin	Comes From			null	25385446		erythromycin		Comes from from ORM1-Erythromycin (erythromycin, ORM1) to erythromycin.
+ORM1-Erythromycin	erythromycin	Comes From			null	25385446		erythromycin		Comes from from ORM1-Erythromycin (erythromycin, ORM1) to erythromycin.
+ORM1-clarithromycin	ORM1	Comes From			null	25385446	ORM1			Comes from from ORM1-clarithromycin (clarithromycin, ORM1) to ORM1.
+ORM1-clarithromycin	clarithromycin	Comes From			null	25385446		clarithromycin		Comes from from ORM1-clarithromycin (clarithromycin, ORM1) to clarithromycin.
+erythromycin	CYP3A4	Inhibition			hepatocyte	20669013, 11012550	CYP3A4	erythromycin		erythromycin inhibits CYP3A4.
+erythromycin	bacteria RNA	Inhibition			null	24794904		erythromycin		erythromycin inhibits bacteria RNA.
+azithromycin	bacteria RNA	Inhibition			null	24794904		azithromycin		azithromycin inhibits bacteria RNA.
+clarithromycin	bacteria RNA	Inhibition			null	24794904		clarithromycin		clarithromycin inhibits bacteria RNA.
+clarithromycin	CYP3A4	Inhibition			hepatocyte	20669013, 11012550	CYP3A4	clarithromycin		clarithromycin inhibits CYP3A4.
+azithromycin	elimination	Leads To			null	15308279		azithromycin		azithromycin leads to elimination.
+desmethylerythromycin	elimination	Leads To			null	15308279				desmethylerythromycin leads to elimination.
+n-desmethyl clarithromycin	elimination	Leads To			null	15308279				n-desmethyl clarithromycin leads to elimination.
+14-hydroxyclarithromycin	elimination	Leads To			null	15308279				14-hydroxyclarithromycin leads to elimination.
+azithromycin	azithromycin	Transport	ABCB1, ABCC2	Gene	hepatocyte, null	15308279, 14982769		azithromycin		Transport from azithromycin to azithromycin. This interaction can be catalyzed by ABCC2 or ABCB1.
+azithromycin	azithromycin	Transport			null, epithelial cell of small intestine	16952489, 15308279		azithromycin		Transport from azithromycin to azithromycin.
+erythromycin	erythromycin	Transport	SLCO1B1, SLCO1B3	Gene	null, hepatocyte	17296622		erythromycin		Transport from erythromycin to erythromycin. This interaction can be catalyzed by SLCO1B3 or SLCO1B1.
+clarithromycin	clarithromycin	Transport	SLCO1B1, SLCO1B3	Gene	null, hepatocyte	17296622		clarithromycin		Transport from clarithromycin to clarithromycin. This interaction can be catalyzed by SLCO1B3 or SLCO1B1.
+azithromycin	azithromycin	Transport			null	24794904		azithromycin		Transport from azithromycin to azithromycin.
+azithromycin	azithromycin	Transport			null, hepatocyte	24631273, 17296622		azithromycin		Transport from azithromycin to azithromycin.
+clarithromycin	clarithromycin	Transport			null	24794904		clarithromycin		Transport from clarithromycin to clarithromycin.
+clarithromycin	clarithromycin	Transport			null, epithelial cell of small intestine	16952489, 15308279		clarithromycin		Transport from clarithromycin to clarithromycin.
+erythromycin	erythromycin	Transport			null	24794904		erythromycin		Transport from erythromycin to erythromycin.
+erythromycin	erythromycin	Transport	ABCB1	Gene	epithelial cell of small intestine, null	18755851, 16952489		erythromycin		Transport from erythromycin to erythromycin. This interaction is catalyzed by ABCB1.
+clarithromycin	clarithromycin	Transport	ABCB1	Gene	epithelial cell of small intestine, null	18755851, 16952489		clarithromycin		Transport from clarithromycin to clarithromycin. This interaction is catalyzed by ABCB1.
+azithromycin	azithromycin	Transport	ABCB1	Gene	epithelial cell of small intestine, null	18755851, 16952489		azithromycin		Transport from azithromycin to azithromycin. This interaction is catalyzed by ABCB1.
+desmethylerythromycin	desmethylerythromycin	Transport	ABCB1, ABCC2	Gene	hepatocyte, null	15308279				Transport from desmethylerythromycin to desmethylerythromycin. This interaction can be catalyzed by ABCB1 or ABCC2.
+erythromycin	erythromycin	Transport			null, epithelial cell of small intestine	16952489, 15308279		erythromycin		Transport from erythromycin to erythromycin.
+14-hydroxyclarithromycin	14-hydroxyclarithromycin	Transport	ABCB1, ABCC2	Gene	hepatocyte, null	15308279				Transport from 14-hydroxyclarithromycin to 14-hydroxyclarithromycin. This interaction can be catalyzed by ABCB1 or ABCC2.
+n-desmethyl clarithromycin	n-desmethyl clarithromycin	Transport	ABCB1, ABCC2	Gene	hepatocyte, null	15308279				Transport from n-desmethyl clarithromycin to n-desmethyl clarithromycin. This interaction can be catalyzed by ABCC2 or ABCB1.

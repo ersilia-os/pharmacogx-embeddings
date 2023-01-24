@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+ponatinib	n-oxide ponatinib	Biochemical Reaction	CYP3A4	Gene	hepatocyte	28184964		ponatinib		Biochemical reaction from ponatinib to n-oxide ponatinib. This interaction is catalyzed by CYP3A4.
+ponatinib	n-desmethyl ponatinib	Biochemical Reaction	CYP2C8, CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	28184964, 24807266, 24265264		ponatinib		Biochemical reaction from ponatinib to n-desmethyl ponatinib. This interaction can be catalyzed by CYP3A4, CYP2C8, CYP3A5 or CYP2D6.
+ponatinib	ponatinib M14	Biochemical Reaction			hepatocyte	28184964		ponatinib		Biochemical reaction from ponatinib to ponatinib M14.
+ponatinib	BCR-ABL	Inhibition			neoplastic cell	24449310, 24265264, 19878872, 17785585		ponatinib		ponatinib inhibits BCR-ABL (ABL1, BCR).
+ponatinib	ponatinib	Transport			null, neoplastic cell	28880088		ponatinib		Transport from ponatinib to ponatinib.
+ponatinib	ponatinib	Transport	ABCB1, ABCG2	Gene	neoplastic cell, null	28880088		ponatinib		Transport from ponatinib to ponatinib. This interaction can be catalyzed by ABCG2 or ABCB1.
+ponatinib	ponatinib	Transport			hepatocyte, null	28880088		ponatinib		Transport from ponatinib to ponatinib.

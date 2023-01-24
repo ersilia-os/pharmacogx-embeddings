@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+CYP2D6	CYP2D6	Biochemical Reaction	celecoxib	Control	hepatocyte	12891223	CYP2D6	celecoxib	
+celecoxib	Hydroxy celecoxib	Biochemical Reaction	CYP2C9,CYP3A4	Catalysis	hepatocyte		"CYP2C9","CYP3A4"	celecoxib	
+Hydroxy celecoxib	Carboxy celecoxib	Biochemical Reaction	ADH1A,ADH1B	Catalysis	hepatocyte		"ADH1B","ADH1A"		
+Carboxy celecoxib	Celecoxib glucuronide	Biochemical Reaction	UGTs	Catalysis	hepatocyte				

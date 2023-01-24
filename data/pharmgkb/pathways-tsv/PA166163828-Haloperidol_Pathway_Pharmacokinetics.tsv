@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+Tobacco Use Disorder	CYP1A1	Activation			null, hepatocyte	23106957	CYP1A1		Tobacco Use Disorder	Tobacco Use Disorder activates CYP1A1.
+haloperidol	3-(4-fluorobenzoyl)propionic acid, 4-(4-chlorophenyl)piperidin-4-ol	Biochemical Reaction	CYP1A1, CYP2C19, CYP2C8, CYP2C9, CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	16805946, 11717183		haloperidol	Tobacco Use Disorder	Biochemical reaction from haloperidol to fluorobenzoylpropionic acid, chlorophenyl piperidinol. This interaction can be catalyzed by CYP3A4, CYP2D6, CYP2C8, CYP2C9, CYP3A5, CYP1A1 or CYP2C19.
+haloperidol	haloperidol pyridinium	Biochemical Reaction	CYP1A1, CYP3A4, CYP3A5	Gene	hepatocyte	16805946, 11717183		haloperidol	Tobacco Use Disorder	Biochemical reaction from haloperidol to haloperidol pyridinium. This interaction can be catalyzed by CYP3A5, CYP3A4 or CYP1A1.
+haloperidol	reduced haloperidol	Biochemical Reaction	CBR1, CYP3A4	Gene	hepatocyte	16805946, 11717183, 10628896		haloperidol	Tobacco Use Disorder	Biochemical reaction from haloperidol to reduced haloperidol. This interaction can be catalyzed by CYP3A4 or CBR1.
+haloperidol	haloperidol b-d-glucuronide	Biochemical Reaction	UGT1A4, UGT1A9, UGT2B7	Gene	hepatocyte	22028316, 10628896		haloperidol	Tobacco Use Disorder	Biochemical reaction from haloperidol to haloperidol glucuronide. This interaction can be catalyzed by UGT2B7, UGT1A4 or UGT1A9.
+reduced haloperidol	CYP2D6	Inhibition			hepatocyte	10628896	CYP2D6		Tobacco Use Disorder	reduced haloperidol inhibits CYP2D6.
+haloperidol	CYP2D6	Inhibition			hepatocyte	10628896	CYP2D6	haloperidol	Tobacco Use Disorder	haloperidol inhibits CYP2D6.

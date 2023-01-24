@@ -1,0 +1,209 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166104949",
+    "name": "Annotation of CPIC Guideline for warfarin and CYP2C9, CYP4F2, VKORC1",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983518,
+        "name": "CPIC® Guideline for Pharmacogenetics-Guided Warfarin Dosing – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-warfarin-and-cyp2c9-and-vkorc1/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-warfarin-and-cyp2c9-and-vkorc1/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "H1YSwhPUbbg",
+    "dosingInformation": true,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1183699782,
+        "date": "2011-09-07T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1183701832,
+        "date": "2013-12-18T00:00:00-08:00",
+        "description": "Added note about recent publications",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1183846974,
+        "date": "2014-02-27T00:00:00-08:00",
+        "description": "changed URL of dosing algorithm",
+        "type": "Correction",
+        "version": 1
+      },
+      {
+        "id": 1184470001,
+        "date": "2014-06-19T00:00:00-07:00",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1448594300,
+        "date": "2017-02-08T17:14:38.661-08:00",
+        "description": "warfarin 2017 update based on accepted manuscript",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451266801,
+        "date": "2020-09-21T12:11:34.498-07:00",
+        "description": "add pediatric-specific  tag and text",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451321040,
+        "date": "2021-01-29T12:00:53.410-08:00",
+        "description": "added CYP4F2 rsID to annotation text",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451452260,
+        "date": "2021-05-28T13:09:50.871-07:00",
+        "description": "Added link to video",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451904660,
+        "date": "2022-10-05T14:36:27.686-07:00",
+        "description": "update Fig 2 to include CYP4F2*3",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15098503,"title":"Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for Pharmacogenetics-Guided Warfarin Dosing: 2017 Update.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5546947","crossReferences":[{"id":1449293783,"resource":"PubMed Central","resourceId":"PMC5546947","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5546947"},{"id":1449293782,"resource":"PubMed","resourceId":"28198005","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28198005"},{"id":1449293784,"resource":"DOI","resourceId":"10.1002/cpt.668","_url":"http://dx.doi.org/10.1002%2Fcpt.668"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":8560040,"title":"Clinical Pharmacogenetics Implementation Consortium Guidelines for CYP2C9 and VKORC1 genotypes and warfarin dosing.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3187550","crossReferences":[{"id":1449251343,"resource":"PubMed Central","resourceId":"PMC3187550","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3187550"},{"id":827707800,"resource":"PubMed","resourceId":"21900891","_url":"https://www.ncbi.nlm.nih.gov/pubmed/21900891"},{"id":1449251344,"resource":"DOI","resourceId":"10.1038/clpt.2011.185","_url":"http://dx.doi.org/10.1038%2Fclpt.2011.185"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15100922,"title":"CPIC® Guideline for Pharmacogenetics-Guided Warfarin Dosing – CPIC","_sameAs":"https://cpicpgx.org/guidelines/guideline-for-warfarin-and-cyp2c9-and-vkorc1/","crossReferences":[{"id":1447983518,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-warfarin-and-cyp2c9-and-vkorc1/","_url":"https://cpicpgx.org/guidelines/guideline-for-warfarin-and-cyp2c9-and-vkorc1/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "pediatricMarkdown": {
+      "id": 1451266800,
+      "html": "<p>Excerpts from the 2017 warfarin CPIC guideline update:</p>\n<ul>\n<li>&quot;<em><strong>Therapeutic Recommendations: Pediatric</strong></em><br />\nIn children of European ancestry and if CYP2C9*2 and *3 and VKORC1-1639 genotype are available, calculate warfarin dosing based on a validated published pediatric pharmacogenetic algorithm (<a href=\"#figure-3-dosing-recommendations-for-warfarin-dosing-based-on-genotype-for-pediatric-patients\">Figure 3</a>) [Articles:<a href=\"/pmid/22010099\">22010099</a>, <a href=\"/pmid/23307232\">23307232</a>].  A dosing tool that can be used in children of European ancestry is available at http://www.warfarindoserevision.com [Article:<a href=\"/pmid/24330000\">24330000</a>].&quot;</li>\n</ul>\n",
+      "version": 0
+    },
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816552",
+        "symbol": "CYP2C9*11",
+        "name": "*11",
+        "version": 21
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816543",
+        "symbol": "CYP2C9*2",
+        "name": "*2",
+        "version": 21
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816544",
+        "symbol": "CYP2C9*3",
+        "name": "*3",
+        "version": 23
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816546",
+        "symbol": "CYP2C9*5",
+        "name": "*5",
+        "version": 21
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816547",
+        "symbol": "CYP2C9*6",
+        "name": "*6",
+        "version": 22
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816549",
+        "symbol": "CYP2C9*8",
+        "name": "*8",
+        "version": 23
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166154157",
+        "symbol": "rs12777823",
+        "name": "rs12777823",
+        "version": 5
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155381",
+        "symbol": "rs2108622",
+        "name": "rs2108622",
+        "version": 4
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166155091",
+        "symbol": "rs9923231",
+        "name": "rs9923231",
+        "version": 5
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA451906",
+        "name": "warfarin",
+        "version": 16
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA126",
+        "symbol": "CYP2C9",
+        "name": "cytochrome P450 family 2 subfamily C member 9",
+        "version": 7876
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA27121",
+        "symbol": "CYP4F2",
+        "name": "cytochrome P450 family 4 subfamily F member 2",
+        "version": 16
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA133787052",
+        "symbol": "VKORC1",
+        "name": "vitamin K epoxide reductase complex subunit 1",
+        "version": 15
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1447981868,
+      "html": "<p>The updated guideline for pharmacogenetics-guided warfarin dosing is published by the <em>Clinical Pharmacogenetics Implementation Consortium</em>.  The  recommendations for dosing are for adult and pediatric patients that are specific to continental ancestry, and are based on genotypes from <em>CYP2C9</em>, <em>VKORC1</em>, <em>CYP4F2</em>, and rs12777823.</p>\n",
+      "version": 3
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433628,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-warfarin-and-cyp2c9-and-vkorc1/\" target=\"_blank\">CPIC&reg; guideline for pharmacogenetics-guided warfarin dosing</a>.</p>\n<h3 id=\"february-2017-update\">February 2017 Update</h3>\n<ul>\n<li>\n<p>The 2017 update of CPIC guidelines regarding the use of pharmacogenomic tests in dosing of warfarin is published in <a rel=\"noopener noreferrer\" href=\"http://onlinelibrary.wiley.com/doi/10.1002/cpt.668/abstract\" target=\"_blank\"><em>Clinical Pharmacology and Therapeutics</em></a> by the <em>Clinical Pharmacogenetics Implementation Consortium</em> <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org\" target=\"_blank\">(CPIC)</a>.  Literature up to Dec 2016 was reviewed, recommendations and supplemental information were updated.</p>\n</li>\n<li>\n<p>Excerpt from the 2017 dosing guideline update:</p>\n<ul>\n<li>\n<p>&quot;<em><strong>Therapeutic Recommendations: Adults</strong></em><br />\nNumerous studies have derived warfarin dosing algorithms that use both genetic and non-genetic factors to predict warfarin dose [Articles:<a href=\"/pmid/18305455\">18305455</a>, <a href=\"/pmid/19228618\">19228618</a>, <a href=\"/pmid/20375999\">20375999</a>, <a href=\"/pmid/22012312\">22012312</a>]. Two algorithms perform well in estimating stable warfarin dose [Articles:<a href=\"/pmid/18305455\">18305455</a>, <a href=\"/pmid/19228618\">19228618</a>] and were created using more than 5,000 subjects, though as noted above, more recent data suggest they do not perform acceptably in African Americans when used without modification for CYP2C9 alleles frequently found in the African population [Article:<a href=\"/pmid/24251361\">24251361</a>].  The Gage and IWPC algorithms or minor adjustments to them have also been the algorithms used in both randomized controlled trials and most of the prospective dosing studies.  Dosing algorithms using genetic information outperform non-genetic clinical algorithms and fixed-dose approaches in dose prediction, except in African Americans when the algorithm only includes CYP2C9*2 and *3 [Articles:<a href=\"/pmid/18305455\">18305455</a>, <a href=\"/pmid/19228618\">19228618</a>, <a href=\"/pmid/24251361\">24251361</a>]. Genetics-based algorithms also better predict warfarin dose than the FDA-approved warfarin label table [Article:<a href=\"/pmid/21272753\">21272753</a>].</p>\n<p><em><strong>Pharmacogenetic algorithm-based warfarin dosing</strong></em>:  This guideline recommends that pharmacogenetic warfarin dosing be accomplished through the use of one of the pharmacogenetic dosing algorithms described above, as summarized in <a href=\"#figure-2-dosing-recommendations-for-warfarin-dosing-based-on-genotype-for-adult-patients\">Figure 2</a>.  The two algorithms provide very similar dose recommendations...It is important to note that these algorithms do not include CYP4F2, CYP2C9*5, *6, *8, or *11 or rs12777823, and incorporation of these should be added when results are available, as described in <a href=\"#figure-2-dosing-recommendations-for-warfarin-dosing-based-on-genotype-for-adult-patients\">Figure 2</a>.  The warfarindosing.org website contains both algorithms, the Gage algorithm [Article:<a href=\"/pmid/18305455\">18305455</a>] as the primary algorithm and the IWPC algorithm [Article:<a href=\"/pmid/19228618\">19228618</a>] as the secondary algorithm and can adjust for CYP4F2, CYP2C9*5 and *6.  If utilizing warfarindosing.org, the user should be clear on whether the algorithm is or is not incorporating genotypes beyond CYP2C9 *2 and *3 and VKORC1, which are the only three genotypes in the original version of both algorithms.</p>\n<p><em><strong>Non-African ancestry recommendation</strong></em>. In patients who self-identify as non-African ancestry, the recommendation, as summarized in <a href=\"#figure-2-dosing-recommendations-for-warfarin-dosing-based-on-genotype-for-adult-patients\">Figure 2</a>, is to:  1) calculate warfarin dosing using a published pharmacogenetic algorithm [Articles:<a href=\"/pmid/18305455\">18305455</a>, <a href=\"/pmid/19228618\">19228618</a>], including genotype information for VKORC1-1639G&gt;A and CYP2C9*2 and *3. In individuals with genotypes associated with CYP2C9 poor metabolism (e.g., CYP2C9 *2/*3, *3/*3) or both increased sensitivity (VKORC1-1639 A/A) and CYP2C9 poor metabolism, an alternative oral anticoagulant might be considered. These recommendations are graded as STRONG.  2) If a loading dose is to be utilized, the EU-PACT loading dose algorithm that incorporates genetic information could be used [Article:<a href=\"/pmid/24251363\">24251363</a>].  This recommendation is OPTIONAL. 3) While CYP2C9*5, *6, *8, or*11 variant alleles are commonly referred to as African specific alleles, they can occur among individuals who do not identify as, or know of their, African ancestry.  If these variant alleles are detected, decrease calculated dose by 15-30% per variant allele or consider an alternative agent. Larger dose reductions might be needed in patients homozygous for variant alleles (i.e. 20-40%, e.g. CYP2C9*2/*5). This recommendation is graded as OPTIONAL.  4) If the CYP4F2*3 (i.e., <a href=\"/variant/PA166155381\">rs2108622</a>, c.1297A, p.433Met) allele is also detected, increase the dose by 5-10%.  This recommendation is also considered OPTIONAL.   5) The data do not suggest an association between rs12777823 genotype and warfarin dose in non-African Americans, thus rs12777823 should not be considered in these individuals (even if available).</p>\n<p><em><strong>African ancestry recommendation</strong></em>. In patients of African ancestry, CYP2C9*5, *6, *8, *11 are important for warfarin dosing. If these genotypes are not available, warfarin should be dosed clinically without consideration for genotype. If CYP2C9*5, *6, *8, and *11 are known, then the recommendation, as shown in  <a href=\"#figure-2-dosing-recommendations-for-warfarin-dosing-based-on-genotype-for-adult-patients\">Figure 2</a>, is to: 1) calculate warfarin dose using a validated pharmacogenetic algorithm, including genotype information for VKORC1 c.-1639G&gt;A and CYP2C9*2 and *3 [Articles:<a href=\"/pmid/18305455\">18305455</a>, <a href=\"/pmid/19228618\">19228618</a>]; 2) if the individual carriers a CYP2C9*5, *6, *8, or *11 variant allele(s), decrease calculated dose by 15-30%. Larger dose reductions might be needed in patients who carry two variant alleles (e.g., CYP2C9*5/*6) (i.e. 20-40% dose reduction). 3) In addition, rs12777823 is associated with warfarin dosing in African Americans (mainly originating from West Africa). Thus, in African Americans a dose reductions of 10-25% in those with rs12777823 A/G or A/A genotype is recommended.  These recommendations are considered MODERATE.   In individuals with genotypes that predict CYP2C9 poor metabolism or who have increased warfarin sensitivity (VKORC1 c.-1639 A/A) and CYP2C9 poor metabolism, an alternative oral anticoagulant should be considered.&quot;</p>\n</li>\n<li>\n<p>&quot;<em><strong>Therapeutic Recommendations: Pediatric</strong></em><br />\nIn children of European ancestry and if CYP2C9*2 and *3 and VKORC1-1639 genotype are available, calculate warfarin dosing based on a validated published pediatric pharmacogenetic algorithm (<a href=\"#figure-3-dosing-recommendations-for-warfarin-dosing-based-on-genotype-for-pediatric-patients\">Figure 3</a>) [Articles:<a href=\"/pmid/22010099\">22010099</a>, <a href=\"/pmid/23307232\">23307232</a>].  A dosing tool that can be used in children of European ancestry is available at http://www.warfarindoserevision.com [Article:<a href=\"/pmid/24330000\">24330000</a>].&quot;</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/warfarin/2017/28198005.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC) Guidelines for pharmacogenetics-guided warfarin dosing: 2017 update</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/warfarin/2017/28198005-supplement.pdf\" target=\"_blank\">2017 supplement</a></li>\n<li>Look up your warfarin dosing guideline using the <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/warfarin/2011/IWPC_dose_calculator.xls\" target=\"_blank\">IWPC Pharmacogenetic Dosing Algorithm</a>.</li>\n<li><a href=\"https://www.pharmgkb.org/page/cyp2c9RefMaterials\"><em>CYP2C9</em> Gene-specific Information Tables</a> (Note: allele functionality and diplotype-phenotype mappings are not applicable to the warfarin guideline)</li>\n<li><a href=\"https://www.pharmgkb.org/page/vkorc1RefMaterials\"><em>VKORC1</em> Gene-specific Information Tables</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/cyp4f2RefMaterials\"><em>CYP4F2</em> Gene-specific Information Tables</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/warfarin/2017/Warfarin_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Warfarin Drug Resource Mappings</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"figure-2-dosing-recommendations-for-warfarin-dosing-based-on-genotype-for-adult-patients\">Figure 2. Dosing recommendations for Warfarin dosing based on genotype for adult patients</h3>\n<p><em>Adapted from Figure 2 of the 2017 guideline manuscript</em></p>\n<p><img src=\"https://s3.pgkb.org/attachment/warfarin_recommendation_diagram.png\" alt=\"Fig2\" /></p>\n<h3 id=\"figure-3-dosing-recommendations-for-warfarin-dosing-based-on-genotype-for-pediatric-patients\">Figure 3. Dosing recommendations for Warfarin dosing based on genotype for pediatric patients</h3>\n<p><em>Adapted from Figure 3 of the 2017 guideline manuscript</em></p>\n<p><img src=\"https://s3.pgkb.org/attachment/CPIC_warfarin_2017_Fig_3.png\" alt=\"Fig3\" /></p>\n<p><strong>Figure 3 Legend:</strong> <sup>a</sup>Data strongest for European ancestry populations and consistent in most Japanese studies.<br />\n<sup>b</sup>“Dose clinically” means to dose without genetic information, which may include use of a clinical dosing algorithm or standard dose approach<br />\n<sup>c</sup>Validated published pediatric pharmacogenetic algorithms include Hamberg et al.[Article:<a href=\"/pmid/24330000\">24330000</a>] and Biss et al.[Article:<a href=\"/pmid/22010099\">22010099</a>]<br />\n<sup>d</sup>No studies in children included CYP2C9*5, *6, *8, or *11 genotyping.</p>\n<h3 id=\"november-2013-update\">November 2013 Update</h3>\n<p>CPIC guideline authors are aware of several recently published studies on warfarin pharmacogenetics [Articles:<a href=\"/pmid/24251361\">24251361</a>, <a href=\"/pmid/24251363\">24251363</a>, <a href=\"/pmid/24251360\">24251360</a>]. These papers have prompted several opinion pieces [Articles:<a href=\"/pmid/24328463\">24328463</a>, <a href=\"/pmid/24251364\">24251364</a>]. The authors are evaluating the information, which will be incorporated into the next update of the CPIC guideline on warfarin.</p>\n<h3 id=\"october-2011\">October 2011</h3>\n<p><em>Advance online publication September 2011.</em></p>\n<ul>\n<li>Guideline regarding the use of pharmacogenomic tests in dosing for warfarin was published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org\" target=\"_blank\">(CPIC)</a>.</li>\n<li>These guidelines are applicable to:\n<ul>\n<li>adult patients</li>\n</ul>\n</li>\n<li>Excerpt from the 2011 warfarin dosing guideline:\n<ul>\n<li>&quot;Pharmacogenetic algorithm-based warfarin dosing: Numerous studies have derived warfarin dosing algorithms that use both genetic and non-genetic factors to predict warfarin dose [Articles:<a href=\"/pmid/18305455\">18305455</a>, <a href=\"/pmid/19228618\">19228618</a>, <a href=\"/pmid/18574025\">18574025</a>]. Two algorithms perform well in estimating stable warfarin dose across different ethnic populations; [Articles:<a href=\"/pmid/18305455\">18305455</a>, <a href=\"/pmid/19228618\">19228618</a>] these were created using more than 5,000 subjects. Dosing algorithms using genetics outperform nongenetic clinical algorithms and fixed-dose approaches in dose prediction [Articles:<a href=\"/pmid/18305455\">18305455</a>, <a href=\"/pmid/19228618\">19228618</a>]. The best way to estimate the anticipated stable dose of warfarin is to use the algorithms available on <a rel=\"noopener noreferrer\" href=\"http://www.warfarindosing.org\" target=\"_blank\">http://www.warfarindosing.org</a> (offering both high-performing algorithms [Articles:<a href=\"/pmid/18305455\">18305455</a>, <a href=\"/pmid/19228618\">19228618</a>]). The dosing algorithm published by the International Warfarin Pharmacogenetics Consortium is also online, at <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/warfarin/2011/IWPC_dose_calculator.xls\" target=\"_blank\">IWPC Pharmacogenetic Dosing Algorithm</a>. The two algorithms provide very similar dose recommendations.&quot;</li>\n<li>&quot;Approach to pharmacogenetic-based warfarin dosing without access to dosing algorithms:     In 2007, the FDA modified the warfarin label, stating that CYP2C9 and VKORC1 genotypes may be useful in determining the optimal initial dose of warfarin [Article:<a href=\"/pmid/17906972\">17906972</a>]. The label was further updated in 2010 to include a table (Table 1) describing recommendations for initial dosing ranges for patients with different combinations of CYP2C9 and VKORC1 genotypes. Genetics-based algorithms also better predict warfarin dose than the FDA-approved warfarin label table [Article:<a href=\"/pmid/21272753\">21272753</a>]. Therefore, the use of pharmacogenetic algorithm-based dosing is recommended when possible, although if electronic means for such dosing are not available, the table-based dosing approaches (Table 1) are suggested. The range of doses by VKORC1 genotype and the range of dose recommendations/predictions by the FDA table and algorithm are shown in Figure 2.&quot;</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/warfarin/2011/21900891.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium Guidelines for CYP2C9 and VKORC1 genotypes and warfarin dosing</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/warfarin/2011/21900891-supplement.pdf\" target=\"_blank\">2011 supplement</a></li>\n<li>Look up your warfarin dosing guideline using the <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/warfarin/2011/IWPC_dose_calculator.xls\" target=\"_blank\">IWPC Pharmacogenetic Dosing Algorithm</a>.</li>\n</ul>\n</li>\n</ul>\n<h3 id=\"figure-2-frequency-histograms-of-stable-therapeutic-warfarin-doses-in-mg-week-stratified-by-vkorc1-1639g-a-genotype\">Figure 2. Frequency histograms of stable therapeutic warfarin doses in mg/week, stratified by VKORC1 -1639G&gt;A genotype.</h3>\n<p><em>Adapted from Figure 2 of the 2011 guideline manuscript</em></p>\n<p><img src=\"https://s3.pgkb.org/attachment/Figure_2-CPIC_Warfarin_dosing_guidelines.png\" alt=\"CPIC warfarin dosing guideline\" /></p>\n<p><strong>Figure 2 Legend:</strong> Frequency histograms of stable therapeutic warfarin doses in mg/week, stratified by <em>VKORC1</em> -1639G&gt;A genotype in 3,616 patients recruited by the International Warfarin Pharmacogenetics Consortium (IWPC) who did not carry the <em>CYP2C9*2</em> or <em>*3</em> allele (i.e., coded as <em>*1/*1</em> for US Food and Drug Administration (FDA) table and algorithm dosing). The range of doses within each genotype group recommended on the FDA table is shown via the shaded rectangle. The range of doses predicted using the IWPC dosing algorithm in these 3,616 patients is shown by the solid lines.</p>\n<p>Figure 2 demonstrates that the range of individuals covered by the FDA table is much narrower than that of the algorithm. The article and supplement detail important variables that are not covered by the table that should also be taken into consideration.</p>\n<h3 id=\"table-1-recommended-daily-warfarin-doses-mg-day-to-achieve-a-therapeutic-inr-based-on-cyp2c9-and-vkorc1-genotype-using-the-warfarin-product-insert-approved-by-the-united-states-food-and-drug-administration\">Table 1: Recommended daily warfarin doses (mg/day) to achieve a therapeutic INR based on <em>CYP2C9</em> and <em>VKORC1</em> genotype using the warfarin product insert approved by the United States Food and Drug Administration:</h3>\n<p><em>Adapted from Table 1 of the 2011 guideline manuscript</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th><em>VKORC1</em> Genotype (-1639G&gt;A, <a href=\"/variant/PA166155091\">rs9923231</a>)</th>\n<th><em>CYP2C9*1/*1</em></th>\n<th><em>CYP2C9*1/*2</em></th>\n<th><em>CYP2C9*1/*3</em></th>\n<th><em>CYP2C9*2/*2</em></th>\n<th><em>CYP2C9*2/*3</em></th>\n<th><em>CYP2C9*3/*3</em></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>GG</td>\n<td>5-7</td>\n<td>5-7</td>\n<td>3-4</td>\n<td>3-4</td>\n<td>3-4</td>\n<td>0.5-2</td>\n</tr>\n<tr>\n<td>GA</td>\n<td>5-7</td>\n<td>3-4</td>\n<td>3-4</td>\n<td>3-4</td>\n<td>0.5-2</td>\n<td>0.5-2</td>\n</tr>\n<tr>\n<td>AA</td>\n<td>3-4</td>\n<td>3-4</td>\n<td>0.5-2</td>\n<td>0.5-2</td>\n<td>0.5-2</td>\n<td>0.5-2</td>\n</tr>\n</tbody>\n</table>\n<p><em>Reproduced from updated warfarin (Coumadin) product label.</em></p>\n<h3 id=\"supplemental-table-s1-genotypes-that-constitute-the-alleles-for-cyp2c9\">Supplemental Table S1. Genotypes that constitute the * alleles for <em>CYP2C9</em></h3>\n<p><em>Adapted from Table S1 of the 2011 guideline supplement</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Allele</th>\n<th>Constituted by genotypes at:</th>\n<th>Amino acid changes</th>\n<th>Enzymatic Activity</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>*1</td>\n<td>reference allele at all positions</td>\n<td></td>\n<td>Normal</td>\n</tr>\n<tr>\n<td>*2</td>\n<td>C&gt;T at <a href=\"/variant/PA166153972\">rs1799853</a></td>\n<td>R144C</td>\n<td>Decreased</td>\n</tr>\n<tr>\n<td>*3</td>\n<td>A&gt;C at <a href=\"/variant/PA166153959\">rs1057910</a></td>\n<td>I359L</td>\n<td>Decreased</td>\n</tr>\n</tbody>\n</table>\n",
+      "version": 2
+    },
+    "userId": "carrillo",
+    "version": 41
+  }
+}

@@ -1,0 +1,13 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+2-hydroxy-estradiol	2-methoxy-estradiol	Biochemical Reaction	COMT	Catalysis	hepatocyte	10963623,14657266	COMT		
+4-hydroxy-estradiol	4-methoxy-estradiol	Biochemical Reaction	COMT	Catalysis	hepatocyte	10963623,14657266	COMT		
+Androstenedione	Estrone	Biochemical Reaction	CYP19A1	Catalysis	"hepatocyte","cell"		CYP19A1		
+Androstenedione	Testosterone	Biochemical Reaction	HSD17B1	Catalysis	cell	12700178	HSD17B1		
+Estradiol	4-hydroxy-estradiol	Biochemical Reaction	CYP1A1,CYP1A2,CYP1B1,CYP3A	Catalysis	hepatocyte	11861789,12865317,14623547,14657266,15784278,16024767	"CYP3A","CYP1A2","CYP1A1","CYP1B1"		
+Estradiol	Estradiol sulfate	Biochemical Reaction	SULT1A1,SULT1E1,SULT2A1	Catalysis	hepatocyte	10963623,12922923,15860265	"SULT1A1","SULT1E1","SULT2A1"		
+Estradiol	Estrone	Biochemical Reaction			hepatocyte				
+Estrone	2-hydroxy-estradiol	Biochemical Reaction	CYP1A1,CYP1A2,CYP1B1,CYP3A	Catalysis	hepatocyte	11861789,12865317,14623547,14657266,15784278,16024767	"CYP3A","CYP1A2","CYP1A1","CYP1B1"		
+Estrone	Estradiol	Biochemical Reaction	HSD17B1	Catalysis	hepatocyte	12700178	HSD17B1		
+Estrone	Estrone sulfate	Biochemical Reaction	SULT1A1,SULT1E1,SULT2A1	Catalysis	hepatocyte	10963623,12922923,15860265	"SULT1A1","SULT1E1","SULT2A1"		
+Testosterone	Androstenedione	Biochemical Reaction			cell				
+Testosterone	Estradiol	Biochemical Reaction	CYP19A1	Catalysis	"hepatocyte","cell"		CYP19A1		

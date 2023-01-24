@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+GS-443902	GS-441524 monophosphate	Biochemical Reaction	NT5E	Gene	cell	34656075				Biochemical reaction from GS-443902 to GS-441524 monophosphate. This interaction is catalyzed by NT5E.
+remdesivir	GS-704277	Biochemical Reaction	CES1, CTSA	Gene	cell	34656075, 34125594		remdesivir		Biochemical reaction from remdesivir to GS-704277. This interaction can be catalyzed by CES1 or CTSA.
+GS-441524 monophosphate	GS-443902	Biochemical Reaction	NME1	Gene	cell	34656075, 34125594				Biochemical reaction from GS-441524 monophosphate to GS-443902. This interaction is catalyzed by NME1.
+GS-441524 monophosphate	GS-441524	Biochemical Reaction	NT5E	Gene	cell	34656075, 34125594				Biochemical reaction from GS-441524 monophosphate to GS-441524. This interaction is catalyzed by NT5E.
+GS-704277	GS-441524 monophosphate	Biochemical Reaction	HINT1	Gene	cell	34656075, 34125594				Biochemical reaction from GS-704277 to GS-441524 monophosphate. This interaction is catalyzed by HINT1.
+GS-441524	GS-441524 monophosphate	Biochemical Reaction	ADK	Gene	cell	34656075				Biochemical reaction from GS-441524 to GS-441524 monophosphate. This interaction is catalyzed by ADK.

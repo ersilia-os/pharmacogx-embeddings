@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+pyrazinoic acid	5-hydroxypyrazinoic acid	Biochemical Reaction	XDH	Gene	hepatocyte	34074731			Toxic liver disease	Biochemical reaction from pyrazinoic acid to 5-hydroxypyrazinoic acid. This interaction is catalyzed by XDH.
+5-hydroxypyrazinamide	5-hydroxypyrazinoic acid	Biochemical Reaction	NAAA	Gene	hepatocyte	34074731			Toxic liver disease	Biochemical reaction from 5-hydroxypyrazinamide to 5-hydroxypyrazinoic acid. This interaction is catalyzed by NAAA.
+pyrazinamide	pyrazinoic acid	Biochemical Reaction	NAAA	Gene	hepatocyte	34074731		pyrazinamide	Toxic liver disease	Biochemical reaction from pyrazinamide to pyrazinoic acid. This interaction is catalyzed by NAAA.
+pyrazinamide	5-hydroxypyrazinamide	Biochemical Reaction	AOX1, XDH	Gene	hepatocyte	34074731		pyrazinamide	Toxic liver disease	Biochemical reaction from pyrazinamide to 5-hydroxypyrazinamide. This interaction can be catalyzed by XDH or AOX1.
+pyrazinoic acid	Toxic liver disease	Leads To			hepatocyte, null	34074731			Toxic liver disease	pyrazinoic acid leads to Toxic liver disease.
+5-hydroxypyrazinoic acid	Toxic liver disease	Leads To			hepatocyte, null	34074731			Toxic liver disease	5-hydroxypyrazinoic acid leads to Toxic liver disease.

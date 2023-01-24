@@ -1,0 +1,191 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166265241",
+    "name": "Annotation of DPWG Guideline for clozapine and CYP1A2",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451697963,
+        "date": "2022-02-28T00:00:00-08:00",
+        "type": "Create",
+        "version": 1
+      },
+      {
+        "id": 1451704268,
+        "date": "2022-03-03T16:33:37.390-08:00",
+        "description": "Annotation current with May 2021 DPWG Guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451723360,
+        "date": "2022-03-18T10:09:47.049-07:00",
+        "description": "Updated text based on February 2022 release. Removed extended dosing guideline due to lack of recommendations.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451732907,
+        "date": "2022-03-28T09:57:51.050-07:00",
+        "description": "Annotation current with February 2022 DPWG guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451884203,
+        "date": "2022-09-16T10:02:28.845-07:00",
+        "description": "Fixed link to gene information document and added explanatory note",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [],
+    "pediatric": false,
+    "recommendation": false,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819171",
+        "symbol": "CYP1A2*1A",
+        "name": "*1A",
+        "version": 7
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819172",
+        "symbol": "CYP1A2*1B",
+        "name": "*1B",
+        "version": 6
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819173",
+        "symbol": "CYP1A2*1C",
+        "name": "*1C",
+        "version": 7
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819174",
+        "symbol": "CYP1A2*1D",
+        "name": "*1D",
+        "version": 6
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819175",
+        "symbol": "CYP1A2*1E",
+        "name": "*1E",
+        "version": 6
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819176",
+        "symbol": "CYP1A2*1F",
+        "name": "*1F",
+        "version": 7
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819178",
+        "symbol": "CYP1A2*1J",
+        "name": "*1J",
+        "version": 6
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819179",
+        "symbol": "CYP1A2*1K",
+        "name": "*1K",
+        "version": 7
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165988094",
+        "symbol": "CYP1A2*1L",
+        "name": "*1L",
+        "version": 4
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165988103",
+        "symbol": "CYP1A2*1V",
+        "name": "*1V",
+        "version": 4
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165988104",
+        "symbol": "CYP1A2*1W",
+        "name": "*1W",
+        "version": 4
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819181",
+        "symbol": "CYP1A2*3",
+        "name": "*3",
+        "version": 6
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819182",
+        "symbol": "CYP1A2*4",
+        "name": "*4",
+        "version": 6
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819183",
+        "symbol": "CYP1A2*6",
+        "name": "*6",
+        "version": 6
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819184",
+        "symbol": "CYP1A2*7",
+        "name": "*7",
+        "version": 6
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA449061",
+        "name": "clozapine",
+        "version": 8
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA27093",
+        "symbol": "CYP1A2",
+        "name": "cytochrome P450 family 1 subfamily A member 2",
+        "version": 6459
+      }
+    ],
+    "source": "DPWG",
+    "summaryMarkdown": {
+      "id": 1451697966,
+      "html": "<p>There is no gene-drug interaction between CYP1A2 and clozapine.</p>\n",
+      "version": 1
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451697962,
+      "html": "<h3 id=\"february-2022-update\">February 2022 Update</h3>\n<p><em><strong>IMPORTANT: As of March 2022, gene information documents from the DPWG are no longer publicly available from the KNMP website. PharmGKB is currently providing PDF versions of these documents to users. These files were downloaded in February 2022. As such, we cannot guarantee that these documents match the mappings DPWG may use internally as there have been no publicly accessible updates since February 2022.</strong></em></p>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group (DPWG) has updated their recommendations for clozapine based on CYP1A2 genotype. They now conclude there is no gene-drug interaction between any CYP1A2 alleles and clozapine. As a result, all recommendation have been removed. <a download=\"DPWG_February_2022_guidelines.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/DPWG_February_2022_guidelines.pdf\">See the DPWG February 2022 update</a>.</p>\n<h3 id=\"may-2021-guideline\">May 2021 Guideline</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group (DPWG) has evaluated therapeutic dose recommendations for clozapine based on CYP1A2 genotype. They recommend adjusting clozapine dose as a function of clozapine plasma concentrations in patients with one or two copies of the CYP1A2*1C allele.</p>\n<p><em>Wording in table taken from the <a download=\"DPWG_August_2019.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/DPWG_August_2019.pdf\">Dutch guidelines August 2019 update</a>.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Allele/Genotype/Phenotype</th>\n<th>Drug</th>\n<th>Description</th>\n<th>Recommendation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>CYP1A2 NM</td>\n<td>clozapine</td>\n<td>This is NOT a gene-drug interaction</td>\n<td>N/A</td>\n</tr>\n<tr>\n<td>CYP1A2 IM</td>\n<td>clozapine</td>\n<td>This is NOT a gene-drug interaction</td>\n<td>N/A</td>\n</tr>\n<tr>\n<td>CYP1A2 PM</td>\n<td>clozapine</td>\n<td>This is NOT a gene-drug interaction</td>\n<td>N/A</td>\n</tr>\n<tr>\n<td>CYP1A2*1A/*1F</td>\n<td>clozapine</td>\n<td>This is NOT a gene-drug interaction</td>\n<td>N/A</td>\n</tr>\n<tr>\n<td>CYP1A2*1C-heterozygote</td>\n<td>clozapine</td>\n<td>The genetic polymorphism can result in a reduced metabolism of clozapine. This can result in an increase in the plasma concentration of clozapine and thereby the risk of adverse events.</td>\n<td>It is not possible to offer substantiated advice for dose reduction based on the literature.<br/>1. Adjust the dose as a function of the plasma concentration of clozapine. A therapeutic range of 200-600 ng/mL has been proposed for clozapine.</td>\n</tr>\n<tr>\n<td>CYP1A2*1C/*1C</td>\n<td>clozapine</td>\n<td>The genetic polymorphism can result in a reduced metabolism of clozapine. This can result in an increase in the plasma concentration of clozapine and thereby the risk of adverse events.</td>\n<td>It is not possible to offer substantiated advice for dose reduction based on the literature.<br/>1. Adjust the dose as a function of the plasma concentration of clozapine. A therapeutic range of 200-600 ng/mL has been proposed for clozapine.</td>\n</tr>\n</tbody>\n</table>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0004643.PDF\" target=\"_blank\">Read for more information about this recommendation</a>, <a download=\"CYP1A2.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/CYP1A2.pdf\">Read about gene information from DPWG</a></p>\n",
+      "version": 2
+    },
+    "userId": "rachel",
+    "version": 5
+  }
+}

@@ -1,0 +1,13 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+pravastatin	3'alpha-isopravastatin	Biochemical Reaction			hepatocyte	10490896		pravastatin		Biochemical reaction from pravastatin to 3'alpha-isopravastatin.
+pravastatin	3-hydroxy-pravastatin	Biochemical Reaction			hepatocyte	10490896		pravastatin		Biochemical reaction from pravastatin to 3-hydroxy-pravastatin.
+pravastatin	pravastatin dihydrodiol	Biochemical Reaction			hepatocyte	10490896		pravastatin		Biochemical reaction from pravastatin to pravastatin dihydrodiol.
+pravastatin	3'alpha-isopravastatin	Biochemical Reaction			null	32892153		pravastatin		Biochemical reaction from pravastatin to 3'alpha-isopravastatin.
+pravastatin	6'-epipravastatin	Biochemical Reaction			hepatocyte	10490896		pravastatin		Biochemical reaction from pravastatin to 6'-epipravastatin.
+pravastatin	pravastatin	Transport	ABCC3	Gene	enterocyte, null	34162690		pravastatin		Transport from pravastatin to pravastatin. This interaction is catalyzed by ABCC3.
+3'alpha-isopravastatin	3'alpha-isopravastatin	Transport	SLCO1B1	Gene	null, hepatocyte	32892153				Transport from 3'alpha-isopravastatin to 3'alpha-isopravastatin. This interaction is catalyzed by SLCO1B1.
+pravastatin	pravastatin	Transport	SLC22A6, SLC22A8	Gene	null, renal principal cell	14978359, 14729100, 12811365		pravastatin		Transport from pravastatin to pravastatin. This interaction can be catalyzed by SLC22A6 or SLC22A8.
+pravastatin	pravastatin	Transport	SLCO2B1	Gene	null, enterocyte	14610227, 12724351		pravastatin		Transport from pravastatin to pravastatin. This interaction is catalyzed by SLCO2B1.
+pravastatin	pravastatin	Transport	ABCB1, ABCB11, ABCC2, ABCC3, ABCG2	Gene	hepatocyte, null	34162690, 16107564, 15901800, 15901796, 15616150, 15226675, 11902809		pravastatin		Transport from pravastatin to pravastatin. This interaction can be catalyzed by ABCC3, ABCC2, ABCB1, ABCB11 or ABCG2.
+pravastatin	pravastatin	Transport	SLCO1B1, SLCO1B3, SLCO2B1	Gene	null, hepatocyte	16198652, 15970799, 15864131, 16103896, 15564882, 15226675, 15116054, 12811365		pravastatin		Transport from pravastatin to pravastatin. This interaction can be catalyzed by SLCO1B1, SLCO2B1 or SLCO1B3.
+pravastatin	pravastatin	Transport	ABCB1, ABCC2, ABCG2	Gene	renal principal cell, null	16107564, 15226675		pravastatin		Transport from pravastatin to pravastatin. This interaction can be catalyzed by ABCC2, ABCB1 or ABCG2.

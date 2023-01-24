@@ -1,0 +1,19 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+gefitinib	gefitinib M537194	Biochemical Reaction	CYP1A1, CYP3A4, CYP3A5	Gene	hepatocyte	17575239, 15801543		gefitinib	Diarrhea,Exanthema	Biochemical reaction from gefitinib to gefitinib M537194. This interaction can be catalyzed by CYP3A4, CYP1A1 or CYP3A5.
+gefitinib	gefitinib M523595	Biochemical Reaction	CYP2D6, CYP3A4	Gene	hepatocyte	27154635, 16719544, 15788367, 15801543		gefitinib	Diarrhea,Exanthema	Biochemical reaction from gefitinib to gefitinib M523595. This interaction can be catalyzed by CYP3A4 or CYP2D6.
+gefitinib	gefitinib M387783	Biochemical Reaction	CYP1A1, CYP3A4, CYP3A5	Gene	hepatocyte	17575239, 15801543		gefitinib	Diarrhea,Exanthema	Biochemical reaction from gefitinib to gefitinib M387783. This interaction can be catalyzed by CYP3A5, CYP3A4 or CYP1A1.
+gefitinib	UGT1A7	Inhibition			hepatocyte	19850672	UGT1A7	gefitinib	Diarrhea,Exanthema	gefitinib inhibits UGT1A7.
+gefitinib	UGT2B7	Inhibition			hepatocyte	19850672	UGT2B7	gefitinib	Diarrhea,Exanthema	gefitinib inhibits UGT2B7.
+gefitinib	UGT1A1	Inhibition			hepatocyte	19850672	UGT1A1	gefitinib	Diarrhea,Exanthema	gefitinib inhibits UGT1A1.
+gefitinib	UGT1A9	Inhibition			hepatocyte	19850672	UGT1A9	gefitinib	Diarrhea,Exanthema	gefitinib inhibits UGT1A9.
+gefitinib	ABCB1	Inhibition			hepatocyte	28851502	ABCB1	gefitinib	Diarrhea,Exanthema	gefitinib inhibits ABCB1.
+gefitinib	EGFR	Inhibition			neoplastic cell	14676101	EGFR	gefitinib	Diarrhea,Exanthema	gefitinib inhibits EGFR.
+gefitinib	CYP2D6	Inhibition			hepatocyte	16176119	CYP2D6	gefitinib	Diarrhea,Exanthema	gefitinib inhibits CYP2D6.
+gefitinib	ABCG2	Inhibition			hepatocyte	28851502	ABCG2	gefitinib	Diarrhea,Exanthema	gefitinib inhibits ABCG2.
+gefitinib	Diarrhea	Leads To			hepatocyte, null	27089937		gefitinib	Diarrhea,Exanthema	gefitinib leads to Diarrhea.
+gefitinib	Exanthema	Leads To			null	27089937		gefitinib	Diarrhea,Exanthema	gefitinib leads to Exanthema.
+gefitinib	Exanthema	Leads To			hepatocyte, null	27089937		gefitinib	Diarrhea,Exanthema	gefitinib leads to Exanthema.
+gefitinib	Diarrhea	Leads To			null	27089937		gefitinib	Diarrhea,Exanthema	gefitinib leads to Diarrhea.
+EGFR	EGFR Inhibitors Pathway (PD)	Leads To			neoplastic cell	14676101	EGFR		Diarrhea,Exanthema	EGFR leads to EGFR Inhibitor Pathway, Pharmacodynamics.
+gefitinib	gefitinib	Transport	ABCC10	Gene	neoplastic cell, null	30515095		gefitinib	Diarrhea,Exanthema	Transport from gefitinib to gefitinib. This interaction is catalyzed by ABCC10.
+gefitinib	gefitinib	Transport	ABCB1, ABCG2	Gene	hepatocyte, null	27154635, 17312388, 16651435		gefitinib	Diarrhea,Exanthema	Transport from gefitinib to gefitinib. This interaction can be catalyzed by ABCB1 or ABCG2.

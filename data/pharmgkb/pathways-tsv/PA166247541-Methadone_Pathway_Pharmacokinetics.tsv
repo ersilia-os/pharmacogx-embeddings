@@ -1,0 +1,15 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+S-EDDP	EMDP	Biochemical Reaction			hepatocyte	20825389, 1120392				Biochemical reaction from S-EDDP to EMDP.
+methadone	p-hydroxymethadone	Biochemical Reaction			hepatocyte	29458047, 1120392		methadone		Biochemical reaction from methadone to p-hydroxymethadone.
+methadone	methadone M4	Biochemical Reaction			hepatocyte	29458047, 1120392		methadone		Biochemical reaction from methadone to methadone M4.
+methadone M4	methadone M5	Biochemical Reaction			hepatocyte	29458047, 1120392				Biochemical reaction from methadone M4 to methadone M5.
+methadone	methadone M3	Biochemical Reaction			hepatocyte	29458047, 1120392		methadone		Biochemical reaction from methadone to methadone M3.
+(S)-methadone	S-EDDP	Biochemical Reaction	CYP2B6, CYP2C19, CYP2D6, CYP3A4	Gene	hepatocyte	29458047, 20825389, 1120392		(S)-methadone		Biochemical reaction from (S)-methadone to S-EDDP. This interaction can be catalyzed by CYP2C19, CYP3A4, CYP2B6 or CYP2D6.
+R-EDDP	EMDP	Biochemical Reaction			hepatocyte	20825389, 1120392				Biochemical reaction from R-EDDP to EMDP.
+(R)-methadone	R-EDDP	Biochemical Reaction	CYP2B6, CYP2C19, CYP2D6, CYP3A4	Gene	hepatocyte	29458047, 20825389, 1120392		(R)-methadone		Biochemical reaction from (R)-methadone to R-EDDP. This interaction can be catalyzed by CYP3A4, CYP2C19, CYP2B6 or CYP2D6.
+methadone	UGT2B7	Inhibition			hepatocyte	22092298	UGT2B7	methadone		methadone inhibits UGT2B7.
+methadone	CYP2D6	Inhibition			hepatocyte	22092298	CYP2D6	methadone		methadone inhibits CYP2D6.
+methadone	UGT2B4	Inhibition			hepatocyte	22092298	UGT2B4	methadone		methadone inhibits UGT2B4.
+methadone	(R)-methadone	Leads To			hepatocyte	29458047		(R)-methadone, methadone		methadone leads to (R)-methadone.
+methadone	(S)-methadone	Leads To			hepatocyte	29458047		(S)-methadone, methadone		methadone leads to (S)-methadone.
+methadone	methadone	Transport	ABCB1	Gene	hepatocyte, null	18424454, 17178267, 17178268		methadone		Transport from methadone to methadone. This interaction is catalyzed by ABCB1.

@@ -1,0 +1,984 @@
+{
+  "citations": [
+    {
+      "id": 15139362,
+      "title": "Dutch pharmacogenetics working group (DPWG) guideline for the gene-drug interaction between UGT1A1 and irinotecan.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/36443464",
+      "authors": [
+        "Hulshof Emma C",
+        "Deenen Maarten J",
+        "Nijenhuis Marga",
+        "Soree Bianca",
+        "de Boer-Veger Nienke J",
+        "Buunk Anne-Marie",
+        "Houwink Elisa J F",
+        "Risselada Arne",
+        "Rongen Gerard A P J M",
+        "van Schaik Ron H N",
+        "Touw Daan J",
+        "van der Weide Jan",
+        "van Westrhenen Roos",
+        "Deneer Vera H M",
+        "Guchelaar Henk-Jan",
+        "Swen Jesse J"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451967420,
+          "resource": "PubMed",
+          "resourceId": "36443464",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/36443464",
+          "version": 0
+        },
+        {
+          "id": 1451967421,
+          "resource": "DOI",
+          "resourceId": "10.1038/s41431-022-01243-2",
+          "_url": "http://dx.doi.org/10.1038%2Fs41431-022-01243-2",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "European journal of human genetics : EJHG",
+      "meshDiseases": [],
+      "meshTerms": [],
+      "month": 11,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2022-11-01T00:00:00-07:00",
+      "summary": "The Dutch Pharmacogenetics Working Group (DPWG) aims to facilitate PGx implementation by developing evidence-based pharmacogenetics guidelines to optimize pharmacotherapy. This guideline describes the starting dose optimization of the anti-cancer drug irinotecan to decrease the risk of severe toxicity, such as (febrile) neutropenia or diarrhoea. Uridine diphosphate glucuronosyl transferase 1A1 (UGT1A1 encoded by the UGT1A1 gene) enzyme deficiency increases risk of irinotecan-induced toxicity. Gene variants leading to UGT1A1 enzyme deficiency (e.g. UGT1A1*6, *28 and *37) can be used to optimize an individual's starting dose thereby preventing carriers from toxicity. Homozygous or compound heterozygous carriers of these allele variants are defined as UGT1A1 poor metabolisers (PM). DPWG recommends a 70% starting dose in PM patients and no dose reduction in IM patients who start treatment with irinotecan. Based on the DPWG clinical implication score, UGT1A1 genotyping is considered \"essential\", indicating that UGT1A1 testing must be performed prior to initiating irinotecan treatment.",
+      "terms": [
+        {"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}
+      ],
+      "version": 1,
+      "year": 2022
+    },
+    {
+      "id": 7283333,
+      "title": "Pharmacogenetics: from bench to byte--an update of guidelines.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/21412232",
+      "authors": [
+        "Swen J J",
+        "Nijenhuis M",
+        "de Boer A",
+        "Grandia L",
+        "Maitland-van der Zee A H",
+        "Mulder H",
+        "Rongen G A P J M",
+        "van Schaik R H N",
+        "Schalekamp T",
+        "Touw D J",
+        "van der Weide J",
+        "Wilffert B",
+        "Deneer V H M",
+        "Guchelaar H-J"
+      ],
+      "crossReferences": [
+        {
+          "id": 769250885,
+          "resource": "PubMed",
+          "resourceId": "21412232",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/21412232",
+          "version": 0
+        },
+        {
+          "id": 1449247827,
+          "resource": "DOI",
+          "resourceId": "10.1038/clpt.2011.34",
+          "_url": "http://dx.doi.org/10.1038%2Fclpt.2011.34",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Clinical pharmacology and therapeutics",
+      "meshDiseases": [],
+      "meshTerms": [
+        "Animals",
+        "Aryl Hydrocarbon Hydroxylases",
+        "Cytochrome P-450 CYP2C9",
+        "Drug Administration Schedule",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "Humans",
+        "Pharmaceutical Preparations",
+        "Pharmacogenetics",
+        "Practice Guidelines as Topic"
+      ],
+      "month": 5,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "662-73",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2011-05-01T00:00:00-07:00",
+      "summary": "Currently, there are very few guidelines linking the results of pharmacogenetic tests to specific therapeutic recommendations. Therefore, the Royal Dutch Association for the Advancement of Pharmacy established the Pharmacogenetics Working Group with the objective of developing pharmacogenetics-based therapeutic (dose) recommendations. After systematic review of the literature, recommendations were developed for 53 drugs associated with genes coding for CYP2D6, CYP2C19, CYP2C9, thiopurine-S-methyltransferase (TPMT), dihydropyrimidine dehydrogenase (DPD), vitamin K epoxide reductase (VKORC1), uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1), HLA-B44, HLA-B*5701, CYP3A5, and factor V Leiden (FVL).",
+      "terms": [],
+      "version": 2,
+      "volume": "89",
+      "year": 2011
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166104951",
+    "name": "Annotation of DPWG Guideline for irinotecan and UGT1A1",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1451493020,
+        "alleles": [
+          {
+            "id": 1451493060,
+            "_label": "*1",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115841",
+              "symbol": "UGT1A1*1",
+              "name": "*1",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493032,
+            "_label": "*2",
+            "allele": "*2",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493033,
+            "_label": "*3",
+            "allele": "*3",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493062,
+            "_label": "*4",
+            "allele": "*4",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493042,
+            "_label": "*5",
+            "allele": "*5",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493023,
+            "_label": "*6",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115858",
+              "symbol": "UGT1A1*6",
+              "name": "*6",
+              "version": 12
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493025,
+            "_label": "*7",
+            "allele": "*7",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493026,
+            "_label": "*8",
+            "allele": "*8",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493027,
+            "_label": "*9",
+            "allele": "*9",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493063,
+            "_label": "*10",
+            "allele": "*10",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493001,
+            "_label": "*11",
+            "allele": "*11",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493080,
+            "_label": "*12",
+            "allele": "*12",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493034,
+            "_label": "*13",
+            "allele": "*13",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493035,
+            "_label": "*14",
+            "allele": "*14",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493064,
+            "_label": "*15",
+            "allele": "*15",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493036,
+            "_label": "*16",
+            "allele": "*16",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493065,
+            "_label": "*17",
+            "allele": "*17",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493037,
+            "_label": "*18",
+            "allele": "*18",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493038,
+            "_label": "*19",
+            "allele": "*19",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493066,
+            "_label": "*20",
+            "allele": "*20",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493067,
+            "_label": "*22",
+            "allele": "*22",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493069,
+            "_label": "*25",
+            "allele": "*25",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493024,
+            "_label": "*27",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115865",
+              "symbol": "UGT1A1*27",
+              "name": "*27",
+              "version": 11
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493040,
+            "_label": "*28",
+            "allele": "*28",
+            "function": {
+              "id": 1451493000,
+              "description": "for extended dosing guidelines on DPWG UGT1A1 guideline annotations",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function (UGT1A1*28)",
+              "termId": "alleleFunction:1451493000",
+              "version": 0
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493041,
+            "_label": "*29",
+            "allele": "*29",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493028,
+            "_label": "*30",
+            "allele": "*30",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493070,
+            "_label": "*31",
+            "allele": "*31",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493029,
+            "_label": "*32",
+            "allele": "*32",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493061,
+            "_label": "*33",
+            "allele": "*33",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493030,
+            "_label": "*34",
+            "allele": "*34",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493021,
+            "_label": "*36",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115843",
+              "symbol": "UGT1A1*36",
+              "name": "*36",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451493022,
+            "_label": "*37",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115844",
+              "symbol": "UGT1A1*37",
+              "name": "*37",
+              "version": 14
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA420",
+          "symbol": "UGT1A1",
+          "name": "UDP glucuronosyltransferase 1 family, polypeptide A1",
+          "alleleFile": "UGT1A1_allele_definition_table.xlsx",
+          "altNames": {
+            "symbol": [
+              "UGT1A"
+            ]
+          },
+          "buildVersion": "GRCh38",
+          "cbStart": "q37.1",
+          "cbStop": "q37.1",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA523",
+            "name": "chr2",
+            "version": 3
+          },
+          "chrStartPosB37": 234668916,
+          "chrStartPosB38": 233760270,
+          "chrStopPosB37": 234681946,
+          "chrStopPosB38": 233773300,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553243129,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "54658",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=54658",
+              "version": 0
+            },
+            {
+              "id": 608140457,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000241635",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000241635",
+              "version": 0
+            },
+            {
+              "id": 84499,
+              "resource": "GenAtlas",
+              "resourceId": "UGT1A1",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=UGT1A1",
+              "version": 1
+            },
+            {
+              "id": 99427,
+              "resource": "GeneCard",
+              "resourceId": "UGT1A1",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=UGT1A1",
+              "version": 1
+            },
+            {
+              "id": 608140455,
+              "resource": "HGNC",
+              "resourceId": "HGNC:12530",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A12530",
+              "version": 1
+            },
+            {
+              "id": 560883392,
+              "resource": "ModBase",
+              "resourceId": "P22309",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P22309",
+              "version": 0
+            },
+            {
+              "id": 467037,
+              "resource": "MutDB",
+              "resourceId": "UGT1A1",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=UGT1A1",
+              "version": 1
+            },
+            {
+              "id": 17547,
+              "resource": "NCBI Gene",
+              "resourceId": "54658",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/54658",
+              "version": 1
+            },
+            {
+              "id": 560530563,
+              "resource": "OMIM",
+              "resourceId": "143500",
+              "_url": "https://omim.org/entry/143500",
+              "version": 0
+            },
+            {
+              "id": 2572,
+              "resource": "OMIM",
+              "resourceId": "191740",
+              "_url": "https://omim.org/entry/191740",
+              "version": 1
+            },
+            {
+              "id": 560530562,
+              "resource": "OMIM",
+              "resourceId": "218800",
+              "_url": "https://omim.org/entry/218800",
+              "version": 0
+            },
+            {
+              "id": 560530565,
+              "resource": "OMIM",
+              "resourceId": "237900",
+              "_url": "https://omim.org/entry/237900",
+              "version": 0
+            },
+            {
+              "id": 608140456,
+              "resource": "OMIM",
+              "resourceId": "601816",
+              "_url": "https://omim.org/entry/601816",
+              "version": 0
+            },
+            {
+              "id": 560530564,
+              "resource": "OMIM",
+              "resourceId": "606785",
+              "_url": "https://omim.org/entry/606785",
+              "version": 0
+            },
+            {
+              "id": 1451154302,
+              "name": "NG_002601.2",
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_002601.2",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_002601.2",
+              "version": 0
+            },
+            {
+              "id": 37628,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000454",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000454",
+              "version": 1
+            },
+            {
+              "id": 46703,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000463",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000463",
+              "version": 1
+            },
+            {
+              "id": 122020,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000463",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000463",
+              "version": 1
+            },
+            {
+              "id": 62329337,
+              "name": "UD11_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P22309",
+              "_url": "https://www.uniprot.org/uniprot/P22309",
+              "version": 1
+            },
+            {
+              "id": 608140458,
+              "name": "Q5DT03_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "Q5DT03",
+              "_url": "https://www.uniprot.org/uniprot/Q5DT03",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": false,
+          "pharmVarGene": false,
+          "strand": "plus",
+          "terms": [
+            {"id":560496649,"_url":"http://amigo.geneontology.org/amigo/term/GO:0001889","resource":"Gene Ontology","term":"liver development","termId":"GO:0001889"},
+            {"id":560496785,"_url":"http://amigo.geneontology.org/amigo/term/GO:0001972","resource":"Gene Ontology","term":"retinoic acid binding","termId":"GO:0001972"},
+            {"id":560499243,"_url":"http://amigo.geneontology.org/amigo/term/GO:0004857","resource":"Gene Ontology","term":"enzyme inhibitor activity","termId":"GO:0004857"},
+            {"id":560499828,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005496","resource":"Gene Ontology","term":"steroid binding","termId":"GO:0005496"},
+            {"id":560500134,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005783","resource":"Gene Ontology","term":"endoplasmic reticulum","termId":"GO:0005783"},
+            {"id":560500141,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005789","resource":"Gene Ontology","term":"endoplasmic reticulum membrane","termId":"GO:0005789"},
+            {"id":560500144,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005792","resource":"Gene Ontology","term":"microsome","termId":"GO:0005792"},
+            {"id":560501435,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006789","resource":"Gene Ontology","term":"bilirubin conjugation","termId":"GO:0006789"},
+            {"id":560501453,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006805","resource":"Gene Ontology","term":"xenobiotic metabolic process","termId":"GO:0006805"},
+            {"id":560502337,"_url":"http://amigo.geneontology.org/amigo/term/GO:0007584","resource":"Gene Ontology","term":"response to nutrient","termId":"GO:0007584"},
+            {"id":560502340,"_url":"http://amigo.geneontology.org/amigo/term/GO:0007586","resource":"Gene Ontology","term":"digestion","termId":"GO:0007586"},
+            {"id":560501456,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008152","resource":"Gene Ontology","term":"metabolic process","termId":"GO:0008152"},
+            {"id":560501294,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008202","resource":"Gene Ontology","term":"steroid metabolic process","termId":"GO:0008202"},
+            {"id":560501314,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008210","resource":"Gene Ontology","term":"estrogen metabolic process","termId":"GO:0008210"},
+            {"id":560504171,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009812","resource":"Gene Ontology","term":"flavonoid metabolic process","termId":"GO:0009812"},
+            {"id":560505797,"_url":"http://amigo.geneontology.org/amigo/term/GO:0015020","resource":"Gene Ontology","term":"glucuronosyltransferase activity","termId":"GO:0015020"},
+            {"id":560499972,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016020","resource":"Gene Ontology","term":"membrane","termId":"GO:0016020"},
+            {"id":560500226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016021","resource":"Gene Ontology","term":"integral to membrane","termId":"GO:0016021"},
+            {"id":560507281,"_url":"http://amigo.geneontology.org/amigo/term/GO:0017144","resource":"Gene Ontology","term":"drug metabolic process","termId":"GO:0017144"},
+            {"id":560508309,"_url":"http://amigo.geneontology.org/amigo/term/GO:0018879","resource":"Gene Ontology","term":"biphenyl metabolic process","termId":"GO:0018879"},
+            {"id":560496866,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019899","resource":"Gene Ontology","term":"enzyme binding","termId":"GO:0019899"},
+            {"id":560512358,"_url":"http://amigo.geneontology.org/amigo/term/GO:0032496","resource":"Gene Ontology","term":"response to lipopolysaccharide","termId":"GO:0032496"},
+            {"id":560515491,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042493","resource":"Gene Ontology","term":"response to drug","termId":"GO:0042493"},
+            {"id":560509788,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042573","resource":"Gene Ontology","term":"retinoic acid metabolic process","termId":"GO:0042573"},
+            {"id":560503590,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042594","resource":"Gene Ontology","term":"response to starvation","termId":"GO:0042594"},
+            {"id":560513251,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042803","resource":"Gene Ontology","term":"protein homodimerization activity","termId":"GO:0042803"},
+            {"id":560517245,"_url":"http://amigo.geneontology.org/amigo/term/GO:0045471","resource":"Gene Ontology","term":"response to ethanol","termId":"GO:0045471"},
+            {"id":560505413,"_url":"http://amigo.geneontology.org/amigo/term/GO:0045939","resource":"Gene Ontology","term":"negative regulation of steroid metabolic process","termId":"GO:0045939"},
+            {"id":560495388,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046483","resource":"Gene Ontology","term":"heterocycle metabolic process","termId":"GO:0046483"},
+            {"id":560518296,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046982","resource":"Gene Ontology","term":"protein heterodimerization activity","termId":"GO:0046982"},
+            {"id":560511834,"_url":"http://amigo.geneontology.org/amigo/term/GO:0048545","resource":"Gene Ontology","term":"response to steroid hormone stimulus","termId":"GO:0048545"},
+            {"id":560516196,"_url":"http://amigo.geneontology.org/amigo/term/GO:0051384","resource":"Gene Ontology","term":"response to glucocorticoid stimulus","termId":"GO:0051384"},
+            {"id":560513368,"_url":"http://amigo.geneontology.org/amigo/term/GO:0051552","resource":"Gene Ontology","term":"flavone metabolic process","termId":"GO:0051552"}
+          ],
+          "version": 6110
+        },
+        "version": 1
+      }
+    ],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1183704491,
+        "date": "2011-08-10T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1450414915,
+        "date": "2019-05-23T06:43:59.845-07:00",
+        "description": "Annotation current with November 2018 DPWG Guideline release",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450820671,
+        "date": "2019-10-03T15:43:15.918-07:00",
+        "description": "No changes based on August 2019 guideline",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1450956385,
+        "date": "2020-01-31T13:36:54.782-08:00",
+        "description": "Updated link to 2011 DPWG methods",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450963582,
+        "date": "2020-02-11T06:20:47.778-08:00",
+        "description": "Fixed links to 2018 guideline pdfs.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451493440,
+        "date": "2021-09-09T00:00:00-07:00",
+        "description": "Added extended dosing guideline",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451699902,
+        "date": "2022-03-01T13:19:14.162-08:00",
+        "description": "Updated names of IM and PM groups and added footnote and explanation.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451704199,
+        "date": "2022-03-03T16:33:26.229-08:00",
+        "description": "Annotation current with May 2021 DPWG Guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451707046,
+        "date": "2022-03-08T08:58:07.988-08:00",
+        "description": "Added information about preemptive genotyping",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451732839,
+        "date": "2022-03-28T09:57:39.828-07:00",
+        "description": "Annotation current with February 2022 DPWG guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451733340,
+        "date": "2022-03-28T14:46:42.642-07:00",
+        "description": "Updated link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741476,
+        "date": "2022-04-05T11:14:59.524-07:00",
+        "description": "Added testing guidance tag",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451884360,
+        "date": "2022-09-16T10:26:09.743-07:00",
+        "description": "Fixed link to gene information document and added explanatory note",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451958200,
+        "date": "2022-12-07T18:39:27.029-08:00",
+        "description": "DPWG guideline publication 36443464",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451968284,
+        "date": "2022-12-19T09:23:18.670-08:00",
+        "description": "Linked the paper 36443464 so that the guideline will show on the literature page.",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15139362,"title":"Dutch pharmacogenetics working group (DPWG) guideline for the gene-drug interaction between UGT1A1 and irinotecan.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/36443464","crossReferences":[{"id":1451967420,"resource":"PubMed","resourceId":"36443464","_url":"https://www.ncbi.nlm.nih.gov/pubmed/36443464"},{"id":1451967421,"resource":"DOI","resourceId":"10.1038/s41431-022-01243-2","_url":"http://dx.doi.org/10.1038%2Fs41431-022-01243-2"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":7283333,"title":"Pharmacogenetics: from bench to byte--an update of guidelines.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/21412232","crossReferences":[{"id":769250885,"resource":"PubMed","resourceId":"21412232","_url":"https://www.ncbi.nlm.nih.gov/pubmed/21412232"},{"id":1449247827,"resource":"DOI","resourceId":"10.1038/clpt.2011.34","_url":"http://dx.doi.org/10.1038%2Fclpt.2011.34"}],"objCls":"Literature","terms":[]},
+      {"id":15103288,"title":"Dutch Pharmacogenetics Working Group Guidelines August 2019","_sameAs":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf","crossReferences":[{"id":1450815695,"resource":"URL","resourceId":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf","_url":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf"}],"objCls":"Literature","terms":[]},
+      {"id":15102465,"title":"Dutch Pharmacogenetics Working Group Guidelines November 2018","_sameAs":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_November_2018.pdf","crossReferences":[{"id":1450415575,"resource":"URL","resourceId":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_November_2018.pdf","_url":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_November_2018.pdf"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA166115842",
+        "symbol": "UGT1A1*28",
+        "name": "*28",
+        "version": 14
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA450085",
+        "name": "irinotecan",
+        "version": 15
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA420",
+        "symbol": "UGT1A1",
+        "name": "UDP glucuronosyltransferase 1 family, polypeptide A1",
+        "version": 6110
+      }
+    ],
+    "source": "DPWG",
+    "summaryMarkdown": {
+      "id": 1447981882,
+      "html": "<p>Dose reductions are recommended for irinotecan for patients who are UGT1A1 *28/*28 or UGT1A1 PM, starting with 70% of starting dose and increasing as tolerated, guided by neutrophil count.</p>\n",
+      "version": 1
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1447981881,
+      "html": "<h3 id=\"dutch-pharmacogenetics-working-group-dpwg-guideline-for-the-gene-drug-interaction-between-ugt1a1-and-irinotecan-european-journal-of-human-genetics-2022\">Dutch Pharmacogenetics Working Group (DPWG) guideline for the gene-drug interaction between UGT1A1 and irinotecan. European journal of human genetics (2022)</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group published a paper with the guidelines as per the May 2021 update including more details and scoring the clinical implementation [Article:<a href=\"/pmid/36443464\">36443464</a>]. Table 2 of the publication has made some minor changes to the recommendation column to replace &quot;standard&quot; with &quot;normal&quot; dose. The table below has been updated to reflect this. Supplementary Table 1 includes a list of UGT1A1 alleles and the corresponding metabolic capacity.</p>\n<h3 id=\"may-2021-update\">May 2021 Update</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group has made some minor changes to the names of some phenotype groups in this guideline. The table below has been updated to reflect this but the recommendations themselves have not changed.</p>\n<h3 id=\"november-2018-update\">November 2018 Update</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group has evaluated therapeutic dose recommendations for irinotecan based on UGT1A1 genotype.  They recommend reducing the initial dose for patients who are poor metabolizers or homozygotes for UGT1A1*28.</p>\n<p><em>Wording in table taken from the <a download=\"DPWG_November_2018.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/DPWG_November_2018.pdf\">Dutch guidelines November 2018 update</a>.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Allele/Genotype/Phenotype</th>\n<th>Drug</th>\n<th>Description</th>\n<th>Recommendation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>UGT1A1 *1/*28</td>\n<td>irinotecan</td>\n<td>This genetic variation (*1/*28) is more common in Western populations than the wild-type (*1/*1). This means that treatment is largely geared to patients with this genetic variation. Adjustment of the treatment is therefore not useful.</td>\n<td>NO action is needed for this gene-drug interaction</td>\n</tr>\n<tr>\n<td>UGT1A1 *28/*28</td>\n<td>irinotecan</td>\n<td>Serious, life-threatening adverse events occur more often in patients with this genetic variation. The genetic variation reduces conversion of irinotecan to inactive metabolites.</td>\n<td>Start with 70% of the normal<sup>a</sup> dose. If the patient tolerates this initial dose, the dose can be increased, guided by the neutrophil count.</td>\n</tr>\n<tr>\n<td>UGT1A1 IM other<sup>b</sup></td>\n<td>irinotecan</td>\n<td>This genetic variation (IM) is more common in Western populations than the wild-type (*1/*1). This means that treatment is largely geared to patients with this genetic variation. Adjustment of the treatment is therefore not useful.</td>\n<td>NO action is needed for this gene-drug interaction.</td>\n</tr>\n<tr>\n<td>UGT1A1 PM other<sup>b</sup></td>\n<td>irinotecan</td>\n<td>Serious, life-threatening adverse events occur more often in patients with this genetic variation. The genetic variation reduces conversion of irinotecan to inactive metabolites.</td>\n<td>Start with 70% of the normal dose<sup>a</sup>. If the patient tolerates this initial dose, the dose can be increased, guided by the neutrophil count.</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> The normal dose is defined as the dose the patient would receive if he/she would not have a gene variant.\n<sup>b</sup> These groups are referred to in the DPWG recommendation PDF as 'IM ANDERS' and 'PM ANDERS', which use the Dutch word 'anders'. PharmGKB has translated these as 'IM other' and PM other', respectively.</p>\n<h4 id=\"preemptive-genotyping\">Preemptive genotyping</h4>\n<p>Excerpts from the <a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0001691.PDF\" target=\"_blank\">DPWG risk analysis document</a> for irinotecan and UGT1A1:</p>\n<blockquote class=\"blockquote\">\n<p>The KNMP Pharmacogenetics Working Group considers genotyping before starting irinotecan to be essential for drug safety. Genotyping must be performed before drug therapy has been initiated to guide drug and dose selection.</p>\n</blockquote>\n<p><a href=\"/page/testingGuidance\">Read more about how DPWG assigns their recommendations for preemptive genotyping.</a></p>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0001693.PDF\" target=\"_blank\">Read for more information about this recommendation</a>, <a download=\"UGT1A1.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/UGT1A1.pdf\">Read about gene information from DPWG</a></p>\n<h3 id=\"2011-guideline\">2011 Guideline</h3>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group has evaluated therapeutic dose recommendations for irinotecan based on UGT1A1 genotype [Article:<a href=\"/pmid/21412232\">21412232</a>].  They recommend reducing the dose for *28 homozygous patients receiving more than 250 mg/m<sup>2</sup>.</p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype (Genotype)</th>\n<th>Therapeutic Dose Recommendation</th>\n<th>Level of Evidence</th>\n<th>Clinical Relevance</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>*1/*28</td>\n<td>None.</td>\n<td>Published controlled studies of moderate quality* relating to phenotyped and/or genotyped patients or healthy volunteers, and having relevant pharmacokinetic or clinical endpoints..</td>\n<td>Clinical effect (S): death; arrhythmia; unanticipated myelosuppression.</td>\n</tr>\n<tr>\n<td>*28/*28</td>\n<td>Dose &gt;250mg/m<sup>2</sup>: reduce initial dose by 30%. Increase dose in response to neutrophil count.  Dose &lt;=250mg/m<sup>2</sup>: no dose adjustment.</td>\n<td>Published controlled studies of moderate quality* relating to phenotyped and/or genotyped patients or healthy volunteers, and having relevant pharmacokinetic or clinical endpoints.</td>\n<td>Clinical effect (S): Failure of lifesaving therapy e.g. anticipated myelosuppression; prevention of breast cancer relapse; arrhythmia; neutropenia &lt; 0.5x10<sup>9</sup>/l; leucopenia &lt; 1.0x10<sup>9</sup>/l; thrombocytopenia &lt; 25x10<sup>9</sup>/l; life-threatening complications from diarrhea.</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>*See <a href=\"http://www.pharmgkb.org/page/dpwg\">Methods </a> or [Article:<a href=\"/pmid/18253145\">18253145</a>] for definition of &quot;moderate&quot; quality.</li>\n</ul>\n",
+      "version": 19
+    },
+    "userId": "alie",
+    "version": 34
+  }
+}

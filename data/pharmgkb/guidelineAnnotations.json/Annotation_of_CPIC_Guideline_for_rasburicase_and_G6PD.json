@@ -1,0 +1,3946 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166119846",
+    "name": "Annotation of CPIC Guideline for rasburicase and G6PD",
+    "alternateDrugAvailable": true,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983506,
+        "name": "CPIC® Guideline for Rasburicase and G6PD – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-rasburicase-and-g6pd/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-rasburicase-and-g6pd/",
+        "version": 1
+      }
+    ],
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1449562345,
+        "alleles": [
+          {
+            "id": 1449562346,
+            "_label": "Mexico City",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121099",
+              "symbol": "G6PD Mexico City",
+              "name": "Mexico City",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562347,
+            "_label": "Miaoli",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121126",
+              "symbol": "G6PD Miaoli",
+              "name": "Miaoli",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562348,
+            "_label": "Minnesota, Marion, Gastonia, LeJeune",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121218",
+              "symbol": "G6PD Minnesota, Marion, Gastonia, LeJeune",
+              "name": "Minnesota, Marion, Gastonia, LeJeune",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562349,
+            "_label": "Mira d'Aire",
+            "function": {
+              "id": 1446765952,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "IV/Normal",
+              "termId": "haplotypeTags:1446765952",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121070",
+              "symbol": "G6PD Mira d'Aire",
+              "name": "Mira d'Aire",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562350,
+            "_label": "Mizushima",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121134",
+              "symbol": "G6PD Mizushima",
+              "name": "Mizushima",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562351,
+            "_label": "Montalbano",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121103",
+              "symbol": "G6PD Montalbano",
+              "name": "Montalbano",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562352,
+            "_label": "Montpellier",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121165",
+              "symbol": "G6PD Montpellier",
+              "name": "Montpellier",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562353,
+            "_label": "Mt Sinai",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121210",
+              "symbol": "G6PD Mt Sinai",
+              "name": "Mt Sinai",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562354,
+            "_label": "Munich",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121190",
+              "symbol": "G6PD Munich",
+              "name": "Munich",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562355,
+            "_label": "Murcia Oristano",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121086",
+              "symbol": "G6PD Murcia Oristano",
+              "name": "Murcia Oristano",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562356,
+            "_label": "Musashino",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121084",
+              "symbol": "G6PD Musashino",
+              "name": "Musashino",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562357,
+            "_label": "Namouru",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121111",
+              "symbol": "G6PD Namouru",
+              "name": "Namouru",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562358,
+            "_label": "Nankang",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121125",
+              "symbol": "G6PD Nankang",
+              "name": "Nankang",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562359,
+            "_label": "Nanning",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121100",
+              "symbol": "G6PD Nanning",
+              "name": "Nanning",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562360,
+            "_label": "Naone",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121124",
+              "symbol": "G6PD Naone",
+              "name": "Naone",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562361,
+            "_label": "Nara",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121236",
+              "symbol": "G6PD Nara",
+              "name": "Nara",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562362,
+            "_label": "Nashville, Anaheim, Portici",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121179",
+              "symbol": "G6PD Nashville, Anaheim, Portici",
+              "name": "Nashville, Anaheim, Portici",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562363,
+            "_label": "Neapolis",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121078",
+              "symbol": "G6PD Neapolis",
+              "name": "Neapolis",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562364,
+            "_label": "Nilgiri",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121129",
+              "symbol": "G6PD Nilgiri",
+              "name": "Nilgiri",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562365,
+            "_label": "North Dallas",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121221",
+              "symbol": "G6PD North Dallas",
+              "name": "North Dallas",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562366,
+            "_label": "Olomouc",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121168",
+              "symbol": "G6PD Olomouc",
+              "name": "Olomouc",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562367,
+            "_label": "Omiya",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121235",
+              "symbol": "G6PD Omiya",
+              "name": "Omiya",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562368,
+            "_label": "Orissa",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121075",
+              "symbol": "G6PD Orissa",
+              "name": "Orissa",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562369,
+            "_label": "Osaka",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121135",
+              "symbol": "G6PD Osaka",
+              "name": "Osaka",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562370,
+            "_label": "Palestrina",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121082",
+              "symbol": "G6PD Palestrina",
+              "name": "Palestrina",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562371,
+            "_label": "Partenope",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121141",
+              "symbol": "G6PD Partenope",
+              "name": "Partenope",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562372,
+            "_label": "Pawnee",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121146",
+              "symbol": "G6PD Pawnee",
+              "name": "Pawnee",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562373,
+            "_label": "Pedoplis-Ckaro",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121216",
+              "symbol": "G6PD Pedoplis-Ckaro",
+              "name": "Pedoplis-Ckaro",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562374,
+            "_label": "Piotrkow",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121233",
+              "symbol": "G6PD Piotrkow",
+              "name": "Piotrkow",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562375,
+            "_label": "Plymouth",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121211",
+              "symbol": "G6PD Plymouth",
+              "name": "Plymouth",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562376,
+            "_label": "Praha",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121176",
+              "symbol": "G6PD Praha",
+              "name": "Praha",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562377,
+            "_label": "Puerto Limon",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121182",
+              "symbol": "G6PD Puerto Limon",
+              "name": "Puerto Limon",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562378,
+            "_label": "Quing Yuan",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121093",
+              "symbol": "G6PD Quing Yuan",
+              "name": "Quing Yuan",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562379,
+            "_label": "Radlowo",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121130",
+              "symbol": "G6PD Radlowo",
+              "name": "Radlowo",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562380,
+            "_label": "Rehevot",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121238",
+              "symbol": "G6PD Rehevot",
+              "name": "Rehevot",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562381,
+            "_label": "Rignano",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121074",
+              "symbol": "G6PD Rignano",
+              "name": "Rignano",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562382,
+            "_label": "Riley",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121167",
+              "symbol": "G6PD Riley",
+              "name": "Riley",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562383,
+            "_label": "Riverside",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121187",
+              "symbol": "G6PD Riverside",
+              "name": "Riverside",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562384,
+            "_label": "Roubaix",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121131",
+              "symbol": "G6PD Roubaix",
+              "name": "Roubaix",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562385,
+            "_label": "S. Antioco",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121147",
+              "symbol": "G6PD S. Antioco",
+              "name": "S. Antioco",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562386,
+            "_label": "Salerno Pyrgos",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121092",
+              "symbol": "G6PD Salerno Pyrgos",
+              "name": "Salerno Pyrgos",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562387,
+            "_label": "Santa Maria",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121115",
+              "symbol": "G6PD Santa Maria",
+              "name": "Santa Maria",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562388,
+            "_label": "Santiago",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121217",
+              "symbol": "G6PD Santiago",
+              "name": "Santiago",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562389,
+            "_label": "Santiago de Cuba, Morioka",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121194",
+              "symbol": "G6PD Santiago de Cuba, Morioka",
+              "name": "Santiago de Cuba, Morioka",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562390,
+            "_label": "Sao Borja",
+            "function": {
+              "id": 1446765952,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "IV/Normal",
+              "termId": "haplotypeTags:1446765952",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121071",
+              "symbol": "G6PD Sao Borja",
+              "name": "Sao Borja",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562391,
+            "_label": "Seattle, Lodi, Modena, Ferrara II, Athens-like",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121101",
+              "symbol": "G6PD Seattle, Lodi, Modena, Ferrara II, Athens-like",
+              "name": "Seattle, Lodi, Modena, Ferrara II, Athens-like",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562392,
+            "_label": "Seoul",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121137",
+              "symbol": "G6PD Seoul",
+              "name": "Seoul",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562393,
+            "_label": "Serres",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121160",
+              "symbol": "G6PD Serres",
+              "name": "Serres",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562394,
+            "_label": "Shenzen",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121121",
+              "symbol": "G6PD Shenzen",
+              "name": "Shenzen",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562395,
+            "_label": "Shinshu",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121213",
+              "symbol": "G6PD Shinshu",
+              "name": "Shinshu",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562396,
+            "_label": "Sibari",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121098",
+              "symbol": "G6PD Sibari",
+              "name": "Sibari",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562397,
+            "_label": "Sinnai",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121091",
+              "symbol": "G6PD Sinnai",
+              "name": "Sinnai",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562398,
+            "_label": "Songklanagarind",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121109",
+              "symbol": "G6PD Songklanagarind",
+              "name": "Songklanagarind",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562399,
+            "_label": "Split",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121080",
+              "symbol": "G6PD Split",
+              "name": "Split",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562400,
+            "_label": "Stonybrook",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121224",
+              "symbol": "G6PD Stonybrook",
+              "name": "Stonybrook",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562401,
+            "_label": "Sugao",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121230",
+              "symbol": "G6PD Sugao",
+              "name": "Sugao",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562402,
+            "_label": "Sumare",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121192",
+              "symbol": "G6PD Sumare",
+              "name": "Sumare",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562403,
+            "_label": "Sunderland",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121158",
+              "symbol": "G6PD Sunderland",
+              "name": "Sunderland",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562404,
+            "_label": "Surabaya",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121145",
+              "symbol": "G6PD Surabaya",
+              "name": "Surabaya",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562405,
+            "_label": "Suwalki",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121186",
+              "symbol": "G6PD Suwalki",
+              "name": "Suwalki",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562406,
+            "_label": "Swansea",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121207",
+              "symbol": "G6PD Swansea",
+              "name": "Swansea",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562407,
+            "_label": "Taipei, Chinese-3",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121122",
+              "symbol": "G6PD Taipei, Chinese-3",
+              "name": "Taipei, Chinese-3",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562408,
+            "_label": "Telti/Kobe",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121193",
+              "symbol": "G6PD Telti/Kobe",
+              "name": "Telti/Kobe",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562409,
+            "_label": "Tenri",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121164",
+              "symbol": "G6PD Tenri",
+              "name": "Tenri",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562410,
+            "_label": "Toledo",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121123",
+              "symbol": "G6PD Toledo",
+              "name": "Toledo",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562411,
+            "_label": "Tomah",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121169",
+              "symbol": "G6PD Tomah",
+              "name": "Tomah",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562412,
+            "_label": "Tondela",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121161",
+              "symbol": "G6PD Tondela",
+              "name": "Tondela",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562413,
+            "_label": "Torun",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121157",
+              "symbol": "G6PD Torun",
+              "name": "Torun",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562414,
+            "_label": "Tsukui",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121215",
+              "symbol": "G6PD Tsukui",
+              "name": "Tsukui",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562415,
+            "_label": "Ube Konan",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121087",
+              "symbol": "G6PD Ube Konan",
+              "name": "Ube Konan",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562416,
+            "_label": "Union,Maewo, Chinese-2, Kalo",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121150",
+              "symbol": "G6PD Union,Maewo, Chinese-2, Kalo",
+              "name": "Union,Maewo, Chinese-2, Kalo",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562417,
+            "_label": "Urayasu",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121208",
+              "symbol": "G6PD Urayasu",
+              "name": "Urayasu",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562418,
+            "_label": "Utrecht",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121185",
+              "symbol": "G6PD Utrecht",
+              "name": "Utrecht",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562419,
+            "_label": "Valladolid",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121118",
+              "symbol": "G6PD Valladolid",
+              "name": "Valladolid",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562420,
+            "_label": "Vancouver",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121209",
+              "symbol": "G6PD Vancouver",
+              "name": "Vancouver",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562421,
+            "_label": "Vanua Lava",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121117",
+              "symbol": "G6PD Vanua Lava",
+              "name": "Vanua Lava",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562422,
+            "_label": "Viangchan, Jammu",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121136",
+              "symbol": "G6PD Viangchan, Jammu",
+              "name": "Viangchan, Jammu",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562423,
+            "_label": "Villeurbanne",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121156",
+              "symbol": "G6PD Villeurbanne",
+              "name": "Villeurbanne",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562424,
+            "_label": "Volendam",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121212",
+              "symbol": "G6PD Volendam",
+              "name": "Volendam",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562425,
+            "_label": "Wayne",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121225",
+              "symbol": "G6PD Wayne",
+              "name": "Wayne",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562426,
+            "_label": "West Virginia",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121234",
+              "symbol": "G6PD West Virginia",
+              "name": "West Virginia",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562427,
+            "_label": "Wexham",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121232",
+              "symbol": "G6PD Wexham",
+              "name": "Wexham",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562428,
+            "_label": "Wisconsin",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121178",
+              "symbol": "G6PD Wisconsin",
+              "name": "Wisconsin",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562429,
+            "_label": "Coimbra Shunde",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121128",
+              "symbol": "G6PD Coimbra Shunde",
+              "name": "Coimbra Shunde",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562430,
+            "_label": "Cosenza",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121152",
+              "symbol": "G6PD Cosenza",
+              "name": "Cosenza",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562431,
+            "_label": "Costanzo",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121107",
+              "symbol": "G6PD Costanzo",
+              "name": "Costanzo",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562432,
+            "_label": "Covao do Lobo",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121183",
+              "symbol": "G6PD Covao do Lobo",
+              "name": "Covao do Lobo",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562433,
+            "_label": "Crispim",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121113",
+              "symbol": "G6PD Crispim",
+              "name": "Crispim",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562434,
+            "_label": "Durham",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121223",
+              "symbol": "G6PD Durham",
+              "name": "Durham",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562435,
+            "_label": "Figuera da Foz",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121196",
+              "symbol": "G6PD Figuera da Foz",
+              "name": "Figuera da Foz",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562436,
+            "_label": "Flores",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121154",
+              "symbol": "G6PD Flores",
+              "name": "Flores",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562437,
+            "_label": "Fukaya",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121199",
+              "symbol": "G6PD Fukaya",
+              "name": "Fukaya",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562438,
+            "_label": "Fushan",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121140",
+              "symbol": "G6PD Fushan",
+              "name": "Fushan",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562439,
+            "_label": "A- 680T_376G",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165947828",
+              "symbol": "G6PD A- 680T_376G",
+              "name": "A- 680T_376G",
+              "version": 7
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562440,
+            "_label": "A- 968C_376G",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165947829",
+              "symbol": "G6PD A- 968C_376G",
+              "name": "A- 968C_376G",
+              "version": 7
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562441,
+            "_label": "Nice",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121076",
+              "symbol": "G6PD Nice",
+              "name": "Nice",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562442,
+            "_label": "Gaohe",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121105",
+              "symbol": "G6PD Gaohe",
+              "name": "Gaohe",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562443,
+            "_label": "Georgia",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121191",
+              "symbol": "G6PD Georgia",
+              "name": "Georgia",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562444,
+            "_label": "Absent",
+            "allele": "Absent",
+            "function": {
+              "id": 1445558334,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Absence",
+              "termId": "haplotypeTags:1445558334",
+              "version": 0
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562445,
+            "_label": "202G>A_376A>G_1264C>G",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121206",
+              "symbol": "G6PD 202G>A_376A>G_1264C>G",
+              "name": "202G>A_376A>G_1264C>G",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562446,
+            "_label": "A- 202A_376G",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165947827",
+              "symbol": "G6PD A- 202A_376G",
+              "name": "A- 202A_376G",
+              "version": 9
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562447,
+            "_label": "Aachen",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121163",
+              "symbol": "G6PD Aachen",
+              "name": "Aachen",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562448,
+            "_label": "Abeno",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121144",
+              "symbol": "G6PD Abeno",
+              "name": "Abeno",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562449,
+            "_label": "Acrokorinthos",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121114",
+              "symbol": "G6PD Acrokorinthos",
+              "name": "Acrokorinthos",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562450,
+            "_label": "Alhambra",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121180",
+              "symbol": "G6PD Alhambra",
+              "name": "Alhambra",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562451,
+            "_label": "Amazonia",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121108",
+              "symbol": "G6PD Amazonia",
+              "name": "Amazonia",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562452,
+            "_label": "Amiens",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121197",
+              "symbol": "G6PD Amiens",
+              "name": "Amiens",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562453,
+            "_label": "Amsterdam",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121205",
+              "symbol": "G6PD Amsterdam",
+              "name": "Amsterdam",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562454,
+            "_label": "Anadia",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121143",
+              "symbol": "G6PD Anadia",
+              "name": "Anadia",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562455,
+            "_label": "Ananindeua",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121116",
+              "symbol": "G6PD Ananindeua",
+              "name": "Ananindeua",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562456,
+            "_label": "Andalus",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121151",
+              "symbol": "G6PD Andalus",
+              "name": "Andalus",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562457,
+            "_label": "Arakawa",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121202",
+              "symbol": "G6PD Arakawa",
+              "name": "Arakawa",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562458,
+            "_label": "Asahi",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121085",
+              "symbol": "G6PD Asahi",
+              "name": "Asahi",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562459,
+            "_label": "Asahikawa",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121222",
+              "symbol": "G6PD Asahikawa",
+              "name": "Asahikawa",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562460,
+            "_label": "Aures",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121079",
+              "symbol": "G6PD Aures",
+              "name": "Aures",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562461,
+            "_label": "Aveiro",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121226",
+              "symbol": "G6PD Aveiro",
+              "name": "Aveiro",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562462,
+            "_label": "B (wildtype)",
+            "function": {
+              "id": 1446765952,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "IV/Normal",
+              "termId": "haplotypeTags:1446765952",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165947826",
+              "symbol": "G6PD B (wildtype)",
+              "name": "B (wildtype)",
+              "version": 8
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562463,
+            "_label": "Bajo Maumere",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121102",
+              "symbol": "G6PD Bajo Maumere",
+              "name": "Bajo Maumere",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562464,
+            "_label": "Bangkok",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121229",
+              "symbol": "G6PD Bangkok",
+              "name": "Bangkok",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562465,
+            "_label": "Bangkok Noi",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121198",
+              "symbol": "G6PD Bangkok Noi",
+              "name": "Bangkok Noi",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562466,
+            "_label": "Bao Loc",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121112",
+              "symbol": "G6PD Bao Loc",
+              "name": "Bao Loc",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562467,
+            "_label": "Bari",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121181",
+              "symbol": "G6PD Bari",
+              "name": "Bari",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562468,
+            "_label": "Belem",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121119",
+              "symbol": "G6PD Belem",
+              "name": "Belem",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562469,
+            "_label": "Beverly Hills, Genova, Iwate, Niigata, Yamaguchi",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121174",
+              "symbol": "G6PD Beverly Hills, Genova, Iwate, Niigata, Yamaguchi",
+              "name": "Beverly Hills, Genova, Iwate, Niigata, Yamaguchi",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562470,
+            "_label": "Brighton",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121203",
+              "symbol": "G6PD Brighton",
+              "name": "Brighton",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562471,
+            "_label": "Buenos Aires",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121201",
+              "symbol": "G6PD Buenos Aires",
+              "name": "Buenos Aires",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562472,
+            "_label": "Calvo Mackenna",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121166",
+              "symbol": "G6PD Calvo Mackenna",
+              "name": "Calvo Mackenna",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562473,
+            "_label": "Campinas",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121200",
+              "symbol": "G6PD Campinas",
+              "name": "Campinas",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562474,
+            "_label": "Canton, Taiwan-Hakka, Gifu-like, Agrigento-like",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121153",
+              "symbol": "G6PD Canton, Taiwan-Hakka, Gifu-like, Agrigento-like",
+              "name": "Canton, Taiwan-Hakka, Gifu-like, Agrigento-like",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562475,
+            "_label": "Cassano",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121148",
+              "symbol": "G6PD Cassano",
+              "name": "Cassano",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562476,
+            "_label": "Chatham",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121139",
+              "symbol": "G6PD Chatham",
+              "name": "Chatham",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562477,
+            "_label": "Chikugo",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121214",
+              "symbol": "G6PD Chikugo",
+              "name": "Chikugo",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562478,
+            "_label": "Chinese-1",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121133",
+              "symbol": "G6PD Chinese-1",
+              "name": "Chinese-1",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562479,
+            "_label": "Chinese-5",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121073",
+              "symbol": "G6PD Chinese-5",
+              "name": "Chinese-5",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562480,
+            "_label": "Cincinnati",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121219",
+              "symbol": "G6PD Cincinnati",
+              "name": "Cincinnati",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562481,
+            "_label": "Cleveland Corum",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121227",
+              "symbol": "G6PD Cleveland Corum",
+              "name": "Cleveland Corum",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562482,
+            "_label": "Clinic",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121184",
+              "symbol": "G6PD Clinic",
+              "name": "Clinic",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562483,
+            "_label": "Guadalajara",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121173",
+              "symbol": "G6PD Guadalajara",
+              "name": "Guadalajara",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562484,
+            "_label": "Guangzhou",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121089",
+              "symbol": "G6PD Guangzhou",
+              "name": "Guangzhou",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562485,
+            "_label": "Haikou",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121132",
+              "symbol": "G6PD Haikou",
+              "name": "Haikou",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562486,
+            "_label": "Hammersmith",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121090",
+              "symbol": "G6PD Hammersmith",
+              "name": "Hammersmith",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562487,
+            "_label": "Harilaou",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121220",
+              "symbol": "G6PD Harilaou",
+              "name": "Harilaou",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562488,
+            "_label": "Harima",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121195",
+              "symbol": "G6PD Harima",
+              "name": "Harima",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562489,
+            "_label": "Hartford",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121175",
+              "symbol": "G6PD Hartford",
+              "name": "Hartford",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562490,
+            "_label": "Hechi",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121110",
+              "symbol": "G6PD Hechi",
+              "name": "Hechi",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562491,
+            "_label": "Hermoupolis",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121149",
+              "symbol": "G6PD Hermoupolis",
+              "name": "Hermoupolis",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562492,
+            "_label": "Honiara",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121239",
+              "symbol": "G6PD Honiara",
+              "name": "Honiara",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562493,
+            "_label": "Ierapetra",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121142",
+              "symbol": "G6PD Ierapetra",
+              "name": "Ierapetra",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562494,
+            "_label": "Ilesha",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121095",
+              "symbol": "G6PD Ilesha",
+              "name": "Ilesha",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562495,
+            "_label": "Insuli",
+            "function": {
+              "id": 1446765952,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "IV/Normal",
+              "termId": "haplotypeTags:1446765952",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121072",
+              "symbol": "G6PD Insuli",
+              "name": "Insuli",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562496,
+            "_label": "Iowa, Walter Reed, Springfield",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121172",
+              "symbol": "G6PD Iowa, Walter Reed, Springfield",
+              "name": "Iowa, Walter Reed, Springfield",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562497,
+            "_label": "Iwatsuki",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121159",
+              "symbol": "G6PD Iwatsuki",
+              "name": "Iwatsuki",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562498,
+            "_label": "Japan, Shinagawa",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121188",
+              "symbol": "G6PD Japan, Shinagawa",
+              "name": "Japan, Shinagawa",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562499,
+            "_label": "Kaiping, Anant, Dhon, Sapporo-like, Wosera",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121155",
+              "symbol": "G6PD Kaiping, Anant, Dhon, Sapporo-like, Wosera",
+              "name": "Kaiping, Anant, Dhon, Sapporo-like, Wosera",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562500,
+            "_label": "Kalyan-Kerala, Jamnaga, Rohini",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121104",
+              "symbol": "G6PD Kalyan-Kerala, Jamnaga, Rohini",
+              "name": "Kalyan-Kerala, Jamnaga, Rohini",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562501,
+            "_label": "Kambos",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121081",
+              "symbol": "G6PD Kambos",
+              "name": "Kambos",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562502,
+            "_label": "Kamiube, Keelung",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121077",
+              "symbol": "G6PD Kamiube, Keelung",
+              "name": "Kamiube, Keelung",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562503,
+            "_label": "Kamogawa",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121106",
+              "symbol": "G6PD Kamogawa",
+              "name": "Kamogawa",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562504,
+            "_label": "Kawasaki",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121189",
+              "symbol": "G6PD Kawasaki",
+              "name": "Kawasaki",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562505,
+            "_label": "Kozukata",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121204",
+              "symbol": "G6PD Kozukata",
+              "name": "Kozukata",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562506,
+            "_label": "Krakow",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121177",
+              "symbol": "G6PD Krakow",
+              "name": "Krakow",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562507,
+            "_label": "La Jolla",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121231",
+              "symbol": "G6PD La Jolla",
+              "name": "La Jolla",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562508,
+            "_label": "Lages",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121094",
+              "symbol": "G6PD Lages",
+              "name": "Lages",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562509,
+            "_label": "Lagosanto",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121088",
+              "symbol": "G6PD Lagosanto",
+              "name": "Lagosanto",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562510,
+            "_label": "Lille",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121228",
+              "symbol": "G6PD Lille",
+              "name": "Lille",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562511,
+            "_label": "Liuzhou",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121120",
+              "symbol": "G6PD Liuzhou",
+              "name": "Liuzhou",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562512,
+            "_label": "Loma Linda",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121162",
+              "symbol": "G6PD Loma Linda",
+              "name": "Loma Linda",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562513,
+            "_label": "Ludhiana",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121138",
+              "symbol": "G6PD Ludhiana",
+              "name": "Ludhiana",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562514,
+            "_label": "Lynwood",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121170",
+              "symbol": "G6PD Lynwood",
+              "name": "Lynwood",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562515,
+            "_label": "Madrid",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121171",
+              "symbol": "G6PD Madrid",
+              "name": "Madrid",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562516,
+            "_label": "Mahidol",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121096",
+              "symbol": "G6PD Mahidol",
+              "name": "Mahidol",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562517,
+            "_label": "Malaga",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121097",
+              "symbol": "G6PD Malaga",
+              "name": "Malaga",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562518,
+            "_label": "Manhattan",
+            "function": {
+              "id": 1446765949,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "I/Deficient with CNSHA",
+              "termId": "haplotypeTags:1446765949",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121237",
+              "symbol": "G6PD Manhattan",
+              "name": "Manhattan",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562519,
+            "_label": "Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham",
+            "function": {
+              "id": 1446765950,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "II/Deficient",
+              "termId": "haplotypeTags:1446765950",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121127",
+              "symbol": "G6PD Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham",
+              "name": "Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1449562520,
+            "_label": "Metaponto",
+            "function": {
+              "id": 1446765951,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "III/Deficient",
+              "termId": "haplotypeTags:1446765951",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121083",
+              "symbol": "G6PD Metaponto",
+              "name": "Metaponto",
+              "version": 2
+            },
+            "version": 0
+          },
+          {
+            "id": 1450042028,
+            "_label": "A",
+            "function": {
+              "id": 1446765952,
+              "description": "WHO classification used for G6PD alleles for grouping in the guidelines",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "IV/Normal",
+              "termId": "haplotypeTags:1446765952",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166121247",
+              "symbol": "G6PD A",
+              "name": "A",
+              "version": 2
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA28469",
+          "symbol": "G6PD",
+          "name": "glucose-6-phosphate dehydrogenase",
+          "alleleFile": "G6PD_allele_definition_table.xlsx",
+          "altNames": {
+            "symbol": [
+              "G6PD1"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "q28",
+          "cbStop": "q28",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA542",
+            "name": "chrX",
+            "version": 3
+          },
+          "chrStartPosB37": 153759606,
+          "chrStartPosB38": 154531390,
+          "chrStopPosB37": 153775796,
+          "chrStopPosB38": 154547586,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553243020,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "2539",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=2539",
+              "version": 0
+            },
+            {
+              "id": 132258514,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000160211",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000160211",
+              "version": 0
+            },
+            {
+              "id": 74881,
+              "resource": "GenAtlas",
+              "resourceId": "G6PD",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=G6PD",
+              "version": 1
+            },
+            {
+              "id": 89809,
+              "resource": "GeneCard",
+              "resourceId": "G6PD",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=G6PD",
+              "version": 1
+            },
+            {
+              "id": 608160585,
+              "resource": "HGNC",
+              "resourceId": "HGNC:4057",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A4057",
+              "version": 1
+            },
+            {
+              "id": 608160587,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS08467",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS08467",
+              "version": 0
+            },
+            {
+              "id": 457419,
+              "resource": "MutDB",
+              "resourceId": "G6PD",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=G6PD",
+              "version": 1
+            },
+            {
+              "id": 12477,
+              "resource": "NCBI Gene",
+              "resourceId": "2539",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/2539",
+              "version": 1
+            },
+            {
+              "id": 3219,
+              "resource": "OMIM",
+              "resourceId": "305900",
+              "_url": "https://omim.org/entry/305900",
+              "version": 1
+            },
+            {
+              "id": 560543351,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_009015",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_009015",
+              "version": 0
+            },
+            {
+              "id": 608155622,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_167198",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_167198",
+              "version": 0
+            },
+            {
+              "id": 37568,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000393",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000393",
+              "version": 1
+            },
+            {
+              "id": 130203138,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_001035810",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_001035810",
+              "version": 0
+            },
+            {
+              "id": 46643,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000402",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000402",
+              "version": 1
+            },
+            {
+              "id": 130203137,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_001042351",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001042351",
+              "version": 0
+            },
+            {
+              "id": 121960,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000402",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000402",
+              "version": 1
+            },
+            {
+              "id": 123253735,
+              "name": "G6PD_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P11413",
+              "_url": "https://www.uniprot.org/uniprot/P11413",
+              "version": 2
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": false,
+          "pharmVarGene": false,
+          "strand": "minus",
+          "terms": [
+            {"id":560496545,"_url":"http://amigo.geneontology.org/amigo/term/GO:0001816","resource":"Gene Ontology","term":"cytokine production","termId":"GO:0001816"},
+            {"id":560498718,"_url":"http://amigo.geneontology.org/amigo/term/GO:0004345","resource":"Gene Ontology","term":"glucose-6-phosphate dehydrogenase activity","termId":"GO:0004345"},
+            {"id":560495048,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005488","resource":"Gene Ontology","term":"binding","termId":"GO:0005488"},
+            {"id":560499874,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005536","resource":"Gene Ontology","term":"glucose binding","termId":"GO:0005536"},
+            {"id":560500078,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005737","resource":"Gene Ontology","term":"cytoplasm","termId":"GO:0005737"},
+            {"id":560500164,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005813","resource":"Gene Ontology","term":"centrosome","termId":"GO:0005813"},
+            {"id":560500177,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005829","resource":"Gene Ontology","term":"cytosol","termId":"GO:0005829"},
+            {"id":560495412,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005975","resource":"Gene Ontology","term":"carbohydrate metabolic process","termId":"GO:0005975"},
+            {"id":560500369,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006006","resource":"Gene Ontology","term":"glucose metabolic process","termId":"GO:0006006"},
+            {"id":560500375,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006010","resource":"Gene Ontology","term":"glucose 6-phosphate utilization","termId":"GO:0006010"},
+            {"id":560500508,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006098","resource":"Gene Ontology","term":"pentose-phosphate shunt","termId":"GO:0006098"},
+            {"id":560501203,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006629","resource":"Gene Ontology","term":"lipid metabolic process","termId":"GO:0006629"},
+            {"id":560501295,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006695","resource":"Gene Ontology","term":"cholesterol biosynthetic process","termId":"GO:0006695"},
+            {"id":560500509,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006740","resource":"Gene Ontology","term":"NADPH regeneration","termId":"GO:0006740"},
+            {"id":560501381,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006749","resource":"Gene Ontology","term":"glutathione metabolic process","termId":"GO:0006749"},
+            {"id":560503410,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009051","resource":"Gene Ontology","term":"pentose-phosphate shunt, oxidative branch","termId":"GO:0009051"},
+            {"id":560504249,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009898","resource":"Gene Ontology","term":"internal side of plasma membrane","termId":"GO:0009898"},
+            {"id":560505224,"_url":"http://amigo.geneontology.org/amigo/term/GO:0010734","resource":"Gene Ontology","term":"negative regulation of protein amino acid glutathionylation","termId":"GO:0010734"},
+            {"id":560495264,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016491","resource":"Gene Ontology","term":"oxidoreductase activity","termId":"GO:0016491"},
+            {"id":560500358,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019322","resource":"Gene Ontology","term":"pentose biosynthetic process","termId":"GO:0019322"},
+            {"id":560514452,"_url":"http://amigo.geneontology.org/amigo/term/GO:0034599","resource":"Gene Ontology","term":"cellular response to oxidative stress","termId":"GO:0034599"},
+            {"id":560513251,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042803","resource":"Gene Ontology","term":"protein homodimerization activity","termId":"GO:0042803"},
+            {"id":560499979,"_url":"http://amigo.geneontology.org/amigo/term/GO:0043231","resource":"Gene Ontology","term":"intracellular membrane-bounded organelle","termId":"GO:0043231"},
+            {"id":560516078,"_url":"http://amigo.geneontology.org/amigo/term/GO:0043249","resource":"Gene Ontology","term":"erythrocyte maturation","termId":"GO:0043249"},
+            {"id":560500383,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046390","resource":"Gene Ontology","term":"ribose phosphate biosynthetic process","termId":"GO:0046390"},
+            {"id":560520674,"_url":"http://amigo.geneontology.org/amigo/term/GO:0050661","resource":"Gene Ontology","term":"NADP or NADPH binding","termId":"GO:0050661"},
+            {"id":560500376,"_url":"http://amigo.geneontology.org/amigo/term/GO:0051156","resource":"Gene Ontology","term":"glucose 6-phosphate metabolic process","termId":"GO:0051156"},
+            {"id":560509993,"_url":"http://amigo.geneontology.org/amigo/term/GO:0055114","resource":"Gene Ontology","term":"oxidation reduction","termId":"GO:0055114"}
+          ],
+          "version": 135
+        },
+        "version": 1
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1184175211,
+        "date": "2014-05-04T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1184233830,
+        "date": "2014-05-09T00:00:00-07:00",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450042027,
+        "date": "2018-11-13T15:55:54.755-08:00",
+        "description": "Added text regarding September 2018 update to the guideline and added the G6PD A allele to the extended dosing guideline",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450043031,
+        "date": "2018-11-20T09:54:16.026-08:00",
+        "description": "Added link to guideline video",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451446500,
+        "date": "2021-05-19T13:17:14.874-07:00",
+        "description": "added pediatric tag",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451886060,
+        "date": "2022-09-19T09:16:35.548-07:00",
+        "description": "Removed link to old video",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15074661,"title":"Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for rasburicase therapy in the context of G6PD deficiency genotype.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4111801","crossReferences":[{"id":1449280689,"resource":"PubMed Central","resourceId":"PMC4111801","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4111801"},{"id":1449280688,"resource":"PubMed","resourceId":"24787449","_url":"https://www.ncbi.nlm.nih.gov/pubmed/24787449"},{"id":1449280690,"resource":"DOI","resourceId":"10.1038/clpt.2014.97","_url":"http://dx.doi.org/10.1038%2Fclpt.2014.97"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15100917,"title":"CPIC® Guideline for Rasburicase and G6PD – CPIC","_sameAs":"https://cpicpgx.org/guidelines/guideline-for-rasburicase-and-g6pd/","crossReferences":[{"id":1447983506,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-rasburicase-and-g6pd/","_url":"https://cpicpgx.org/guidelines/guideline-for-rasburicase-and-g6pd/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA10176",
+        "name": "rasburicase",
+        "version": 5
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA28469",
+        "symbol": "G6PD",
+        "name": "glucose-6-phosphate dehydrogenase",
+        "version": 135
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1447982051,
+      "html": "<p>Rasburicase is contraindicated in G6PD deficient patients with or without chronic non-spherocytic hemolytic anemia (CNSHA). In patients with a negative or inconclusive genetic test result an enzyme activity test is recommended prior to rasburicase treatment to determine whether a patient is G6PD deficient. The <em>G6PD</em> gene is X-linked and therefore males only have one copy, whereas females have two copies. See full guideline for disclaimers, further details and supporting evidence.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433652,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-rasburicase-and-g6pd/\" target=\"_blank\">CPIC&reg; guideline for rasburicase and G6PD</a>.</p>\n<h3 id=\"september-2018-update\">September 2018 Update</h3>\n<p>The CPIC authors recommend that the <em>G6PD A</em> variant be categorized as IV/normal function (previously II-IV/Deficient-Normal function) based on new evidence supporting function [Article:<a href=\"/pmid/27040960\">27040960</a>] and [Article:<a href=\"/pmid/30206300\">30206300</a>]. This change has been incorporated into the <a href=\"https://api.pharmgkb.org/v1/download/file/attachment/G6PD_allele_definition_table.xlsx\">G6PD allele definition table</a>.</p>\n<h3 id=\"august-2014\">August 2014</h3>\n<p><em>Accepted article preview online May 2014, advance online publication 11 June 2014</em></p>\n<ul>\n<li>Guidelines regarding the use of pharmacogenomic tests in determining whether rasburicase treatment should be undertaken have been published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">(CPIC)</a>.</li>\n<li>Excerpt from the 2014 rasburicase guideline:\n<ul>\n<li>&quot;As stated above, rasburicase is contraindicated by the FDA, the EMA, and PMDA in those with G6PD deficiency (32-34) (see Table 2). If, on the basis of genotyping, a deficient status can be unambiguously assigned to a patient, that would be a sufficient contraindication to the use of rasburicase. However, due to the limitations of genetic testing (discussed above), in most cases it is necessary to perform G6PD enzyme testing to assign G6PD status.&quot;</li>\n</ul>\n</li>\n<li>These guidelines are applicable to\n<ul>\n<li>neonates</li>\n<li>pediatrics</li>\n<li>adults</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/rasburicase/2014/24787449.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC) Guidelines for Rasburicase Therapy in the context of G6PD Deficiency Genotype.</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/rasburicase/2014/24787449-supplement.pdf\" target=\"_blank\">2014 supplement</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-recommended-dosing-of-rasburicase-by-g6pd-phenotype\">Table 1: Recommended dosing of rasburicase by G6PD phenotype</h3>\n<p><em>Adapted from Table 1 and Table 2 of the 2014 guideline manuscript.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype (Genotype) <sup>a</sup></th>\n<th>Examples of diplotypes <sup>b</sup></th>\n<th>Implications for phenotypic measures</th>\n<th>Dosing recommendations for rasburicase</th>\n<th>Classification of recommendations <sup>c</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Normal <sup>d</sup>. A male carrying a non-deficient (class IV) allele or a female carrying two non-deficient (class IV) alleles.</td>\n<td>Male: B, Sao Boria. Female: B/B, B/ Sao Boria.</td>\n<td>Low or reduced risk of hemolytic anemia.</td>\n<td>No reason to withhold rasburicase based on G6PD status <sup>d</sup>.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Deficient or Deficient with CNSHA. A male carrying a class I, II or III allele, a female carrying two deficient class I-III alleles.</td>\n<td>Male: A-, Orissa, Kalyan-Kerala, Mediterranean, Canton, Chatham, Bangkok, Villeurbanne. Female: A-/A-, A-/ Orissa, Orissa/ Kalyan-Kerala, Mediterranean/ Mediterranean, Chatham/Mediterranean, Canton/ Viangchan, Bangkok/ Bangkok, Bangkok/ Villeurbanne.</td>\n<td>At risk of acute hemolytic anemia.</td>\n<td>Rasburicase is contraindicated; alternatives include allopurinol <sup>e</sup>.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>Variable <sup>d,f</sup>. A female carrying one non-deficient (class IV) and one deficient (class I-III variants) allele.</td>\n<td>B/A-, B/Mediterranean, B/Bangkok.</td>\n<td>Unknown risk of hemolytic anemia.</td>\n<td>To ascertain that G6PD status is normal, enzyme activity must be measured; alternatives include allopurinol <sup>e</sup>.</td>\n<td>Moderate</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> &quot;Class&quot; refers to the WHO classifications from [Article:<a href=\"/pmid/22293322\">22293322</a>], other details from [Article:<a href=\"/pmid/4963040\">4963040</a>]. Class I variants are extremely rare; the distinction between class II and III variants is not clear; and the &quot;class V&quot; very high activity variant has only been reported in a single case [Article:<a href=\"/pmid/4963040\">4963040</a>]. Therefore, almost all patients will carry class II, III, or IV alleles. It should be noted that the class of a variant may have been assigned only by the clinical manifestations of a patient in which the variant was subsequently identified.</p>\n<p>(*) Luzzatto, L. &amp; Poggi, V. Glucose-6-Phosphate Dehydrogenase Deficiency In: Nathan and Oski's Hematology of Infancy and Childhood, 7th Edition  (ed. Meloni, D., Anderson, A. Authors of the book: Orkin, S.H., Fisher, D.E., Look, A.T., Lux IV, S.E., Ginsburg, D., Nathan, D.G. ) (Saunders, Elsevier., 2009).</p>\n<p><sup>b</sup> Due to the large number of G6PD variants, many other diplotypes may be possible besides those given as examples here; see Supplemental Table S1 for a more comprehensive list of variant alleles with their assigned WHO class.</p>\n<p><sup>c</sup> Rating scheme described in Supplement (See Strength of Recommendations material).</p>\n<p><sup>d</sup> A negative or inconclusive genetic test cannot be assumed to indicate normal G6PD phenotype; an enzyme activity test is needed to assign G6PD phenotype in such cases.</p>\n<p><sup>e</sup> Allopurinol is associated with severe cutaneous reactions in the rare carriers of the HLA-B*58:01 allele [Article:<a href=\"/pmid/23232549\">23232549</a>].</p>\n<p><sup>f</sup> Due to X-linked mosaicism, females heterozygous for one non-deficient (class IV) and one deficient (class I-III variants) allele may display a normal or a deficient phenotype. It is therefore difficult to predict the phenotype of these individuals (Supplement, G6PD heterozygotes).</p>\n<h3 id=\"figure-1-workflow-for-interpreting-g6pd-genotype-and-for-assessing-need-for-an-enzyme-activity-test\">Figure 1: Workflow for interpreting G6PD genotype and for assessing need for an enzyme activity test.</h3>\n<p><em>Figure 1 from the guideline manuscript.</em></p>\n<p><img src=\"https://s3.pgkb.org/attachment/CPIC_G6PD_rasburicase_guideline_Figure_1.png\" alt=\"CPIC G6PD rasburicase guideline\" /></p>\n<p>*It should be noted that the class of a variant may have been assigned only by the clinical manifestations of a patient in which the variant was subsequently identified [Article:<a href=\"/pmid/22293322\">22293322</a>].</p>\n",
+      "version": 0
+    },
+    "userId": "whaleyr",
+    "version": 42
+  }
+}

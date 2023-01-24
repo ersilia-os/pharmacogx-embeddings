@@ -1,0 +1,126 @@
+{
+  "citations": [
+    {
+      "id": 15109202,
+      "title": "Pharmacogenetics of anti-cancer drugs: State of the art and implementation - recommendations of the French National Network of Pharmacogenetics.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/28262261",
+      "authors": [
+        "Quaranta Sylvie",
+        "Thomas Fabienne"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451127600,
+          "resource": "PubMed",
+          "resourceId": "28262261",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/28262261",
+          "version": 0
+        },
+        {
+          "id": 1451127601,
+          "resource": "DOI",
+          "resourceId": "10.1016/j.therap.2017.01.005",
+          "_url": "http://dx.doi.org/10.1016%2Fj.therap.2017.01.005",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapie",
+      "meshDiseases": [],
+      "meshTerms": [
+        "Antineoplastic Agents",
+        "Dihydrouracil Dehydrogenase (NADP)",
+        "Genotyping Techniques",
+        "Glucuronosyltransferase",
+        "Humans",
+        "Methyltransferases",
+        "Pharmacogenetics",
+        "Pharmacogenomic Testing",
+        "Polymorphism, Genetic"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "205-215",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2017-04-01T00:00:00-07:00",
+      "summary": "Individualized treatment is of special importance in oncology because the drugs used for chemotherapy have a very narrow therapeutic index. Pharmacogenetics may contribute substantially to clinical routine for optimizing cancer treatment to limit toxic effects while maintaining efficacy. This review presents the usefulness of pharmacogenetic tests for some key applications: dihydropyrimidine dehydrogenase (DPYD) genotyping for fluoropyrimidine (5-fluorouracil, capecitabine), UDP glucuronosylstransferase (UGT1A1) for irinotecan and thiopurine S-methyltransferase (TPMT) for thiopurine drugs. Depending on the level of evidence, the French National Network of Pharmacogenetics (RNPGx) has issued three levels of recommendations for these pharmacogenetic tests: essential, advisable, and potentially useful. Other applications, for which the level of evidence is still discussed, will be evoked in the final section of this review.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2017
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166202761",
+    "name": "Annotation of RNPGx Guideline for mercaptopurine and TPMT",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1451136661,
+        "date": "2020-05-13T00:00:00-07:00",
+        "description": "Approving to live",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451678108,
+        "date": "2022-02-10T13:50:43.302-08:00",
+        "description": "Added RNPGx as source",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741833,
+        "date": "2022-04-05T14:09:45.109-07:00",
+        "description": "Added testing guidance tag and link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15109202,"title":"Pharmacogenetics of anti-cancer drugs: State of the art and implementation - recommendations of the French National Network of Pharmacogenetics.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/28262261","crossReferences":[{"id":1451127600,"resource":"PubMed","resourceId":"28262261","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28262261"},{"id":1451127601,"resource":"DOI","resourceId":"10.1016/j.therap.2017.01.005","_url":"http://dx.doi.org/10.1016%2Fj.therap.2017.01.005"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA450379",
+        "name": "mercaptopurine",
+        "version": 29
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA356",
+        "symbol": "TPMT",
+        "name": "thiopurine S-methyltransferase",
+        "version": 7544
+      }
+    ],
+    "source": "RNPGx",
+    "summaryMarkdown": {
+      "id": 1451129420,
+      "html": "<p>The French National Network of Pharmacogenetics (Réseau national de pharmacogénétique (RNPGx)) recommends testing for TPMT.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451129421,
+      "html": "<p>The French National Network of Pharmacogenetics (RNPGx) publication about the state of the art and clinical implementation — recommendations from the French National Network of Pharmacogenetics for anti-cancer drugs states:</p>\n<blockquote class=\"blockquote\">\n<p>According to the level of evidence classification of\nthe RNPGx recommendations for pharmacogenetic testing\n(essential, advisable, potentially useful), the level of evidence for TPMT genotyping and/or phenotyping in oncology\nis essential.</p>\n</blockquote>\n<p><a href=\"/page/testingGuidance\">Read more about the RNPGx levels of recommendation for testing</a>.</p>\n",
+      "version": 1
+    },
+    "userId": "cfthorn",
+    "version": 2
+  }
+}

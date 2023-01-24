@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+methotrexate	methotrexate	Transport	SLC22A6,SLC22A8	Catalysis	glomerular endothelial cell	20460822	"SLC22A6","SLC22A8"	methotrexate	
+methotrexate	methotrexate	Transport	SLC19A1,SLCO1B1,SLCO1B3	Catalysis	hepatocyte	19538530,19901119,20448812	"SLCO1B1","SLCO1B3","SLC19A1"	methotrexate	
+methotrexate	methotrexate	Transport	ABCC1,ABCC3	Catalysis	enterocyte	10363967,11585759	"ABCC3","ABCC1"	methotrexate	
+methotrexate	methotrexate	Transport	ABCB1,ABCC2	Catalysis	hepatocyte	10363967,20233511,8598312	"ABCB1","ABCC2"	methotrexate	
+methotrexate	methotrexate	Transport	FOLR1,SLC19A1,SLC46A1,SLCO1A2	Catalysis	enterocyte	16702441,19093297,19403800,19538530	"SLC46A1","SLCO1A2","FOLR1","SLC19A1"	methotrexate	
+methotrexate	methotrexate	Transport	ABCC2,SLC22A6,ABCG2	Catalysis	glomerular endothelial cell	10363967,12036927,12208758,12874005	"SLC22A6","ABCC2","ABCG2"	methotrexate	
+methotrexate	methotrexate	Transport	ABCB1,ABCC2,ABCG2	Catalysis	enterocyte	10363967,12208758,12874005,20233511,8598312	"ABCB1","ABCC2","ABCG2"	methotrexate	
+methotrexate	methotrexate	Transport	ABCC3,ABCC3	Catalysis	hepatocyte	11585759,12036927	ABCC3	methotrexate	

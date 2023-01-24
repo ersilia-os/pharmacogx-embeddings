@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+febuxostat	febuxostat 67M-1	Biochemical Reaction			hepatocyte	27798228		febuxostat		Biochemical reaction from febuxostat to febuxostat 67M-1.
+febuxostat	febuxostat 67M-2	Biochemical Reaction			hepatocyte	27798228		febuxostat		Biochemical reaction from febuxostat to febuxostat 67M-2.
+febuxostat 67M-1	febuxostat 67M-4	Biochemical Reaction			hepatocyte	27798228				Biochemical reaction from febuxostat 67M-1 to febuxostat 67M-4.
+febuxostat	ABCG2	Inhibition			hepatocyte	33025461, 28082903	ABCG2	febuxostat		febuxostat inhibits ABCG2.

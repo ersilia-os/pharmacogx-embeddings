@@ -1,0 +1,20 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+AKT1	AKT1	Biochemical Reaction		Activation	myeloid cell		AKT1		
+ATM	ATM	Biochemical Reaction		Activation	myeloid cell	12576328	ATM		
+ATR	ATR	Biochemical Reaction		Activation	myeloid cell	12576328	ATR		
+BAD	BAD	Biochemical Reaction	AKT1	Inhibition	myeloid cell		"BAD","AKT1"		
+calichDHM	calich-g1	Biochemical Reaction	glutathione	Catalysis	myeloid cell	15592433		glutathione	
+CASP3	CASP3	Biochemical Reaction	CASP9,CCNB1	Activation	myeloid cell	12576328,14647446,15592433	"CASP9","CCNB1","CASP3"		
+CASP9	CASP9	Biochemical Reaction	CYCS	Activation	myeloid cell	14647446,15592433	"CASP9","CYCS"		
+CCNB1	CCNB1	Biochemical Reaction	CHEK1,CHEK2	Activation	myeloid cell		"CCNB1","CHEK2","CHEK1"		
+CHEK1,CHEK2	CHEK1,CHEK2	Biochemical Reaction	ATM,ATR	Activation	myeloid cell	12576328,15592433	"CHEK2","CHEK1","ATM","ATR"		
+CYCS	CYCS	Biochemical Reaction		Activation	myeloid cell	12576328,14647446,15592433	CYCS		
+GADD45A	GADD45A	Biochemical Reaction		Activation	myeloid cell		GADD45A		
+gemtuzumab ozogamicin	gemtuzumab ozogamicin	Biochemical Reaction	gemtuzumab ozogamicin	Activation	myeloid cell	17008544,17947393		gemtuzumab ozogamicin	
+H2AFX	H2AFX	Biochemical Reaction	PRKDC	Activation	myeloid cell	15592433	"PRKDC","H2AFX"		
+PARP1	PARP1	Biochemical Reaction		Activation	myeloid cell		PARP1		
+PRKDC	PRKDC	Biochemical Reaction		Activation	myeloid cell		PRKDC		
+XRCC4	XRCC4	Biochemical Reaction	H2AFX	Activation	myeloid cell		"XRCC4","H2AFX"		
+gemtuzumab ozogamicin	CD33	Complex Assembly			myeloid cell		CD33	gemtuzumab ozogamicin	
+gemtuzumab ozogamicin	calichDHM	Degradation			myeloid cell	15592433,17008544		gemtuzumab ozogamicin	
+calichDHM	calichDHM	Transport	ABCB1,ABCC1,ABCC2	Catalysis	myeloid cell	12689934,15592433	"ABCC1","ABCB1","ABCC2"		

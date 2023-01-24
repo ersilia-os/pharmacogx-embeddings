@@ -1,0 +1,88 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166184529",
+    "name": "Annotation of DPWG Guideline for doxepin and CYP2C19",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1450820797,
+        "date": "2019-10-06T23:33:44.655-07:00",
+        "description": "August 2019 Guidelines",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450962840,
+        "date": "2020-02-10T11:21:04.576-08:00",
+        "description": "Fixed links to 2019 guideline pdfs.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451704250,
+        "date": "2022-03-03T16:33:34.798-08:00",
+        "description": "Annotation current with May 2021 DPWG Guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451732890,
+        "date": "2022-03-28T09:57:48.936-07:00",
+        "description": "Annotation current with February 2022 DPWG guideline release",
+        "type": "Note",
+        "version": 0
+      },
+      {
+        "id": 1451884226,
+        "date": "2022-09-16T10:06:33.588-07:00",
+        "description": "Fixed link to gene information document and added explanatory note",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15103288,"title":"Dutch Pharmacogenetics Working Group Guidelines August 2019","_sameAs":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf","crossReferences":[{"id":1450815695,"resource":"URL","resourceId":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf","_url":"https://api.pharmgkb.org/v1/preview/download/file/attachment/DPWG_August_2019.pdf"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": false,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA449409",
+        "name": "doxepin",
+        "version": 7
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA124",
+        "symbol": "CYP2C19",
+        "name": "cytochrome P450 family 2 subfamily C member 19",
+        "version": 7209
+      }
+    ],
+    "source": "DPWG",
+    "summaryMarkdown": {
+      "id": 1450820794,
+      "html": "<p>There are currently no dosing recommendations for doxepin based on CYP2C19 genotype.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1450820795,
+      "html": "<h3 id=\"august-2019-guideline\">August 2019 Guideline</h3>\n<p><em><strong>IMPORTANT: As of March 2022, gene information documents from the DPWG are no longer publicly available from the KNMP website. PharmGKB is currently providing PDF versions of these documents to users. These files were downloaded in February 2022. As such, we cannot guarantee that these documents match the mappings DPWG may use internally as there have been no publicly accessible updates since February 2022.</strong></em></p>\n<p>The Royal Dutch Pharmacists Association - Pharmacogenetics Working Group has evaluated therapeutic dose recommendations for doxepin based on CYP2C19 metabolizer (UM, IM, PM). They conclude that NO action is required for this gene-drug interaction, (see the <a download=\"DPWG_August_2019.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/DPWG_August_2019.pdf\">Dutch guidelines August 2019 update</a>).</p>\n<p>For CYP2C19 UM, IM and PM, the gene variations have an effect on the exposure to doxepin, but not on the exposure to doxepin + the active metabolite nordoxepin, which determines the effect and side effects.</p>\n<p><a rel=\"noopener noreferrer\" href=\"https://www.g-standaard.nl/risicoanalyse/B0007023.PDF\" target=\"_blank\">Read for more information about this recommendation</a>, <a download=\"CYP2C19.pdf\" href=\"https://api.pharmgkb.org/v1/download/file/attachment/CYP2C19.pdf\">Read about gene information from DPWG</a></p>\n",
+      "version": 2
+    },
+    "userId": "katrin",
+    "version": 4
+  }
+}

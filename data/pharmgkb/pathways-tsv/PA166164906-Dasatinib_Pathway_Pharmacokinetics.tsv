@@ -1,0 +1,12 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+dasatinib	dasatinib beta-d-glucuronide	Biochemical Reaction	UGT1A1, UGT1A9, UGT2B15	Gene	hepatocyte	21235620, 18420784		dasatinib		Biochemical reaction from dasatinib to dasatinib beta-d-glucuronide. This interaction can be catalyzed by UGT1A1, UGT1A9 or UGT2B15.
+dasatinib	dasatinib carboxylic acid	Biochemical Reaction			hepatocyte	21827214, 18556438, 18420784		dasatinib		Biochemical reaction from dasatinib to dasatinib carboxylic acid.
+dasatinib	dasatinib n-oxide	Biochemical Reaction	CYP1A2, CYP1B1, CYP2C9, CYP3A4, FMO3	Gene	hepatocyte	21827214, 18556438, 18420784		dasatinib		Biochemical reaction from dasatinib to dasatinib n-oxide. This interaction can be catalyzed by CYP2C9, FMO3, CYP3A4, CYP1A2 or CYP1B1.
+dasatinib	dasatinib M4	Biochemical Reaction	CYP1A1, CYP1B1, CYP3A4	Gene	hepatocyte	21827214, 18556438, 18420784		dasatinib		Biochemical reaction from dasatinib to dasatinib M4. This interaction can be catalyzed by CYP1A1, CYP1B1 or CYP3A4.
+dasatinib	dasatinib M20	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	21827214, 18556438, 18420784		dasatinib		Biochemical reaction from dasatinib to dasatinib M20. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+acetaminophen	acetaminophen glucuronide	Biochemical Reaction	UGT1A1, UGT1A9, UGT2B15	Gene	hepatocyte	21235620		acetaminophen		Biochemical reaction from acetaminophen to acetaminophen glucuronide. This interaction can be catalyzed by UGT1A9, UGT1A1 or UGT2B15.
+dasatinib	hydroxymethyl dasatinib	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	21827214, 18556438, 18420784		dasatinib		Biochemical reaction from dasatinib to hydroxymethyl dasatinib. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+dasatinib	UGT1A1	Inhibition			hepatocyte	21235620	UGT1A1	dasatinib		dasatinib inhibits UGT1A1.
+dasatinib	UGT2B15	Inhibition			hepatocyte	21235620	UGT2B15	dasatinib		dasatinib inhibits UGT2B15.
+dasatinib	UGT1A9	Inhibition			hepatocyte	21235620	UGT1A9	dasatinib		dasatinib inhibits UGT1A9.
+dasatinib	dasatinib	Transport	ABCB1, ABCG2	Gene	hepatocyte, null	19785662, 17429625		dasatinib		Transport from dasatinib to dasatinib. This interaction can be catalyzed by ABCB1 or ABCG2.

@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+ticagrelor	AR-C133913XX	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	21177984		ticagrelor		Biochemical reaction from ticagrelor to AR-C133913XX. This interaction can be catalyzed by CYP3A4 or CYP3A5.
+ticagrelor	ticagrelor O-glucuronide	Biochemical Reaction	UGT1A9	Gene	hepatocyte	34721047		ticagrelor		Biochemical reaction from ticagrelor to ticagrelor O-glucuronide. This interaction is catalyzed by UGT1A9.
+ticagrelor	AR-C124910XX	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	25935875, 22568693, 21177984		ticagrelor		Biochemical reaction from ticagrelor to AR-C124910XX. This interaction can be catalyzed by CYP3A5 or CYP3A4.
+ticagrelor	ticagrelor	Transport	ABCB1	Gene	hepatocyte, null	34729703		ticagrelor		Transport from ticagrelor to ticagrelor. This interaction is catalyzed by ABCB1.
+ticagrelor	ticagrelor	Transport	SLCO1B1	Gene	null, hepatocyte	34729703, 25935875		ticagrelor		Transport from ticagrelor to ticagrelor. This interaction is catalyzed by SLCO1B1.

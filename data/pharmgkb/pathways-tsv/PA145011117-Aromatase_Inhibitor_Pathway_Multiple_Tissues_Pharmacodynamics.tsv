@@ -1,0 +1,37 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+androstenedione	estrone	Biochemical Reaction	CYP19A1	Catalysis	mammary epithelial cell	12700178,19250199	CYP19A1		
+androstenedione	estrone	Biochemical Reaction	CYP19A1	Catalysis	cell		CYP19A1		
+androstenedione	testosterone	Biochemical Reaction	HSD17B1	Catalysis		12700178	HSD17B1		
+CYP19A1	CYP19A1	Biochemical Reaction	Enzyme inhibitors	Control	cell	11821457,15939586,9748124	CYP19A1	Enzyme inhibitors	
+CYP19A1	CYP19A1	Biochemical Reaction	Enzyme inhibitors	Control	cell	11821457,15939586,9748124	CYP19A1	Enzyme inhibitors	
+CYP19A1	CYP19A1	Biochemical Reaction	Enzyme inhibitors	Control	mammary epithelial cell	11821457,15939586,9748124	CYP19A1	Enzyme inhibitors	
+CYP19A1	CYP19A1	Biochemical Reaction	Enzyme inhibitors	Control	mammary epithelial cell	11821457,15939586,9748124	CYP19A1	Enzyme inhibitors	
+estradiol sulfate	estradiol	Biochemical Reaction	STS	Catalysis	hepatocyte	14623544	STS		
+estradiol	estradiol sulfate	Biochemical Reaction	SULT1A1,SULT1E1	Catalysis	hepatocyte	10963623,12922923,15860265	"SULT1A1","SULT1E1"		
+estradiol	estrone	Biochemical Reaction			cell				
+estradiol	estrone	Biochemical Reaction			mammary epithelial cell				
+estradiol	estrone	Biochemical Reaction			hepatocyte				
+estrone sulfate	estrone	Biochemical Reaction	STS	Catalysis	mammary epithelial cell	14623544	STS		
+estrone sulfate	estrone	Biochemical Reaction	STS	Catalysis	hepatocyte	14623544	STS		
+estrone	estradiol	Biochemical Reaction	HSD17B1	Catalysis	cell		HSD17B1		
+estrone	estradiol	Biochemical Reaction	HSD17B1	Catalysis	hepatocyte		HSD17B1		
+estrone	estradiol	Biochemical Reaction	HSD17B1	Catalysis	mammary epithelial cell		HSD17B1		
+estrone	estrone sulfate	Biochemical Reaction	SULT1A1,SULT1E1	Catalysis	mammary epithelial cell	10963623,12922923,15860265	"SULT1A1","SULT1E1"		
+estrone	estrone sulfate	Biochemical Reaction	SULT1A1,SULT1E1	Catalysis	hepatocyte	10963623,12922923,15860265	"SULT1A1","SULT1E1"		
+testosterone	androstenedione	Biochemical Reaction							
+testosterone	estradiol	Biochemical Reaction	CYP19A1	Catalysis	mammary epithelial cell	19250199	CYP19A1		
+testosterone	estradiol	Biochemical Reaction	CYP19A1	Catalysis	cell		CYP19A1		
+androstenedione	androstenedione	Transport			"mammary epithelial cell","hepatocyte"				
+androstenedione	androstenedione	Transport			cell				
+androstenedione	androstenedione	Transport			"hepatocyte","cell"				
+androstenedione	androstenedione	Transport			cortical cell of adrenal gland				
+androstenedione	androstenedione	Transport			"cortical cell of adrenal gland","cell"				
+estradiol	estradiol	Transport			"hepatocyte","cell"				
+estradiol	estradiol	Transport			"mammary epithelial cell","hepatocyte"				
+estrone	estrone	Transport			"mammary epithelial cell","hepatocyte"				
+estrone	estrone	Transport			"hepatocyte","cell"				
+testosterone	testosterone	Transport			"mammary epithelial cell","hepatocyte"				
+testosterone	testosterone	Transport			"hepatocyte","cell"				
+testosterone	testosterone	Transport			"theca cell","cell"				
+testosterone	testosterone	Transport			cell				
+testosterone	testosterone	Transport			theca cell				

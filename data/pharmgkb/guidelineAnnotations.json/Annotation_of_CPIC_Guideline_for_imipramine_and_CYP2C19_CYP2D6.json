@@ -1,0 +1,4172 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166104999",
+    "name": "Annotation of CPIC Guideline for imipramine and CYP2C19, CYP2D6",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983444,
+        "name": "CPIC® Guideline for Tricyclic Antidepressants and CYP2D6 and CYP2C19 – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "jWAfSVvKHz8",
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1449561760,
+        "alleles": [
+          {
+            "id": 1449561762,
+            "_label": "*1",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980634",
+              "symbol": "CYP2C19*1",
+              "name": "*1",
+              "version": 25
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561763,
+            "_label": "*2",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980635",
+              "symbol": "CYP2C19*2",
+              "name": "*2",
+              "version": 25
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561764,
+            "_label": "*3",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980636",
+              "symbol": "CYP2C19*3",
+              "name": "*3",
+              "version": 25
+            },
+            "version": 1
+          },
+          {
+            "id": 1450805219,
+            "_label": "*4",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980637",
+              "symbol": "CYP2C19*4",
+              "name": "*4",
+              "version": 25
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561767,
+            "_label": "*5",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980638",
+              "symbol": "CYP2C19*5",
+              "name": "*5",
+              "version": 25
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561768,
+            "_label": "*6",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816522",
+              "symbol": "CYP2C19*6",
+              "name": "*6",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561769,
+            "_label": "*7",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816523",
+              "symbol": "CYP2C19*7",
+              "name": "*7",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561770,
+            "_label": "*8",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816524",
+              "symbol": "CYP2C19*8",
+              "name": "*8",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561771,
+            "_label": "*9",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816525",
+              "symbol": "CYP2C19*9",
+              "name": "*9",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561772,
+            "_label": "*10",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816526",
+              "symbol": "CYP2C19*10",
+              "name": "*10",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561773,
+            "_label": "*11",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816527",
+              "symbol": "CYP2C19*11",
+              "name": "*11",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561774,
+            "_label": "*12",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816528",
+              "symbol": "CYP2C19*12",
+              "name": "*12",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561775,
+            "_label": "*13",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816529",
+              "symbol": "CYP2C19*13",
+              "name": "*13",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561776,
+            "_label": "*14",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816530",
+              "symbol": "CYP2C19*14",
+              "name": "*14",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561777,
+            "_label": "*15",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816531",
+              "symbol": "CYP2C19*15",
+              "name": "*15",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561778,
+            "_label": "*16",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816532",
+              "symbol": "CYP2C19*16",
+              "name": "*16",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561779,
+            "_label": "*17",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816533",
+              "symbol": "CYP2C19*17",
+              "name": "*17",
+              "version": 29
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561780,
+            "_label": "*18",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816534",
+              "symbol": "CYP2C19*18",
+              "name": "*18",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561781,
+            "_label": "*19",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816535",
+              "symbol": "CYP2C19*19",
+              "name": "*19",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561782,
+            "_label": "*22",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816536",
+              "symbol": "CYP2C19*22",
+              "name": "*22",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561783,
+            "_label": "*23",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816537",
+              "symbol": "CYP2C19*23",
+              "name": "*23",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561784,
+            "_label": "*24",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816538",
+              "symbol": "CYP2C19*24",
+              "name": "*24",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561785,
+            "_label": "*25",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816539",
+              "symbol": "CYP2C19*25",
+              "name": "*25",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561786,
+            "_label": "*26",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816540",
+              "symbol": "CYP2C19*26",
+              "name": "*26",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561788,
+            "_label": "*28",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115675",
+              "symbol": "CYP2C19*28",
+              "name": "*28",
+              "version": 20
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561789,
+            "_label": "*29",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123292",
+              "symbol": "CYP2C19*29",
+              "name": "*29",
+              "version": 19
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561790,
+            "_label": "*30",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123293",
+              "symbol": "CYP2C19*30",
+              "name": "*30",
+              "version": 19
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561791,
+            "_label": "*31",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123294",
+              "symbol": "CYP2C19*31",
+              "name": "*31",
+              "version": 19
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561792,
+            "_label": "*32",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123295",
+              "symbol": "CYP2C19*32",
+              "name": "*32",
+              "version": 19
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561793,
+            "_label": "*33",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123296",
+              "symbol": "CYP2C19*33",
+              "name": "*33",
+              "version": 19
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561794,
+            "_label": "*34",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166115676",
+              "symbol": "CYP2C19*34",
+              "name": "*34",
+              "version": 20
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561795,
+            "_label": "*35",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166128094",
+              "symbol": "CYP2C19*35",
+              "name": "*35",
+              "version": 16
+            },
+            "version": 1
+          },
+          {
+            "id": 1451223663,
+            "_label": "*36",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166218471",
+              "symbol": "CYP2C19*36",
+              "name": "*36",
+              "version": 8
+            },
+            "version": 0
+          },
+          {
+            "id": 1451223664,
+            "_label": "*37",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166218472",
+              "symbol": "CYP2C19*37",
+              "name": "*37",
+              "version": 8
+            },
+            "version": 0
+          },
+          {
+            "id": 1451223665,
+            "_label": "*38",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166218473",
+              "symbol": "CYP2C19*38",
+              "name": "*38",
+              "version": 10
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561761,
+            "_label": "Unknown",
+            "allele": "Unknown",
+            "function": {
+              "id": 1445558512,
+              "description": "for amitriptyline guideline to enter only one CYP gene while the second CYP is set \"Unknown\"",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown",
+              "termId": "haplotypeTags:1445558512",
+              "version": 0
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA124",
+          "symbol": "CYP2C19",
+          "name": "cytochrome P450 family 2 subfamily C member 19",
+          "alleleFile": "CYP2C19_allele_definition_table.xlsx",
+          "altNames": {
+            "synonym": [
+              "cytochrome P450, family 2, subfamily C, polypeptide 19"
+            ],
+            "symbol": [
+              "CPCJ",
+              "CYP2C",
+              "P450IIC19"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "q23.33",
+          "cbStop": "q23.33",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA504",
+            "name": "chr10",
+            "version": 3
+          },
+          "chrStartPosB37": 96522463,
+          "chrStartPosB38": 94762681,
+          "chrStopPosB37": 96612671,
+          "chrStopPosB38": 94853205,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553242512,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "1557",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=1557",
+              "version": 0
+            },
+            {
+              "id": 132256028,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000165841",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165841",
+              "version": 0
+            },
+            {
+              "id": 73372,
+              "resource": "GenAtlas",
+              "resourceId": "CYP2C19",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=CYP2C19",
+              "version": 1
+            },
+            {
+              "id": 88300,
+              "resource": "GeneCard",
+              "resourceId": "CYP2C19",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2C19",
+              "version": 1
+            },
+            {
+              "id": 608081307,
+              "resource": "HGNC",
+              "resourceId": "HGNC:2621",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A2621",
+              "version": 1
+            },
+            {
+              "id": 608081309,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS09293",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS09293",
+              "version": 0
+            },
+            {
+              "id": 560874113,
+              "resource": "ModBase",
+              "resourceId": "P33261",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P33261",
+              "version": 0
+            },
+            {
+              "id": 455910,
+              "resource": "MutDB",
+              "resourceId": "CYP2C19",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=CYP2C19",
+              "version": 1
+            },
+            {
+              "id": 10744,
+              "resource": "NCBI Gene",
+              "resourceId": "1557",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/1557",
+              "version": 1
+            },
+            {
+              "id": 716,
+              "resource": "OMIM",
+              "resourceId": "124020",
+              "_url": "https://omim.org/entry/124020",
+              "version": 1
+            },
+            {
+              "id": 560556306,
+              "resource": "OMIM",
+              "resourceId": "609535",
+              "_url": "https://omim.org/entry/609535",
+              "version": 0
+            },
+            {
+              "id": 1451280335,
+              "resource": "PharmVar Gene",
+              "resourceId": "CYP2C19",
+              "_url": "https://www.pharmvar.org/gene/CYP2C19",
+              "version": 0
+            },
+            {
+              "id": 560556305,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_008384",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_008384",
+              "version": 0
+            },
+            {
+              "id": 37037,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_030059",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_030059",
+              "version": 1
+            },
+            {
+              "id": 37896,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000760",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000760",
+              "version": 1
+            },
+            {
+              "id": 46971,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000769",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000769",
+              "version": 1
+            },
+            {
+              "id": 122288,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000769",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000769",
+              "version": 1
+            },
+            {
+              "id": 62333091,
+              "name": "CP2CJ_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P33261",
+              "_url": "https://www.uniprot.org/uniprot/P33261",
+              "version": 1
+            },
+            {
+              "id": 88,
+              "resource": "URL",
+              "resourceId": "http://www.imm.ki.se/CYPalleles/cyp2c19.htm",
+              "_url": "http://www.imm.ki.se/CYPalleles/cyp2c19.htm",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": false,
+          "pharmVarGene": true,
+          "strand": "plus",
+          "terms": [
+            {"id":560498878,"_url":"http://amigo.geneontology.org/amigo/term/GO:0004497","resource":"Gene Ontology","term":"monooxygenase activity","termId":"GO:0004497"},
+            {"id":560500134,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005783","resource":"Gene Ontology","term":"endoplasmic reticulum","termId":"GO:0005783"},
+            {"id":560500141,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005789","resource":"Gene Ontology","term":"endoplasmic reticulum membrane","termId":"GO:0005789"},
+            {"id":560500144,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005792","resource":"Gene Ontology","term":"microsome","termId":"GO:0005792"},
+            {"id":560501294,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008202","resource":"Gene Ontology","term":"steroid metabolic process","termId":"GO:0008202"},
+            {"id":560496176,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008395","resource":"Gene Ontology","term":"steroid hydroxylase activity","termId":"GO:0008395"},
+            {"id":560503412,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009055","resource":"Gene Ontology","term":"electron carrier activity","termId":"GO:0009055"},
+            {"id":560499972,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016020","resource":"Gene Ontology","term":"membrane","termId":"GO:0016020"},
+            {"id":560506711,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016098","resource":"Gene Ontology","term":"monoterpenoid metabolic process","termId":"GO:0016098"},
+            {"id":560495264,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016491","resource":"Gene Ontology","term":"oxidoreductase activity","termId":"GO:0016491"},
+            {"id":560507281,"_url":"http://amigo.geneontology.org/amigo/term/GO:0017144","resource":"Gene Ontology","term":"drug metabolic process","termId":"GO:0017144"},
+            {"id":560508105,"_url":"http://amigo.geneontology.org/amigo/term/GO:0018675","resource":"Gene Ontology","term":"(S)-limonene 6-monooxygenase activity","termId":"GO:0018675"},
+            {"id":560508106,"_url":"http://amigo.geneontology.org/amigo/term/GO:0018676","resource":"Gene Ontology","term":"(S)-limonene 7-monooxygenase activity","termId":"GO:0018676"},
+            {"id":560509226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019825","resource":"Gene Ontology","term":"oxygen binding","termId":"GO:0019825"},
+            {"id":560496866,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019899","resource":"Gene Ontology","term":"enzyme binding","termId":"GO:0019899"},
+            {"id":560509358,"_url":"http://amigo.geneontology.org/amigo/term/GO:0020037","resource":"Gene Ontology","term":"heme binding","termId":"GO:0020037"},
+            {"id":560513624,"_url":"http://amigo.geneontology.org/amigo/term/GO:0033767","resource":"Gene Ontology","term":"4-hydroxyacetophenone monooxygenase activity","termId":"GO:0033767"},
+            {"id":560515690,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042738","resource":"Gene Ontology","term":"exogenous drug catabolic process","termId":"GO:0042738"},
+            {"id":560495388,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046483","resource":"Gene Ontology","term":"heterocycle metabolic process","termId":"GO:0046483"},
+            {"id":560495445,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046872","resource":"Gene Ontology","term":"metal ion binding","termId":"GO:0046872"},
+            {"id":560509993,"_url":"http://amigo.geneontology.org/amigo/term/GO:0055114","resource":"Gene Ontology","term":"oxidation reduction","termId":"GO:0055114"}
+          ],
+          "version": 7209
+        },
+        "version": 2
+      },
+      {
+        "id": 1449561796,
+        "alleles": [
+          {
+            "id": 1449561824,
+            "_label": "*1",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816576",
+              "symbol": "CYP2D6*1",
+              "name": "*1",
+              "version": 43
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561825,
+            "_label": "*1xN",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165988479",
+              "symbol": "CYP2D6*1xN",
+              "name": "*1xN",
+              "version": 25
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561826,
+            "_label": "*2",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816577",
+              "symbol": "CYP2D6*2",
+              "name": "*2",
+              "version": 42
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561827,
+            "_label": "*2xN",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165988480",
+              "symbol": "CYP2D6*2xN",
+              "name": "*2xN",
+              "version": 25
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561828,
+            "_label": "*3",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816578",
+              "symbol": "CYP2D6*3",
+              "name": "*3",
+              "version": 42
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561829,
+            "_label": "*3xN",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166128733",
+              "symbol": "CYP2D6*3xN",
+              "name": "*3xN",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561830,
+            "_label": "*4",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816579",
+              "symbol": "CYP2D6*4",
+              "name": "*4",
+              "version": 42
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561831,
+            "_label": "*4xN",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123455",
+              "symbol": "CYP2D6*4xN",
+              "name": "*4xN",
+              "version": 21
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561832,
+            "_label": "*5",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165948092",
+              "symbol": "CYP2D6*5",
+              "name": "*5",
+              "version": 41
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561833,
+            "_label": "*6",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816581",
+              "symbol": "CYP2D6*6",
+              "name": "*6",
+              "version": 42
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561834,
+            "_label": "*6xN",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166128734",
+              "symbol": "CYP2D6*6xN",
+              "name": "*6xN",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561835,
+            "_label": "*7",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971559",
+              "symbol": "CYP2D6*7",
+              "name": "*7",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561836,
+            "_label": "*8",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971560",
+              "symbol": "CYP2D6*8",
+              "name": "*8",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561837,
+            "_label": "*9",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165948317",
+              "symbol": "CYP2D6*9",
+              "name": "*9",
+              "version": 41
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561838,
+            "_label": "*9x2",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123309",
+              "symbol": "CYP2D6*9x2",
+              "name": "*9x2",
+              "version": 21
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561839,
+            "_label": "*10",
+            "function": {
+              "id": 1450823945,
+              "description": "CYP2D6 function",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function (AV 0.25)",
+              "termId": "alleleFunction:1450823945",
+              "version": 3
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816582",
+              "symbol": "CYP2D6*10",
+              "name": "*10",
+              "version": 42
+            },
+            "version": 1
+          },
+          {
+            "id": 1450824680,
+            "_label": "*10x2",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123456",
+              "symbol": "CYP2D6*10x2",
+              "name": "*10x2",
+              "version": 21
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561840,
+            "_label": "*11",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971564",
+              "symbol": "CYP2D6*11",
+              "name": "*11",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561841,
+            "_label": "*12",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971565",
+              "symbol": "CYP2D6*12",
+              "name": "*12",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561842,
+            "_label": "*13",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165988481",
+              "symbol": "CYP2D6*13",
+              "name": "*13",
+              "version": 37
+            },
+            "version": 0
+          },
+          {
+            "id": 1450042784,
+            "_label": "*14",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166181185",
+              "symbol": "CYP2D6*14",
+              "name": "*14",
+              "version": 15
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561845,
+            "_label": "*15",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971568",
+              "symbol": "CYP2D6*15",
+              "name": "*15",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561846,
+            "_label": "*17",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816583",
+              "symbol": "CYP2D6*17",
+              "name": "*17",
+              "version": 42
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561847,
+            "_label": "*17x2",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123457",
+              "symbol": "CYP2D6*17x2",
+              "name": "*17x2",
+              "version": 21
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561848,
+            "_label": "*18",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971569",
+              "symbol": "CYP2D6*18",
+              "name": "*18",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561849,
+            "_label": "*19",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971570",
+              "symbol": "CYP2D6*19",
+              "name": "*19",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561850,
+            "_label": "*20",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971571",
+              "symbol": "CYP2D6*20",
+              "name": "*20",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561851,
+            "_label": "*21",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165988484",
+              "symbol": "CYP2D6*21",
+              "name": "*21",
+              "version": 38
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561852,
+            "_label": "*22",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971574",
+              "symbol": "CYP2D6*22",
+              "name": "*22",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561853,
+            "_label": "*23",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971575",
+              "symbol": "CYP2D6*23",
+              "name": "*23",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561854,
+            "_label": "*24",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971576",
+              "symbol": "CYP2D6*24",
+              "name": "*24",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561855,
+            "_label": "*25",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971577",
+              "symbol": "CYP2D6*25",
+              "name": "*25",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561856,
+            "_label": "*26",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971578",
+              "symbol": "CYP2D6*26",
+              "name": "*26",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561857,
+            "_label": "*27",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971579",
+              "symbol": "CYP2D6*27",
+              "name": "*27",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561858,
+            "_label": "*28",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971580",
+              "symbol": "CYP2D6*28",
+              "name": "*28",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561859,
+            "_label": "*29",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165948318",
+              "symbol": "CYP2D6*29",
+              "name": "*29",
+              "version": 41
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561860,
+            "_label": "*29x2",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166128735",
+              "symbol": "CYP2D6*29x2",
+              "name": "*29x2",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561861,
+            "_label": "*30",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971581",
+              "symbol": "CYP2D6*30",
+              "name": "*30",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561862,
+            "_label": "*31",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971582",
+              "symbol": "CYP2D6*31",
+              "name": "*31",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561863,
+            "_label": "*32",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971583",
+              "symbol": "CYP2D6*32",
+              "name": "*32",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561864,
+            "_label": "*33",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971584",
+              "symbol": "CYP2D6*33",
+              "name": "*33",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561865,
+            "_label": "*34",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971585",
+              "symbol": "CYP2D6*34",
+              "name": "*34",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561866,
+            "_label": "*35",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165988487",
+              "symbol": "CYP2D6*35",
+              "name": "*35",
+              "version": 38
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561867,
+            "_label": "*35xN",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971588",
+              "symbol": "CYP2D6*35xN",
+              "name": "*35xN",
+              "version": 26
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561869,
+            "_label": "*36",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165988488",
+              "symbol": "CYP2D6*36",
+              "name": "*36",
+              "version": 38
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561868,
+            "_label": "*36xN",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971589",
+              "symbol": "CYP2D6*36xN",
+              "name": "*36xN",
+              "version": 26
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561870,
+            "_label": "*37",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971591",
+              "symbol": "CYP2D6*37",
+              "name": "*37",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561871,
+            "_label": "*38",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971592",
+              "symbol": "CYP2D6*38",
+              "name": "*38",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561872,
+            "_label": "*39",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166001447",
+              "symbol": "CYP2D6*39",
+              "name": "*39",
+              "version": 38
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561873,
+            "_label": "*40",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971594",
+              "symbol": "CYP2D6*40",
+              "name": "*40",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561874,
+            "_label": "*41",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816584",
+              "symbol": "CYP2D6*41",
+              "name": "*41",
+              "version": 42
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561875,
+            "_label": "*41x2",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166128209",
+              "symbol": "CYP2D6*41x2",
+              "name": "*41x2",
+              "version": 15
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561876,
+            "_label": "*42",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971595",
+              "symbol": "CYP2D6*42",
+              "name": "*42",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561877,
+            "_label": "*43",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971596",
+              "symbol": "CYP2D6*43",
+              "name": "*43",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561884,
+            "_label": "*44",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971597",
+              "symbol": "CYP2D6*44",
+              "name": "*44",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561878,
+            "_label": "*45",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165988489",
+              "symbol": "CYP2D6*45",
+              "name": "*45",
+              "version": 38
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561879,
+            "_label": "*45xN",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165988490",
+              "symbol": "CYP2D6*45xN",
+              "name": "*45xN",
+              "version": 25
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561880,
+            "_label": "*46",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971600",
+              "symbol": "CYP2D6*46",
+              "name": "*46",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561881,
+            "_label": "*47",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971601",
+              "symbol": "CYP2D6*47",
+              "name": "*47",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561882,
+            "_label": "*48",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971602",
+              "symbol": "CYP2D6*48",
+              "name": "*48",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561883,
+            "_label": "*49",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971603",
+              "symbol": "CYP2D6*49",
+              "name": "*49",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561885,
+            "_label": "*50",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971604",
+              "symbol": "CYP2D6*50",
+              "name": "*50",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561886,
+            "_label": "*51",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971605",
+              "symbol": "CYP2D6*51",
+              "name": "*51",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561887,
+            "_label": "*52",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971606",
+              "symbol": "CYP2D6*52",
+              "name": "*52",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561888,
+            "_label": "*53",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971607",
+              "symbol": "CYP2D6*53",
+              "name": "*53",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561889,
+            "_label": "*54",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971608",
+              "symbol": "CYP2D6*54",
+              "name": "*54",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561890,
+            "_label": "*55",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971609",
+              "symbol": "CYP2D6*55",
+              "name": "*55",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561891,
+            "_label": "*56",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165988494",
+              "symbol": "CYP2D6*56",
+              "name": "*56",
+              "version": 38
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561892,
+            "_label": "*57",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971612",
+              "symbol": "CYP2D6*57",
+              "name": "*57",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561893,
+            "_label": "*58",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971613",
+              "symbol": "CYP2D6*58",
+              "name": "*58",
+              "version": 39
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561894,
+            "_label": "*59",
+            "function": {
+              "id": 1445558331,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Decreased function",
+              "termId": "haplotypeTags:1445558331",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971614",
+              "symbol": "CYP2D6*59",
+              "name": "*59",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561895,
+            "_label": "*60",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971615",
+              "symbol": "CYP2D6*60",
+              "name": "*60",
+              "version": 39
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561896,
+            "_label": "*61",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971616",
+              "symbol": "CYP2D6*61",
+              "name": "*61",
+              "version": 38
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561897,
+            "_label": "*62",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971617",
+              "symbol": "CYP2D6*62",
+              "name": "*62",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561898,
+            "_label": "*63",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971618",
+              "symbol": "CYP2D6*63",
+              "name": "*63",
+              "version": 38
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561899,
+            "_label": "*64",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971619",
+              "symbol": "CYP2D6*64",
+              "name": "*64",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561900,
+            "_label": "*65",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971620",
+              "symbol": "CYP2D6*65",
+              "name": "*65",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561901,
+            "_label": "*68",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166128736",
+              "symbol": "CYP2D6*68",
+              "name": "*68",
+              "version": 26
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561902,
+            "_label": "*69",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971621",
+              "symbol": "CYP2D6*69",
+              "name": "*69",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561903,
+            "_label": "*70",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971622",
+              "symbol": "CYP2D6*70",
+              "name": "*70",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561904,
+            "_label": "*71",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971623",
+              "symbol": "CYP2D6*71",
+              "name": "*71",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561905,
+            "_label": "*72",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971624",
+              "symbol": "CYP2D6*72",
+              "name": "*72",
+              "version": 39
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561906,
+            "_label": "*73",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971625",
+              "symbol": "CYP2D6*73",
+              "name": "*73",
+              "version": 39
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561907,
+            "_label": "*74",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971626",
+              "symbol": "CYP2D6*74",
+              "name": "*74",
+              "version": 39
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561908,
+            "_label": "*75",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165971627",
+              "symbol": "CYP2D6*75",
+              "name": "*75",
+              "version": 39
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561909,
+            "_label": "*81",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123321",
+              "symbol": "CYP2D6*81",
+              "name": "*81",
+              "version": 34
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561910,
+            "_label": "*82",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123322",
+              "symbol": "CYP2D6*82",
+              "name": "*82",
+              "version": 34
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561911,
+            "_label": "*83",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123323",
+              "symbol": "CYP2D6*83",
+              "name": "*83",
+              "version": 34
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561912,
+            "_label": "*84",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123324",
+              "symbol": "CYP2D6*84",
+              "name": "*84",
+              "version": 34
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561913,
+            "_label": "*85",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123325",
+              "symbol": "CYP2D6*85",
+              "name": "*85",
+              "version": 34
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561914,
+            "_label": "*86",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123326",
+              "symbol": "CYP2D6*86",
+              "name": "*86",
+              "version": 34
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561915,
+            "_label": "*87",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123327",
+              "symbol": "CYP2D6*87",
+              "name": "*87",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561797,
+            "_label": "*88",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123328",
+              "symbol": "CYP2D6*88",
+              "name": "*88",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561798,
+            "_label": "*89",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123329",
+              "symbol": "CYP2D6*89",
+              "name": "*89",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561799,
+            "_label": "*90",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123330",
+              "symbol": "CYP2D6*90",
+              "name": "*90",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561800,
+            "_label": "*91",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123331",
+              "symbol": "CYP2D6*91",
+              "name": "*91",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561801,
+            "_label": "*92",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123332",
+              "symbol": "CYP2D6*92",
+              "name": "*92",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561802,
+            "_label": "*93",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123333",
+              "symbol": "CYP2D6*93",
+              "name": "*93",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561803,
+            "_label": "*94",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166128737",
+              "symbol": "CYP2D6*94",
+              "name": "*94",
+              "version": 27
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561804,
+            "_label": "*95",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123336",
+              "symbol": "CYP2D6*95",
+              "name": "*95",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561805,
+            "_label": "*96",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123337",
+              "symbol": "CYP2D6*96",
+              "name": "*96",
+              "version": 34
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561806,
+            "_label": "*97",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123338",
+              "symbol": "CYP2D6*97",
+              "name": "*97",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561807,
+            "_label": "*98",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123339",
+              "symbol": "CYP2D6*98",
+              "name": "*98",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561808,
+            "_label": "*99",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166169821",
+              "symbol": "CYP2D6*99",
+              "name": "*99",
+              "version": 20
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561809,
+            "_label": "*100",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123340",
+              "symbol": "CYP2D6*100",
+              "name": "*100",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561810,
+            "_label": "*101",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123341",
+              "symbol": "CYP2D6*101",
+              "name": "*101",
+              "version": 34
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561811,
+            "_label": "*102",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123342",
+              "symbol": "CYP2D6*102",
+              "name": "*102",
+              "version": 34
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561812,
+            "_label": "*103",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123343",
+              "symbol": "CYP2D6*103",
+              "name": "*103",
+              "version": 34
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561813,
+            "_label": "*104",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123344",
+              "symbol": "CYP2D6*104",
+              "name": "*104",
+              "version": 34
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561814,
+            "_label": "*105",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166123345",
+              "symbol": "CYP2D6*105",
+              "name": "*105",
+              "version": 34
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561815,
+            "_label": "*106",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166170941",
+              "symbol": "CYP2D6*106",
+              "name": "*106",
+              "version": 18
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561816,
+            "_label": "*107",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166129550",
+              "symbol": "CYP2D6*107",
+              "name": "*107",
+              "version": 23
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561817,
+            "_label": "*108",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166129551",
+              "symbol": "CYP2D6*108",
+              "name": "*108",
+              "version": 23
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561818,
+            "_label": "*109",
+            "function": {
+              "id": 1448531118,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Uncertain function",
+              "termId": "haplotypeTags:1448531118",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166129552",
+              "symbol": "CYP2D6*109",
+              "name": "*109",
+              "version": 23
+            },
+            "version": 2
+          },
+          {
+            "id": 1449561819,
+            "_label": "*110",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166169822",
+              "symbol": "CYP2D6*110",
+              "name": "*110",
+              "version": 20
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561820,
+            "_label": "*111",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166169823",
+              "symbol": "CYP2D6*111",
+              "name": "*111",
+              "version": 20
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561821,
+            "_label": "*112",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166169824",
+              "symbol": "CYP2D6*112",
+              "name": "*112",
+              "version": 20
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561822,
+            "_label": "*113",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166169825",
+              "symbol": "CYP2D6*113",
+              "name": "*113",
+              "version": 20
+            },
+            "version": 0
+          },
+          {
+            "id": 1450042783,
+            "_label": "*114",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166181184",
+              "symbol": "CYP2D6*114",
+              "name": "*114",
+              "version": 15
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222470,
+            "_label": "*115",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183221",
+              "symbol": "CYP2D6*115",
+              "name": "*115",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222471,
+            "_label": "*116",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183222",
+              "symbol": "CYP2D6*116",
+              "name": "*116",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222472,
+            "_label": "*117",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183223",
+              "symbol": "CYP2D6*117",
+              "name": "*117",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222473,
+            "_label": "*118",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183224",
+              "symbol": "CYP2D6*118",
+              "name": "*118",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222474,
+            "_label": "*119",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183225",
+              "symbol": "CYP2D6*119",
+              "name": "*119",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222475,
+            "_label": "*120",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183226",
+              "symbol": "CYP2D6*120",
+              "name": "*120",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222476,
+            "_label": "*121",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183227",
+              "symbol": "CYP2D6*121",
+              "name": "*121",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222477,
+            "_label": "*122",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183228",
+              "symbol": "CYP2D6*122",
+              "name": "*122",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222478,
+            "_label": "*123",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183229",
+              "symbol": "CYP2D6*123",
+              "name": "*123",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222479,
+            "_label": "*124",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183230",
+              "symbol": "CYP2D6*124",
+              "name": "*124",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222500,
+            "_label": "*125",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183231",
+              "symbol": "CYP2D6*125",
+              "name": "*125",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222501,
+            "_label": "*126",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183232",
+              "symbol": "CYP2D6*126",
+              "name": "*126",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222502,
+            "_label": "*127",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183233",
+              "symbol": "CYP2D6*127",
+              "name": "*127",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222503,
+            "_label": "*128",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183234",
+              "symbol": "CYP2D6*128",
+              "name": "*128",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222504,
+            "_label": "*129",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183235",
+              "symbol": "CYP2D6*129",
+              "name": "*129",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222505,
+            "_label": "*130",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183236",
+              "symbol": "CYP2D6*130",
+              "name": "*130",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222506,
+            "_label": "*131",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183237",
+              "symbol": "CYP2D6*131",
+              "name": "*131",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222507,
+            "_label": "*132",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183238",
+              "symbol": "CYP2D6*132",
+              "name": "*132",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222508,
+            "_label": "*133",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183239",
+              "symbol": "CYP2D6*133",
+              "name": "*133",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222509,
+            "_label": "*134",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183240",
+              "symbol": "CYP2D6*134",
+              "name": "*134",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222510,
+            "_label": "*135",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183241",
+              "symbol": "CYP2D6*135",
+              "name": "*135",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222511,
+            "_label": "*136",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183242",
+              "symbol": "CYP2D6*136",
+              "name": "*136",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222512,
+            "_label": "*137",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166183244",
+              "symbol": "CYP2D6*137",
+              "name": "*137",
+              "version": 14
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222513,
+            "_label": "*138",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166185293",
+              "symbol": "CYP2D6*138",
+              "name": "*138",
+              "version": 13
+            },
+            "version": 0
+          },
+          {
+            "id": 1451222514,
+            "_label": "*139",
+            "function": {
+              "id": 1448589712,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown function",
+              "termId": "haplotypeTags:1448589712",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA166185294",
+              "symbol": "CYP2D6*139",
+              "name": "*139",
+              "version": 13
+            },
+            "version": 0
+          },
+          {
+            "id": 1449561823,
+            "_label": "Unknown",
+            "allele": "Unknown",
+            "function": {
+              "id": 1445558512,
+              "description": "for amitriptyline guideline to enter only one CYP gene while the second CYP is set \"Unknown\"",
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Unknown",
+              "termId": "haplotypeTags:1445558512",
+              "version": 0
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA128",
+          "symbol": "CYP2D6",
+          "name": "cytochrome P450 family 2 subfamily D member 6",
+          "alleleFile": "CYP2D6_allele_definition_table.xlsx",
+          "altNames": {
+            "synonym": [
+              "cytochrome P450, family 2, subfamily D, polypeptide 6"
+            ],
+            "symbol": [
+              "CPD6",
+              "CYP2D",
+              "CYP2D7AP",
+              "CYP2D7BP",
+              "CYP2D7P2",
+              "CYP2D8P2",
+              "CYP2DL1",
+              "P450-DB1",
+              "P450C2D"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "q13.1",
+          "cbStop": "q13.2",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA525",
+            "name": "chr22",
+            "version": 3
+          },
+          "chrStartPosB37": 42522501,
+          "chrStartPosB38": 42125531,
+          "chrStopPosB37": 42526883,
+          "chrStopPosB38": 42130881,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553242505,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "1565",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=1565",
+              "version": 0
+            },
+            {
+              "id": 132256032,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000100197",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100197",
+              "version": 0
+            },
+            {
+              "id": 73375,
+              "resource": "GenAtlas",
+              "resourceId": "CYP2D6",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=CYP2D6",
+              "version": 1
+            },
+            {
+              "id": 1445332056,
+              "resource": "GenBank",
+              "resourceId": "AY545216.1",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/AY545216.1",
+              "version": 0
+            },
+            {
+              "id": 88303,
+              "resource": "GeneCard",
+              "resourceId": "CYP2D6",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2D6",
+              "version": 1
+            },
+            {
+              "id": 605873023,
+              "resource": "HGNC",
+              "resourceId": "HGNC:2625",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A2625",
+              "version": 1
+            },
+            {
+              "id": 605873080,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS01997",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS01997",
+              "version": 0
+            },
+            {
+              "id": 560877840,
+              "resource": "ModBase",
+              "resourceId": "P10635",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P10635",
+              "version": 0
+            },
+            {
+              "id": 455913,
+              "resource": "MutDB",
+              "resourceId": "CYP2D6",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=CYP2D6",
+              "version": 1
+            },
+            {
+              "id": 10749,
+              "resource": "NCBI Gene",
+              "resourceId": "1565",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/1565",
+              "version": 1
+            },
+            {
+              "id": 717,
+              "resource": "OMIM",
+              "resourceId": "124030",
+              "_url": "https://omim.org/entry/124030",
+              "version": 1
+            },
+            {
+              "id": 560556323,
+              "resource": "OMIM",
+              "resourceId": "608902",
+              "_url": "https://omim.org/entry/608902",
+              "version": 0
+            },
+            {
+              "id": 1451280333,
+              "resource": "PharmVar Gene",
+              "resourceId": "CYP2D6",
+              "_url": "https://www.pharmvar.org/gene/CYP2D6",
+              "version": 0
+            },
+            {
+              "id": 1451167850,
+              "name": "NG_008376.4",
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_008376.4",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_008376.4",
+              "version": 0
+            },
+            {
+              "id": 37278,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000097",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000097",
+              "version": 1
+            },
+            {
+              "id": 123170196,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_001020332",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_001020332",
+              "version": 1
+            },
+            {
+              "id": 46353,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000106",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000106",
+              "version": 1
+            },
+            {
+              "id": 123170193,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_001025161",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_001025161",
+              "version": 1
+            },
+            {
+              "id": 121670,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000106",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000106",
+              "version": 1
+            },
+            {
+              "id": 605873078,
+              "name": "Q6NWU0_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "Q6NWU0",
+              "_url": "https://www.uniprot.org/uniprot/Q6NWU0",
+              "version": 1
+            },
+            {
+              "id": 605873076,
+              "name": "Q6NXU8_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "Q6NXU8",
+              "_url": "https://www.uniprot.org/uniprot/Q6NXU8",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": false,
+          "pharmVarGene": true,
+          "strand": "minus",
+          "terms": [
+            {"id":560498878,"_url":"http://amigo.geneontology.org/amigo/term/GO:0004497","resource":"Gene Ontology","term":"monooxygenase activity","termId":"GO:0004497"},
+            {"id":560500079,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005739","resource":"Gene Ontology","term":"mitochondrion","termId":"GO:0005739"},
+            {"id":560500134,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005783","resource":"Gene Ontology","term":"endoplasmic reticulum","termId":"GO:0005783"},
+            {"id":560500141,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005789","resource":"Gene Ontology","term":"endoplasmic reticulum membrane","termId":"GO:0005789"},
+            {"id":560500144,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005792","resource":"Gene Ontology","term":"microsome","termId":"GO:0005792"},
+            {"id":560501453,"_url":"http://amigo.geneontology.org/amigo/term/GO:0006805","resource":"Gene Ontology","term":"xenobiotic metabolic process","termId":"GO:0006805"},
+            {"id":560499864,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008144","resource":"Gene Ontology","term":"drug binding","termId":"GO:0008144"},
+            {"id":560501294,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008202","resource":"Gene Ontology","term":"steroid metabolic process","termId":"GO:0008202"},
+            {"id":560503412,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009055","resource":"Gene Ontology","term":"electron carrier activity","termId":"GO:0009055"},
+            {"id":560504161,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009804","resource":"Gene Ontology","term":"coumarin metabolic process","termId":"GO:0009804"},
+            {"id":560504179,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009820","resource":"Gene Ontology","term":"alkaloid metabolic process","termId":"GO:0009820"},
+            {"id":560504180,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009822","resource":"Gene Ontology","term":"alkaloid catabolic process","termId":"GO:0009822"},
+            {"id":560504242,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009892","resource":"Gene Ontology","term":"negative regulation of metabolic process","termId":"GO:0009892"},
+            {"id":560499972,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016020","resource":"Gene Ontology","term":"membrane","termId":"GO:0016020"},
+            {"id":560506711,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016098","resource":"Gene Ontology","term":"monoterpenoid metabolic process","termId":"GO:0016098"},
+            {"id":560495264,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016491","resource":"Gene Ontology","term":"oxidoreductase activity","termId":"GO:0016491"},
+            {"id":560507281,"_url":"http://amigo.geneontology.org/amigo/term/GO:0017144","resource":"Gene Ontology","term":"drug metabolic process","termId":"GO:0017144"},
+            {"id":560509358,"_url":"http://amigo.geneontology.org/amigo/term/GO:0020037","resource":"Gene Ontology","term":"heme binding","termId":"GO:0020037"},
+            {"id":560512928,"_url":"http://amigo.geneontology.org/amigo/term/GO:0033076","resource":"Gene Ontology","term":"isoquinoline alkaloid metabolic process","termId":"GO:0033076"},
+            {"id":560515689,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042737","resource":"Gene Ontology","term":"drug catabolic process","termId":"GO:0042737"},
+            {"id":560495388,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046483","resource":"Gene Ontology","term":"heterocycle metabolic process","termId":"GO:0046483"},
+            {"id":560495445,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046872","resource":"Gene Ontology","term":"metal ion binding","termId":"GO:0046872"},
+            {"id":560511965,"_url":"http://amigo.geneontology.org/amigo/term/GO:0051100","resource":"Gene Ontology","term":"negative regulation of binding","termId":"GO:0051100"},
+            {"id":560509993,"_url":"http://amigo.geneontology.org/amigo/term/GO:0055114","resource":"Gene Ontology","term":"oxidation reduction","termId":"GO:0055114"},
+            {"id":560523003,"_url":"http://amigo.geneontology.org/amigo/term/GO:0070330","resource":"Gene Ontology","term":"aromatase activity","termId":"GO:0070330"}
+          ],
+          "version": 7890
+        },
+        "version": 6
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1183699773,
+        "date": "2013-01-16T00:00:00-08:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1448526131,
+        "date": "2016-12-14T13:59:25.687-08:00",
+        "description": "2016 TCA CPIC guideline update",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450042785,
+        "date": "2018-11-15T20:17:44.806-08:00",
+        "description": "updated *14B to *14 and *14A to *114 based on the Nov 2018 PharmVar release",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1450824535,
+        "date": "2019-10-24T18:33:23.733-07:00",
+        "description": "online October 2019 guideline update (G2P project)",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451223707,
+        "date": "2020-07-08T00:00:00-07:00",
+        "description": "added CYP2C19*36-*38 and CYP2D6*115-*139 to allele picker; changed function for *60, *72, *84",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451224500,
+        "date": "2020-07-09T00:00:00-07:00",
+        "description": "In the diplotype specific recommendation (from the picker) for both CYP2C19 and CYP2D6, exchanged amitriptyline with imipramine, if applicable. Added note that dosing recommendations are based on studies focusing on amitriptyline.",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451309742,
+        "date": "2021-01-12T13:37:37.006-08:00",
+        "description": "Updated allele function assignment",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451462500,
+        "date": "2021-06-18T14:24:41.830-07:00",
+        "description": "Added link to video",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15098242,"title":"Clinical pharmacogenetics implementation consortium guideline (CPIC) for CYP2D6 and CYP2C19 genotypes and dosing of tricyclic antidepressants: 2016 update.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5478479","crossReferences":[{"id":1449293321,"resource":"PubMed Central","resourceId":"PMC5478479","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5478479"},{"id":1449293320,"resource":"PubMed","resourceId":"27997040","_url":"https://www.ncbi.nlm.nih.gov/pubmed/27997040"},{"id":1449293322,"resource":"DOI","resourceId":"10.1002/cpt.597","_url":"http://dx.doi.org/10.1002%2Fcpt.597"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15051926,"title":"Clinical Pharmacogenetics Implementation Consortium guideline for CYP2D6 and CYP2C19 genotypes and dosing of tricyclic antidepressants.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3689226","crossReferences":[{"id":1449275357,"resource":"PubMed Central","resourceId":"PMC3689226","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3689226"},{"id":1449275356,"resource":"PubMed","resourceId":"23486447","_url":"https://www.ncbi.nlm.nih.gov/pubmed/23486447"},{"id":1449275358,"resource":"DOI","resourceId":"10.1038/clpt.2013.2","_url":"http://dx.doi.org/10.1038%2Fclpt.2013.2"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15100907,"title":"CPIC® Guideline for Tricyclic Antidepressants and CYP2D6 and CYP2C19 – CPIC","_sameAs":"https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/","crossReferences":[{"id":1447983444,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/","_url":"https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "pediatricMarkdown": {
+      "id": 1451266660,
+      "html": "<p>Guideline excerpt: &quot;There are scarce studies focusing solely on CYP2D6 or CYP2C19 genotype and association with pharmacokinetic parameters or treatment outcomes of TCAs in pediatric patients. CYP2D6 activity is fully mature by early childhood, but CYP2C19 activity may be increased in children relative to adults. Although further genomic ontogeny studies are needed, there is a lack of evidence suggesting that this guideline cannot be extrapolated to pediatric patients.&quot;</p>\n",
+      "version": 0
+    },
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA449969",
+        "name": "imipramine",
+        "version": 13
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA124",
+        "symbol": "CYP2C19",
+        "name": "cytochrome P450 family 2 subfamily C member 19",
+        "version": 7209
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA128",
+        "symbol": "CYP2D6",
+        "name": "cytochrome P450 family 2 subfamily D member 6",
+        "version": 7890
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1447982030,
+      "html": "<p>Tricyclic antidepressants have comparable pharmacokinetic properties, it may be reasonable to apply the CPIC Dosing Guideline for amitriptyline and CYP2C19, CYP2D6 to other tricyclics including imipramine. The CPIC Dosing Guideline update for amitriptyline recommends an alternative drug for CYP2D6 ultrarapid or poor metabolizers and CYP2C19 ultrarapid, rapid or poor metabolizers. If amitriptyline is warranted, consider a 50% dose reduction in CYP2D6 or CYP2C19 poor metabolizers. For CYP2D6 intermediate metabolizers, a 25% dose reduction should be considered.</p>\n",
+      "version": 1
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433701,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-tricyclic-antidepressants-and-cyp2d6-and-cyp2c19/\" target=\"_blank\">CPIC&reg; guideline for tricyclic antidepressants and CYP2D6 and CYP2C19</a>.</p>\n<h3 id=\"october-2019-update\">October 2019 Update</h3>\n<p><a rel=\"noopener noreferrer\" href=\"https://ascpt.onlinelibrary.wiley.com/doi/full/10.1111/cts.12692\" target=\"_blank\">CYP2D6 genotype to phenotype translation changes</a>: Up until August 2019, there were a few inconsistencies in the translation of CYP2D6 genotype to phenotype translation across guidelines (i.e. CPIC and DPWG) and between clinical genetic testing laboratories. CPIC recently conducted a modified-Delphi project to obtain consensus for a uniform system for translating CYP2D6 genotype to phenotype among a panel of international CYP2D6 experts <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/resources/cyp2d6-genotype-to-phenotype-standardization-project/\" target=\"_blank\">more information</a>. Modifications to CPIC’s prior system include downgrading the value assigned to the CYP2D6*10 allele for activity score calculation from 0.5 to 0.25 and changing the phenotype assignment for an activity score of 1 from normal metabolizer to intermediate metabolizer (<a rel=\"noopener noreferrer\" href=\"http://files.cpicpgx.org/data/gene/CYP2D6/Inferred_CYP2D6_Phenotype10242019.docx\" target=\"_blank\">table of all previous and new phenotype groupings</a>).</p>\n<p>As a result, the following changes have been made in the CYP2D6 allele functionality table and the CYP2D6 genotype to phenotype table (access tables below):</p>\n<ul>\n<li>Diplotypes giving rise to activity scores of 1 changed from CYP2D6 normal metabolizer to CYP2D6 intermediate metabolizer assignments.\n<ul>\n<li><strong>Impact on the recommendations in this guideline:</strong> The recommendation for CYP2D6 IM (reduce starting dose by 25%) should be considered for CYP2D6 AS of 1 (strength of recommendation: optional). The authors of this guideline are in the process of updating this guideline to reflect this change and evaluate new evidence since the publication of this guideline.</li>\n</ul>\n</li>\n<li>All activity scores for diplotypes containing a CYP2D6*10 allele have been updated accordingly (activity scores changed to reflect the lower activity value of 0.25 for CYP2D6*10). See <a rel=\"noopener noreferrer\" href=\"http://files.cpicpgx.org/data/gene/CYP2D6/Inferred_CYP2D6_Phenotype10242019.docx\" target=\"_blank\">table of all previous and new phenotype groupings</a>.\n<ul>\n<li><strong>Impact on the recommendations in this guideline:</strong> Prior to the consensus projects, the combination of a duplicated normal function allele with a CYP2D6*10 allele resulted in an activity score of 2.5 which translates to an ultrarapid metabolizer. The lower value of 0.25 for CYP2D6*10 results in an activity score of 2.25 for these allele combinations, which based on the consensus project translates to a normal metabolizer.</li>\n</ul>\n</li>\n</ul>\n<h3 id=\"december-2016-update\">December 2016 Update</h3>\n<p><em>Advance online publication December 2016.</em></p>\n<ul>\n<li>The 2016 update of CPIC guidelines regarding the use of pharmacogenomic tests in dosing of tricyclic antidepressants (TCAs) have been published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">(CPIC)</a>.  Literature up to July 2016 was reviewed, recommendations and supplemental information were updated.</li>\n<li>Excerpt from the 2016 dosing guideline update:\n<ul>\n<li>&quot;Both amitriptyline and nortriptyline are used as representative TCAs for this guideline because the majority of pharmacogenomic studies have focused on these two drugs. However, the results of these studies may apply to other TCAs because these drugs have comparable pharmacokinetic properties.&quot;</li>\n<li>&quot;There is substantial evidence linking <em>CYP2D6</em> and <em>CYP2C19</em> genotypes to phenotypic variability in tricyclic side-effect and pharmacokinetic profiles. Modifying pharmacotherapy for patients who have <em>CYP2D6</em> or <em>CYP2C19</em> genomic variants that affect drug efficacy and safety could potentially improve clinical outcomes and reduce the failure rate of initial treatment.&quot;</li>\n<li>&quot; There are scarce studies focusing solely on <em>CYP2D6</em> or <em>CYP2C19</em> genotype and association with pharmacokinetic parameters or treatment outcomes of TCAs in pediatric patients. CYP2D6 activity is fully mature by early childhood, but CYP2C19 activity may be increased in children relative to adults. Although further genomic ontogeny studies are needed, there is a lack of evidence suggesting that this guideline cannot be extrapolated to pediatric patients.&quot;</li>\n</ul>\n</li>\n<li>The guideline includes dosing recommendation for TCAs based on:\n<ul>\n<li>CYP2D6 phenotype (<a href=\"#table-1-dosing-recommendations-for-tcas-based-on-cyp2d6-phenotype\">Table 1 below</a>)</li>\n<li>CYP2C19 phenotype (<a href=\"#table-2-dosing-recommendations-for-tcas-based-on-cyp2c19-phenotype\">Table 2 below</a>)</li>\n</ul>\n</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/TCA/2016/TCA_2016.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium guideline for CYP2D6 and CYP2C19 genotypes and dosing of tricyclic antidepressants: 2016 Update</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/TCA/2016/TCA_Supplement_2016.pdf\" target=\"_blank\">2016 supplement</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/cyp2d6RefMaterials\">CYP2D6 Gene-specific Information Tables</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/cyp2c19RefMaterials\">CYP2C19 Gene-specific Information Tables</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/TCA/2016/Imipramine_Drug_Resource_Mappings.xlsx\" target=\"_blank\">Imipramine Drug Resource Mappings</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-dosing-recommendations-for-tcas-based-on-cyp2d6-phenotype\">Table 1: Dosing recommendations for TCAs based on CYP2D6 phenotype:</h3>\n<p><em>Adapted from Tables 1 and 2 of the 2016 guideline update.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Likely phenotype</th>\n<th>Activity score</th>\n<th>Genotypes</th>\n<th>Examples of diplotypes</th>\n<th>Implications</th>\n<th>Therapeutic Recommendations<sup>a, b</sup></th>\n<th>Classification of recommendation for other TCAs <sup>c</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>CYP2D6 Ultrarapid metabolizer (~1-20% of patients)<sup>d</sup></td>\n<td>&gt;2.0</td>\n<td>An individual carrying more than two copies of functional alleles</td>\n<td>*1/*1xN, *1/*2xN</td>\n<td>Increased metabolism of TCAs to less active compounds compared to normal metabolizers. Lower plasma concentrations of active drug will increase probability of pharmacotherapy failure.</td>\n<td>Avoid tricyclic use due to potential lack of efficacy. Consider alternative drug not metabolized by CYP2D6.<br/>If a TCA is warranted, consider titrating to a higher target dose (compared to normal metabolizers). Utilize therapeutic drug monitoring to guide dose adjustments.<sup>e</sup></td>\n<td>Optional</td>\n</tr>\n<tr>\n<td>CYP2D6 Normal metabolizer (~72-88% of patients)<sup>d</sup></td>\n<td>1.0-2.0<sup>f</sup></td>\n<td>An individual carrying two normal function alleles or two decreased function alleles or one normal and no function allele or one normal and decreased function allele or combinations of duplicated alleles that result in an activity score of 1.0-2.0</td>\n<td>*1/*1, *1/*2, *2/*2, *1/*9, *1/*41, *41/*41, *1/*4, *1/*5</td>\n<td>Normal metabolism of TCAs.</td>\n<td>Initiate therapy with recommended starting dose.<sup>g</sup></td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>CYP2D6 Intermediate metabolizer (~1-13% of patients)<sup>d</sup></td>\n<td>0.5</td>\n<td>An individual carrying one decreased and one no function allele</td>\n<td>*4/*41, *5/*9, *4/*10</td>\n<td>Reduced metabolism of TCAs to less active compounds when compared to normal metabolizers. Higher plasma concentrations of active drug will increase the probability of side effects.</td>\n<td>Consider 25% reduction of recommended starting dose.<sup>g</sup> Utilize therapeutic drug monitoring to guide dose adjustments.<sup>e</sup></td>\n<td>Optional</td>\n</tr>\n<tr>\n<td>CYP2D6 Poor metabolizer (~1-10% of patients)<sup>d</sup></td>\n<td>0</td>\n<td>An individual carrying only no function alleles</td>\n<td>*4/*4, *4/*4xN, *3/*4, *5/*5, *5/*6</td>\n<td>Greatly reduced metabolism of  TCAs to less active compounds compared to normal metabolizers. Higher plasma concentrations of active drug will increase the probability of side effects.</td>\n<td>Avoid tricyclic use due to potential for side effects. Consider alternative drug not metabolized by CYP2D6.<br/>If a TCA is warranted, consider 50% reduction of recommended starting dose.<sup>g</sup> Utilize therapeutic drug monitoring to guide dose adjustments.<sup>e</sup></td>\n<td>Optional</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> For tertiary amines (e.g., amitriptyline), if CYP2C19 genotype results are also available, see Table 2 for CYP2C19-based dosing recommendations and Table 3 below for CYP2D6/CYP2C19-based dosing recommendations.</p>\n<p><sup>b</sup> Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations in the guideline for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.</p>\n<p><sup>c</sup> The rating scheme for the recommendation of classification is described in the Supplement. It may be reasonable to apply amitriptyline recommendation to other TCAs also metabolized by CYP2D6 including clomipramine, desipramine, doxepin, imipramine, and trimipramine. There are fewer clinical and pharmacokinetic data supporting genotype-guided dose adjustments for these drugs when compared to amitriptyline or nortriptyline (Supplemental Tables S8-S16).</p>\n<p><sup>d</sup> CYP2D6 and CYP2C19 metabolizer status frequencies are based on average multi-ethnic frequencies. See the CYP2C19 and CYP2D6 Frequency Tables for population-specific allele and phenotype frequencies.</p>\n<p><sup>e</sup> Titrate dose to observed clinical response with symptom improvement and minimal (if any) side effects.</p>\n<p><sup>f</sup> Patients with an activity score of 1.0 may be classified as intermediate metabolizers by some reference laboratories.</p>\n<p><sup>g</sup> Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose.</p>\n<h3 id=\"table-2-dosing-recommendations-for-tcas-based-on-cyp2c19-phenotype\">Table 2: Dosing recommendations for TCAs based on CYP2C19 phenotype:</h3>\n<p><em>Adapted from Tables 1 and 3 of the 2016 guideline update.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Likely phenotype</th>\n<th>Genotypes</th>\n<th>Examples of diplotypes</th>\n<th>Implications</th>\n<th>Therapeutic recommendations<sup>a,b</sup></th>\n<th>Classification of recommendations for amitriptyline<sup>c</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>CYP2C19 Ultrarapid metabolizer (~2-5% of patients)<sup>d</sup></td>\n<td>An individual carrying two increased function alleles</td>\n<td>*17/*17</td>\n<td>Increased metabolism of tertiary amines compared to normal metabolizers. Greater conversion of tertiary amines to secondary amines may affect response or side effects.</td>\n<td>Avoid tertiary amine use due to potential for sub-optimal response. Consider alternative drug not metabolized by CYP2C19.  TCAs without major CYP2C19 metabolism include the secondary amines nortriptyline and desipramine.<br/>If a tertiary amine is warranted, utilize therapeutic drug monitoring to guide dose adjustments.<sup>e</sup></td>\n<td>Optional</td>\n</tr>\n<tr>\n<td>CYP2C19 Rapid metabolizer (~2-30% of patients)<sup>d</sup></td>\n<td>An individual carrying one normal and one increased function allele</td>\n<td>*1/*17</td>\n<td>Increased metabolism of tertiary amines compared to normal metabolizers. Greater conversion of tertiary amines to secondary amines may affect response or side effects.</td>\n<td>Avoid tertiary amine use due to potential for sub-optimal response. Consider alternative drug not metabolized by CYP2C19.  TCAs without major CYP2C19 metabolism include the secondary amines nortriptyline and desipramine.<br/>If a tertiary amine is warranted, utilize therapeutic drug monitoring to guide dose adjustments.<sup>e</sup></td>\n<td>Optional</td>\n</tr>\n<tr>\n<td>CYP2C19 Normal metabolizer (~35-50% of patients)<sup>d</sup></td>\n<td>An individual carrying two normal function alleles</td>\n<td>*1/*1</td>\n<td>Normal metabolism of tertiary amines.</td>\n<td>Initiate therapy with recommended starting dose.<sup>f</sup></td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>CYP2C19 Intermediate metabolizer (~18-45% of patients)<sup>d</sup></td>\n<td>An individual carrying one normal and one no function allele or one no and one increased function allele</td>\n<td>*1/*2, *1/*3, *2/*17<sup>g</sup></td>\n<td>Reduced metabolism of tertiary amines compared to normal metabolizers.</td>\n<td>Initiate therapy with recommended starting dose.<sup>f</sup></td>\n<td>Optional</td>\n</tr>\n<tr>\n<td>CYP2C19 Poor metabolizer (~2-15% of patients)<sup>d</sup></td>\n<td>An individual carrying two no function alleles</td>\n<td>*2/*2, *2/*3, *3/*3</td>\n<td>Greatly reduced metabolism of tertiary amines compared to normal metabolizers. Decreased conversion of tertiary amines to secondary amines may affect response or side effects.</td>\n<td>Avoid tertiary amine use due to potential for sub-optimal response. Consider alternative drug not metabolized by CYP2C19.  TCAs without major CYP2C19 metabolism include the secondary amines nortriptyline and desipramine.<br/>For tertiary amines, consider a 50% reduction of the recommended starting dose.<sup>f</sup> Utilize therapeutic drug monitoring to guide dose adjustments.<sup>e</sup></td>\n<td>Optional</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> For tertiary amines (e.g., amitriptyline), if CYP2D6 genotype results are also available, see Table 1 for CYP2D6-based dosing recommendations above and Table 3 below for CYP2D6/CYP2C19-based dosing recommendations.</p>\n<p><sup>b</sup> Dosing recommendations only apply to higher initial doses of TCAs for treatment of conditions such as depression. See other considerations in the guideline for dosing recommendations for conditions where lower initial doses are used, such as neuropathic pain.</p>\n<p><sup>c</sup> The rating scheme for the recommendation of classification is described in the Supplement. It may be reasonable to apply amitriptyline recommendation to other TCAs also metabolized by CYP2C19 including clomipramine, doxepin, imipramine, and trimipramine. There are fewer clinical and pharmacokinetic data supporting dose adjustments for these drugs when compared to amitriptyline or nortriptyline (Supplemental Tables S8-S16).</p>\n<p><sup>d</sup> CYP2D6 and CYP2C19 metabolizer status frequencies are based on average multi-ethnic frequencies. See the CYP2C19 and CYP2D6 Frequency Tables for population-specific allele and phenotype frequencies.</p>\n<p><sup>e</sup> Titrate dose to observed clinical response with symptom improvement and minimal (if any) side effects.</p>\n<p><sup>f</sup> Patients may receive an initial low dose of a tricyclic, which is then increased over several days to the recommended steady-state dose. The starting dose in this guideline refers to the recommended steady-state dose.</p>\n<p><sup>g</sup> The predicted metabolizer phenotype for the*2/*17 genotype is a provisional classification. The currently available evidence indicates that the CYP2C19*17 increased function allele is unable to completely compensate for the CYP2C19*2 no function allele.</p>\n<h3 id=\"may-2013\">May 2013</h3>\n<p>Guidelines regarding the use of pharmacogenomic tests in dosing for tricyclic antidepressants have been published in Clinical Pharmacology and Therapeutics by the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium (CPIC)</a>.</p>\n<p><strong>Download:</strong> <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/TCA/2013/23486447.pdf\" target=\"_blank\">article</a> and <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/TCA/2013/23486447-supplement.pdf\" target=\"_blank\">supplement</a></p>\n<h5 id=\"excerpt-from-the-dosing-guidelines\">Excerpt from the dosing guidelines:</h5>\n<p><a href=\"http://www.pharmgkb.org/drug/PA448385\">Amitriptyline</a> and nortriptyline are used as model drugs for this guideline because the majority of pharmacogenomic studies have focused on these two drugs. Because the tricyclics have comparable pharmacokinetic properties, it may be reasonable to apply this <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/TCA/2013/23486447.pdf\" target=\"_blank\">guideline</a> to other tricyclics including clomipramine (<a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/TCA/2013/23486447-supplement.pdf\" target=\"_blank\">Supplementary Table S17</a>), with the acknowledgement that there are fewer data supporting dose adjustments for these drugs than for amitriptyline or nortriptyline.</p>\n<p>See <a href=\"http://www.pharmgkb.org/drug/PA448385\">amitriptyline</a> for excerpts and tables that summarize <em>CYP2D6</em>-based and <em>CYP2C19</em>-based dosing recommendations for amitriptyline when higher initial starting doses are warranted (<a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/TCA/2013/23486447.pdf\" target=\"_blank\">article</a>).</p>\n",
+      "version": 0
+    },
+    "userId": "whaleyr",
+    "version": 46
+  }
+}

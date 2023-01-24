@@ -1,0 +1,22 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+NR1I2	ABCG2	Activation			adrenal medulla chromaffin cell	25542188	ABCG2, NR1I2			NR1I2 activates ABCG2.
+o,p'-DDE	NR1I2	Activation			adrenal medulla chromaffin cell	25542188	NR1I2			o,p'-DDE activates NR1I2.
+o,p'-DDE	CYP1A2	Activation			adrenal medulla chromaffin cell	25542188	CYP1A2			o,p'-DDE activates CYP1A2.
+NR1I2	UGT1A3	Activation			adrenal medulla chromaffin cell	25542188	NR1I2, UGT1A3			NR1I2 activates UGT1A3.
+o,p'-DDE	CYP1A1	Activation			adrenal medulla chromaffin cell	25542188	CYP1A1			o,p'-DDE activates CYP1A1.
+NR1I2	CYP3A4	Activation			adrenal medulla chromaffin cell	25542188	CYP3A4, NR1I2			NR1I2 activates CYP3A4.
+mitotane	NR1I2	Activation			adrenal medulla chromaffin cell	25542188	NR1I2	mitotane		mitotane activates NR1I2.
+mitotane	CYP1A2	Activation			adrenal medulla chromaffin cell	25542188	CYP1A2	mitotane		mitotane activates CYP1A2.
+NR1I2	ABCB1	Activation			adrenal medulla chromaffin cell	25542188	ABCB1, NR1I2			NR1I2 activates ABCB1.
+mitotane	CYP1A1	Activation			adrenal medulla chromaffin cell	25542188	CYP1A1	mitotane		mitotane activates CYP1A1.
+mitotane	o,p'-DDE	Biochemical Reaction			adrenal medulla chromaffin cell	34287806, 25542188		mitotane		Biochemical reaction from mitotane to o,p'-DDE.
+mitotane	o,p'-DDA	Biochemical Reaction	CYP2W1	Gene	adrenal medulla chromaffin cell	34287806, 25542188		mitotane		Biochemical reaction from mitotane to o,p'-DDA. This interaction is catalyzed by CYP2W1.
+o,p'-DDA	SLCO1B1	Inhibition			adrenal medulla chromaffin cell	25542188	SLCO1B1			o,p'-DDA inhibits SLCO1B1.
+mitotane	CYP3A4	Inhibition			adrenal medulla chromaffin cell	25542188	CYP3A4	mitotane		mitotane inhibits CYP3A4.
+mitotane	SOAT1	Inhibition			adrenal medulla chromaffin cell, neoplastic cell	34287806	SOAT1	mitotane		mitotane inhibits SOAT1.
+o,p'-DDE	CYP3A4	Inhibition			adrenal medulla chromaffin cell	25542188	CYP3A4			o,p'-DDE inhibits CYP3A4.
+o,p'-DDE	CYP2D6	Inhibition			adrenal medulla chromaffin cell	25542188	CYP2D6			o,p'-DDE inhibits CYP2D6.
+mitotane	CYP2C19	Inhibition			adrenal medulla chromaffin cell	25542188	CYP2C19	mitotane		mitotane inhibits CYP2C19.
+o,p'-DDE	CYP2C19	Inhibition			adrenal medulla chromaffin cell	25542188	CYP2C19			o,p'-DDE inhibits CYP2C19.
+o,p'-DDA	CYP2C19	Inhibition			adrenal medulla chromaffin cell	25542188	CYP2C19			o,p'-DDA inhibits CYP2C19.
+mitotane	CYP2D6	Inhibition			adrenal medulla chromaffin cell	25542188	CYP2D6	mitotane		mitotane inhibits CYP2D6.

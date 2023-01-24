@@ -1,0 +1,474 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166104948",
+    "name": "Annotation of CPIC Guideline for clopidogrel and CYP2C19",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1447983490,
+        "name": "CPIC® Guideline for Clopidogrel and CYP2C19 – CPIC",
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/",
+        "_url": "https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/",
+        "version": 1
+      }
+    ],
+    "descriptiveVideoId": "qxzsy-2KF3s",
+    "dosingInformation": false,
+    "guidelineGenes": [
+      {
+        "id": 1449561711,
+        "alleles": [
+          {
+            "id": 1449561712,
+            "_label": "*1",
+            "function": {
+              "id": 1445558335,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Normal function",
+              "termId": "haplotypeTags:1445558335",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980634",
+              "symbol": "CYP2C19*1",
+              "name": "*1",
+              "version": 25
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561713,
+            "_label": "*2",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980635",
+              "symbol": "CYP2C19*2",
+              "name": "*2",
+              "version": 25
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561714,
+            "_label": "*3",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980636",
+              "symbol": "CYP2C19*3",
+              "name": "*3",
+              "version": 25
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561717,
+            "_label": "*5",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980638",
+              "symbol": "CYP2C19*5",
+              "name": "*5",
+              "version": 25
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561718,
+            "_label": "*6",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816522",
+              "symbol": "CYP2C19*6",
+              "name": "*6",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561719,
+            "_label": "*7",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816523",
+              "symbol": "CYP2C19*7",
+              "name": "*7",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561720,
+            "_label": "*8",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816524",
+              "symbol": "CYP2C19*8",
+              "name": "*8",
+              "version": 27
+            },
+            "version": 1
+          },
+          {
+            "id": 1449561721,
+            "_label": "*17",
+            "function": {
+              "id": 1445558332,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "Increased function",
+              "termId": "haplotypeTags:1445558332",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165816533",
+              "symbol": "CYP2C19*17",
+              "name": "*17",
+              "version": 29
+            },
+            "version": 1
+          },
+          {
+            "id": 1450805218,
+            "_label": "*4",
+            "function": {
+              "id": 1445558515,
+              "parents": [],
+              "resource": "Allele Function",
+              "term": "No function",
+              "termId": "haplotypeTags:1445558515",
+              "version": 1
+            },
+            "haplotype": {
+              "objCls": "Haplotype",
+              "id": "PA165980637",
+              "symbol": "CYP2C19*4",
+              "name": "*4",
+              "version": 25
+            },
+            "version": 0
+          }
+        ],
+        "gene": {
+          "objCls": "Gene",
+          "id": "PA124",
+          "symbol": "CYP2C19",
+          "name": "cytochrome P450 family 2 subfamily C member 19",
+          "alleleFile": "CYP2C19_allele_definition_table.xlsx",
+          "altNames": {
+            "synonym": [
+              "cytochrome P450, family 2, subfamily C, polypeptide 19"
+            ],
+            "symbol": [
+              "CPCJ",
+              "CYP2C",
+              "P450IIC19"
+            ]
+          },
+          "buildVersion": "GRCh38.p7",
+          "cbStart": "q23.33",
+          "cbStop": "q23.33",
+          "chr": {
+            "objCls": "Chromosome",
+            "id": "PA504",
+            "name": "chr10",
+            "version": 3
+          },
+          "chrStartPosB37": 96522463,
+          "chrStartPosB38": 94762681,
+          "chrStopPosB37": 96612671,
+          "chrStopPosB38": 94853205,
+          "cpicGene": true,
+          "crossReferences": [
+            {
+              "id": 553242512,
+              "resource": "Comparative Toxicogenomics Database",
+              "resourceId": "1557",
+              "_url": "http://ctdbase.org/detail.go?type=gene&acc=1557",
+              "version": 0
+            },
+            {
+              "id": 132256028,
+              "resource": "Ensembl",
+              "resourceId": "ENSG00000165841",
+              "_url": "https://www.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165841",
+              "version": 0
+            },
+            {
+              "id": 73372,
+              "resource": "GenAtlas",
+              "resourceId": "CYP2C19",
+              "_url": "http://genatlas.medecine.univ-paris5.fr/fiche.php?symbol=CYP2C19",
+              "version": 1
+            },
+            {
+              "id": 88300,
+              "resource": "GeneCard",
+              "resourceId": "CYP2C19",
+              "_url": "https://www.genecards.org/cgi-bin/carddisp.pl?gene=CYP2C19",
+              "version": 1
+            },
+            {
+              "id": 608081307,
+              "resource": "HGNC",
+              "resourceId": "HGNC:2621",
+              "_url": "https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC%3A2621",
+              "version": 1
+            },
+            {
+              "id": 608081309,
+              "resource": "HumanCyc Gene",
+              "resourceId": "HS09293",
+              "_url": "http://biocyc.org/HUMAN/NEW-IMAGE?object=HS09293",
+              "version": 0
+            },
+            {
+              "id": 560874113,
+              "resource": "ModBase",
+              "resourceId": "P33261",
+              "_url": "http://salilab.org/modbase/search?modelflag=longest&databaseID=P33261",
+              "version": 0
+            },
+            {
+              "id": 455910,
+              "resource": "MutDB",
+              "resourceId": "CYP2C19",
+              "_url": "http://www.mutdb.org/genes/search?_method=POST&data%5BSearch%5D%5Bidentifier%5D=CYP2C19",
+              "version": 1
+            },
+            {
+              "id": 10744,
+              "resource": "NCBI Gene",
+              "resourceId": "1557",
+              "_url": "https://www.ncbi.nlm.nih.gov/gene/1557",
+              "version": 1
+            },
+            {
+              "id": 716,
+              "resource": "OMIM",
+              "resourceId": "124020",
+              "_url": "https://omim.org/entry/124020",
+              "version": 1
+            },
+            {
+              "id": 560556306,
+              "resource": "OMIM",
+              "resourceId": "609535",
+              "_url": "https://omim.org/entry/609535",
+              "version": 0
+            },
+            {
+              "id": 1451280335,
+              "resource": "PharmVar Gene",
+              "resourceId": "CYP2C19",
+              "_url": "https://www.pharmvar.org/gene/CYP2C19",
+              "version": 0
+            },
+            {
+              "id": 560556305,
+              "resource": "RefSeq DNA",
+              "resourceId": "NG_008384",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NG_008384",
+              "version": 0
+            },
+            {
+              "id": 37037,
+              "resource": "RefSeq DNA",
+              "resourceId": "NT_030059",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NT_030059",
+              "version": 1
+            },
+            {
+              "id": 37896,
+              "resource": "RefSeq Protein",
+              "resourceId": "NP_000760",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NP_000760",
+              "version": 1
+            },
+            {
+              "id": 46971,
+              "resource": "RefSeq RNA",
+              "resourceId": "NM_000769",
+              "_url": "https://www.ncbi.nlm.nih.gov/nuccore/NM_000769",
+              "version": 1
+            },
+            {
+              "id": 122288,
+              "resource": "UCSC Genome Browser",
+              "resourceId": "NM_000769",
+              "_url": "https://genome.ucsc.edu/cgi-bin/hgTracks?Submit=Submit&position=NM_000769",
+              "version": 1
+            },
+            {
+              "id": 62333091,
+              "name": "CP2CJ_HUMAN",
+              "resource": "UniProtKB",
+              "resourceId": "P33261",
+              "_url": "https://www.uniprot.org/uniprot/P33261",
+              "version": 1
+            },
+            {
+              "id": 88,
+              "resource": "URL",
+              "resourceId": "http://www.imm.ki.se/CYPalleles/cyp2c19.htm",
+              "_url": "http://www.imm.ki.se/CYPalleles/cyp2c19.htm",
+              "version": 1
+            }
+          ],
+          "hasNonStandardHaplotypes": false,
+          "hideHaplotypes": false,
+          "pharmVarGene": true,
+          "strand": "plus",
+          "terms": [
+            {"id":560498878,"_url":"http://amigo.geneontology.org/amigo/term/GO:0004497","resource":"Gene Ontology","term":"monooxygenase activity","termId":"GO:0004497"},
+            {"id":560500134,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005783","resource":"Gene Ontology","term":"endoplasmic reticulum","termId":"GO:0005783"},
+            {"id":560500141,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005789","resource":"Gene Ontology","term":"endoplasmic reticulum membrane","termId":"GO:0005789"},
+            {"id":560500144,"_url":"http://amigo.geneontology.org/amigo/term/GO:0005792","resource":"Gene Ontology","term":"microsome","termId":"GO:0005792"},
+            {"id":560501294,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008202","resource":"Gene Ontology","term":"steroid metabolic process","termId":"GO:0008202"},
+            {"id":560496176,"_url":"http://amigo.geneontology.org/amigo/term/GO:0008395","resource":"Gene Ontology","term":"steroid hydroxylase activity","termId":"GO:0008395"},
+            {"id":560503412,"_url":"http://amigo.geneontology.org/amigo/term/GO:0009055","resource":"Gene Ontology","term":"electron carrier activity","termId":"GO:0009055"},
+            {"id":560499972,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016020","resource":"Gene Ontology","term":"membrane","termId":"GO:0016020"},
+            {"id":560506711,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016098","resource":"Gene Ontology","term":"monoterpenoid metabolic process","termId":"GO:0016098"},
+            {"id":560495264,"_url":"http://amigo.geneontology.org/amigo/term/GO:0016491","resource":"Gene Ontology","term":"oxidoreductase activity","termId":"GO:0016491"},
+            {"id":560507281,"_url":"http://amigo.geneontology.org/amigo/term/GO:0017144","resource":"Gene Ontology","term":"drug metabolic process","termId":"GO:0017144"},
+            {"id":560508105,"_url":"http://amigo.geneontology.org/amigo/term/GO:0018675","resource":"Gene Ontology","term":"(S)-limonene 6-monooxygenase activity","termId":"GO:0018675"},
+            {"id":560508106,"_url":"http://amigo.geneontology.org/amigo/term/GO:0018676","resource":"Gene Ontology","term":"(S)-limonene 7-monooxygenase activity","termId":"GO:0018676"},
+            {"id":560509226,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019825","resource":"Gene Ontology","term":"oxygen binding","termId":"GO:0019825"},
+            {"id":560496866,"_url":"http://amigo.geneontology.org/amigo/term/GO:0019899","resource":"Gene Ontology","term":"enzyme binding","termId":"GO:0019899"},
+            {"id":560509358,"_url":"http://amigo.geneontology.org/amigo/term/GO:0020037","resource":"Gene Ontology","term":"heme binding","termId":"GO:0020037"},
+            {"id":560513624,"_url":"http://amigo.geneontology.org/amigo/term/GO:0033767","resource":"Gene Ontology","term":"4-hydroxyacetophenone monooxygenase activity","termId":"GO:0033767"},
+            {"id":560515690,"_url":"http://amigo.geneontology.org/amigo/term/GO:0042738","resource":"Gene Ontology","term":"exogenous drug catabolic process","termId":"GO:0042738"},
+            {"id":560495388,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046483","resource":"Gene Ontology","term":"heterocycle metabolic process","termId":"GO:0046483"},
+            {"id":560495445,"_url":"http://amigo.geneontology.org/amigo/term/GO:0046872","resource":"Gene Ontology","term":"metal ion binding","termId":"GO:0046872"},
+            {"id":560509993,"_url":"http://amigo.geneontology.org/amigo/term/GO:0055114","resource":"Gene Ontology","term":"oxidation reduction","termId":"GO:0055114"}
+          ],
+          "version": 7209
+        },
+        "version": 1
+      }
+    ],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1183699770,
+        "date": "2011-06-22T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1183699757,
+        "date": "2013-05-22T00:00:00-07:00",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451654220,
+        "date": "2022-01-19T09:16:11.163-08:00",
+        "description": "2022 guideline update posted",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451656020,
+        "date": "2022-01-20T13:39:45.171-08:00",
+        "description": "Added updated video",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15127862,"title":"Clinical Pharmacogenetics Implementation Consortium Guideline for CYP2C19 Genotype and Clopidogrel Therapy: 2022 Update.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287492","crossReferences":[{"id":1451837619,"resource":"PubMed Central","resourceId":"PMC9287492","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9287492"},{"id":1451651460,"resource":"PubMed","resourceId":"35034351","_url":"https://www.ncbi.nlm.nih.gov/pubmed/35034351"},{"id":1451651461,"resource":"DOI","resourceId":"10.1002/cpt.2526","_url":"http://dx.doi.org/10.1002%2Fcpt.2526"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15058235,"title":"Clinical Pharmacogenetics Implementation Consortium guidelines for CYP2C19 genotype and clopidogrel therapy: 2013 update.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3748366","crossReferences":[{"id":1449276503,"resource":"PubMed Central","resourceId":"PMC3748366","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3748366"},{"id":1449276502,"resource":"PubMed","resourceId":"23698643","_url":"https://www.ncbi.nlm.nih.gov/pubmed/23698643"},{"id":1449276504,"resource":"DOI","resourceId":"10.1038/clpt.2013.105","_url":"http://dx.doi.org/10.1038%2Fclpt.2013.105"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":8231172,"title":"Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450-2C19 (CYP2C19) genotype and clopidogrel therapy.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3234301","crossReferences":[{"id":1449250640,"resource":"PubMed Central","resourceId":"PMC3234301","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3234301"},{"id":827692890,"resource":"PubMed","resourceId":"21716271","_url":"https://www.ncbi.nlm.nih.gov/pubmed/21716271"},{"id":1449250641,"resource":"DOI","resourceId":"10.1038/clpt.2011.132","_url":"http://dx.doi.org/10.1038%2Fclpt.2011.132"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]},
+      {"id":15100915,"title":"CPIC® Guideline for Clopidogrel and CYP2C19 – CPIC","_sameAs":"https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/","crossReferences":[{"id":1447983490,"resource":"URL","resourceId":"https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/","_url":"https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA449053",
+        "name": "clopidogrel",
+        "version": 19
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA124",
+        "symbol": "CYP2C19",
+        "name": "cytochrome P450 family 2 subfamily C member 19",
+        "version": 7209
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1447981866,
+      "html": "<p>The CPIC Dosing Guideline for clopidogrel recommends an alternative antiplatelet therapy for CYP2C19 poor or intermediate metabolizers (cardiovascular indications: prasugrel or ticagrelor if no contraindication; neurovascular indications: alternative P2Y12 inhibitor if clinically indicated and no contraindication.)</p>\n",
+      "version": 1
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451433626,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/guideline-for-clopidogrel-and-cyp2c19/\" target=\"_blank\">CPIC&reg; guideline for clopidogrel and CYP2C19</a>.</p>\n<h3 id=\"january-2022-update\">January 2022 Update</h3>\n<ul>\n<li>\n<p>The 2022 update of CPIC guideline for clopidogrel has been published in <em>Clinical Pharmacology and Therapeutics</em> and includes expanded indications for CYP2C19 genotype-guided antiplatelet therapy, increased strength of recommendation for CYP2C19 intermediate metabolizers, and evidence from an expanded literature review.</p>\n</li>\n<li>\n<p>This guideline is applicable to:</p>\n<ul>\n<li>adult patients</li>\n<li>pediatric patients</li>\n</ul>\n</li>\n<li>\n<p>Excerpts from the 2022 clopidogrel dosing guideline:</p>\n<ul>\n<li>&quot;The most definitive studies showing a relationship between CYP2C19 genotype and clopidogrel response have predominantly been conducted in patients with ACS, almost all of whom underwent PCI. However, there are accumulating data showing a similar relationship between CYP2C19 no function alleles and clopidogrel response when it is used for other indications, including treatment of acute ischemic stroke or transient ischemic attack (TIA). These data, in combination with strong pharmacokinetic and pharmacodynamic data, support the use of CYP2C19 genotype-guided antiplatelet therapy when considering clopidogrel for neurovascular indications.&quot;</li>\n<li>&quot;The clinical data on which this guideline is based were obtained from studies in adults. Given the well-characterized pharmacokinetic basis for this gene-drug interaction and the presence of fully mature CYP2C19 enzyme activity after 2-3 months of age, it is reasonable to extrapolate the recommendations presented in this guideline to pediatric patients if needed.&quot;</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/clopidogrel/2022/35034351.pdf\" target=\"_blank\">CPIC&reg; Guideline for for CYP2C19 genotype and clopidogrel therapy: 2022 update</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/clopidogrel/2022/35034351-supplement.pdf\" target=\"_blank\">2022 supplement</a></li>\n<li><a href=\"https://www.pharmgkb.org/page/cyp2c19RefMaterials\">CYP2C19 Gene-Specific Information Tables</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/report/current/drug_resource/clopidogrel-Drug_Resource_Mappings.xlsx\" target=\"_blank\">Clopidogrel Drug Resource Mappings</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/clopidogrel/Clopidogrel_Pre_and_Post_Test_Alerts.xlsx\" target=\"_blank\">Clopiodgrel Pre and Post Test Alerts and Flow Chart</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-antiplatelet-therapy-recommendations-based-on-cyp2c19-phenotype-when-considering-clopidogrel-for-cardiovascular-indications\">Table 1: Antiplatelet therapy recommendations based on CYP2C19 phenotype when considering clopidogrel for <strong>cardiovascular indications</strong></h3>\n<p><em>Adapted from Tables 1 and 2 of the 2022 guideline update.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype</th>\n<th>Genotype</th>\n<th>Examples of genotypes</th>\n<th>Implications</th>\n<th>Therapeutic recommendations</th>\n<th>Classification of recommendations<sup>a</sup>- ACS and/or PCI<sup>b</sup></th>\n<th>Classification of recommendations<sup>a</sup> - non-ACS, non-PCI cardiovascular indications<sup>c</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>CYP2C19 ultrarapid metabolizer</td>\n<td>An individual carrying two increased function alleles</td>\n<td>*17/*17</td>\n<td>Increased clopidogrel active metabolite formation; lower on-treatment platelet reactivity; no association with higher bleeding risk</td>\n<td>If considering clopidogrel, use at standard dose (75 mg/day)</td>\n<td>Strong</td>\n<td>No recommendation</td>\n</tr>\n<tr>\n<td>CYP2C19 rapid metabolizer</td>\n<td>An individual carrying one normal function allele and one increased function allele</td>\n<td>*1/*17</td>\n<td>Normal or increased clopidogrel active metabolite formation; normal or lower on-treatment platelet reactivity; no association with higher bleeding risk</td>\n<td>If considering clopidogrel, use at standard dose (75 mg/day)</td>\n<td>Strong</td>\n<td>No recommendation</td>\n</tr>\n<tr>\n<td>CYP2C19 normal metabolizer</td>\n<td>An individual carrying two normal function alleles</td>\n<td>*1/*1</td>\n<td>Normal clopidogrel active metabolite formation; normal on-treatment platelet reactivity</td>\n<td>If considering clopidogrel, use at standard dose (75 mg/day)</td>\n<td>Strong</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>CYP2C19 likely intermediate metabolizer<sup>d</sup></td>\n<td>An individual carrying one normal function allele and one decreased function allele or one increased function allele and one decreased function allele or two decreased function alleles</td>\n<td>*1/*9, *9/*17, *9/*9</td>\n<td>Reduced clopidogrel active metabolite formation; increased on-treatment platelet reactivity; increased risk for adverse cardiac and cerebrovascular events</td>\n<td>Avoid standard dose clopidogrel (75 mg) if possible. Use prasugrel or ticagrelor at standard dose if no contraindication.</td>\n<td>Strong<sup>e</sup></td>\n<td>No recommendation<sup>e</sup></td>\n</tr>\n<tr>\n<td>CYP2C19 intermediate metabolizer</td>\n<td>An individual carrying one normal function allele and one no function allele or one increased function allele and one no function allele</td>\n<td>*1/*2, *1/*3, *2/*17, *3/*17</td>\n<td>Reduced clopidogrel active metabolite formation; increased on-treatment platelet reactivity; increased risk for adverse cardiac and cerebrovascular events</td>\n<td>Avoid standard dose (75 mg) clopidogrel if possible. Use prasugrel or ticagrelor at standard dose if no contraindication.</td>\n<td>Strong</td>\n<td>No recommendation</td>\n</tr>\n<tr>\n<td>CYP2C19 likely poor metabolizer<sup>d</sup></td>\n<td>An individual carrying one decreased function allele and one no function allele</td>\n<td>*2/*9, *3/*9</td>\n<td>Significantly reduced clopidogrel active metabolite formation; increased on-treatment platelet reactivity; increased risk for adverse cardiac and cerebrovascular events</td>\n<td>Avoid clopidogrel if possible. Use prasugrel or ticagrelor at standard dose if no contraindication.</td>\n<td>Strong<sup>e</sup></td>\n<td>Moderate<sup>e</sup></td>\n</tr>\n<tr>\n<td>CYP2C19 poor metabolizer</td>\n<td>An individual carrying two no function alleles</td>\n<td>*2/*2, *3/*3, *2/*3</td>\n<td>Significantly reduced clopidogrel active metabolite formation; increased on-treatment platelet reactivity; increased risk for adverse cardiac and cerebrovascular events</td>\n<td>Avoid clopidogrel if possible. Use prasugrel or ticagrelor at standard dose if no contraindication.</td>\n<td>Strong</td>\n<td>Moderate</td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup> Rating scheme described in the Supplemental Material.\n<sup>b</sup>ACS and/or PCI includes patients undergoing PCI for an ACS or non-ACS (elective) indication.\n<sup>c</sup>Non-ACS, non-PCI cardiovascular indications include peripheral arterial disease and stable coronary artery disease following a recent myocardial infarction outside the setting of PCI.\n<sup>d</sup>There are limited data to characterize the function of decreased function alleles.\n<sup>e</sup>The strength of recommendation for “likely” phenotypes are the same as their respective confirmed phenotypes. “Likely” indicates the uncertainty in the phenotype assignment, but it is reasonable to apply the recommendation for the confirmed phenotype to the corresponding “likely” phenotype.</p>\n<h3 id=\"table-2-antiplatelet-therapy-recommendations-based-on-cyp2c19-phenotype-when-considering-clopidogrel-for-neurovascular-indications\">Table 2: Antiplatelet therapy recommendations based on CYP2C19 phenotype when considering clopidogrel for <strong>neurovascular indications</strong></h3>\n<p><em>Adapted from Tables 1 and 3 of the 2022 guideline update.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype</th>\n<th>Genotype</th>\n<th>Examples of genotypes</th>\n<th>Implications</th>\n<th>Therapeutic recommendations</th>\n<th>Classification of recommendations<sup>a</sup></th>\n<th>Other Considerations</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>CYP2C19 ultrarapid metabolizer</td>\n<td>An individual carrying two increased function alleles</td>\n<td>*17/*17</td>\n<td>Increased clopidogrel active metabolite formation; lower on-treatment platelet reactivity</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td></td>\n</tr>\n<tr>\n<td>CYP2C19 rapid metabolizer</td>\n<td>An individual carrying one normal function allele and one increased function allele</td>\n<td>*1/*17</td>\n<td>Normal or increased clopidogrel active metabolite formation; normal or lower on-treatment platelet reactivity</td>\n<td>No recommendation</td>\n<td>No recommendation</td>\n<td></td>\n</tr>\n<tr>\n<td>CYP2C19 normal metabolizer</td>\n<td>An individual carrying two normal function alleles</td>\n<td>*1/*1</td>\n<td>Normal clopidogrel active metabolite formation; normal on-treatment platelet reactivity</td>\n<td>If considering clopidogrel, use at standard dose (75 mg/day)</td>\n<td>Strong</td>\n<td></td>\n</tr>\n<tr>\n<td>CYP2C19 likely intermediate metabolizer<sup>c</sup></td>\n<td>An individual carrying one normal function allele and one decreased function allele or one increased function allele and one decreased function allele or two decreased function alleles</td>\n<td>*1/*9, *9/*17, *9/*9</td>\n<td>Reduced clopidogrel active metabolite formation; increased on-treatment platelet reactivity; increased risk for adverse cardiac and cerebrovascular events</td>\n<td>Consider an alternative P2Y12 inhibitor at standard dose if clinically indicated and no contraindication.</td>\n<td>Moderate<sup>d</sup></td>\n<td>Alternative P2Y12 inhibitors not impacted by CYP2C19 genetic variants include ticagrelor and ticlopidine. Prasugrel is contraindicated in patients with a history of stroke or TIA.<sup>e</sup></td>\n</tr>\n<tr>\n<td>CYP2C19 intermediate metabolizer</td>\n<td>An individual carrying one normal function allele and one no function allele or one increased function allele and one no function allele</td>\n<td>*1/*2, *1/*3, *2/*17, *3/*17</td>\n<td>Reduced clopidogrel active metabolite formation; increased on-treatment platelet reactivity; increased risk for adverse cardiac and cerebrovascular events</td>\n<td>Consider an alternative P2Y12 inhibitor at standard dose if clinically indicated and no contraindication.</td>\n<td>Moderate</td>\n<td>Alternative P2Y12 inhibitors not impacted by CYP2C19 genetic variants include ticagrelor and ticlopidine. Prasugrel is contraindicated in patients with a history of stroke or TIA.<sup>e</sup></td>\n</tr>\n<tr>\n<td>CYP2C19 likely poor metabolizer<sup>c</sup></td>\n<td>An individual carrying one decreased function allele and one no function allele</td>\n<td>*2/*9, *3/*9</td>\n<td>Significantly reduced clopidogrel active metabolite formation; increased on-treatment platelet reactivity; increased risk for adverse cardiac and cerebrovascular events</td>\n<td>Avoid clopidogrel if possible. Consider an alternative P2Y12 inhibitor at standard dose if clinically indicated and no contraindication.</td>\n<td>Moderate<sup>d</sup></td>\n<td>Alternative P2Y12 inhibitors not impacted by CYP2C19 genetic variants include ticagrelor and ticlopidine. Prasugrel is contraindicated in patients with a history of stroke or TIA.<sup>e</sup></td>\n</tr>\n<tr>\n<td>CYP2C19 poor metabolizer</td>\n<td>An individual carrying two no function alleles</td>\n<td>*2/*2, *3/*3, *2/*3</td>\n<td>Significantly reduced clopidogrel active metabolite formation; increased on-treatment platelet reactivity; increased risk for adverse cardiac and cerebrovascular events</td>\n<td>Avoid clopidogrel if possible. Consider an alternative P2Y12 inhibitor at standard dose if clinically indicated and no contraindication.</td>\n<td>Moderate</td>\n<td>Alternative P2Y12 inhibitors not impacted by CYP2C19 genetic variants include ticagrelor and ticlopidine. Prasugrel is contraindicated in patients with a history of stroke or TIA.<sup>e</sup></td>\n</tr>\n</tbody>\n</table>\n<p><sup>a</sup>Neurovascular disease includes acute ischemic stroke or transient ischemic attack, secondary prevention of stroke, or prevention of thromboembolic events following neurointerventional procedures such as carotid artery stenting and stent-assisted coiling of intracranial aneurysms.\n<sup>b</sup>Rating scheme described in the Supplemental Material.\n<sup>c</sup>There are limited data to characterize the function of decreased function alleles.\n<sup>d</sup>The strength of recommendation for “likely” phenotypes are the same as their respective confirmed phenotypes. “Likely” indicates the uncertainty in the phenotype assignment, but it is reasonable to apply the recommendation for the confirmed phenotype to the corresponding “likely” phenotype.\n<sup>e</sup>Given limited outcomes data for genotype-guided anti-platelet therapy for neurovascular indications, selection of therapy should depend on individual patient treatment goals and risks for adverse events.</p>\n<h3 id=\"september-2013-update\">September 2013 Update</h3>\n<ul>\n<li>The 2013 update of CPIC guidelines regarding clopidogrel have been published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">(CPIC)</a>. Literature published between 1966 to January 2013 was reviewed. The updated therapeutic recommendations are more focused to patients with acute coronary syndromes undergoing percutaneous coronary intervention (ACS/PCI) than the original guideline, with additional updates involve refined recommendations for variant and novel <em>CYP2C19</em> alleles beyond *2.</li>\n<li>At the time of the development of this recommendation, there are no data available on the possible role of CYP2C19 in clopidogrel response in pediatric patient populations; however, there is no reason to suspect that CYP2C19 variant alleles would affect clopidogrel metabolism differently in children as compared with adults.</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/clopidogrel/2013/23698643.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium guidelines for CYP2C19 genotype and clopidogrel therapy: 2013 update</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/clopidogrel/2013/23698643-supplement.pdf\" target=\"_blank\">2013 supplement</a></li>\n</ul>\n</li>\n</ul>\n<p><strong>The American Society of Health-System Pharmacists (ASHP) has endorsed the Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450-2C19 (CYP2C19) genotype and clopidogrel therapy.</strong></p>\n<h3 id=\"august-2011\">August 2011</h3>\n<ul>\n<li>Guidelines regarding the use of pharmacogenomic tests in dosing for clopidogrel were published in Clinical Pharmacology and Therapeutics by the Clinical Pharmacogenetics Implementation Consortium <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/\" target=\"_blank\">(CPIC)</a>.</li>\n<li>Download and read:\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/clopidogrel/2011/21716271.pdf\" target=\"_blank\">Clinical Pharmacogenetics Implementation Consortium guidelines for cytochrome P450-2C19 (CYP2C19) genotype and clopidogrel therapy</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/clopidogrel/2011/21716271-supplement.pdf\" target=\"_blank\">2011 supplement</a></li>\n</ul>\n</li>\n</ul>\n",
+      "version": 1
+    },
+    "userId": "whaleyr",
+    "version": 44
+  }
+}

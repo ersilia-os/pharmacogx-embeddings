@@ -1,0 +1,14 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+imatinib	imatinib (pyridine)-n-oxide	Biochemical Reaction	CYP3A4, FMO3	Gene	hepatocyte	18188833, 16122278		imatinib		Biochemical reaction from imatinib to imatinib (pyridine)-n-oxide. This interaction can be catalyzed by CYP3A4 or FMO3.
+imatinib	hydroxyimatinib metabolites	Biochemical Reaction	CYP1A1, CYP3A4	Gene	hepatocyte	18188833		imatinib		Biochemical reaction from imatinib to hydroxyimatinib metabolites. This interaction can be catalyzed by CYP1A1 or CYP3A4.
+imatinib	AFN911	Biochemical Reaction	CYP1A1, CYP1B1, CYP3A4, CYP4F3	Gene	hepatocyte	18188833, 16006570		imatinib		Biochemical reaction from imatinib to AFN911. This interaction can be catalyzed by CYP1A1, CYP3A4, CYP1B1 or CYP4F3.
+imatinib	imatinib (piperidine)-n-oxide	Biochemical Reaction	CYP3A4, FMO3	Gene	hepatocyte	18188833, 16122278		imatinib		Biochemical reaction from imatinib to imatinib (piperidine)-n-oxide. This interaction can be catalyzed by CYP3A4 or FMO3.
+imatinib	desmethylimatinib	Biochemical Reaction	CYP1A1, CYP2C8, CYP3A4, CYP3A5, CYP4F2	Gene	hepatocyte	29223619, 20977456, 18188833, 16122278		imatinib		Biochemical reaction from imatinib to desmethylimatinib. This interaction can be catalyzed by CYP4F2, CYP1A1, CYP3A4, CYP2C8 or CYP3A5.
+imatinib	KIT	Inhibition			malignant cell	17385949, 16122278, 11870247	KIT	imatinib		imatinib inhibits KIT.
+desmethylimatinib	BCR-ABL	Inhibition			hepatocyte, malignant cell	16122278				desmethylimatinib inhibits BCR-ABL (ABL1, BCR).
+imatinib	BCR-ABL	Inhibition			malignant cell	16122278, 13679030, 12755554, 11287972		imatinib		imatinib inhibits BCR-ABL (ABL1, BCR).
+imatinib	imatinib	Transport	SLC22A1	Gene	null, malignant cell	28762371		imatinib		Transport from imatinib to imatinib. This interaction is catalyzed by SLC22A1.
+imatinib	imatinib	Transport	ABCB1, ABCG2	Gene	malignant cell, null	18449471, 19111841, 16122278, 15828850		imatinib		Transport from imatinib to imatinib. This interaction can be catalyzed by ABCB1 or ABCG2.
+imatinib	imatinib	Transport	SLC22A1	Gene	null, hepatocyte	30262695, 29427770, 28762371		imatinib		Transport from imatinib to imatinib. This interaction is catalyzed by SLC22A1.
+imatinib	imatinib	Transport	SLC22A1	Gene	null, malignant cell	29427770, 28762371		imatinib		Transport from imatinib to imatinib. This interaction is catalyzed by SLC22A1.
+imatinib	imatinib	Transport	ABCB1, ABCG2	Gene	malignant cell, null	18449471, 19111841, 16122278, 15828850		imatinib		Transport from imatinib to imatinib. This interaction can be catalyzed by ABCG2 or ABCB1.

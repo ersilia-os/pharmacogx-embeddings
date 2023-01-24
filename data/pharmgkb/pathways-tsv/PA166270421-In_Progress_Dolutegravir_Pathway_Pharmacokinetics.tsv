@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+dolutegravir	dolutegravir M1	Biochemical Reaction	CYP3A4	Gene	hepatocyte	23669385, 23132334		dolutegravir		Biochemical reaction from dolutegravir to dolutegravir M1. This interaction is catalyzed by CYP3A4.
+dolutegravir	dolutegravir glucuronide	Biochemical Reaction	UGT1A1, UGT1A3, UGT1A9	Gene	hepatocyte	23669385, 23132334		dolutegravir		Biochemical reaction from dolutegravir to dolutegravir glucuronide. This interaction can be catalyzed by UGT1A1, UGT1A3 or UGT1A9.
+dolutegravir	SLC22A2	Inhibition			hepatocyte	23132334	SLC22A2	dolutegravir		dolutegravir inhibits SLC22A2.
+dolutegravir	dolutegravir	Transport	ABCB1, ABCG2	Gene	hepatocyte, null	23132334		dolutegravir		Transport from dolutegravir to dolutegravir. This interaction can be catalyzed by ABCB1 or ABCG2.

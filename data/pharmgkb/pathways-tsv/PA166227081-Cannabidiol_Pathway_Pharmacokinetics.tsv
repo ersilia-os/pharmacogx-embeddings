@@ -1,0 +1,21 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+cannabidiol	7-hydroxycannabidiol	Biochemical Reaction	CYP1A1, CYP1A2, CYP2C19, CYP2C9, CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	21704641, 2026700, 2336840		7-hydroxycannabidiol, cannabidiol		Biochemical reaction from cannabidiol to 7-hydroxycannabidiol. This interaction can be catalyzed by CYP1A2, CYP3A5, CYP2C9, CYP2C19, CYP2D6, CYP1A1 or CYP3A4.
+7-hydroxycannabidiol	7-carboxy cannabidiol	Biochemical Reaction			hepatocyte	30374683, 29540584		7-carboxycannabidiol, 7-hydroxycannabidiol		Biochemical reaction from 7-hydroxycannabidiol to 7-carboxycannabidiol.
+cannabidiol	2''-hydroxycannabidiol	Biochemical Reaction	CYP1A2, CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	21704641, 2026700		2''-hydroxycannabidiol, cannabidiol		Biochemical reaction from cannabidiol to 2''-hydroxycannabidiol. This interaction can be catalyzed by CYP3A4, CYP2D6, CYP1A2 or CYP3A5.
+cannabidiol	5''-hydroxycannabidiol	Biochemical Reaction	CYP1A2, CYP2C9, CYP2D6, CYP3A4	Gene	hepatocyte	21704641, 2026700		5''-hydroxycannabidiol, cannabidiol		Biochemical reaction from cannabidiol to 5''-hydroxycannabidiol. This interaction can be catalyzed by CYP3A4, CYP2D6, CYP1A2 or CYP2C9.
+cannabidiol	4''-hydroxycannabidiol	Biochemical Reaction	CYP1A2, CYP2C19, CYP2C9, CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	21704641, 2026700		4''-hydroxycannabidiol, cannabidiol		Biochemical reaction from cannabidiol to 4''-hydroxycannabidiol. This interaction can be catalyzed by CYP3A4, CYP1A2, CYP2C9, CYP3A5, CYP2C19 or CYP2D6.
+cannabidiol	cannabidiol-O-glucuronide	Biochemical Reaction	UGT1A7, UGT1A9, UGT2B7	Gene	hepatocyte	19339377		cannabidiol, cannabidiol-O-glucuronide		Biochemical reaction from cannabidiol to cannabidiol-O-glucuronide. This interaction can be catalyzed by UGT1A7, UGT2B7 or UGT1A9.
+cannabidiol	6alpha-hydroxycannabidiol	Biochemical Reaction	CYP1A1, CYP1A2, CYP2C19, CYP2C9, CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	21704641, 2026700, 2336840		6alpha-hydroxycannabidiol, cannabidiol		Biochemical reaction from cannabidiol to 6alpha-hydroxycannabidiol. This interaction can be catalyzed by CYP2C9, CYP3A5, CYP2C19, CYP1A1, CYP1A2, CYP3A4 or CYP2D6.
+cannabidiol	6beta-hydroxycannabidiol	Biochemical Reaction	CYP1A1, CYP1A2, CYP2C19, CYP2C9, CYP2D6, CYP3A4, CYP3A5	Gene	hepatocyte	21704641, 2026700, 2336840		6beta-hydroxycannabidiol, cannabidiol		Biochemical reaction from cannabidiol to 6beta-hydroxycannabidiol. This interaction can be catalyzed by CYP2D6, CYP3A5, CYP2C19, CYP1A1, CYP1A2, CYP3A4 or CYP2C9.
+cannabidiol	3''-hydroxycannabidiol	Biochemical Reaction	CYP1A2, CYP3A5	Gene	hepatocyte	21704641, 2026700		3''-hydroxycannabidiol, cannabidiol		Biochemical reaction from cannabidiol to 3''-hydroxycannabidiol. This interaction can be catalyzed by CYP3A5 or CYP1A2.
+cannabidiol	1''-hydroxycannabidiol	Biochemical Reaction	CYP1A1, CYP1A2	Gene	hepatocyte	21704641, 2026700		1''-hydroxycannabidiol, cannabidiol		Biochemical reaction from cannabidiol to 1''-hydroxycannabidiol. This interaction can be catalyzed by CYP1A1 or CYP1A2.
+cannabidiol	UGT2B7	Inhibition			hepatocyte	23230132	UGT2B7	cannabidiol		cannabidiol inhibits UGT2B7.
+cannabidiol	CYP2C9	Inhibition			hepatocyte	22166891	CYP2C9	cannabidiol		cannabidiol inhibits CYP2C9.
+cannabidiol	CYP3A7	Inhibition			hepatocyte	21356216	CYP3A7	cannabidiol		cannabidiol inhibits CYP3A7.
+cannabidiol	CYP3A4	Inhibition			hepatocyte	21356216	CYP3A4	cannabidiol		cannabidiol inhibits CYP3A4.
+cannabidiol	CYP2D6	Inhibition			hepatocyte	21821735	CYP2D6	cannabidiol		cannabidiol inhibits CYP2D6.
+cannabidiol	CYP2C19	Inhibition			hepatocyte	23318708	CYP2C19	cannabidiol		cannabidiol inhibits CYP2C19.
+cannabidiol	CYP3A5	Inhibition			hepatocyte	21356216	CYP3A5	cannabidiol		cannabidiol inhibits CYP3A5.
+cannabidiol	UGT1A9	Inhibition			hepatocyte	23230132	UGT1A9	cannabidiol		cannabidiol inhibits UGT1A9.
+cannabidiol	CYP1A1	Inhibition			hepatocyte	20117100	CYP1A1	cannabidiol		cannabidiol inhibits CYP1A1.
+cannabidiol	CYP1A2	Inhibition			hepatocyte	20117100	CYP1A2	cannabidiol		cannabidiol inhibits CYP1A2.

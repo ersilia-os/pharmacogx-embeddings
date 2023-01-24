@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+1,7-dimethylxanthine	1-methylxanthine	Biochemical Reaction			hepatocyte	17221922		1,7-dimethylxanthine		Biochemical reaction from 1,7-dimethylxanthine to 1-methylxanthine.
+caffeine	1,3,7-trimethyluric acid	Biochemical Reaction	CYPs	Gene Group	hepatocyte	19211970		caffeine		Biochemical reaction from caffeine to 1,3,7-trimethyluric acid. This interaction is catalyzed by CYPs.
+caffeine	theophylline	Biochemical Reaction	CYPs	Gene Group	hepatocyte	19211970, 1302044		caffeine, theophylline		Biochemical reaction from caffeine to theophylline. This interaction is catalyzed by CYPs.
+1,7-dimethylxanthine	5-acetylamino-6-formylamino-3-methyluracil	Biochemical Reaction	NAT2	Gene	hepatocyte	17221922		1,7-dimethylxanthine		Biochemical reaction from 1,7-dimethylxanthine to 5-acetylamino-6-formylamino-3-methyluracil. This interaction is catalyzed by NAT2.
+1-methylxanthine	1-methyluric acid	Biochemical Reaction	XDH	Gene	hepatocyte	17221922				Biochemical reaction from 1-methylxanthine to 1-methyluric acid. This interaction is catalyzed by XDH.
+theophylline	1-methylxanthine	Biochemical Reaction	CYP1A2, CYP3A4	Gene	hepatocyte	8786569, 8236273, 3367304, 2877015		theophylline		Biochemical reaction from theophylline to 1-methylxanthine. This interaction can be catalyzed by CYP3A4 or CYP1A2.
+caffeine	theobromine	Biochemical Reaction	CYP1A2, CYP2E1	Gene	hepatocyte	19211970, 1302044		caffeine, theobromine		Biochemical reaction from caffeine to theobromine. This interaction can be catalyzed by CYP2E1 or CYP1A2.
+1,7-dimethylxanthine	1,7-dimethyluric acid	Biochemical Reaction	CYP1A2, CYP2A6	Gene	hepatocyte	17221922		1,7-dimethylxanthine		Biochemical reaction from 1,7-dimethylxanthine to 1,7-dimethyluric acid. This interaction can be catalyzed by CYP1A2 or CYP2A6.
+caffeine	1,7-dimethylxanthine	Biochemical Reaction	CYP1A2	Gene	hepatocyte	19211970, 17221922, 8529334		1,7-dimethylxanthine, caffeine		Biochemical reaction from caffeine to 1,7-dimethylxanthine. This interaction is catalyzed by CYP1A2.

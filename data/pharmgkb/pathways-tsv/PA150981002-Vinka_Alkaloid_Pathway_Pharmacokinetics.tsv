@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+BCL2	BCL2	Biochemical Reaction	vincristine	Control	cell	7753834	BCL2	vincristine	
+vincristine	metabolite M1	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte	16679390,17272675,18650247	"CYP3A4","CYP3A5"	vincristine	
+vincristine	metabolite M2	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte	16679390,17272675,18650247	"CYP3A4","CYP3A5"	vincristine	
+vincristine	metabolite M4	Biochemical Reaction	CYP3A4,CYP3A5	Catalysis	hepatocyte	16679390,17272675,18650247	"CYP3A4","CYP3A5"	vincristine	
+BCL2	Complex: BAX-BCL2(BAX, BCL2)	Complex Assembly	BCL2	Control	cell	7753834	"BCL2","BAX"		
+vincristine	tubulin	Complex Assembly			cell			vincristine	
+vincristine	vincristine	Transport	ABCB1,ABCC2	Catalysis	hepatocyte	17442684	"ABCB1","ABCC2"	vincristine	
+vincristine	vincristine	Transport	ABCB1,ABCC1,ABCC10,ABCC2,ABCC3,RALBP1	Catalysis	cell	12851703,15371983,16620787,16883550,17143522,18408561,18723777,19118001	"ABCC3","ABCC1","RALBP1","ABCB1","ABCC2","ABCC10"	vincristine	
+vincristine	vincristine	Transport	ABCC1	Catalysis	hepatocyte	9281595,9823323	ABCC1	vincristine	

@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+warfarin	8-hydroxy r-warfarin	Biochemical Reaction	CYP1A1, CYP1A2, CYP2C19	Gene	hepatocyte	27539372, 9014207, 8723744, 8689941		warfarin		Biochemical reaction from warfarin to 8-hydroxy r-warfarin. This interaction can be catalyzed by CYP1A2, CYP1A1 or CYP2C19.
+warfarin	10-hydroxy r-warfarin	Biochemical Reaction	CYP3A4	Gene	hepatocyte	16035367, 11353757, 9014207		warfarin		Biochemical reaction from warfarin to 10-hydroxy r-warfarin. This interaction is catalyzed by CYP3A4.
+warfarin	6-hydroxy r-warfarin	Biochemical Reaction	CYP1A1, CYP1A2, CYP2C19	Gene	hepatocyte	27539372, 9014207, 8689941		warfarin		Biochemical reaction from warfarin to 6-hydroxy r-warfarin. This interaction can be catalyzed by CYP2C19, CYP1A2 or CYP1A1.
+warfarin	7-hydroxy r-warfarin	Biochemical Reaction	CYP1A1, CYP1A2, CYP2C8	Gene	hepatocyte	9416970, 9014207		warfarin		Biochemical reaction from warfarin to 7-hydroxy r-warfarin. This interaction can be catalyzed by CYP2C8, CYP1A2 or CYP1A1.
+warfarin	6-hydroxy s-warfarin	Biochemical Reaction	CYP2C9	Gene	hepatocyte	27539372, 15970795, 12621390, 11926893, 11455026, 10073515, 9014207, 1581537		warfarin		Biochemical reaction from warfarin to 6-hydroxy s-warfarin. This interaction is catalyzed by CYP2C9.
+warfarin	dehydrowarfarin	Biochemical Reaction			hepatocyte	9014207		warfarin		Biochemical reaction from warfarin to dehydrowarfarin.
+warfarin	4-hydroxywarfarin	Biochemical Reaction	CYP2C18, CYP2C9, CYP3A4	Gene	hepatocyte	11353757, 9014207, 8873220		warfarin		Biochemical reaction from warfarin to 4-hydroxywarfarin. This interaction can be catalyzed by CYP2C9, CYP2C18 or CYP3A4.
+warfarin	7-hydroxy s-warfarin	Biochemical Reaction	CYP2C9	Gene	hepatocyte	27539372, 15970795, 12621390, 11926893, 11455026, 9014207, 1581537		warfarin		Biochemical reaction from warfarin to 7-hydroxy s-warfarin. This interaction is catalyzed by CYP2C9.
+warfarin	warfarin	Transport	ABCB1	Gene	hepatocyte, null	14676821		warfarin		Transport from warfarin to warfarin. This interaction is catalyzed by ABCB1.

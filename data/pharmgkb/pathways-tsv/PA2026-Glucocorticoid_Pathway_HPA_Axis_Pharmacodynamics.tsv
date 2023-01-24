@@ -1,0 +1,19 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+ACTH	Glucocorticoids	Biochemical Reaction			"peptide hormone secreting cell","cortical cell of adrenal gland"				
+CRH	CRH	Biochemical Reaction	Glucocorticoids	Control	"neuron","cortical cell of adrenal gland"		CRH		
+CRH	CRH	Biochemical Reaction	Glucocorticoids	Control	"cortical cell of adrenal gland","neuroendocrine cell"		CRH		
+CRH	CRH	Biochemical Reaction			"neuron","neuroendocrine cell"		CRH		
+CRH	CRH	Biochemical Reaction			"neuron","neuroendocrine cell"		CRH		
+CRH	CRHR1	Biochemical Reaction			neuron	10393986	"CRH","CRHR1"		
+CRH	CRHR1	Biochemical Reaction			"cell","neuroendocrine cell"	9190925	"CRH","CRHR1"		
+CRH	CRHR1	Biochemical Reaction			"peptide hormone secreting cell","neuroendocrine cell"	10393986	"CRH","CRHR1"		
+CRHR1	POMC	Biochemical Reaction			peptide hormone secreting cell		"POMC","CRHR1"		
+POMC	ACTH	Biochemical Reaction			peptide hormone secreting cell	8882784	POMC		
+POMC	POMC	Biochemical Reaction	Glucocorticoids	Control	"peptide hormone secreting cell","cortical cell of adrenal gland"		POMC		
+UCN	CRHR1	Biochemical Reaction			peptide hormone secreting cell		"UCN","CRHR1"		
+UCN	CRHR1	Biochemical Reaction			cell	11836334,9190925	"UCN","CRHR1"		
+UCN	CRHR1	Biochemical Reaction			peptide hormone secreting cell		"UCN","CRHR1"		
+UCN	CRHR2	Biochemical Reaction			cell	11836334	"UCN","CRHR2"		
+UCN	CRHR2	Biochemical Reaction			neuron		"UCN","CRHR2"		
+UCN2	CRHR2	Biochemical Reaction			cell	14736736	"UCN2","CRHR2"		
+UCN3	CRHR2	Biochemical Reaction			cell		"UCN3","CRHR2"		

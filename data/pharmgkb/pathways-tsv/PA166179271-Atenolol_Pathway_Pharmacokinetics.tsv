@@ -1,0 +1,12 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+apple juice	SLC22A1	Inhibition			null, enterocyte	29124159	SLC22A1	apple juice		apple juice inhibits SLC22A1.
+apple juice	SLCO2B1	Inhibition			null, enterocyte	22574741	SLCO2B1	apple juice		apple juice inhibits SLCO2B1.
+orange juice	SLCO1A2	Inhibition			null, enterocyte	21039758	SLCO1A2	orange juice		orange juice inhibits SLCO1A2.
+atenolol	SLC22A6	Inhibition			brush border cell of the proximal tubule	26374172	SLC22A6	atenolol		atenolol inhibits SLC22A6.
+atenolol	SLC22A8	Inhibition			brush border cell of the proximal tubule	26374172	SLC22A8	atenolol		atenolol inhibits SLC22A8.
+atenolol	atenolol	Transport	ABCB1	Gene	enterocyte, null	19067419		atenolol		Transport from atenolol to atenolol. This interaction is catalyzed by ABCB1.
+atenolol	atenolol	Transport	SLC22A1, SLC22A2	Gene	null, hepatocyte	26374172, 29124159		atenolol		Transport from atenolol to atenolol. This interaction can be catalyzed by SLC22A1 or SLC22A2.
+atenolol	atenolol	Transport	SLC47A1, SLC47A2	Gene	hepatocyte, null	26374172		atenolol		Transport from atenolol to atenolol. This interaction can be catalyzed by SLC47A1 or SLC47A2.
+atenolol	atenolol	Transport	SLC22A1, SLCO1A2, SLCO2B1	Gene	null, enterocyte	29124159, 22574741, 21039758, 19067419		atenolol		Transport from atenolol to atenolol. This interaction can be catalyzed by SLC22A1, SLCO2B1 or SLCO1A2.
+atenolol	atenolol	Transport	SLC47A1, SLC47A2	Gene	brush border cell of the proximal tubule, null	26374172		atenolol		Transport from atenolol to atenolol. This interaction can be catalyzed by SLC47A1 or SLC47A2.
+atenolol	atenolol	Transport	SLC22A1	Gene	null, brush border cell of the proximal tubule	26374172		atenolol		Transport from atenolol to atenolol. This interaction is catalyzed by SLC22A1.

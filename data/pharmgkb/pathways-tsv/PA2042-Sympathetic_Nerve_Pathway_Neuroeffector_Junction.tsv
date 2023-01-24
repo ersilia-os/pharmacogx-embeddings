@@ -1,0 +1,22 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+	dopamine	Biochemical Reaction		Control	norepinephrin secreting cell				
+ADRA1A,ADRA1B,ADRA1D	ADRA1A,ADRA1B,ADRA1D	Biochemical Reaction	Alpha-adrenoreceptor antagonists,Alpha-adrenoreceptor antagonists,dopamine,epinephrine,isoproterenol,methoxamine,norepinephrine,norepinephrine,phenylephrine	Control	muscle cell	15640645	"ADRA1D","ADRA1B","ADRA1A"	"norepinephrine","methoxamine","phenylephrine","Alpha-adrenoreceptor antagonists","epinephrine","isoproterenol","dopamine"	
+ADRA2A,ADRA2B,ADRA2C	ADRA2A,ADRA2B,ADRA2C	Biochemical Reaction	brimonidine,clonidine,dopamine,epinephrine,isoproterenol,norepinephrine,norepinephrine,yohimbine	Control	muscle cell		"ADRA2C","ADRA2B","ADRA2A"	"norepinephrine","brimonidine","clonidine","yohimbine","epinephrine","isoproterenol","dopamine"	
+ADRA2A,ADRA2B,ADRA2C	ADRA2A,ADRA2B,ADRA2C	Biochemical Reaction	norepinephrine	Control	norepinephrin secreting cell	15726019	"ADRA2C","ADRA2B","ADRA2A"		
+ADRB1	ADRB1	Biochemical Reaction	Beta blocking agents, non-selective,Beta blocking agents, selective,dobutamine,norepinephrine	Control	muscle cell	14728047	ADRB1	"Beta blocking agents, selective","Beta blocking agents, non-selective","dobutamine"	
+ADRB2	ADRB2	Biochemical Reaction	norepinephrine	Control	norepinephrin secreting cell	14728047	ADRB2		
+ADRB2	ADRB2	Biochemical Reaction	Beta blocking agents, non-selective,fenoterol,formoterol,norepinephrine,ritodrine,salbutamol,salmeterol,terbutaline	Control	muscle cell	14728047	ADRB2	"salmeterol","ritodrine","salbutamol","terbutaline","Beta blocking agents, non-selective","fenoterol","formoterol"	
+CACNA1A,CACNA1B,CACNA1C,CACNA1D	CACNA1A,CACNA1B,CACNA1C,CACNA1D	Biochemical Reaction	,	Control	norepinephrin secreting cell		"CACNA1B","CACNA1A","CACNA1D","CACNA1C"		
+DBH	DBH	Biochemical Reaction	disulfiram	Control	norepinephrin secreting cell	14573319	DBH	disulfiram	
+dopamine	norepinephrine	Biochemical Reaction	DBH	Catalysis	norepinephrin secreting cell		DBH		
+GPR182	GPR182	Biochemical Reaction	ADM	Control	muscle cell	15501534	"GPR182","ADM"		
+NPY1R	NPY1R	Biochemical Reaction	NPY,PYY	Control	muscle cell	8189249	"PYY","NPY","NPY1R"		
+NPY2R	NPY2R	Biochemical Reaction	NPY,PYY	Control	norepinephrin secreting cell	8189249	"PYY","NPY","NPY2R"		
+SLC6A2	SLC6A2	Biochemical Reaction	desipramine	Control	norepinephrin secreting cell	15118352	SLC6A2	desipramine	
+		Biochemical Reaction	,calcium	Control	norepinephrin secreting cell				
+norepinephrine	norepinephrine	Transport	SLC6A2	Catalysis	norepinephrin secreting cell	15362567	SLC6A2		
+calcium	calcium	Transport	CACNA1A,CACNA1B,CACNA1C,CACNA1D	Catalysis	norepinephrin secreting cell	11306608,15635597	"CACNA1B","CACNA1A","CACNA1D","CACNA1C"		
+dopamine	dopamine	Transport	SLC18A1,SLC18A2	Catalysis	norepinephrin secreting cell	15496457,9195934	"SLC18A1","SLC18A2"		
+norepinephrine	norepinephrine	Transport	SLC18A2	Catalysis	norepinephrin secreting cell		SLC18A2		
+norepinephrine	norepinephrine	Transport	SLC6A2	Catalysis	norepinephrin secreting cell		SLC6A2		
+norepinephrine	norepinephrine	Transport	SLC22A3	Catalysis	muscle cell	15135235	SLC22A3		

@@ -1,0 +1,105 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166262661",
+    "name": "Annotation of CPIC Guideline for atorvastatin, fluvastatin, lovastatin, pitavastatin, pravastatin, simvastatin and ABCG2",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "descriptiveVideoId": "krWRm5iMLaY",
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451687101,
+        "date": "2022-02-17T00:00:00-08:00",
+        "description": "CPIC statins 2022 update",
+        "type": "Note",
+        "version": 1
+      },
+      {
+        "id": 1451694002,
+        "date": "2022-02-23T14:00:05.487-08:00",
+        "description": "Added video",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451889463,
+        "date": "2022-09-22T14:17:24.774-07:00",
+        "description": "fixed typo",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15128762,"title":"The Clinical Pharmacogenetics Implementation Consortium Guideline for SLCO1B1, ABCG2, and CYP2C9 genotypes and Statin-Associated Musculoskeletal Symptoms.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9035072","crossReferences":[{"id":1451837607,"resource":"PubMed Central","resourceId":"PMC9035072","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9035072"},{"id":1451681580,"resource":"PubMed","resourceId":"35152405","_url":"https://www.ncbi.nlm.nih.gov/pubmed/35152405"},{"id":1451681581,"resource":"DOI","resourceId":"10.1002/cpt.2557","_url":"http://dx.doi.org/10.1002%2Fcpt.2557"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": false,
+    "recommendation": false,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA448500",
+        "name": "atorvastatin",
+        "version": 21
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA449688",
+        "name": "fluvastatin",
+        "version": 21
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA450272",
+        "name": "lovastatin",
+        "version": 20
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA142650384",
+        "name": "pitavastatin",
+        "version": 3
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451089",
+        "name": "pravastatin",
+        "version": 20
+      },
+      {
+        "objCls": "Chemical",
+        "id": "PA451363",
+        "name": "simvastatin",
+        "version": 23
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA390",
+        "symbol": "ABCG2",
+        "name": "ATP binding cassette subfamily G member 2 (Junior blood group)",
+        "version": 3595
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1451673160,
+      "html": "<p>There are currently no recommendations for atorvastatin, lovastatin, fluvastatin, pravastatin, pitavastatin and simvastatin dosing based on ABCG2 genotypes.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451673161,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/cpic-guideline-for-statins/\" target=\"_blank\">CPIC&reg; guideline for SLCO1B1, ABCG2, and CYP2C9 and statin-associated musculoskeletal symptoms</a>.</p>\n<h3 id=\"february-2022-update\">February 2022 Update</h3>\n<ul>\n<li>\n<p>The <a rel=\"noopener noreferrer\" href=\"https://ascpt.onlinelibrary.wiley.com/doi/epdf/10.1002/cpt.2557\" target=\"_blank\">CPIC guideline for SLCO1B1, ABCG2, and CYP2C9 and statin-associated musculoskeletal symptoms</a>, has been published in Clinical Pharmacology and Therapeutics. CPIC authors summarize literature supporting how SLCO1B1, ABCG2, and CYP2C9 genotype test results should be applied to optimize new or existing statin therapy to reduce the risk of statin-associated musculoskeletal symptoms (SAMS). The current document replaces the original 2012 guideline and the 2014 update for SLCO1B1 and simvastatin. New to this guideline are the addition of recommendations for CYP2C9 and ABCG2 and addition of recommendations for all statins.</p>\n</li>\n<li>\n<p>This guideline is applicable to:</p>\n<ul>\n<li>adult patients</li>\n<li>pediatric patients</li>\n</ul>\n</li>\n<li>\n<p>Excerpt from the 2022 statin dosing guideline:</p>\n<ul>\n<li>&quot;ABCG2. Recommendations for ABCG2 are specific to rosuvastatin (Table 3). For individuals who have ABCG2 poor function, a rosuvastatin starting dose of ≤20mg is recommended; however, if a dose greater than 20mg is needed for desired efficacy, an alternative statin or combination therapy (e.g., statin + ezetimibe) is recommended. Although the risk of myopathy is unknown, rosuvastatin exposure (AUC) was 144% greater in those with the c.421AA genotype than the c.421CC genotype (wild-type); thus, the recommendation is based primarily on pharmacokinetic data. Likely because of the higher hepatic exposure, the ABCG2 c.421A variant has also been associated with improved cholesterol lowering response to rosuvastatin in large genomewide association studies. Selection and dosing of rosuvastatin should also consider Asian ancestry (Table 3, see the Supplemental Material for more discussion). Atorvastatin pharmacokinetics are also affected by ABCG2 genetic variation; however, at this time, there is insufficient evidence to provide a recommendation (no recommendation, CPIC level C). As noted previously, there is also limited evidence for providing recommendations for other statins based on genetic variation in ABCG2.&quot;</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/statins/2022/publication.pdf\" target=\"_blank\">The Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for SLCO1B1, ABCG2, and CYP2C9 and statin-associated musculoskeletal symptoms</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/statins/2022/supplement.pdf\" target=\"_blank\">2022 supplement</a></li>\n</ul>\n</li>\n</ul>\n",
+      "version": 3
+    },
+    "userId": "lgong",
+    "version": 6
+  }
+}

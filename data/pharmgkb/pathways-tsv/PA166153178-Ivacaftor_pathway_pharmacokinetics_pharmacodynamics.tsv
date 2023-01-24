@@ -1,0 +1,15 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+CFTR	Ivacaftor-CFTR	Activation	ivacaftor	Drug	epithelial cell of lung, epithelial cell	24561283, 19846789	CFTR			CFTR activates Ivacaftor-CFTR (ivacaftor, CFTR). This interaction is activated by ivacaftor.
+lumacaftor	lumacaftor-CFTR	Activation	CFTR	Gene	epithelial cell of lung	26581802		lumacaftor		lumacaftor activates lumacaftor-CFTR (lumacaftor, CFTR). This interaction is activated by CFTR.
+CFTR	ivacaftor-CFTR	Activation	ivacaftor	Drug	epithelial cell of lung	26581802	CFTR			CFTR activates ivacaftor-CFTR (ivacaftor, CFTR). This interaction is activated by ivacaftor.
+ivacaftor	hydroxymethyl ivacaftor, ivacaftor carboxylate	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	25103957		ivacaftor		Biochemical reaction from ivacaftor to hydroxymethyl ivacaftor, ivacaftor carboxylate. This interaction can be catalyzed by CYP3A4 or CYP3A5.
+lumacaftor-CFTR	CFTR	Conversion			epithelial cell of lung	26581802	CFTR			Conversion from lumacaftor-CFTR (lumacaftor, CFTR) to CFTR.
+lumacaftor-CFTR	lumacaftor	Conversion			epithelial cell of lung	26581802		lumacaftor		Conversion from lumacaftor-CFTR (lumacaftor, CFTR) to lumacaftor.
+ivacaftor	ABCB1	Inhibition			hepatocyte	25103957	ABCB1	ivacaftor		ivacaftor inhibits ABCB1.
+ivacaftor	CYP3A	Inhibition			hepatocyte	25103957	CYP3A	ivacaftor		ivacaftor inhibits CYP3A.
+hydroxymethyl ivacaftor	elimination	Leads To			hepatocyte, null	25148205				hydroxymethyl ivacaftor leads to elimination.
+ivacaftor carboxylate	elimination	Leads To	SLCO1B1	Gene	hepatocyte, null	25148205				ivacaftor carboxylate leads to elimination. This interaction is activated by SLCO1B1.
+lumacaftor	lumacaftor	Transport			null, epithelial cell of lung	26581802		lumacaftor		Transport from lumacaftor to lumacaftor.
+CFTR	CFTR	Transport			epithelial cell of lung	26581802	CFTR			Transport from CFTR to CFTR.
+chloride	chloride	Transport	Ivacaftor-CFTR	Gene-Drug Complex	epithelial cell of lung, null	23440202				Transport from chloride to chloride. This interaction is activated by Ivacaftor-CFTR (ivacaftor, CFTR).
+chloride	chloride	Transport	ivacaftor-CFTR	Gene-Drug Complex	epithelial cell of lung, null	26581802				Transport from chloride to chloride. This interaction is activated by ivacaftor-CFTR (ivacaftor, CFTR).

@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+amodiaquine	2-hydroxy-desethyl- amodiaquine	Biochemical Reaction			hepatocyte	3519640,3549750,3965841		amodiaquine	
+amodiaquine	M2	Biochemical Reaction	CYP1A1,CYP1B1	Catalysis	hepatocyte	11805197,18855526	"CYP1A1","CYP1B1"	amodiaquine	
+amodiaquine	N-bis-desethyl- amodiaquine	Biochemical Reaction			hepatocyte	3519640,3549750,3965841		amodiaquine	
+amodiaquine	N-desethyl- amodiaquine (DEAQ)	Biochemical Reaction	CYP2C8,CYPs	Catalysis	hepatocyte	11805197,3814460	CYP2C8	amodiaquine	
+N-desethyl- amodiaquine (DEAQ)	N-bis-desethyl- amodiaquine	Biochemical Reaction			hepatocyte	8329010			

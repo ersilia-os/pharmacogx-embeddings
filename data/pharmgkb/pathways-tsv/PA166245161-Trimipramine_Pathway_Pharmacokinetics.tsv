@@ -1,0 +1,4 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+trimipramine	desmethyltrimipramine	Biochemical Reaction	CYP2C19, CYP2C9	Gene	hepatocyte	14520122, 10774635, 2778096, 6527248		trimipramine		Biochemical reaction from trimipramine to desmethyltrimipramine. This interaction can be catalyzed by CYP2C19 or CYP2C9.
+desmethyltrimipramine	2-hydroxydesmethyltrimipramine	Biochemical Reaction	CYP2D6	Gene	hepatocyte	14646691, 14520122, 10774635, 1454163, 6527248				Biochemical reaction from desmethyltrimipramine to 2-hydroxydesmethyltrimipramine. This interaction is catalyzed by CYP2D6.
+trimipramine	2-hydroxytrimipramine	Biochemical Reaction	CYP2D6	Gene	hepatocyte	14646691, 14520122, 10774635, 8204992, 1454163, 6527248		trimipramine		Biochemical reaction from trimipramine to 2-hydroxytrimipramine. This interaction is catalyzed by CYP2D6.

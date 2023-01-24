@@ -1,0 +1,10 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+CYP2D6	CYP2D6	Biochemical Reaction	fluoxetine,S-Norfluoxetine	Inhibition	hepatocyte	24569517	CYP2D6	fluoxetine	
+fluoxetine	Fluoxetine glucuronide	Biochemical Reaction			hepatocyte	10674711,2878798,7935707		fluoxetine	
+fluoxetine	Inactive metabolites	Biochemical Reaction			hepatocyte	10674711,2878798,7935707		fluoxetine	
+fluoxetine	R-Norfluoxetine	Biochemical Reaction	CYP2C19,CYP2C9,CYP2D6,CYP3A4,CYP3A5	Catalysis	hepatocyte	10208643,10997938,11356927,8355218,9298519	"CYP2C9","CYP2D6","CYP2C19","CYP3A4","CYP3A5"	fluoxetine	
+fluoxetine	S-Norfluoxetine	Biochemical Reaction	CYP2C19,CYP2D6,CYP3A4,CYP3A5	Catalysis	hepatocyte	10208643,10997938,11356927,8355218,9298519	"CYP2D6","CYP2C19","CYP3A4","CYP3A5"	fluoxetine	
+R-Norfluoxetine	Inactive metabolites	Biochemical Reaction			hepatocyte	10674711,2878798,7935707			
+R-Norfluoxetine	Norfluoxetine glucuronide	Biochemical Reaction			hepatocyte	10674711,2878798,7935707			
+S-Norfluoxetine	Inactive metabolites	Biochemical Reaction			hepatocyte	10674711,2878798,7935707			
+S-Norfluoxetine	Norfluoxetine glucuronide	Biochemical Reaction			hepatocyte	10674711,2878798,7935707			

@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+docetaxel metabolite m1/m3	docetaxel metabolite m4	Biochemical Reaction	CYP3A4	Gene	hepatocyte	35174070, 23939959, 12386117, 10092957, 9825831, 8640817				Biochemical reaction from docetaxel metabolite m1/m3 to docetaxel metabolite m4. This interaction is catalyzed by CYP3A4.
+docetaxel	docetaxel metabolite m1/m3	Biochemical Reaction	CYP3A4, CYP3A5	Gene	hepatocyte	35174070, 23939959, 12386117, 10092957, 9825831, 8640817		docetaxel		Biochemical reaction from docetaxel to docetaxel metabolite m1/m3. This interaction can be catalyzed by CYP3A4 or CYP3A5.
+docetaxel	docetaxel	Transport	ABCB1, ABCC2, ABCG2	Gene	hepatocyte, null	28300564, 18509327		docetaxel		Transport from docetaxel to docetaxel. This interaction can be catalyzed by ABCG2, ABCC2 or ABCB1.
+docetaxel	docetaxel	Transport	SLCO1B3	Gene	null, hepatocyte	18509327		docetaxel		Transport from docetaxel to docetaxel. This interaction is catalyzed by SLCO1B3.

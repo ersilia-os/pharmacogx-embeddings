@@ -1,0 +1,29 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+AA	PGG2	Biochemical Reaction	PTGS1	Catalysis	platelet	18038215,8145785	PTGS1		
+AA	PGH2	Biochemical Reaction	PTGS1	Catalysis	platelet	18038215,8145785	PTGS1		
+ADCY3	ADCY3	Biochemical Reaction	GNAI1,GNAI2,GNAI3,GNB3,GNAS	Activation,Inhibition	platelet	11997386,15187029	"GNAI3","GNAS","ADCY3","GNB3","GNAI1","GNAI2"		
+ATP	cyclic AMP	Biochemical Reaction	ADCY3	Catalysis	platelet	15187029	ADCY3		
+calcium	calcium	Biochemical Reaction	IP3	Activation	platelet	15914557			
+clopidogrel	Active metabolite	Biochemical Reaction	CYP1A2,CYP2B6,CYP2C19,CYP2C9,CYP3A4,CYP3A5	Catalysis	platelet	11127873,12485953,17361128,19812348	"CYP2C9","CYP2B6","CYP1A2","CYP2C19","CYP3A4","CYP3A5"	clopidogrel	
+ITGA2B,ITGB3	ITGA2B,ITGB3	Biochemical Reaction	PLCB1,PLCG2	Activation	platelet	11964287,12297512,15914557	"ITGB3","ITGA2B","PLCG2","PLCB1"		
+GNAI1,GNAI2,GNAI3,GNB3	GNAI1,GNAI2,GNAI3,GNB3	Biochemical Reaction	P2RY12	Activation	platelet	15187029	"P2RY12","GNAI3","GNB3","GNAI1","GNAI2"		
+GNA11,GNA12,GNA13,GNA15,GNAQ,GNB3	GNA11,GNA12,GNA13,GNA15,GNAQ,GNB3	Biochemical Reaction	P2RY1,TBXA2R,F2R,F2RL3	Activation	platelet	15914557,8290554,9653141	"GNA13","GNA15","TBXA2R","GNA11","GNAQ","GNA12","P2RY1","F2R","GNB3","F2RL3"		
+CD36,GP1BB,GP5,GP6,GP9,ITGA2	CD36,GP1BB,GP5,GP6,GP9,ITGA2	Biochemical Reaction	COL1A1,COL1A2,COL3A1,COL4A1,COL4A2,Complex: Collagen-VWF(COL1A1, COL1A2, COL3A1, COL4A1, COL4A2, VWF)	Activation	platelet	11487007,16149014,6087354	"COL1A1","GP9","COL3A1","COL1A2","COL4A2","VWF","GP1BB","COL4A1","ITGA2","CD36","GP6","GP5"		
+GNAS	GNAS	Biochemical Reaction	PTGDR,PTGER2,PTGIR	Activation	platelet	11997386	"PTGIR","PTGER2","GNAS","PTGDR"		
+IP3	IP3	Biochemical Reaction	PLCB1,PLCG2	Activation	platelet	15914557	"PLCG2","PLCB1"		
+P2RX1	P2RX1	Biochemical Reaction	ATP	Activation	platelet	15914557	P2RX1		
+PGG2	TBXA2	Biochemical Reaction	TBXAS1	Catalysis	platelet	18038215,8145785	TBXAS1		
+PGH2	TBXA2	Biochemical Reaction	TBXAS1	Catalysis	platelet	18038215,8145785	TBXAS1		
+phosphatidylcholine	AA	Biochemical Reaction	PLA2G2A,PLA2G4A,PLA2G4B	Catalysis	platelet		"PLA2G4B","PLA2G2A","PLA2G4A"		
+phosphatidylethanolamine	AA	Biochemical Reaction	PLA2G2A,PLA2G4A,PLA2G4B	Catalysis	platelet		"PLA2G4B","PLA2G2A","PLA2G4A"		
+PLCB1,PLCG2	PLCB1,PLCG2	Biochemical Reaction	GNA11,GNA12,GNA13,GNA15,GNAQ,GNB3,CD36,GP1BB,GP5,GP6,GP9,ITGA2	Activation	platelet	11487007,15914557	"GP1BB","ITGA2","GP6","GP5","GNA13","GP9","GNA15","GNA11","GNAQ","GNA12","PLCG2","GNB3","CD36","PLCB1"		
+PLA2G2A,PLA2G4A,PLA2G4B	PLA2G2A,PLA2G4A,PLA2G4B	Biochemical Reaction	,calcium,PLCB1,PLCG2	Activation	platelet	16149014,8253817	"PLA2G4B","PLA2G2A","PLCG2","PLA2G4A","PLCB1"		
+PTGS1	PTGS1	Biochemical Reaction	aspirin	Inhibition	platelet	18038215,8145785	PTGS1	aspirin	
+FGA,FGB,FGG	ITGA2B,ITGB3	Complex Assembly	abciximab,eptifibatide,tirofiban	Inhibition	platelet	6087354	"FGB","FGA","ITGB3","FGG","ITGA2B"	"eptifibatide","abciximab","tirofiban"	
+FGA,FGB,FGG	ITGA2B,ITGB3	Complex Assembly			platelet	6087354	"FGB","FGA","ITGB3","FGG","ITGA2B"		
+P2RY1	P2RY1	Conversion	ADP	Activation	platelet		P2RY1		
+P2RY12	P2RY12	Conversion	Active metabolite,ADP,prasugrel,ticlopidine	Activation,Inhibition	platelet		P2RY12	"prasugrel","ticlopidine"	
+PTGDR,PTGER2,PTGIR	PTGDR,PTGER2,PTGIR	Conversion	PGD2,PGE2,PGI2	Activation	platelet		"PTGIR","PTGER2","PTGDR"		
+TBXA2R	TBXA2R	Conversion	TBXA2	Activation	platelet		TBXA2R		
+F2R,F2RL3	F2R,F2RL3	Conversion	F2	Activation	platelet		"F2R","F2","F2RL3"		
+calcium	calcium	Transport	P2RX1	Catalysis	platelet	15914557	P2RX1		

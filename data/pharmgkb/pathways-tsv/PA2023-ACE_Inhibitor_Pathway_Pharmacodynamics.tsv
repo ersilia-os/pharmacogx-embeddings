@@ -1,0 +1,27 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+ATP6AP2	MAPK1	Activation			cell	18417113	ATP6AP2, MAPK1			ATP6AP2 activates MAPK1.
+angiotensin II	AGTR2	Activation			null, cell	17717300, 18035185, 15134803	AGTR2			angiotensin II activates AGTR2.
+REN	ATP6AP2	Activation			null, cell	18417113	ATP6AP2, REN			REN activates ATP6AP2.
+angiotensin 1-7	MAS1	Activation			null, cell	18449520, 18035185	MAS1			angiotensin 1-7 activates MAS1.
+MAPK3	TGFB1	Activation			cell	18417113	MAPK3, TGFB1			MAPK3 activates TGFB1.
+ATP6AP2	MAPK3	Activation			cell	18417113	ATP6AP2, MAPK3			ATP6AP2 activates MAPK3.
+angiotensin II	AGTR1	Activation			null, cell	17717300, 18035185	AGTR1			angiotensin II activates AGTR1.
+MAPK1	TGFB1	Activation			cell	18417113	MAPK1, TGFB1			MAPK1 activates TGFB1.
+BDKRB2	NOS3	Activation			cell	20712529, 19082699, 18182246, 12785010, 9207629	BDKRB2, NOS3			BDKRB2 activates NOS3.
+bradykinin	BDKRB2	Activation			null, cell	21052031, 18182246, 9535416, 9207629	BDKRB2			bradykinin activates BDKRB2.
+bradykinin	BDKRB1	Activation			null, cell	18182246, 9207629	BDKRB1			bradykinin activates BDKRB1.
+aldosterone	NR3C2	Activation			cell	18729003	NR3C2			aldosterone activates NR3C2.
+AGTR1	CYP11B2	Activation			cell	15134803	AGTR1, CYP11B2			AGTR1 activates CYP11B2.
+calcium	CYP11B2	Activation			cell	15134803	CYP11B2			calcium activates CYP11B2.
+AGTR1	calcium	Activation			cell	15134803	AGTR1			AGTR1 activates calcium.
+angiotensin I	angiotensin II	Biochemical Reaction	ACE, CMA1, CTSG	Gene	null	18035185, 9535416, 9502575				Biochemical reaction from angiotensin I to angiotensin II. This interaction can be catalyzed by CTSG, CMA1 or ACE.
+angiotensin 1-9	angiotensin 1-7	Biochemical Reaction	MME	Gene	null	21052031				Biochemical reaction from angiotensin 1-9 to angiotensin 1-7. This interaction is catalyzed by MME.
+AGT	angiotensin I	Biochemical Reaction	REN	Gene	null	18035185	AGT			Biochemical reaction from AGT to angiotensin I. This interaction is catalyzed by REN.
+angiotensin 1-7	angiotensin 1-5	Biochemical Reaction	ACE	Gene	null	18035185				Biochemical reaction from angiotensin 1-7 to angiotensin 1-5. This interaction is catalyzed by ACE.
+angiotensin I	angiotensin 1-9	Biochemical Reaction	ACE2	Gene	null	18035185, 9502575				Biochemical reaction from angiotensin I to angiotensin 1-9. This interaction is catalyzed by ACE2.
+angiotensin II	angiotensin 1-7	Biochemical Reaction	ACE2	Gene	null	18035185, 9502575				Biochemical reaction from angiotensin II to angiotensin 1-7. This interaction is catalyzed by ACE2.
+KNG1	bradykinin	Biochemical Reaction	ACE	Gene	null	9502575, 9207629	KNG1			Biochemical reaction from KNG1 to bradykinin. This interaction is catalyzed by ACE.
+CYP11B2	aldosterone	Biochemical Reaction			cell	15134803	CYP11B2			Biochemical reaction from CYP11B2 to aldosterone.
+Ace Inhibitors, Plain	ACE	Inhibition			null, endothelial cell	19082699, 19074621, 18035185	ACE			Ace Inhibitors, Plain inhibits ACE.
+Ace Inhibitors, Plain	ACE	Inhibition			null, endothelial cell	19082699, 19074621, 18035185	ACE			Ace Inhibitors, Plain inhibits ACE.
+Ace Inhibitors, Plain	ACE	Inhibition			null, endothelial cell	19082699, 19074621, 18035185	ACE			Ace Inhibitors, Plain inhibits ACE.

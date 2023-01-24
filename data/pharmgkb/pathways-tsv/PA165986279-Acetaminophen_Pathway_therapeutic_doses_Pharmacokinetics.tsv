@@ -1,0 +1,12 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+acetaminophen	acetaminophen-glucuronide	Biochemical Reaction	UGT1A1,UGT1A6,UGT1A9,UGT2B15	Catalysis	hepatocyte	11215692,11714888,15180166,17164591,18232020,21666065,8494539	"UGT1A1","UGT2B15","UGT1A9","UGT1A6"	acetaminophen	
+acetaminophen	acetaminophen-sulfate	Biochemical Reaction	SULT1A1,SULT1A3,SULT1A4,SULT1E1,SULT2A1	Catalysis	hepatocyte	18232020	"SULT1A1","SULT1E1","SULT1A4","SULT1A3","SULT2A1"	acetaminophen	
+acetaminophen	N-acetyl-p-benzoquinone imine	Biochemical Reaction	CYP1A2,CYP2A6,CYP2D6,CYP2E1,CYP3A4	Catalysis	hepatocyte	11866476,19219744	"CYP2A6","CYP2D6","CYP1A2","CYP2E1","CYP3A4"	acetaminophen	
+acetaminophen-glutathione	acetaminophen-cysteine	Biochemical Reaction			hepatocyte	22022436,22175791			
+CYP2E1	CYP2E1	Biochemical Reaction	ethanol,isoniazid	Activation	hepatocyte	2240884,8659683	CYP2E1	"isoniazid","ethanol"	
+N-acetyl-p-benzoquinone imine	acetaminophen-glutathione	Biochemical Reaction	GSTM1,GSTP1,GSTT1	Catalysis	hepatocyte	22022436,22175791	"GSTM1","GSTP1","GSTT1"		
+UGT1A6	UGT1A6	Biochemical Reaction	phenobarbital,phenytoin	Inhibition	hepatocyte	15933229,16696573	UGT1A6	"phenobarbital","phenytoin"	
+UGT1A9	UGT1A9	Biochemical Reaction	phenobarbital,phenytoin	Inhibition	hepatocyte	15933229,16696573	UGT1A9	"phenobarbital","phenytoin"	
+UGT2B15	UGT2B15	Biochemical Reaction	phenobarbital,phenytoin	Inhibition	hepatocyte	15933229,16696573	UGT2B15	"phenobarbital","phenytoin"	
+acetaminophen-glucuronide	acetaminophen-glucuronide	Transport	ABCC2,ABCC3,ABCG2	Catalysis	hepatocyte	17627974,21241071	"ABCC3","ABCC2","ABCG2"		
+acetaminophen-sulfate	acetaminophen-sulfate	Transport	ABCC2,ABCC3,ABCC4,ABCG2	Catalysis	hepatocyte	17627974,21241071	"ABCC3","ABCC4","ABCC2","ABCG2"		

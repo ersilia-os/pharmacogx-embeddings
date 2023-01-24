@@ -1,0 +1,16 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+n-desmethyl venlafaxine	n,o-didesmethyl venlafaxine	Biochemical Reaction	CYP2C19, CYP2D6	Gene	hepatocyte	21099743				Biochemical reaction from n-desmethyl venlafaxine to n,o-didesmethyl venlafaxine. This interaction can be catalyzed by CYP2D6 or CYP2C19.
+n,o-didesmethyl venlafaxine	n,o-didesmethyl venlafaxine glucuronide	Biochemical Reaction			hepatocyte	8337893				Biochemical reaction from n,o-didesmethyl venlafaxine to n,o-didesmethyl venlafaxine glucuronide.
+venlafaxine	desvenlafaxine	Biochemical Reaction	CYP2C19, CYP2D6	Gene	hepatocyte	10774634, 10192828, 8838442		venlafaxine		Biochemical reaction from venlafaxine to desvenlafaxine. This interaction can be catalyzed by CYP2D6 or CYP2C19.
+desvenlafaxine	o-desmethyl venlafaxine glucuronide	Biochemical Reaction			hepatocyte	8337893				Biochemical reaction from desvenlafaxine to o-desmethyl venlafaxine glucuronide.
+n,o-didesmethyl venlafaxine	n,n,o-tridesmethyl venlafaxine	Biochemical Reaction			hepatocyte	8337893				Biochemical reaction from n,o-didesmethyl venlafaxine to n,n,o-tridesmethyl venlafaxine.
+desvenlafaxine	n,o-didesmethyl venlafaxine	Biochemical Reaction	CYP2C19, CYP3A4	Gene	hepatocyte	21099743, 19142106				Biochemical reaction from desvenlafaxine to n,o-didesmethyl venlafaxine. This interaction can be catalyzed by CYP2C19 or CYP3A4.
+venlafaxine	n-desmethyl venlafaxine	Biochemical Reaction	CYP2C19, CYP3A4	Gene	hepatocyte	10877013, 10192828		venlafaxine		Biochemical reaction from venlafaxine to n-desmethyl venlafaxine. This interaction can be catalyzed by CYP2C19 or CYP3A4.
+venlafaxine	SLC6A2	Inhibition			null, neuron	11098412, 7729333	SLC6A2	venlafaxine		venlafaxine inhibits SLC6A2.
+o-desmethyl venlafaxine glucuronide	ABCB1	Inhibition			hepatocyte, neuron	19629022	ABCB1			o-desmethyl venlafaxine glucuronide inhibits ABCB1.
+venlafaxine	ABCB1	Inhibition			hepatocyte, neuron	19629022	ABCB1	venlafaxine		venlafaxine inhibits ABCB1.
+venlafaxine	SLC6A4	Inhibition			null, neuron	11098412, 7729333	SLC6A4	venlafaxine		venlafaxine inhibits SLC6A4.
+o-desmethyl venlafaxine glucuronide	SLC6A2	Inhibition			null, neuron	11098412, 7729333	SLC6A2			o-desmethyl venlafaxine glucuronide inhibits SLC6A2.
+o-desmethyl venlafaxine glucuronide	SLC6A4	Inhibition			null, neuron	11098412, 7729333	SLC6A4			o-desmethyl venlafaxine glucuronide inhibits SLC6A4.
+o-desmethyl venlafaxine glucuronide	o-desmethyl venlafaxine glucuronide	Transport			hepatocyte, null	21446053				Transport from o-desmethyl venlafaxine glucuronide to o-desmethyl venlafaxine glucuronide.
+venlafaxine	venlafaxine	Transport	ABCB1	Gene	hepatocyte, null	21446053, 20466523, 14550684		venlafaxine		Transport from venlafaxine to venlafaxine. This interaction is catalyzed by ABCB1.

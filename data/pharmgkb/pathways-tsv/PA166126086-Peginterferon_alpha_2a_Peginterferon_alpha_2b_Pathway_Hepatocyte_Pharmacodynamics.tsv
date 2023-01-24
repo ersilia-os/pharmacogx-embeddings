@@ -1,0 +1,34 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+ADAR	ADAR	Biochemical Reaction		Activation	hepatocyte	23933585	ADAR		
+DDX58	DDX58	Biochemical Reaction		Activation	hepatocyte	25382982	DDX58		
+EIF2AK2	EIF2AK2	Biochemical Reaction		Activation	hepatocyte	23933585	EIF2AK2		
+IFNA2	IFNA2	Biochemical Reaction		Activation	hepatocyte	16979567	IFNA2		
+Complex: IFNAR2-JAK1(IFNAR2, JAK1)	Complex: IFNAR2-JAK1(IFNAR2, JAK1)	Biochemical Reaction	IFNA2,peginterferon alfa-2a,peginterferon alfa-2b	Activation	hepatocyte		"IFNAR2","IFNA2","JAK1"	"peginterferon alfa-2a","peginterferon alfa-2b"	
+IFNL3	IFNL3	Biochemical Reaction		Activation	hepatocyte	12483210	IFNL3		
+Complex: IFNLR1-JAK1(IFNLR1, JAK1)	Complex: IFNLR1-JAK1(IFNLR1, JAK1)	Biochemical Reaction	IFNL3,IFNL3	Activation	hepatocyte	12483210,20712453	"IFNLR1","IFNL3","JAK1"		
+IRF3	IRF3	Biochemical Reaction	MAVS	Activation	hepatocyte	16979567	"MAVS","IRF3"		
+IRF7	IRF7	Biochemical Reaction	MAVS	Activation	hepatocyte	16979567	"MAVS","IRF7"		
+MAVS	MAVS	Biochemical Reaction	DDX58	Activation	hepatocyte	25382982	"MAVS","DDX58"		
+MX1	MX1	Biochemical Reaction		Activation	hepatocyte	18161743	MX1		
+OAS1	OAS1	Biochemical Reaction		Activation	hepatocyte	23933585	OAS1		
+PIAS1	PIAS1	Biochemical Reaction		Activation	hepatocyte	23933585	PIAS1		
+SOCS3	SOCS3	Biochemical Reaction		Activation	hepatocyte	18161743	SOCS3		
+STAT1	STAT1	Biochemical Reaction	Complex: IFN-lambda receptor(IFNLR1, IL10RB, JAK1, TYK2),Complex: IFNAR(IFNAR1, IFNAR2, JAK1, TYK2),PIAS1	Activation,Inhibition	hepatocyte	18161743,20712453,23933585,8197455	"IFNAR2","STAT1","IL10RB","IFNLR1","TYK2","JAK1","IFNAR1","PIAS1"		
+STAT2	STAT2	Biochemical Reaction	Complex: IFN-lambda receptor(IFNLR1, IL10RB, JAK1, TYK2),Complex: IFNAR(IFNAR1, IFNAR2, JAK1, TYK2),SOCS3,USP18	Activation,Inhibition	hepatocyte	10500304,16710296,20712453,8197455	"IFNAR2","SOCS3","IL10RB","STAT2","IFNLR1","TYK2","USP18","JAK1","IFNAR1"		
+USP18	USP18	Biochemical Reaction		Activation	hepatocyte	23933585	USP18		
+Complex: IFNAR1-TYK2(IFNAR1, TYK2)	Complex: IFNAR(IFNAR1, IFNAR2, JAK1, TYK2)	Complex Assembly			hepatocyte	7566171,8197455	"IFNAR2","TYK2","IFNAR1","JAK1"		
+Complex: IFNAR2-JAK1(IFNAR2, JAK1)	Complex: IFNAR(IFNAR1, IFNAR2, JAK1, TYK2)	Complex Assembly			hepatocyte	7566171,8197455	"IFNAR2","TYK2","JAK1","IFNAR1"		
+Complex: IFNLR1-JAK1(IFNLR1, JAK1)	Complex: IFN-lambda receptor(IFNLR1, IL10RB, JAK1, TYK2)	Complex Assembly			hepatocyte	20712453,21840693	"IL10RB","IFNLR1","TYK2","JAK1"		
+Complex: IL10RB-TYK2(IL10RB, TYK2)	Complex: IFN-lambda receptor(IFNLR1, IL10RB, JAK1, TYK2)	Complex Assembly			hepatocyte	20712453,21840693,9312047	"IL10RB","IFNLR1","TYK2","JAK1"		
+IRF3	Complex: IRF3-IRF7(IRF3, IRF7)	Complex Assembly			hepatocyte	16979567	"IRF3","IRF7"		
+Complex: IRF3-IRF7(IRF3, IRF7)		Complex Assembly			hepatocyte	16979567	"IRF3","IRF7"		
+IRF7	Complex: IRF3-IRF7(IRF3, IRF7)	Complex Assembly			hepatocyte	16979567	"IRF3","IRF7"		
+IRF9	Complex: ISGF3(IRF9, STAT1, STAT2)	Complex Assembly			hepatocyte	2606351,8864350	"STAT1","STAT2","IRF9"		
+Complex: ISGF3(IRF9, STAT1, STAT2)		Complex Assembly			hepatocyte	17502367,2606351	"STAT1","STAT2","IRF9"		
+STAT1	Complex: STAT1-STAT2(STAT1, STAT2)	Complex Assembly			hepatocyte	17502367	"STAT1","STAT2"		
+Complex: STAT1-STAT2(STAT1, STAT2)	Complex: ISGF3(IRF9, STAT1, STAT2)	Complex Assembly			hepatocyte	17502367,2606351	"STAT1","STAT2","IRF9"		
+STAT2	Complex: STAT1-STAT2(STAT1, STAT2)	Complex Assembly			hepatocyte	17502367	"STAT1","STAT2"		
+IFNA2	IFNA2	Transport			hepatocyte		IFNA2		
+IFNL3	IFNL3	Transport			hepatocyte	20712453	IFNL3		
+Complex: IRF3-IRF7(IRF3, IRF7)	Complex: IRF3-IRF7(IRF3, IRF7)	Transport			hepatocyte	16979567	"IRF3","IRF7"		
+Complex: ISGF3(IRF9, STAT1, STAT2)	Complex: ISGF3(IRF9, STAT1, STAT2)	Transport			hepatocyte	17502367,2606351	"STAT1","STAT2","IRF9"		

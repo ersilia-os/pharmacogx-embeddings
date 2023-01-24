@@ -1,0 +1,14 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+serotonin	5-HT3 receptor	Activation	ondansetron	Drug	null, afferent neuron	2076479, 13460238				serotonin activates 5-HT3 receptor (HTR3A, HTR3B, HTR3C, HTR3D, HTR3E). This interaction is inhibited by ondansetron.
+serotonin	5-HT3 receptor	Activation			null, afferent neuron	13460238				serotonin activates 5-HT3 receptor (HTR3A, HTR3B, HTR3C, HTR3D, HTR3E).
+6-hydroxyondansetron	ondansetron 6-sulfate	Biochemical Reaction			hepatocyte	2533904		6-hydroxyondansetron, ondansetron 6-sulfate		Biochemical reaction from 6-hydroxyondansetron to ondansetron 6-sulfate.
+ondansetron	N-demethylondansetron	Biochemical Reaction			hepatocyte	17701832, 8013282		N-demethylondansetron, ondansetron		Biochemical reaction from ondansetron to N-demethylondansetron.
+7-hydroxyondansetron	ondansetron 7-sulfate	Biochemical Reaction			hepatocyte	2533904		7-hydroxyondansetron, ondansetron 7-sulfate		Biochemical reaction from 7-hydroxyondansetron to ondansetron 7-sulfate.
+8-hydroxyondansetron	ondansetron 8-sulfate	Biochemical Reaction			hepatocyte	2533904		8-hydroxyondansetron, ondansetron 8-sulfate		Biochemical reaction from 8-hydroxyondansetron to ondansetron 8-sulfate.
+6-hydroxyondansetron	ondansetron 6-glucuronide	Biochemical Reaction			hepatocyte	2533904		6-hydroxyondansetron, ondansetron 6-glucuronide		Biochemical reaction from 6-hydroxyondansetron to ondansetron 6-glucuronide.
+ondansetron	6-hydroxyondansetron	Biochemical Reaction	CYP2D6	Gene	hepatocyte	11114092, 8861656, 2533904		6-hydroxyondansetron, ondansetron		Biochemical reaction from ondansetron to 6-hydroxyondansetron. This interaction is catalyzed by CYP2D6.
+ondansetron	7-hydroxyondansetron	Biochemical Reaction	CYP1A1, CYP1A2, CYP2D6, CYP3A	Gene	hepatocyte	17701832, 11114092, 8861656, 8591723, 2533904		7-hydroxyondansetron, ondansetron		Biochemical reaction from ondansetron to 7-hydroxyondansetron. This interaction can be catalyzed by CYP1A1, CYP2D6, CYP3A or CYP1A2.
+7-hydroxyondansetron	ondansetron 7-glucuronide	Biochemical Reaction			hepatocyte	2533904		7-hydroxyondansetron, ondansetron 7-glucuronide		Biochemical reaction from 7-hydroxyondansetron to ondansetron 7-glucuronide.
+ondansetron	8-hydroxyondansetron	Biochemical Reaction	CYP1A1, CYP1A2, CYP2D6, CYP3A	Gene	hepatocyte	17701832, 11114092, 8861656, 8591723, 2533904		8-hydroxyondansetron, ondansetron		Biochemical reaction from ondansetron to 8-hydroxyondansetron. This interaction can be catalyzed by CYP1A2, CYP1A1, CYP2D6 or CYP3A.
+8-hydroxyondansetron	ondansetron 8-glucuronide	Biochemical Reaction			hepatocyte	2533904		8-hydroxyondansetron, ondansetron 8-glucuronide		Biochemical reaction from 8-hydroxyondansetron to ondansetron 8-glucuronide.
+ondansetron	ondansetron	Transport			hepatocyte, null	27988869		ondansetron		Transport from ondansetron to ondansetron.

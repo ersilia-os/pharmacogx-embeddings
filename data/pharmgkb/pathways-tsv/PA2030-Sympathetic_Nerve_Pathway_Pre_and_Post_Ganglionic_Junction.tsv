@@ -1,0 +1,18 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+acetylcholine	acetate,choline	Biochemical Reaction	ACHE	Catalysis		15322258,15739192	ACHE		
+CACNA1A,CACNA1B,CACNA1E	CACNA1A,CACNA1B,CACNA1E	Biochemical Reaction		Control	cholinergic neuron		"CACNA1B","CACNA1A","CACNA1E"		
+CACNA1A,CACNA1B,CACNA1C,CACNA1D	CACNA1A,CACNA1B,CACNA1C,CACNA1D	Biochemical Reaction		Control	norepinephrin secreting cell		"CACNA1B","CACNA1A","CACNA1D","CACNA1C"		
+acetyl-Co-A,choline	acetylcholine	Biochemical Reaction	CHAT	Catalysis	cholinergic neuron	12929139	CHAT		
+CHRNA7	CHRNA7	Biochemical Reaction	acetylcholine	Control	norepinephrin secreting cell	11849819,12036180,15231719	CHRNA7		
+Complex: CHRNB3/4	Complex: CHRNB3/4	Biochemical Reaction	acetylcholine,trimethaphan	Control	norepinephrin secreting cell	11849819,12036180		trimethaphan	
+DDC	DDC	Biochemical Reaction	carbidopa	Control	norepinephrin secreting cell		DDC	carbidopa	
+DOPA	dopamine	Biochemical Reaction	DDC	Catalysis	norepinephrin secreting cell	10691773,8670114	DDC		
+TH	TH	Biochemical Reaction	calcium,metyrosine	Control	norepinephrin secreting cell		TH	metyrosine	
+tyrosine	DOPA	Biochemical Reaction	TH	Catalysis	norepinephrin secreting cell	10691773,14216443	TH		
+		Biochemical Reaction	calcium	Control	cholinergic neuron				
+calcium	calcium	Transport	CACNA1A,CACNA1B,CACNA1C,CACNA1D	Catalysis	norepinephrin secreting cell	11306608,15635597	"CACNA1B","CACNA1A","CACNA1D","CACNA1C"		
+calcium	calcium	Transport	CHRNA7,Complex: CHRNB3/4	Catalysis	norepinephrin secreting cell		CHRNA7		
+calcium	calcium	Transport	CACNA1A,CACNA1B,CACNA1E	Catalysis	cholinergic neuron	14624853,15820397,9831716	"CACNA1B","CACNA1A","CACNA1E"		
+choline	choline	Transport	SLC5A7	Catalysis	cholinergic neuron		SLC5A7		
+sodium	sodium	Transport	CHRNA7,Complex: CHRNB3/4	Catalysis	norepinephrin secreting cell		CHRNA7		
+acetylcholine	acetylcholine	Transport	SLC18A3	Catalysis	cholinergic neuron	15485505	SLC18A3		

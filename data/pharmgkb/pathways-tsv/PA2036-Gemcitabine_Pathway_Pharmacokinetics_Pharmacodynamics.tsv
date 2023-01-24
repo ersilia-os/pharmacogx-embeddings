@@ -1,0 +1,13 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+DCK	DCK	Biochemical Reaction	dNTPs	Inhibition	cell	12142171,17595663	DCK		
+gemcitabine monophosphate	dFdUMP	Biochemical Reaction	DCTD	Catalysis	cell	17595663	DCTD		
+gemcitabine	dFdU	Biochemical Reaction	CDA	Catalysis	cell	16807468,17595663	CDA	gemcitabine	
+RRM1,RRM2,RRM2B	RRM1,RRM2,RRM2B	Biochemical Reaction	gemcitabine diphosphate	Inhibition	cell	21163702	"RRM1","RRM2","RRM2B"		
+dNDPs	dNTPs	Conversion			cell	17595663			
+gemcitabine diphosphate	gemcitabine triphosphate	Conversion			cell	17595663			
+gemcitabine monophosphate	gemcitabine	Conversion	NT5C	Catalysis	cell	17595663	NT5C	gemcitabine	
+gemcitabine monophosphate	gemcitabine diphosphate	Conversion	CMPK1	Catalysis	cell		CMPK1		
+gemcitabine	gemcitabine monophosphate	Conversion	DCK	Catalysis	cell		DCK	gemcitabine	
+NDPs	dNDPs	Conversion	RRM1,RRM2,RRM2B	Catalysis	cell	17595663,21163702	"RRM1","RRM2","RRM2B"		
+gemcitabine	gemcitabine	Transport	SLC28A1,SLC28A3,SLC29A1,SLC29A2	Catalysis	cell		"SLC29A1","SLC28A1","SLC28A3","SLC29A2"	gemcitabine	
+gemcitabine triphosphate	gemcitabine triphosphate	Transport			cell				

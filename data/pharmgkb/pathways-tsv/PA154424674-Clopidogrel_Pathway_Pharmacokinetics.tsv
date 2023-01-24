@@ -1,0 +1,12 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+clopidogrel	clopidogrel carboxylic acid	Biochemical Reaction	CES1	Gene	hepatocyte	25704243, 23111421, 16943252, 10440420		clopidogrel		Biochemical reaction from clopidogrel to clopidogrel carboxylic acid. This interaction is catalyzed by CES1.
+2-oxo-clopidogrel, glutathione	clopidogrel thiol metabolite H4	Biochemical Reaction	CYP2C19, CYP3A4	Gene	hepatocyte	22374717, 21900914, 21301779, 19812348, 17361128, 12485953, 11127873				Biochemical reaction from 2-oxo-clopidogrel, glutathione to clopidogrel thiol metabolite H4. This interaction can be catalyzed by CYP3A4 or CYP2C19.
+2-oxo-clopidogrel	clopidogrel thiol metabolite H3	Biochemical Reaction	CYP2C19	Gene	hepatocyte	22374717, 21301779				Biochemical reaction from 2-oxo-clopidogrel to clopidogrel thiol metabolite H3. This interaction is catalyzed by CYP2C19.
+clopidogrel	2-oxo-clopidogrel	Biochemical Reaction	CYP1A2, CYP2B6, CYP2C19, CYP3A4	Gene	hepatocyte	29397568, 25008027, 22374717, 19812348, 19706858, 19106083, 16772608		clopidogrel		Biochemical reaction from clopidogrel to 2-oxo-clopidogrel. This interaction can be catalyzed by CYP2B6, CYP1A2, CYP2C19 or CYP3A4.
+2-oxo-clopidogrel	clopidogrel endo-thiol	Biochemical Reaction	PON1	Gene	hepatocyte	23418418, 22374717, 22103858, 21819538, 21900914, 21301779, 21170047				Biochemical reaction from 2-oxo-clopidogrel to clopidogrel endo-thiol. This interaction is catalyzed by PON1.
+clopidogrel carboxylic acid	clopidogrel acyl glucuronide	Biochemical Reaction	UGT2B4, UGT2B7	Gene	hepatocyte	29240983, 29138287				Biochemical reaction from clopidogrel carboxylic acid to clopidogrel acyl glucuronide. This interaction can be catalyzed by UGT2B4 or UGT2B7.
+2-oxo-clopidogrel	clopidogrel thiol metabolite H2	Biochemical Reaction			hepatocyte	21301779				Biochemical reaction from 2-oxo-clopidogrel to clopidogrel thiol metabolite H2.
+clopidogrel thiol metabolite H4	P2RY12	Inhibition			hepatocyte, platelet	15199474, 11127873	P2RY12			clopidogrel thiol metabolite H4 inhibits P2RY12.
+clopidogrel	clopidogrel	Transport			enterocyte, hepatocyte	1510701		clopidogrel		Transport from clopidogrel to clopidogrel.
+clopidogrel	clopidogrel	Transport			null, enterocyte	10440420, 10440419		clopidogrel		Transport from clopidogrel to clopidogrel.
+clopidogrel	clopidogrel	Transport	ABCB1	Gene	enterocyte, null	27380588, 23056288, 20801498, 19106083, 17112805		clopidogrel		Transport from clopidogrel to clopidogrel. This interaction is catalyzed by ABCB1.

@@ -1,0 +1,6 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+4-hydroxypropofol	4-hydroxypropofol sulfate	Biochemical Reaction	SULT1A1	Gene	hepatocyte	30298439				Biochemical reaction from 4-hydroxypropofol to 4-hydroxypropofol sulfate. This interaction is catalyzed by SULT1A1.
+4-hydroxypropofol	4-hydroxypropofol 4-glucuronide	Biochemical Reaction	UGT1A9	Gene	hepatocyte	30298439				Biochemical reaction from 4-hydroxypropofol to 4-hydroxypropofol 4-glucuronide. This interaction is catalyzed by UGT1A9.
+propofol	propofol glucuronide	Biochemical Reaction	UGT1A9	Gene	hepatocyte	30298439, 32025958, 27826892		propofol		Biochemical reaction from propofol to propofol glucuronide. This interaction is catalyzed by UGT1A9.
+4-hydroxypropofol	4-hydroxypropofol 1-glucuronide	Biochemical Reaction	UGT1A9	Gene	hepatocyte	30298439				Biochemical reaction from 4-hydroxypropofol to 4-hydroxypropofol 1-glucuronide. This interaction is catalyzed by UGT1A9.
+propofol	4-hydroxypropofol	Biochemical Reaction	CYP2B6, CYP2C9	Gene	hepatocyte	30298439, 32025958, 27826892		propofol		Biochemical reaction from propofol to 4-hydroxypropofol. This interaction can be catalyzed by CYP2C9 or CYP2B6.

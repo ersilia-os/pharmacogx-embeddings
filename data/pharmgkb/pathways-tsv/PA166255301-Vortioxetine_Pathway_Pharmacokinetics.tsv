@@ -1,0 +1,5 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+vortioxetine sulfoxide	vortioxetine sulfoxide glucuronide	Biochemical Reaction			hepatocyte	22496396				Biochemical reaction from vortioxetine sulfoxide to vortioxetine sulfoxide glucuronide.
+vortioxetine	vortioxetine sulfoxide	Biochemical Reaction	CYP2A6, CYP2C8, CYP3A4, CYP3A5	Gene	hepatocyte	22496396		vortioxetine		Biochemical reaction from vortioxetine to vortioxetine sulfoxide. This interaction can be catalyzed by CYP3A4, CYP2A6, CYP2C8 or CYP3A5.
+vortioxetine	vortioxetine benzoic acid	Biochemical Reaction	AOX1, CYP2C19, CYP2C9, CYP2D6, alcohol and aldehyde dehydrogenases	Gene, Gene Group	hepatocyte	24766668, 22448783, 22496396		vortioxetine		Biochemical reaction from vortioxetine to vortioxetine benzoic acid. This interaction can be catalyzed by alcohol and aldehyde dehydrogenases, AOX1, CYP2D6, CYP2C9 or CYP2C19.
+vortioxetine	4-hydroxy-phenyl vortioxetine	Biochemical Reaction	CYP2C9, CYP2D6	Gene	hepatocyte	22496396		vortioxetine		Biochemical reaction from vortioxetine to 4-hydroxy-phenyl vortioxetine. This interaction can be catalyzed by CYP2C9 or CYP2D6.

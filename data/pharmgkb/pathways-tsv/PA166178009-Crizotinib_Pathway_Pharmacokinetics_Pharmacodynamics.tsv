@@ -1,0 +1,31 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+ALK-NPM1	PLCgamma	Activation			malignant cell	27879258				ALK-NPM1 (ALK, NPM1) activates PLCgamma (PLCG1, PLCG2).
+ALK-NPM1	AP-1	Activation			malignant cell	24750504				ALK-NPM1 (ALK, NPM1) activates AP-1 (JUN, JUNB).
+AP-1	PDGFRB	Activation			malignant cell	24750504	PDGFRB			AP-1 (JUN, JUNB) activates PDGFRB.
+PLCgamma	inositol 1,4,5-trisphosphate	Activation			malignant cell	27879258, 21288922				PLCgamma (PLCG1, PLCG2) activates inositol 1,4,5-trisphosphate.
+ALK-EML4	PI3K	Activation			malignant cell	21288922				ALK-EML4 (ALK, EML4) activates PI3K (PIK3C2A, PIK3C2B).
+MTOR	RPS6KB1	Activation			malignant cell	21288922	MTOR, RPS6KB1			MTOR activates RPS6KB1.
+PI3K	AKT	Activation			malignant cell	27879258, 21288922				PI3K (PIK3C2A, PIK3C2B) activates AKT (AKT1, AKT2, AKT3).
+ALK-EML4	JAK3	Activation			malignant cell	21288922	JAK3			ALK-EML4 (ALK, EML4) activates JAK3.
+MET	Ras	Activation			malignant cell	24574860	MET			MET activates Ras (HRAS, KRAS, NRAS).
+AKT	BAD	Activation			malignant cell	21288922	BAD			AKT (AKT1, AKT2, AKT3) activates BAD.
+ALK-NPM1	PI3K	Activation			malignant cell	27879258				ALK-NPM1 (ALK, NPM1) activates PI3K (PIK3C2A, PIK3C2B).
+ALK-EML4	Ras	Activation			malignant cell	24574860, 21288922				ALK-EML4 (ALK, EML4) activates Ras (HRAS, KRAS, NRAS).
+ALK-EML4	PLCgamma	Activation			malignant cell	21288922				ALK-EML4 (ALK, EML4) activates PLCgamma (PLCG1, PLCG2).
+ALK-NPM1	JAK3	Activation			malignant cell	21288922	JAK3			ALK-NPM1 (ALK, NPM1) activates JAK3.
+ROS1	Ras	Activation			malignant cell	23814043	ROS1			ROS1 activates Ras (HRAS, KRAS, NRAS).
+JAK3	Stat3/5	Activation			malignant cell	21288922	JAK3			JAK3 activates Stat3/5 (STAT3, STAT5A, STAT5B).
+ALK-NPM1	Stat3/5	Activation			malignant cell	27879258				ALK-NPM1 (ALK, NPM1) activates Stat3/5 (STAT3, STAT5A, STAT5B).
+AKT	MTOR	Activation			malignant cell	27879258, 21288922	MTOR			AKT (AKT1, AKT2, AKT3) activates MTOR.
+MEK	ERK	Activation			malignant cell	21288922				MEK (MAP2K1, MAP2K2) activates ERK (MAPK1, MAPK3).
+Raf	MEK	Activation			malignant cell	21288922				Raf (ARAF, BRAF, RAF1) activates MEK (MAP2K1, MAP2K2).
+Ras	Raf	Activation			malignant cell	21288922				Ras (HRAS, KRAS, NRAS) activates Raf (ARAF, BRAF, RAF1).
+crizotinib	crizotinib M10	Biochemical Reaction	AOX1, CYP3A4, CYP3A5	Gene	hepatocyte	26381275, 25034009		crizotinib		Biochemical reaction from crizotinib to crizotinib M10. This interaction can be catalyzed by CYP3A5, AOX1 or CYP3A4.
+crizotinib	MET	Inhibition			null, malignant cell	25264305, 24574860, 23064464	MET	crizotinib		crizotinib inhibits MET.
+crizotinib	ABCB1	Inhibition			hepatocyte	22233293	ABCB1	crizotinib		crizotinib inhibits ABCB1.
+crizotinib	ROS1	Inhibition			null, malignant cell	25264305	ROS1	crizotinib		crizotinib inhibits ROS1.
+crizotinib	ALK-NPM1	Inhibition			null, malignant cell	23064464		crizotinib		crizotinib inhibits ALK-NPM1 (ALK, NPM1).
+crizotinib	ALK-EML4	Inhibition			null, malignant cell	20979469		crizotinib		crizotinib inhibits ALK-EML4 (ALK, EML4).
+crizotinib	CYP3A4	Inhibition			hepatocyte	23129213	CYP3A4	crizotinib		crizotinib inhibits CYP3A4.
+crizotinib	crizotinib	Transport	ABCB1	Gene	hepatocyte, null	27270784, 24037730		crizotinib		Transport from crizotinib to crizotinib. This interaction is catalyzed by ABCB1.
+crizotinib	crizotinib	Transport	SLCO1B1, SLCO1B3	Gene	null, hepatocyte	23340295		crizotinib		Transport from crizotinib to crizotinib. This interaction can be catalyzed by SLCO1B1 or SLCO1B3.

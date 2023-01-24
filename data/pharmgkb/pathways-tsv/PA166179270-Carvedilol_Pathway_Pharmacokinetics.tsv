@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+carvedilol	4'-hydroxyphenyl carvedilol	Biochemical Reaction	CYP2D6, CYP3A4	Gene	hepatocyte	9280405, 1823868		carvedilol		Biochemical reaction from carvedilol to 4'-hydroxyphenyl carvedilol. This interaction can be catalyzed by CYP2D6 or CYP3A4.
+carvedilol	5'-hydroxyphenyl carvedilol	Biochemical Reaction	CYP2D6, CYP2E1	Gene	hepatocyte	9280405, 1823868		carvedilol		Biochemical reaction from carvedilol to 5'-hydroxyphenyl carvedilol. This interaction can be catalyzed by CYP2D6 or CYP2E1.
+carvedilol	o-desmethyl carvedilol	Biochemical Reaction	CYP1A2, CYP2C9, CYP2D6, CYP2E1	Gene	hepatocyte	25476996, 9280405		carvedilol		Biochemical reaction from carvedilol to o-desmethyl carvedilol. This interaction can be catalyzed by CYP1A2, CYP2D6, CYP2E1 or CYP2C9.
+carvedilol	carvedilol glucuronide	Biochemical Reaction	UGT1A1, UGT2B4, UGT2B7	Gene	hepatocyte	22814440, 16849011, 1823868		carvedilol		Biochemical reaction from carvedilol to carvedilol glucuronide. This interaction can be catalyzed by UGT2B7, UGT2B4 or UGT1A1.
+carvedilol	8-hydroxycarvedilol	Biochemical Reaction	CYP1A2, CYP3A4	Gene	hepatocyte	9280405		carvedilol		Biochemical reaction from carvedilol to 8-hydroxycarvedilol. This interaction can be catalyzed by CYP3A4 or CYP1A2.
+carvedilol	SLCO1A2	Inhibition			hepatocyte	25563901	SLCO1A2	carvedilol		carvedilol inhibits SLCO1A2.
+carvedilol	carvedilol	Transport	ABCB1, ABCC2	Gene	hepatocyte, null	15001973		carvedilol		Transport from carvedilol to carvedilol. This interaction can be catalyzed by ABCB1 or ABCC2.

@@ -1,0 +1,8 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+trifluoroacetyl chloride	CASP8	Activation			hepatocyte	28081667	CASP8		Toxic liver disease	trifluoroacetyl chloride activates CASP8.
+halothane	bromide, trifluoroacetyl chloride	Biochemical Reaction	CYP2E1	Gene	hepatocyte	9103523, 8886607		halothane	Toxic liver disease	Biochemical reaction from halothane to bromide, trifluoroacetyl chloride. This interaction is catalyzed by CYP2E1.
+halothane	2-chloro-1,1-difluoroethene, fluoride	Biochemical Reaction	CYP2A6, CYP3A4	Gene	hepatocyte	11506127, 10805064, 8886607		halothane	Toxic liver disease	Biochemical reaction from halothane to 2-chloro-1,1-difluoroethene, fluoride. This interaction can be catalyzed by CYP3A4 or CYP2A6.
+halothane	2-chloro-1,1,1-trifluoroethane	Biochemical Reaction	CYP2A6, CYP3A4	Gene	hepatocyte	11506127, 10805064, 8886607		halothane	Toxic liver disease	Biochemical reaction from halothane to 2-chloro-1,1,1-trifluoroethane. This interaction can be catalyzed by CYP2A6 or CYP3A4.
+trifluoroacetyl chloride	trifluoroacetic acid	Biochemical Reaction			hepatocyte	9103523, 8886607			Toxic liver disease	Biochemical reaction from trifluoroacetyl chloride to trifluoroacetic acid.
+trifluoroacetyl chloride	Toxic liver disease	Leads To			hepatocyte	28081667, 24913773, 18509326, 6345332			Toxic liver disease	trifluoroacetyl chloride leads to Toxic liver disease.
+CASP8	Toxic liver disease	Leads To			hepatocyte	28081667	CASP8		Toxic liver disease	CASP8 leads to Toxic liver disease.

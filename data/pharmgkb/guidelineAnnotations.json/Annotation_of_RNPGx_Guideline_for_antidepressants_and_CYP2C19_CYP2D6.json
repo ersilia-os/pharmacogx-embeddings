@@ -1,0 +1,139 @@
+{
+  "citations": [
+    {
+      "id": 15109382,
+      "title": "Pharmacogenetics of antidepressant drugs: State of the art and clinical implementation - recommendations from the French National Network of Pharmacogenetics.",
+      "_sameAs": "https://www.ncbi.nlm.nih.gov/pubmed/28237405",
+      "authors": [
+        "Quaranta Sylvie",
+        "Dupouey Julien",
+        "Colle Romain",
+        "Verstuyft Céline"
+      ],
+      "crossReferences": [
+        {
+          "id": 1451128883,
+          "resource": "PubMed",
+          "resourceId": "28237405",
+          "_url": "https://www.ncbi.nlm.nih.gov/pubmed/28237405",
+          "version": 0
+        },
+        {
+          "id": 1451128884,
+          "resource": "DOI",
+          "resourceId": "10.1016/j.therap.2016.09.018",
+          "_url": "http://dx.doi.org/10.1016%2Fj.therap.2016.09.018",
+          "version": 0
+        }
+      ],
+      "hasKeyword": true,
+      "journal": "Therapie",
+      "meshDiseases": [],
+      "meshTerms": [
+        "Antidepressive Agents",
+        "Aryl Hydrocarbon Hydroxylases",
+        "Cytochrome P-450 CYP2D6",
+        "Genotype",
+        "Humans",
+        "Pharmacogenetics",
+        "Pharmacogenomic Testing",
+        "Polymorphism, Genetic"
+      ],
+      "month": 4,
+      "nonHuman": false,
+      "objCls": "Literature",
+      "page": "311-318",
+      "pediatric": false,
+      "pgkbPublication": false,
+      "pubDate": "2017-04-01T00:00:00-07:00",
+      "summary": "Tailoring antidepressant drug therapy to each individual patient is a complex process because these drugs have adverse effects leading to discontinuation. Pharmacogenetics may provide useful information in routine practice for optimizing antidepressant treatment by helping limit toxic effects while maintaining efficacy. This review presents the usefulness of pharmacogenetic tests for P450 cytochromes CYP2C19 and CYP2D6 in psychiatric patients taking antidepressants. Depending on the level of evidence, the French National Network of Pharmacogenetics (RNPGx) has issued recommendations stating that pharmacogenetic tests for CYP2D6 and CYP2C19 genes are potentially useful in psychiatric patients treated with antidepressant drugs.",
+      "terms": [],
+      "version": 0,
+      "volume": "72",
+      "year": 2017
+    }
+  ],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166202701",
+    "name": "Annotation of RNPGx Guideline for antidepressants and CYP2C19, CYP2D6",
+    "alternateDrugAvailable": false,
+    "cancerGenome": false,
+    "crossReferences": [],
+    "dosingInformation": false,
+    "guidelineGenes": [],
+    "hasTestingInfo": true,
+    "history": [
+      {
+        "id": 1451128882,
+        "date": "2020-05-13T00:00:00-07:00",
+        "type": "Create",
+        "version": 0
+      },
+      {
+        "id": 1451136700,
+        "date": "2020-05-13T00:00:00-07:00",
+        "type": "Update",
+        "version": 1
+      },
+      {
+        "id": 1451678143,
+        "date": "2022-02-10T13:49:52.530-08:00",
+        "description": "Added RNPGx as source",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451741825,
+        "date": "2022-04-05T14:06:08.693-07:00",
+        "description": "Added testing guidance tag and link to testing guidance page",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15109382,"title":"Pharmacogenetics of antidepressant drugs: State of the art and clinical implementation - recommendations from the French National Network of Pharmacogenetics.","_sameAs":"https://www.ncbi.nlm.nih.gov/pubmed/28237405","crossReferences":[{"id":1451128883,"resource":"PubMed","resourceId":"28237405","_url":"https://www.ncbi.nlm.nih.gov/pubmed/28237405"},{"id":1451128884,"resource":"DOI","resourceId":"10.1016/j.therap.2016.09.018","_url":"http://dx.doi.org/10.1016%2Fj.therap.2016.09.018"}],"objCls":"Literature","terms":[]}
+    ],
+    "pediatric": false,
+    "recommendation": true,
+    "relatedAlleles": [],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA452229",
+        "name": "antidepressants",
+        "version": 4
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA124",
+        "symbol": "CYP2C19",
+        "name": "cytochrome P450 family 2 subfamily C member 19",
+        "version": 7209
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA128",
+        "symbol": "CYP2D6",
+        "name": "cytochrome P450 family 2 subfamily D member 6",
+        "version": 7890
+      }
+    ],
+    "source": "RNPGx",
+    "summaryMarkdown": {
+      "id": 1451128880,
+      "html": "<p>The French National Network of Pharmacogenetics (Réseau national de pharmacogénétique (RNPGx)) recommends CYP2D6 and CYP2C19 genotyping before initiating an antidepressant treatment, especially in patients with a high risk of toxicity.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451128881,
+      "html": "<p>The French National Network of Pharmacogenetics (RNPGx) publication about the state of the art and clinical\nimplementation — recommendations from the French National Network of Pharmacogenetics for antidepressant drugs states:</p>\n<blockquote class=\"blockquote\">\n<p>The French National Network of Pharmacogenetics (Réseau national de pharmacogénétique (RNPGx)), the French National Network of Pharmacogenetics, recommends <em>CYP2D6</em> and <em>CYP2C19</em> genotyping before initiating an antidepressant treatment, especially in patients with a high risk of toxicity.\nConsidering the levels of evidence outlined in the article by Picard et al. [Article:<a href=\"/pmid/28237406\">28237406</a>] in this issue, search for the CYP2D6 and CYP2C19 genetic polymorphisms is advisable for the RNPGx.</p>\n</blockquote>\n<p>Citing Kirchheiner et al. [Article:<a href=\"/pmid/15037866\">15037866</a>] and Crews et al. [Article:<a href=\"/pmid/22205192\">22205192</a>] the article states:</p>\n<blockquote class=\"blockquote\">\n<p>Due to the risk of adverse effects that would require discontinuation of treatment, antidepressants should be avoided for patients exhibiting complete deficiency. Dose reduction to the order of 25-50% of standard dose can be proposed for patients with partial deficiency.</p>\n</blockquote>\n<blockquote class=\"blockquote\">\n<p>Due to the current lack of biomarkers predictive of response or non-response to antidepressants, these tests can potentially be used to optimize treatment while limiting adverse effects.</p>\n</blockquote>\n<p>In the section about &quot;Interpreting test results&quot; the article discusses the CYP2C19 and CYP2D6 function and phenotype categories published by the Clinical Pharmacogenetics Implementation Consortium (CPIC) and guidelines for the prescription of antidepressants published by Leon et al. [Articles:<a href=\"/pmid/16384813\">16384813</a>, <a href=\"/pmid/25200585\">25200585</a>]. The CPIC guideline for <em>CYP2D6</em> and <em>CYP2C19</em> genotypes and dosing of tricyclic antidepressants and guidelines from the Dutch working group on pharmacogenetics of the Royal Dutch Association for the Advancement of Pharmacy are mentioned.</p>\n<p><a href=\"/page/testingGuidance\">Read more about the RNPGx levels of recommendation for testing</a>.</p>\n",
+      "version": 1
+    },
+    "userId": "katrin",
+    "version": 4
+  }
+}

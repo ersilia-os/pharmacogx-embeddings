@@ -1,0 +1,9 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+		Biochemical Reaction		Control					
+		Biochemical Reaction		Control					
+		Biochemical Reaction		Control					
+		Biochemical Reaction		Control					
+Platinum compounds		Transport			cell			Platinum compounds	
+Platinum compounds	Platinum compounds	Transport	ATP7A,ATP7B	Catalysis	cell		"ATP7B","ATP7A"	Platinum compounds	
+Platinum compounds	Platinum compounds	Transport	SLC31A1	Catalysis	cell		SLC31A1	Platinum compounds	
+Platinum compounds	Platinum compounds	Transport	ABCC2,ABCG2	Catalysis	cell		"ABCC2","ABCG2"	Platinum compounds	

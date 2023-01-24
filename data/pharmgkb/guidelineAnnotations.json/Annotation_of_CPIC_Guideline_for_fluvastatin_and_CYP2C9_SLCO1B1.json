@@ -1,0 +1,138 @@
+{
+  "citations": [],
+  "guideline": {
+    "objCls": "Guideline Annotation",
+    "id": "PA166262341",
+    "name": "Annotation of CPIC Guideline for fluvastatin and CYP2C9, SLCO1B1",
+    "alternateDrugAvailable": true,
+    "cancerGenome": false,
+    "crossReferences": [
+      {
+        "id": 1451668356,
+        "resource": "URL",
+        "resourceId": "https://cpicpgx.org/guidelines/cpic-guideline-for-statins/",
+        "_url": "https://cpicpgx.org/guidelines/cpic-guideline-for-statins/",
+        "version": 0
+      }
+    ],
+    "descriptiveVideoId": "_Ra49KigPsA",
+    "dosingInformation": true,
+    "guidelineGenes": [],
+    "hasTestingInfo": false,
+    "history": [
+      {
+        "id": 1451687161,
+        "date": "2022-02-17T11:02:53.908-08:00",
+        "description": "CPIC statins 2022 update",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451692500,
+        "date": "2022-02-22T09:38:23.456-08:00",
+        "description": "added variants",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451693860,
+        "date": "2022-02-23T10:19:29.065-08:00",
+        "description": "Added video",
+        "type": "Update",
+        "version": 0
+      },
+      {
+        "id": 1451889462,
+        "date": "2022-09-22T14:16:40.057-07:00",
+        "description": "fixed typo",
+        "type": "Update",
+        "version": 0
+      }
+    ],
+    "literature": [
+      {"id":15128762,"title":"The Clinical Pharmacogenetics Implementation Consortium Guideline for SLCO1B1, ABCG2, and CYP2C9 genotypes and Statin-Associated Musculoskeletal Symptoms.","_sameAs":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9035072","crossReferences":[{"id":1451837607,"resource":"PubMed Central","resourceId":"PMC9035072","_url":"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9035072"},{"id":1451681580,"resource":"PubMed","resourceId":"35152405","_url":"https://www.ncbi.nlm.nih.gov/pubmed/35152405"},{"id":1451681581,"resource":"DOI","resourceId":"10.1002/cpt.2557","_url":"http://dx.doi.org/10.1002%2Fcpt.2557"}],"objCls":"Literature","terms":[{"id":1451577480,"resource":"PGx Paper Types","term":"Implementation","termId":"pgxPaperTypes:1451577480"}]}
+    ],
+    "pediatric": true,
+    "pediatricMarkdown": {
+      "id": 1451672662,
+      "html": "<p>Excerpts from the guideline:</p>\n<blockquote class=\"blockquote\">\n<p>&quot;At the time of this writing, there are no data available regarding SLCO1B1 genotype effects on statin response or myopathy in pediatric patients.  However, pharmacokinetic data show that the rs4149056 SNV in SLCO1B1 may affect the disposition of simvastatin more in children compared to adults, and the variant has equivalent impact on pravastatin and rosuvastatin pharmacokinetics between children and adults&quot;</p>\n</blockquote>\n",
+      "version": 0
+    },
+    "recommendation": true,
+    "relatedAlleles": [
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816543",
+        "symbol": "CYP2C9*2",
+        "name": "*2",
+        "version": 21
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165816544",
+        "symbol": "CYP2C9*3",
+        "name": "*3",
+        "version": 23
+      },
+      {
+        "objCls": "Variant",
+        "id": "PA166154579",
+        "symbol": "rs4149056",
+        "name": "rs4149056",
+        "version": 5
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819265",
+        "symbol": "SLCO1B1*15",
+        "name": "*15",
+        "version": 22
+      },
+      {
+        "objCls": "Haplotype",
+        "id": "PA165819255",
+        "symbol": "SLCO1B1*5",
+        "name": "*5",
+        "version": 22
+      }
+    ],
+    "relatedChemicals": [
+      {
+        "objCls": "Chemical",
+        "id": "PA449688",
+        "name": "fluvastatin",
+        "version": 21
+      }
+    ],
+    "relatedGenes": [
+      {
+        "objCls": "Gene",
+        "id": "PA126",
+        "symbol": "CYP2C9",
+        "name": "cytochrome P450 family 2 subfamily C member 9",
+        "version": 7876
+      },
+      {
+        "objCls": "Gene",
+        "id": "PA134865839",
+        "symbol": "SLCO1B1",
+        "name": "solute carrier organic anion transporter family member 1B1",
+        "version": 49
+      }
+    ],
+    "source": "CPIC",
+    "summaryMarkdown": {
+      "id": 1451672660,
+      "html": "<p>CYP2C9 IMs should avoid fluvastatin doses greater than 40mg while CYP2C9 PMs should avoid doses greater than 20mg.  If higher doses are required for desired efficacy, an alternative statin should be considered. Patients with SLCO1B1 poor function should also avoid fluvastatin doses greater than 40mg and and adjust doses of fluvastatin based on disease-specific guidelines. Patients with both SLCO1B1 poor function and CYP2C9 IM/PM should be prescribed an alternative statin depending on the desired potency.</p>\n",
+      "version": 0
+    },
+    "terms": [],
+    "textMarkdown": {
+      "id": 1451672661,
+      "html": "<p>This annotation is based on the <a rel=\"noopener noreferrer\" href=\"https://cpicpgx.org/guidelines/cpic-guideline-for-statins/\" target=\"_blank\">CPIC&reg; guideline for SLCO1B1, ABCG2, and CYP2C9 and statin-associated musculoskeletal symptoms</a>.</p>\n<h3 id=\"february-2022\">February 2022</h3>\n<ul>\n<li>\n<p>The <a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/statins/2022/publication.pdf\" target=\"_blank\">CPIC guideline for SLCO1B1, ABCG2, and CYP2C9 and statin-associated musculoskeletal symptoms</a>, has been published in Clinical Pharmacology and Therapeutics. CPIC authors summarize literature supporting how SLCO1B1, ABCG2, and CYP2C9 genotype test results should be applied to optimize new or existing statin therapy to reduce the risk of statin-associated musculoskeletal symptoms (SAMS). The current document replaces the original 2012 guideline and the 2014 update for SLCO1B1 and simvastatin. New to this guideline are the addition of recommendations for CYP2C9 and ABCG2 and addition of recommendations for all statins.</p>\n</li>\n<li>\n<p>This guideline is applicable to:</p>\n<ul>\n<li>adult patients</li>\n<li>pediatric patients</li>\n</ul>\n</li>\n<li>\n<p>Excerpt from the 2022 statin dosing guideline:</p>\n<ul>\n<li>\n<p>&quot;SLCO1B1 facilitates the hepatic uptake of statins, as well as other exogenous and endogenous compounds (e.g., bilirubin and 17-beta-glucuronosyl estradiol).  Decreased function of this transporter (inherited through genetic variability or acquired through drug-mediated inhibition) can markedly increase the systemic exposure to statins, the putative causal factor underlying the link to SAMS. The SLCO1B1 gene locus occupies 109 kb on chromosome 12 (Chr 12p12.2) and, although many single nucleotide variants (SNVs) have been identified in this gene, only a few are known to have a clinically relevant functional impact (SLCO1B1 Allele Definition and Functionality Tables)&quot;.</p>\n</li>\n<li>\n<p>&quot;The most common and well-studied variant in SLCO1B1 is c.521T&gt;C (rs4149056), and can be genotyped alone (e.g., PCR-based single SNV assay) or multiplexed on a variety of array-based platforms. All SLCO1B1 genetic tests should interrogate c.521T&gt;C; however, while other less common variants in this gene may have limited evidence to guide action, they may also be important&quot;.</p>\n</li>\n<li>\n<p>&quot;CYP2C9: Recommendations for fluvastatin based on CYP2C9 phenotype are available in Table 4. Genetic variations in CYP2C9 are associated with increased exposure to fluvastatin (Table S3), but the pharmacokinetics or pharmacodynamics of other statins are not affected. CYP2C9 IMs should avoid fluvastatin doses greater than 40mg while CYP2C9 PMs should avoid doses greater than 20mg. If higher doses are required for desired efficacy, an alternative statin should be considered. If fluvastatin therapy is warranted, consider combination therapy of fluvastatin (40mg in IMs and 20mg in PMs) plus a non-statin lipid-lowering agent. &quot;</p>\n</li>\n</ul>\n</li>\n<li>\n<p>Download and read:</p>\n<ul>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/statins/2022/publication.pdf\" target=\"_blank\">The Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for SLCO1B1, ABCG2, and CYP2C9 and statin-associated musculoskeletal symptoms</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/data/guideline/publication/statins/2022/supplement.pdf\" target=\"_blank\">2022 supplement</a></li>\n<li><a href=\"/page/slco1b1RefMaterials\">Gene-specific Information Tables for SLCO1B1</a></li>\n<li><a href=\"/page/cyp2c9RefMaterials\">Gene-specific Information Tables for CYP2C9</a></li>\n<li><a href=\"https://api.pharmgkb.org/v1/preview/download/file/attachment/fluvastatin-Drug_Resource_Mappings.xlsx\">Fluvastatin Drug Resource Mappings</a></li>\n<li><a href=\"https://api.pharmgkb.org/v1/preview/download/file/attachment/Fluvastatin_Pre_and_Post_Test_Alerts.xlsx\">Fluvastatin Pre and Post Test Alerts</a></li>\n<li><a rel=\"noopener noreferrer\" href=\"https://files.cpicpgx.org/images/flow_chart/Fluvastatin_CDS_Flow_Chart.jpg\" target=\"_blank\">Fluvastatin CDS Flow Chart</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"table-1-recommended-dosing-of-fluvastatin-based-on-slco1b1-phenotype\">Table 1: Recommended dosing of fluvastatin based on SLCO1B1 phenotype</h3>\n<p><em>Adapted from Table 1 and 2 of the 2022 guideline update manuscript.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype</th>\n<th>Genotype</th>\n<th>Examples of diplotypes <sup>a</sup></th>\n<th>Implications for fluvastatin</th>\n<th>Dosing recommendations for rosuvastatin <sup>b,c</sup></th>\n<th>Classification of recommendations <sup>d</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>SLCO1B1 Normal function</td>\n<td>An individual carrying two normal function alleles or one normal plus one increased function allele</td>\n<td>*1/*1, *1/*14</td>\n<td>Typical myopathy risk and statin exposure</td>\n<td>Prescribe desired starting dose and adjust doses based on disease-specific guidelines.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>SLCO1B1 Increased function</td>\n<td>An individual carrying two increased function alleles</td>\n<td>*14/*14</td>\n<td>Typical myopathy risk and statin exposure</td>\n<td>Prescribe desired starting dose and adjust doses based on disease-specific guidelines.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>SLCO1B1 Decreased function</td>\n<td>An individual carrying one normal or increased function allele plus one no function allele</td>\n<td>*1/*5, *1/*15</td>\n<td>Increased fluvastatin exposure as compared to normal function; Typical myopathy risk with ≤40 mg.</td>\n<td>Prescribe desired starting dose and adjust doses of fluvastatin based on disease-specific guidelines. Prescriber should be aware of possible increased risk for myopathy especially for doses &gt;40mg per day.</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>SLCO1B1 Possible decreased function</td>\n<td>An individual carrying one no function allele plus one uncertain/unknown function allele</td>\n<td>*5/*6, *15/*10, *5/*43</td>\n<td>Increased fluvastatin exposure as compared to normal function; Typical myopathy risk with ≤40 mg.</td>\n<td>Prescribe desired starting dose and adjust doses of fluvastatin based on disease-specific guidelines. Prescriber should be aware of possible increased risk for myopathy especially for doses &gt;40mg per day.</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>SLCO1B1 Poor function</td>\n<td>An individual carrying two no function alleles</td>\n<td>*5/*5, *5/*15, *15/*15</td>\n<td>Increased fluvastatin exposure as compared to normal and decreased function; Typical myopathy risk with doses less ≤40 mg.</td>\n<td>Prescribe ≤40mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If patient is tolerating 40mg per day but higher potency is needed, a higher dose (&gt;40mg) or an alternative statin (see Figure 1 for recommendations for alternative statins) or combination therapy (i.e. fluvastatin plus non-statin guideline directed medical therapy) could be considered. Prescriber should be aware of possible increased risk for myopathy with fluvastatin especially with doses &gt;40mg per day.</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>SLCO1B1 Indeterminate</td>\n<td>An individual carrying one normal function allele plus one uncertain or unknown function allele OR  allele combinations with uncertain and/or unknown function alleles</td>\n<td>*1/*7, *1/*10, *7/*10</td>\n<td>n/a</td>\n<td>No recommendation.</td>\n<td>No recommendation.</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"table-2-recommended-dosing-of-fluvastatin-based-on-cyp2c9-phenotype\">Table 2: Recommended dosing of fluvastatin based on CYP2C9 phenotype</h3>\n<p><em>Adapted from Table 4 of the 2022 guideline update manuscript.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype</th>\n<th>Genotype</th>\n<th>Examples of diplotypes <sup>a</sup></th>\n<th>Implications for fluvastatin</th>\n<th>Dosing recommendations for fluvastatin <sup>b,c</sup></th>\n<th>Classification of recommendations <sup>d</sup></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>CYP2C9 Normal function</td>\n<td>An individual carrying two normal function alleles</td>\n<td>*1/*1</td>\n<td>Normal exposure</td>\n<td>Prescribe desired starting dose and adjust doses of fluvastatin based on disease-specific guidelines.</td>\n<td>Strong</td>\n</tr>\n<tr>\n<td>CYP2C9 Intermediate Metabolizer (AS of 1 and 1.5)</td>\n<td>An individual carrying one normal function allele plus one decreased function allele OR one normal function allele plus one no function allele OR two decreased function alleles</td>\n<td>*1/*2, *1/*3, *2/*2</td>\n<td>Increased fluvastatin exposure as compared to normal metabolizer which may translate to increased myopathy risk.</td>\n<td>Prescribe ≤40mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If dose &gt;40mg needed for desired efficacy, consider an alternative statin or combination therapy (i.e., fluvastatin plus non-statin guideline directed medical therapy).</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>CYP2C9 Poor Metabolizer (AS 0.5 and 0)</td>\n<td>An individual carrying one no function allele plus one decreased function allele OR two no function alleles</td>\n<td>*2/*3, *3/*3</td>\n<td>Increased fluvastatin exposure as compared to normal and intermediate metabolizer which may translate to increased myopathy risk.</td>\n<td>Prescribe ≤20mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If dose &gt;20mg needed for desired efficacy, consider an alternative statin or combination therapy (i.e., fluvastatin plus non-statin guideline directed medical therapy).</td>\n<td>Moderate</td>\n</tr>\n<tr>\n<td>CYP2C9 Indeterminate</td>\n<td>An individual carrying allele combinations with uncertain and/or unknown function alleles</td>\n<td>*1/*7, *1/*10, *7/*10</td>\n<td>n/a</td>\n<td>No recommendation.</td>\n<td>No recommendation.</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"table-3-recommended-dosing-of-fluvastatin-based-on-slco1b1-and-cyp2c9-phenotype-in-adults\">Table 3: Recommended dosing of fluvastatin based on SLCO1B1 and CYP2C9 phenotype in adults</h3>\n<p><em>Adapted from Table 6 of the 2022 guideline update manuscript.</em></p>\n<table class=\"table\">\n<thead>\n<tr>\n<th>Phenotype</th>\n<th>CYP2C9 normal metabolizer</th>\n<th>CYP2C9 Intermediate Metabolizer</th>\n<th>CYP2C9 Poor Metabolizer</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>SLCO1B1 normal function</td>\n<td>Prescribe desired starting dose and adjust doses of fluvastatin based on disease-specific guidelines. STRONG</td>\n<td>Prescribe ≤40mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If dose &gt;40mg needed for desired efficacy, consider an alternative statin or combination therapy (i.e., fluvastatin plus non-statin guideline directed medical therapy). MODERATE</td>\n<td>Prescribe ≤20mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If dose &gt;20mg needed for desired efficacy, consider an alternative statin or combination therapy (i.e., fluvastatin plus non-statin guideline directed medical therapy). MODERATE</td>\n</tr>\n<tr>\n<td>SLCO1B1 increased function</td>\n<td>Prescribe desired starting dose and adjust doses of fluvastatin based on disease-specific guidelines. STRONG</td>\n<td>Prescribe ≤40mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If dose &gt;40mg needed for desired efficacy, consider an alternative statin or combination therapy (i.e., fluvastatin plus non-statin guideline directed medical therapy). MODERATE</td>\n<td>Prescribe ≤20mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If dose &gt;20mg needed for desired efficacy, consider an alternative statin or combination therapy (i.e., fluvastatin plus non-statin guideline directed medical therapy). MODERATE</td>\n</tr>\n<tr>\n<td>SLCO1B1 decreased function</td>\n<td>Prescribe desired starting dose and adjust doses of fluvastatin based on disease-specific guidelines. Prescriber should be aware of possible increased risk for myopathy especially for doses &gt;40mg per day. MODERATE</td>\n<td>Prescribe ≤20mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If dose &gt;20mg needed for desired efficacy, consider an alternative statin or combination therapy (i.e., fluvastatin plus non-statin guideline directed medical therapy). OPTIONAL</td>\n<td>Prescribe an alternative statin depending on the desired potency (see Figure 1 for recommendations for alternative statins). OPTIONAL</td>\n</tr>\n<tr>\n<td>SLCO1B1 possible decreased function</td>\n<td>Prescribe desired starting dose and adjust doses of fluvastatin based on disease-specific guidelines. Prescriber should be aware of possible increased risk for myopathy especially for doses &gt;40mg per day. MODERATE</td>\n<td>Prescribe ≤20mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If dose &gt;20mg needed for desired efficacy, consider an alternative statin or combination therapy (i.e., fluvastatin plus non-statin guideline directed medical therapy). OPTIONAL</td>\n<td>Prescribe an alternative statin depending on the desired potency (see Figure 1 for recommendations for alternative statins). OPTIONAL</td>\n</tr>\n<tr>\n<td>SLCO1B1 poor function</td>\n<td>Prescribe ≤40mg per day as a starting dose and adjust doses of fluvastatin based on disease-specific guidelines. If patient is tolerating 40mg per day but higher potency is needed, a higher dose (&gt;40mg) or an alternative statin (see Tables 1  and Figure 1 for recommendations for alternative statins) or combination therapy (i.e. fluvastatin plus non-statin guideline directed medical therapy) could be considered. Prescriber should be aware of possible increased risk for myopathy with fluvastatin especially with doses &gt;40mg per day. MODERATE</td>\n<td>Prescribe an alternative statin depending on the desired potency (see Table 1 and Figure 1 for recommendations for alternative statins). OPTIONAL</td>\n<td>Prescribe an alternative statin depending on the desired potency (see Table 1 and Figure 1 for recommendations for alternative statins). OPTIONAL</td>\n</tr>\n</tbody>\n</table>\n<h3 id=\"figure-1-slco1b1-recommendations-with-intensity-and-statin-dose-stratified-by-slco1b1-phenotype-all-doses-assume-adult-dosing\">Figure 1 : SLCO1B1 recommendations with intensity and statin dose stratified by SLCO1B1 phenotype; all doses assume adult dosing.</h3>\n<p><em>Adapted from Figure 1 of the 2022 guideline manuscript</em></p>\n<p><img src=\"https://s3.pgkb.org/attachment/CPIC_statin_guideline_figure_1.png\" alt=\"Fig1\" /></p>\n<ul>\n<li>&quot;Therapeutic recommendations: SLCO1B1. The American College of Cardiology and the American Heart Association issued an updated clinical practice guideline for the management of blood cholesterol in 2018. In those guidelines, statins at various daily doses are classified as high-, medium- or low-intensity statins based on expected ranges of LDL-cholesterol lowering. For example, they recommend initiation of high-intensity statins in patients with evidence of clinical atherosclerotic cardiovascular disease (ASCVD) which may include atorvastatin at 40 or 80 mg once daily or rosuvastatin at 20 or 40 mg once daily.   Figure 1 is designed to be used in conjunction with the aforementioned guideline, as it provides statin recommendations, including preferred statin intensity and statin dose, stratified by SLCO1B1 phenotype (i.e., decreased or poor function). Statin and statin doses indicated in the light grey boxes can be prescribed with the lowest risk for SAMS. Statin and statin doses indicated in dark grey boxes should be used with caution (possible increased risk for SAMS) and statin and statin doses indicated in black boxes should be avoided as the available evidence suggests that they are associated with increased risk of harm. The recommendations are based on the combination of available pharmacokinetic and SAMS-risk data, in most cases, and are informed by the number of available statin options within each intensity.&quot;</li>\n</ul>\n",
+      "version": 1
+    },
+    "userId": "lgong",
+    "version": 4
+  }
+}

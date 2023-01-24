@@ -1,0 +1,30 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
+NR1I3	CYP3A4	Activation			hepatocyte	23462807, 19667267	CYP3A4, NR1I3		Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	NR1I3 activates CYP3A4.
+NR1I2	CYP3A4	Activation			hepatocyte	23462807	CYP3A4, NR1I2		Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	NR1I2 activates CYP3A4.
+n-desethyl sunitinib	n,n-didesethyl sunitinib	Biochemical Reaction	CYP3A4	Gene	hepatocyte	17825686			Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	Biochemical reaction from n-desethyl sunitinib to didesethyl sunitinib. This interaction is catalyzed by CYP3A4.
+sunitinib	n-desethyl sunitinib	Biochemical Reaction	CYP1A1, CYP1A2, CYP3A4, CYP3A5	Gene	hepatocyte	25930089, 24566734, 22015057, 21097692, 19667267, 17825686		sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	Biochemical reaction from sunitinib to n-desethyl sunitinib. This interaction can be catalyzed by CYP3A4, CYP1A2, CYP3A5 or CYP1A1.
+sunitinib	sunitinib n-oxide	Biochemical Reaction			hepatocyte	17825686		sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	Biochemical reaction from sunitinib to sunitinib n-oxide.
+sunitinib	ABCB1	Inhibition			hepatocyte	18971320	ABCB1	sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib inhibits ABCB1.
+sunitinib	ABCG2	Inhibition			hepatocyte	18971320	ABCG2	sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib inhibits ABCG2.
+sunitinib	FLT4	Inhibition			cell	23462807, 22015057, 12538485	FLT4	sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib inhibits FLT4.
+sunitinib	KIT	Inhibition			enterocyte	19248971, 12538485	KIT	sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib inhibits KIT.
+sunitinib	KDR	Inhibition			cell	22015057, 19667267, 12538485	KDR	sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib inhibits KDR.
+sunitinib	FLT1	Inhibition			cell	23421954, 23511629, 21882181, 12538485	FLT1	sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib inhibits FLT1.
+sunitinib	FLT3	Inhibition			cell	20683446, 19667267, 12538485	FLT3	sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib inhibits FLT3.
+sunitinib	PDGFRB	Inhibition			cell	12538485	PDGFRB	sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib inhibits PDGFRB.
+sunitinib	PDGFRA	Inhibition			cell	21097692, 12538485	PDGFRA	sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib inhibits PDGFRA.
+PDGFRB	VEGF Signaling Pathway	Leads To			cell	12538485	PDGFRB		Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	PDGFRB leads to VEGF Signaling Pathway.
+sunitinib	mucositis	Leads To			hepatocyte, null	17825686		sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib leads to mucositis.
+PDGFRA	VEGF Signaling Pathway	Leads To			cell	21097692, 12538485	PDGFRA		Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	PDGFRA leads to VEGF Signaling Pathway.
+KIT	VEGF Signaling Pathway	Leads To			enterocyte	19248971, 12538485	KIT		Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	KIT leads to VEGF Signaling Pathway.
+sunitinib	Diarrhea	Leads To			hepatocyte, null	17825686		sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib leads to Diarrhea.
+sunitinib	Neutropenia	Leads To			hepatocyte, null	17825686		sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib leads to Neutropenia.
+sunitinib	Thrombocytopenia	Leads To			hepatocyte, null	17825686		sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib leads to Thrombocytopenia.
+sunitinib	hand-foot syndrome	Leads To			hepatocyte, null	17825686		sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	sunitinib leads to hand-foot syndrome.
+FLT3	VEGF Signaling Pathway	Leads To			cell	20683446, 19667267, 12538485	FLT3		Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	FLT3 leads to VEGF Signaling Pathway.
+KDR	VEGF Signaling Pathway	Leads To			cell	22015057, 19667267, 12538485	KDR		Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	KDR leads to VEGF Signaling Pathway.
+FLT4	VEGF Signaling Pathway	Leads To			cell	23462807, 22015057, 12538485	FLT4		Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	FLT4 leads to VEGF Signaling Pathway.
+FLT1	VEGF Signaling Pathway	Leads To			cell	23421954, 23511629, 21882181, 12538485	FLT1		Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	FLT1 leads to VEGF Signaling Pathway.
+sunitinib	sunitinib	Transport			null, enterocyte	20345483, 19773380, 18971320		sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	Transport from sunitinib to sunitinib.
+sunitinib	sunitinib	Transport			null, cell	20345483, 19773380, 18971320		sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	Transport from sunitinib to sunitinib.
+sunitinib	sunitinib	Transport	ABCB1, ABCG2	Gene	hepatocyte, null	25930089, 25515134, 24874929, 23462807, 21097692, 20348146, 19773380, 19667267, 19258444, 18971320, 19111841, 17185560, 12479221		sunitinib	Diarrhea,hand-foot syndrome,mucositis,Neutropenia,Thrombocytopenia	Transport from sunitinib to sunitinib. This interaction can be catalyzed by ABCB1 or ABCG2.

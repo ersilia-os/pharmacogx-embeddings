@@ -1,0 +1,7 @@
+From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases
+Busulfan glutathione conjugate	Busulfan glutathione conjugate	Biochemical Reaction	DPEP1,DPEP2,DPEP3,GGT1,GGT2	Catalysis	cell		"DPEP2","DPEP1","GGT1","DPEP3","GGT2"		
+Busulfan glutathione conjugate	N-acetylated cysteine conjugate	Biochemical Reaction	NAT1,NAT2	Catalysis	cell		"NAT1","NAT2"		
+Busulfan glutathione conjugate	NH4+,pyruvate,tetrahydrothiophene	Biochemical Reaction	CTH	Catalysis	cell		CTH		
+busulfan	Busulfan glutathione conjugate	Biochemical Reaction	GSTA1,GSTM1,GSTP1	Catalysis	cell		"GSTM1","GSTP1","GSTA1"	busulfan	
+tetrahydrothiophene	3-hydroxysulfolane,sulfolane	Biochemical Reaction	CYP,FMO1,FMO2,FMO3,FMO4,FMO5	Catalysis	cell		"FMO1","FMO2","FMO3","FMO4","FMO5"		
+busulfan	busulfan	Transport			cell			busulfan	
