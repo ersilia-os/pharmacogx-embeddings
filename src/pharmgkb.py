@@ -6,6 +6,12 @@ root = os.path.abspath(os.path.dirname(__file__))
 
 
 class RawData(object):
+    """
+    This class reads the files downloaded from PharmGKB on the indicated CREATED_DATE.
+    The folder and file structure is maintaind from PharmGKB.
+    .tsv files have been manually converted to .csv files using Excel to avoid endline errors.
+    """
+
     def __init__(self, data_path=None):
         if data_path is None:
             self.data_path = os.path.join(root, "..", "data")
@@ -16,16 +22,25 @@ class RawData(object):
 
     def reset(self):
         self._automated_annotations = None
-        self._var_drug_ann = None
         self._chemicals = None
         self._clinical_ann_alleles = None
+        self._clinical_ann_evidence = None
+        self._clinical_ann_history = None
+        self._clinical_annotations = None
+        self._clinical_variants = None
+        self._genes = None
+        self._var_drug_ann = None
 
     @property
     def automated_annotations(self):
         if self._automated_annotations is not None:
             return self._automated_annotations
-        file_name = os.path.join(self._pgkb_folder, "automated_annotations", "automated_annotations.csv")
-        self._automated_annotations = pd.read_csv(file_name)
+        file_name = os.path.join(
+            self._pgkb_folder, "automated_annotations", "automated_annotations.csv"
+        )
+        self._automated_annotations = pd.read_csv(
+            file_name, encoding="utf-8", encoding_errors="ignore"
+        )
         return self._automated_annotations
 
     @property
@@ -33,47 +48,69 @@ class RawData(object):
         if self._chemicals is not None:
             return self._chemicals
         file_name = os.path.join(self._pgkb_folder, "chemicals", "chemicals.csv")
-        self._chemicals = pd.read_csv(file_name)
+        self._chemicals = pd.read_csv(
+            file_name, encoding="utf-8", encoding_errors="ignore"
+        )
         return self._chemicals
 
     @property
     def clinical_ann_alleles(self):
         if self._clinical_ann_alleles is not None:
             return self._clinical_ann_alleles
-        file_name = os.path.join(self._pgkb_folder, "clinicalAnnotations", "clinical_ann_alleles.csv")
-        self._clinical_ann_alleles = pd.read_csv(file_name)
+        file_name = os.path.join(
+            self._pgkb_folder, "clinicalAnnotations", "clinical_ann_alleles.csv"
+        )
+        self._clinical_ann_alleles = pd.read_csv(
+            file_name, encoding="utf-8", encoding_errors="ignore"
+        )
         return self._clinical_ann_alleles
 
     @property
     def clinical_ann_evidence(self):
         if self._clinical_ann_evidence is not None:
             return self._clinical_ann_evidence
-        file_name = os.path.join(self._pgkb_folder, "clinicalAnnotations", "clinical_ann_evidence.csv")
-        self._clinical_ann_evidence = pd.read_csv(file_name)
+        file_name = os.path.join(
+            self._pgkb_folder, "clinicalAnnotations", "clinical_ann_evidence.csv"
+        )
+        self._clinical_ann_evidence = pd.read_csv(
+            file_name, encoding="utf-8", encoding_errors="ignore"
+        )
         return self._clinical_ann_evidence
 
     @property
     def clinical_ann_history(self):
         if self._clinical_ann_history is not None:
             return self._clinical_ann_history
-        file_name = os.path.join(self._pgkb_folder, "clinicalAnnotations", "clinical_ann_history.csv")
-        self._clinical_ann_history = pd.read_csv(file_name)
+        file_name = os.path.join(
+            self._pgkb_folder, "clinicalAnnotations", "clinical_ann_history.csv"
+        )
+        self._clinical_ann_history = pd.read_csv(
+            file_name, encoding="utf-8", encoding_errors="ignore"
+        )
         return self._clinical_ann_history
 
     @property
     def clinical_annotations(self):
         if self._clinical_annotations is not None:
             return self._clinical_annotations
-        file_name = os.path.join(self._pgkb_folder, "clinicalAnnotations", "clinical_annotations.csv")
-        self._clinical_annotations = pd.read_csv(file_name)
+        file_name = os.path.join(
+            self._pgkb_folder, "clinicalAnnotations", "clinical_annotations.csv"
+        )
+        self._clinical_annotations = pd.read_csv(
+            file_name, encoding="utf-8", encoding_errors="ignore"
+        )
         return self._clinical_annotations
 
     @property
     def clinical_variants(self):
         if self._clinical_variants is not None:
             return self._clinical_variants
-        file_name = os.path.join(self._pgkb_folder, "clinicalVariants", "clinical_variants.csv")
-        self._clinical_variants = pd.read_csv(file_name)
+        file_name = os.path.join(
+            self._pgkb_folder, "clinicalVariants", "clinical_variants.csv"
+        )
+        self._clinical_variants = pd.read_csv(
+            file_name, encoding="utf-8", encoding_errors="ignore"
+        )
         return self._clinical_variants
 
     @property
@@ -81,41 +118,33 @@ class RawData(object):
         if self._genes is not None:
             return self._genes
         file_name = os.path.join(self._pgkb_folder, "genes", "genes.csv")
-        self._genes = pd.read_csv(file_name)
+        self._genes = pd.read_csv(file_name, encoding="utf-8", encoding_errors="ignore")
         return self._genes
 
     @property
     def var_drug_ann(self):
         if self._var_drug_ann is not None:
             return self._var_drug_ann
-        file_name = os.path.join(self._pgkb_folder, "variantAnnotations", "var_drug_ann.csv")
-        self._var_drug_ann = pd.read_csv(file_name)
-        return self._var_drug_ann    
+        file_name = os.path.join(
+            self._pgkb_folder, "variantAnnotations", "var_drug_ann.csv"
+        )
+        self._var_drug_ann = pd.read_csv(
+            file_name, encoding="utf-8", encoding_errors="ignore"
+        )
+        return self._var_drug_ann
 
 
-
-class Chemical(object):
+class Chemical(RawData):
     def __init__(self, data_path=None):
-        if data_path is None:
-            self.data_path = os.path.join(root, "..", "data")
-        else:
-            self.data_path = os.path.abspath(data_path)
+        RawData.__init__(self, data_path=data_path)
         self._pgkb_id = None
-        self._pgkb_folder = os.path.join(self.data_path, "pharmgkb")
-        self._overview = None
-        self._prescribing_info = None
-        self._drug_label_annotations = None
-        self._clinical_annotations = None
-        self._variant_annotations = None
-        self._literature = None
-        self._pathways = None
-        self._related_genes = None
-        self._related_diseases = None
-        self._automated_variant_annotations = None
 
     def get_all_pgkb_ids(self):
-        df = pd.read_csv(os.path.join(self._pgkb_folder, "chemicals", "chemicals.tsv"), delimiters="\t")
-        return df["PharmGKB "].tolist()
+        df = pd.read_csv(
+            os.path.join(self._pgkb_folder, "chemicals", "chemicals.tsv"),
+            delimiters="\t",
+        )
+        return df["PharmGKB Accession Id"].tolist()
 
     @property
     def pgkb_id(self):
@@ -125,18 +154,18 @@ class Chemical(object):
     @pgkb_id.setter
     def pgkb_id(self, pgkb_id):
         self._pgkb_id = pgkb_id
-  
+
     @property
     def overview(self):
         if self._overview is not None:
             return self._overview
-        df = pd.read_csv(os.path.join(self._pgkb_folder, "chemicals", "chemicals.tsv"), delimiter="\t")
+        df = pd.read_csv(
+            os.path.join(self._pgkb_folder, "chemicals", "chemicals.tsv"),
+            delimiter="\t",
+        )
         df = df[df["PharmGKB Accession Id"] == self._pgkb_id]
-        assert (df.shape[0] == 1)
-        data = {
-            "Type": df["Type"].tolist()[0],
-            "SMILES": df["SMILES"].tolist()[0]
-        }
+        assert df.shape[0] == 1
+        data = {"Type": df["Type"].tolist()[0], "SMILES": df["SMILES"].tolist()[0]}
         self._overview = data
         return self._overview
 
@@ -160,7 +189,9 @@ class Chemical(object):
     def variant_annotations(self):
         if self._variant_annotations is not None:
             return self._variant_annotations
-        file_name = os.path.join(self._pgkb_folder, "variantAnnotations", "var_drug_ann.csv")
+        file_name = os.path.join(
+            self._pgkb_folder, "variantAnnotations", "var_drug_ann.csv"
+        )
         df = pd.read_csv(file_name)
         print(df[df["Drug(s)"] == "warfarin"])
 
@@ -228,5 +259,3 @@ class Disease(object):
             self.data_path = os.path.abspath(data_path)
         self._pgkb_id = pgkb_id
         self._pgkb_folder = os.path.join(self.data_path, "pharmgkb")
-
-
