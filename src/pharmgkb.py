@@ -1,7 +1,37 @@
 import os
 import pandas as pd
+import csv
 
 root = os.path.abspath(os.path.dirname(__file__))
+
+
+class RawData(object):
+    def __init__(self, data_path=None):
+        if data_path is None:
+            self.data_path = os.path.join(root, "..", "data")
+        else:
+            self.data_path = os.path.abspath(data_path)
+        self._pgkb_folder = os.path.join(self.data_path, "pharmgkb")
+        self._var_drug_ann = None
+        
+
+    @property
+    def var_drug_ann(self):
+        if self._var_drug_ann is not None:
+            return self._var_drug_ann
+        file_name = os.path.join(self._pgkb_folder, "variantAnnotations", "var_drug_ann.tsv")
+        with open(file_name, "r") as f:
+            reader = csv.reader(f, delimiter="\t")
+            header = next(reader)
+            R = []
+            for r in reader:
+                if len(r) != 11:
+                    r_ = r[:11]
+                    r_[-1] += " ".join(r[11:])
+                    r = r_
+                R += [r]
+        return pd.DataFrame(R, columns=header)
+
 
 
 class Chemical(object):
@@ -32,15 +62,23 @@ class Chemical(object):
         if self._pgkb_id is not None:
             return self._pgkb_id
 
+    @pgkb_id.setter
+    def pgkb_id(self, pgkb_id):
+        self._pgkb_id = pgkb_id
+  
     @property
     def overview(self):
         if self._overview is not None:
             return self._overview
         df = pd.read_csv(os.path.join(self._pgkb_folder, "chemicals", "chemicals.tsv"), delimiter="\t")
-        df = df[df["PharmGKB"] == self._pgkb_id]
+        df = df[df["PharmGKB Accession Id"] == self._pgkb_id]
         assert (df.shape[0] == 1)
-        data
-        return df
+        data = {
+            "Type": df["Type"].tolist()[0],
+            "SMILES": df["SMILES"].tolist()[0]
+        }
+        self._overview = data
+        return self._overview
 
     @property
     def prescribing_info(self):
@@ -62,6 +100,9 @@ class Chemical(object):
     def variant_annotations(self):
         if self._variant_annotations is not None:
             return self._variant_annotations
+        file_name = os.path.join(self._pgkb_folder, "variantAnnotations", "var_drug_ann.csv")
+        df = pd.read_csv(file_name)
+        print(df[df["Drug(s)"] == "warfarin"])
 
     @property
     def literature(self):
