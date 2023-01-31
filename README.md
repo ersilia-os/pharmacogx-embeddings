@@ -3,7 +3,7 @@ Calculate drug, gene, variant and disease graph embeddings based on pharmacogeno
 
 ## Project overview
 
-
+![Project overview](assets/GradientProposalScheme-01.png)
 
 ## Knowledge graph
 
