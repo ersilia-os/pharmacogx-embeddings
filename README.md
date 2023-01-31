@@ -12,11 +12,14 @@ The knowledge graph leverages mainly [PharmGKB](https://pharmgkb.org) and the [B
 
 ### Ontology
 
+We have adapted the light-weight pharmacogenomics ontology ([PGxO](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2693-9)) to capture the main PGx relationships in our knowledge graph. To the template PGxO, we have added edges related to levels of evidence, population genetics, etc.
 
+![PGx Ontology]()
 
 ### Statistics
 
-#### PharmacoGx core
+#### PharmacoGx core graph
+
 
 
 #### Peripheral (orthogonal data) graph
