@@ -164,7 +164,9 @@ class Chemical(RawData):
     @pgkb_id.setter
     def pgkb_id(self, pgkb_id):
         self._pgkb_id = pgkb_id
-        self._name = self.rd.chemicals[self.rd.chemicals[self.PAI] == self._pgkb_id]["Name"].tolist()[0]
+        self._name = self.rd.chemicals[self.rd.chemicals[self.PAI] == self._pgkb_id][
+            "Name"
+        ].tolist()[0]
 
     @property
     def name(self):

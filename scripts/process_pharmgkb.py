@@ -1,5 +1,4 @@
 import os
-import collections
 import pandas as pd
 
 root = os.path.abspath(os.path.dirname(__file__))
@@ -43,7 +42,11 @@ def get_chemical_name2id():
 
 # genes table
 def get_gene_name2id():
-    df = pd.read_csv(os.path.join(data_folder, "genes", "genes.csv"), encoding="utf-8", encoding_errors="ignore")
+    df = pd.read_csv(
+        os.path.join(data_folder, "genes", "genes.csv"),
+        encoding="utf-8",
+        encoding_errors="ignore",
+    )
     name2id = {}
     for r in df.values:
         gid = stringify(r[0])
@@ -56,7 +59,11 @@ def get_gene_name2id():
 
 # variants table
 def get_variant_name2id():
-    df = pd.read_csv(os.path.join(data_folder, "variants", "variants.csv"), encoding="utf-8", encoding_errors="ignore")
+    df = pd.read_csv(
+        os.path.join(data_folder, "variants", "variants.csv"),
+        encoding="utf-8",
+        encoding_errors="ignore",
+    )
     name2id = {}
     for r in df.values:
         vid = stringify(r[0])
@@ -64,7 +71,11 @@ def get_variant_name2id():
         if name is None or vid is None:
             continue
         name2id[name] = vid
-    df = pd.read_csv(os.path.join(data_folder, "occurrences", "occurrences.csv"), encoding="utf-8", encoding_errors="ignore")
+    df = pd.read_csv(
+        os.path.join(data_folder, "occurrences", "occurrences.csv"),
+        encoding="utf-8",
+        encoding_errors="ignore",
+    )
     df_ = df[df["Object Type"] == "Haplotype"]
     for r in df_.values:
         vid = stringify(r[-2])
@@ -86,7 +97,9 @@ def get_variant_name2id():
 
 # drug_var_ann table
 def var_drug_ann():
-    df = pd.read_csv(os.path.join(data_folder, "variantAnnotations", "var_drug_ann.csv"))
+    df = pd.read_csv(
+        os.path.join(data_folder, "variantAnnotations", "var_drug_ann.csv")
+    )
     R = []
     for r in df.values:
         aid = stringify(r[0])
@@ -121,14 +134,48 @@ def var_drug_ann():
                         continue
                     cid = chemical_name2id[d]
                     for pc in phenotype_category:
-                        r = [aid, vid, gid, cid, v, g, d, pc, alleles, pmid, significance, notes, sentence, specialty_population]
+                        r = [
+                            aid,
+                            vid,
+                            gid,
+                            cid,
+                            v,
+                            g,
+                            d,
+                            pc,
+                            alleles,
+                            pmid,
+                            significance,
+                            notes,
+                            sentence,
+                            specialty_population,
+                        ]
                         R += [r]
-    columns = ["aid", "vid", "gid", "cid", "variant", "gene", "chemical", "phenotype", "alleles", "pmid", "significance", "notes", "sentence", "specialty_population"]
+    columns = [
+        "aid",
+        "vid",
+        "gid",
+        "cid",
+        "variant",
+        "gene",
+        "chemical",
+        "phenotype",
+        "alleles",
+        "pmid",
+        "significance",
+        "notes",
+        "sentence",
+        "specialty_population",
+    ]
     return pd.DataFrame(R, columns=columns)
 
 
 def gene_chem_relationships():
-    df = pd.read_csv(os.path.join(data_folder, "relationships", "relationships.csv"), encoding="utf-8", encoding_errors="ignore")
+    df = pd.read_csv(
+        os.path.join(data_folder, "relationships", "relationships.csv"),
+        encoding="utf-8",
+        encoding_errors="ignore",
+    )
     R = []
     for r in df.values:
         et1 = stringify(r[2])
@@ -142,7 +189,7 @@ def gene_chem_relationships():
             gid = stringify(r[3])
             gene = stringify(r[4])
             cid = stringify(r[0])
-            chemical = stringify(r[1])      
+            chemical = stringify(r[1])
         else:
             continue
         evidence = stringify(r[6]).split(",")
@@ -152,12 +199,28 @@ def gene_chem_relationships():
         for evid in evidence:
             r = [gid, cid, gene, chemical, evid, association, pkin, pdyn]
             R += [r]
-    df = pd.DataFrame(R, columns=["gid", "cid", "gene", "chemical", "evidence", "association", "pk", "pd"])
+    df = pd.DataFrame(
+        R,
+        columns=[
+            "gid",
+            "cid",
+            "gene",
+            "chemical",
+            "evidence",
+            "association",
+            "pk",
+            "pd",
+        ],
+    )
     return df.drop_duplicates(inplace=False)
 
 
 def var_chem_relationships():
-    df = pd.read_csv(os.path.join(data_folder, "relationships", "relationships.csv"), encoding="utf-8", encoding_errors="ignore")
+    df = pd.read_csv(
+        os.path.join(data_folder, "relationships", "relationships.csv"),
+        encoding="utf-8",
+        encoding_errors="ignore",
+    )
     R = []
     for r in df.values:
         et1 = stringify(r[2])
@@ -171,7 +234,7 @@ def var_chem_relationships():
             vid = stringify(r[3])
             variant = stringify(r[4])
             cid = stringify(r[0])
-            chemical = stringify(r[1])      
+            chemical = stringify(r[1])
         else:
             continue
         evidence = stringify(r[6]).split(",")
@@ -181,12 +244,28 @@ def var_chem_relationships():
         for evid in evidence:
             r = [vid, cid, variant, chemical, evid, association, pkin, pdyn]
             R += [r]
-    df = pd.DataFrame(R, columns=["vid", "cid", "variant", "chemical", "evidence", "association", "pk", "pd"])
+    df = pd.DataFrame(
+        R,
+        columns=[
+            "vid",
+            "cid",
+            "variant",
+            "chemical",
+            "evidence",
+            "association",
+            "pk",
+            "pd",
+        ],
+    )
     return df.drop_duplicates(inplace=False)
 
 
 def hapl_chem_relationships():
-    df = pd.read_csv(os.path.join(data_folder, "relationships", "relationships.csv"), encoding="utf-8", encoding_errors="ignore")
+    df = pd.read_csv(
+        os.path.join(data_folder, "relationships", "relationships.csv"),
+        encoding="utf-8",
+        encoding_errors="ignore",
+    )
     R = []
     for r in df.values:
         et1 = stringify(r[2])
@@ -200,7 +279,7 @@ def hapl_chem_relationships():
             vid = stringify(r[3])
             variant = stringify(r[4])
             cid = stringify(r[0])
-            chemical = stringify(r[1])      
+            chemical = stringify(r[1])
         else:
             continue
         evidence = stringify(r[6]).split(",")
@@ -210,12 +289,28 @@ def hapl_chem_relationships():
         for evid in evidence:
             r = [vid, cid, variant, chemical, evid, association, pkin, pdyn]
             R += [r]
-    df = pd.DataFrame(R, columns=["vid", "cid", "variant", "chemical", "evidence", "association", "pk", "pd"])
+    df = pd.DataFrame(
+        R,
+        columns=[
+            "vid",
+            "cid",
+            "variant",
+            "chemical",
+            "evidence",
+            "association",
+            "pk",
+            "pd",
+        ],
+    )
     return df.drop_duplicates(inplace=False)
 
 
 def var_gene_relationships():
-    df = pd.read_csv(os.path.join(data_folder, "relationships", "relationships.csv"), encoding="utf-8", encoding_errors="ignore")
+    df = pd.read_csv(
+        os.path.join(data_folder, "relationships", "relationships.csv"),
+        encoding="utf-8",
+        encoding_errors="ignore",
+    )
     R = []
     for r in df.values:
         et1 = stringify(r[2])
@@ -229,7 +324,7 @@ def var_gene_relationships():
             vid = stringify(r[3])
             variant = stringify(r[4])
             gid = stringify(r[0])
-            gene = stringify(r[1])      
+            gene = stringify(r[1])
         else:
             continue
         evidence = stringify(r[6]).split(",")
@@ -239,12 +334,28 @@ def var_gene_relationships():
         for evid in evidence:
             r = [vid, gid, variant, gene, evid, association, pkin, pdyn]
             R += [r]
-    df = pd.DataFrame(R, columns=["vid", "gid", "variant", "gene", "evidence", "association", "pk", "pd"])
+    df = pd.DataFrame(
+        R,
+        columns=[
+            "vid",
+            "gid",
+            "variant",
+            "gene",
+            "evidence",
+            "association",
+            "pk",
+            "pd",
+        ],
+    )
     return df.drop_duplicates(inplace=False)
 
 
 def hapl_gene_relationships():
-    df = pd.read_csv(os.path.join(data_folder, "relationships", "relationships.csv"), encoding="utf-8", encoding_errors="ignore")
+    df = pd.read_csv(
+        os.path.join(data_folder, "relationships", "relationships.csv"),
+        encoding="utf-8",
+        encoding_errors="ignore",
+    )
     R = []
     for r in df.values:
         et1 = stringify(r[2])
@@ -258,7 +369,7 @@ def hapl_gene_relationships():
             vid = stringify(r[3])
             variant = stringify(r[4])
             gid = stringify(r[0])
-            gene = stringify(r[1])      
+            gene = stringify(r[1])
         else:
             continue
         evidence = stringify(r[6]).split(",")
@@ -268,12 +379,28 @@ def hapl_gene_relationships():
         for evid in evidence:
             r = [vid, gid, variant, gene, evid, association, pkin, pdyn]
             R += [r]
-    df = pd.DataFrame(R, columns=["vid", "gid", "variant", "gene", "evidence", "association", "pk", "pd"])
+    df = pd.DataFrame(
+        R,
+        columns=[
+            "vid",
+            "gid",
+            "variant",
+            "gene",
+            "evidence",
+            "association",
+            "pk",
+            "pd",
+        ],
+    )
     return df.drop_duplicates(inplace=False)
 
 
 def disease_gene_relationships():
-    df = pd.read_csv(os.path.join(data_folder, "relationships", "relationships.csv"), encoding="utf-8", encoding_errors="ignore")
+    df = pd.read_csv(
+        os.path.join(data_folder, "relationships", "relationships.csv"),
+        encoding="utf-8",
+        encoding_errors="ignore",
+    )
     R = []
     for r in df.values:
         et1 = stringify(r[2])
@@ -287,7 +414,7 @@ def disease_gene_relationships():
             did = stringify(r[3])
             disease = stringify(r[4])
             gid = stringify(r[0])
-            gene = stringify(r[1])      
+            gene = stringify(r[1])
         else:
             continue
         evidence = stringify(r[6]).split(",")
@@ -297,7 +424,19 @@ def disease_gene_relationships():
         for evid in evidence:
             r = [did, gid, disease, gene, evid, association, pkin, pdyn]
             R += [r]
-    df = pd.DataFrame(R, columns=["did", "gid", "disease", "gene", "evidence", "association", "pk", "pd"])
+    df = pd.DataFrame(
+        R,
+        columns=[
+            "did",
+            "gid",
+            "disease",
+            "gene",
+            "evidence",
+            "association",
+            "pk",
+            "pd",
+        ],
+    )
     return df.drop_duplicates(inplace=False)
 
 
@@ -305,6 +444,6 @@ if __name__ == "__main__":
     chemical_name2id = get_chemical_name2id()
     gene_name2id = get_gene_name2id()
     variant_name2id = get_variant_name2id()
-    #print(var_drug_ann())
-    #print(var_chem_relationships())
+    print(var_drug_ann())
+    print(var_chem_relationships())
     print(var_chem_relationships())
