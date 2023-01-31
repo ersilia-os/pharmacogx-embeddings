@@ -25,9 +25,17 @@ We have adapted the light-weight pharmacogenomics ontology ([PGxO](https://bmcbi
 #### Peripheral (orthogonal data) graph
 
 
+## Installation instructions
 
+This is a Python based package. The repository can be installed with `pip` as follows.
 
-### Python API
+```bash
+git clone https://github.com/ersilia-os/pharmacogx-embeddings
+cd pharmacogx-embeddings
+python -m pip install -e .
+```
+
+## Python API
 
 We have written 
 
@@ -39,6 +47,12 @@ ch.name = "izoniazid"
 
 print(ch.get_associated_variants())
 ```
+
+## Repository structure
+
+* `data`: 
+* `scripts`: 
+* `notebooks`:
 
 ## About Us
 
