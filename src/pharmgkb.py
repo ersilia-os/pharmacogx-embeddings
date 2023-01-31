@@ -1,6 +1,5 @@
 import os
 import pandas as pd
-import csv
 
 root = os.path.abspath(os.path.dirname(__file__))
 
@@ -136,15 +135,26 @@ class RawData(object):
 
 class Chemical(RawData):
     def __init__(self, data_path=None):
-        RawData.__init__(self, data_path=data_path)
+        self.rd = RawData(data_path=data_path)
         self._pgkb_id = None
+        self.PAI = "PharmGKB Accession Id"
 
     def get_all_pgkb_ids(self):
-        df = pd.read_csv(
-            os.path.join(self._pgkb_folder, "chemicals", "chemicals.tsv"),
-            delimiters="\t",
-        )
-        return df["PharmGKB Accession Id"].tolist()
+        df = self.rd.chemicals
+        return sorted(set(df[self.PAI].tolist()))
+
+    def reset(self):
+        self._pgkb_id = None
+        self._overview = None
+        self._prescribing_info = None
+        self._drug_label_annotations = None
+
+    def browse(self):
+        url = "https://pharmgkb.org/chemical/{0}".format(self.pgkb_id)
+        return url
+
+    def set(self, pgkb_id):
+        self.pgkb_id = pgkb_id
 
     @property
     def pgkb_id(self):
@@ -154,6 +164,11 @@ class Chemical(RawData):
     @pgkb_id.setter
     def pgkb_id(self, pgkb_id):
         self._pgkb_id = pgkb_id
+        self._name = self.rd.chemicals[self.rd.chemicals[self.PAI] == self._pgkb_id]["Name"].tolist()[0]
+
+    @property
+    def name(self):
+        return self._name
 
     @property
     def overview(self):
