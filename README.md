@@ -1,6 +1,8 @@
 # PharmacoGx Embeddings
 Calculate drug, gene, variant and disease graph embeddings based on pharmacogenomics knowledge.
 
+## :construction: This is library is in continuous development and it is currently intended for internal use. We are currently working on it. Stay tuned! :contruction: 
+
 ## Project overview
 
 ![Project overview](assets/GradientProposalScheme-01.png)
@@ -12,7 +14,7 @@ The knowledge graph leverages mainly [PharmGKB](https://pharmgkb.org) and the [B
 
 ### Ontology
 
-We have adapted the light-weight pharmacogenomics ontology ([PGxO](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2693-9)) to capture the main PGx relationships in our knowledge graph. To the template PGxO, we have added edges related to levels of evidence, population genetics, etc.
+We have adapted the light-weight pharmacogenomics ontology ([PGxO](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2693-9)) to capture the main PharmacoGx relationships and concepts in our knowledge graph. To the template PGxO, we have added edges related to levels of evidence, population genetics, etc.
 
 ![PGx Ontology]()
 
