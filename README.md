@@ -1,7 +1,7 @@
 # PharmacoGx Embeddings
 Calculate drug, gene, variant and disease graph embeddings based on pharmacogenomics knowledge.
 
-## :construction: This is library is in continuous development and it is currently intended for internal use. We are currently working on it. Stay tuned! :contruction: 
+## :construction: This is library is in continuous development and it is currently intended for internal use. We are currently working on it. Stay tuned! :construction: 
 
 ## Project overview
 
