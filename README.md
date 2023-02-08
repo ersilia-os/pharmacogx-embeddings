@@ -24,7 +24,7 @@ We have adapted the light-weight pharmacogenomics ontology ([PGxO](https://bmcbi
 
 ```mermaid
 graph TD;
-    Gene-->Drug;
+    Gene-->Drug:interacts;
     A-->C;
     B-->D;
     C-->D;
