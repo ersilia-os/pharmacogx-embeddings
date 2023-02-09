@@ -2,7 +2,9 @@ import os
 import pandas as pd
 
 root = os.path.abspath(os.path.dirname(__file__))
-data_folder = os.path.abspath(os.path.join(root, "..", "data", "pharmgkb"))
+data_folder = os.path.abspath(os.path.join(root, "..", "data"))
+pharmgkb_folder = os.path.join(data_folder, "pharmgkb")
+processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
 
 def stringify(x):
@@ -18,6 +20,7 @@ def inline_quote_splitter(x):
     x = str(x)
     x = [x_ for x_ in x.split('"') if len(x_) > 1]
     x = [x_.rstrip(",") for x_ in x]
+    x = sorted(set([y for x_ in x for y in x_.split(" / ")]))
     return x
 
 
@@ -25,11 +28,10 @@ def inline_comma_splitter(x):
     if str(x) == "nan":
         return None
     return x.split(", ")
-
-
+    
 # chemicals table
 def get_chemical_name2id():
-    df = pd.read_csv(os.path.join(data_folder, "chemicals", "chemicals.csv"))
+    df = pd.read_csv(os.path.join(pharmgkb_folder, "chemicals", "chemicals.csv"))
     name2id = {}
     for r in df.values:
         cid = stringify(r[0])
@@ -43,7 +45,7 @@ def get_chemical_name2id():
 # genes table
 def get_gene_name2id():
     df = pd.read_csv(
-        os.path.join(data_folder, "genes", "genes.csv"),
+        os.path.join(pharmgkb_folder, "genes", "genes.csv"),
         encoding="utf-8",
         encoding_errors="ignore",
     )
@@ -60,7 +62,7 @@ def get_gene_name2id():
 # variants table
 def get_variant_name2id():
     df = pd.read_csv(
-        os.path.join(data_folder, "variants", "variants.csv"),
+        os.path.join(pharmgkb_folder, "variants", "variants.csv"),
         encoding="utf-8",
         encoding_errors="ignore",
     )
@@ -72,7 +74,7 @@ def get_variant_name2id():
             continue
         name2id[name] = vid
     df = pd.read_csv(
-        os.path.join(data_folder, "occurrences", "occurrences.csv"),
+        os.path.join(pharmgkb_folder, "occurrences", "occurrences.csv"),
         encoding="utf-8",
         encoding_errors="ignore",
     )
@@ -98,7 +100,7 @@ def get_variant_name2id():
 # drug_var_ann table
 def var_drug_ann():
     df = pd.read_csv(
-        os.path.join(data_folder, "variantAnnotations", "var_drug_ann.csv")
+        os.path.join(pharmgkb_folder, "variantAnnotations", "var_drug_ann.csv")
     )
     R = []
     for r in df.values:
@@ -167,12 +169,14 @@ def var_drug_ann():
         "sentence",
         "specialty_population",
     ]
-    return pd.DataFrame(R, columns=columns)
+    data = pd.DataFrame(R, columns=columns)
+    data.to_csv(os.path.join(processed_folder, ""),index=False)
+    return data
 
 
 def gene_chem_relationships():
     df = pd.read_csv(
-        os.path.join(data_folder, "relationships", "relationships.csv"),
+        os.path.join(pharmgkb_folder, "relationships", "relationships.csv"),
         encoding="utf-8",
         encoding_errors="ignore",
     )
@@ -217,7 +221,7 @@ def gene_chem_relationships():
 
 def var_chem_relationships():
     df = pd.read_csv(
-        os.path.join(data_folder, "relationships", "relationships.csv"),
+        os.path.join(pharmgkb_folder, "relationships", "relationships.csv"),
         encoding="utf-8",
         encoding_errors="ignore",
     )
@@ -262,7 +266,7 @@ def var_chem_relationships():
 
 def hapl_chem_relationships():
     df = pd.read_csv(
-        os.path.join(data_folder, "relationships", "relationships.csv"),
+        os.path.join(pharmgkb_folder, "relationships", "relationships.csv"),
         encoding="utf-8",
         encoding_errors="ignore",
     )
@@ -307,7 +311,7 @@ def hapl_chem_relationships():
 
 def var_gene_relationships():
     df = pd.read_csv(
-        os.path.join(data_folder, "relationships", "relationships.csv"),
+        os.path.join(pharmgkb_folder, "relationships", "relationships.csv"),
         encoding="utf-8",
         encoding_errors="ignore",
     )
@@ -352,7 +356,7 @@ def var_gene_relationships():
 
 def hapl_gene_relationships():
     df = pd.read_csv(
-        os.path.join(data_folder, "relationships", "relationships.csv"),
+        os.path.join(pharmgkb_folder, "relationships", "relationships.csv"),
         encoding="utf-8",
         encoding_errors="ignore",
     )
@@ -397,7 +401,7 @@ def hapl_gene_relationships():
 
 def disease_gene_relationships():
     df = pd.read_csv(
-        os.path.join(data_folder, "relationships", "relationships.csv"),
+        os.path.join(pharmgkb_folder, "relationships", "relationships.csv"),
         encoding="utf-8",
         encoding_errors="ignore",
     )
@@ -445,5 +449,5 @@ if __name__ == "__main__":
     gene_name2id = get_gene_name2id()
     variant_name2id = get_variant_name2id()
     print(var_drug_ann())
-    print(var_chem_relationships())
-    print(var_chem_relationships())
+    #print(var_chem_relationships())
+    #print(var_chem_relationships())

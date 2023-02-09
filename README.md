@@ -18,6 +18,14 @@ We have adapted the light-weight pharmacogenomics ontology ([PGxO](https://bmcbi
 
 ![PGx Ontology]()
 
+```mermaid
+graph TD;
+    Gene-has->Drug;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 ### Statistics
 
 #### PharmacoGx core graph
