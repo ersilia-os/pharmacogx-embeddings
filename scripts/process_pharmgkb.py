@@ -29,7 +29,7 @@ def inline_comma_splitter(x):
         return None
     return x.split(", ")
     
-# chemicals table
+# CHEMICALS
 def get_chemical_name2id():
     df = pd.read_csv(os.path.join(pharmgkb_folder, "chemicals", "chemicals.csv"))
     name2id = {}
@@ -170,7 +170,7 @@ def var_drug_ann():
         "specialty_population",
     ]
     data = pd.DataFrame(R, columns=columns)
-    data.to_csv(os.path.join(processed_folder, ""),index=False)
+    data.to_csv(os.path.join(processed_folder, "var_drug_ann_test.csv"),index=False)
     return data
 
 

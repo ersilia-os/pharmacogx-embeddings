@@ -27,8 +27,14 @@ class RawData(object):
         self._clinical_ann_history = None
         self._clinical_annotations = None
         self._clinical_variants = None
+        self._drug_labels = None
         self._genes = None
+        self._phenotypes = None
+        self._relationships = None
+        self._variants = None
         self._var_drug_ann = None
+        self._var_fa_ann = None
+        self._var_pheno_ann = None
 
     @property
     def automated_annotations(self):
@@ -111,6 +117,14 @@ class RawData(object):
             file_name, encoding="utf-8", encoding_errors="ignore"
         )
         return self._clinical_variants
+    
+    @property
+    def drug_labels(self):
+        if self._drug_labels is not None:
+            return self._drug_labels
+        file_name = os.path.join(self._pgkb_folder, "drugLabels", "drugLabels.csv")
+        self._drug_labels = pd.read_csv(file_name, encoding="utf-8", encoding_errors="ignore")
+        return self._drug_labels
 
     @property
     def genes(self):
@@ -119,6 +133,30 @@ class RawData(object):
         file_name = os.path.join(self._pgkb_folder, "genes", "genes.csv")
         self._genes = pd.read_csv(file_name, encoding="utf-8", encoding_errors="ignore")
         return self._genes
+    
+    @property
+    def phenotypes(self):
+        if self._phenotypes is not None:
+            return self._phenptypes
+        file_name = os.path.join(self._pgkb_folder, "phenotypes", "phenotypes.csv")
+        self._phenotypes = pd.read_csv(file_name, encoding="utf-8", encoding_errors="ignore")
+        return self._phenotypes
+
+    @property
+    def relationships(self):
+        if self._relationships is not None:
+            return self._relationships
+        file_name = os.path.join(self._pgkb_folder, "relationships", "relationships.csv")
+        self._relationships = pd.read_csv(file_name, encoding="utf-8", encoding_errors="ignore")
+        return self._relationships
+
+    @property
+    def variants(self):
+        if self._variants is not None:
+            return self._variants
+        file_name = os.path.join(self._pgkb_folder, "variants", "variants.csv")
+        self._variants = pd.read_csv(file_name, encoding="utf-8", encoding_errors="ignore")
+        return self._variants
 
     @property
     def var_drug_ann(self):
@@ -131,6 +169,30 @@ class RawData(object):
             file_name, encoding="utf-8", encoding_errors="ignore"
         )
         return self._var_drug_ann
+    
+    @property
+    def var_fa_ann(self):
+        if self._var_fa_ann is not None:
+            return self._var_fa_ann
+        file_name = os.path.join(
+            self._pgkb_folder, "variantAnnotations", "var_fa_ann.csv"
+        )
+        self._var_fa_ann = pd.read_csv(
+            file_name, encoding="utf-8", encoding_errors="ignore"
+        )
+        return self._var_fa_ann
+
+    @property
+    def var_pheno_ann(self):
+        if self._var_pheno_ann is not None:
+            return self._var_pheno_ann
+        file_name = os.path.join(
+            self._pgkb_folder, "variantAnnotations", "var_pheno_ann.csv"
+        )
+        self._var_pheno_ann = pd.read_csv(
+            file_name, encoding="utf-8", encoding_errors="ignore"
+        )
+        return self._var_pheno_ann
 
 
 class Chemical(RawData):
