@@ -36,8 +36,8 @@ def deconv_genomic_var():
         chemical = c.stringify(r[10])
         association = "yes" #clinial annotations are always associated assumption
         genomic_variation = c.inline_comma_splitter_space(r[1])
-        vid = "nan"
-        hid = "nan"
+        vid = None
+        hid = None
         for g in genomic_variation:
             if g in var_name:
                 i = var_name.index(g)
@@ -101,7 +101,7 @@ def deconv_chemical():
         evidence = c.stringify(r[8])
         association = c.stringify(r[9])
         chemical = c.inline_semicolon_splitter(r[6])
-        cid = "nan"
+        cid = None
         for chem in chemical:
             if chem in ch_name:
                 i = ch_name.index(chem)

@@ -36,7 +36,7 @@ def create_table():
                 continue
         elif e1_type == "Haplotype":
             hid = c.stringify(r[0])
-            haplotype = c.stringify(r[1])
+            haplotype = str(r[1])
             e2_type = c.stringify(r[5])
             if e2_type == "Gene":
                 gid = c.stringify(r[3])

@@ -21,26 +21,26 @@ def get_raw_files():
 def deconv_genomic_var():
     c = CsvCleaner()
     df = get_raw_files()
-    df = df[~((df["Variation Name"].isna())&(df["Gene Symbols"].isna()))]
+    df = df[~(df["Gene Symbols"].isna())]
     R = []
     for r in df.values:
-        aid = "nan"
+        aid = None
         cid = c.stringify(r[0])
         chemical = c.stringify(r[1])
         gid = c.stringify(r[7])
         gene = c.stringify(r[8])
-        pd_phenotype = "nan"
-        pk_phenotype = "nan"
+        pd_phenotype = None
+        pk_phenotype = None
         evidence = "6"
         association = 0 #not stated
         var_type = c.stringify(r[5])
         if var_type == "Variant":
             genomic_variation = c.stringify(r[4])
             vid = c.stringify(r[3])
-            hid = "nan"
+            hid = None
         elif var_type == "Haplotype":
             genomic_variation = c.stringify(r[4])
-            vid = "nan"
+            vid = None
             hid = c.stringify(r[3])
         r = [aid, genomic_variation, vid, hid, gene, gid, chemical, cid, pd_phenotype, pk_phenotype, evidence, association]
         R += [r]
@@ -70,6 +70,7 @@ def deconv_gene():
         R += [r]
     cols = ["aid", "genomic_variation", "vid", "hid", "gene", "gid", "chemical", "cid", "pd_phenotype", "pk_phenotype", "evidence", "association"]
     data = pd.DataFrame(R, columns=cols)
+    data.drop_duplicates(keep="first", inplace=True)
     return data
 
 def create_table():

@@ -40,7 +40,7 @@ class CsvCleaner():
             return "nan"
         return x.split(";")
 
-    def inline_comma_splitter_space(self, x):
+    def inline_semicolon_splitter_space(self, x):
         if str(x) == "nan":
             return None
         return x.split("; ")

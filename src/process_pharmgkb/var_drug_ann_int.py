@@ -16,6 +16,7 @@ processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 def get_raw_files():
     r = RawData()
     var_drug_ann = r.var_drug_ann
+    return var_drug_ann
 
 def deconv_genomic_var():
     c = CsvCleaner()
@@ -41,8 +42,8 @@ def deconv_genomic_var():
         elif association == "not stated":
             association = 0
         genomic_variation = c.inline_comma_splitter_space(r[1])
-        vid = "nan"
-        hid = "nan"
+        vid = None
+        hid = None
         for g in genomic_variation:
             if g in var_name:
                 i = var_name.index(g)
@@ -74,7 +75,7 @@ def deconv_gene():
         association = c.stringify(r[8])
 
         gene = c.inline_quote_splitter(r[4])
-        gid = "nan"
+        gid = None
         for g in gene:
             if g in gene_name:
                 i = gene_name.index(g)
@@ -138,8 +139,8 @@ def deconv_pheno():
         association = c.stringify(r[10])
 
         phenotype = c.inline_quote_splitter_noslash(r[8])
-        pd_phenotype = "nan"
-        pk_phenotype = "nan"
+        pd_phenotype = None
+        pk_phenotype = None
         for p in phenotype:
             if p in pd_pheno_name:
                 pd_phenotype = p
