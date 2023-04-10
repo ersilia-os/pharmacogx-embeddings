@@ -40,5 +40,3 @@ class BiotequeGeneEmbeddings(object):
         df = pd.DataFrame(R, columns=cols)
         return df
 
-
-BiotequeGeneEmbeddings("GEN-ass-DIS", "opentargets").available()

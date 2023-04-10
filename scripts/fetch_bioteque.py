@@ -31,3 +31,13 @@ def download_gene_embeddings(metapath, dataset):
 
 
 download_gene_embeddings("GEN-ass-DIS", "opentargets")
+download_gene_embeddings("GEN-ass-DIS", "disgenet_curated")
+download_gene_embeddings("GEN-ass-DIS", "disgenet_inferred")
+download_gene_embeddings("GEN-has-MFN", "gomf_goa_curated")
+download_gene_embeddings("GEN-has-CMP", "jensentissuecurated")
+download_gene_embeddings("GEN-has-PWY", "reactome")
+download_gene_embeddings("GEN-ppi-GEN", "string")
+download_gene_embeddings("GEN-ppi-GEN", "huri_union")
+download_gene_embeddings("GEN-pab-TIS", "hpa_proteome")
+download_gene_embeddings("GEN-pdf-TIS", "hpa_proteome")
+download_gene_embeddings("GEN-has-DOM", "interpro")
