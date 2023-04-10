@@ -13,10 +13,12 @@ from pharmgkb import RawData
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
+
 def get_raw_files():
     r = RawData()
     df = r.genes
     return df
+
 
 def create_table():
     c = CsvCleaner()
@@ -47,11 +49,20 @@ def create_table():
         else:
             dosing_guideline = -1
         data_dict[gid] = [gene, vip, variant_annotation, dosing_guideline]
-    data = pd.DataFrame.from_dict(data_dict, orient='index')
-    data.reset_index(inplace = True)
-    data.rename(columns = {"index":"gid",0:"gene", 1:"vip", 2:"variant_annotation", 3:"dosing_guideline"}, inplace=True)
-    data.to_csv(os.path.join(processed_folder, "gene.csv"),index=False)
+    data = pd.DataFrame.from_dict(data_dict, orient="index")
+    data.reset_index(inplace=True)
+    data.rename(
+        columns={
+            "index": "gid",
+            0: "gene",
+            1: "vip",
+            2: "variant_annotation",
+            3: "dosing_guideline",
+        },
+        inplace=True,
+    )
+    data.to_csv(os.path.join(processed_folder, "gene.csv"), index=False)
+
 
 if __name__ == "__main__":
     create_table()
-

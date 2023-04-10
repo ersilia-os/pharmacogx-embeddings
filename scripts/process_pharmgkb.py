@@ -28,7 +28,8 @@ def inline_comma_splitter(x):
     if str(x) == "nan":
         return None
     return x.split(", ")
-    
+
+
 # CHEMICALS
 def get_chemical_name2id():
     df = pd.read_csv(os.path.join(pharmgkb_folder, "chemicals", "chemicals.csv"))
@@ -170,7 +171,7 @@ def var_drug_ann():
         "specialty_population",
     ]
     data = pd.DataFrame(R, columns=columns)
-    data.to_csv(os.path.join(processed_folder, "var_drug_ann_test.csv"),index=False)
+    data.to_csv(os.path.join(processed_folder, "var_drug_ann_test.csv"), index=False)
     return data
 
 
@@ -449,5 +450,5 @@ if __name__ == "__main__":
     gene_name2id = get_gene_name2id()
     variant_name2id = get_variant_name2id()
     print(var_drug_ann())
-    #print(var_chem_relationships())
-    #print(var_chem_relationships())
+    # print(var_chem_relationships())
+    # print(var_chem_relationships())

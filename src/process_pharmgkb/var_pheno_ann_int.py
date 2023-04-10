@@ -13,10 +13,12 @@ from pharmgkb import RawData
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
+
 def get_raw_files():
     r = RawData()
     var_pheno_ann = r.var_pheno_ann
     return var_pheno_ann
+
 
 def deconv_genomic_var():
     c = CsvCleaner()
@@ -24,7 +26,7 @@ def deconv_genomic_var():
     variant = pd.read_csv(os.path.join(processed_folder, "variant.csv"))
     var_name = variant["variant"].tolist()
     var_id = variant["vid"].tolist()
-    haplotype = pd.read_csv(os.path.join(processed_folder,"haplotype.csv" ))
+    haplotype = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
     hap_name = haplotype["haplotype"].tolist()
     hap_id = haplotype["hid"].tolist()
     R = []
@@ -55,9 +57,20 @@ def deconv_genomic_var():
                 print(g)
             r = [aid, g, vid, hid, gene, chemical, phenotype, evidence, association]
         R += [r]
-    cols = ["aid", "genomic_variation", "vid", "hid", "gene", "chemical", "phenotype", "evidence", "association"]
+    cols = [
+        "aid",
+        "genomic_variation",
+        "vid",
+        "hid",
+        "gene",
+        "chemical",
+        "phenotype",
+        "evidence",
+        "association",
+    ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_gene():
     c = CsvCleaner()
@@ -83,11 +96,34 @@ def deconv_gene():
                 i = gene_name.index(g)
                 gid = gene_id[i]
 
-            r = [aid, genomic_variation, vid, hid, g, gid, chemical, phenotype, evidence, association]
+            r = [
+                aid,
+                genomic_variation,
+                vid,
+                hid,
+                g,
+                gid,
+                chemical,
+                phenotype,
+                evidence,
+                association,
+            ]
         R += [r]
-    cols = ["aid", "genomic_variation", "vid", "hid", "gene", "gid", "chemical", "phenotype", "evidence", "association"]
+    cols = [
+        "aid",
+        "genomic_variation",
+        "vid",
+        "hid",
+        "gene",
+        "gid",
+        "chemical",
+        "phenotype",
+        "evidence",
+        "association",
+    ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_chemical():
     c = CsvCleaner()
@@ -114,11 +150,36 @@ def deconv_chemical():
                 i = ch_name.index(chem)
                 cid = ch_id[i]
 
-            r = [aid, genomic_variation, vid, hid, gene, gid, chem, cid, phenotype, evidence, association]
+            r = [
+                aid,
+                genomic_variation,
+                vid,
+                hid,
+                gene,
+                gid,
+                chem,
+                cid,
+                phenotype,
+                evidence,
+                association,
+            ]
         R += [r]
-    cols = ["aid", "genomic_variation", "vid", "hid", "gene", "gid", "chemical", "cid", "phenotype", "evidence", "association"]
+    cols = [
+        "aid",
+        "genomic_variation",
+        "vid",
+        "hid",
+        "gene",
+        "gid",
+        "chemical",
+        "cid",
+        "phenotype",
+        "evidence",
+        "association",
+    ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_pheno():
     c = CsvCleaner()
@@ -148,16 +209,46 @@ def deconv_pheno():
                 pd_phenotype = p
             elif p in pk_pheno_name:
                 pk_phenotype = p
-            r = [aid, genomic_variation, vid, hid, gene, gid, chemical, cid, pd_phenotype, pk_phenotype, evidence, association]
+            r = [
+                aid,
+                genomic_variation,
+                vid,
+                hid,
+                gene,
+                gid,
+                chemical,
+                cid,
+                pd_phenotype,
+                pk_phenotype,
+                evidence,
+                association,
+            ]
         R += [r]
-    cols = ["aid", "genomic_variation", "vid", "hid", "gene", "gid", "chemical", "cid", "pd_phenotype", "pk_phenotype", "evidence", "association"]
+    cols = [
+        "aid",
+        "genomic_variation",
+        "vid",
+        "hid",
+        "gene",
+        "gid",
+        "chemical",
+        "cid",
+        "pd_phenotype",
+        "pk_phenotype",
+        "evidence",
+        "association",
+    ]
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def create_table():
-    data  = deconv_pheno()
-    data.to_csv(os.path.join(processed_folder, "pgx_relation_int", "var_pheno_ann_int.csv"), index=False)
-    
+    data = deconv_pheno()
+    data.to_csv(
+        os.path.join(processed_folder, "pgx_relation_int", "var_pheno_ann_int.csv"),
+        index=False,
+    )
+
 
 if __name__ == "__main__":
     create_table()

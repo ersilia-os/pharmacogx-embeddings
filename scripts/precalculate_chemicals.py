@@ -12,11 +12,14 @@ root = os.path.dirname(os.path.abspath(__file__))
 results_dir = os.path.join(root, "..", "data", "chemical_descriptors")
 
 if not os.path.exists(os.path.join(results_dir, "drug_molecules.csv")):
-
-    df = pd.read_csv(os.path.join(root, "..", "data", "pharmgkb_processed", "chemical.csv"))
+    df = pd.read_csv(
+        os.path.join(root, "..", "data", "pharmgkb_processed", "chemical.csv")
+    )
     smiles_list = df[df["smiles"].notnull()]["smiles"].tolist()
 
-    sdf_file = os.path.join(root, "..", "data", "chemical_descriptors", "open_structures.sdf")
+    sdf_file = os.path.join(
+        root, "..", "data", "chemical_descriptors", "open_structures.sdf"
+    )
     suppl = Chem.SDMolSupplier(sdf_file)
     for mol in suppl:
         if mol is not None:
@@ -46,7 +49,7 @@ if not os.path.exists(os.path.join(results_dir, "drug_molecules.csv")):
         ik2smi[inchi_key] = smiles
 
     R = []
-    for k,v in ik2smi.items():
+    for k, v in ik2smi.items():
         R += [[k, v]]
     df = pd.DataFrame(R, columns=["inchikey", "smiles"])
     df.to_csv(os.path.join(results_dir, "drug_molecules.csv"), index=False)
@@ -61,8 +64,12 @@ else:
     if os.path.exists(h5_file):
         os.remove(h5_file)
     with h5py.File(h5_file, "w") as f:
-        f.create_dataset("Inputs", data=np.array(smiles_list, dtype=h5py.string_dtype()))
-        f.create_dataset("Keys", data=np.array(df["inchikey"].tolist(), dtype=h5py.string_dtype()))
+        f.create_dataset(
+            "Inputs", data=np.array(smiles_list, dtype=h5py.string_dtype())
+        )
+        f.create_dataset(
+            "Keys", data=np.array(df["inchikey"].tolist(), dtype=h5py.string_dtype())
+        )
         f.create_dataset("Values", data=np.array(embeddings, dtype=np.float32))
 
-    # the rest are generated, more simply, with ersilia CLI
+    # the rest are generated, more simply, with ersilia CLI (eos4u6p and eos7w6n)

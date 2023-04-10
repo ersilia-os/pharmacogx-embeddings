@@ -13,13 +13,14 @@ from pharmgkb import RawData
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
+
 def get_raw_files():
     r = RawData()
     df = r.relationships
     return df
 
 
-#we want the gid - haplotype - hid relationships
+# we want the gid - haplotype - hid relationships
 def create_table():
     c = CsvCleaner()
     df = get_raw_files()
@@ -44,21 +45,17 @@ def create_table():
                 continue
         else:
             continue
-        
-        r = [
-            hid,
-            haplotype,
-            gid
-        ]
+
+        r = [hid, haplotype, gid]
         R += [r]
     cols = ["hid", "haplotype", "gid"]
     data = pd.DataFrame(R, columns=cols)
     print(data.shape)
     data.drop_duplicates(keep="first", inplace=True)
     print(data.shape)
-    data.to_csv(os.path.join(processed_folder, "haplotype.csv"),index=False)
+    data.to_csv(os.path.join(processed_folder, "haplotype.csv"), index=False)
     return data
+
 
 if __name__ == "__main__":
     create_table()
-

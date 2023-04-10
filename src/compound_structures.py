@@ -13,23 +13,25 @@ class CompoundStructureEmbedding(object):
 
     def available(self):
         return ["ersilia", "signaturizer", "grover"]
-    
+
     def _get_ersilia_embedding(self):
-        with h5py.File(os.path.join(data_dir, "ersilia_compound_embedding.h5"), "r") as f:
+        with h5py.File(
+            os.path.join(data_dir, "ersilia_compound_embedding.h5"), "r"
+        ) as f:
             keys = [x.decode() for x in f["Keys"][:]]
             X = f["Values"][:]
         return X, keys
-    
+
     def _get_grover_embedding(self):
-        with h5py.File(os.path.join(data_dir, "grover_embedding.h5"), "r") as f:
+        with h5py.File(os.path.join(data_dir, "eos7w6n.h5"), "r") as f:
             keys = [x.decode() for x in f["Keys"][:]]
-            X = f["predict"]["Values"][:]
+            X = f["Values"][:]
         return X, keys
 
     def _get_signaturizer_embedding(self):
-        with h5py.File(os.path.join(data_dir, "signaturizer_embedding.h5"), "r") as f:
+        with h5py.File(os.path.join(data_dir, "eos4u6p.h5"), "r") as f:
             keys = [x.decode() for x in f["Keys"][:]]
-            X = f["predict"]["Values"][:]
+            X = f["Values"][:]
         return X, keys
 
     def get(self, as_dataframe=True):

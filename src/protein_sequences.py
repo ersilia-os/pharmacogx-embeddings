@@ -23,9 +23,9 @@ class ProteinSequenceEmbedding(object):
             for i, k in enumerate(keys):
                 uniprot_ac = f[k].attrs["original_id"].split("|")[1]
                 uniprot_acs += [uniprot_ac]
-                X[i,:] = np.array(f[k][:], dtype=np.float32)
+                X[i, :] = np.array(f[k][:], dtype=np.float32)
         return X, uniprot_acs
-    
+
     def _get_esm1b(self):
         with h5py.File(os.path.join(data_folder, "human_proteome_esm1b.h5"), "r") as f:
             uniprot_acs = [x.decode() for x in f["Keys"][:]]

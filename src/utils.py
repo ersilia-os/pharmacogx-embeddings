@@ -1,7 +1,7 @@
-class CsvCleaner():
+class CsvCleaner:
     def __init__(self) -> None:
         super().__init__()
-    
+
     def stringify(self, x):
         if str(x) == "nan":
             return None
@@ -24,7 +24,7 @@ class CsvCleaner():
         x = [x_ for x_ in x.split('"') if len(x_) > 1]
         x = [x_.rstrip(",") for x_ in x]
         return x
-    
+
     def inline_comma_splitter(self, x):
         if str(x) == "nan":
             return None

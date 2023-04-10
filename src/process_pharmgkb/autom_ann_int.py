@@ -13,10 +13,12 @@ from pharmgkb import RawData
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
+
 def get_raw_files():
     r = RawData()
     autom_ann = r.automated_annotations
     return autom_ann
+
 
 def deconv_genomic_var():
     c = CsvCleaner()
@@ -32,7 +34,7 @@ def deconv_genomic_var():
         pd_phenotype = None
         pk_phenotype = None
         evidence = "6"
-        association = 0 #not stated
+        association = 0  # not stated
         var_type = c.stringify(r[5])
         if var_type == "Variant":
             genomic_variation = c.stringify(r[4])
@@ -42,11 +44,38 @@ def deconv_genomic_var():
             genomic_variation = c.stringify(r[4])
             vid = None
             hid = c.stringify(r[3])
-        r = [aid, genomic_variation, vid, hid, gene, gid, chemical, cid, pd_phenotype, pk_phenotype, evidence, association]
+        r = [
+            aid,
+            genomic_variation,
+            vid,
+            hid,
+            gene,
+            gid,
+            chemical,
+            cid,
+            pd_phenotype,
+            pk_phenotype,
+            evidence,
+            association,
+        ]
         R += [r]
-    cols = ["aid", "genomic_variation", "vid", "hid", "gene", "gid", "chemical", "cid", "pd_phenotype", "pk_phenotype", "evidence", "association"]
+    cols = [
+        "aid",
+        "genomic_variation",
+        "vid",
+        "hid",
+        "gene",
+        "gid",
+        "chemical",
+        "cid",
+        "pd_phenotype",
+        "pk_phenotype",
+        "evidence",
+        "association",
+    ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_gene():
     c = CsvCleaner()
@@ -64,19 +93,49 @@ def deconv_gene():
         evidence = c.stringify(r[10])
         association = c.stringify(r[11])
         gene = c.inline_quote_splitter(r[4])
-        for i,g in enumerate(gene):
+        for i, g in enumerate(gene):
             gid = c.inline_quote_splitter(r[5])[i]
-            r = [aid, genomic_variation, vid, hid, g, gid, chemical, cid, pd_phenotype, pk_phenotype, evidence, association]
+            r = [
+                aid,
+                genomic_variation,
+                vid,
+                hid,
+                g,
+                gid,
+                chemical,
+                cid,
+                pd_phenotype,
+                pk_phenotype,
+                evidence,
+                association,
+            ]
         R += [r]
-    cols = ["aid", "genomic_variation", "vid", "hid", "gene", "gid", "chemical", "cid", "pd_phenotype", "pk_phenotype", "evidence", "association"]
+    cols = [
+        "aid",
+        "genomic_variation",
+        "vid",
+        "hid",
+        "gene",
+        "gid",
+        "chemical",
+        "cid",
+        "pd_phenotype",
+        "pk_phenotype",
+        "evidence",
+        "association",
+    ]
     data = pd.DataFrame(R, columns=cols)
     data.drop_duplicates(keep="first", inplace=True)
     return data
 
+
 def create_table():
-    data  = deconv_gene()
-    data.to_csv(os.path.join(processed_folder, "pgx_relation_int", "autom_ann_int.csv"), index=False)
-    
+    data = deconv_gene()
+    data.to_csv(
+        os.path.join(processed_folder, "pgx_relation_int", "autom_ann_int.csv"),
+        index=False,
+    )
+
 
 if __name__ == "__main__":
     create_table()

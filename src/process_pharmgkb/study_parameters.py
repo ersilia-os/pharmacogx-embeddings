@@ -11,17 +11,20 @@ from pharmgkb import RawData
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
+
 def get_raw_files():
     r = RawData()
     df = r.study_parameters
     return df
 
+
 def create_table():
     c = CsvCleaner()
     df = get_raw_files()
     df = df[["Study Parameters ID", "Variant Annotation ID", "Biogeographical Groups"]]
-    df.to_csv(os.path.join(processed_folder, "study_parameters.csv"),index=False)
+    df.to_csv(os.path.join(processed_folder, "study_parameters.csv"), index=False)
     return df
+
 
 def create_table_from_manual_curation():
     df = pd.read_csv(os.path.join(processed_folder, "study_parameters_bid.csv"))
@@ -34,16 +37,14 @@ def create_table_from_manual_curation():
         bid = c.inline_comma_splitter(r[3])
         print(bid)
         for b in bid:
-            r = [sid,
-                aid,
-                b]
+            r = [sid, aid, b]
             R += [r]
     cols = ["sid", "aid", "bid"]
     data = pd.DataFrame(R, columns=cols)
-    data.to_csv(os.path.join(processed_folder, "study_bio_group.csv"),index=False)
-    return(data)
+    data.to_csv(os.path.join(processed_folder, "study_bio_group.csv"), index=False)
+    return data
 
 
 if __name__ == "__main__":
-    #create_table()
+    # create_table()
     create_table_from_manual_curation()

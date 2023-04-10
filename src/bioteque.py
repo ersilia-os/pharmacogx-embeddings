@@ -7,7 +7,6 @@ bioteque_path = os.path.abspath(os.path.join(root, "..", "data", "bioteque"))
 
 
 class BiotequeGeneEmbeddings(object):
-
     def __init__(self, metapath, dataset):
         self.metapath = metapath
         self.dataset = dataset
