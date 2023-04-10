@@ -2,13 +2,11 @@ import os
 import sys
 import pandas as pd
 
-
 root = os.path.abspath(os.path.dirname(__file__))
 sys.path.append(os.path.join(root, ".."))
 
 from utils import CsvCleaner
 from pharmgkb import RawData
-
 
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
@@ -39,5 +37,4 @@ def create_table():
 
 if __name__ == "__main__":
     data = create_table()
-    print(data)
 

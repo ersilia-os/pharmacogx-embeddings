@@ -56,9 +56,12 @@ bio = {
     "Latino" : "LAT",
     "Near Eastern" : "NEA",
     "Oceanian" : "OCE",
-    "Sub-Saharan African":"SSA"
+    "Sub-Saharan African":"SSA",
+    "Multiple Groups": "MG",
+    "Unknown": "UNK",
+    "Custom": "CST"
 }
 df = pd.DataFrame.from_dict(bio, orient='index')
 df.reset_index(inplace=True)
-df.rename(columns={"index":"biogeographical_group", 0: "biogeographical_id"}, inplace=True)
+df.rename(columns={"index":"biogeographical_group", 0: "bid"}, inplace=True)
 df.to_csv(os.path.join(processed_folder, "biogeographical_group.csv"), index=False)

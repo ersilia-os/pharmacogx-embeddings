@@ -9,7 +9,6 @@ sys.path.append(os.path.join(root, ".."))
 from utils import CsvCleaner
 from pharmgkb import RawData
 
-
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
@@ -32,11 +31,11 @@ def create_table():
         smiles = c.stringify(r[7])
         dosing_guideline = c.stringify(r[9])
         if dosing_guideline == "No":
-            dosing_guideline = 0
+            dosing_guideline = -1
         elif dosing_guideline == "Yes":
             dosing_guideline = 1
         else:
-            dosing_guideline = -1
+            dosing_guideline = 0
         data_dict[cid] = [chemical, chemical_type, smiles, dosing_guideline]
     data = pd.DataFrame.from_dict(data_dict, orient='index')
     data.reset_index(inplace = True)
