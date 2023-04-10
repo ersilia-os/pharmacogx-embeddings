@@ -46,5 +46,3 @@ class ProteinSequenceEmbedding(object):
             R += [r]
         df = pd.DataFrame(R, columns=cols)
         return df
-
-ProteinSequenceEmbedding().get(as_dataframe=True)

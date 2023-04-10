@@ -64,3 +64,5 @@ else:
         f.create_dataset("Inputs", data=np.array(smiles_list, dtype=h5py.string_dtype()))
         f.create_dataset("Keys", data=np.array(df["inchikey"].tolist(), dtype=h5py.string_dtype()))
         f.create_dataset("Values", data=np.array(embeddings, dtype=np.float32))
+
+    # the rest are generated, more simply, with ersilia CLI
