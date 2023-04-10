@@ -1,4 +1,4 @@
-biogeographical_group,biogeographical_id
+biogeographical_group,bid
 African American/Afro-Caribbean,AAC
 American,AME
 Central/South Asian,SAS
@@ -8,3 +8,6 @@ Latino,LAT
 Near Eastern,NEA
 Oceanian,OCE
 Sub-Saharan African,SSA
+Multiple Groups,MG
+Unknown,UNK
+Not Applicable,NA

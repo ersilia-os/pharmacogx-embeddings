@@ -35,6 +35,7 @@ class RawData(object):
         self._var_drug_ann = None
         self._var_fa_ann = None
         self._var_pheno_ann = None
+        self._study_parameters = None
 
     @property
     def automated_annotations(self):
@@ -125,6 +126,14 @@ class RawData(object):
         file_name = os.path.join(self._pgkb_folder, "drugLabels", "drugLabels.csv")
         self._drug_labels = pd.read_csv(file_name, encoding="utf-8", encoding_errors="ignore")
         return self._drug_labels
+
+    @property
+    def study_parameters(self):
+        if self._study_parameters is not None:
+            return self._study_parameters
+        file_name = os.path.join(self._pgkb_folder, "variantAnnotations", "study_parameters.csv")
+        self._study_parameters = pd.read_csv(file_name, encoding="utf-8", encoding_errors="ignore")
+        return self._study_parameters
 
     @property
     def genes(self):

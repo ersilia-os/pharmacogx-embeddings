@@ -27,11 +27,11 @@ def create_table():
         gene = c.stringify(r[5])
         vip = c.stringify(r[8])
         if vip == "No":
-            vip = 0
+            vip = -1
         elif vip == "Yes":
             vip = 1
         else:
-            vip = -1
+            vip = 0
         variant_annotation = c.stringify(r[9])
         if variant_annotation == "No":
             variant_annotation = 0
