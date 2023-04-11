@@ -43,4 +43,6 @@ class CsvCleaner:
     def inline_semicolon_splitter_space(self, x):
         if str(x) == "nan":
             return None
+        if x is None:
+            return None
         return x.split("; ")

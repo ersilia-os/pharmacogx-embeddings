@@ -36,7 +36,10 @@ def deconv_genomic_var():
         evidence = c.stringify(r[3])
         phenotype = c.stringify(r[7])
         chemical = c.stringify(r[10])
-        association = 1  # clinial annotations are always associated assumption
+        if evidence == "4":
+            association = -1
+        else:
+            association = 1 
         genomic_variation = c.inline_comma_splitter_space(r[1])
         vid = None
         hid = None
@@ -165,7 +168,7 @@ def deconv_chemical():
                 evidence,
                 association,
             ]
-        R += [r]
+            R += [r]
     cols = [
         "aid",
         "genomic_variation",

@@ -44,6 +44,65 @@ def create_table():
     for f in int_files:
         df_ = pd.read_csv(os.path.join(processed_folder, "pgx_relation_int", f))
         df = pd.concat([df, df_])
+    
+    cols = list(df.columns)
+    key_columns=[
+        "genomic_variation",
+        "vid",
+        "hid",
+        "gene",
+        "gid",
+        "chemical",
+        "cid",
+        "pd_phenotype",
+        "pk_phenotype",
+    ]
+    value_columns = [
+        "aid",
+        "evidence",
+        "association"
+    ]
+
+    clinical_evidences = set(["1A", "1B", "2A", "2B", "3", "4"])
+    key_col_idxs = [i for i,k in enumerate(cols) if k in key_columns]
+    val_col_idxs = [i for i,k in enumerate(cols) if k in value_columns]
+    data = collections.defaultdict(list)
+    for v in df.values:
+        ks = tuple(list(v[key_col_idxs]))
+        vs = list(v[val_col_idxs])
+        data[ks] += [vs]
+    
+    data_ = {}
+    for k,v in data.items():
+        evid = None
+        asso = None
+        cann = None
+        vann = None
+        aann = None
+        for x in v:
+            if str(x[1]) in clinical_evidences:
+                evid = str(x[1])
+                asso = int(x[2])
+            if x[0] in all_cann:
+                cann = x[0]
+            if x[0] in all_vann:
+                vann = x[0]
+            if x[0] in all_aann:
+                aann = x[0]
+        if evid is None:
+            for x in v:
+                if evid is None:
+                    evid = str(x[1])
+                    asso = int(x[2])
+                else:
+                    if int(str(x[1])[0]) > int(evid[0]):
+                        evid = str(x[1])
+                        asso = int(x[2])
+        data_[k] = (cann, vann, aann, evid, asso)
+
+
+    print(df.shape[0], len(data))
+
     # add bioG group
     study = pd.read_csv(os.path.join(processed_folder, "study_bio_group.csv"))
     aid2g = collections.defaultdict(list)
@@ -60,7 +119,7 @@ def create_table():
         else:
             R += [r + [""]]
     df = pd.DataFrame(R, columns=list(df.columns) + ["bid"])
-    df.to_csv(os.path.join(processed_folder, "pgx_relation.csv"), index=False)
+    #df.to_csv(os.path.join(processed_folder, "pgx_relation.csv"), index=False)
 
 
 if __name__ == "__main__":

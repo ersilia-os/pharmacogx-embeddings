@@ -22,8 +22,6 @@ def get_raw_files():
 def create_table():
     c = CsvCleaner()
     df = get_raw_files()
-    # eliminate rows without smiles
-    df = df[~df["SMILES"].isna()]
     # obtain relevant fields from the chemicals.csv
     data_dict = {}
     for r in df.values:
