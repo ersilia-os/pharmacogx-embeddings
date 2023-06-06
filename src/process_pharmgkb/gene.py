@@ -36,18 +36,18 @@ def create_table():
             vip = 0
         variant_annotation = c.stringify(r[9])
         if variant_annotation == "No":
-            variant_annotation = 0
+            variant_annotation = -1
         elif variant_annotation == "Yes":
             variant_annotation = 1
         else:
-            variant_annotation = -1
+            variant_annotation = 0
         dosing_guideline = c.stringify(r[11])
         if dosing_guideline == "No":
-            dosing_guideline = 0
+            dosing_guideline = -1
         elif dosing_guideline == "Yes":
             dosing_guideline = 1
         else:
-            dosing_guideline = -1
+            dosing_guideline = 0
         data_dict[gid] = [gene, vip, variant_annotation, dosing_guideline]
     data = pd.DataFrame.from_dict(data_dict, orient="index")
     data.reset_index(inplace=True)

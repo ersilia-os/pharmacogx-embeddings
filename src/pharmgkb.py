@@ -112,7 +112,7 @@ class RawData(object):
         if self._clinical_variants is not None:
             return self._clinical_variants
         file_name = os.path.join(
-            self._pgkb_folder, "clinicalVariants", "clinical_variants.csv"
+            self._pgkb_folder, "clinicalVariants", "clinicalVariants.csv"
         )
         self._clinical_variants = pd.read_csv(
             file_name, encoding="utf-8", encoding_errors="ignore"

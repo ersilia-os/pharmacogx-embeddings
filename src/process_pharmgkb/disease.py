@@ -37,5 +37,4 @@ def create_table():
 
 if __name__ == "__main__":
     df = get_raw_files()
-    print(df.columns)
     create_table()

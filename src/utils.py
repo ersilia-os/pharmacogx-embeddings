@@ -1,3 +1,5 @@
+import re
+
 class CsvCleaner:
     def __init__(self) -> None:
         super().__init__()
@@ -46,3 +48,18 @@ class CsvCleaner:
         if x is None:
             return None
         return x.split("; ")
+
+    def inline_comma_splitter_nospace(self, x):
+        # Split the string based on commas not followed by a space
+        if str(x)== "nan":
+            return None
+        else:
+            elements = re.split(r',(?!\s)', x)
+            if elements is None:
+                return None
+            else:
+            # Remove leading and trailing whitespace from each element
+                elements = [elem.strip() for elem in elements]
+                return elements
+
+
