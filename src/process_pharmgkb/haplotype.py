@@ -20,41 +20,36 @@ def get_raw_files():
     return df
 
 
-# we want the gid - haplotype - hid relationships
+# simply create a list of haplotypes with its hid and gid to which they belong
 def create_table():
     c = CsvCleaner()
     df = get_raw_files()
-    R = []
-    for r in df.values:
-        e1_type = c.stringify(r[2])
-        if e1_type == "Gene":
-            gid = c.stringify(r[0])
-            e2_type = c.stringify(r[5])
-            if e2_type == "Haplotype":
-                hid = c.stringify(r[3])
-                haplotype = c.stringify(r[4])
-            else:
-                continue
-        elif e1_type == "Haplotype":
-            hid = c.stringify(r[0])
-            haplotype = str(r[1])
-            e2_type = c.stringify(r[5])
-            if e2_type == "Gene":
-                gid = c.stringify(r[3])
-            else:
-                continue
+    df1 = df[df["Entity1_type"]=="Haplotype"]
+    df1.drop_duplicates(subset= ["Entity1_name"], keep="first", inplace=True)
+    df1 = df1[["Entity1_id", "Entity1_name"]]
+    df1.rename(columns={"Entity1_id": "hid", "Entity1_name":"haplotype"}, inplace=True)
+    gene = []
+    for h in df1["haplotype"]:
+        if " " in h:
+            g = h.split(" ")[0]
+        elif "*" in h:
+            g = h.split("*")[0]
         else:
-            continue
-
-        r = [hid, haplotype, gid]
-        R += [r]
-    cols = ["hid", "haplotype", "gid"]
-    data = pd.DataFrame(R, columns=cols)
-    print(data.shape)
-    data.drop_duplicates(keep="first", inplace=True)
-    print(data.shape)
-    data.to_csv(os.path.join(processed_folder, "haplotype.csv"), index=False)
-    return data
+            g = h
+        gene += [g]
+    df1["gene"]= gene
+    gid_list = []
+    genes = pd.read_csv(os.path.join(processed_folder, "gene.csv"))
+    gene_names = genes["gene"].tolist()
+    gids = genes["gid"].tolist()
+    for r in df1.values:
+        for i,gn in enumerate(gene_names):
+            if r[2] == gn:
+                gid = genes["gid"].loc[i]
+                gid_list += [gid]
+    df1["gid"] = gid_list
+    df1.to_csv(os.path.join(processed_folder, "haplotype.csv"), index=False)
+    return df1
 
 
 if __name__ == "__main__":
