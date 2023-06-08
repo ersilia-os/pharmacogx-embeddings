@@ -45,7 +45,7 @@ def create_table():
                             data = requests.get("https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{}/property/CanonicalSMILES/TXT".format(chemical))
                             try_smiles = data.text.strip()
                             if "Status" in try_smiles:
-                                smiles = "NaN"
+                                smiles = None
                             else:
                                 smiles = try_smiles
                             print(smiles)
@@ -60,7 +60,7 @@ def create_table():
                             data = requests.get("https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{}/property/CanonicalSMILES/TXT".format(chemical))
                             try_smiles = data.text.strip()
                             if "Status" in try_smiles:
-                                smiles = "NaN"
+                                smiles = None
                             else:
                                 smiles = try_smiles
                             print(smiles)
@@ -81,7 +81,7 @@ def create_table():
         elif drug_label == "Informative PGx":
             drug_label = 4        
         else:
-            drug_label = 0
+            drug_label = -1
         data_dict[cid] = [chemical, chemical_type, smiles, dosing_guideline, drug_label]
     data = pd.DataFrame.from_dict(data_dict, orient="index")
     data.reset_index(inplace=True)
