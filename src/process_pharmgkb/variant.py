@@ -32,7 +32,10 @@ def create_table():
             R += [r]
     cols = ["vid", "variant", "gid"]
     data = pd.DataFrame(R, columns=cols)
-    data.to_csv(os.path.join(processed_folder, "variant.csv"), index=False)
+    genes = pd.read_csv(os.path.join(processed_folder, "gene.csv"))
+    genes = genes[["gid", "gene"]]
+    data_ = pd.merge(data, genes, on="gid", how="left")
+    data_.to_csv(os.path.join(processed_folder, "variant.csv"), index=False)
     return data
 
 

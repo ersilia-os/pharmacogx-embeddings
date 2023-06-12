@@ -41,7 +41,6 @@ def create_table():
     gid_list = []
     genes = pd.read_csv(os.path.join(processed_folder, "gene.csv"))
     gene_names = genes["gene"].tolist()
-    gids = genes["gid"].tolist()
     for r in df1.values:
         for i,gn in enumerate(gene_names):
             if r[2] == gn:
