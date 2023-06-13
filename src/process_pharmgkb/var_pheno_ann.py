@@ -18,6 +18,7 @@ def get_raw_files():
     df = r.var_pheno_ann
     return df
 
+
 def deconv_chemical(df):
     c = CsvCleaner()
     R = []
@@ -53,6 +54,7 @@ def deconv_chemical(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def deconv_pheno(df):
     c = CsvCleaner()
     R = []
@@ -82,6 +84,7 @@ def deconv_pheno(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def deconv_gene(df):
     c = CsvCleaner()
     R = []
@@ -89,7 +92,7 @@ def deconv_gene(df):
         vaid = r[0]
         var_hap = c.stringify(r[1])
         gene = c.inline_comma_splitter(r[2])
-        phenotype =r[3]
+        phenotype = r[3]
         significance = r[4]
         chemical = r[5]
         if gene is not None:
@@ -110,6 +113,7 @@ def deconv_gene(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_variant(df):
     c = CsvCleaner()
@@ -139,6 +143,7 @@ def deconv_variant(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def sep_var(df):
     df1 = pd.read_csv(os.path.join(processed_folder, "variant.csv"))
     df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
@@ -167,8 +172,10 @@ def sep_var(df):
         R += [r_]
     cols = [
         "vaid",
-        "vid", "variant",
-        "hid", "haplotype",
+        "vid",
+        "variant",
+        "hid",
+        "haplotype",
         "gene",
         "phenotype",
         "significance",
@@ -176,6 +183,7 @@ def sep_var(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def append_study(df):
     df["vaid"] = df["vaid"].astype(str)

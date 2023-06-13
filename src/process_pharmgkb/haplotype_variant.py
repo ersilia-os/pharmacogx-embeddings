@@ -19,30 +19,32 @@ filenames = os.listdir(haps_path)
 gene_list = []
 for filename in filenames:
     fn = str(filename)
-    if fn[-3:]=="csv":
+    if fn[-3:] == "csv":
         gene = fn.split("_")[0]
         gene_list += [gene]
 
 for g in gene_list:
-    df = pd.read_csv(os.path.join(haps_path, "{}_allele_definition_table.csv".format(g)))
+    df = pd.read_csv(
+        os.path.join(haps_path, "{}_allele_definition_table.csv".format(g))
+    )
     hap_dict = {}
-    for i,r in enumerate(df.values):
+    for i, r in enumerate(df.values):
         if i == 0:
             starts = r[1:]
-        elif i == 1: 
+        elif i == 1:
             proteins = r[1:]
-        elif i == 2 :
+        elif i == 2:
             ncs = r[1:]
         elif i == 3:
             ngs = r[1:]
         elif i == 4:
             rsids = r[1:]
 
-    for i,r in enumerate(df.values):
+    for i, r in enumerate(df.values):
         if i >= 6:
             hap = r[0]
             hap_dict[hap] = []
-            for n,x in enumerate(r[1:]):
+            for n, x in enumerate(r[1:]):
                 if x is not np.nan:
                     rsid = rsids[n]
                     start = starts[n]
@@ -61,17 +63,26 @@ for g in gene_list:
 
     df1 = pd.DataFrame(df_rows)
     df1.columns = ["haplotype_number", "rsID", "start", "protein", "NC", "NG"]
-    df1["gene"] = [g]*len(df1)
+    df1["gene"] = [g] * len(df1)
 
-    df1["haplotype"] = df1.apply(lambda row: row["gene"] + str(row["haplotype_number"]) if str(row["haplotype_number"]).startswith("*") else row["gene"] + " " + str(row["haplotype_number"]), axis=1)
+    df1["haplotype"] = df1.apply(
+        lambda row: row["gene"] + str(row["haplotype_number"])
+        if str(row["haplotype_number"]).startswith("*")
+        else row["gene"] + " " + str(row["haplotype_number"]),
+        axis=1,
+    )
 
-    #add haplotype ID number to see how many do not have it
-    data = pd.merge(df1, df2, on = "haplotype", how = "left")
+    # add haplotype ID number to see how many do not have it
+    data = pd.merge(df1, df2, on="haplotype", how="left")
 
-    #manual curation of missed haplotypes
+    # manual curation of missed haplotypes
     if g == "ABCG2":
-        data.loc[data["haplotype"] == "ABCG2 rs2231142 reference (G)", "hid"] = "PA166287823"
-        data.loc[data["haplotype"] == "ABCG2 rs2231142 variant (T)", "hid"] = "PA166287824"
+        data.loc[
+            data["haplotype"] == "ABCG2 rs2231142 reference (G)", "hid"
+        ] = "PA166287823"
+        data.loc[
+            data["haplotype"] == "ABCG2 rs2231142 variant (T)", "hid"
+        ] = "PA166287824"
     elif g == "CACNA1S":
         data.loc[data["haplotype"] == "CACNA1S Reference", "hid"] = "PA166180429"
     elif g == "CYP1A2":
@@ -249,7 +260,9 @@ for g in gene_list:
         data.loc[data["haplotype"] == "CYP4F2*15", "hid"] = "PA166304156"
         data.loc[data["haplotype"] == "CYP4F2*16", "hid"] = "PA166304157"
 
-
-
-
-    data.to_csv(os.path.join(processed_folder, "haplotypes_gene", "{}_haplotypes.csv".format(g)), index=False)
+    data.to_csv(
+        os.path.join(
+            processed_folder, "haplotypes_gene", "{}_haplotypes.csv".format(g)
+        ),
+        index=False,
+    )

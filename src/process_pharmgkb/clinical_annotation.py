@@ -17,6 +17,7 @@ def get_raw_files():
     df = r.clinical_annotations
     return df
 
+
 def deconv_disease(df):
     c = CsvCleaner()
     R = []
@@ -48,6 +49,7 @@ def deconv_disease(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_chemical(df):
     c = CsvCleaner()
@@ -81,6 +83,7 @@ def deconv_chemical(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def deconv_pheno(df):
     c = CsvCleaner()
     R = []
@@ -112,6 +115,7 @@ def deconv_pheno(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_gene(df):
     c = CsvCleaner()
@@ -145,6 +149,7 @@ def deconv_gene(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def deconv_variant(df):
     c = CsvCleaner()
     R = []
@@ -177,6 +182,7 @@ def deconv_variant(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def sep_var(df):
     df1 = pd.read_csv(os.path.join(processed_folder, "variant.csv"))
     df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
@@ -196,19 +202,45 @@ def sep_var(df):
                 var = var_hap
                 hid = None
                 hap = None
-                r_ = [caid, vid, var, hid, hap, gene, evidence, score, phenotype, chemical, disease]
+                r_ = [
+                    caid,
+                    vid,
+                    var,
+                    hid,
+                    hap,
+                    gene,
+                    evidence,
+                    score,
+                    phenotype,
+                    chemical,
+                    disease,
+                ]
         for i, hap_name in enumerate(df2["haplotype"].tolist()):
             if var_hap == hap_name:
                 hid = df2["hid"].loc[i]
                 hap = var_hap
                 vid = None
                 var = None
-                r_ = [caid, vid, var, hid, hap, gene, evidence, score, phenotype, chemical, disease]
+                r_ = [
+                    caid,
+                    vid,
+                    var,
+                    hid,
+                    hap,
+                    gene,
+                    evidence,
+                    score,
+                    phenotype,
+                    chemical,
+                    disease,
+                ]
         R += [r_]
     cols = [
         "caid",
-        "vid", "variant",
-        "hid", "haplotype",
+        "vid",
+        "variant",
+        "hid",
+        "haplotype",
         "gene",
         "evidence",
         "score",

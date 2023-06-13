@@ -39,4 +39,3 @@ class BiotequeGeneEmbeddings(object):
             R += [r]
         df = pd.DataFrame(R, columns=cols)
         return df
-

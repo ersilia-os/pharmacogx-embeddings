@@ -46,6 +46,7 @@ def deconv_disease(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def deconv_chemical(df):
     c = CsvCleaner()
     R = []
@@ -73,6 +74,7 @@ def deconv_chemical(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_pheno(df):
     c = CsvCleaner()
@@ -102,6 +104,7 @@ def deconv_pheno(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def deconv_gene(df):
     c = CsvCleaner()
     R = []
@@ -129,6 +132,7 @@ def deconv_gene(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_variant(df):
     c = CsvCleaner()
@@ -158,6 +162,7 @@ def deconv_variant(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def sep_var(df):
     df1 = pd.read_csv(os.path.join(processed_folder, "variant.csv"))
     df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
@@ -185,8 +190,10 @@ def sep_var(df):
                 r_ = [vid, var, hid, hap, gene, phenotype, evidence, chemical, disease]
         R += [r_]
     cols = [
-        "vid", "variant",
-        "hid", "haplotype",
+        "vid",
+        "variant",
+        "hid",
+        "haplotype",
         "gene",
         "phenotype",
         "evidence",

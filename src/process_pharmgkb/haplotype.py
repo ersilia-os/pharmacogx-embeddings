@@ -24,10 +24,10 @@ def get_raw_files():
 def create_table():
     c = CsvCleaner()
     df = get_raw_files()
-    df1 = df[df["Entity1_type"]=="Haplotype"]
-    df1.drop_duplicates(subset= ["Entity1_name"], keep="first", inplace=True)
+    df1 = df[df["Entity1_type"] == "Haplotype"]
+    df1.drop_duplicates(subset=["Entity1_name"], keep="first", inplace=True)
     df1 = df1[["Entity1_id", "Entity1_name"]]
-    df1.rename(columns={"Entity1_id": "hid", "Entity1_name":"haplotype"}, inplace=True)
+    df1.rename(columns={"Entity1_id": "hid", "Entity1_name": "haplotype"}, inplace=True)
     gene = []
     for h in df1["haplotype"]:
         if " " in h:
@@ -37,12 +37,12 @@ def create_table():
         else:
             g = h
         gene += [g]
-    df1["gene"]= gene
+    df1["gene"] = gene
     gid_list = []
     genes = pd.read_csv(os.path.join(processed_folder, "gene.csv"))
     gene_names = genes["gene"].tolist()
     for r in df1.values:
-        for i,gn in enumerate(gene_names):
+        for i, gn in enumerate(gene_names):
             if r[2] == gn:
                 gid = genes["gid"].loc[i]
                 gid_list += [gid]

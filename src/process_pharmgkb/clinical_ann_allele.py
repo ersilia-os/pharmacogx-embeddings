@@ -17,6 +17,7 @@ def get_raw_files():
     df = r.clinical_ann_alleles
     return df
 
+
 def create_table():
     c = CsvCleaner()
     df = get_raw_files()
@@ -35,39 +36,76 @@ def create_table():
         chemical = r[9]
         disease = r[10]
         for r_ in df.values:
-            caid_ = (r_[0])
+            caid_ = r_[0]
             allele = c.stringify(r_[1])
-            anntext = r_[2] 
+            anntext = r_[2]
             function = r_[3]
             if caid == caid_:
                 if allele is not None:
                     if "*" in allele:
-                        if allele == "*"+haplotype.split("*")[1]:
-                            nr = [caid, vid, variant, hid, haplotype, gene, evidence, score, phenotype, chemical, disease, allele, anntext, function]
+                        if allele == "*" + haplotype.split("*")[1]:
+                            nr = [
+                                caid,
+                                vid,
+                                variant,
+                                hid,
+                                haplotype,
+                                gene,
+                                evidence,
+                                score,
+                                phenotype,
+                                chemical,
+                                disease,
+                                allele,
+                                anntext,
+                                function,
+                            ]
                             R += [nr]
                         else:
                             continue
                     else:
-                        nr = [caid, vid, variant, hid, haplotype, gene, evidence, score, phenotype, chemical, disease, allele, anntext, function]
+                        nr = [
+                            caid,
+                            vid,
+                            variant,
+                            hid,
+                            haplotype,
+                            gene,
+                            evidence,
+                            score,
+                            phenotype,
+                            chemical,
+                            disease,
+                            allele,
+                            anntext,
+                            function,
+                        ]
                         R += [nr]
             else:
                 continue
-            
+
     cols = [
         "caid",
-        "vid", "variant",
-        "hid", "haplotype",
+        "vid",
+        "variant",
+        "hid",
+        "haplotype",
         "gene",
         "evidence",
         "score",
         "phenotype",
         "chemical",
         "disease",
-        "allele", "anntext", "function"
+        "allele",
+        "anntext",
+        "function",
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 if __name__ == "__main__":
     df = create_table()
-    df.to_csv(os.path.join(processed_folder, "clinical_annotation_allele.csv"), index=False)
+    df.to_csv(
+        os.path.join(processed_folder, "clinical_annotation_allele.csv"), index=False
+    )

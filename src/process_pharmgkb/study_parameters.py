@@ -17,16 +17,26 @@ def get_raw_files():
     df = r.study_parameters
     return df
 
+
 def create_table():
     c = CsvCleaner()
     df = get_raw_files()
     df = df[["Study Parameters ID", "Variant Annotation ID", "Biogeographical Groups"]]
-    df.rename(columns={"Study Parameters ID":"sid", "Variant Annotation ID":"vaid", "Biogeographical Groups": "biogroup"}, inplace=True)
+    df.rename(
+        columns={
+            "Study Parameters ID": "sid",
+            "Variant Annotation ID": "vaid",
+            "Biogeographical Groups": "biogroup",
+        },
+        inplace=True,
+    )
     df.to_csv(os.path.join(processed_folder, "study_parameters.csv"), index=False)
     return df
 
+
 if __name__ == "__main__":
     create_table()
+
 
 def create_table_from_manual_curation():
     df = pd.read_csv(os.path.join(processed_folder, "study_parameters_bid.csv"))

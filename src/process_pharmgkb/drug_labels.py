@@ -19,6 +19,7 @@ def get_raw_files():
     df = r.drug_labels
     return df
 
+
 def deconv_gene(df):
     c = CsvCleaner()
     R = []
@@ -33,7 +34,7 @@ def deconv_gene(df):
         elif drug_label == "Actionable PGx":
             drug_label = 3
         elif drug_label == "Informative PGx":
-            drug_label = 4        
+            drug_label = 4
         else:
             drug_label = -1
         prescribing = c.stringify(r[5])
@@ -42,16 +43,25 @@ def deconv_gene(df):
         else:
             prescribing = -1
         dosing = c.stringify(r[6])
-        if dosing== "Dosing Info":
+        if dosing == "Dosing Info":
             dosing = 1
         else:
             dosing = -1
         chemical = c.stringify(r[10])
         gene = c.inline_semicolon_splitter_space(r[11])
         var_hap = c.stringify(r[12])
-        if gene is not None: #if gene is none, do not keep record
+        if gene is not None:  # if gene is none, do not keep record
             for g in gene:
-                r_ = [dlid, source, drug_label, prescribing, dosing, chemical, g, var_hap]
+                r_ = [
+                    dlid,
+                    source,
+                    drug_label,
+                    prescribing,
+                    dosing,
+                    chemical,
+                    g,
+                    var_hap,
+                ]
                 R += [r_]
     cols = [
         "dlid",
@@ -61,10 +71,11 @@ def deconv_gene(df):
         "dosing_guideline",
         "chemical",
         "gene",
-        "hap_var"
-        ]
+        "hap_var",
+    ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_hap_variant(df):
     c = CsvCleaner()
@@ -86,33 +97,93 @@ def deconv_hap_variant(df):
             for vh in var_hap:
                 if vh in variants:
                     i = variants.index(vh)
-                    hap =  None
+                    hap = None
                     gene_ = vars.loc[i, "gene"]
                     if gene_ == gene:
                         var = vh
-                        r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene_, var, hap]
+                        r_ = [
+                            dlid,
+                            source,
+                            drug_label,
+                            prescribing,
+                            dosing,
+                            chemical,
+                            gene_,
+                            var,
+                            hap,
+                        ]
                     else:
                         var = None
-                        r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene, var, hap]
+                        r_ = [
+                            dlid,
+                            source,
+                            drug_label,
+                            prescribing,
+                            dosing,
+                            chemical,
+                            gene,
+                            var,
+                            hap,
+                        ]
                 elif vh in haplotypes:
                     var = None
-                    i  = haplotypes.index(vh)
+                    i = haplotypes.index(vh)
                     gene_ = haps.loc[i, "gene"]
                     if gene == gene_:
                         hap = vh
-                        r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene_, var, hap]
+                        r_ = [
+                            dlid,
+                            source,
+                            drug_label,
+                            prescribing,
+                            dosing,
+                            chemical,
+                            gene_,
+                            var,
+                            hap,
+                        ]
                     else:
                         hap = None
-                        r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene, var, hap]
+                        r_ = [
+                            dlid,
+                            source,
+                            drug_label,
+                            prescribing,
+                            dosing,
+                            chemical,
+                            gene,
+                            var,
+                            hap,
+                        ]
                 else:
                     var = None
                     hap = None
-                    r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene, var, hap]
+                    r_ = [
+                        dlid,
+                        source,
+                        drug_label,
+                        prescribing,
+                        dosing,
+                        chemical,
+                        gene,
+                        var,
+                        hap,
+                    ]
                 R += [r_]
         else:
             var = None
             hap = None
-            r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene, var, hap]
+            r_ = [
+                dlid,
+                source,
+                drug_label,
+                prescribing,
+                dosing,
+                chemical,
+                gene,
+                var,
+                hap,
+            ]
             R += [r_]
     cols = [
         "dlid",
@@ -123,32 +194,34 @@ def deconv_hap_variant(df):
         "chemical",
         "gene",
         "variant",
-        "haplotype"
-        ]
+        "haplotype",
+    ]
     data = pd.DataFrame(R, columns=cols)
     data = data.drop_duplicates(keep="first")
     import collections
+
     d = collections.defaultdict(list)
     for r in data.values:
         k = tuple(r[:-2])
         v = tuple(r[-2:])
         d[k] += [v]
-    
+
     d_ = {}
-    for k,v in d.items():
+    for k, v in d.items():
         if len(v) > 1:
             v_ = [x for x in v if x[0] is not None or x[1] is not None]
         else:
             v_ = v
         d_[k] = v_
-    
+
     R = []
-    for k,v in d_.items():
+    for k, v in d_.items():
         for x in v:
             R += [list(k) + list(x)]
-            
+
     data = pd.DataFrame(R, columns=list(data.columns))
     return data
+
 
 def deconv_chemical(df):
     c = CsvCleaner()
@@ -168,8 +241,18 @@ def deconv_chemical(df):
                 r_ = [dlid, source, drug_label, prescribing, dosing, ch, gene, var, hap]
                 R += [r_]
         else:
-            r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene, var, hap]
-            R += [r_]     
+            r_ = [
+                dlid,
+                source,
+                drug_label,
+                prescribing,
+                dosing,
+                chemical,
+                gene,
+                var,
+                hap,
+            ]
+            R += [r_]
     cols = [
         "dlid",
         "source",
@@ -179,8 +262,8 @@ def deconv_chemical(df):
         "chemical",
         "gene",
         "variant",
-        "haplotype"
-        ]
+        "haplotype",
+    ]
     data = pd.DataFrame(R, columns=cols)
     return data
 

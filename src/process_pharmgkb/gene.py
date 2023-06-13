@@ -50,7 +50,14 @@ def create_table():
             dosing_guideline = 1
         else:
             dosing_guideline = 0
-        data_dict[gid] = [gene, hgnc, ensembl, vip, variant_annotation, dosing_guideline]
+        data_dict[gid] = [
+            gene,
+            hgnc,
+            ensembl,
+            vip,
+            variant_annotation,
+            dosing_guideline,
+        ]
     data = pd.DataFrame.from_dict(data_dict, orient="index")
     data.reset_index(inplace=True)
     data.rename(

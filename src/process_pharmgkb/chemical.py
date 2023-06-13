@@ -37,12 +37,20 @@ def create_table():
                     if len(crossr) == 1:
                         if "PubChem Compound" in i:
                             print(crossr)
-                            cpd = (i.split(":")[-1])
-                            data = requests.get("https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{}/property/CanonicalSMILES/TXT".format(cpd))
+                            cpd = i.split(":")[-1]
+                            data = requests.get(
+                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{}/property/CanonicalSMILES/TXT".format(
+                                    cpd
+                                )
+                            )
                             smiles = data.text.strip()
                             print(smiles)
                         else:
-                            data = requests.get("https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{}/property/CanonicalSMILES/TXT".format(chemical))
+                            data = requests.get(
+                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{}/property/CanonicalSMILES/TXT".format(
+                                    chemical
+                                )
+                            )
                             try_smiles = data.text.strip()
                             if "Status" in try_smiles:
                                 smiles = None
@@ -52,12 +60,20 @@ def create_table():
                     else:
                         if "PubChem Compound" in i:
                             print(crossr)
-                            cpd = (i.split(":")[-1][:-1])
-                            data = requests.get("https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{}/property/CanonicalSMILES/TXT".format(cpd))
+                            cpd = i.split(":")[-1][:-1]
+                            data = requests.get(
+                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/{}/property/CanonicalSMILES/TXT".format(
+                                    cpd
+                                )
+                            )
                             smiles = data.text.strip()
                             print(smiles)
                         else:
-                            data = requests.get("https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{}/property/CanonicalSMILES/TXT".format(chemical))
+                            data = requests.get(
+                                "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{}/property/CanonicalSMILES/TXT".format(
+                                    chemical
+                                )
+                            )
                             try_smiles = data.text.strip()
                             if "Status" in try_smiles:
                                 smiles = None
@@ -79,7 +95,7 @@ def create_table():
         elif drug_label == "Actionable PGx":
             drug_label = 3
         elif drug_label == "Informative PGx":
-            drug_label = 4        
+            drug_label = 4
         else:
             drug_label = -1
         data_dict[cid] = [chemical, chemical_type, smiles, dosing_guideline, drug_label]
@@ -92,7 +108,7 @@ def create_table():
             1: "chemical_type",
             2: "smiles",
             3: "dosing_guideline",
-            4: "drug_label"
+            4: "drug_label",
         },
         inplace=True,
     )
