@@ -19,204 +19,175 @@ def get_raw_files():
     df = r.drug_labels
     return df
 
-
-def deconv_chemical():
+def deconv_gene(df):
     c = CsvCleaner()
-    df = get_raw_files()
-    ch = pd.read_csv(os.path.join(processed_folder, "chemical.csv"))
-    ch_name = ch["chemical"].tolist()
-    ch_id = ch["cid"].tolist()
     R = []
     for r in df.values:
-        aid = c.stringify(r[0]) #drug labels are given a specific PharmGKB AID
-        evidence = "1A" #all variants and haplotypes that have drug labels are classified as 1A
-        association = 1  # By default, there is association
-        gene = c.stringify(r[11]) #multiple genes can be associated to the same annotation
-        genomic_variation = c.stringify(r[12]) #not all genes have an identified genomic variation
-        vid = "nan" #will depend on the genomic variation
-        hid = "nan" #will depend on the genomic variation
-        pd_phenotype = "nan" #no phenotype available in the table
-        pk_phenotype = "nan" #no phenotype available in the table
-        
+        dlid = c.stringify(r[0])
+        source = c.stringify(r[2])
+        drug_label = c.stringify(r[4])
+        if drug_label == "Testing required":
+            drug_label = 1
+        elif drug_label == "Testing recommended":
+            drug_label = 2
+        elif drug_label == "Actionable PGx":
+            drug_label = 3
+        elif drug_label == "Informative PGx":
+            drug_label = 4        
+        else:
+            drug_label = -1
+        prescribing = c.stringify(r[5])
+        if prescribing == "Prescribing Info":
+            prescribing = 1
+        else:
+            prescribing = -1
+        dosing = c.stringify(r[6])
+        if dosing== "Dosing Info":
+            dosing = 1
+        else:
+            dosing = -1
         chemical = c.stringify(r[10])
-        cid = "nan"
-        if chemical in ch_name:
-            i = ch_name.index(chemical)
-            cid = ch_id[i]
-        r = [
-            aid,
-            genomic_variation,
-            vid,
-            hid,
-            gene,
-            chemical,
-            cid,
-            pd_phenotype,
-            pk_phenotype,
-            evidence,
-            association,
-        ]
-        R += [r]
+        gene = c.inline_semicolon_splitter_space(r[11])
+        var_hap = c.stringify(r[12])
+        if gene is not None: #if gene is none, do not keep record
+            for g in gene:
+                r_ = [dlid, source, drug_label, prescribing, dosing, chemical, g, var_hap]
+                R += [r_]
     cols = [
-        "aid",
-        "genomic_variation",
-        "vid",
-        "hid",
-        "gene",
+        "dlid",
+        "source",
+        "drug_label",
+        "prescribing_guideline",
+        "dosing_guideline",
         "chemical",
-        "cid",
-        "pd_phenotype",
-        "pk_phenotype",
-        "evidence",
-        "association",
-    ]
+        "gene",
+        "hap_var"
+        ]
     data = pd.DataFrame(R, columns=cols)
     return data
 
-def get_genes_from_vars():
+def deconv_hap_variant(df):
     c = CsvCleaner()
-    data = deconv_chemical()
     vars = pd.read_csv(os.path.join(processed_folder, "variant.csv"))
     haps = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
-    genes = pd.read_csv(os.path.join(processed_folder, "gene.csv"))
-    variants = vars["variant"]
-    haplotypes = haps["haplotype"]
+    variants = vars["variant"].tolist()
+    haplotypes = haps["haplotype"].tolist()
     R = []
-    for r in data.values:
-        aid = c.stringify(r[0])
-        genomic_variation = c.stringify(r[1])
-        vid = "nan"
-        hid = "nan"
-        gene = c.stringify(r[4])
-        chemical = c.stringify(r[5])
-        cid = c.stringify(r[6])
-        pd_phenotype = c.stringify(r[7])
-        pk_phenotype = c.stringify(r[8])
-        evidence = c.stringify(r[9])
-        association = c.stringify(r[10])
-        gid = "nan"
-        for g in c.inline_semicolon_splitter_space(genomic_variation):
-            if g in variants:
-                i = variants.index(g)
-                gid = vars.loc[i, "gid"]
-                gene = genes.loc[genes["gid"]==gid, "gene"]
-            elif g in haplotypes:
-                i  = haplotypes.index(g)
-                hid = haps.loc[i, "hid"]
-                gid =  haps.loc[i, "gid"]
-                gene = genes.loc[genes["gid"]==gid, "gene"]
-            r = [
-                aid,
-                genomic_variation,
-                vid,
-                hid,
-                gene,
-                gid,
-                chemical,
-                cid,
-                pd_phenotype,
-                pk_phenotype,
-                evidence,
-                association,
-            ]
-            R += [r]
+    for r in df.values:
+        dlid = r[0]
+        source = r[1]
+        drug_label = r[2]
+        prescribing = r[3]
+        dosing = r[4]
+        chemical = r[5]
+        gene = r[6]
+        var_hap = c.inline_semicolon_splitter_space(r[7])
+        if var_hap is not None:
+            for vh in var_hap:
+                if vh in variants:
+                    i = variants.index(vh)
+                    hap =  None
+                    gene_ = vars.loc[i, "gene"]
+                    if gene_ == gene:
+                        var = vh
+                        r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene_, var, hap]
+                    else:
+                        var = None
+                        r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene, var, hap]
+                elif vh in haplotypes:
+                    var = None
+                    i  = haplotypes.index(vh)
+                    gene_ = haps.loc[i, "gene"]
+                    if gene == gene_:
+                        hap = vh
+                        r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene_, var, hap]
+                    else:
+                        hap = None
+                        r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene, var, hap]
+                else:
+                    var = None
+                    hap = None
+                    r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene, var, hap]
+                R += [r_]
+        else:
+            var = None
+            hap = None
+            r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene, var, hap]
+            R += [r_]
     cols = [
-        "aid",
-        "genomic_variation",
-        "vid",
-        "hid",
-        "gene",
-        "gid",
+        "dlid",
+        "source",
+        "drug_label",
+        "prescribing_guideline",
+        "dosing_guideline",
         "chemical",
-        "cid",
-        "pd_phenotype",
-        "pk_phenotype",
-        "evidence",
-        "association",
-    ]
+        "gene",
+        "variant",
+        "haplotype"
+        ]
     data = pd.DataFrame(R, columns=cols)
+    data = data.drop_duplicates(keep="first")
+    import collections
+    d = collections.defaultdict(list)
+    for r in data.values:
+        k = tuple(r[:-2])
+        v = tuple(r[-2:])
+        d[k] += [v]
+    
+    d_ = {}
+    for k,v in d.items():
+        if len(v) > 1:
+            v_ = [x for x in v if x[0] is not None or x[1] is not None]
+        else:
+            v_ = v
+        d_[k] = v_
+    
+    R = []
+    for k,v in d_.items():
+        for x in v:
+            R += [list(k) + list(x)]
+            
+    data = pd.DataFrame(R, columns=list(data.columns))
     return data
 
-"""
-def deconv_gene():
+def deconv_chemical(df):
     c = CsvCleaner()
-    data = deconv_chemical()
-    gene = pd.read_csv(os.path.join(processed_folder, "gene.csv"))
-    gene_name = gene["gene"].tolist()
-    gene_id = gene["gid"].tolist()
     R = []
-    for r in data.values:
-        aid = c.stringify(r[0])
-        genomic_variation = c.stringify(r[1])
-        vid = c.stringify(r[2])
-        hid = c.stringify(r[3])
-        chemical = c.stringify(r[5])
-        cid = c.stringify(r[6])
-        pd_phenotype = c.stringify(r[7])
-        pk_phenotype = c.stringify(r[8])
-        evidence = c.stringify(r[9])
-        association = c.stringify(r[10])
-        gene = c.inline_semicolon_splitter_space(r[4])
-        gid = "nan"
-        if gene is None:
-            r = [
-                aid,
-                genomic_variation,
-                vid,
-                hid,
-                gene,
-                gid,
-                chemical,
-                cid,
-                pd_phenotype,
-                pk_phenotype,
-                evidence,
-                association,
-            ]
-            R += [r]
-        for g in gene:
-            if g in gene_name:
-                i = gene_name.index(g)
-                gid = gene_id[i]
-            r = [
-                aid,
-                genomic_variation,
-                vid,
-                hid,
-                g,
-                gid,
-                chemical,
-                cid,
-                pd_phenotype,
-                pk_phenotype,
-                evidence,
-                association,
-            ]
-            R += [r]
+    for r in df.values:
+        dlid = r[0]
+        source = r[1]
+        drug_label = r[2]
+        prescribing = r[3]
+        dosing = r[4]
+        chemical = c.inline_semicolon_splitter_space(r[5])
+        gene = r[6]
+        var = r[7]
+        hap = r[8]
+        if chemical is not None:
+            for ch in chemical:
+                r_ = [dlid, source, drug_label, prescribing, dosing, ch, gene, var, hap]
+                R += [r_]
+        else:
+            r_ = [dlid, source, drug_label, prescribing, dosing, chemical, gene, var, hap]
+            R += [r_]     
     cols = [
-        "aid",
-        "genomic_variation",
-        "vid",
-        "hid",
-        "gene",
-        "gid",
+        "dlid",
+        "source",
+        "drug_label",
+        "prescribing_guideline",
+        "dosing_guideline",
         "chemical",
-        "cid",
-        "pd_phenotype",
-        "pk_phenotype",
-        "evidence",
-        "association",
-    ]
+        "gene",
+        "variant",
+        "haplotype"
+        ]
     data = pd.DataFrame(R, columns=cols)
     return data
-"""
 
-def create_table():
-    data = get_genes_from_vars()
-    data.to_csv(
-        os.path.join(processed_folder, "pgx_relation_int", "drug_labels_int.csv"),
-        index=False,
-    )
 
 if __name__ == "__main__":
-    create_table()
+    df = get_raw_files()
+    df = deconv_gene(df)
+    df = deconv_hap_variant(df)
+    df = deconv_chemical(df)
+    df.to_csv(os.path.join(processed_folder, "drug_labels.csv"), index=False)

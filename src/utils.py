@@ -28,7 +28,11 @@ class CsvCleaner:
         return x
 
     def inline_comma_splitter(self, x):
-        if str(x) == "nan":
+        if str(x) == "":
+            return None
+        elif str(x) == "nan":
+            return None
+        elif x is None:
             return None
         return x.split(",")
 
@@ -51,7 +55,7 @@ class CsvCleaner:
 
     def inline_comma_splitter_nospace(self, x):
         # Split the string based on commas not followed by a space
-        if str(x)== "nan":
+        if str(x) == "nan":
             return None
         else:
             elements = re.split(r',(?!\s)', x)
