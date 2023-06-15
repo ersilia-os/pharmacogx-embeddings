@@ -12,26 +12,10 @@ from pharmgkb import RawData
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
-[
-    "Variant Annotation ID",
-    "Variant/Haplotypes",
-    "Gene",
-    "Drug(s)",
-    "PMID",
-    "Phenotype Category",
-    "Significance",
-    "Notes",
-    "Sentence",
-    "Alleles",
-    "Specialty Population",
-]
-
-
 def get_raw_files():
     r = RawData()
     df = r.var_drug_ann
     return df
-
 
 def deconv_chemical(df):
     c = CsvCleaner()
@@ -98,7 +82,6 @@ def deconv_pheno(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
-
 def deconv_gene(df):
     c = CsvCleaner()
     R = []
@@ -128,7 +111,6 @@ def deconv_gene(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
-
 def deconv_variant(df):
     c = CsvCleaner()
     R = []
@@ -157,7 +139,6 @@ def deconv_variant(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
-
 def sep_var(df):
     df1 = pd.read_csv(os.path.join(processed_folder, "variant.csv"))
     df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
@@ -169,21 +150,28 @@ def sep_var(df):
         phenotype = r[3]
         significance = r[4]
         chemical = r[5]
-        for i, var_name in enumerate(df1["variant"].tolist()):
-            if var_hap == var_name:
-                vid = df1["vid"].loc[i]
-                var = var_hap
-                hid = None
-                hap = None
-                r_ = [vaid, vid, var, hid, hap, gene, phenotype, significance, chemical]
-        for i, hap_name in enumerate(df2["haplotype"].tolist()):
-            if var_hap == hap_name:
-                hid = df2["hid"].loc[i]
-                hap = var_hap
-                vid = None
-                var = None
-                r_ = [vaid, vid, var, hid, hap, gene, phenotype, significance, chemical]
-        R += [r_]
+        found_in_df1 = var_hap in df1["variant"].tolist()
+        found_in_df2 = var_hap in df2["haplotype"].tolist()
+        if not found_in_df1 and not found_in_df2:
+            print(f"var_hap '{var_hap}' is not found in df1 or df2.")
+        if found_in_df1:
+            for i, var_name in enumerate(df1["variant"].tolist()):
+                if var_hap == var_name:
+                    vid = df1["vid"].loc[i]
+                    var = var_hap
+                    hid = None
+                    hap = None
+                    r_ = [vaid, vid, var, hid, hap, gene, phenotype, significance, chemical]
+                    R += [r_]
+        if found_in_df2:
+            for i, hap_name in enumerate(df2["haplotype"].tolist()):
+                if var_hap == hap_name:
+                    hid = df2["hid"].loc[i]
+                    hap = var_hap
+                    vid = None
+                    var = None
+                    r_ = [vaid, vid, var, hid, hap, gene, phenotype, significance, chemical]
+                    R += [r_]
     cols = [
         "vaid",
         "vid",
@@ -215,4 +203,4 @@ if __name__ == "__main__":
     df = deconv_variant(df)
     df = sep_var(df)
     df = append_study(df)
-    df.to_csv(os.path.join(processed_folder, "var_drug_ann.csv"), index=False)
+    df.to_csv(os.path.join(processed_folder, "var_drug_ann_.csv"), index=False)

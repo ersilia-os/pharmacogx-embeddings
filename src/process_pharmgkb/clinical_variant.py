@@ -1,6 +1,7 @@
 import os
 import sys
 import pandas as pd
+import numpy as np
 
 root = os.path.abspath(os.path.dirname(__file__))
 sys.path.append(os.path.join(root, ".."))

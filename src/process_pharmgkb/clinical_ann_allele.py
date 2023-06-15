@@ -11,12 +11,10 @@ from pharmgkb import RawData
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
-
 def get_raw_files():
     r = RawData()
     df = r.clinical_ann_alleles
     return df
-
 
 def create_table():
     c = CsvCleaner()
@@ -42,45 +40,23 @@ def create_table():
             function = r_[3]
             if caid == caid_:
                 if allele is not None:
-                    if "*" in allele:
-                        if allele == "*" + haplotype.split("*")[1]:
-                            nr = [
-                                caid,
-                                vid,
-                                variant,
-                                hid,
-                                haplotype,
-                                gene,
-                                evidence,
-                                score,
-                                phenotype,
-                                chemical,
-                                disease,
-                                allele,
-                                anntext,
-                                function,
-                            ]
-                            R += [nr]
-                        else:
-                            continue
-                    else:
-                        nr = [
-                            caid,
-                            vid,
-                            variant,
-                            hid,
-                            haplotype,
-                            gene,
-                            evidence,
-                            score,
-                            phenotype,
-                            chemical,
-                            disease,
-                            allele,
-                            anntext,
-                            function,
-                        ]
-                        R += [nr]
+                    nr = [
+                        caid,
+                        vid,
+                        variant,
+                        hid,
+                        haplotype,
+                        gene,
+                        evidence,
+                        score,
+                        phenotype,
+                        chemical,
+                        disease,
+                        allele,
+                        anntext,
+                        function,
+                    ]
+                    R += [nr]
             else:
                 continue
 
@@ -106,6 +82,7 @@ def create_table():
 
 if __name__ == "__main__":
     df = create_table()
+    df = df.drop_duplicates(keep = "first")
     df.to_csv(
-        os.path.join(processed_folder, "clinical_annotation_allele.csv"), index=False
+        os.path.join(processed_folder, "clinical_annotation_allele_.csv"), index=False
     )
