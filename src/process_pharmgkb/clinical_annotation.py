@@ -196,45 +196,52 @@ def sep_var(df):
         phenotype = r[5]
         chemical = r[6]
         disease = r[7]
-        for i, var_name in enumerate(df1["variant"].tolist()):
-            if var_hap == var_name:
-                vid = df1["vid"].loc[i]
-                var = var_hap
-                hid = None
-                hap = None
-                r_ = [
-                    caid,
-                    vid,
-                    var,
-                    hid,
-                    hap,
-                    gene,
-                    evidence,
-                    score,
-                    phenotype,
-                    chemical,
-                    disease,
-                ]
-        for i, hap_name in enumerate(df2["haplotype"].tolist()):
-            if var_hap == hap_name:
-                hid = df2["hid"].loc[i]
-                hap = var_hap
-                vid = None
-                var = None
-                r_ = [
-                    caid,
-                    vid,
-                    var,
-                    hid,
-                    hap,
-                    gene,
-                    evidence,
-                    score,
-                    phenotype,
-                    chemical,
-                    disease,
-                ]
-        R += [r_]
+        found_in_df1 = var_hap in df1["variant"].tolist()
+        found_in_df2 = var_hap in df2["haplotype"].tolist()
+        if not found_in_df1 and not found_in_df2:
+            raise ValueError(f"var_hap '{var_hap}' is not found in df1 or df2.")
+        if found_in_df1:
+            for i, var_name in enumerate(df1["variant"].tolist()):
+                if var_hap == var_name:
+                    vid = df1["vid"].loc[i]
+                    var = var_hap
+                    hid = None
+                    hap = None
+                    r_ = [
+                        caid,
+                        vid,
+                        var,
+                        hid,
+                        hap,
+                        gene,
+                        evidence,
+                        score,
+                        phenotype,
+                        chemical,
+                        disease,
+                    ]
+                    R += [r_]
+        if found_in_df2:
+            for i, hap_name in enumerate(df2["haplotype"].tolist()):
+                if var_hap == hap_name:
+                    hid = df2["hid"].loc[i]
+                    hap = var_hap
+                    vid = None
+                    var = None
+                    r_ = [
+                        caid,
+                        vid,
+                        var,
+                        hid,
+                        hap,
+                        gene,
+                        evidence,
+                        score,
+                        phenotype,
+                        chemical,
+                        disease,
+                    ]
+                    R += [r_]
     cols = [
         "caid",
         "vid",
@@ -260,4 +267,4 @@ if __name__ == "__main__":
     df = deconv_gene(df)
     df = deconv_variant(df)
     df = sep_var(df)
-    df.to_csv(os.path.join(processed_folder, "clinical_annotation.csv"), index=False)
+    df.to_csv(os.path.join(processed_folder, "clinical_annotation_.csv"), index=False)

@@ -1,7 +1,6 @@
 import os
 import pandas as pd
 import requests
-
 import sys
 
 root = os.path.abspath(os.path.dirname(__file__))
@@ -9,7 +8,6 @@ sys.path.append(os.path.join(root, ".."))
 
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
-
 
 def download_table(gene_name):
     url = f"https://api.pharmgkb.org/v1/download/file/attachment/{gene_name}_allele_definition_table.xlsx"
@@ -36,12 +34,6 @@ def download_table(gene_name):
         print(f"No table found for gene: {gene_name}")
         return gene_name
 
-
-# genes = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
-# gene_names = list(set(genes["gene"].tolist()))
-# print(len(gene_names))
-
-
 df1 = pd.read_csv(os.path.join(processed_folder, "clinical_annotation.csv"))
 df2 = pd.read_csv(os.path.join(processed_folder, "clinical_variant.csv"))
 df3 = pd.read_csv(os.path.join(processed_folder, "var_drug_ann.csv"))
@@ -49,14 +41,13 @@ df4 = pd.read_csv(os.path.join(processed_folder, "var_pheno_ann.csv"))
 df5 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
 gene_names = list(
     set(
-        df1["gene"].tolist()
-        + df2["gene"].tolist()
-        + df3["gene"].tolist()
-        + df4["gene"].tolist()
+        df1["gene"][~df1["haplotype"].isna()].tolist()
+        + df2["gene"][~df2["haplotype"].isna()].tolist()
+        + df3["gene"][~df3["haplotype"].isna()].tolist()
+        + df4["gene"][~df4["haplotype"].isna()].tolist()
         + df5["gene"].tolist()
     )
 )
-
 
 no_file = []
 for gn in gene_names:
@@ -64,6 +55,4 @@ for gn in gene_names:
     if gene_name is not None:
         no_file += [gene_name]
 df = pd.DataFrame(no_file, columns=["gene"])
-df.to_csv(
-    os.path.join(data_folder, "pharmgkb", "haplotypes", "no_file.csv"), index=False
-)
+df.to_csv(os.path.join(data_folder, "pharmgkb","haplotypes", "nofile.csv"), index=False) #manually download the ones without file

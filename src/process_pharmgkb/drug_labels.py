@@ -1,7 +1,7 @@
 import os
 import sys
 import pandas as pd
-
+import collections
 
 root = os.path.abspath(os.path.dirname(__file__))
 sys.path.append(os.path.join(root, ".."))
@@ -9,16 +9,13 @@ sys.path.append(os.path.join(root, ".."))
 from utils import CsvCleaner
 from pharmgkb import RawData
 
-
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
-
 
 def get_raw_files():
     r = RawData()
     df = r.drug_labels
     return df
-
 
 def deconv_gene(df):
     c = CsvCleaner()
@@ -75,7 +72,6 @@ def deconv_gene(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
-
 
 def deconv_hap_variant(df):
     c = CsvCleaner()
@@ -198,14 +194,11 @@ def deconv_hap_variant(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     data = data.drop_duplicates(keep="first")
-    import collections
-
     d = collections.defaultdict(list)
     for r in data.values:
         k = tuple(r[:-2])
         v = tuple(r[-2:])
         d[k] += [v]
-
     d_ = {}
     for k, v in d.items():
         if len(v) > 1:
@@ -213,12 +206,10 @@ def deconv_hap_variant(df):
         else:
             v_ = v
         d_[k] = v_
-
     R = []
     for k, v in d_.items():
         for x in v:
             R += [list(k) + list(x)]
-
     data = pd.DataFrame(R, columns=list(data.columns))
     return data
 
@@ -266,7 +257,6 @@ def deconv_chemical(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
-
 
 if __name__ == "__main__":
     df = get_raw_files()
