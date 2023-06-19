@@ -165,7 +165,7 @@ def deconv_variant(df):
 
 
 def sep_var(df):
-    df1 = pd.read_csv(os.path.join(processed_folder, "variant.csv"))
+    df1 = pd.read_csv(os.path.join(processed_folder, "variant_complete.csv"))
     df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
     R = []
     for r in df.values:
@@ -174,22 +174,39 @@ def sep_var(df):
         evidence = r[3]
         chemical = r[4]
         disease = r[5]
-        vh = r[0]
-        for i, var_name in enumerate(df1["variant"].tolist()):
-            if vh == var_name:
-                vid = df1["vid"].loc[i]
-                var = vh
-                hid = None
-                hap = None
-                r_ = [vid, var, hid, hap, gene, phenotype, evidence, chemical, disease]
-        for i, hap_name in enumerate(df2["haplotype"].tolist()):
-            if vh == hap_name:
-                hid = df2["hid"].loc[i]
-                hap = vh
-                vid = None
-                var = None
-                r_ = [vid, var, hid, hap, gene, phenotype, evidence, chemical, disease]
-        R += [r_]
+        var_hap = r[0]
+        if var_hap.startswith("HLA-"):
+            var_hap =':'.join(var_hap.split(':')[:2])
+        if var_hap == "G6PD B (wildtype)":
+            var_hap = "G6PD B (reference)"
+        g6pd_list1 = ["G6PD Mediterranean", "Dallas", "Panama", "Sassari", "Cagliari", "Birmingham", ]
+        if var_hap in g6pd_list1:
+            var_hap = "G6PD Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham"
+        g6pd_list2 = ["G6PD Canton", "Taiwan-Hakka", "Gifu-like", "Agrigento-like"]
+        if var_hap in g6pd_list2:
+            var_hap = "G6PD Canton, Taiwan-Hakka, Gifu-like, Agrigento-like"
+        found_in_df1 = var_hap in df1["variant"].tolist()
+        found_in_df2 = var_hap in df2["haplotype"].tolist()
+        if not found_in_df1 and not found_in_df2:
+            print(f"var_hap '{var_hap}' is not found in df1 or df2.")
+        if found_in_df1:
+            for i, var_name in enumerate(df1["variant"].tolist()):
+                if var_hap == var_name:
+                    vid = df1["vid"].loc[i]
+                    var = var_hap
+                    hid = None
+                    hap = None
+                    r_ = [vid, var, hid, hap, gene, phenotype, evidence, chemical, disease]
+                    R += [r_]
+        if found_in_df2:
+            for i, hap_name in enumerate(df2["haplotype"].tolist()):
+                if var_hap == hap_name:
+                    hid = df2["hid"].loc[i]
+                    hap = var_hap
+                    vid = None
+                    var = None
+                    r_ = [vid, var, hid, hap, gene, phenotype, evidence, chemical, disease]
+                    R += [r_]
     cols = [
         "vid",
         "variant",

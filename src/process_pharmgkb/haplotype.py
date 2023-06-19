@@ -42,7 +42,8 @@ def add_haps_from_rlx(df):
         hid = c.stringify(r[0])
         r_ = [haplotype_number, rsID, start, protein, nc, ng, gene, haplotype, hid]
         R += [r_]
-    df = df.append(pd.DataFrame(R, columns=df.columns), ignore_index=True)
+    new_rows = pd.DataFrame(R, columns=df.columns)
+    df = pd.concat([df, new_rows], ignore_index=True)
     return df
 
 def add_gid(df):
@@ -56,4 +57,8 @@ if __name__ == "__main__":
     data = create_hap_table()
     data = add_haps_from_rlx(data)
     data = add_gid(data)
+    #manually add CYP3A4*36 row
+    new_row = {"hid":None, "haplotype": "CYP3A4*36", "haplotype_number":"*36", 
+               "gid":"PA130", "gene":"CYP3A4", "rsID":None, "start":None, "protein":None, "NC":None, "NG":None}
+    data = pd.concat([data, pd.DataFrame([new_row])], ignore_index=True)
     data.to_csv(os.path.join(processed_folder, "haplotype.csv"), index=False)

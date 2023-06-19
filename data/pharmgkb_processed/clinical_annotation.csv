@@ -243,6 +243,7 @@ caid,vid,variant,hid,haplotype,gene,evidence,score,phenotype,chemical,disease
 1451254580,PA166154633,rs11045879,,,SLCO1B1,3,1.5,Metabolism/PK,methotrexate,Neoplasms
 1451245925,PA166156748,rs1042713,,,ADRB2,3,3.75,Efficacy,salbutamol,Asthma
 1451237820,,,PA165819201,CYP3A4*1,CYP3A4,3,2.0,Metabolism/PK,sufentanil,
+1451237820,,,,CYP3A4*36,CYP3A4,3,2.0,Metabolism/PK,sufentanil,
 981237878,PA166155623,rs1105879,,,UGT1A6,3,5.0,Dosage,valproic acid,Epilepsy
 981238234,PA166156983,rs1360780,,,FKBP5,3,2.5,Toxicity,clomipramine,Depression
 981238234,PA166156983,rs1360780,,,FKBP5,3,2.5,Toxicity,nefazodone,Depression
@@ -822,22 +823,27 @@ caid,vid,variant,hid,haplotype,gene,evidence,score,phenotype,chemical,disease
 1183689931,,,PA165819240,CYP3A4*18,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,heart transplantation
 1183689931,,,PA165819244,CYP3A4*20,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,heart transplantation
 1183689931,,,PA166048680,CYP3A4*22,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,heart transplantation
+1183689931,,,,CYP3A4*36,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,heart transplantation
 1183689931,,,PA165819201,CYP3A4*1,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,Kidney Transplantation
 1183689931,,,PA165819240,CYP3A4*18,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,Kidney Transplantation
 1183689931,,,PA165819244,CYP3A4*20,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,Kidney Transplantation
 1183689931,,,PA166048680,CYP3A4*22,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,Kidney Transplantation
+1183689931,,,,CYP3A4*36,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,Kidney Transplantation
 1183689931,,,PA165819201,CYP3A4*1,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,laparoscopic sleeve gastrectomy
 1183689931,,,PA165819240,CYP3A4*18,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,laparoscopic sleeve gastrectomy
 1183689931,,,PA165819244,CYP3A4*20,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,laparoscopic sleeve gastrectomy
 1183689931,,,PA166048680,CYP3A4*22,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,laparoscopic sleeve gastrectomy
+1183689931,,,,CYP3A4*36,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,laparoscopic sleeve gastrectomy
 1183689931,,,PA165819201,CYP3A4*1,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,liver transplantation
 1183689931,,,PA165819240,CYP3A4*18,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,liver transplantation
 1183689931,,,PA165819244,CYP3A4*20,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,liver transplantation
 1183689931,,,PA166048680,CYP3A4*22,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,liver transplantation
+1183689931,,,,CYP3A4*36,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,liver transplantation
 1183689931,,,PA165819201,CYP3A4*1,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,lung transplantation
 1183689931,,,PA165819240,CYP3A4*18,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,lung transplantation
 1183689931,,,PA165819244,CYP3A4*20,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,lung transplantation
 1183689931,,,PA166048680,CYP3A4*22,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,lung transplantation
+1183689931,,,,CYP3A4*36,CYP3A4,1B,34.25,Metabolism/PK,tacrolimus,lung transplantation
 1183684162,PA166154017,rs2515641,,,CYP2E1,3,2.75,Toxicity,cytarabine,"Leukemia, Myeloid, Acute"
 1183684162,PA166154017,rs2515641,,,CYP2E1,3,2.75,Toxicity,fludarabine,"Leukemia, Myeloid, Acute"
 1183684162,PA166154017,rs2515641,,,CYP2E1,3,2.75,Toxicity,gemtuzumab ozogamicin,"Leukemia, Myeloid, Acute"
@@ -930,6 +936,7 @@ caid,vid,variant,hid,haplotype,gene,evidence,score,phenotype,chemical,disease
 1183698868,PA166155720,rs4124874,,,UGT1A1,4,-1.75,Toxicity,irinotecan,Lymphoma
 1183698868,PA166155720,rs4124874,,,UGT1A1,4,-1.75,Toxicity,irinotecan,Neoplasms
 1183491318,,,PA165819201,CYP3A4*1,CYP3A4,3,6.5,Efficacy,atorvastatin,Hyperlipidemias
+1183491318,,,,CYP3A4*36,CYP3A4,3,6.5,Efficacy,atorvastatin,Hyperlipidemias
 982031026,PA166157428,rs7787082,,,ABCB1,3,2.75,Efficacy,amitriptyline,Depressive Disorder
 982031026,PA166157428,rs7787082,,,ABCB1,3,2.75,Efficacy,citalopram,Depressive Disorder
 982031026,PA166157428,rs7787082,,,ABCB1,3,2.75,Efficacy,paroxetine,Depressive Disorder
@@ -1000,6 +1007,7 @@ caid,vid,variant,hid,haplotype,gene,evidence,score,phenotype,chemical,disease
 1451398187,PA166154249,rs1695,,,GSTP1,3,2.75,Efficacy,platinum,Colorectal Neoplasms
 1183679135,PA166154860,rs1346268,,,,3,3.5,Toxicity,simvastatin,
 1183689961,,,PA165819201,CYP3A4*1,CYP3A4,3,0.5,Other,tacrolimus,liver transplantation
+1183689961,,,,CYP3A4*36,CYP3A4,3,0.5,Other,tacrolimus,liver transplantation
 1183533955,PA166155046,rs3024530,,,IL4R,3,2.5,Efficacy,pitrakinra,Asthma
 1183601914,PA166153735,rs3091244,,,CRP,3,4.5,Efficacy,fenofibrate,Metabolic Syndrome
 1183602560,PA166156368,rs2742435,,,SACM1L,3,0.0,Toxicity,bupropion,"Depressive Disorder, Major"
@@ -2858,6 +2866,7 @@ caid,vid,variant,hid,haplotype,gene,evidence,score,phenotype,chemical,disease
 1451410280,PA166238104,rs2024627,,,MTOR,3,1.5,Efficacy,everolimus,Kidney Neoplasms
 1451410280,PA166238104,rs2024627,,,MTOR,3,1.5,Efficacy,everolimus,Neuroendocrine Tumors
 1449715423,,,PA165819201,CYP3A4*1,CYP3A4,3,3.5,Dosage,sufentanil,Pain
+1449715423,,,,CYP3A4*36,CYP3A4,3,3.5,Dosage,sufentanil,Pain
 1450373489,PA166182126,rs3192723,,,OPRM1,3,0.0,Efficacy,methadone,Heroin Dependence
 1449003976,PA166155995,rs2070401,,,BACH1,3,0.75,Toxicity,isoniazid,drug-induced liver injury
 1449003976,PA166155995,rs2070401,,,BACH1,3,0.75,Toxicity,isoniazid,Toxic liver disease
@@ -10297,6 +10306,7 @@ caid,vid,variant,hid,haplotype,gene,evidence,score,phenotype,chemical,disease
 1450808778,PA166154339,rs1800497,,,DRD2,3,2.0,Toxicity,nicotine,Tobacco Use Disorder
 1449296086,,,PA165819201,CYP3A4*1,CYP3A4,2A,8.875,Dosage,fentanyl,"Pain, Postoperative"
 1449296086,,,PA165819240,CYP3A4*18,CYP3A4,2A,8.875,Dosage,fentanyl,"Pain, Postoperative"
+1449296086,,,,CYP3A4*36,CYP3A4,2A,8.875,Dosage,fentanyl,"Pain, Postoperative"
 1450814192,PA166180109,rs671531,,,OPRM1,3,1.75,Efficacy,highly active antiretroviral therapy (haart),HIV Infections
 1450814424,PA166153643,rs1801131,,,MTHFR,3,2.75,Efficacy,l-methylfolate,"Depressive Disorder, Major"
 1450814424,PA166153643,rs1801131,,,MTHFR,3,2.75,Efficacy,"Vitamin B-complex, Incl. Combinations","Depressive Disorder, Major"
@@ -10517,6 +10527,7 @@ caid,vid,variant,hid,haplotype,gene,evidence,score,phenotype,chemical,disease
 1450931850,,,PA165819221,CYP3A4*3,CYP3A4,3,2.75,Metabolism/PK,fentanyl,
 1450931850,,,PA165819244,CYP3A4*20,CYP3A4,3,2.75,Metabolism/PK,fentanyl,
 1450931850,,,PA166048680,CYP3A4*22,CYP3A4,3,2.75,Metabolism/PK,fentanyl,
+1450931850,,,,CYP3A4*36,CYP3A4,3,2.75,Metabolism/PK,fentanyl,
 1449311670,PA166157288,rs1128503,,,ABCB1,3,2.0,Efficacy,propofol,
 1449311670,PA166157288,rs1128503,,,ABCB1,3,2.0,Efficacy,remifentanil,
 1450815098,PA166184311,rs10170310,,,SPOPL,3,0.0,Efficacy,olanzapine,Schizophrenia
@@ -10736,6 +10747,7 @@ caid,vid,variant,hid,haplotype,gene,evidence,score,phenotype,chemical,disease
 1451133765,PA166157284,rs1045642,,,ABCB1,3,2.5,Efficacy,morphine,Pain
 1451133765,PA166157284,rs1045642,,,ABCB1,3,2.5,Efficacy,nortriptyline,Pain
 1451135140,,,PA165819201,CYP3A4*1,CYP3A4,3,1.5,Efficacy,sufentanil,
+1451135140,,,,CYP3A4*36,CYP3A4,3,1.5,Efficacy,sufentanil,
 1451815160,,,PA165816542,CYP2C9*1,CYP2C9,3,2.75,Efficacy,ketoprofen,"Pain, Postoperative"
 1451815160,,,PA165816544,CYP2C9*3,CYP2C9,3,2.75,Efficacy,ketoprofen,"Pain, Postoperative"
 1451135188,,,PA166128213,CYP3A5*1,CYP3A5,3,1.5,Dosage,sufentanil,
@@ -10772,6 +10784,7 @@ caid,vid,variant,hid,haplotype,gene,evidence,score,phenotype,chemical,disease
 1451550960,PA166176322,rs3804100,,,TLR2,3,2.5,Dosage,morphine,"Pain, Postoperative"
 1451138140,PA166205741,rs3762555,,,GAD1,3,3.0,Dosage,methadone,Heroin Dependence
 1451135160,,,PA165819201,CYP3A4*1,CYP3A4,3,2.0,Toxicity,sufentanil,Respiratory Insufficiency
+1451135160,,,,CYP3A4*36,CYP3A4,3,2.0,Toxicity,sufentanil,Respiratory Insufficiency
 1451144760,PA166157487,rs35599367,,,CYP3A,3,2.0,Metabolism/PK,alprazolam,
 1451144760,PA166157487,rs35599367,,,CYP3A4,3,2.0,Metabolism/PK,alprazolam,
 1451145100,PA166154841,rs588765,,,CHRNA5,3,0.0,Toxicity,cocaine,Cocaine-Related Disorders

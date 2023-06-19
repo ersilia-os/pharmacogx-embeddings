@@ -79,10 +79,9 @@ def create_table():
     data = pd.DataFrame(R, columns=cols)
     return data
 
-
 if __name__ == "__main__":
     df = create_table()
     df = df.drop_duplicates(keep = "first")
     df.to_csv(
-        os.path.join(processed_folder, "clinical_annotation_allele_.csv"), index=False
+        os.path.join(processed_folder, "clinical_annotation_allele.csv"), index=False
     )

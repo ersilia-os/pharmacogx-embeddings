@@ -66,28 +66,6 @@ def add_gid(df):
     df["gid"] = df["gene"].map(mapping_dict)
     return df
 
-
-def create_table():
-    c = CsvCleaner()
-    df = get_raw_files()
-    df = df[~df["Gene IDs"].isna()]
-    R = []
-    for r in df.values:
-        vid = c.stringify(r[0])
-        variant = c.stringify(r[1])
-        gid = c.inline_comma_splitter(r[2])
-        for g in gid:
-            r = [vid, variant, g]
-            R += [r]
-    cols = ["vid", "variant", "gid"]
-    data = pd.DataFrame(R, columns=cols)
-    genes = pd.read_csv(os.path.join(processed_folder, "gene.csv"))
-    genes = genes[["gid", "gene"]]
-    data_ = pd.merge(data, genes, on="gid", how="left")
-    data_.to_csv(os.path.join(processed_folder, "variant.csv"), index=False)
-    return data_
-
-
 if __name__ == "__main__":
     #data = create_table()
     data = get_raw_files()

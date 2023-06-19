@@ -70,7 +70,7 @@ PA166272721,EMA,1,1,-1,risdiplam,SMN2,,
 PA166184117,Swissmedic,3,-1,-1,carbasalate calcium,G6PD,,
 PA166184405,Swissmedic,3,1,1,brexpiprazole,CYP2D6,,
 PA166184114,Swissmedic,3,1,1,capecitabine,DPYD,,
-PA166184116,Swissmedic,1,1,-1,carbamazepine,HLA-B,,HLA-B*15:02:01
+PA166184116,Swissmedic,1,1,-1,carbamazepine,HLA-B,,
 PA166184122,Swissmedic,3,-1,-1,ciprofloxacin,G6PD,,
 PA166184124,Swissmedic,3,-1,-1,clomipramine,CYP2D6,,
 PA166184126,Swissmedic,3,1,-1,codeine,CYP2D6,,
@@ -144,9 +144,9 @@ PA166184461,Swissmedic,3,-1,-1,hydroxychloroquine,G6PD,,
 PA166183900,Swissmedic,3,-1,-1,moclobemide,CYP2C19,,
 PA166183910,Swissmedic,4,-1,-1,nebivolol,CYP2D6,,
 PA166184157,Swissmedic,3,1,-1,ofloxacin,G6PD,,
-PA166184173,Swissmedic,1,1,-1,oxcarbazepine,HLA-B,,HLA-B*15:02:01
+PA166184173,Swissmedic,1,1,-1,oxcarbazepine,HLA-B,,
 PA166184221,Swissmedic,4,-1,-1,palonosetron,CYP2D6,,
-PA166184268,Swissmedic,3,-1,-1,pazopanib,HLA-B,,HLA-B*15:02:01
+PA166184268,Swissmedic,3,-1,-1,pazopanib,HLA-B,,
 PA166184395,Swissmedic,3,-1,-1,propafenone,CYP2D6,,
 PA166184120,Swissmedic,3,1,-1,quinine,G6PD,,
 PA166184403,Swissmedic,3,1,-1,rasburicase,G6PD,,
@@ -220,8 +220,8 @@ PA166277721,HCSC,4,-1,-1,anifrolumab,IFNAR1,,
 PA166104860,FDA,3,1,-1,phenytoin,CYP2C19,,
 PA166104860,FDA,3,1,-1,phenytoin,CYP2C9,,CYP2C9*2
 PA166104860,FDA,3,1,-1,phenytoin,CYP2C9,,CYP2C9*3
-PA166104860,FDA,3,1,-1,phenytoin,HLA-B,,HLA-B*15:02:01
-PA166284241,HCSC,3,1,-1,fosphenytoin,HLA-B,,HLA-B*15:02:01
+PA166104860,FDA,3,1,-1,phenytoin,HLA-B,,
+PA166284241,HCSC,3,1,-1,fosphenytoin,HLA-B,,
 PA166284661,HCSC,4,-1,-1,pembrolizumab,BRAF,rs113488022,
 PA166284121,HCSC,1,1,-1,trastuzumab deruxtecan,ERBB2,,
 PA166224081,HCSC,4,-1,-1,oxcarbazepine,HLA-A,,
@@ -364,7 +364,7 @@ PA166184112,Swissmedic,3,1,1,azathioprine,TPMT,,
 PA166184427,Swissmedic,3,1,-1,ezetimibe / rosuvastatin,ABCG2,rs2231142,
 PA166184427,Swissmedic,3,1,-1,ezetimibe / rosuvastatin,SLCO1B1,rs4149056,
 PA166184383,Swissmedic,3,-1,-1,lapatinib,HLA-DQA1,,HLA-DQA1*02:01
-PA166184383,Swissmedic,3,-1,-1,lapatinib,HLA-DRB1,,HLA-DRB1*07:01:01:01
+PA166184383,Swissmedic,3,-1,-1,lapatinib,HLA-DRB1,,
 PA166183789,Swissmedic,3,1,-1,metabutethamine,G6PD,,
 PA166184155,Swissmedic,3,1,-1,nitrofurantoin,G6PD,,
 PA166184160,Swissmedic,4,-1,-1,ondansetron,CYP2D6,,
@@ -409,7 +409,7 @@ PA166105012,FDA,3,-1,-1,escitalopram,CYP2C19,,
 PA166105010,FDA,3,-1,-1,duloxetine,CYP2D6,,
 PA166105113,FDA,3,-1,-1,donepezil,CYP2D6,,
 PA166122947,EMA,3,-1,-1,ranolazine,CYP2D6,,
-PA166121326,EMA,3,-1,-1,pazopanib,HLA-B,,HLA-B*57:01:01
+PA166121326,EMA,3,-1,-1,pazopanib,HLA-B,,
 PA166122966,EMA,3,-1,-1,darifenacin,CYP2D6,,
 PA166122067,EMA,1,1,-1,ponatinib,ABL1,,
 PA166122067,EMA,1,1,-1,ponatinib,BCR,,
@@ -556,7 +556,7 @@ PA166104827,FDA,3,1,1,atomoxetine,CYP2D6,,
 PA166104843,FDA,3,1,1,celecoxib,CYP2C9,,CYP2C9*3
 PA166104811,FDA,4,-1,-1,quinidine,CYP2D6,,
 PA166104814,FDA,4,-1,-1,drospirenone / ethinyl estradiol,CYP2C19,,
-PA166104833,FDA,1,1,-1,abacavir,HLA-B,,HLA-B*57:01:01
+PA166104833,FDA,1,1,-1,abacavir,HLA-B,,
 PA166114903,FDA,1,1,-1,afatinib,EGFR,rs121434568,
 PA166104869,FDA,4,1,-1,galantamine,CYP2D6,,
 PA166104822,FDA,4,-1,-1,terbinafine,CYP2D6,,
@@ -641,7 +641,7 @@ PA166104905,EMA,2,1,-1,capecitabine,DPYD,,DPYD c.1679T>G (*13)
 PA166104905,EMA,2,1,-1,capecitabine,DPYD,,DPYD c.1905+1G>A (*2A)
 PA166104905,EMA,2,1,-1,capecitabine,DPYD,,DPYD c.2846A>T
 PA166104916,FDA,3,1,-1,codeine,CYP2D6,,
-PA166104896,EMA,1,1,-1,abacavir,HLA-B,,HLA-B*57:01:01
+PA166104896,EMA,1,1,-1,abacavir,HLA-B,,
 PA166104894,EMA,3,1,-1,rasburicase,G6PD,,
 PA166104895,FDA,3,-1,-1,erythromycin ethylsuccinate / sulfisoxazole acetyl,G6PD,,
 PA166104898,FDA,4,-1,-1,lansoprazole,CYP2C19,,
@@ -678,7 +678,7 @@ PA166114930,FDA,4,-1,-1,homoharringtonine,ABL1,,
 PA166114930,FDA,4,-1,-1,homoharringtonine,BCR,,
 PA166119825,EMA,1,1,-1,carglumic acid,NAGS,,
 PA166105240,FDA,4,-1,-1,rituximab,MS4A1,,
-PA166105058,FDA,3,-1,-1,pazopanib,HLA-B,,HLA-B*57:01:01
+PA166105058,FDA,3,-1,-1,pazopanib,HLA-B,,
 PA166105058,FDA,3,-1,-1,pazopanib,UGT1A1,,UGT1A1*28
 PA166121246,EMA,4,-1,-1,ibritumomab,MS4A1,,
 PA166121251,EMA,3,1,-1,mercaptopurine,NUDT15,rs116855232,
@@ -693,7 +693,7 @@ PA166159064,FDA,1,1,-1,elosulfase alfa,GALNS,,
 PA166159938,HCSC,4,-1,-1,belimumab,TNFSF13B,,
 PA166160288,HCSC,4,-1,-1,brentuximab vedotin,TNFRSF8,,
 PA166151878,FDA,3,-1,-1,lapatinib,HLA-DQA1,,HLA-DQA1*02:01
-PA166151878,FDA,3,-1,-1,lapatinib,HLA-DRB1,,HLA-DRB1*07:01:01:01
+PA166151878,FDA,3,-1,-1,lapatinib,HLA-DRB1,,
 PA166183246,EMA,1,1,-1,osimertinib,EGFR,,
 PA166182744,FDA,1,1,-1,lorlatinib,ALK,,
 PA166182749,FDA,3,-1,-1,lusutrombopag,F2,,
@@ -779,7 +779,7 @@ PA166183219,EMA,4,1,-1,mirabegron,CYP2D6,,
 PA166177479,FDA,4,-1,-1,cariprazine,CYP2D6,,
 PA166183442,EMA,2,-1,-1,vandetanib,RET,,
 PA166183441,EMA,4,-1,-1,umeclidinium,CYP2D6,,
-PA166183563,Swissmedic,1,1,-1,abacavir,HLA-B,,HLA-B*57:01:01
+PA166183563,Swissmedic,1,1,-1,abacavir,HLA-B,,
 PA166177514,FDA,3,-1,-1,mirabegron,CYP2D6,,
 PA166183243,EMA,1,1,-1,olaparib,BRCA1,,
 PA166183243,EMA,1,1,-1,olaparib,BRCA2,,
@@ -797,7 +797,7 @@ PA166160672,FDA,3,1,-1,tamsulosin,CYP2D6,,
 PA166182766,FDA,3,1,-1,fosphenytoin,CYP2C19,,
 PA166182766,FDA,3,1,-1,fosphenytoin,CYP2C9,,CYP2C9*2
 PA166182766,FDA,3,1,-1,fosphenytoin,CYP2C9,,CYP2C9*3
-PA166182766,FDA,3,1,-1,fosphenytoin,HLA-B,,HLA-B*15:02:01
+PA166182766,FDA,3,1,-1,fosphenytoin,HLA-B,,
 PA166170937,FDA,4,-1,-1,trametinib,G6PD,,
 PA166182928,EMA,1,1,-1,binimetinib,BRAF,rs113488022,
 PA166182932,EMA,3,-1,-1,brivaracetam,CYP2C19,,
@@ -885,7 +885,7 @@ PA166184565,FDA,4,-1,-1,tafamidis,TTR,,
 PA166184539,FDA,4,-1,-1,paliperidone,CYP2D6,,
 PA166184561,FDA,4,-1,-1,ramucirumab,KRAS,,
 PA166183172,EMA,3,-1,-1,lapatinib,HLA-DQA1,,HLA-DQA1*02:01
-PA166183172,EMA,3,-1,-1,lapatinib,HLA-DRB1,,HLA-DRB1*07:01:01:01
+PA166183172,EMA,3,-1,-1,lapatinib,HLA-DRB1,,
 PA166183220,EMA,1,1,-1,neratinib,ERBB2,,
 PA166183220,EMA,1,1,-1,neratinib,ESR1,,
 PA166183220,EMA,1,1,-1,neratinib,ESR2,,
@@ -960,7 +960,7 @@ PA166182947,EMA,1,1,-1,elosulfase alfa,GALNS,,
 PA166184127,Swissmedic,1,1,-1,acetaminophen / codeine,CYP2D6,,
 PA166184128,Swissmedic,3,-1,-1,acetaminophen / codeine,G6PD,,
 PA166184109,Swissmedic,3,-1,-1,aripiprazole,CYP2D6,,
-PA166184115,Swissmedic,2,1,-1,carbamazepine,HLA-A,,HLA-A*31:01:02
+PA166184115,Swissmedic,2,1,-1,carbamazepine,HLA-A,,
 PA166184118,Swissmedic,4,-1,-1,carvedilol,CYP2D6,,
 PA166184119,Swissmedic,3,-1,-1,celecoxib,CYP2C9,,CYP2C9*1
 PA166184119,Swissmedic,3,-1,-1,celecoxib,CYP2C9,,CYP2C9*3
@@ -1002,7 +1002,7 @@ PA166182951,EMA,3,1,-1,glyburide,G6PD,,
 PA166183171,EMA,4,-1,-1,lacosamide,CYP2C19,,
 PA166183183,EMA,3,-1,-1,lidocaine / prilocaine,G6PD,,
 PA166184345,Swissmedic,3,1,1,phenytoin,CYP2C9,,
-PA166184345,Swissmedic,3,1,1,phenytoin,HLA-B,,HLA-B*15:02:01
+PA166184345,Swissmedic,3,1,1,phenytoin,HLA-B,,
 PA166184373,Swissmedic,3,-1,-1,piroxicam,CYP2C9,,CYP2C9*2
 PA166184373,Swissmedic,3,-1,-1,piroxicam,CYP2C9,,CYP2C9*3
 PA166184381,Swissmedic,3,-1,-1,prilocaine,G6PD,,
@@ -1164,7 +1164,7 @@ PA166105028,FDA,4,1,-1,nebivolol,CYP2D6,,
 PA166131627,FDA,1,1,-1,osimertinib,EGFR,rs121434568,
 PA166131627,FDA,1,1,-1,osimertinib,EGFR,rs121434569,
 PA166115367,FDA,1,1,-1,velaglucerase alfa,GBA,,
-PA166105213,FDA,2,1,-1,oxcarbazepine,HLA-B,,HLA-B*15:02:01
+PA166105213,FDA,2,1,-1,oxcarbazepine,HLA-B,,
 PA166177475,FDA,1,1,-1,abemaciclib,ERBB2,,
 PA166177475,FDA,1,1,-1,abemaciclib,ESR1,,
 PA166177475,FDA,1,1,-1,abemaciclib,ESR2,,

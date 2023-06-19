@@ -178,7 +178,7 @@ def deconv_variant(df):
     return data
 
 def sep_var(df):
-    df1 = pd.read_csv(os.path.join(processed_folder, "variant.csv"))
+    df1 = pd.read_csv(os.path.join(processed_folder, "variant_complete.csv"))
     df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
     R = []
     for r in df.values:

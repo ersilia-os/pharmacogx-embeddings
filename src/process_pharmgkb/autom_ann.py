@@ -90,8 +90,6 @@ def add_gid(df):
 if __name__ == "__main__":
     data = get_raw_files()
     data = deconv_genomic_var(data)
-    print(data.head(5))
     data = deconv_gene(data)
-    print(data.head(5))
     data = add_gid(data)
     data.to_csv(os.path.join(processed_folder, "autom_ann.csv"),index=False,)

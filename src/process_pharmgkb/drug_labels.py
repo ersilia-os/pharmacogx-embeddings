@@ -75,7 +75,7 @@ def deconv_gene(df):
 
 def deconv_hap_variant(df):
     c = CsvCleaner()
-    vars = pd.read_csv(os.path.join(processed_folder, "variant.csv"))
+    vars = pd.read_csv(os.path.join(processed_folder, "variant_complete.csv"))
     haps = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
     variants = vars["variant"].tolist()
     haplotypes = haps["haplotype"].tolist()
