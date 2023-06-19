@@ -51,7 +51,7 @@ def create_table_from_manual_curation():
         for b in bid:
             r = [sid, aid, b]
             R += [r]
-    cols = ["sid", "aid", "bid"]
+    cols = ["sid", "vaid", "bid"]
     data = pd.DataFrame(R, columns=cols)
     data.to_csv(os.path.join(processed_folder, "study_bio_group.csv"), index=False)
     return data
