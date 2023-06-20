@@ -13,6 +13,11 @@ haps_path = os.path.join(data_folder, "pharmgkb", "haplotypes")
 
 def create_allele_definition_file(df):
     hap_dict = {}
+    ch_position = df.iat[2, 0]
+    if "NC_" in ch_position:
+        ch = ch_position.split()[2]
+    else:
+        ch = None
     for i, r in enumerate(df.values):
         if i == 0:
             starts = r[1:]
@@ -45,6 +50,10 @@ def create_allele_definition_file(df):
             df_rows.append([key] + value)
     df1 = pd.DataFrame(df_rows)
     df1.columns = ["haplotype_number", "rsID", "start", "protein", "NC", "NG"]
+    df1 = df1.replace(np.nan, None)
+    df1 = df1.applymap(lambda x: x.rstrip() if isinstance(x, str) else x)
+    if ch != None:
+        df1['NC'] = df1['NC'].apply(lambda x: f'{ch}:{x}' if x else None)
     df1["gene"] = [g] * len(df1)
     df1["haplotype"] = df1.apply(
         lambda row: row["gene"] + str(row["haplotype_number"])
@@ -89,10 +98,11 @@ if __name__ == "__main__":
     gene_list =  sorted(gene_list)
     haps_not_list = []
     for g in gene_list:
+        print(g)
         data = pd.read_csv(os.path.join(haps_path, "{}_allele_definition_table.csv".format(g)))
         data = create_allele_definition_file(data)
         data, haps_not = add_hid_from_url(data)
-        data.to_csv(os.path.join(processed_folder, "haplotypes_", "{}_haplotypes.csv".format(g)), index=False)
+        data.to_csv(os.path.join(processed_folder, "haplotypes", "{}_haplotypes.csv".format(g)), index=False)
         haps_not_list += [haps_not]
     df = pd.DataFrame(haps_not_list, columns=["haplotype"])
     df.to_csv(os.path.join(processed_folder,"haplotypes", "manual_curation.csv"), index=False) #manually check the haplotypes without url and add them
