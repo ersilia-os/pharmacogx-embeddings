@@ -50,6 +50,10 @@ def deconv_genomic_var(df):
         R += [r_]
     cols = ["chemical", "cid", "gene", "variant", "vid", "haplotype", "hid"]
     data = pd.DataFrame(R, columns=cols)
+
+    print(data.shape)
+    data = data.drop_duplicates(keep="first")
+    print(data.shape)
     return data
 
 def deconv_gene(df):
@@ -63,7 +67,6 @@ def deconv_gene(df):
         vid = r[4]
         hap = r[5]
         hid = r[6]
-        print(gene)
         for g in gene:
             r_ = [
                 chemical,
@@ -77,6 +80,9 @@ def deconv_gene(df):
             R += [r_]
     cols = ["chemical", "cid", "gene", "variant", "vid", "haplotype", "hid"]
     data = pd.DataFrame(R, columns=cols)
+    print(data.shape)
+    data = data.drop_duplicates(keep="first")
+    print(data.shape)
     return data
 
 def add_gid(df):
@@ -84,7 +90,6 @@ def add_gid(df):
     mapping_dict = gene_df.set_index("gene")["gid"].to_dict()
     df["gid"] = df["gene"].map(mapping_dict)
     return df
-
 
 
 if __name__ == "__main__":
