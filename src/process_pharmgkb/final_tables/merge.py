@@ -13,8 +13,9 @@ df1 = pd.read_csv(os.path.join(final_folder, "clinical_annotation.csv"))
 df2 = pd.read_csv(os.path.join(final_folder, "clinical_variant.csv"), low_memory=False)
 df3 = pd.read_csv(os.path.join(final_folder, "var_drug_ann.csv"))
 df4 = pd.read_csv(os.path.join(final_folder, "var_pheno_ann.csv"))
+df5 = pd.read_csv(os.path.join(final_folder, "autom_ann.csv"))
 
-data = pd.concat([df1, df2, df3, df4])
+data = pd.concat([df1, df2, df3, df4, df5])
 
 print(data.shape)
 data = data.drop_duplicates(keep="first")
