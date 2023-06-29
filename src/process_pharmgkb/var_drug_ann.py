@@ -194,6 +194,9 @@ def sep_var(df):
         "chemical",
     ]
     data = pd.DataFrame(R, columns=cols)
+    print(data.shape)
+    data = data.drop_duplicates(keep = "first")
+    print(data.shape)
     return data
 
 
@@ -202,6 +205,9 @@ def append_study(df):
     df_ = pd.read_csv(os.path.join(processed_folder, "study_parameters.csv"))
     df_["vaid"] = df_["vaid"].astype(str)
     data = pd.merge(df, df_, on="vaid", how="left")
+    print(data.shape)
+    data = data.drop_duplicates(keep = "first")
+    print(data.shape)
     return data
 
 

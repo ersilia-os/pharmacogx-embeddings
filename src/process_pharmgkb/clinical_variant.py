@@ -219,6 +219,9 @@ def sep_var(df):
         "disease",
     ]
     data = pd.DataFrame(R, columns=cols)
+    print(data.shape)
+    data = data.drop_duplicates(keep = "first")
+    print(data.shape)
     return data
 
 
