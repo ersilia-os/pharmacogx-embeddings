@@ -11,10 +11,12 @@ from pharmgkb import RawData
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
+
 def get_raw_files():
     r = RawData()
     df = r.clinical_ann_alleles
     return df
+
 
 def create_table():
     c = CsvCleaner()
@@ -79,9 +81,10 @@ def create_table():
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 if __name__ == "__main__":
     df = create_table()
-    df = df.drop_duplicates(keep = "first")
+    df = df.drop_duplicates(keep="first")
     df.to_csv(
         os.path.join(processed_folder, "clinical_annotation_allele.csv"), index=False
     )

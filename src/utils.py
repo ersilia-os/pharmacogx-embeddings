@@ -4,7 +4,7 @@ import re
 class CsvCleaner:
     def __init__(self) -> None:
         super().__init__()
-    
+
     @staticmethod
     def _str(x):
         if str(x) == "nan":
@@ -14,7 +14,7 @@ class CsvCleaner:
         if str(x) == "None":
             return None
         else:
-            return str(x)        
+            return str(x)
 
     def stringify(self, x):
         return self._str(x)

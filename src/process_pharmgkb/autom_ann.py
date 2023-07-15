@@ -19,10 +19,13 @@ def get_raw_files():
     autom_ann = r.automated_annotations
     return autom_ann
 
+
 def deconv_genomic_var(df):
     c = CsvCleaner()
     R = []
-    df = df[~df["Gene Symbols"].isna()] #many automated annotations do not have an associated gene because they refer to viral or bacterial genes. These have been removed to avoid confusion
+    df = df[
+        ~df["Gene Symbols"].isna()
+    ]  # many automated annotations do not have an associated gene because they refer to viral or bacterial genes. These have been removed to avoid confusion
     for r in df.values:
         cid = c.stringify(r[0])
         chemical = c.stringify(r[1])
@@ -56,6 +59,7 @@ def deconv_genomic_var(df):
     print(data.shape)
     return data
 
+
 def deconv_gene(df):
     c = CsvCleaner()
     R = []
@@ -85,6 +89,7 @@ def deconv_gene(df):
     print(data.shape)
     return data
 
+
 def add_gid(df):
     gene_df = pd.read_csv(os.path.join(processed_folder, "gene.csv"))
     mapping_dict = gene_df.set_index("gene")["gid"].to_dict()
@@ -97,4 +102,7 @@ if __name__ == "__main__":
     data = deconv_genomic_var(data)
     data = deconv_gene(data)
     data = add_gid(data)
-    data.to_csv(os.path.join(processed_folder, "autom_ann.csv"),index=False,)
+    data.to_csv(
+        os.path.join(processed_folder, "autom_ann.csv"),
+        index=False,
+    )

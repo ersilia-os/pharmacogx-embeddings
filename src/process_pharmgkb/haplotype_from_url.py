@@ -11,6 +11,7 @@ data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 haps_path = os.path.join(data_folder, "pharmgkb", "haplotypes")
 
+
 def create_allele_definition_file(df):
     hap_dict = {}
     ch_position = df.iat[2, 0]
@@ -53,7 +54,7 @@ def create_allele_definition_file(df):
     df1 = df1.replace(np.nan, None)
     df1 = df1.applymap(lambda x: x.rstrip() if isinstance(x, str) else x)
     if ch != None:
-        df1['NC'] = df1['NC'].apply(lambda x: f'{ch}:{x}' if x else None)
+        df1["NC"] = df1["NC"].apply(lambda x: f"{ch}:{x}" if x else None)
     df1["gene"] = [g] * len(df1)
     df1["haplotype"] = df1.apply(
         lambda row: row["gene"] + str(row["haplotype_number"])
@@ -63,11 +64,13 @@ def create_allele_definition_file(df):
     )
     return df1
 
+
 def add_hid_from_file(df):
     df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
     df2 = df2[["hid", "haplotype"]]
     data = pd.merge(df, df2, on="haplotype", how="left")
     return data
+
 
 def add_hid_from_url(df):
     haps = list(set(df["haplotype"].tolist()))
@@ -86,6 +89,7 @@ def add_hid_from_url(df):
     df["hid"] = df["haplotype"].map(haps_dict)
     return df, haps_not
 
+
 if __name__ == "__main__":
     filenames = os.listdir(haps_path)
     gene_list = []
@@ -95,14 +99,21 @@ if __name__ == "__main__":
             if fn[-3:] == "csv":
                 gene = fn.split("_")[0]
                 gene_list += [gene]
-    gene_list =  sorted(gene_list)
+    gene_list = sorted(gene_list)
     haps_not_list = []
     for g in gene_list:
         print(g)
-        data = pd.read_csv(os.path.join(haps_path, "{}_allele_definition_table.csv".format(g)))
+        data = pd.read_csv(
+            os.path.join(haps_path, "{}_allele_definition_table.csv".format(g))
+        )
         data = create_allele_definition_file(data)
         data, haps_not = add_hid_from_url(data)
-        data.to_csv(os.path.join(processed_folder, "haplotypes", "{}_haplotypes.csv".format(g)), index=False)
+        data.to_csv(
+            os.path.join(processed_folder, "haplotypes", "{}_haplotypes.csv".format(g)),
+            index=False,
+        )
         haps_not_list += [haps_not]
     df = pd.DataFrame(haps_not_list, columns=["haplotype"])
-    df.to_csv(os.path.join(processed_folder,"haplotypes", "manual_curation.csv"), index=False) #manually check the haplotypes without url and add them
+    df.to_csv(
+        os.path.join(processed_folder, "haplotypes", "manual_curation.csv"), index=False
+    )  # manually check the haplotypes without url and add them

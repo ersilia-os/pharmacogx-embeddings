@@ -11,7 +11,6 @@ class BioGPTEmbedder(object):
     def calculate(self, text_inputs):
         X = np.zeros((len(text_inputs), 1024), dtype=np.float32)
         for i, text in enumerate(text_inputs):
-            text = "Replace me by any text you'd like."
             encoded_input = self.tokenizer(text, return_tensors="pt")
             with torch.no_grad():
                 hidden_states = self.model.base_model(**encoded_input).last_hidden_state

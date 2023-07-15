@@ -9,6 +9,7 @@ sys.path.append(os.path.join(root, ".."))
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
+
 def download_table(gene_name):
     url = f"https://api.pharmgkb.org/v1/download/file/attachment/{gene_name}_allele_definition_table.xlsx"
     response = requests.get(url)
@@ -34,6 +35,7 @@ def download_table(gene_name):
         print(f"No table found for gene: {gene_name}")
         return gene_name
 
+
 df1 = pd.read_csv(os.path.join(processed_folder, "clinical_annotation.csv"))
 df2 = pd.read_csv(os.path.join(processed_folder, "clinical_variant.csv"))
 df3 = pd.read_csv(os.path.join(processed_folder, "var_drug_ann.csv"))
@@ -55,4 +57,6 @@ for gn in gene_names:
     if gene_name is not None:
         no_file += [gene_name]
 df = pd.DataFrame(no_file, columns=["gene"])
-df.to_csv(os.path.join(data_folder, "pharmgkb","haplotypes", "nofile.csv"), index=False) #manually download the ones without file
+df.to_csv(
+    os.path.join(data_folder, "pharmgkb", "haplotypes", "nofile.csv"), index=False
+)  # manually download the ones without file

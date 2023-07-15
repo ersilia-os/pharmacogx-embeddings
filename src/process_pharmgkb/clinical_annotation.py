@@ -17,6 +17,7 @@ def get_raw_files():
     df = r.clinical_annotations
     return df
 
+
 def deconv_disease(df):
     c = CsvCleaner()
     R = []
@@ -48,6 +49,7 @@ def deconv_disease(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_chemical(df):
     c = CsvCleaner()
@@ -81,6 +83,7 @@ def deconv_chemical(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def deconv_pheno(df):
     c = CsvCleaner()
     R = []
@@ -112,6 +115,7 @@ def deconv_pheno(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_gene(df):
     c = CsvCleaner()
@@ -145,6 +149,7 @@ def deconv_gene(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def deconv_variant(df):
     c = CsvCleaner()
     R = []
@@ -177,6 +182,7 @@ def deconv_variant(df):
     data = pd.DataFrame(R, columns=cols)
     return data
 
+
 def sep_var(df):
     df1 = pd.read_csv(os.path.join(processed_folder, "variant_complete.csv"))
     df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
@@ -191,12 +197,21 @@ def sep_var(df):
         chemical = r[6]
         disease = r[7]
         if var_hap.startswith("HLA-"):
-            var_hap =':'.join(var_hap.split(':')[:2])
+            var_hap = ":".join(var_hap.split(":")[:2])
         if var_hap == "G6PD B (wildtype)":
             var_hap = "G6PD B (reference)"
-        g6pd_list1 = ["G6PD Mediterranean", "Dallas", "Panama", "Sassari", "Cagliari", "Birmingham", ]
+        g6pd_list1 = [
+            "G6PD Mediterranean",
+            "Dallas",
+            "Panama",
+            "Sassari",
+            "Cagliari",
+            "Birmingham",
+        ]
         if var_hap in g6pd_list1:
-            var_hap = "G6PD Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham"
+            var_hap = (
+                "G6PD Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham"
+            )
         g6pd_list2 = ["G6PD Canton", "Taiwan-Hakka", "Gifu-like", "Agrigento-like"]
         if var_hap in g6pd_list2:
             var_hap = "G6PD Canton, Taiwan-Hakka, Gifu-like, Agrigento-like"
@@ -260,7 +275,7 @@ def sep_var(df):
         "disease",
     ]
     data = pd.DataFrame(R, columns=cols)
-    data = data.drop_duplicates(keep = "first")
+    data = data.drop_duplicates(keep="first")
     return data
 
 

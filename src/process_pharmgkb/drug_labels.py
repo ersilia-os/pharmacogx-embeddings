@@ -12,10 +12,12 @@ from pharmgkb import RawData
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
+
 def get_raw_files():
     r = RawData()
     df = r.drug_labels
     return df
+
 
 def deconv_gene(df):
     c = CsvCleaner()
@@ -72,6 +74,7 @@ def deconv_gene(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def deconv_hap_variant(df):
     c = CsvCleaner()
@@ -257,6 +260,7 @@ def deconv_chemical(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 if __name__ == "__main__":
     df = get_raw_files()

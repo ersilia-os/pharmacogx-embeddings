@@ -18,13 +18,16 @@ def get_raw_files():
     df = r.variants
     return df
 
+
 def get_gene_from_variant(variant):
     var_dict = {}
     try:
-        url = "https://api.pharmgkb.org/v1/data/variant/?symbol={}&view=max".format(variant)
+        url = "https://api.pharmgkb.org/v1/data/variant/?symbol={}&view=max".format(
+            variant
+        )
         response = requests.get(url)
         data = response.json()
-        related_genes = [gene['symbol'] for gene in data['data'][0]['relatedGenes']]
+        related_genes = [gene["symbol"] for gene in data["data"][0]["relatedGenes"]]
         print(related_genes)
         if len(related_genes) > 0:
             var_dict[variant] = related_genes
@@ -32,7 +35,8 @@ def get_gene_from_variant(variant):
         print(variant)
     return var_dict
 
-def add_genes(df): #check that no variant is missing genes that should be there
+
+def add_genes(df):  # check that no variant is missing genes that should be there
     c = CsvCleaner()
     for r in df.values:
         variant = c.stringify(r[1])
@@ -41,6 +45,7 @@ def add_genes(df): #check that no variant is missing genes that should be there
             print(variant)
             var_dict = get_gene_from_variant(variant)
             print(var_dict)
+
 
 def deconv_genes(df):
     c = CsvCleaner()
@@ -55,10 +60,11 @@ def deconv_genes(df):
                 R += [r]
         else:
             r = [vid, variant, None]
-            R += [r]            
+            R += [r]
     cols = ["vid", "variant", "gene"]
     data = pd.DataFrame(R, columns=cols)
     return data
+
 
 def add_gid(df):
     gene_df = pd.read_csv(os.path.join(processed_folder, "gene.csv"))
@@ -66,10 +72,11 @@ def add_gid(df):
     df["gid"] = df["gene"].map(mapping_dict)
     return df
 
+
 if __name__ == "__main__":
-    #data = create_table()
+    # data = create_table()
     data = get_raw_files()
-    #data = add_genes(data) #no variant seems to miss a gene
+    # data = add_genes(data) #no variant seems to miss a gene
     data = deconv_genes(data)
     data = add_gid(data)
     data.to_csv(os.path.join(processed_folder, "variant.csv"), index=False)
