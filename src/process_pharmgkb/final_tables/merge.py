@@ -14,10 +14,11 @@ df2 = pd.read_csv(os.path.join(final_folder, "clinical_variant.csv"), low_memory
 df3 = pd.read_csv(os.path.join(final_folder, "var_drug_ann.csv"))
 df4 = pd.read_csv(os.path.join(final_folder, "var_pheno_ann.csv"))
 df5 = pd.read_csv(os.path.join(final_folder, "autom_ann.csv"))
+df6 = pd.read_csv(os.path.join(final_folder, "drug_label.csv"))
 
-data = pd.concat([df1, df2, df3, df4, df5])
+data = pd.concat([df1, df2, df3, df4, df5, df6])
 
 print(data.shape)
 data = data.drop_duplicates(keep="first")
 print(data.shape)
-data.to_csv(os.path.join(final_folder, "pgkb_merged.csv"), index=False)
+data.to_csv(os.path.join(final_folder, "pgkb_merged_.csv"), index=False)
