@@ -35,7 +35,7 @@ class ProteinSequenceEmbedding(object):
     def get(self, as_dataframe=True):
         if self.embedding_type == "esm1b":
             X, keys = self._get_esm1b()
-        if self.embedding_type == "prots5":
+        if self.embedding_type == "prot5":
             X, keys = self._get_prots5()
         if not as_dataframe:
             return X, keys

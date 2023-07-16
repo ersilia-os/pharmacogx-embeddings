@@ -6,8 +6,8 @@ root = os.path.dirname(os.path.abspath(__file__))
 bioteque_path = os.path.abspath(os.path.join(root, "..", "data", "bioteque"))
 
 
-class BiotequeGeneEmbeddings(object):
-    def __init__(self, metapath, dataset):
+class BiotequeGeneEmbedding(object):
+    def __init__(self, metapath="GEN-ppi-GEN", dataset="string"):
         self.metapath = metapath
         self.dataset = dataset
         self.h5_file = os.path.join(bioteque_path, metapath, dataset, "GEN_emb.h5")
@@ -19,6 +19,10 @@ class BiotequeGeneEmbeddings(object):
             if not os.path.isdir(os.path.join(bioteque_path, fn)):
                 continue
             for fm in os.listdir(os.path.join(bioteque_path, fn)):
+                if not os.path.exists(
+                    os.path.join(bioteque_path, fn, fm, "GEN_emb.h5")
+                ):
+                    continue
                 R += [(fn, fm)]
         df = pd.DataFrame(R, columns=["metapath", "dataset"])
         return df
