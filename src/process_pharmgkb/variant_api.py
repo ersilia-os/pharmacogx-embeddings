@@ -6,12 +6,8 @@ import pandas as pd
 root = os.path.abspath(os.path.dirname(__file__))
 sys.path.append(os.path.join(root, ".."))
 
-from utils import CsvCleaner
-
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
-
-df = pd.read_csv(os.path.join(processed_folder, "variant_complete.csv"))
 
 def get_json(df):
     vids = list(set(df["vid"].tolist()))
@@ -23,14 +19,24 @@ def get_json(df):
             response = requests.get(url)
             data = response.json()
             locations = data["data"]["locations"]
-            assembly = locations[0]["assembly"]
-            begin = locations[0]["begin"]
-            end = locations[0]["end"]
-            intronic_offset = locations[0]["intronicOffset"]
-            ref_allele = locations[0]["referenceAllele"]
-            ref_hgvs = locations[0]["referenceHgvs"]
-            chr = locations[0]["sequence"]["name"]
-            vids_dict[vid] = [assembly, begin, end, intronic_offset, ref_allele, ref_hgvs, chr]
+            try:
+                assembly = locations[0]["assembly"]
+                begin = locations[0]["begin"]
+                end = locations[0]["end"]
+                intronic_offset = locations[0]["intronicOffset"]
+                ref_allele = locations[0]["referenceAllele"]
+                ref_hgvs = locations[0]["referenceHgvs"]
+                chr = locations[0]["sequence"]["name"]
+                vids_dict[vid] = [assembly, begin, end, intronic_offset, ref_allele, ref_hgvs, chr]
+            except:
+                assembly = locations[1]["assembly"]
+                begin = locations[1]["begin"]
+                end = locations[1]["end"]
+                intronic_offset = locations[1]["intronicOffset"]
+                ref_allele = locations[1]["referenceAllele"]
+                ref_hgvs = locations[1]["referenceHgvs"]
+                chr = locations[1]["sequence"]["name"]
+                vids_dict[vid] = [assembly, begin, end, intronic_offset, ref_allele, ref_hgvs, chr]
         except:
             print(vid)
     return vids_dict
