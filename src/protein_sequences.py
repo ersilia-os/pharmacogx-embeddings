@@ -13,7 +13,7 @@ class ProteinSequenceEmbedding(object):
         self.embedding_type = embedding_type
 
     def available(self):
-        return ["esm1b", "prot5"]
+        return ["esm1b", "prot5", "uniprot"]
 
     def _get_prots5(self):
         with h5py.File(os.path.join(data_folder, "human_proteome_prots5.h5"), "r") as f:
@@ -32,11 +32,24 @@ class ProteinSequenceEmbedding(object):
             X = f["Values"][:]
         return X, uniprot_acs
 
+    def _get_uniprot(self):
+        with h5py.File(
+            os.path.join(data_folder, "human_proteome_uniprot.h5"), "r"
+        ) as f:
+            X = np.zeros((len(f.items()), 1024))
+            uniprot_acs = []
+            for i, r in enumerate(f.items()):
+                uniprot_acs += [r[0]]
+                X[i, :] = np.array(r[1])
+        return X, uniprot_acs
+
     def get(self, as_dataframe=True):
         if self.embedding_type == "esm1b":
             X, keys = self._get_esm1b()
         if self.embedding_type == "prot5":
             X, keys = self._get_prots5()
+        if self.embedding_type == "uniprot":
+            X, keys = self._get_uniprot()
         if not as_dataframe:
             return X, keys
         cols = ["key"] + ["f-{0}".format(str(i).zfill(3)) for i in range(X.shape[1])]
@@ -46,3 +59,32 @@ class ProteinSequenceEmbedding(object):
             R += [r]
         df = pd.DataFrame(R, columns=cols)
         return df
+
+
+class ProteinSequencePerResidueEmbedding(object):
+    def __init__(self, embedding_type="uniprot"):
+        assert embedding_type in self.available()
+
+    def available(self):
+        return ["uniprot"]
+
+    def _get_uniprot(self, uniprot_acs):
+        d = {}
+        with h5py.File(
+            os.path.join(
+                data_folder,
+                "..",
+                "variants",
+                "residue_level_embeddings",
+                "human_proteome_uniprot_per_residue.h5",
+            ),
+            "r",
+        ) as f:
+            for uniprot_ac in uniprot_acs:
+                data = f[uniprot_ac]
+                d[uniprot_ac] = np.array(data[:])
+        return d
+
+    def get(self, uniprot_acs=None):
+        data = self._get_uniprot(uniprot_acs=uniprot_acs)
+        return data

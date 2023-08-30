@@ -87,3 +87,75 @@ Sometimes types of mutations are selected that have more than one effect, some o
     - Possibly an ID related to a specific variant database or consortium.
 - **dbNSFP_Interpro_domain**: 
     - Indicates any protein domains, as per the Interpro database, that might be impacted by the variant.
+
+# Auxiliary information
+
+The SnpEff output contains some fields that can be disclosed. For example, **gene biotypes**:
+
+# Gene Biotypes
+
+## Protein-coding related
+
+| Biotype | Description |
+| ------- | ----------- |
+| protein_coding | Genes that code for proteins. |
+| nonsense_mediated_decay | Genes with transcripts that are subject to Nonsense-Mediated Decay. |
+| non_stop_decay | Transcripts that have an open reading frame but lack a stop codon. |
+| ambiguous_orf | Transcripts with an uncertain coding potential. |
+| disrupted_domain | Transcripts that contain a frameshift within their coding sequence. |
+
+## Non-coding RNA genes
+
+| Biotype | Description |
+| ------- | ----------- |
+| lncRNA | Long non-coding RNA genes. |
+| miRNA | MicroRNA genes, which produce small RNAs involved in gene silencing. |
+| snRNA | Small nuclear RNA genes, usually involved in splicing. |
+| snoRNA | Small nucleolar RNA genes, mainly involved in rRNA modification. |
+| rRNA | Ribosomal RNA genes. |
+| tRNA | Transfer RNA genes. |
+| pseudogene | Non-functional sequences that resemble functional genes. |
+| Mt_tRNA | Mitochondrial tRNA genes. |
+| Mt_rRNA | Mitochondrial rRNA genes. |
+
+## Immunoglobulin/T-cell receptor genes
+
+| Biotype | Description |
+| ------- | ----------- |
+| IG_C_gene | Immunoglobulin Constant gene. |
+| IG_D_gene | Immunoglobulin Diversity gene. |
+| IG_J_gene | Immunoglobulin Joining gene. |
+| IG_V_gene | Immunoglobulin Variable gene. |
+| TR_C_gene | T-cell receptor Constant gene. |
+| TR_D_gene | T-cell receptor Diversity gene. |
+| TR_J_gene | T-cell receptor Joining gene. |
+| TR_V_gene | T-cell receptor Variable gene. |
+
+## Other types
+
+| Biotype | Description |
+| ------- | ----------- |
+| misc_RNA | Miscellaneous RNA genes not classified elsewhere. |
+| scaRNA | Small Cajal body-specific RNA genes. |
+| vaultRNA | Vault RNA genes. |
+| bidirectional_promoter_lncRNA | Non-coding RNA genes that originate from bidirectional promoters. |
+| retained_intron | Transcripts that retain an intron. |
+
+## Pseudogenes
+
+| Biotype | Description |
+| ------- | ----------- |
+| processed_pseudogene | Pseudogenes derived from retrotransposition. |
+| unprocessed_pseudogene | Direct duplications of genes. |
+| polymorphic_pseudogene | Pseudogenes with some functional alleles in the population. |
+| transcribed_processed_pseudogene | Transcribed processed pseudogenes. |
+| transcribed_unprocessed_pseudogene | Transcribed unprocessed pseudogenes. |
+| transcribed_unitary_pseudogene | Transcribed pseudogenes with no functional counterparts. |
+| unitary_pseudogene | Pseudogenes with no functional counterparts in the genome. |
+
+## Others
+
+| Biotype | Description |
+| ------- | ----------- |
+| TEC | To be Experimentally Confirmed. |
+| macro_lncRNA | Very long non-coding RNA genes. |

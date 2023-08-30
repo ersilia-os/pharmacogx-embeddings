@@ -5,13 +5,12 @@ import pandas as pd
 root = os.path.abspath(os.path.dirname(__file__))
 sys.path.append(os.path.join(root, ".."))
 
-data_folder = os.path.abspath(os.path.join(root,"..", "..", "..", "data"))
+data_folder = os.path.abspath(os.path.join(root, "..", "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 
 dl = pd.read_csv(os.path.join(processed_folder, "drug_labels.csv"))
 
 dl = dl[["chemical", "gene", "variant", "haplotype"]]
-
 
 
 def hap_to_var(df):
@@ -53,7 +52,7 @@ def clean_haps(df):
 
 
 def add_empty_cols(df):
-    df["evidence"] =  None
+    df["evidence"] = None
     df["phenotype"] = None
     df["did"] = None
     df["disease"] = None
@@ -63,11 +62,12 @@ def add_empty_cols(df):
     df["caid"] = None
     return df
 
+
 if __name__ == "__main__":
     dl = pd.read_csv(os.path.join(processed_folder, "drug_labels.csv"))
     print(dl.shape)
     dl = dl[["chemical", "gene", "variant", "haplotype"]]
-    dl.drop_duplicates(keep = "first", inplace=True)
+    dl.drop_duplicates(keep="first", inplace=True)
     print(dl.shape)
     data = hap_to_var(dl)
     data = add_gid_ensembl_id(data)
@@ -94,5 +94,6 @@ if __name__ == "__main__":
             "vaid",
         ]
     ]
-    data.to_csv(os.path.join(processed_folder, "final_tables", "drug_label.csv"), index=False)
-
+    data.to_csv(
+        os.path.join(processed_folder, "final_tables", "drug_label.csv"), index=False
+    )
