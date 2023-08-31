@@ -13,9 +13,24 @@ from biogpt import BioGPTEmbedder
 
 data_path = os.path.join(root, "..", "data", "gwas_ebi")
 
-df = pd.read_csv(os.path.join(data_path, "gwas_catalog_v1.0.2-associations_e110_r2023-07-29.tsv"), sep="\t", low_memory=False)
+df = pd.read_csv(
+    os.path.join(data_path, "gwas_catalog_v1.0.2-associations_e110_r2023-07-29.tsv"),
+    sep="\t",
+    low_memory=False,
+)
 
-columns = ["DISEASE/TRAIT", "MAPPED_TRAIT", "PVALUE_MLOG", "MAPPED_GENE", "REPORTED GENE(S)", "STRONGEST SNP-RISK ALLELE", "SNPS", "MERGED", "SNP_ID_CURRENT", "INTERGENIC"]
+columns = [
+    "DISEASE/TRAIT",
+    "MAPPED_TRAIT",
+    "PVALUE_MLOG",
+    "MAPPED_GENE",
+    "REPORTED GENE(S)",
+    "STRONGEST SNP-RISK ALLELE",
+    "SNPS",
+    "MERGED",
+    "SNP_ID_CURRENT",
+    "INTERGENIC",
+]
 df = df[columns]
 df = df[df["MAPPED_TRAIT"].notnull()]
 df = df[df["PVALUE_MLOG"] >= 2]
@@ -31,7 +46,7 @@ for v in df[["SNPS", "MAPPED_TRAIT"]].values:
         for trait in traits:
             snp2traits[snp] += [trait]
 
-snp2traits = dict((k, list(set(v))) for k,v in snp2traits.items())
+snp2traits = dict((k, list(set(v))) for k, v in snp2traits.items())
 
 snp2genes = collections.defaultdict(list)
 
@@ -42,9 +57,9 @@ for v in df[["SNPS", "MAPPED_GENE"]].values:
         for gene in genes:
             snp2genes[snp] += [gene]
 
-snp2genes = dict((k, list(set(v))) for k,v in snp2genes.items())
+snp2genes = dict((k, list(set(v))) for k, v in snp2genes.items())
 
-all_snps = sorted(set([k for k,v in snp2traits.items()]))
+all_snps = sorted(set([k for k, v in snp2traits.items()]))
 
 texts = []
 for snp in all_snps:
@@ -69,7 +84,7 @@ X = np.zeros((dt.shape[0], 1024))
 keys = []
 for i, v in tqdm(enumerate(dt.values)):
     keys += [v[0]]
-    X[i,:] = embedder.calculate([v[1]])[0]
+    X[i, :] = embedder.calculate([v[1]])[0]
 
 h5_output = os.path.join(data_path, "gwas_catalog_biogpt_embeddings.h5")
 with h5py.File(h5_output, "w") as f:

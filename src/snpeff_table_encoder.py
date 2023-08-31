@@ -1,6 +1,12 @@
 import pandas as pd
 import numpy as np
+import re
+import os
+from tqdm import tqdm
 from .biogpt import BioGPTEmbedder
+from .protein_sequences import ProteinSequencePerResidueEmbedding
+
+root = os.path.dirname(os.path.abspath(__file__))
 
 
 class SnpEffTableEncoder(object):
@@ -185,3 +191,73 @@ class SnpEffTableEncoder(object):
             return self._predictions(data)
         if self.subset == "other":
             return self._other(data)
+
+
+class SnpEffMissensePositionEmbedding(object):
+    def __init__(self):
+        self.embedder = ProteinSequencePerResidueEmbedding(embedding_type="uniprot")
+
+    def _extract_position(self, string):
+        string = str(string)
+        if not string.startswith("p."):
+            return None
+        match = re.search(r"\d+", string)
+        if match:
+            return int(match.group())
+        else:
+            return None
+
+    def _extract_positions(self, mutations):
+        positions = []
+        for m in mutations:
+            positions += [self._extract_position(m)]
+        return positions
+
+    def _map_genes_name_to_uniprot_acs(self, genes):
+        g2p = {}
+        df = pd.read_csv(
+            os.path.join(
+                root, "..", "data", "other", "human_proteome_with_genenames.tab"
+            ),
+            sep="\t",
+        )
+        for v in df[
+            ["Entry", "Gene names", "Gene names  (primary )", "Gene names  (synonym )"]
+        ].values:
+            p = v[0]
+            g = []
+            for x in v[1:]:
+                x = str(x)
+                if x == "nan":
+                    continue
+                for y in x.split(" "):
+                    g += [y]
+            for x in g:
+                g2p[x] = p
+        uniprot_acs = []
+        for gene in genes:
+            if gene not in g2p:
+                uniprot_acs += [None]
+            else:
+                uniprot_acs += [g2p[gene]]
+        return uniprot_acs
+
+    def get(self, data):
+        genes = data["ANN[*].GENE"].tolist()
+        mutations = data["ANN[*].HGVS_P"].tolist()
+        uniprot_acs = self._map_genes_name_to_uniprot_acs(genes)
+        positions = self._extract_positions(mutations)
+        X = np.full((len(uniprot_acs), 1024), np.nan)
+        for i in tqdm(range(len(uniprot_acs))):
+            prot = uniprot_acs[i]
+            pos = positions[i]
+            if prot is None:
+                continue
+            if pos is None:
+                continue
+            try:
+                d = self.embedder.get([prot])[prot]
+                X[i, :] = d[pos - 1]
+            except:
+                continue
+        return X
