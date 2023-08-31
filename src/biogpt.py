@@ -11,7 +11,9 @@ class BioGPTEmbedder(object):
     def calculate(self, text_inputs):
         X = np.zeros((len(text_inputs), 1024), dtype=np.float32)
         for i, text in enumerate(text_inputs):
-            encoded_input = self.tokenizer(text, return_tensors="pt")
+            encoded_input = self.tokenizer(
+                text, truncation=True, max_length=1024, return_tensors="pt"
+            )
             with torch.no_grad():
                 hidden_states = self.model.base_model(**encoded_input).last_hidden_state
             mean_encoding = torch.mean(hidden_states, dim=1)
