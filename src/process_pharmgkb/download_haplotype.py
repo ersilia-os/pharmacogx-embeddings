@@ -13,6 +13,7 @@ processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 def download_table(gene_name):
     url = f"https://api.pharmgkb.org/v1/download/file/attachment/{gene_name}_allele_definition_table.xlsx"
     response = requests.get(url)
+    print(response)
     if response.status_code == 200:
         filename = f"{gene_name}_allele_definition_table.xlsx"
         with open(
@@ -36,22 +37,11 @@ def download_table(gene_name):
         return gene_name
 
 
-df1 = pd.read_csv(os.path.join(processed_folder, "clinical_annotation.csv"))
-df2 = pd.read_csv(os.path.join(processed_folder, "clinical_variant.csv"))
-df3 = pd.read_csv(os.path.join(processed_folder, "var_drug_ann.csv"))
-df4 = pd.read_csv(os.path.join(processed_folder, "var_pheno_ann.csv"))
-df5 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
-gene_names = list(
-    set(
-        df1["gene"][~df1["haplotype"].isna()].tolist()
-        + df2["gene"][~df2["haplotype"].isna()].tolist()
-        + df3["gene"][~df3["haplotype"].isna()].tolist()
-        + df4["gene"][~df4["haplotype"].isna()].tolist()
-        + df5["gene"].tolist()
-    )
-)
+df5 = pd.read_csv(os.path.join(processed_folder, "haplotype_rlx.csv"))
+gene_names = list(set(df5["gene"].tolist()))
 
 no_file = []
+print(len(gene_names))
 for gn in gene_names:
     gene_name = download_table(gn)
     if gene_name is not None:

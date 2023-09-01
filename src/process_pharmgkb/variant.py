@@ -27,24 +27,38 @@ def get_gene_from_variant(variant):
         )
         response = requests.get(url)
         data = response.json()
+        print(response)
         related_genes = [gene["symbol"] for gene in data["data"][0]["relatedGenes"]]
         print(related_genes)
         if len(related_genes) > 0:
             var_dict[variant] = related_genes
     except KeyError:
-        print(variant)
+        print("No URL")
     return var_dict
 
 
 def add_genes(df):  # check that no variant is missing genes that should be there
     c = CsvCleaner()
+    R = []
     for r in df.values:
+        vid = c.stringify(r[0])
         variant = c.stringify(r[1])
-        gene = c.stringify(r[3])
+        gene = c.stringify(r[2])
+        print(variant,gene)
         if gene is None:
-            print(variant)
+            print("trying to get gene")
             var_dict = get_gene_from_variant(variant)
             print(var_dict)
+            if len(var_dict.keys()) > 0:
+                for i in var_dict.values():
+                    r = [vid, variant, i]
+                    R += [r]
+        else:
+            r = [vid, variant, gene]
+            R += [r]
+    cols = ["vid", "variant", "gene"]
+    data = pd.DataFrame(R, columns=cols)
+    return data
 
 
 def deconv_genes(df):
@@ -74,9 +88,8 @@ def add_gid(df):
 
 
 if __name__ == "__main__":
-    # data = create_table()
     data = get_raw_files()
-    # data = add_genes(data) #no variant seems to miss a gene
     data = deconv_genes(data)
+    #data = add_genes(data) #all genes that could be there are there
     data = add_gid(data)
     data.to_csv(os.path.join(processed_folder, "variant.csv"), index=False)

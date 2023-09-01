@@ -65,13 +65,6 @@ def create_allele_definition_file(df):
     return df1
 
 
-def add_hid_from_file(df):
-    df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
-    df2 = df2[["hid", "haplotype"]]
-    data = pd.merge(df, df2, on="haplotype", how="left")
-    return data
-
-
 def add_hid_from_url(df):
     haps = list(set(df["haplotype"].tolist()))
     haps_dict = {}
@@ -108,6 +101,14 @@ if __name__ == "__main__":
         )
         data = create_allele_definition_file(data)
         data, haps_not = add_hid_from_url(data)
+        if gene == "GSTM1": #Manually modify GSTM1 and GSTT1 files
+            data = data.drop([1,2])
+            data = data.append({'haplotype_number':"null", 'rsID':np.nan, 'start':np.nan, 'protein':np.nan, 'NC':np.nan, 'NG':np.nan, 'gene':"GSTM1",
+                                'haplotype': "GSTM1 null", 'hid': "PA166048675"}, ignore_index=True)
+        elif gene == "GSTT1":
+            data = data.drop([1,2])
+            data = data.append({'haplotype_number':"null", 'rsID':np.nan, 'start':np.nan, 'protein':np.nan, 'NC':np.nan, 'NG':np.nan, 'gene':"GSTM1",
+                'haplotype': "GSTT1 null", 'hid': "PA166048678"}, ignore_index=True)
         data.to_csv(
             os.path.join(processed_folder, "haplotypes", "{}_haplotypes.csv".format(g)),
             index=False,
