@@ -44,7 +44,7 @@ def add_genes(df):  # check that no variant is missing genes that should be ther
         vid = c.stringify(r[0])
         variant = c.stringify(r[1])
         gene = c.stringify(r[2])
-        print(variant,gene)
+        print(variant, gene)
         if gene is None:
             print("trying to get gene")
             var_dict = get_gene_from_variant(variant)
@@ -90,6 +90,6 @@ def add_gid(df):
 if __name__ == "__main__":
     data = get_raw_files()
     data = deconv_genes(data)
-    #data = add_genes(data) #all genes that could be there are there
+    # data = add_genes(data) #all genes that could be there are there
     data = add_gid(data)
     data.to_csv(os.path.join(processed_folder, "variant.csv"), index=False)

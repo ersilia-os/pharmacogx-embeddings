@@ -6,9 +6,10 @@ import pandas as pd
 root = os.path.abspath(os.path.dirname(__file__))
 sys.path.append(os.path.join(root, ".."))
 
-data_folder = os.path.abspath(os.path.join(root, "..","..", "..", "data"))
+data_folder = os.path.abspath(os.path.join(root, "..", "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 final_folder = os.path.join(data_folder, "pharmgkb_processed", "final_tables")
+
 
 def get_json(df):
     vids = list(set(df["vid"].tolist()))
@@ -79,6 +80,4 @@ if __name__ == "__main__":
     df_.reset_index(inplace=True)
     df_.rename(columns={"index": "vid"}, inplace=True)
     merged_df = pd.merge(df, df_, on="vid", how="left")
-    merged_df.to_csv(
-        os.path.join(final_folder, "variant_assembly.csv"), index=False
-    )
+    merged_df.to_csv(os.path.join(final_folder, "variant_assembly.csv"), index=False)
