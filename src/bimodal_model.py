@@ -9,14 +9,15 @@ import os
 import datetime
 import random
 import string
+import pandas as pd
 
 
 root = os.path.dirname(os.path.abspath(__file__))
 
 
 def load_bimodal_stacked_model(file_name):
-    df_A, df_B, reducer, model, is_fitted = joblib.load(file_name)
-    mdl = BimodalStackedModel(df_A, df_B)
+    emb_name_A, emb_name_B, reducer, model, is_fitted = joblib.load(file_name)
+    mdl = BimodalStackedModel(emb_name_A, emb_name_B)
     mdl._is_fitted = is_fitted
     mdl.reducer = reducer
     mdl.model = model
@@ -24,14 +25,28 @@ def load_bimodal_stacked_model(file_name):
 
 
 class BimodalStackedModel(object):
-    def __init__(self, df_A, df_B):
-        self.df_A = df_A
-        self.df_B = df_B
-        self.dict_A = dict((r[0], r[1:]) for r in df_A.values)
-        self.dict_B = dict((r[0], r[1:]) for r in df_B.values)
+    def __init__(self, emb_name_A, emb_name_B):
+        self.emb_name_A = emb_name_A
+        self.emb_name_B = emb_name_B
+        self.df_A = self.load_embedding_df(emb_name_A)
+        self.df_B = self.load_embedding_df(emb_name_B)
+        self.dict_A = dict((r[0], r[1:]) for r in self.df_A.values)
+        self.dict_B = dict((r[0], r[1:]) for r in self.df_B.values)
         self.reducer = LOL(n_components=10)
         self.model = RandomForestClassifier()
         self._is_fitted = False
+
+    def load_embedding_df(self, emb_name):
+        embeddings_folder = os.path.join(root, "..", "embeddings")
+        for l in os.listdir(embeddings_folder):
+            if not l.endswith(".joblib"):
+                continue
+            l_ = l.split("---")[1].split(".joblib")[0]
+            if l_ == emb_name:
+                file_name = os.path.join(embeddings_folder, l)
+        file_name = os.path.abspath(file_name)
+        df = joblib.load(file_name)
+        return df
 
     def fit(self, df):
         pairs = np.array(df[["inchikey", "uniprot_ac"]].values)
@@ -93,8 +108,21 @@ class BimodalStackedModel(object):
         return results
 
     def save(self, file_name):
-        data = (self.df_A, self.df_B, self.reducer, self.model, self._is_fitted)
+        data = (
+            self.emb_name_A,
+            self.emb_name_B,
+            self.reducer,
+            self.model,
+            self._is_fitted,
+        )
         joblib.dump(data, file_name)
+
+
+def get_embedding_names():
+    with open(
+        os.path.join(root, "..", "embeddings", "available_embeddings.json"), "r"
+    ) as f:
+        return json.load(f)
 
 
 def load_ensemble_bimodal_stacked_model(model_folder):
@@ -106,9 +134,9 @@ def load_ensemble_bimodal_stacked_model(model_folder):
 
 
 class EnsembleBimodalStackedModel(object):
-    def __init__(self, cemb_list, pemb_list, model_folder=None):
-        self.cemb_list = cemb_list
-        self.pemb_list = pemb_list
+    def __init__(self, emb_name_list_A, emb_name_list_B, model_folder=None):
+        self.emb_name_list_A = emb_name_list_A
+        self.emb_name_list_B = emb_name_list_B
         if model_folder is None:
             model_folder = os.path.join(
                 root, "..", "models", self.generate_folder_name()
@@ -147,7 +175,7 @@ class EnsembleBimodalStackedModel(object):
         return os.path.join(self.model_folder, "evaluation.json")
 
     def get_embeddings_filename(self):
-        return os.path.join(self.model_folder, "embeddings.joblib")
+        return os.path.join(self.model_folder, "embeddings.json")
 
     def _get_roc_auc_score(self, df, y_hat):
         y_hat = np.array(y_hat)
@@ -164,15 +192,19 @@ class EnsembleBimodalStackedModel(object):
             R += [r]
         X = np.array(R).T
         y = []
+        supports = []
         for i in range(X.shape[0]):
             r = X[i, :]
             mask = ~np.isnan(r)
             if np.any(mask):
                 y += [np.mean(r[mask])]
+                supports += np.sum(mask)
             else:
                 y += [np.nan]
+                supports += [0]
         y = np.array(y)
-        return y
+        supports = np.array(supports)
+        return y, supports
 
     def weighted_average(self, pred_stack, eval_data):
         keys = sorted(pred_stack.keys())
@@ -185,21 +217,25 @@ class EnsembleBimodalStackedModel(object):
             R += [r]
         X = np.array(R).T
         y = []
+        supports = []
         for i in range(X.shape[0]):
             r = X[i, :]
             mask = ~np.isnan(r)
             if np.any(mask):
                 y += [np.average(r[mask], weights=weights[mask])]
+                supports += [np.sum(weights[mask])]
             else:
                 y += [np.nan]
+                supports += [0]
         y = np.array(y)
-        return y
+        supports = np.array(supports)
+        return y, supports
 
     def fit(self, df):
-        for cemb in self.cemb_list:
-            for pemb in self.pemb_list:
-                name = self.get_name(cemb[0], pemb[0])
-                model = BimodalStackedModel(cemb[1], pemb[1])
+        for emb_name_A in self.emb_name_list_A:
+            for emb_name_B in self.emb_name_list_B:
+                name = self.get_name(emb_name_A, emb_name_B)
+                model = BimodalStackedModel(emb_name_A, emb_name_B)
                 print("Fitting:", name)
                 model.fit(df)
                 model.save(self.get_filename(name))
@@ -207,9 +243,9 @@ class EnsembleBimodalStackedModel(object):
     def evaluate(self, df):
         data = {}
         pred_stack = {}
-        for cemb in self.cemb_list:
-            for pemb in self.pemb_list:
-                name = self.get_name(cemb[0], pemb[0])
+        for emb_name_A in self.emb_name_list_A:
+            for emb_name_B in self.emb_name_list_B:
+                name = self.get_name(emb_name_A, emb_name_B)
                 file_name = self.get_filename(name)
                 if not os.path.exists(file_name):
                     continue
@@ -218,8 +254,8 @@ class EnsembleBimodalStackedModel(object):
                 print(name, results["n_eval"], results["auroc"])
                 data[name] = {"auroc": results["auroc"], "n_eval": results["n_eval"]}
                 pred_stack[name] = np.array(results["data"]["y_hat"])
-        y_hat = self.average(pred_stack)
-        y_hat_w = self.weighted_average(pred_stack, data)
+        y_hat, _ = self.average(pred_stack)
+        y_hat_w, _ = self.weighted_average(pred_stack, data)
         data["average"] = self._get_roc_auc_score(df, y_hat)
         data["weighted_average"] = self._get_roc_auc_score(df, y_hat_w)
         with open(self.get_evaluation_filename(), "w") as f:
@@ -229,9 +265,9 @@ class EnsembleBimodalStackedModel(object):
 
     def predict(self, df):
         pred_stack = {}
-        for cemb in self.cemb_list:
-            for pemb in self.pemb_list:
-                name = self.get_name(cemb[0], pemb[0])
+        for emb_name_A in self.emb_name_list_A:
+            for emb_name_B in self.emb_name_list_B:
+                name = self.get_name(emb_name_A, emb_name_B)
                 file_name = self.get_filename(name)
                 if not os.path.exists(file_name):
                     continue
@@ -245,15 +281,17 @@ class EnsembleBimodalStackedModel(object):
         else:
             eval_data = None
         if eval_data is None:
-            y_hat = self.average(pred_stack)
+            y_hat, supports = self.average(pred_stack)
         else:
-            y_hat = self.weighted_average(pred_stack, eval_data)
+            y_hat, supports = self.weighted_average(pred_stack, eval_data)
         df["y_hat"] = y_hat
+        df["support"] = supports
         return df
 
     def save(self):
         data = {
-            "cemb_list": self.cemb_list,
-            "pemb_list": self.pemb_list,
+            "emb_name_list_A": self.emb_name_list_A,
+            "emb_name_list_B": self.emb_name_list_B,
         }
-        joblib.dump(data, self.get_embeddings_filename())
+        with open(self.get_embeddings_filename(), "w") as f:
+            json.dump(data, f, indent=4)
