@@ -1,5 +1,6 @@
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import roc_auc_score
+from sklearn.decomposition import PCA
 from lol import LOL
 import joblib
 import numpy as np
@@ -22,6 +23,30 @@ def load_bimodal_stacked_model(file_name):
     mdl.reducer = reducer
     mdl.model = model
     return mdl
+
+
+class BaseBimodalModel(object):
+    def __init__(self, n_components_single_reducer_1=100, n_components_single_reducer_2=100, n_components_stacked_reducer=10):
+        pass
+
+    def fit(self, X1, X2, y):
+        self.single_reducer_1 = PCA(n_components=self.n_components_single_reducer_1)
+        self.single_reducer_2 = PCA(n_components=self.n_components_single_reducer_2)
+        self.stacked_reducer = LOL(n_components=self.n_components_stacked_reducer)
+        X1 = self.single_reducer_1.fit_transform(X1)
+        X2 = self.single_reducer_1.fit(X2)
+        X = np.hstack([X1, X2])
+        X = self.stacked_reducer.fit_transform(X, y)
+        # TODO FLAML
+        self.model = RandomForestClassifier()
+        self.model.fit(X, y)
+        
+    def predict(self, X1, X2):
+        pass
+
+    def predict_proba(self, X1, X2):
+        pass
+
 
 
 class BimodalStackedModel(object):
