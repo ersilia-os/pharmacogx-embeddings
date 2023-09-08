@@ -1,4 +1,3 @@
-from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import roc_auc_score
 from sklearn.decomposition import PCA
 from lol import LOL
@@ -10,43 +9,92 @@ import os
 import datetime
 import random
 import string
-import pandas as pd
+from flaml.default import LGBMClassifier as ZeroShotBaseClassifier
+from lightgbm import LGBMClassifier as BaseClassifier
 
 
 root = os.path.dirname(os.path.abspath(__file__))
 
 
-def load_bimodal_stacked_model(file_name):
-    emb_name_A, emb_name_B, reducer, model, is_fitted = joblib.load(file_name)
-    mdl = BimodalStackedModel(emb_name_A, emb_name_B)
-    mdl._is_fitted = is_fitted
-    mdl.reducer = reducer
+def load_base_bimodal_model(file_name):
+    single_reducer_1, single_reducer_2, stacked_reducer, model = joblib.load(file_name)
+    mdl = BaseBimodalModel()
+    mdl.single_reducer_1 = single_reducer_1
+    mdl.single_reducer_2 = single_reducer_2
+    mdl.stacked_reducer = stacked_reducer
     mdl.model = model
     return mdl
 
 
 class BaseBimodalModel(object):
-    def __init__(self, n_components_single_reducer_1=100, n_components_single_reducer_2=100, n_components_stacked_reducer=10):
-        pass
+    def __init__(
+        self,
+        n_components_single_reducer_1=100,
+        n_components_single_reducer_2=100,
+        n_components_stacked_reducer=50,
+    ):
+        self.n_components_single_reducer_1 = n_components_single_reducer_1
+        self.n_components_single_reducer_2 = n_components_single_reducer_2
+        self.n_components_stacked_reducer = n_components_stacked_reducer
 
     def fit(self, X1, X2, y):
-        self.single_reducer_1 = PCA(n_components=self.n_components_single_reducer_1)
-        self.single_reducer_2 = PCA(n_components=self.n_components_single_reducer_2)
+        if X1.shape[1] < self.n_components_single_reducer_1:
+            self.n_components_single_reducer_1 = X1.shape[1]
+        if X2.shape[1] < self.n_components_single_reducer_2:
+            self.n_components_single_reducer_2 = X2.shape[1]
+        ncs = self.n_components_single_reducer_1 + self.n_components_single_reducer_2
+        if ncs < self.n_components_stacked_reducer:
+            self.n_components_stacked_reducer = ncs
+        self.single_reducer_1 = PCA(
+            n_components=self.n_components_single_reducer_1, svd_solver="randomized"
+        )
+        self.single_reducer_2 = PCA(
+            n_components=self.n_components_single_reducer_2, svd_solver="randomized"
+        )
         self.stacked_reducer = LOL(n_components=self.n_components_stacked_reducer)
+        print("... single reducer 1")
         X1 = self.single_reducer_1.fit_transform(X1)
-        X2 = self.single_reducer_1.fit(X2)
+        print("... single reducer 2")
+        X2 = self.single_reducer_2.fit_transform(X2)
+        print("... stacked reducer")
         X = np.hstack([X1, X2])
         X = self.stacked_reducer.fit_transform(X, y)
-        # TODO FLAML
-        self.model = RandomForestClassifier()
+        print("... classifier", X.shape)
+        hyperparameters = ZeroShotBaseClassifier().suggest_hyperparams(X, y)[0]
+        self.model = BaseClassifier(**hyperparameters)
         self.model.fit(X, y)
-        
+        print("... fitting done")
+
     def predict(self, X1, X2):
-        pass
+        X1 = self.single_reducer_1.transform(X1)
+        X2 = self.single_reducer_2.transform(X2)
+        X = np.hstack([X1, X2])
+        X = self.stacked_reducer.transform(X)
+        return self.model.predict(X)
 
     def predict_proba(self, X1, X2):
-        pass
+        X1 = self.single_reducer_1.transform(X1)
+        X2 = self.single_reducer_2.transform(X2)
+        X = np.hstack([X1, X2])
+        X = self.stacked_reducer.transform(X)
+        return self.model.predict_proba(X)
 
+    def save(self, file_name):
+        data = (
+            self.single_reducer_1,
+            self.single_reducer_2,
+            self.stacked_reducer,
+            self.model,
+        )
+        joblib.dump(data, file_name)
+
+
+def load_bimodal_stacked_model(file_name):
+    emb_name_A, emb_name_B, model_file_name, is_fitted = joblib.load(file_name)
+    mdl = BimodalStackedModel(emb_name_A, emb_name_B)
+    mdl._is_fitted = is_fitted
+    mdl.model = load_base_bimodal_model(model_file_name)
+    return mdl
 
 
 class BimodalStackedModel(object):
@@ -57,8 +105,7 @@ class BimodalStackedModel(object):
         self.df_B = self.load_embedding_df(emb_name_B)
         self.dict_A = dict((r[0], r[1:]) for r in self.df_A.values)
         self.dict_B = dict((r[0], r[1:]) for r in self.df_B.values)
-        self.reducer = LOL(n_components=10)
-        self.model = RandomForestClassifier()
+        self.model = BaseBimodalModel()
         self._is_fitted = False
 
     def load_embedding_df(self, emb_name):
@@ -89,11 +136,8 @@ class BimodalStackedModel(object):
             y_ += [y[i]]
         A = np.array(A)
         B = np.array(B)
-        X = np.hstack([A, B])
         y = np.array(y_).astype(int)
-        self.reducer.fit(X, y)
-        X = self.reducer.transform(X)
-        self.model.fit(X, y)
+        self.model.fit(A, B, y)
         self._is_fitted = True
 
     def predict(self, df):
@@ -112,9 +156,7 @@ class BimodalStackedModel(object):
             idxs += [i]
         A = np.array(A)
         B = np.array(B)
-        X = np.hstack([A, B])
-        X = self.reducer.transform(X)
-        y_ = self.model.predict_proba(X)[:, 1]
+        y_ = self.model.predict_proba(A, B)[:, 1]
         y_hat = np.full((len(pairs),), np.nan)
         y_hat[idxs] = y_
         df["y_hat"] = y_hat
@@ -133,11 +175,12 @@ class BimodalStackedModel(object):
         return results
 
     def save(self, file_name):
+        model_file_name = file_name.split(".joblib")[0] + "_base.joblib"
+        self.model.save(model_file_name)
         data = (
             self.emb_name_A,
             self.emb_name_B,
-            self.reducer,
-            self.model,
+            model_file_name,
             self._is_fitted,
         )
         joblib.dump(data, file_name)

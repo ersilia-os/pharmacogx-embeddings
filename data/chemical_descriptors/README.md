@@ -1,6 +1,6 @@
 # Chemical descriptors
 
-This file contains precalculated chemical descriptors, including Ersilia Fingerprints, Grover descriptors, and Chemical Checker signatures.
+This folder contains precalculated chemical descriptors, including Ersilia Fingerprints, Grover descriptors, and Chemical Checker signatures.
 
 All files contain a `Key` (InChIKey), `Input` (SMILES) and `Values` field.
 

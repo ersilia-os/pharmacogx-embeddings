@@ -7,7 +7,11 @@ root = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.join(root, "..", "src"))
 from bimodal_model import EnsembleBimodalStackedModel, get_embedding_names
 
-df = pd.read_csv(os.path.join(root, "..", "data", "ml_datasets", "chemical_gene_pairs_prediction_input.csv"))
+df = pd.read_csv(
+    os.path.join(
+        root, "..", "data", "ml_datasets", "chemical_gene_pairs_prediction_input.csv"
+    )
+)
 df = df[df["chemical_of_interest"] == 1]
 
 embeddings_names = get_embedding_names()
@@ -17,7 +21,7 @@ pemb_names_list = embeddings_names["protein"][:2]
 sufixes = [
     ("all_outcomes", "all_genes"),
     ("only_pk", "all_genes"),
-    ("only_pk", "only_adme_genes")
+    ("only_pk", "only_adme_genes"),
 ]
 
 fold_groups = []
@@ -47,7 +51,14 @@ for sufix_0, sufix_1 in sufixes:
         fg1 += [c1]
         columns[-2:] = [c0, c1]
         df.columns = columns
-    fold_groups += [("{0}_{1}_{2}".format("y_hat", sufix_0, sufix_1), "{0}_{1}_{2}".format("support", sufix_0, sufix_1), fg0, fg1)]
+    fold_groups += [
+        (
+            "{0}_{1}_{2}".format("y_hat", sufix_0, sufix_1),
+            "{0}_{1}_{2}".format("support", sufix_0, sufix_1),
+            fg0,
+            fg1,
+        )
+    ]
 
 for fg in fold_groups:
     cn0 = fg[0]
@@ -56,6 +67,9 @@ for fg in fold_groups:
     cols1 = fg[3]
     df[cn0] = df[cols0].mean(axis=1)
     df[cn1] = df[cols1].mean(axis=1)
-    df = df.drop(cols0+cols1, axis=1)
+    df = df.drop(cols0 + cols1, axis=1)
 
-df.to_csv(os.path.join(root, "..", "results", "chemical_gene_pairs_prediction_output.csv"), index=False)
+df.to_csv(
+    os.path.join(root, "..", "results", "chemical_gene_pairs_prediction_output.csv"),
+    index=False,
+)

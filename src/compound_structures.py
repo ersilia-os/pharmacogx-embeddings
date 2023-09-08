@@ -12,7 +12,7 @@ class CompoundStructureEmbedding(object):
         self.embedding_type = embedding_type
 
     def available(self):
-        return ["ersilia", "signaturizer", "grover"]
+        return ["ersilia", "signaturizer", "grover", "mordred", "rdkit", "morgan"]
 
     def _get_ersilia_embedding(self):
         with h5py.File(
@@ -34,6 +34,24 @@ class CompoundStructureEmbedding(object):
             X = f["Values"][:]
         return X, keys
 
+    def _get_mordred_embedding(self):
+        with h5py.File(os.path.join(data_dir, "eos78ao_norm.h5"), "r") as f:
+            keys = [x.decode() for x in f["Keys"][:]]
+            X = f["Values"][:]
+        return X, keys
+
+    def _get_morgan_embedding(self):
+        with h5py.File(os.path.join(data_dir, "eos5axz.h5"), "r") as f:
+            keys = [x.decode() for x in f["Keys"][:]]
+            X = f["Values"][:]
+        return X, keys
+
+    def _get_rdkit_embedding(self):
+        with h5py.File(os.path.join(data_dir, "eos8a4x_norm.h5"), "r") as f:
+            keys = [x.decode() for x in f["Keys"][:]]
+            X = f["Values"][:]
+        return X, keys
+
     def get(self, as_dataframe=True):
         if self.embedding_type == "ersilia":
             X, keys = self._get_ersilia_embedding()
@@ -41,6 +59,12 @@ class CompoundStructureEmbedding(object):
             X, keys = self._get_grover_embedding()
         if self.embedding_type == "signaturizer":
             X, keys = self._get_signaturizer_embedding()
+        if self.embedding_type == "mordred":
+            X, keys = self._get_mordred_embedding()
+        if self.embedding_type == "morgan":
+            X, keys = self._get_morgan_embedding()
+        if self.embedding_type == "rdkit":
+            X, keys = self._get_rdkit_embedding()
         if not as_dataframe:
             return X, keys
         cols = ["key"] + ["f-{0}".format(str(i).zfill(3)) for i in range(X.shape[1])]

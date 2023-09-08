@@ -13,7 +13,6 @@ processed_folder = os.path.join(data_folder, "pharmgkb_processed")
 final_folder = os.path.join(data_folder, "pharmgkb_processed", "final_tables")
 
 
-
 def get_json(df):
     vids = list(set(df["vid"].tolist()))
     vids_dict = {}

@@ -60,7 +60,12 @@ adme_genes = set(adme_genes)
 adme_genes_set = set([x[0] for x in list(adme_genes)])
 
 # screening data (our genes + all genes in PharmGKB with *some* kind of annotation)
-df = pd.read_csv(os.path.join(root, "..", "data", "pharmgkb_processed", "final_tables", "pgkb_merged.csv"), low_memory=False)
+df = pd.read_csv(
+    os.path.join(
+        root, "..", "data", "pharmgkb_processed", "final_tables", "pgkb_merged.csv"
+    ),
+    low_memory=False,
+)
 
 prot2row = {}
 for r in df[["gid", "gene"]].values:
@@ -82,7 +87,9 @@ for p, g in adme_genes:
     prot2row[p] = (p, g, gid, 0)
 
 ik2row = {}
-compounds = list(set([(r[0], r[1], r[2]) for r in df[["cid", "chemical", "smiles"]].values]))
+compounds = list(
+    set([(r[0], r[1], r[2]) for r in df[["cid", "chemical", "smiles"]].values])
+)
 for r in tqdm(compounds):
     cid = str(r[0])
     chemical = str(r[1])
@@ -102,12 +109,21 @@ for r in focus_compounds[["inchikey", "Drug"]].values:
         ik2row[r[0]] = (r[0], cid, r[1], 0)
 
 R = []
-for kc,vc in ik2row.items():
-    for kp,vp in prot2row.items():
+for kc, vc in ik2row.items():
+    for kp, vp in prot2row.items():
         r = list(vc[:3]) + list(vp[:3]) + [vc[3]] + [vp[3]]
         R += [r]
 
-columns = ["inchikey", "cid", "chemical", "uniprot_ac", "gene", "gid", "chemical_in_pgkb", "gene_in_pgkb"]
+columns = [
+    "inchikey",
+    "cid",
+    "chemical",
+    "uniprot_ac",
+    "gene",
+    "gid",
+    "chemical_in_pgkb",
+    "gene_in_pgkb",
+]
 
 print(len(ik2row))
 print(len(prot2row))
@@ -131,15 +147,21 @@ for p in di["uniprot_ac"].tolist():
 di["adme_gene"] = goi
 
 used = set()
-for r in pd.read_csv(os.path.join(root, "..", "data", "ml_datasets", "df_all_outcomes_all_genes.csv"))[["cid", "gid"]].values:
+for r in pd.read_csv(
+    os.path.join(root, "..", "data", "ml_datasets", "df_all_outcomes_all_genes.csv")
+)[["cid", "gid"]].values:
     used.update([tuple(r)])
 
 used_pk = set()
-for r in pd.read_csv(os.path.join(root, "..", "data", "ml_datasets", "df_only_pk_all_genes.csv"))[["cid", "gid"]].values:
+for r in pd.read_csv(
+    os.path.join(root, "..", "data", "ml_datasets", "df_only_pk_all_genes.csv")
+)[["cid", "gid"]].values:
     used_pk.update([tuple(r)])
 
 used_pk_adme = set()
-for r in pd.read_csv(os.path.join(root, "..", "data", "ml_datasets", "df_only_pk_only_adme_genes.csv"))[["cid", "gid"]].values:
+for r in pd.read_csv(
+    os.path.join(root, "..", "data", "ml_datasets", "df_only_pk_only_adme_genes.csv")
+)[["cid", "gid"]].values:
     used_pk_adme.update([tuple(r)])
 
 u0 = []
@@ -165,4 +187,9 @@ di["train_set_pk_adme"] = u2
 
 print(di)
 
-di.to_csv(os.path.join(root, "..", "data", "ml_datasets", "chemical_gene_pairs_prediction_input.csv"), index=False)
+di.to_csv(
+    os.path.join(
+        root, "..", "data", "ml_datasets", "chemical_gene_pairs_prediction_input.csv"
+    ),
+    index=False,
+)

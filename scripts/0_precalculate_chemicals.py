@@ -7,6 +7,15 @@ from standardiser import standardise
 import h5py
 import numpy as np
 from eosce.models import ErsiliaCompoundEmbeddings
+from rdkit import RDLogger
+import warnings
+
+# Suppress RDKit warnings
+lg = RDLogger.logger()
+lg.setLevel(RDLogger.CRITICAL)
+
+# Suppress Python warnings
+warnings.filterwarnings("ignore")
 
 root = os.path.dirname(os.path.abspath(__file__))
 results_dir = os.path.join(root, "..", "data", "chemical_descriptors")
@@ -15,8 +24,23 @@ if not os.path.exists(os.path.join(results_dir, "drug_molecules.csv")):
     df = pd.read_csv(
         os.path.join(root, "..", "data", "pharmgkb_processed", "chemical.csv")
     )
-    smiles_list = df[df["smiles"].notnull()]["smiles"].tolist()
+    smiles_list = [
+        y for x in df[df["smiles"].notnull()]["smiles"].tolist() for y in x.split(" ")
+    ]
+    print(len(smiles_list))
 
+    df = pd.read_csv(
+        os.path.join(
+            root, "..", "data", "of_interest", "curated_drugs_for_gradient.tsv"
+        ),
+        delimiter="\t",
+    )
+    smiles_list += [
+        y for x in df[df["SMILES"].notnull()]["SMILES"].tolist() for y in x.split(" ")
+    ]
+    print(len(smiles_list))
+
+    """
     sdf_file = os.path.join(
         root, "..", "data", "chemical_descriptors", "open_structures.sdf"
     )
@@ -25,6 +49,7 @@ if not os.path.exists(os.path.join(results_dir, "drug_molecules.csv")):
         if mol is not None:
             smiles = Chem.MolToSmiles(mol)
             smiles_list.append(smiles)
+    """
 
     def check_molecule(mol):
         num_carbons = sum(1 for atom in mol.GetAtoms() if atom.GetAtomicNum() == 6)
@@ -46,7 +71,7 @@ if not os.path.exists(os.path.join(results_dir, "drug_molecules.csv")):
             continue
         inchi = MolToInchi(mol)
         inchi_key = InchiToInchiKey(inchi)
-        ik2smi[inchi_key] = smiles
+        ik2smi[inchi_key] = Chem.MolToSmiles(mol)
 
     R = []
     for k, v in ik2smi.items():
@@ -72,4 +97,4 @@ else:
         )
         f.create_dataset("Values", data=np.array(embeddings, dtype=np.float32))
 
-    # the rest are generated, more simply, with ersilia CLI (eos4u6p and eos7w6n)
+    # the rest are generated, more simply, with ersilia CLI (eos4u6p, eos7w6n, etc)
