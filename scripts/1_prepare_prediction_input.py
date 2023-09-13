@@ -1,7 +1,9 @@
 import pandas as pd
 import os
 from rdkit import Chem
+from rdkit.Chem import Descriptors
 from tqdm import tqdm
+from standardiser import standardise
 import uuid
 
 root = os.path.dirname(os.path.abspath(__file__))
@@ -13,17 +15,39 @@ focus_compounds = pd.read_csv(
     os.path.join(root, "../data/of_interest/curated_drugs_for_gradient.tsv"), sep="\t"
 )
 inchikeys = []
-for smi in focus_compounds["SMILES"].tolist():
+
+
+def check_molecule(mol):
+    num_carbons = sum(1 for atom in mol.GetAtoms() if atom.GetAtomicNum() == 6)
+    has_3_carbons = num_carbons >= 3
+    molecular_weight = Descriptors.MolWt(mol)
+    weight_between_100_and_1000 = 100 <= molecular_weight <= 1000
+    return has_3_carbons and weight_between_100_and_1000
+
+
+R = []
+for r in focus_compounds[["SMILES", "Drug"]].values:
+    smi = r[0]
     mol = Chem.MolFromSmiles(smi)
+    if not check_molecule(mol):
+        continue
+    try:
+        mol = standardise.run(mol)
+    except:
+        continue
+    if mol is None:
+        continue
     inchi = Chem.rdinchi.MolToInchi(mol)[0]
     inchikey = Chem.rdinchi.InchiToInchiKey(inchi)
-    inchikeys += [inchikey]
-focus_compounds["inchikey"] = inchikeys
+    R += [(inchikey, r[1], Chem.MolToSmiles(mol))]
+focus_compounds = pd.DataFrame(R, columns=["inchikey", "chemical", "smiles"])
 
 # Focus genes are ADME genes provided by H3D
 focus_genes = pd.read_csv(
     os.path.join(root, "../data/of_interest/adme_gene_list.tsv"), sep="\t"
 )
+
+print(focus_genes)
 
 # Map genes to UniProt ACs
 hp = pd.read_csv(
@@ -50,14 +74,15 @@ for v in up[
     for x in g:
         g2p[x] = p
 
+pharmgkb2prot = {}
+pharmgkb2gene = {}
+for r in pd.read_csv("../data/other/pgkb_gene_uniprot_mapping.tsv", sep="\t").values:
+    pharmgkb2prot[r[0]] = r[2]
+    pharmgkb2gene[r[0]] = r[1]
+
 # interest data
 our_compounds = set(focus_compounds["inchikey"].tolist())
-adme_genes = []
-for g in focus_genes["Gene Symbol"].tolist():
-    if g in g2p:
-        adme_genes += [(g2p[g], g)]
-adme_genes = set(adme_genes)
-adme_genes_set = set([x[0] for x in list(adme_genes)])
+adme_genes = set(focus_genes["PharmGKB ID"])
 
 # screening data (our genes + all genes in PharmGKB with *some* kind of annotation)
 df = pd.read_csv(
@@ -73,35 +98,64 @@ for r in df[["gid", "gene"]].values:
     gene = str(r[1])
     if gid == "nan" or gene == "nan":
         continue
-    if gene not in g2p:
+    if gid not in pharmgkb2prot:
         continue
-    prot = g2p[gene]
+    prot = pharmgkb2prot[gid]
     prot2row[prot] = (prot, gene, gid, 1)
+my_gids = set(df["gid"])
 
 # inchikey, cid, chemical, uniprot_ac, gene, gid
 
-for p, g in adme_genes:
-    if p in prot2row:
+for gid in adme_genes:
+    if gid in my_gids:
         continue
-    gid = "nan-{0}".format(str(uuid.uuid4()))
+    if gid not in pharmgkb2prot:
+        continue
+    p = pharmgkb2prot[gid]
+    g = pharmgkb2gene[gid]
     prot2row[p] = (p, g, gid, 0)
 
-ik2row = {}
-compounds = list(
-    set([(r[0], r[1], r[2]) for r in df[["cid", "chemical", "smiles"]].values])
-)
-for r in tqdm(compounds):
-    cid = str(r[0])
-    chemical = str(r[1])
-    smiles = str(r[2])
-    if cid == "nan" or chemical == "nan" or smiles == "nan":
+cid2smi_ = {}
+cid2chemical = {}
+for r in df[["cid", "smiles", "chemical"]].values:
+    cid = r[0]
+    smi = r[1]
+    if str(smi) == "nan":
         continue
-    mol = Chem.MolFromSmiles(smiles)
+    if str(r[2]) == "nan":
+        continue
+    cid2smi_[cid] = smi
+    cid2chemical[cid] = r[2]
+
+cid2smi = {}
+cid2inchikey = {}
+for cid, smi in cid2smi_.items():
+    mol = Chem.MolFromSmiles(smi)
+    if not check_molecule(mol):
+        continue
+    try:
+        mol = standardise.run(mol)
+    except:
+        continue
+    if mol is None:
+        continue
     inchi = Chem.rdinchi.MolToInchi(mol)[0]
     inchikey = Chem.rdinchi.InchiToInchiKey(inchi)
+    smiles = Chem.MolToSmiles(mol)
+    cid2smi[cid] = smiles
+    cid2inchikey[cid] = inchikey
+
+ik2row = {}
+for k, v in tqdm(cid2inchikey.items()):
+    cid = k
+    inchikey = v
+    chemical = str(cid2chemical[cid])
+    smiles = str(cid2chemical[cid])
+    if cid == "nan" or chemical == "nan" or smiles == "nan":
+        continue
     ik2row[inchikey] = (inchikey, cid, chemical, 1)
 
-for r in focus_compounds[["inchikey", "Drug"]].values:
+for r in focus_compounds[["inchikey", "chemical"]].values:
     if r[0] in ik2row:
         continue
     else:
@@ -139,8 +193,8 @@ for ik in di["inchikey"].tolist():
 di["chemical_of_interest"] = coi
 
 goi = []
-for p in di["uniprot_ac"].tolist():
-    if p in adme_genes_set:
+for p in di["gid"].tolist():
+    if p in adme_genes:
         goi += [1]
     else:
         goi += [0]

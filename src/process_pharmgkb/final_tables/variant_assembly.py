@@ -154,5 +154,5 @@ if __name__ == "__main__":
             "chr_",
         ]
     ]
-    result_df.columns = [col.rstrip('_') for col in result_df.columns]
+    result_df.columns = [col.rstrip("_") for col in result_df.columns]
     result_df.to_csv(os.path.join(final_folder, "variant_assembly.csv"), index=False)

@@ -12,7 +12,7 @@ class CompoundStructureEmbedding(object):
         self.embedding_type = embedding_type
 
     def available(self):
-        return ["ersilia", "signaturizer", "grover", "mordred", "rdkit", "morgan"]
+        return ["ersilia", "signaturizer"]  # , "grover", "mordred", "rdkit", "morgan"]
 
     def _get_ersilia_embedding(self):
         with h5py.File(

@@ -52,8 +52,8 @@ model_folder = os.path.join(root, "..", "models", model_name)
 print("Training models")
 
 embeddings_names = get_embedding_names()
-cemb_names_list = embeddings_names["compound"][:2]
-pemb_names_list = embeddings_names["protein"][:2]
+cemb_names_list = embeddings_names["compound"]
+pemb_names_list = embeddings_names["protein"]
 
 for i in range(n_folds):
     k_model_folder = "{0}/fold_{1}".format(model_folder, i)

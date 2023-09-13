@@ -5,6 +5,8 @@ import os
 from tqdm import tqdm
 from rdkit import Chem
 from rdkit import RDLogger
+from standardiser import standardise
+from rdkit.Chem import Descriptors
 
 RDLogger.DisableLog("rdApp.*")
 
@@ -54,29 +56,67 @@ focus_genes = pd.read_csv(
 focus_compounds = pd.read_csv(
     os.path.join(root, "../data/of_interest/curated_drugs_for_gradient.tsv"), sep="\t"
 )
-inchikeys = []
-for smi in focus_compounds["SMILES"].tolist():
+
+
+def check_molecule(mol):
+    num_carbons = sum(1 for atom in mol.GetAtoms() if atom.GetAtomicNum() == 6)
+    has_3_carbons = num_carbons >= 3
+    molecular_weight = Descriptors.MolWt(mol)
+    weight_between_100_and_1000 = 100 <= molecular_weight <= 1000
+    return has_3_carbons and weight_between_100_and_1000
+
+
+R = []
+for r in focus_compounds[["SMILES", "Drug"]].values:
+    smi = r[0]
     mol = Chem.MolFromSmiles(smi)
+    if not check_molecule(mol):
+        continue
+    try:
+        mol = standardise.run(mol)
+    except:
+        continue
+    if mol is None:
+        continue
     inchi = Chem.rdinchi.MolToInchi(mol)[0]
     inchikey = Chem.rdinchi.InchiToInchiKey(inchi)
-    inchikeys += [inchikey]
-focus_compounds["inchikey"] = inchikeys
+    R += [(inchikey, r[1], Chem.MolToSmiles(mol))]
+focus_compounds = pd.DataFrame(R, columns=["inchikey", "chemical", "smiles"])
 
 if only_adme_genes:
     df = df[df["gid"].isin(focus_genes["PharmGKB ID"].tolist())]
     table_statistics(df)
 
 # Map compounds to InChIKeys
+cid2smi_ = {}
+cid2chemical = {}
+for r in df[["cid", "smiles", "chemical"]].values:
+    cid = r[0]
+    smi = r[1]
+    if str(smi) == "nan":
+        continue
+    if str(r[2]) == "nan":
+        continue
+    cid2smi_[cid] = smi
+    cid2chemical[cid] = r[2]
+
 cid2smi = {}
-for r in df[["cid", "smiles"]].values:
-    if str(r[1]) != "nan":
-        cid2smi[r[0]] = r[1]
 cid2key = {}
-for k, v in tqdm(cid2smi.items()):
-    mol = Chem.MolFromSmiles(v)
+for cid, smi in cid2smi_.items():
+    mol = Chem.MolFromSmiles(smi)
+    if not check_molecule(mol):
+        continue
+    try:
+        mol = standardise.run(mol)
+    except:
+        continue
+    if mol is None:
+        continue
     inchi = Chem.rdinchi.MolToInchi(mol)[0]
     inchikey = Chem.rdinchi.InchiToInchiKey(inchi)
-    cid2key[k] = inchikey
+    smiles = Chem.MolToSmiles(mol)
+    cid2smi[cid] = smiles
+    cid2key[cid] = inchikey
 
 # Map genes to UniProt ACs
 hp = pd.read_csv(
@@ -111,6 +151,14 @@ for r in df[["gid", "gene"]].values:
         continue
     gid2key[r[0]] = g2p[r[1]]
 
+
+pharmgkb2prot = {}
+pharmgkb2gene = {}
+for r in pd.read_csv("../data/other/pgkb_gene_uniprot_mapping.tsv", sep="\t").values:
+    pharmgkb2prot[r[0]] = r[2]
+    pharmgkb2gene[r[0]] = r[1]
+
+
 # Filter to only consider PK relationships
 if only_pk:
     df = df[df["phenotype"].isin(["Metabolism/PK"])]  # , "Toxicity", "Dosage"])]
@@ -125,10 +173,10 @@ for r in df[["cid", "chemical", "gid", "gene", "vid", "variant"]].values:
         ckey = None
     else:
         ckey = cid2key[r[0]]
-    if r[2] not in gid2key:
+    if r[2] not in pharmgkb2prot:
         gkey = None
     else:
-        gkey = gid2key[r[2]]
+        gkey = pharmgkb2prot[r[2]]
     if gkey is None or ckey is None:
         continue
     triplets.update([(ckey, r[0], r[1], gkey, r[3], r[2], r[5], r[4])])

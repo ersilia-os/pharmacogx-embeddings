@@ -13,7 +13,7 @@ class ProteinSequenceEmbedding(object):
         self.embedding_type = embedding_type
 
     def available(self):
-        return ["esm1b", "prot5", "uniprot"]
+        return ["esm1b", "uniprot"]
 
     def _get_prots5(self):
         with h5py.File(os.path.join(data_folder, "human_proteome_prots5.h5"), "r") as f:

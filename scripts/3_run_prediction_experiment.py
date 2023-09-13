@@ -15,8 +15,8 @@ df = pd.read_csv(
 df = df[df["chemical_of_interest"] == 1]
 
 embeddings_names = get_embedding_names()
-cemb_names_list = embeddings_names["compound"][:2]
-pemb_names_list = embeddings_names["protein"][:2]
+cemb_names_list = embeddings_names["compound"]
+pemb_names_list = embeddings_names["protein"]
 
 sufixes = [
     ("all_outcomes", "all_genes"),
@@ -33,7 +33,6 @@ for sufix_0, sufix_1 in sufixes:
     for l in os.listdir(model_folder):
         if l.startswith("fold_"):
             n_folds += 1
-    n_folds = 2
     fg0 = []
     fg1 = []
     for i in tqdm(range(n_folds)):
@@ -70,6 +69,8 @@ for fg in fold_groups:
     df = df.drop(cols0 + cols1, axis=1)
 
 df.to_csv(
-    os.path.join(root, "..", "results", "chemical_gene_pairs_prediction_output.csv"),
+    os.path.join(
+        root, "..", "results", "chemical_gene_pairs_prediction_output_focus.csv"
+    ),
     index=False,
 )
