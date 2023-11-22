@@ -3,7 +3,9 @@ Calculate drug, gene, variant and disease graph embeddings based on pharmacogeno
 
 ## :construction: This is library is in continuous development and it is currently intended for internal use. We are currently working on it. Stay tuned! :construction: 
 
-Real-time project progress will be tracked via [GitHub Projects](https://github.com/orgs/ersilia-os/projects/7/views/1)
+Real-time project progress will be tracked via [GitHub Projects](https://github.com/orgs/ersilia-os/projects/7/views/1).
+
+> You can also check the [PharmacoGx-ARSA](https://github.com/ersilia-os/pharmacogx-arsa) repository for more details on the processing of 'African variants'.
 
 ## Project overview
 
