@@ -2,7 +2,7 @@ import random
 import pandas as pd
 
 
-class PositiveNegativeSampler(object):
+class PairPositiveNegativeSampler(object):
     def __init__(self, df, neg_ratio=10):
         self.df = df
         self.columns = list(df.columns)

@@ -2,7 +2,6 @@
 import pandas as pd
 import argparse
 import os
-from tqdm import tqdm
 from rdkit import Chem
 from rdkit import RDLogger
 from standardiser import standardise
