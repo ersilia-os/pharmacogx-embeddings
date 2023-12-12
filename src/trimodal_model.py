@@ -46,7 +46,11 @@ class BaseTrimodalModel(object):
             self.n_components_single_reducer_2 = X2.shape[1]
         if X3.shape[1] < self.n_components_single_reducer_3:
             self.n_components_single_reducer_3 = X3.shape[1]
-        ncs = self.n_components_single_reducer_1 + self.n_components_single_reducer_2 + self.n_components_single_reducer_3
+        ncs = (
+            self.n_components_single_reducer_1
+            + self.n_components_single_reducer_2
+            + self.n_components_single_reducer_3
+        )
         if ncs < self.n_components_stacked_reducer:
             self.n_components_stacked_reducer = ncs
         self.single_reducer_1 = PCA(
@@ -102,7 +106,9 @@ class BaseTrimodalModel(object):
 
 
 def load_trimodal_stacked_model(file_name):
-    emb_name_A, emb_name_B, emb_name_C, model_file_name, is_fitted = joblib.load(file_name)
+    emb_name_A, emb_name_B, emb_name_C, model_file_name, is_fitted = joblib.load(
+        file_name
+    )
     mdl = TrimodalStackedModel(emb_name_A, emb_name_B, emb_name_C)
     mdl._is_fitted = is_fitted
     mdl.model = load_base_trimodal_model(model_file_name)
@@ -224,12 +230,16 @@ def load_ensemble_trimodal_stacked_model(model_folder):
     cemb_list = emb["cemb_list"]
     pemb_list = emb["pemb_list"]
     vemb_list = emb["vemb_list"]
-    model = EnsembleTrimodalStackedModel(cemb_list, pemb_list, vemb_list, model_folder=model_folder)
+    model = EnsembleTrimodalStackedModel(
+        cemb_list, pemb_list, vemb_list, model_folder=model_folder
+    )
     return model
 
 
 class EnsembleTrimodalStackedModel(object):
-    def __init__(self, emb_name_list_A, emb_name_list_B, emb_name_list_C, model_folder=None):
+    def __init__(
+        self, emb_name_list_A, emb_name_list_B, emb_name_list_C, model_folder=None
+    ):
         self.emb_name_list_A = emb_name_list_A
         self.emb_name_list_B = emb_name_list_B
         self.emb_name_list_C = emb_name_list_C
@@ -350,7 +360,10 @@ class EnsembleTrimodalStackedModel(object):
                     model = load_trimodal_stacked_model(file_name)
                     results = model.evaluate(df)
                     print(name, results["n_eval"], results["auroc"])
-                    data[name] = {"auroc": results["auroc"], "n_eval": results["n_eval"]}
+                    data[name] = {
+                        "auroc": results["auroc"],
+                        "n_eval": results["n_eval"],
+                    }
                     pred_stack[name] = np.array(results["data"]["y_hat"])
         y_hat, _ = self.average(pred_stack)
         y_hat_w, _ = self.weighted_average(pred_stack, data)
@@ -391,7 +404,7 @@ class EnsembleTrimodalStackedModel(object):
         data = {
             "emb_name_list_A": self.emb_name_list_A,
             "emb_name_list_B": self.emb_name_list_B,
-            "emb_name_list_C": self.emb_name_list_C
+            "emb_name_list_C": self.emb_name_list_C,
         }
         with open(self.get_embeddings_filename(), "w") as f:
             json.dump(data, f, indent=4)

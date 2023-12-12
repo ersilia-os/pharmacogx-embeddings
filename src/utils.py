@@ -4,9 +4,6 @@ import os
 import numpy as np
 from sklearn.preprocessing import KBinsDiscretizer
 from sklearn.feature_selection import VarianceThreshold
-from rdkit import Chem
-from rdkit.Chem import Descriptors
-from tqdm import tqdm
 import joblib
 
 

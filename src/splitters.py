@@ -21,12 +21,12 @@ class RandomSplitter(object):
         df_tr = pd.DataFrame(R_tr, columns=list(df.columns))
         df_te = pd.DataFrame(R_te, columns=list(df.columns))
         return df_tr, df_te
-    
+
 
 class RandomPairSplitter(RandomSplitter):
     def __init__(self, test_size=0.2):
         RandomSplitter.__init__(self, test_size=test_size)
-    
+
 
 class RandomTripletSplitter(RandomSplitter):
     def __init__(self, test_size=0.2):
@@ -55,7 +55,7 @@ class LeaveColumnOutSplitter(object):
         df_tr = pd.DataFrame(R_tr, columns=list(df.columns))
         df_te = pd.DataFrame(R_te, columns=list(df.columns))
         return df_tr, df_te
-    
+
 
 class LeaveGenesOutPairSplitter(LeaveColumnOutSplitter):
     def __init__(self, test_size=0.2):

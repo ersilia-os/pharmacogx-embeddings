@@ -1,6 +1,8 @@
 # Introduced by ersilia
-models
-embeddings
+models_pairs
+models_triplets
+embeddings_pairs
+embeddings_triplets
 data/variants/residue_level_embeddings/human_proteome_uniprot_per_residue.h5
 development.py
 .DS_Store
