@@ -136,6 +136,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-results/chemical_gene_pairs_prediction_output.csv
+results_pairs/chemical_gene_pairs_prediction_output.csv
 run.sh
-data/ml_datasets/chemical_gene_pairs_prediction_input.csv
+data/ml_datasets_pairs/chemical_gene_pairs_prediction_input.csv

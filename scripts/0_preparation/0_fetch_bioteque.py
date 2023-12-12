@@ -4,7 +4,7 @@ import tempfile
 import shutil
 
 root = os.path.dirname(os.path.abspath(__file__))
-data_path = os.path.abspath(os.path.join(root, "..", "data"))
+data_path = os.path.abspath(os.path.join(root, "..", "..", "data"))
 bioteque_path = os.path.abspath(os.path.join(data_path, "bioteque"))
 
 

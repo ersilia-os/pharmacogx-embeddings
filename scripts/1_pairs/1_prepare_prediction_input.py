@@ -8,11 +8,11 @@ import uuid
 
 root = os.path.dirname(os.path.abspath(__file__))
 
-ml_datasets_folder = os.path.join(root, "..", "data", "ml_datasets")
+ml_datasets_folder = os.path.join(root, "..",  "..", "data", "ml_datasets")
 
 # Focus compounds are antimalarial and antituberculosis drugs provided by H3D
 focus_compounds = pd.read_csv(
-    os.path.join(root, "../data/of_interest/curated_drugs_for_gradient.tsv"), sep="\t"
+    os.path.join(root, "..", "..", "data", "of_interest", "curated_drugs_for_gradient.tsv"), sep="\t"
 )
 inchikeys = []
 
@@ -44,20 +44,20 @@ focus_compounds = pd.DataFrame(R, columns=["inchikey", "chemical", "smiles"])
 
 # Focus genes are ADME genes provided by H3D
 focus_genes = pd.read_csv(
-    os.path.join(root, "../data/of_interest/adme_gene_list.tsv"), sep="\t"
+    os.path.join(root, "..", "..", "data", "of_interest", "adme_gene_list.tsv"), sep="\t"
 )
 
 print(focus_genes)
 
 # Map genes to UniProt ACs
 hp = pd.read_csv(
-    os.path.join(root, "../data/other/human_proteome_with_genenames.tab"), sep="\t"
+    os.path.join(root, "..", "..", "data", "other", "human_proteome_with_genenames.tab"), sep="\t"
 )
 cols = list(hp.columns)
 hp = hp[(hp[cols[0]].notnull()) & (hp[cols[2]].notnull())]
 g2p = {}
 up = pd.read_csv(
-    os.path.join("..", "data", "other", "human_proteome_with_genenames.tab"),
+    os.path.join(root, "..", "..", "data", "other", "human_proteome_with_genenames.tab"),
     sep="\t",
 )
 for v in up[
@@ -76,7 +76,7 @@ for v in up[
 
 pharmgkb2prot = {}
 pharmgkb2gene = {}
-for r in pd.read_csv("../data/other/pgkb_gene_uniprot_mapping.tsv", sep="\t").values:
+for r in pd.read_csv(os.path.join(root, "..", "..", "data", "other", "pgkb_gene_uniprot_mapping.tsv"), sep="\t").values:
     pharmgkb2prot[r[0]] = r[2]
     pharmgkb2gene[r[0]] = r[1]
 
@@ -87,7 +87,7 @@ adme_genes = set(focus_genes["PharmGKB ID"])
 # screening data (our genes + all genes in PharmGKB with *some* kind of annotation)
 df = pd.read_csv(
     os.path.join(
-        root, "..", "data", "pharmgkb_processed", "final_tables", "pgkb_merged.csv"
+        root, "..", "..", "data", "pharmgkb_processed", "final_tables", "pgkb_merged.csv"
     ),
     low_memory=False,
 )
@@ -202,19 +202,19 @@ di["adme_gene"] = goi
 
 used = set()
 for r in pd.read_csv(
-    os.path.join(root, "..", "data", "ml_datasets", "df_all_outcomes_all_genes.csv")
+    os.path.join(root, "..", "..", "data", "ml_datasets", "df_all_outcomes_all_genes.csv")
 )[["cid", "gid"]].values:
     used.update([tuple(r)])
 
 used_pk = set()
 for r in pd.read_csv(
-    os.path.join(root, "..", "data", "ml_datasets", "df_only_pk_all_genes.csv")
+    os.path.join(root, "..", "..", "data", "ml_datasets", "df_only_pk_all_genes.csv")
 )[["cid", "gid"]].values:
     used_pk.update([tuple(r)])
 
 used_pk_adme = set()
 for r in pd.read_csv(
-    os.path.join(root, "..", "data", "ml_datasets", "df_only_pk_only_adme_genes.csv")
+    os.path.join(root, "..", "..", "data", "ml_datasets", "df_only_pk_only_adme_genes.csv")
 )[["cid", "gid"]].values:
     used_pk_adme.update([tuple(r)])
 
@@ -243,7 +243,7 @@ print(di)
 
 di.to_csv(
     os.path.join(
-        root, "..", "data", "ml_datasets", "chemical_gene_pairs_prediction_input.csv"
+        root, "..", "..", "data", "ml_datasets_pairs", "chemical_gene_pairs_prediction_input.csv"
     ),
     index=False,
 )

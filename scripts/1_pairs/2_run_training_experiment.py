@@ -4,7 +4,7 @@ import sys
 import pandas as pd
 
 root = os.path.dirname(os.path.abspath(__file__))
-sys.path.append(os.path.join(root, "..", "src"))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 from samplers import PairPositiveNegativeSampler
 from splitters import RandomPairSplitter
 from bimodal_model import EnsembleBimodalStackedModel, get_embedding_names
@@ -41,13 +41,13 @@ else:
     sufix_1 = "all_genes"
 
 input_csv = os.path.join(
-    root, "..", "data", "ml_datasets", "df_{0}_{1}.csv".format(sufix_0, sufix_1)
+    root, "..", "..", "data", "ml_datasets_pairs", "df_{0}_{1}.csv".format(sufix_0, sufix_1)
 )
 
 if model_name is None:
     model_name = "model_{0}_{1}".format(sufix_0, sufix_1)
 
-model_folder = os.path.join(root, "..", "models", model_name)
+model_folder = os.path.join(root, "..", "..", "models_pairs", model_name)
 
 print("Training models")
 

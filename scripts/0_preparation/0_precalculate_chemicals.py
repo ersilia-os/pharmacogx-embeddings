@@ -18,11 +18,11 @@ lg.setLevel(RDLogger.CRITICAL)
 warnings.filterwarnings("ignore")
 
 root = os.path.dirname(os.path.abspath(__file__))
-results_dir = os.path.join(root, "..", "data", "chemical_descriptors")
+results_dir = os.path.join(root, "..", "..", "data", "chemical_descriptors")
 
 if not os.path.exists(os.path.join(results_dir, "drug_molecules.csv")):
     df = pd.read_csv(
-        os.path.join(root, "..", "data", "pharmgkb_processed", "chemical.csv")
+        os.path.join(root, "..", "..", "data", "pharmgkb_processed", "chemical.csv")
     )
     smiles_list = [
         y for x in df[df["smiles"].notnull()]["smiles"].tolist() for y in x.split(" ")
