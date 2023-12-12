@@ -4,12 +4,12 @@ import sys
 from tqdm import tqdm
 
 root = os.path.dirname(os.path.abspath(__file__))
-sys.path.append(os.path.join(root, "..", "src"))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 from bimodal_model import EnsembleBimodalStackedModel, get_embedding_names
 
 df = pd.read_csv(
     os.path.join(
-        root, "..", "data", "ml_datasets", "chemical_gene_pairs_prediction_input.csv"
+        root, "..", "..", "data", "ml_datasets_pairs", "chemical_gene_pairs_prediction_input.csv"
     )
 )
 
@@ -87,6 +87,7 @@ for chunk_count, df_chunk in enumerate(chunks):
     df.to_csv(
         os.path.join(
             root,
+            "..",
             "..",
             "results",
             "chemical_gene_pairs_prediction_output_{0}.csv".format(chunk_count),

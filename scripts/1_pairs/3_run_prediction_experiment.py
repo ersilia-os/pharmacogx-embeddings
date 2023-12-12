@@ -4,12 +4,12 @@ import sys
 from tqdm import tqdm
 
 root = os.path.dirname(os.path.abspath(__file__))
-sys.path.append(os.path.join(root, "..", "src"))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 from bimodal_model import EnsembleBimodalStackedModel, get_embedding_names
 
 df = pd.read_csv(
     os.path.join(
-        root, "..", "data", "ml_datasets", "chemical_gene_pairs_prediction_input.csv"
+        root, "..", "..", "data", "ml_datasets", "chemical_gene_pairs_prediction_input.csv"
     )
 )
 df = df[df["chemical_of_interest"] == 1]
@@ -70,7 +70,7 @@ for fg in fold_groups:
 
 df.to_csv(
     os.path.join(
-        root, "..", "results", "chemical_gene_pairs_prediction_output_focus.csv"
+        root, "..", "..", "results", "chemical_gene_pairs_prediction_output_focus.csv"
     ),
     index=False,
 )

@@ -3,12 +3,12 @@ import sys
 import pandas as pd
 
 root = os.path.dirname(os.path.abspath(__file__))
-sys.path.append(os.path.join(root, "..", "src"))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 
 from variants import SnpEffTableEncoder
 
 pharmgkb_file = os.path.join(
-    root, "..", "data", "variants", "pharmgkb", "pharmgkb_mutations.tsv"
+    root, "..", "..", "data", "variants", "pharmgkb", "pharmgkb_mutations.tsv"
 )
 
 print("Reading data")

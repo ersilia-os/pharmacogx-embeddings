@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 root = os.path.dirname(os.path.abspath(__file__))
 
-results_dir = os.path.abspath(os.path.join(root, "..", "results"))
+results_dir = os.path.abspath(os.path.join(root, "..", "..", "results"))
 
 
 class DynamicCalculator:

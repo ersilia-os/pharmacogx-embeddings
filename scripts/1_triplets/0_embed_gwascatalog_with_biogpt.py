@@ -7,11 +7,11 @@ import sys
 import h5py
 
 root = os.path.dirname(os.path.abspath(__file__))
-sys.path.append(os.path.join(root, "..", "src"))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 
 from biogpt import BioGPTEmbedder
 
-data_path = os.path.join(root, "..", "data", "gwas_ebi")
+data_path = os.path.join(root, "..", "..", "data", "gwas_ebi")
 
 df = pd.read_csv(
     os.path.join(data_path, "gwas_catalog_v1.0.2-associations_e110_r2023-07-29.tsv"),
