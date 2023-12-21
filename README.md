@@ -65,6 +65,33 @@ These tables are merged into the PGX relationship table. At this moment, the PGX
 * `notebooks`: testing notebooks and examples
 * `src`: source code for the building of the KG
 
+Please note that, upon running the pipeline, the following folders will be created:
+* `embedding_pairs` and/or `embedding_triplets`: embedding information as dataframes.
+* `results_pairs` and/or `results_triplets`: results of prediction experiments.
+
+## Experiment pipelines
+
+### Phase 1: Drug-Gene pairs
+
+* Input: **PharmGKB** drug-gene pairs.
+* Output: All **pair-wise combinations** on **PharmGKB** genes and drugs.
+
+#### Steps
+
+1. Run scripts in `scripts/0_preparation`.
+1. Run scripts in `scripts/1_pairs`.
+
+### Phase 2: Drug-Variant-Gene triplets
+
+* Input: **PharmGKB** drug-variant-gene triplets & **African variants**.
+* Output: Prediction of **African drug-variants-gene triplets** of potential pharmacogenetic relevance.
+
+#### Steps
+
+1. Get **African variants**. Please see repository [pharmacogx-arsa](https://github.com/ersilia-os/pharmacogx-arsa).
+1. Run scripts in `scripts/0_preparation`.
+1. Run scripts in `scripts/1_triplets`.
+
 ## License
 The code in this repository is licensed under a GNU General Public License v3.0. The data comes from public repositories and is limited to the licenses stated by the original data producers.
 
