@@ -9,7 +9,12 @@ from bimodal_model import EnsembleBimodalStackedModel, get_embedding_names
 
 df = pd.read_csv(
     os.path.join(
-        root, "..", "..", "data", "ml_datasets", "chemical_gene_pairs_prediction_input.csv"
+        root,
+        "..",
+        "..",
+        "data",
+        "ml_datasets",
+        "chemical_gene_pairs_prediction_input.csv",
     )
 )
 df = df[df["chemical_of_interest"] == 1]

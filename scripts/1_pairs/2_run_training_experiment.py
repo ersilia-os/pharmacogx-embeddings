@@ -41,7 +41,12 @@ else:
     sufix_1 = "all_genes"
 
 input_csv = os.path.join(
-    root, "..", "..", "data", "ml_datasets_pairs", "df_{0}_{1}.csv".format(sufix_0, sufix_1)
+    root,
+    "..",
+    "..",
+    "data",
+    "ml_datasets_pairs",
+    "df_{0}_{1}.csv".format(sufix_0, sufix_1),
 )
 
 if model_name is None:

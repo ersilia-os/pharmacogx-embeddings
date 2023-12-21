@@ -2,7 +2,7 @@ import os
 import sys
 
 root = os.path.dirname(os.path.abspath(__file__))
-sys.path.append(os.path.join(root, "..",  "..", "src"))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 
 from utils import H5Normalizer
 

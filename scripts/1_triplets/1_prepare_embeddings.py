@@ -4,7 +4,7 @@ import joblib
 import json
 
 root = os.path.dirname(os.path.abspath(__file__))
-embeddings_folder = os.path.join(root, "..",  "..", "embeddings_triplets")
+embeddings_folder = os.path.join(root, "..", "..", "embeddings_triplets")
 
 sys.path.append(os.path.join(root, "..", "..", "src"))
 

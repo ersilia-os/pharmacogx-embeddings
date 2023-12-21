@@ -11,7 +11,7 @@ RDLogger.DisableLog("rdApp.*")
 
 root = os.path.dirname(os.path.abspath(__file__))
 
-output_folder = os.path.join(root, "..",  "..", "data", "ml_datasets_pairs")
+output_folder = os.path.join(root, "..", "..", "data", "ml_datasets_pairs")
 
 parser = argparse.ArgumentParser()
 parser.add_argument(
@@ -29,7 +29,9 @@ only_pk = args.only_pk
 
 # Read main processed PharmGKB table
 df = pd.read_csv(
-    os.path.join(root, "..", "data", "pharmgkb_processed", "final_tables", "pgkb_merged.csv"),
+    os.path.join(
+        root, "..", "data", "pharmgkb_processed", "final_tables", "pgkb_merged.csv"
+    ),
     low_memory=False,
 )
 
@@ -48,12 +50,16 @@ table_statistics(df)
 
 # Focus genes are ADME genes provided by H3D
 focus_genes = pd.read_csv(
-    os.path.join(root, "..", "..", "data", "of_interest", "adme_gene_list.tsv"), sep="\t"
+    os.path.join(root, "..", "..", "data", "of_interest", "adme_gene_list.tsv"),
+    sep="\t",
 )
 
 # Focus compounds are antimalarial and antituberculosis drugs provided by H3D
 focus_compounds = pd.read_csv(
-    os.path.join(root, "..", "..", "data", "of_interest", "curated_drugs_for_gradient.tsv"), sep="\t"
+    os.path.join(
+        root, "..", "..", "data", "of_interest", "curated_drugs_for_gradient.tsv"
+    ),
+    sep="\t",
 )
 
 
@@ -119,13 +125,18 @@ for cid, smi in cid2smi_.items():
 
 # Map genes to UniProt ACs
 hp = pd.read_csv(
-    os.path.join(root, "..", "..", "data", "other", "human_proteome_with_genenames.tab"), sep="\t"
+    os.path.join(
+        root, "..", "..", "data", "other", "human_proteome_with_genenames.tab"
+    ),
+    sep="\t",
 )
 cols = list(hp.columns)
 hp = hp[(hp[cols[0]].notnull()) & (hp[cols[2]].notnull())]
 g2p = {}
 up = pd.read_csv(
-    os.path.join(root, "..", "..", "data", "other", "human_proteome_with_genenames.tab"),
+    os.path.join(
+        root, "..", "..", "data", "other", "human_proteome_with_genenames.tab"
+    ),
     sep="\t",
 )
 for v in up[
@@ -153,7 +164,10 @@ for r in df[["gid", "gene"]].values:
 
 pharmgkb2prot = {}
 pharmgkb2gene = {}
-for r in pd.read_csv(os.path.join(root, "..", "..", "data", "other", "pgkb_gene_uniprot_mapping.tsv"), sep="\t").values:
+for r in pd.read_csv(
+    os.path.join(root, "..", "..", "data", "other", "pgkb_gene_uniprot_mapping.tsv"),
+    sep="\t",
+).values:
     pharmgkb2prot[r[0]] = r[2]
     pharmgkb2gene[r[0]] = r[1]
 
