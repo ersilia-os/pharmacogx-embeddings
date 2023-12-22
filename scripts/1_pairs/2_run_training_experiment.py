@@ -52,7 +52,16 @@ input_csv = os.path.join(
 if model_name is None:
     model_name = "model_{0}_{1}".format(sufix_0, sufix_1)
 
-model_folder = os.path.join(root, "..", "..", "models_pairs", model_name)
+model_base = os.path.join(root, "..", "..", "models")
+if not os.path.exists(model_base):
+    os.mkdir(model_base)
+
+if not os.path.exists(os.path.join(model_base,"models_pairs")):
+    os.mkdir(os.path.join(model_base,"models_pairs"))
+
+model_folder = os.path.join(model_base, "models_pairs", model_name)
+if not os.path.exists(model_folder):
+    os.mkdir(model_folder)
 
 print("Training models")
 

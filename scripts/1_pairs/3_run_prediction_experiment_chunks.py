@@ -42,6 +42,10 @@ def split_dataframe(df, chunk_size):
 
 chunks = split_dataframe(df, 50000)
 
+results_folder = os.path.join(root, "..", "..", "results_pairs")
+if not os.path.exists(results_folder):
+    os.mkdir(results_folder)
+
 for chunk_count, df_chunk in enumerate(chunks):
     df_chunk = pd.DataFrame(df_chunk).copy()
     print("Chunk", chunk_count)
@@ -49,7 +53,7 @@ for chunk_count, df_chunk in enumerate(chunks):
     for sufix_0, sufix_1 in sufixes:
         model_name = "model_{0}_{1}".format(sufix_0, sufix_1)
         print(model_name)
-        model_folder = os.path.join(root, "..", "models", model_name)
+        model_folder = os.path.join(root, "..", "..", "models", "models_pairs", model_name)
         n_folds = 0
         for l in os.listdir(model_folder):
             if l.startswith("fold_"):
@@ -91,10 +95,7 @@ for chunk_count, df_chunk in enumerate(chunks):
 
     df.to_csv(
         os.path.join(
-            root,
-            "..",
-            "..",
-            "results",
+            results_folder,
             "chemical_gene_pairs_prediction_output_{0}.csv".format(chunk_count),
         ),
         index=False,

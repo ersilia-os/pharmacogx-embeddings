@@ -8,7 +8,8 @@ import uuid
 
 root = os.path.dirname(os.path.abspath(__file__))
 
-ml_datasets_folder = os.path.join(root, "..", "..", "data", "ml_datasets")
+ml_datasets_folder = os.path.join(root, "..", "..", "data", "ml_datasets_pairs")
+
 
 # Focus compounds are antimalarial and antituberculosis drugs provided by H3D
 focus_compounds = pd.read_csv(
@@ -221,21 +222,21 @@ di["adme_gene"] = goi
 used = set()
 for r in pd.read_csv(
     os.path.join(
-        root, "..", "..", "data", "ml_datasets", "df_all_outcomes_all_genes.csv"
+        ml_datasets_folder, "df_all_outcomes_all_genes.csv"
     )
 )[["cid", "gid"]].values:
     used.update([tuple(r)])
 
 used_pk = set()
 for r in pd.read_csv(
-    os.path.join(root, "..", "..", "data", "ml_datasets", "df_only_pk_all_genes.csv")
+    os.path.join(ml_datasets_folder, "df_only_pk_all_genes.csv")
 )[["cid", "gid"]].values:
     used_pk.update([tuple(r)])
 
 used_pk_adme = set()
 for r in pd.read_csv(
     os.path.join(
-        root, "..", "..", "data", "ml_datasets", "df_only_pk_only_adme_genes.csv"
+       ml_datasets_folder, "df_only_pk_only_adme_genes.csv"
     )
 )[["cid", "gid"]].values:
     used_pk_adme.update([tuple(r)])
@@ -264,13 +265,6 @@ di["train_set_pk_adme"] = u2
 print(di)
 
 di.to_csv(
-    os.path.join(
-        root,
-        "..",
-        "..",
-        "data",
-        "ml_datasets_pairs",
-        "chemical_gene_pairs_prediction_input.csv",
-    ),
+    os.path.join(ml_datasets_folder,"chemical_gene_pairs_prediction_input.csv"),
     index=False,
 )

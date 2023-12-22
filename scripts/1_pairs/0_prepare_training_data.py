@@ -13,6 +13,9 @@ root = os.path.dirname(os.path.abspath(__file__))
 
 output_folder = os.path.join(root, "..", "..", "data", "ml_datasets_pairs")
 
+if not os.path.exists(output_folder):
+    os.mkdir(output_folder)
+
 parser = argparse.ArgumentParser()
 parser.add_argument(
     "--only_adme_genes",
@@ -30,7 +33,7 @@ only_pk = args.only_pk
 # Read main processed PharmGKB table
 df = pd.read_csv(
     os.path.join(
-        root, "..", "data", "pharmgkb_processed", "final_tables", "pgkb_merged.csv"
+        root, "..", "..", "data", "pharmgkb_processed", "final_tables", "pgkb_merged.csv"
     ),
     low_memory=False,
 )

@@ -13,7 +13,7 @@ df = pd.read_csv(
         "..",
         "..",
         "data",
-        "ml_datasets",
+        "ml_datasets_pairs",
         "chemical_gene_pairs_prediction_input.csv",
     )
 )
@@ -30,10 +30,15 @@ sufixes = [
 ]
 
 fold_groups = []
+
+results_folder = os.path.join(root, "..", "..", "results_pairs")
+if not os.path.exists(results_folder):
+    os.mkdir(results_folder)
+
 for sufix_0, sufix_1 in sufixes:
     model_name = "model_{0}_{1}".format(sufix_0, sufix_1)
     print(model_name)
-    model_folder = os.path.join(root, "..", "models", model_name)
+    model_folder = os.path.join(root, "..", "..", "models", "models_pairs", model_name)
     n_folds = 0
     for l in os.listdir(model_folder):
         if l.startswith("fold_"):
@@ -75,7 +80,7 @@ for fg in fold_groups:
 
 df.to_csv(
     os.path.join(
-        root, "..", "..", "results", "chemical_gene_pairs_prediction_output_focus.csv"
+        results_folder, "results", "chemical_gene_pairs_prediction_output_focus.csv"
     ),
     index=False,
 )
