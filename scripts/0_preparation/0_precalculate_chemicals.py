@@ -6,7 +6,7 @@ from rdkit.Chem import Descriptors
 from standardiser import standardise
 import h5py
 import numpy as np
-from eosce.models import ErsiliaCompoundEmbeddings
+#from eosce.models import ErsiliaCompoundEmbeddings
 from rdkit import RDLogger
 import warnings
 
@@ -18,7 +18,10 @@ lg.setLevel(RDLogger.CRITICAL)
 warnings.filterwarnings("ignore")
 
 root = os.path.dirname(os.path.abspath(__file__))
-results_dir = os.path.join(root, "..", "..", "data", "chemical_descriptors")
+results_dir = os.path.join(root, "..", "..", "data", "chemical_descriptors_")
+
+if not os.path.exists(results_dir):
+    os.mkdir(results_dir)
 
 if not os.path.exists(os.path.join(results_dir, "drug_molecules.csv")):
     df = pd.read_csv(
@@ -31,7 +34,7 @@ if not os.path.exists(os.path.join(results_dir, "drug_molecules.csv")):
 
     df = pd.read_csv(
         os.path.join(
-            root, "..", "data", "of_interest", "curated_drugs_for_gradient.tsv"
+            root, "..","..", "data", "of_interest", "curated_drugs_for_gradient.tsv"
         ),
         delimiter="\t",
     )
@@ -79,6 +82,8 @@ if not os.path.exists(os.path.join(results_dir, "drug_molecules.csv")):
     df = pd.DataFrame(R, columns=["inchikey", "smiles"])
     df.to_csv(os.path.join(results_dir, "drug_molecules.csv"), index=False)
 
+
+"""
 else:
     df = pd.read_csv(os.path.join(results_dir, "drug_molecules.csv"))
     smiles_list = df["smiles"].tolist()
@@ -98,3 +103,4 @@ else:
         f.create_dataset("Values", data=np.array(embeddings, dtype=np.float32))
 
     # the rest are generated, more simply, with ersilia CLI (eos4u6p, eos7w6n, etc)
+"""
