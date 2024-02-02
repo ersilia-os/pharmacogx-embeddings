@@ -17,15 +17,43 @@ df = pd.read_csv(file_path)
 
 uniprot_acs = set(df["uniprot_ac"])
 
-uniprot_ensemble_mapping = pd.read_csv(os.path.join(root, "..", "..", "data", "variants", "uniprotac_gene_mapping", "ensembl_uniprot_mapping_of_variants.tsv"), sep="\t")
+uniprot_ensemble_mapping = pd.read_csv(
+    os.path.join(
+        root,
+        "..",
+        "..",
+        "data",
+        "variants",
+        "uniprotac_gene_mapping",
+        "ensembl_uniprot_mapping_of_variants.tsv",
+    ),
+    sep="\t",
+)
 
-gene_level_variants = pd.read_csv(os.path.join(root, "..", "..", "data", "variants", "1000_Genomes", "subset_snvs_protein_coding_1kGPhg38_gene_level.tsv"), sep="\t")
+gene_level_variants = pd.read_csv(
+    os.path.join(
+        root,
+        "..",
+        "..",
+        "data",
+        "variants",
+        "1000_Genomes",
+        "subset_snvs_protein_coding_1kGPhg38_gene_level.tsv",
+    ),
+    sep="\t",
+)
 
 data_ = collections.defaultdict(list)
 for uniprot_ac in uniprot_acs:
-    ensembl_subset = list(uniprot_ensemble_mapping[uniprot_ensemble_mapping["Entry"] == uniprot_ac]["From"])
+    ensembl_subset = list(
+        uniprot_ensemble_mapping[uniprot_ensemble_mapping["Entry"] == uniprot_ac][
+            "From"
+        ]
+    )
     for g in ensembl_subset:
-        gene_level_variants_subset = gene_level_variants[gene_level_variants["ensemble_id"] == g]
+        gene_level_variants_subset = gene_level_variants[
+            gene_level_variants["ensemble_id"] == g
+        ]
         R = []
         for r in gene_level_variants_subset.values:
             R += [list(r)]
@@ -38,7 +66,7 @@ for k in uniprot_acs:
     else:
         v = data_[k]
     if len(v) == 0:
-        data[k] = [0]*6
+        data[k] = [0] * 6
     else:
         R = []
         for x in v:
@@ -61,4 +89,13 @@ df_2 = df[columns[cut:]]
 
 df_final = pd.concat([df_0, df_1, df_2], axis=1)
 
-df_final.to_csv(os.path.join(root, "..", "..", "results_pairs", "chemical_gene_pairs_prediction_output_focus_with_variant_aggregates.csv"), index=False)
+df_final.to_csv(
+    os.path.join(
+        root,
+        "..",
+        "..",
+        "results_pairs",
+        "chemical_gene_pairs_prediction_output_focus_with_variant_aggregates.csv",
+    ),
+    index=False,
+)

@@ -34,7 +34,10 @@ class DynamicCalculator:
 
 
 df = pd.read_csv(
-    os.path.join(results_dir, "chemical_gene_pairs_prediction_output_focus_with_variant_aggregates.csv")
+    os.path.join(
+        results_dir,
+        "chemical_gene_pairs_prediction_output_focus_with_variant_aggregates.csv",
+    )
 )
 
 print(df.columns)
@@ -73,7 +76,8 @@ df = df[df[new_col_names].gt(threshold).any(axis=1)]
 
 df.to_csv(
     os.path.join(
-        results_dir, "chemical_gene_pairs_prediction_with_zscore_and_filtered_with_variant_aggregates.csv"
+        results_dir,
+        "chemical_gene_pairs_prediction_with_zscore_and_filtered_with_variant_aggregates.csv",
     ),
     index=False,
 )

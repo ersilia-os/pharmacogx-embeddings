@@ -4,7 +4,7 @@ import joblib
 import json
 
 root = os.path.dirname(os.path.abspath(__file__))
-embeddings_folder = os.path.join(root, "..", "..","embeddings")
+embeddings_folder = os.path.join(root, "..", "..", "embeddings")
 if not os.path.exists(embeddings_folder):
     os.mkdir(embeddings_folder)
 

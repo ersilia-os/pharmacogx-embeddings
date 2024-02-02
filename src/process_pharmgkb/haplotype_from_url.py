@@ -57,9 +57,11 @@ def create_allele_definition_file(df):
         df1["NC"] = df1["NC"].apply(lambda x: f"{ch}:{x}" if x else None)
     df1["gene"] = [g] * len(df1)
     df1["haplotype"] = df1.apply(
-        lambda row: row["gene"] + str(row["haplotype_number"])
-        if str(row["haplotype_number"]).startswith("*")
-        else row["gene"] + " " + str(row["haplotype_number"]),
+        lambda row: (
+            row["gene"] + str(row["haplotype_number"])
+            if str(row["haplotype_number"]).startswith("*")
+            else row["gene"] + " " + str(row["haplotype_number"])
+        ),
         axis=1,
     )
     return df1

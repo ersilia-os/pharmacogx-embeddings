@@ -56,8 +56,8 @@ model_base = os.path.join(root, "..", "..", "models")
 if not os.path.exists(model_base):
     os.mkdir(model_base)
 
-if not os.path.exists(os.path.join(model_base,"models_pairs")):
-    os.mkdir(os.path.join(model_base,"models_pairs"))
+if not os.path.exists(os.path.join(model_base, "models_pairs")):
+    os.mkdir(os.path.join(model_base, "models_pairs"))
 
 model_folder = os.path.join(model_base, "models_pairs", model_name)
 if not os.path.exists(model_folder):

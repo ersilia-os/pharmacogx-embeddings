@@ -6,7 +6,8 @@ from rdkit.Chem import Descriptors
 from standardiser import standardise
 import h5py
 import numpy as np
-#from eosce.models import ErsiliaCompoundEmbeddings
+
+# from eosce.models import ErsiliaCompoundEmbeddings
 from rdkit import RDLogger
 import warnings
 
@@ -34,7 +35,7 @@ if not os.path.exists(os.path.join(results_dir, "drug_molecules.csv")):
 
     df = pd.read_csv(
         os.path.join(
-            root, "..","..", "data", "of_interest", "curated_drugs_for_gradient.tsv"
+            root, "..", "..", "data", "of_interest", "curated_drugs_for_gradient.tsv"
         ),
         delimiter="\t",
     )

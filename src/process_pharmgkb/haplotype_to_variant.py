@@ -66,11 +66,15 @@ def check_hids():
 def hap_to_var(df):
     df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
     df2["variant"] = df2.apply(
-        lambda row: row["rsID"]
-        if pd.notnull(row["rsID"])
-        else str(row["gene"] + " " + row["start"])
-        if pd.notnull(row["start"])
-        else None,
+        lambda row: (
+            row["rsID"]
+            if pd.notnull(row["rsID"])
+            else (
+                str(row["gene"] + " " + row["start"])
+                if pd.notnull(row["start"])
+                else None
+            )
+        ),
         axis=1,
     )
     R = []
@@ -128,13 +132,19 @@ def hap_to_var(df):
 def add_vars(df):
     df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
     df2["variant"] = df2.apply(
-        lambda row: row["rsID"].strip()
-        if pd.notnull(row["rsID"])
-        else row["NC"].strip()
-        if pd.notnull(row["NC"])
-        else str(row["gene"] + " " + row["start"]).strip()
-        if pd.notnull(row["gene"]) and pd.notnull(row["start"])
-        else None,
+        lambda row: (
+            row["rsID"].strip()
+            if pd.notnull(row["rsID"])
+            else (
+                row["NC"].strip()
+                if pd.notnull(row["NC"])
+                else (
+                    str(row["gene"] + " " + row["start"]).strip()
+                    if pd.notnull(row["gene"]) and pd.notnull(row["start"])
+                    else None
+                )
+            )
+        ),
         axis=1,
     )
     df2["variant"] = df2["variant"].apply(

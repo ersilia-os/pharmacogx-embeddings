@@ -53,7 +53,9 @@ for chunk_count, df_chunk in enumerate(chunks):
     for sufix_0, sufix_1 in sufixes:
         model_name = "model_{0}_{1}".format(sufix_0, sufix_1)
         print(model_name)
-        model_folder = os.path.join(root, "..", "..", "models", "models_pairs", model_name)
+        model_folder = os.path.join(
+            root, "..", "..", "models", "models_pairs", model_name
+        )
         n_folds = 0
         for l in os.listdir(model_folder):
             if l.startswith("fold_"):

@@ -30,6 +30,28 @@ def download_gene_embeddings(metapath, dataset):
     shutil.rmtree(tmp_folder)
 
 
+def download_compound_embeddings(metapath, dataset):
+    cwd = os.getcwd()
+    output_path = os.path.join(bioteque_path, metapath, dataset)
+    if os.path.exists(output_path):
+        shutil.rmtree(output_path)
+    os.makedirs(output_path, exist_ok=True)
+    tmp_folder = tempfile.mkdtemp()
+    cmd = 'wget "https://bioteque.irbbarcelona.org/downloads/embeddings>CPD>{0}>{1}/embeddings.tar.gz" -O {2}/embeddings.tar.gz'.format(
+        metapath, dataset, tmp_folder
+    )
+    subprocess.Popen(cmd, shell=True).wait()
+    cmd = "cd {0}; tar -xf {1}/embeddings.tar.gz; cd {2}".format(
+        output_path, tmp_folder, cwd
+    )
+    subprocess.Popen(cmd, shell=True).wait()
+    keep_files = ["CPD_emb.h5", "CPD_ids.txt"]
+    for fn in os.listdir(output_path):
+        if fn not in keep_files:
+            os.remove(os.path.join(output_path, fn))
+    shutil.rmtree(tmp_folder)
+
+
 download_gene_embeddings("GEN-ass-DIS", "opentargets")
 download_gene_embeddings("GEN-ass-DIS", "disgenet_curated")
 download_gene_embeddings("GEN-has-MFN", "gomf_goa_curated")
@@ -43,3 +65,15 @@ download_gene_embeddings("GEN-has-DOM", "interpro")
 download_gene_embeddings("GEN-upr-CLL", "gdsc1000_mrna")
 download_gene_embeddings("GEN-ppi-GEN", "hi_union")
 download_gene_embeddings("GEN-cex-GEN", "coexpressdb")
+
+download_compound_embeddings("CPD-int-GEN", "curated_targets")
+download_compound_embeddings("CPD-int-GEN", "drugbank")
+download_compound_embeddings("CPD-int-GEN", "drugbank_pd")
+download_compound_embeddings("CPD-int-GEN", "drugbank_pk")
+download_compound_embeddings("CPD-int-GEN", "drugcentral")
+download_compound_embeddings("CPD-int-GEN", "pharmacogenomic_targets")
+download_compound_embeddings("CPD-int-GEN", "repohub")
+download_compound_embeddings("CPD-trt-DIS", "ctdchemdis")
+download_compound_embeddings("CPD-trt-DIS", "repohub")
+download_compound_embeddings("CPD-cau-DIS", "ctdchemdis")
+download_compound_embeddings("CPD-cau-DIS", "offsides+sider")
