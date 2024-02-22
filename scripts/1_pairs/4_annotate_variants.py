@@ -66,19 +66,25 @@ for k in uniprot_acs:
     else:
         v = data_[k]
     if len(v) == 0:
-        data[k] = [0] * 6
+        data[k] = [0] * 12 + [""]
     else:
         R = []
+        point_mutations = []
         for x in v:
-            R += [x[2:]]
+            pm = x[-1]
+            if str(pm) != "nan":
+                point_mutations += [pm]
+        point_mutations = sorted(set(point_mutations))
+        for x in v:
+            R += [x[2:-1]]
         R = np.array(R)
-        data[k] = [int(x) for x in list(np.sum(R, axis=0))]
+        data[k] = [int(x) for x in list(np.sum(R, axis=0))] + [";".join(point_mutations)]
 
 R = []
 for uniprot_ac in list(df["uniprot_ac"]):
     R += [data[uniprot_ac]]
 
-s = "total_variants afr_abundant_variants afr_specific_variants intron_variants missense_variants other_variants"
+s = "total_variants	intron_variants	missense_variants	other_variants	afr_abundant_variants	afr_abundant_intron_variants	afr_abundant_missense_variants	afr_abundant_other_variants	afr_specific_variants	afr_specific_intron_variants	afr_specific_missense_variants	afr_specific_other_variants	afr_specific_missense_variants_mutations"
 list_of_strings = s.split()
 
 columns = list(df.columns)

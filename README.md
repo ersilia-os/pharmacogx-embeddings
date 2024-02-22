@@ -1,7 +1,7 @@
 # PharmacoGx Embeddings
 Calculate drug, gene, variant and disease graph embeddings based on pharmacogenomics knowledge.
 
-## :construction: This is library is in continuous development and it is currently intended for internal use. We are currently working on it. Stay tuned! :construction: 
+## :construction: This is library is in continuous development and it is intended for internal use. We are currently working on it. Stay tuned! :construction: 
 
 Real-time project progress will be tracked via [GitHub Projects](https://github.com/orgs/ersilia-os/projects/7/views/1).
 
@@ -71,26 +71,13 @@ Please note that, upon running the pipeline, the following folders will be creat
 
 ## Experiment pipelines
 
-### Phase 1: Drug-Gene pairs
-
 * Input: **PharmGKB** drug-gene pairs.
 * Output: All **pair-wise combinations** on **PharmGKB** genes and drugs.
-
-#### Steps
 
 1. Run scripts in `scripts/0_preparation`.
 1. Run scripts in `scripts/1_pairs`.
 
-### Phase 2: Drug-Variant-Gene triplets
-
-* Input: **PharmGKB** drug-variant-gene triplets & **African variants**.
-* Output: Prediction of **African drug-variants-gene triplets** of potential pharmacogenetic relevance.
-
-#### Steps
-
-1. Get **African variants**. Please see repository [pharmacogx-arsa](https://github.com/ersilia-os/pharmacogx-arsa).
-1. Run scripts in `scripts/0_preparation`.
-1. Run scripts in `scripts/1_triplets`.
+> The `triplets` branch of this repository contains data related to drug-gene-variants triplets, which is currently out of scope. A substantial amount of legacy analysis were done in this regard and were snapshot on the 22nd of February, 2024, and stored in the `CodeBackups` folder of the `GRADIENT` Google Drive of Ersilia's organization. If you are interested, please reach out to us.
 
 ## License
 The code in this repository is licensed under a GNU General Public License v3.0. The data comes from public repositories and is limited to the licenses stated by the original data producers.
