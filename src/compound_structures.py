@@ -12,7 +12,7 @@ class CompoundStructureEmbedding(object):
         self.embedding_type = embedding_type
 
     def available(self):
-        return ["ersilia", "signaturizer"]  # , "grover", "mordred", "rdkit", "morgan"]
+        return ["ersilia", "signaturizer", "grover", "mordred", "rdkit", "morgan", "adme"]
 
     def _get_ersilia_embedding(self):
         with h5py.File(
@@ -51,6 +51,12 @@ class CompoundStructureEmbedding(object):
             keys = [x.decode() for x in f["Keys"][:]]
             X = f["Values"][:]
         return X, keys
+    
+    def _get_adme_embedding(self):
+        with h5py.File(os.path.join(data_dir, "eos7d58_norm.h5"), "r") as f:
+            keys = [x.decode() for x in f["Keys"][:]]
+            X = f["Values"][:]
+        return X, keys
 
     def get(self, as_dataframe=True):
         if self.embedding_type == "ersilia":
@@ -65,6 +71,8 @@ class CompoundStructureEmbedding(object):
             X, keys = self._get_morgan_embedding()
         if self.embedding_type == "rdkit":
             X, keys = self._get_rdkit_embedding()
+        if self.embedding_type == "adme":
+            X, keys = self._get_adme_embedding()
         if not as_dataframe:
             return X, keys
         cols = ["key"] + ["f-{0}".format(str(i).zfill(3)) for i in range(X.shape[1])]
