@@ -4,7 +4,7 @@ import pandas as pd
 
 
 root = os.path.abspath(os.path.dirname(__file__))
-sys.path.append(os.path.join(root, ".."))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 
 from utils import CsvCleaner
 from pharmgkb import RawData
@@ -72,7 +72,7 @@ def create_table():
         },
         inplace=True,
     )
-    data.to_csv(os.path.join(processed_folder, "gene.csv"), index=False)
+    data.to_csv(os.path.join(processed_folder, "0_gene.csv"), index=False)
 
 
 if __name__ == "__main__":

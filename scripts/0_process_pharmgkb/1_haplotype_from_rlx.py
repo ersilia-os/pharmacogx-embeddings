@@ -4,7 +4,7 @@ import pandas as pd
 
 
 root = os.path.abspath(os.path.dirname(__file__))
-sys.path.append(os.path.join(root, ".."))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 
 from utils import CsvCleaner
 from pharmgkb import RawData
@@ -19,16 +19,15 @@ def get_raw_files():
     df = r.relationships
     return df
 
-
 # simply create a list of haplotypes with its hid and gid to which they belong
 def create_table():
     c = CsvCleaner()
     df = get_raw_files()
     df1 = df[df["Entity1_type"] == "Haplotype"]
-    df1.drop_duplicates(subset=["Entity1_name"], keep="first", inplace=True)
+    df1.drop_duplicates(subset=["Entity1_name"], keep="first", inplace=True) #we are interested in the haplotype-hid relation only
     df1 = df1[["Entity1_id", "Entity1_name"]]
     df1.rename(columns={"Entity1_id": "hid", "Entity1_name": "haplotype"}, inplace=True)
-    gene = []
+    gene = [] #get the gene name without the haplotype or variant
     for h in df1["haplotype"]:
         if " " in h:
             g = h.split(" ")[0]
@@ -39,7 +38,7 @@ def create_table():
         gene += [g]
     df1["gene"] = gene
     gid_list = []
-    genes = pd.read_csv(os.path.join(processed_folder, "gene.csv"))
+    genes = pd.read_csv(os.path.join(processed_folder, "0_gene.csv")) #for consistency add the gene ID from the gene file
     gene_names = genes["gene"].tolist()
     for r in df1.values:
         for i, gn in enumerate(gene_names):
@@ -47,7 +46,7 @@ def create_table():
                 gid = genes["gid"].loc[i]
                 gid_list += [gid]
     df1["gid"] = gid_list
-    df1.to_csv(os.path.join(processed_folder, "haplotype_rlx.csv"), index=False)
+    df1.to_csv(os.path.join(processed_folder, "1_haplotype_rlx.csv"), index=False)
     return df1
 
 

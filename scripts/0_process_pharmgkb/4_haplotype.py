@@ -3,7 +3,7 @@ import sys
 import pandas as pd
 
 root = os.path.abspath(os.path.dirname(__file__))
-sys.path.append(os.path.join(root, ".."))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 
 from utils import CsvCleaner
 
@@ -26,7 +26,7 @@ def create_hap_table():
 
 def add_haps_from_rlx(df):
     c = CsvCleaner()
-    rlx = pd.read_csv(os.path.join(processed_folder, "haplotype_rlx.csv"))
+    rlx = pd.read_csv(os.path.join(processed_folder, "1_haplotype_rlx.csv"))
     rlx["haplotype"] = rlx["haplotype"].apply(
         lambda hap: ":".join(hap.split(":")[:2]) if hap.startswith("HLA-") else hap
     )  # change hla for only two positions
@@ -54,7 +54,7 @@ def add_haps_from_rlx(df):
 
 
 def add_gid(df):
-    gene_df = pd.read_csv(os.path.join(processed_folder, "gene.csv"))
+    gene_df = pd.read_csv(os.path.join(processed_folder, "0_gene.csv"))
     mapping_dict = gene_df.set_index("gene")["gid"].to_dict()
     df["gid"] = df["gene"].map(mapping_dict)
     df = df[
@@ -92,4 +92,4 @@ if __name__ == "__main__":
         "NG": None,
     }
     data = pd.concat([data, pd.DataFrame([new_row])], ignore_index=True)
-    data.to_csv(os.path.join(processed_folder, "haplotype.csv"), index=False)
+    data.to_csv(os.path.join(processed_folder, "2_haplotype.csv"), index=False)

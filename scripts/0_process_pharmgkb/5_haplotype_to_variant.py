@@ -5,7 +5,7 @@ import numpy as np
 import requests
 
 root = os.path.abspath(os.path.dirname(__file__))
-sys.path.append(os.path.join(root, ".."))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 
 from utils import CsvCleaner
 
@@ -53,8 +53,8 @@ def get_variants(df):
 
 
 def check_hids():
-    df1 = pd.read_csv(os.path.join(processed_folder, "hid_to_vid.csv"))
-    df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
+    df1 = pd.read_csv(os.path.join(processed_folder, "3_hid_to_vid.csv"))
+    df2 = pd.read_csv(os.path.join(processed_folder, "2_haplotype.csv"))
     # Count the occurrences of hid in df1
     hid_counts_df1 = df1["hid"].value_counts()
     # Count the occurrences of hid in df2
@@ -64,7 +64,7 @@ def check_hids():
 
 
 def hap_to_var(df):
-    df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
+    df2 = pd.read_csv(os.path.join(processed_folder, "2_haplotype.csv"))
     df2["variant"] = df2.apply(
         lambda row: (
             row["rsID"]
@@ -91,7 +91,6 @@ def hap_to_var(df):
         ng = r[9]
         var = r[10]
         for r_ in df.values:
-            hid_ = r_[0]
             vid = r_[1]
             var_ = r_[2]
             if var == var_:
@@ -130,7 +129,7 @@ def hap_to_var(df):
 
 
 def add_vars(df):
-    df2 = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
+    df2 = pd.read_csv(os.path.join(processed_folder, "2_haplotype.csv"))
     df2["variant"] = df2.apply(
         lambda row: (
             row["rsID"].strip()
@@ -257,7 +256,7 @@ def deconv_doubles(df):
     ]
     data = pd.DataFrame(R, columns=cols)
     data.drop(columns=["vid"], inplace=True)
-    df2 = pd.read_csv(os.path.join(processed_folder, "hid_to_vid.csv"))
+    df2 = pd.read_csv(os.path.join(processed_folder, "3_hid_to_vid.csv"))
     vid_mapping = (
         df2.groupby("variant")["vid"].first().reset_index()
     )  # get unique vid-variant
@@ -268,12 +267,11 @@ def deconv_doubles(df):
 
 
 if __name__ == "__main__":
-    df = pd.read_csv(os.path.join(processed_folder, "haplotype.csv"))
+    df = pd.read_csv(os.path.join(processed_folder, "2_haplotype.csv"))
     print_hids(df)
     data = get_variants(df)
-    data.to_csv(os.path.join(processed_folder, "hid_to_vid.csv"), index=False)
+    data.to_csv(os.path.join(processed_folder, "3_hid_to_vid.csv"), index=False)
     check_hids()
-    data = pd.read_csv(os.path.join(processed_folder, "hid_to_vid.csv"))
     data = add_vars(data)
     data = deconv_doubles(data)
-    data.to_csv(os.path.join(processed_folder, "hid_vid_complete.csv"), index=False)
+    data.to_csv(os.path.join(processed_folder, "3_hid_vid_complete.csv"), index=False)

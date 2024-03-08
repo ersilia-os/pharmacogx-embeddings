@@ -1174,7 +1174,7 @@ PA448966,chlorpropamide,Drug,CCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)Cl,-1,3
 PA164781400,chlorprothixene,Drug,CN(C)CCC=C1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl,-1,-1
 PA448970,chlorthalidone,Drug,C1=CC=C2C(=C1)C(=O)NC2(C3=CC(=C(C=C3)Cl)S(=O)(=O)N)O,-1,-1
 PA448971,chlorzoxazone,Drug,C1=CC2=C(C=C1Cl)NC(=O)O2,-1,-1
-PA164748138,cholecalciferol,,,0,-1
+PA164748138,cholecalciferol,,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CCCC2=CC=C3C[C@H](CCC3=C)O)C,0,-1
 PA164712609,Cholera vaccines,Drug Class,,-1,-1
 PA166178639,cholesterol,Biological Intermediate,CC(C)CCCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C,-1,-1
 PA166179663,cholesterol ester,Biological Intermediate,,-1,-1
@@ -2231,7 +2231,7 @@ PA165946719,hydroxynortriptyline,Metabolite,CNCC/C=C\1/C2=CC=CC=C2CC(C3=CC=CC=C3
 PA166238281,hydroxyomeprazole sulfone,Metabolite,CC1=CNC(=C(C1=O)C)CS(=O)(=O)C2=NC3=C(N2)C=C(C=C3)OC,-1,-1
 PA165823907,hydroxyphenytoin,Metabolite,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=C(C=C3)O,-1,-1
 PA165823908,hydroxyphenytoin glucuronide,Metabolite,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=C(C=C3)OC4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O,-1,-1
-PA449932,hydroxyprogesterone,Drug,,-1,-1
+PA449932,hydroxyprogesterone,Drug,CC(=O)[C@]1(CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O,-1,-1
 PA164746492,hydroxypropyl cellulose,Drug,,-1,-1
 PA164712797,Hydroxyquinoline derivatives,Drug Class,,-1,-1
 PA164745514,hydroxystilbamidine isethionate,Drug,C1=CC(=C(N)N)C=CC1=C/C=C\2/C=CC(=CC2=O)C(=N)N.C(CS(=O)(=O)O)O.C(CS(=O)(=O)O)O,-1,-1
@@ -4199,7 +4199,7 @@ PA451646,theobromine,"Drug,""Metabolite""",CN1C=NC2=C1C(=O)NC(=O)N2C,-1,-1
 PA451647,theophylline,"Drug,""Metabolite""",CN1C2=C(C(=O)N(C1=O)C)NC=N2,-1,-1
 PA164713343,Therapeutic Radiopharmaceuticals,Drug Class,,-1,-1
 PA164746466,thiabendazole,Drug,C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3,-1,-1
-PA451652,thiamine,,,0,-1
+PA451652,thiamine,,CC1=C(SC=[N+]1CC2=CN=C(N=C2N)C)CCO,0,-1
 PA164746997,thiamylal,Drug,CCCC(C)C1(C(=O)NC(=S)NC1=O)CC=C,-1,-1
 PA10432,thiazide derivatives,Drug Class,,-1,-1
 PA164713344,Thiazides and potassium in combination,Drug Class,,-1,-1

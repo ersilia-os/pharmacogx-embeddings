@@ -5,7 +5,7 @@ import pandas as pd
 from ast import literal_eval
 
 root = os.path.abspath(os.path.dirname(__file__))
-sys.path.append(os.path.join(root, ".."))
+sys.path.append(os.path.join(root, "..", "..","..", "src"))
 
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "..", "data"))
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "..", "data"))

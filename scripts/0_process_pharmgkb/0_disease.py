@@ -4,7 +4,7 @@ import pandas as pd
 
 
 root = os.path.abspath(os.path.dirname(__file__))
-sys.path.append(os.path.join(root, ".."))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 
 from utils import CsvCleaner
 from pharmgkb import RawData
@@ -31,10 +31,9 @@ def create_table():
         R += [r]
     cols = ["did", "disease"]
     data = pd.DataFrame(R, columns=cols)
-    data.to_csv(os.path.join(processed_folder, "disease.csv"), index=False)
+    data.to_csv(os.path.join(processed_folder, "0_disease.csv"), index=False)
     return data
 
 
 if __name__ == "__main__":
-    df = get_raw_files()
     create_table()

@@ -30,7 +30,23 @@ def create_table():
         chemical = c.stringify(r[1])
         chemical_type = c.stringify(r[5])
         smiles = c.stringify(r[7])
-        if smiles is None:
+        if smiles is None: #first try to get the SMILES from the PharmGKB API
+            print("No SMILES")
+            url = "https://api.pharmgkb.org/v1/data/chemical/{}?view=base".format(cid)
+            response = requests.get(url)
+            if response.status_code == 200:
+                # Parse the JSON response
+                data = response.json()
+                print(data)
+                try:
+                    smiles = data['data']['smiles']
+                    print("SMILES from API!")
+                except:
+                    smiles=None
+            else:
+                print("Failed to fetch data from the API. Status code:", response.status_code)
+
+        if smiles is None: #then try the crossref
             crossr = c.inline_comma_splitter(r[6])
             if crossr is not None:
                 for i in crossr:
@@ -112,7 +128,7 @@ def create_table():
         },
         inplace=True,
     )
-    data.to_csv(os.path.join(processed_folder, "chemical.csv"), index=False)
+    data.to_csv(os.path.join(processed_folder, "0_chemical.csv"), index=False)
 
 
 if __name__ == "__main__":

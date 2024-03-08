@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 
 root = os.path.abspath(os.path.dirname(__file__))
-sys.path.append(os.path.join(root, ".."))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 
 from utils import CsvCleaner
 
@@ -50,6 +50,6 @@ def vaid_from_url(df):
 
 
 if __name__ == "__main__":
-    df = pd.read_csv(os.path.join(processed_folder, "orphan_variant_list.csv"))
+    df = pd.read_csv(os.path.join(processed_folder, "4_orphan_variant_list.csv"))
     df = vaid_from_url(df)
-    df.to_csv(os.path.join(processed_folder, "orphan_variant.csv"), index=False)
+    df.to_csv(os.path.join(processed_folder, "4_orphan_variant.csv"), index=False)

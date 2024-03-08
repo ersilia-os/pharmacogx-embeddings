@@ -5,11 +5,11 @@ import numpy as np
 import requests
 
 root = os.path.abspath(os.path.dirname(__file__))
-sys.path.append(os.path.join(root, ".."))
+sys.path.append(os.path.join(root, "..", "..", "src"))
 
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
-haps_path = os.path.join(data_folder, "pharmgkb", "haplotypes")
+haps_path = os.path.join(data_folder, "pharmgkb_processed", "haplotypes", "original")
 
 
 def create_allele_definition_file(df):
