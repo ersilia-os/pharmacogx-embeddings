@@ -45,7 +45,7 @@ Then we process the other files to deconvolute the gene-variant-chemical associa
 
 `10_study_parameters.py`gets the parameters of individual studies, most importantly biogeographical groups. It has an important part manually curated in the study_parameters_bid.csv (do not delete this file)
 
-`11_var_pheno_ann.py` deconvolutes the association of variants and phenotypes identified not at a clinical level (no evidence level from PhramGKB, we only keep the significance 0, 1 or -1). Some associations do not have a chemical linked to them, as this refers to phenotypes only
+`11_var_pheno_ann.py` deconvolutes the association of variants and phenotypes identified not at a clinical level (no evidence level from PharmGKB, we only keep the significance 0, 1 or -1). Some associations do not have a chemical linked to them, as this refers to phenotypes only
 
 `11_var_drug_ann.py` deconvolutes the association of variants and drugs identified not at a clinical level. (no evidence level from PhramGKB, we only keep the significance 0, 1 or -1). 
 

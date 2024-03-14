@@ -1,0 +1,3 @@
+PharmGKB ID,Name,Source,Biomarker Flag,Testing Level,Has Prescribing Info,Has Dosing Info,Has Alternate Drug,Cancer Genome,Prescribing,Chemicals,Genes,Variants/Haplotypes,Latest History Date (YYYY-MM-DD)
+PA166127732,"Annotation of HCSC Label for warfarin and CYP2C9, VKORC1",HCSC,,Actionable PGx,,,,,,warfarin,CYP2C9; VKORC1,,
+PA166104776,"Annotation of FDA Label for warfarin and CYP2C9, PROC, PROS1, VKORC1",FDA,On FDA Biomarker List,Actionable PGx,Prescribing Info,,,,Prescribing,warfarin,CYP2C9; PROC; PROS1; VKORC1,CYP2C9*1; CYP2C9*2; CYP2C9*3; rs9923231,16/10/2020

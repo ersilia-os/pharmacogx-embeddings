@@ -1,0 +1,92 @@
+Clinical Annotation ID,Variant/Haplotypes,Gene,Level of Evidence,Level Override,Level Modifiers,Score,Phenotype Category,PMID Count,Evidence Count,Drug(s),Phenotype(s),Latest History Date (YYYY-MM-DD),URL,Specialty Population
+1451353040,rs72547529,VKORC1,3,,Rare Variant; Tier 1 VIP,1,Dosage;Efficacy,4,4,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1451353040,
+981239568,rs104894542,VKORC1,3,,Rare Variant; Tier 1 VIP,0.25,Dosage,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/981239568,
+1451289620,rs3814637,CYP2C19,3,,Tier 1 VIP,2.75,Toxicity,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1451289620,
+1449575745,rs1045642,ABCB1,4,,Tier 1 VIP,-1.5,Dosage,4,4,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1449575745,
+1449005195,rs4072879,VKORC1L1,3,,,2.5,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1449005195,
+1043880402,rs61162043,VKORC1,3,,Tier 1 VIP,2.75,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1043880402,
+1043880367,rs1800566,NQO1,3,,,2.25,Dosage,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1043880367,
+1043858840,rs9332096,CYP2C9,3,,Tier 1 VIP,2.75,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1043858840,
+1043880362,rs17886199,PRSS53;VKORC1,3,,Tier 1 VIP,2,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1043880362,
+982030369,rs12777823,,1A,,,109.25,Dosage,5,7,warfarin,,12/04/2021,https://www.pharmgkb.org/clinicalAnnotation/982030369,
+1043880397,rs4917639,CYP2C9,3,,Tier 1 VIP,5.5,Dosage,3,3,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1043880397,
+982035703,rs2884737,VKORC1,2A,,Tier 1 VIP,11.25,Dosage,5,5,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/982035703,
+981239532,rs104894539,VKORC1,3,,Rare Variant; Tier 1 VIP,0.25,Dosage,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/981239532,
+981239556,rs104894541,VKORC1,3,,Tier 1 VIP,0.25,Dosage,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/981239556,
+982035482,rs17880887,VKORC1,3,,Tier 1 VIP,2.25,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/982035482,
+1043880357,rs11150606,VKORC1,3,,Tier 1 VIP,2,Dosage,1,1,warfarin,,03/12/2021,https://www.pharmgkb.org/clinicalAnnotation/1043880357,
+1043880337,rs10509680,CYP2C9,3,,Tier 1 VIP,3,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1043880337,
+1043858892,rs7089580,CYP2C9,3,,Tier 1 VIP,5.75,Dosage,2,4,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1043858892,
+1183621000,"G6PD A- 202A_376G, G6PD B (wildtype), G6PD Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham",G6PD,1A,,Tier 1 VIP,103,Toxicity,21,23,rasburicase,Hemolysis;Methemoglobinemia,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1183621000,Pediatric
+1449269938,rs429358,APOE,3,,,2.75,Toxicity,1,1,acenocoumarol;warfarin,Hemorrhage;venous thromboembolism,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1449269938,
+655385392,rs9934438,VKORC1,1B,"Yes: Assigned level 1B because variant is not specifically mentioned in clinical guidelines or labels, in high LD with rs9923231",Tier 1 VIP,109.625,Dosage,49,52,warfarin,,19/11/2021,https://www.pharmgkb.org/clinicalAnnotation/655385392,Pediatric
+655385400,rs2108622,CYP4F2,1A,,Tier 1 VIP,170,Dosage,69,72,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/655385400,Pediatric
+637879785,rs1131873,EPHX1,4,,,-0.75,Dosage,3,3,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/637879785,
+637879879,rs339097,CALU,3,,,4.75,Dosage,3,5,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/637879879,
+655384738,rs17708472,VKORC1,4,,Tier 1 VIP,-2,Dosage,7,7,warfarin,,19/11/2021,https://www.pharmgkb.org/clinicalAnnotation/655384738,
+655385028,rs8050894,VKORC1,1B,,Tier 1 VIP,27,Dosage,12,12,warfarin,,19/11/2021,https://www.pharmgkb.org/clinicalAnnotation/655385028,
+655385012,rs9923231,VKORC1,1A,,Tier 1 VIP,486.375,Dosage,86,90,warfarin,,19/11/2021,https://www.pharmgkb.org/clinicalAnnotation/655385012,Pediatric
+655385016,rs10871454,STX4,3,,,0,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/655385016,
+981201937,rs12714145,GGCX,4,,,-10.75,Dosage,11,11,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/981201937,
+981239544,rs104894540,VKORC1,3,,Tier 1 VIP,0.25,Dosage,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/981239544,
+1449269910,rs9923231,VKORC1,2A,,Tier 1 VIP,12.25,Toxicity,26,26,warfarin,Hemorrhage,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1449269910,Pediatric
+1451606000,rs1800566,NQO1,3,,,0.25,Efficacy,1,1,warfarin,Thrombosis,03/12/2021,https://www.pharmgkb.org/clinicalAnnotation/1451606000,
+1184000346,"G6PD A- 202A_376G, G6PD B (wildtype)",G6PD,3,,Tier 1 VIP,0.375,Toxicity,3,3,nitrofurantoin,"Anemia, Hemolytic;Hemolysis",24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1184000346,
+1183703748,rs61742245,VKORC1,2A,,Rare Variant; Tier 1 VIP,7.25,Dosage,6,6,warfarin,,18/11/2021,https://www.pharmgkb.org/clinicalAnnotation/1183703748,
+1446899151,rs699664,GGCX,4,,,-9.5,Dosage,14,15,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1446899151,Pediatric
+1444704055,rs3212198,HNF4A,3,,,0,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1444704055,
+1444703380,rs2189784,CYP4F2,3,,Tier 1 VIP,2.75,Dosage,4,5,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1444703380,
+1445296897,"CYP2C9*1, CYP2C9*59",CYP2C9,3,,Tier 1 VIP,0.25,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1445296897,
+1444680138,rs2592551,GGCX,3,,,3.25,Dosage,1,1,warfarin,Atrial Fibrillation,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1444680138,
+1447673027,rs9934438,VKORC1,3,,Tier 1 VIP,4.75,Efficacy,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1447673027,
+1447672998,rs9923231,VKORC1,2A,,Tier 1 VIP,17.75,Efficacy,11,12,warfarin,time to therapeutic inr,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1447672998,Pediatric
+1447673015,rs9923231,VKORC1,2A,,Tier 1 VIP,9,Efficacy,9,9,warfarin,time in therapeutic range,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1447673015,Pediatric
+1447749024,rs1800566,NQO1,4,,,-3.25,Dosage,4,5,warfarin,,03/12/2021,https://www.pharmgkb.org/clinicalAnnotation/1447749024,
+1447672622,"CYP2C9*1, CYP2C9*2, CYP2C9*3",CYP2C9,4,,Tier 1 VIP,-3.25,Efficacy,14,15,warfarin,,19/05/2021,https://www.pharmgkb.org/clinicalAnnotation/1447672622,Pediatric
+1447672600,"CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*13, CYP2C9*14",CYP2C9,2A,,Tier 1 VIP,10.5,Efficacy,10,15,warfarin,Atrial Fibrillation;heart valve replacement,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1447672600,Pediatric
+1447672640,"CYP2C9*1, CYP2C9*2, CYP2C9*3",CYP2C9,4,,Tier 1 VIP,-3.5,Efficacy,8,8,warfarin,,19/05/2021,https://www.pharmgkb.org/clinicalAnnotation/1447672640,Pediatric
+1448573300,rs4889606,STX1B,3,,,3.25,Efficacy,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448573300,
+1184997925,rs2501873,NR1I3,4,,,-2,Dosage,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1184997925,
+1184986386,rs7196161,VKORC1,3,,Tier 1 VIP,3.5,Dosage,5,5,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1184986386,
+1444703207,rs1877724,EPHX1,3,,,2.25,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1444703207,
+1446899176,rs10517,NQO1,3,,,5.25,Dosage,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1446899176,
+1444700916,rs1042580,THBD,3,,,2.5,Toxicity,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1444700916,
+1185002307,rs7200749,VKORC1,3,,Tier 1 VIP,2,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1185002307,
+1448267381,rs72800847,STX1B,3,,,2.25,Dosage,1,1,warfarin,heart valve replacement,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448267381,
+1448267389,rs3826041,CYP1A1,3,,,2.25,Dosage,1,1,warfarin,heart valve replacement,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448267389,
+1448267397,rs2304429,DNMT3A,3,,,2.25,Dosage,1,1,warfarin,heart valve replacement,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448267397,
+1448257149,rs41301394,POR,3,,,2.75,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448257149,
+1448122847,"CYP2C19*1, CYP2C19*2, CYP2C19*3",CYP2C19,3,,Tier 1 VIP,4,Dosage,1,2,warfarin,Atrial Fibrillation,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448122847,
+982045465,rs9934438,VKORC1,3,,Tier 1 VIP,1.5,Efficacy,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/982045465,
+1448431545,rs887829,UGT1A1,3,,Tier 1 VIP,1,Dosage,3,3,warfarin,heart valve replacement,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448431545,Pediatric
+1448262901,rs2108622,CYP4F2,3,,Tier 1 VIP,2.5,Efficacy,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448262901,
+1448262908,rs11676382,GGCX,3,,,3,Efficacy,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448262908,
+1448262915,rs699664,GGCX,3,,,2,Efficacy,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448262915,
+1448262922,rs11676382,GGCX,3,,,3,Efficacy,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448262922,
+1449164133,rs11168292,VDR,3,,,3,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1449164133,
+1449164149,rs11168293,VDR,3,,,3,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1449164149,
+1449164155,rs4760658,VDR,3,,,3,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1449164155,
+1448633935,rs1060467,CYP4F11,3,,,2.25,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448633935,
+1449164121,rs2645400,GATA4,3,,,0,Dosage,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1449164121,
+1449164127,rs4841588,GATA4,3,,,0,Dosage,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1449164127,
+1448100296,rs3814637,CYP2C19,3,,Tier 1 VIP,5.25,Dosage,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448100296,
+1448257263,rs17126068,DDHD1,3,,,0,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448257263,
+1448257270,rs2288344,NEDD4,3,,,0,Dosage,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448257270,
+1448257290,rs4379440,ASPH,3,,,0,Efficacy,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1448257290,
+1043880392,rs4918758,CYP2C9,3,,Tier 1 VIP,3.75,Dosage,2,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1043880392,
+1184512433,rs7856096,FPGS,3,,,5.75,Dosage,1,2,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1184512433,
+1447990255,rs11676382,GGCX,3,,,3.75,Dosage,9,9,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1447990255,
+1449269278,rs2108622,CYP4F2,4,,Tier 1 VIP,-3,Other,5,6,warfarin,over-anticoagulation,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1449269278,
+1447521683,rs7412,APOE,3,,,1.75,Efficacy,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1447521683,
+1450975180,rs429358,APOE,3,,,1.75,Efficacy,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1450975180,
+655384733,rs7294,VKORC1,1B,,Tier 1 VIP,43.25,Dosage,21,22,warfarin,,19/11/2021,https://www.pharmgkb.org/clinicalAnnotation/655384733,
+1447673005,rs9923231,VKORC1,1B,,Tier 1 VIP,26,Toxicity,17,17,warfarin,over-anticoagulation,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1447673005,Pediatric
+655385024,rs2359612,VKORC1,1B,,Tier 1 VIP,38.25,Dosage,14,15,warfarin,,19/11/2021,https://www.pharmgkb.org/clinicalAnnotation/655385024,
+1447672658,"CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*5, CYP2C9*6, CYP2C9*11",CYP2C9,1A,,Tier 1 VIP,139.75,Toxicity,29,34,warfarin,over-anticoagulation,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1447672658,Pediatric
+1447672988,"CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*5, CYP2C9*6, CYP2C9*11",CYP2C9,1A,,Tier 1 VIP,342.375,Toxicity,33,50,warfarin,Hemorrhage,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1447672988,Pediatric
+981238341,"CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*4, CYP2C9*5, CYP2C9*6, CYP2C9*8, CYP2C9*11",CYP2C9,1A,,Tier 1 VIP,675.75,Dosage,130,215,warfarin,Cardiovascular Diseases,05/10/2021,https://www.pharmgkb.org/clinicalAnnotation/981238341,Pediatric
+1451114072,rs679899,APOB,3,,,3,Toxicity,1,1,warfarin,heart valve replacement;Hemorrhage,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1451114072,
+1451114080,rs1367117,APOB,3,,,3,Toxicity,1,1,warfarin,heart valve replacement;Hemorrhage,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1451114080,
+1451148840,rs780801862,CYP2C9,3,,Rare Variant; Tier 1 VIP,0,Metabolism/PK,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1451148840,
+1451148920,"CYP2C9*1, CYP2C9*29",CYP2C9,3,,Tier 1 VIP,0,Metabolism/PK,1,1,warfarin,,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1451148920,
+1451263060,rs78132896,EPHA7,3,,,1.625,Toxicity,1,1,warfarin,Hemorrhage,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1451263060,

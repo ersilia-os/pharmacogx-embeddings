@@ -1,0 +1,92 @@
+variant,gene,type,level of evidence,chemicals,phenotypes
+"CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*5, CYP2C9*6, CYP2C9*11",CYP2C9,Toxicity,1A,warfarin,over-anticoagulation
+rs2108622,CYP4F2,Dosage,1A,warfarin,
+"G6PD A- 202A_376G, G6PD B (wildtype), G6PD Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham",G6PD,Toxicity,1A,rasburicase,"Hemolysis,Methemoglobinemia"
+"CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*5, CYP2C9*6, CYP2C9*11",CYP2C9,Toxicity,1A,warfarin,Hemorrhage
+rs12777823,,Dosage,1A,warfarin,
+"CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*4, CYP2C9*5, CYP2C9*6, CYP2C9*8, CYP2C9*11",CYP2C9,Dosage,1A,warfarin,Cardiovascular Diseases
+rs9923231,VKORC1,Dosage,1A,warfarin,
+rs9923231,VKORC1,Toxicity,1B,warfarin,over-anticoagulation
+rs8050894,VKORC1,Dosage,1B,warfarin,
+rs9934438,VKORC1,Dosage,1B,warfarin,
+rs2359612,VKORC1,Dosage,1B,warfarin,
+rs7294,VKORC1,Dosage,1B,warfarin,
+rs9923231,VKORC1,Efficacy,2A,warfarin,time to therapeutic inr
+rs9923231,VKORC1,Efficacy,2A,warfarin,time in therapeutic range
+"CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*13, CYP2C9*14",CYP2C9,Efficacy,2A,warfarin,"Atrial Fibrillation,heart valve replacement"
+rs9923231,VKORC1,Toxicity,2A,warfarin,Hemorrhage
+rs2884737,VKORC1,Dosage,2A,warfarin,
+rs61742245,VKORC1,Dosage,2A,warfarin,
+rs10871454,STX4,Dosage,3,warfarin,
+rs104894539,VKORC1,Dosage,3,warfarin,
+rs104894540,VKORC1,Dosage,3,warfarin,
+rs104894541,VKORC1,Dosage,3,warfarin,
+rs104894542,VKORC1,Dosage,3,warfarin,
+rs17880887,VKORC1,Dosage,3,warfarin,
+rs9332096,CYP2C9,Dosage,3,warfarin,
+rs10509680,CYP2C9,Dosage,3,warfarin,
+rs17886199,"PRSS53,VKORC1",Dosage,3,warfarin,
+rs4918758,CYP2C9,Dosage,3,warfarin,
+rs61162043,VKORC1,Dosage,3,warfarin,
+"G6PD A- 202A_376G, G6PD B (wildtype)",G6PD,Toxicity,3,nitrofurantoin,"Anemia, Hemolytic,Hemolysis"
+rs7856096,FPGS,Dosage,3,warfarin,
+rs7200749,VKORC1,Dosage,3,warfarin,
+rs2592551,GGCX,Dosage,3,warfarin,Atrial Fibrillation
+rs1042580,THBD,Toxicity,3,warfarin,
+rs1877724,EPHX1,Dosage,3,warfarin,
+rs3212198,HNF4A,Dosage,3,warfarin,
+"CYP2C9*1, CYP2C9*59",CYP2C9,Dosage,3,warfarin,
+rs9934438,VKORC1,Efficacy,3,warfarin,
+rs1800566,NQO1,Dosage,3,warfarin,
+rs9934438,VKORC1,Efficacy,3,warfarin,
+"CYP2C19*1, CYP2C19*2, CYP2C19*3",CYP2C19,Dosage,3,warfarin,Atrial Fibrillation
+rs41301394,POR,Dosage,3,warfarin,
+rs17126068,DDHD1,Dosage,3,warfarin,
+rs2288344,NEDD4,Dosage,3,warfarin,
+rs4379440,ASPH,Efficacy,3,warfarin,
+rs2108622,CYP4F2,Efficacy,3,warfarin,
+rs11676382,GGCX,Efficacy,3,warfarin,
+rs699664,GGCX,Efficacy,3,warfarin,
+rs11676382,GGCX,Efficacy,3,warfarin,
+rs10517,NQO1,Dosage,3,warfarin,
+rs72800847,STX1B,Dosage,3,warfarin,heart valve replacement
+rs3826041,CYP1A1,Dosage,3,warfarin,heart valve replacement
+rs2304429,DNMT3A,Dosage,3,warfarin,heart valve replacement
+rs4889606,STX1B,Efficacy,3,warfarin,
+rs2189784,CYP4F2,Dosage,3,warfarin,
+rs1060467,CYP4F11,Dosage,3,warfarin,
+rs4072879,VKORC1L1,Dosage,3,warfarin,
+rs2645400,GATA4,Dosage,3,warfarin,
+rs4841588,GATA4,Dosage,3,warfarin,
+rs11168292,VDR,Dosage,3,warfarin,
+rs11168293,VDR,Dosage,3,warfarin,
+rs4760658,VDR,Dosage,3,warfarin,
+rs429358,APOE,Toxicity,3,"acenocoumarol,warfarin","Hemorrhage,venous thromboembolism"
+rs887829,UGT1A1,Dosage,3,warfarin,heart valve replacement
+rs7412,APOE,Efficacy,3,warfarin,
+rs429358,APOE,Efficacy,3,warfarin,
+rs679899,APOB,Toxicity,3,warfarin,"heart valve replacement,Hemorrhage"
+rs1367117,APOB,Toxicity,3,warfarin,"heart valve replacement,Hemorrhage"
+rs780801862,CYP2C9,Metabolism/PK,3,warfarin,
+"CYP2C9*1, CYP2C9*29",CYP2C9,Metabolism/PK,3,warfarin,
+rs339097,CALU,Dosage,3,warfarin,
+rs7196161,VKORC1,Dosage,3,warfarin,
+rs78132896,EPHA7,Toxicity,3,warfarin,Hemorrhage
+rs7089580,CYP2C9,Dosage,3,warfarin,
+rs11676382,GGCX,Dosage,3,warfarin,
+rs3814637,CYP2C19,Dosage,3,warfarin,
+rs3814637,CYP2C19,Toxicity,3,warfarin,
+rs4917639,CYP2C9,Dosage,3,warfarin,
+rs72547529,VKORC1,"Dosage,Efficacy",3,warfarin,
+rs11150606,VKORC1,Dosage,3,warfarin,
+rs1800566,NQO1,Efficacy,3,warfarin,Thrombosis
+rs1131873,EPHX1,Dosage,4,warfarin,
+rs2501873,NR1I3,Dosage,4,warfarin,
+rs12714145,GGCX,Dosage,4,warfarin,
+rs699664,GGCX,Dosage,4,warfarin,
+rs1045642,ABCB1,Dosage,4,warfarin,
+rs2108622,CYP4F2,Other,4,warfarin,over-anticoagulation
+"CYP2C9*1, CYP2C9*2, CYP2C9*3",CYP2C9,Efficacy,4,warfarin,
+"CYP2C9*1, CYP2C9*2, CYP2C9*3",CYP2C9,Efficacy,4,warfarin,
+rs17708472,VKORC1,Dosage,4,warfarin,
+rs1800566,NQO1,Dosage,4,warfarin,

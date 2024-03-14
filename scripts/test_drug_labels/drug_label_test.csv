@@ -1,0 +1,16 @@
+PharmGKB ID,Name,Source,Biomarker Flag,Testing Level,Has Prescribing Info,Has Dosing Info,Has Alternate Drug,Cancer Genome,Prescribing,Chemicals,Genes,Variants/Haplotypes,Latest History Date (YYYY-MM-DD)
+PA166184403,Annotation of Swissmedic Label for rasburicase and G6PD,Swissmedic,,Actionable PGx,Prescribing Info,,Alternate Drug,,Prescribing,rasburicase,G6PD,,
+PA166278401,"Annotation of HCSC Label for bupivacaine, meloxicam and CYB5R3, G6PD",HCSC,,Actionable PGx,,,,,,bupivacaine; meloxicam,CYB5R3; G6PD,,
+PA166278381,"Annotation of EMA Label for bupivacaine and CYB5R3, G6PD",EMA,,Actionable PGx,,,,,,bupivacaine,CYB5R3; G6PD,,
+PA166184155,Annotation of Swissmedic Label for nitrofurantoin and G6PD,Swissmedic,,Actionable PGx,Prescribing Info,,Alternate Drug,,Prescribing,nitrofurantoin,G6PD,,
+PA166104783,"Annotation of FDA Label for rasburicase and CYB5R1, CYB5R2, CYB5R3, CYB5R4",FDA,On FDA Biomarker List,Informative PGx,,,,,,rasburicase,CYB5R1; CYB5R2; CYB5R3; CYB5R4,,21/03/2016
+PA166127707,Annotation of HCSC Label for rasburicase and G6PD,HCSC,,Testing recommended,,,,,,rasburicase,G6PD,,
+PA166104894,Annotation of EMA Label for rasburicase and G6PD,EMA,,Actionable PGx,Prescribing Info,,Alternate Drug,,Prescribing,rasburicase,G6PD,,27/10/2013
+PA166104903,Annotation of FDA Label for nitrofurantoin and G6PD,FDA,On FDA Biomarker List,Actionable PGx,,,,,,nitrofurantoin,G6PD,,18/12/2013
+PA166151881,Annotation of FDA Label for rasburicase and G6PD,FDA,On FDA Biomarker List,Testing required,Prescribing Info,,Alternate Drug,,Prescribing,rasburicase,G6PD,,21/03/2016
+PA166123548,Annotation of PMDA Label for rasburicase and G6PD,PMDA,,Actionable PGx,,,,,,rasburicase,G6PD,,
+PA166127732,"Annotation of HCSC Label for warfarin and CYP2C9, VKORC1",HCSC,,Actionable PGx,,,,,,warfarin,CYP2C9; VKORC1,,
+PA166127694,Annotation of HCSC Label for nitrofurantoin and G6PD,HCSC,,Actionable PGx,,,,,,nitrofurantoin,G6PD,,
+PA166104776,"Annotation of FDA Label for warfarin and CYP2C9, PROC, PROS1, VKORC1",FDA,On FDA Biomarker List,Actionable PGx,Prescribing Info,,,,Prescribing,warfarin,CYP2C9; PROC; PROS1; VKORC1,CYP2C9*1; CYP2C9*2; CYP2C9*3; rs9923231,16/10/2020
+PA166235441,"Annotation of FDA Label for bupivacaine and CYB5R3, G6PD",FDA,On FDA Biomarker List,Actionable PGx,,,,,,bupivacaine,CYB5R3; G6PD,,
+PA166271261,Annotation of EMA Label for tegafur / gimeracil / oteracil and DPYD,EMA,,Testing recommended,Prescribing Info,,Alternate Drug,,Prescribing,tegafur / gimeracil / oteracil,DPYD,"DPYD c.1129-5923C>G, c.1236G>A (HapB3); DPYD c.1679T>G (*13); DPYD c.1905+1G>A (*2A); DPYD c.2846A>T",

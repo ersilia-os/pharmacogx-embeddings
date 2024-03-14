@@ -1,0 +1,4 @@
+Clinical Annotation ID,Variant/Haplotypes,Gene,Level of Evidence,Level Override,Level Modifiers,Score,Phenotype Category,PMID Count,Evidence Count,Drug(s),Phenotype(s),Latest History Date (YYYY-MM-DD),URL,Specialty Population
+1183621000,"G6PD A- 202A_376G, G6PD B (wildtype), G6PD Mediterranean, Dallas, Panama, Sassari, Cagliari, Birmingham",G6PD,1A,,Tier 1 VIP,103,Toxicity,21,23,rasburicase,Hemolysis;Methemoglobinemia,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1183621000,Pediatric
+1449269938,rs429358,APOE,3,,,2.75,Toxicity,1,1,acenocoumarol;warfarin,Hemorrhage;venous thromboembolism,24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1449269938,
+1184000346,"G6PD A- 202A_376G, G6PD B (wildtype)",G6PD,3,,Tier 1 VIP,0.375,Toxicity,3,3,nitrofurantoin,"Anemia, Hemolytic;Hemolysis",24/03/2021,https://www.pharmgkb.org/clinicalAnnotation/1184000346,
