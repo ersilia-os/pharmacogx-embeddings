@@ -31,7 +31,7 @@ Then, we look into the variants:
 
 `6_variant.py` starting from the original variants.csv downloaded from PharmGKB, obtains the genes corresponding to each variant using an API query and deconvolutes them (if var1 is associated to gene1 and gene2, there will be two lines with var1|vid1, one per gene). It also gets the gene ID (gid) from the 0_genes.csv file
 
-`6_orphan_vars.py` uses a manually curated list of variants that have popped up during the data analysis and are not found in the variants.csv file provided by PharmGKB and creates the 4_oprhan_vars.csv file, with the same structure as 4_variant.csv
+`6_orphan_vars.py` uses a manually curated list of variants that have popped up during the data analysis and are not found in the variants.csv file provided by PharmGKB and creates the 4_orphan_vars.csv file, with the same structure as 4_variant.csv
 
 `7_variant_complete.py` joins 4_variant.csv, 4_orphan_vars.csv and 3_hid_vid_complete.csv into a single one using the [variant, vid, gene, gid] fields. This is the master variant file for reference.
 

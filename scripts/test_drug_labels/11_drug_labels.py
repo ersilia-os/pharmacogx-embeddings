@@ -166,6 +166,24 @@ def deconv_hap_variant(df):
     data = pd.DataFrame(R, columns=list(data.columns))
     return data
 
+def add_genes_to_vars(df):
+    p = VariantProcessor()
+    gene_vid_dict = p.gene_vid_pairs()
+    R = []
+    for i, row in df.iterrows():
+        chemical = row['chemical']
+        gene = row['gene']
+        var = row['variant']
+        vid = row['vid']
+        if (gene, vid) not in gene_vid_dict:
+            vid = None
+            var = None
+        R += [[chemical, gene, var, vid]]
+    cols = ["chemical","gene", "variant", "vid"]
+    data = pd.DataFrame(R, columns=cols)
+    return data
+
+
 def add_evidence(df):
     evidence_values = []
     for variant in df["variant"]:
@@ -188,8 +206,14 @@ if __name__ == "__main__":
     print(df.shape)
     df = deconv_hap_variant(df)
     print(df.shape)
-    df = p.add_columns_no_did(df)
+    df = p.hap_to_var(df)
+    print(df.shape)
+    df = p.clean_dup_haps(df)
+    print(df.shape)
+    df = add_genes_to_vars(df)
+    df = p.add_cid_gid(df)
     print(df.shape)
     df = add_evidence(df)
     print(df.shape)
     df.to_csv("{}_dec.csv".format(filename), index=False)
+
