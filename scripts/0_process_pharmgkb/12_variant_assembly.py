@@ -153,4 +153,4 @@ if __name__ == "__main__":
         ]
     ]
     result_df.columns = [col.rstrip("_") for col in result_df.columns]
-    result_df.to_csv(os.path.join(processed_folder, "13_variant_assembly.csv"), index=False)
+    result_df.to_csv(os.path.join(processed_folder, "12_variant_assembly.csv"), index=False)

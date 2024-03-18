@@ -33,27 +33,29 @@ Then, we look into the variants:
 
 `6_orphan_vars.py` uses a manually curated list of variants that have popped up during the data analysis and are not found in the variants.csv file provided by PharmGKB and creates the 4_orphan_vars.csv file, with the same structure as 4_variant.csv
 
-`7_variant_complete.py` joins 4_variant.csv, 4_orphan_vars.csv and 3_hid_vid_complete.csv into a single one using the [variant, vid, gene, gid] fields. This is the master variant file for reference.
+`7_variant_complete.py` joins 4_variant.csv, 4_orphan_vars.csv and 3_hid_vid_complete.csv into a single one using the [variant, vid, gene, gid] fields. We also add variants present in the relationships.csv file and nowhere else. This is the master variant file for reference.
 
 Then we process the other files to deconvolute the gene-variant-chemical associations:
 
-`8_clinical_annotation.py` reads the clinical_annotation.csv file and parses it to deconvolute the associations. For example, if one drug is associated to more than one variant, this line is duplicated associating only one drug-one variant. The haplotype is deconvoluted into its single variants as well, and the chemical id, disease id and other relevant fields are added from the original masterfiles(0_filename.csv). the final file is 6_clinical_annotation.csv
+`8_clinical_annotation.py` reads the clinical_annotation.csv file and parses it to deconvolute the associations. For example, if one drug is associated to more than one variant, this line is duplicated associating only one drug-one variant. The haplotype is deconvoluted into its single variants as well, and the chemical id, disease id and other relevant fields are added from the original masterfiles(0_filename.csv). The final file is 6_clinical_annotation.csv
 
-`9_clinical_ann_allele.py` is used to process the clinical annotations for each allele (haplotype). The clinical annotation ID from clinical_annotation and clinical_ann_allele match, so this is how this file could be processed. We are not using this information currently.
+`8_clinical_ann_allele.py` is used to process the clinical annotations for each allele (haplotype). We only use this file to obtain the alleles for which the CPIC has described the function as Normal. Those could be eliminated to remove normal function associations, but we are not doing it at the moment.
 
-`9_clinical_variant.py` cleans up the clinical_variant file to deconvolute the "variant" column into actual variants (many are haplotypes that need to be deconvoluted). The data contained in Clinical Annotation and Clinical Variant is the same
+`8_clinical_variant.py` cleans up the clinical_variant file to deconvolute the "variant" column into actual variants (many are haplotypes that need to be deconvoluted). The data contained in Clinical Annotation and Clinical Variant is the same.
 
-`10_study_parameters.py`gets the parameters of individual studies, most importantly biogeographical groups. It has an important part manually curated in the study_parameters_bid.csv (do not delete this file)
+`9_drug_labels.py` cleans the drug label association, recording whether a drug is associated to a certain EMA or other agency recomendation, and for which gene. We add the Evidence column (1A or 1B) but they lack the Phenotype information
 
-`11_var_pheno_ann.py` deconvolutes the association of variants and phenotypes identified not at a clinical level (no evidence level from PharmGKB, we only keep the significance 0, 1 or -1). Some associations do not have a chemical linked to them, as this refers to phenotypes only
+`10_study_parameters.py`gets the parameters of individual studies, most importantly biogeographical groups. It has an important part manually curated in the study_parameters_bid.csv (do not delete this file). We do not use this information currently
 
-`11_var_drug_ann.py` deconvolutes the association of variants and drugs identified not at a clinical level. (no evidence level from PhramGKB, we only keep the significance 0, 1 or -1). 
+`10_var_pheno_ann.py` deconvolutes the association of variants and phenotypes identified not at a clinical level (no evidence level from PharmGKB, we only keep the significance 0, 1 or -1). Some associations do not have a chemical linked to them, as this refers to phenotypes only
 
-`11_drug_labels.py` cleans the drug label association, recording whether a drug is associated to a certain EMA or other agency recomendation, and for which gene.
+`10_var_drug_ann.py` deconvolutes the association of variants and drugs identified not at a clinical level. (no evidence level from PhramGKB, we only keep the significance 0, 1 or -1). 
 
 `11_autom_ann.py` takes all automated annotations and performs the same deconvolution for gene/variant/haplotype/chemical as done in the previous files
 
 `12_variant_assembly.py` takes all the variants and adds information about them using an online query for processing on the genome pipelines
 
 ## Final tables
-Final tables are created to keep only the following fields: ["cid","chemical","smiles","gid","gene","ensembl_id","vid","variant","evidence","significance","phenotype","did","disease","biogroup","caid","vaid"]. To do so, we process the following files: Clinical_annotation, Clinical_variant, Drug_labels, Var_pheno_ann, Var_drug_ann, Autom_ann
+Final tables are created to keep only the following fields: ["cid","chemical","smiles","gid","gene","ensembl_id","vid","variant","evidence","phenotype","did","disease","]. To do so, we process the following files: Clinical_annotation, Clinical_variant, Drug_labels, Var_pheno_ann, Var_drug_ann, Autom_ann.
+The associatinos with significance 0 or -1 are not incorporated in the merged file.
+To track evidence levels, var_pheno_ann and var_drug_ann associations are given an evidence of 5 and autom_ann are given an evidence of 6.

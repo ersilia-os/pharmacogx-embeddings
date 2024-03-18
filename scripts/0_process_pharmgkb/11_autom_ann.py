@@ -8,24 +8,26 @@ sys.path.append(os.path.join(root, "..", "..", "src"))
 
 from utils import CsvCleaner
 from pharmgkb import RawData
-
+from variant_processing import VariantProcessor
 
 data_folder = os.path.abspath(os.path.join(root, "..", "..", "data"))
 processed_folder = os.path.join(data_folder, "pharmgkb_processed")
-
 
 def get_raw_files():
     r = RawData()
     autom_ann = r.automated_annotations
     return autom_ann
 
-
-def deconv_genomic_var(df):
-    c = CsvCleaner()
-    R = []
+def eliminate_no_genes(df):
     df = df[
         ~df["Gene Symbols"].isna()
     ]  # many automated annotations do not have an associated gene because they refer to viral or bacterial genes. These have been removed to avoid confusion
+    return df
+
+def deconv_genomic_var(df):
+    c = CsvCleaner()
+    p = VariantProcessor()
+    R = []
     for r in df.values:
         cid = c.stringify(r[0])
         chemical = c.stringify(r[1])
@@ -38,9 +40,11 @@ def deconv_genomic_var(df):
             hid = None
         elif var_type == "Haplotype":
             var = None
-            hap = None
+            vid = None
             hap = c.stringify(r[4])
             hid = c.stringify(r[3])
+        if hap is not None:
+            hap = p.clean_haps(hap)
         r_ = [
             chemical,
             cid,
@@ -53,12 +57,11 @@ def deconv_genomic_var(df):
         R += [r_]
     cols = ["chemical", "cid", "gene", "variant", "vid", "haplotype", "hid"]
     data = pd.DataFrame(R, columns=cols)
-
-    print(data.shape)
     data = data.drop_duplicates(keep="first")
-    print(data.shape)
     return data
 
+# as variants will be associated to the wrong gene (for example, genes VKROC1 and PRSS53 associated with warfarin metabolism vairant rs7294)
+# rs7294 is a VKROC1 variant, not a PRSS53. It is safer to start form variants/haplotypes and add the genes later
 
 def deconv_gene(df):
     c = CsvCleaner()
@@ -69,8 +72,6 @@ def deconv_gene(df):
         gene = c.inline_comma_splitter(r[2])
         var = r[3]
         vid = r[4]
-        hap = r[5]
-        hid = r[6]
         for g in gene:
             r_ = [
                 chemical,
@@ -78,74 +79,56 @@ def deconv_gene(df):
                 g,
                 var,
                 vid,
-                hap,
-                hid,
             ]
             R += [r_]
-    cols = ["chemical", "cid", "gene", "variant", "vid", "haplotype", "hid"]
+    cols = ["chemical", "cid", "gene", "variant", "vid"]
     data = pd.DataFrame(R, columns=cols)
-    print(data.shape)
     data = data.drop_duplicates(keep="first")
-    print(data.shape)
     return data
 
-
-def add_gid(df):
-    gene_df = pd.read_csv(os.path.join(processed_folder, "0_gene.csv"))
-    mapping_dict = gene_df.set_index("gene")["gid"].to_dict()
-    df["gid"] = df["gene"].map(mapping_dict)
-    return df
-
-def hap_to_var(df):
-    print(df.shape)
-    h2v = pd.read_csv(os.path.join(processed_folder, "3_hid_vid_complete.csv"))
-    h2v = h2v[["hid", "haplotype", "vid", "variant"]]
-    df_vid_only = df[df["hid"].isna()]
-    df_hid_only = df[~df["hid"].isna()]
-    df_hid_only = df_hid_only.drop(columns=["vid", "variant"])
-    merged_df = pd.merge(df_hid_only, h2v, on=["haplotype", "hid"], how="left")
-    data = pd.concat([df_vid_only, merged_df], axis=0)
-    print(data.shape)
-    data = data.drop_duplicates(keep="first")
-    print(data.shape)
+def add_genes_to_vars(df):
+    p = VariantProcessor()
+    gene_vid_dict = p.gene_vid_pairs()
+    R = []
+    for i, row in df.iterrows():
+        chemical = row['chemical']
+        cid = row['cid']
+        gene = row['gene']
+        vid = row['vid']
+        var = row['variant']
+        if gene is not None:
+            if (gene, vid) not in gene_vid_dict:
+                vid = None
+                var = None
+        R += [[chemical, cid, gene, var, vid]]
+    cols = ["chemical", "cid", "gene", "variant", "vid"]
+    data = pd.DataFrame(R, columns=cols)
     return data
-
-
-def add_gid_ensembl_id(df):
-    df_ = pd.read_csv(os.path.join(processed_folder, "0_gene.csv"))
-    df_ = df_[["gene", "ensembl_id"]]
-    data = pd.merge(df, df_, on="gene", how="left")
-    return data
-
-
-def add_cid_smiles(df):
-    df_ = pd.read_csv(os.path.join(processed_folder, "0_chemical.csv"))
-    df_ = df_[["chemical", "smiles"]]
-    data = pd.merge(df, df_, on="chemical", how="left")
-    return data
-
-
-def clean_haps(df):
-    print(df.shape)
-    df = df.drop(columns=["hid", "haplotype"])
-    df = df.drop_duplicates(keep="first")
-    print(df.shape)
-    return df
 
 if __name__ == "__main__":
-    data = get_raw_files()
-    print(data.shape)
-    data = deconv_genomic_var(data)
-    print(data.shape)
-    data = deconv_gene(data)
-    print(data.shape)
-    data = add_gid(data)
-    print(data.shape)
-    data = hap_to_var(data)
-    data = add_gid_ensembl_id(data)
-    data = add_cid_smiles(data)
-    data = clean_haps(data)
-    data.to_csv(
-        os.path.join(processed_folder, "12_autom_ann.csv"),
+    df = get_raw_files()
+    p = VariantProcessor()
+    print(df.shape)
+    df = eliminate_no_genes(df)
+    print(df.shape)
+    df = deconv_genomic_var(df)
+    print(df.shape)
+    df = p.hap_to_var(df)
+    print(df.shape)
+    df = p.eliminate_wt(df)
+    print(df.shape)
+    #df = p.eliminate_normal_function_allele(df)
+    #print(df.shape)
+    df = p.clean_dup_haps(df)
+    print(df.shape)
+    df = deconv_gene(df)
+    print(df.shape)
+    df = add_genes_to_vars(df)
+    print(df.shape)
+    df = p._add_gid_ensembl_id(df)
+    df = p._add_smiles(df)
+    df.to_csv(
+        os.path.join(processed_folder, "11_autom_ann.csv"),
         index=False,
     )
+
