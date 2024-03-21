@@ -59,3 +59,4 @@ Then we process the other files to deconvolute the gene-variant-chemical associa
 Final tables are created to keep only the following fields: ["cid","chemical","smiles","gid","gene","ensembl_id","vid","variant","evidence","phenotype","did","disease","]. To do so, we process the following files: Clinical_annotation, Clinical_variant, Drug_labels, Var_pheno_ann, Var_drug_ann, Autom_ann.
 The associatinos with significance 0 or -1 are not incorporated in the merged file.
 To track evidence levels, var_pheno_ann and var_drug_ann associations are given an evidence of 5 and autom_ann are given an evidence of 6.
+The file to create the final table is `13_final_table.py`

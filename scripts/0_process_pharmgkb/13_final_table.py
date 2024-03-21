@@ -59,4 +59,5 @@ data = pd.concat([df1, df2, df3, df4, df5, df6])
 print(data.shape)
 data = data.drop_duplicates(keep="first")
 print(data.shape)
+data = data[~data["cid"].isna()]
 data.to_csv(os.path.join(processed_folder, "13_pgkb_merged.csv"), index=False)
