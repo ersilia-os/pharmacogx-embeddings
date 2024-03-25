@@ -38,8 +38,7 @@ df = pd.read_csv(
         "..",
         "data",
         "pharmgkb_processed",
-        "final_tables",
-        "pgkb_merged.csv",
+        "13_pgkb_merged.csv",
     ),
     low_memory=False,
 )
@@ -192,9 +191,8 @@ if only_pk:
     table_statistics(df)
     print("")
 
-df = df[df["significance"] != -1]
 df = df[df["evidence"] != "4"]
-print("> Significance and evidence filter")
+print("> Evidence filter")
 table_statistics(df)
 print("")
 

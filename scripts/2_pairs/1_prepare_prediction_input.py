@@ -105,8 +105,7 @@ df = pd.read_csv(
         "..",
         "data",
         "pharmgkb_processed",
-        "final_tables",
-        "pgkb_merged.csv",
+        "13_pgkb_merged.csv",
     ),
     low_memory=False,
 )

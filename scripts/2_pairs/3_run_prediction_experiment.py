@@ -7,6 +7,8 @@ root = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.join(root, "..", "..", "src"))
 from bimodal_model import EnsembleBimodalStackedModel, get_embedding_names
 
+ENSEMBLE_SIZE = 30
+
 df = pd.read_csv(
     os.path.join(
         root,
@@ -31,7 +33,9 @@ sufixes = [
 
 fold_groups = []
 
-results_folder = os.path.join(root, "..", "..", "results_pairs")
+results_folder = os.path.abspath(os.path.join(root, "..", "..", "results", "results_pairs"))
+print(results_folder)
+
 if not os.path.exists(results_folder):
     os.mkdir(results_folder)
 
@@ -50,7 +54,7 @@ for sufix_0, sufix_1 in sufixes:
         model = EnsembleBimodalStackedModel(
             cemb_names_list, pemb_names_list, model_folder=k_model_folder
         )
-        df = model.predict(df)
+        df = model.predict(df, ENSEMBLE_SIZE)
         columns = list(df.columns)
         c0 = columns[-2]
         c1 = columns[-1]
@@ -80,7 +84,7 @@ for fg in fold_groups:
 
 df.to_csv(
     os.path.join(
-        results_folder, "results", "chemical_gene_pairs_prediction_output_focus.csv"
+        results_folder, "chemical_gene_pairs_prediction_output_focus.csv"
     ),
     index=False,
 )

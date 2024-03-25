@@ -7,6 +7,8 @@ root = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.join(root, "..", "..", "src"))
 from bimodal_model import EnsembleBimodalStackedModel, get_embedding_names
 
+ENSEMBLE_SIZE = 30
+
 df = pd.read_csv(
     os.path.join(
         root,
@@ -17,8 +19,6 @@ df = pd.read_csv(
         "chemical_gene_pairs_prediction_input.csv",
     )
 )
-
-# df = df[df["chemical_of_interest"] == 1]
 
 embeddings_names = get_embedding_names()
 cemb_names_list = embeddings_names["compound"]
@@ -41,12 +41,13 @@ def split_dataframe(df, chunk_size):
 
 
 chunks = split_dataframe(df, 50000)
+print("Number of chunks:", len(chunks))
 
-results_folder = os.path.join(root, "..", "..", "results_pairs")
+results_folder = os.path.join(root, "..", "..", "results", "results_pairs", "chunks")
 if not os.path.exists(results_folder):
     os.mkdir(results_folder)
 
-for chunk_count, df_chunk in enumerate(chunks):
+for chunk_count, df_chunk in tqdm(enumerate(chunks)):
     df_chunk = pd.DataFrame(df_chunk).copy()
     print("Chunk", chunk_count)
     fold_groups = []
@@ -67,7 +68,7 @@ for chunk_count, df_chunk in enumerate(chunks):
             model = EnsembleBimodalStackedModel(
                 cemb_names_list, pemb_names_list, model_folder=k_model_folder
             )
-            df = model.predict(df_chunk)
+            df = model.predict(df_chunk, ENSEMBLE_SIZE)
             columns = list(df.columns)
             c0 = columns[-2]
             c1 = columns[-1]

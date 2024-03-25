@@ -9,6 +9,7 @@ file_path = os.path.join(
     root,
     "..",
     "..",
+    "results",
     "results_pairs",
     "chemical_gene_pairs_prediction_output_focus.csv",
 )
@@ -100,6 +101,7 @@ df_final.to_csv(
         root,
         "..",
         "..",
+        "results",
         "results_pairs",
         "chemical_gene_pairs_prediction_output_focus_with_variant_aggregates.csv",
     ),

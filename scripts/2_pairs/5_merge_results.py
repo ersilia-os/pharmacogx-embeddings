@@ -6,7 +6,8 @@ from tqdm import tqdm
 
 root = os.path.dirname(os.path.abspath(__file__))
 
-results_dir = os.path.abspath(os.path.join(root, "..", "..", "results_pairs"))
+results_dir = os.path.abspath(os.path.join(root, "..", "..", "results", "results_pairs"))
+results_dir_chunks = os.path.join(results_dir, "chunks")
 
 
 class DynamicCalculator:
@@ -41,6 +42,7 @@ df = pd.read_csv(
 )
 
 print(df.columns)
+print(df.shape)
 
 y_hat_columns = [x for x in list(df.columns) if x.startswith("y_hat_")]
 
@@ -52,9 +54,9 @@ def ends_with_number_and_csv(filename):
     return bool(re.match(pattern, filename))
 
 
-for filename in tqdm(os.listdir(results_dir)):
+for filename in tqdm(os.listdir(results_dir_chunks)):
     if ends_with_number_and_csv(filename):
-        dc = pd.read_csv(os.path.join(results_dir, filename))
+        dc = pd.read_csv(os.path.join(results_dir_chunks, filename))
         for i, col in enumerate(y_hat_columns):
             for v in dc[col].tolist():
                 dynamic_calculators[i].add(v)

@@ -305,8 +305,11 @@ class EnsembleBimodalStackedModel(object):
                 name = self.get_name(emb_name_A, emb_name_B)
                 model = BimodalStackedModel(emb_name_A, emb_name_B)
                 print("Fitting:", name)
-                model.fit(df)
-                model.save(self.get_filename(name))
+                try:
+                    model.fit(df)
+                    model.save(self.get_filename(name))
+                except:
+                    continue
 
     def evaluate(self, df):
         data = {}
@@ -318,10 +321,13 @@ class EnsembleBimodalStackedModel(object):
                 if not os.path.exists(file_name):
                     continue
                 model = load_bimodal_stacked_model(file_name)
-                results = model.evaluate(df)
-                print(name, results["n_eval"], results["auroc"])
-                data[name] = {"auroc": results["auroc"], "n_eval": results["n_eval"]}
-                pred_stack[name] = np.array(results["data"]["y_hat"])
+                try:
+                    results = model.evaluate(df)
+                    print(name, results["n_eval"], results["auroc"])
+                    data[name] = {"auroc": results["auroc"], "n_eval": results["n_eval"]}
+                    pred_stack[name] = np.array(results["data"]["y_hat"])
+                except:
+                    continue
         y_hat, _ = self.average(pred_stack)
         y_hat_w, _ = self.weighted_average(pred_stack, data)
         data["average"] = self._get_roc_auc_score(df, y_hat)
@@ -331,17 +337,43 @@ class EnsembleBimodalStackedModel(object):
         print(json.dumps(data, indent=4))
         return data
 
-    def predict(self, df):
+    def get_top_n(self, top_n):
+        eval_file = self.get_evaluation_filename()
+        if os.path.exists(eval_file):
+            with open(eval_file, "r") as f:
+                eval_data = json.load(f)
+            max_neval = []
+            for k, v in eval_data.items():
+                max_neval += [v["n_eval"]]
+            max_neval = max(max_neval)
+            k_sel = []
+            for k, v in eval_data.items():
+                if v["n_eval"] < max_neval*0.5:
+                    continue
+                k_sel += [k]
+            k_sel = sorted(k_sel, key=lambda x: eval_data[x]["auroc"], reverse=True)[:top_n]
+            return k_sel
+        else:
+            return None
+
+    def predict(self, df, top_n=100):
         pred_stack = {}
+        sel_pairs = self.get_top_n(top_n)
         for emb_name_A in self.emb_name_list_A:
             for emb_name_B in self.emb_name_list_B:
-                name = self.get_name(emb_name_A, emb_name_B)
-                file_name = self.get_filename(name)
-                if not os.path.exists(file_name):
+                try:
+                    name = self.get_name(emb_name_A, emb_name_B)
+                    if sel_pairs is not None:
+                        if name not in sel_pairs:
+                            continue
+                    file_name = self.get_filename(name)
+                    if not os.path.exists(file_name):
+                        continue
+                    model = load_bimodal_stacked_model(file_name)
+                    df = model.predict(df)
+                    pred_stack[name] = np.array(df["y_hat"])
+                except:
                     continue
-                model = load_bimodal_stacked_model(file_name)
-                df = model.predict(df)
-                pred_stack[name] = np.array(df["y_hat"])
         eval_file = self.get_evaluation_filename()
         if os.path.exists(eval_file):
             with open(eval_file, "r") as f:

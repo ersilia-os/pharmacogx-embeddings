@@ -21,26 +21,14 @@ df.to_csv(os.path.join(processed_folder, "pd_phenotype.csv"), index=False)
 # Evidence
 # Level 0 is from druglabel
 ev = {
-    "0A": "Actionable PGx",
-    "0B": "Informative PGx",
-    "0C": "Testing recommended",
-    "0D": "Testing required",
-    "0E": "VIP Gene",
-    "0F": "Pathway",
-    "0G": "DosingGuideline",
-    "1A": "ClinicalAnnotation",
+    "1A": "Clincal",
     "1B": "ClinicalAnnotation",
     "2A": "ClinicalAnnotation",
     "2B": "ClinicalAnnotation",
     "3": "ClinicalAnnotation",
     "4": "ClinicalAnnotation",
-    "5A": "var_drug_ann",
-    "5B": "var_pheno_ann",
-    "5C": "var_fa_ann",
-    "6A": "autom_ann",
-    "6B": "DataAnnotation",
-    "6C": "Literature",
-    "6D": "Multilink Annotation",
+    "5": "var_drug_ann",
+    "6": "autom_ann",
 }
 df = pd.DataFrame.from_dict(ev, orient="index")
 df.reset_index(inplace=True)
