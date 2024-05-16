@@ -1,0 +1,119 @@
+{
+    "pharmgkb_id": "PA451145",
+    "drugbank_id": "DB00571",
+    "names": [
+        "Propranolol",
+        "Angilol",
+        "Bedranol SR",
+        "Cardinol",
+        "Ciplar",
+        "Deralin",
+        "Dociton",
+        "Duranol",
+        "Indobloc",
+        "INNOPRAN",
+        "Prophylux",
+        "Sumial"
+    ],
+    "description": "Propranolol is a racemic mixture of 2 enantiomers where the S(-)-enantiomer has approximately 100 times the binding affinity for beta adrenergic receptors.[L6904] Propranolol is used to treat a number of conditions but most commonly is used for hypertension.[L6901,L6904,L6907] \r\n\r\nPropranolol was granted FDA approval on 13 November 1967.[L6904]",
+    "indication": "Propranolol is indicated to treat hypertension.[L6907,L6904] Propranolol is also indicated to treat angina pectoris due to coronary atherosclerosis, atrial fibrillation, myocardial infarction, migraine, essential tremor, hypertrophic subaortic stenosis, pheochromocytoma, and proliferating infantile hemangioma.[L6904,L6907]",
+    "pharmacodynamics": "Propranolol is a beta-adrenergic receptor antagonist used to treat hypertension.[L6904,L6907] Propranolol has a long duration of action as it is given once or twice daily depending on the indication.[L6901,L6904,L6907] When patients abruptly stop taking propranolol, they may experience exacerbations of angina and myocardial infarctions.[L6907]",
+    "mechanism-of-action": "Propranolol is a nonselective \u03b2-adrenergic receptor antagonist.[A179902] Blocking of these receptors leads to vasoconstriction, inhibition of angiogenic factors like vascular endothelial growth factor (VEGF) and basic growth factor of fibroblasts (bFGF), induction of apoptosis of endothelial cells, as well as down regulation of the renin-angiotensin-aldosterone system.[A179902]",
+    "absorption": "Patients taking doses of 40mg, 80mg, 160mg, and 320mg daily experienced C<sub>max</sub> values of 18\u00b115ng/mL, 52\u00b151ng/mL, 121\u00b198ng/mL, and 245\u00b1110ng/mL respectively.[A180289] Propranolol has a T<sub>max</sub> of approximately 2 hours, though this can range from 1 to 4 hours in fasting patients.[A180295] Taking propranolol with food does not increase T<sub>max</sub> but does increase bioavailability.[A180295]",
+    "metabolism": "Propranolol undergoes side chain oxidation to \u03b1-naphthoxylactic acid, ring oxidation to 4\u2019-hydroxypropranolol, or glucuronidation to propranolol glucuronide.[A36551] It can also be N-desisopropylated to become N-desisopropyl propranolol.[A179878] 17% of a dose undergoes glucuronidation and 42% undergoes ring oxidation.[A180298]",
+    "toxicity": "Symptoms of overdose include hypotension, hypoglycemic seizure, restlessness, euphoria, insomnia.[L6901] Patients with asthma may develop bronchospasm.[L6901] In case of overdose, monitor vital signs, mental status, and blood glucose.[L6901] Treat hypotension with intravenous fluids, bradycardia with atropine, and isoproterenol and aminophylline for bronchospasm.[L6901] If patients do not respond to intravenous fluids, follow up with glucagon 50-150\u00b5g/kg intravenously, then 1-5mg/hour, followed by catecholamines.[L6901,L6904,L6907] Dialysis will not be useful as propranolol is highly protein bound.[L6901,L6904,L6907]",
+    "targets": [
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta-3 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1B",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

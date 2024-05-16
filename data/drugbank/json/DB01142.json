@@ -1,0 +1,219 @@
+{
+    "pharmgkb_id": "PA449409",
+    "drugbank_id": "DB01142",
+    "names": [
+        "Doxepin",
+        "Adapin",
+        "Aponal",
+        "Doxepine",
+        "Quitaxon"
+    ],
+    "description": "Doxepin is a psychotropic agent with antidepressant and anxiolytic properties.[T559] It is a tertiary amine that can be presented as (E) and (Z) stereoisomers with the (Z) stereoisomer corresponding to [cidoxepin]. Doxepin commonly produces a 5:1 (E):(Z) racemic mixture.[T83] \r\n\r\nIn a strict sense, doxepin is not a tricyclic antidepressant but it is commonly associated with the class since it shares a lot of properties with members of the drug family including [amitriptyline], [clomipramine], [desipramine], [imipramine], [nortriptyline], [protriptyline] and [trimipramine].[L5977] \r\n\r\nDoxepin was developed by Pfizer and FDA approved in 1969 as an antidepressant.[L5971] However, in 2010 it was approved for the treatment of insomnia. The latter indication was presented by Pernix Therapeutics.[L5974]",
+    "indication": "Oral doxepin is approved for the following indications:\r\n\r\n- Treatment of depression and/or anxiety.[A177163]\r\n- Treatment of depression and/or anxiety associated with different conditions, including alcoholism, organic disease and manic-depressive disorders.[T249]\r\n- Treatment of psychotic depressive disorders with associated anxiety.[T249]\r\n- Treatment of involutional depression.[T249] \r\n- Treatment of manic-depressive disorder.[T249]\r\n- Treatment of insomnia characterized by difficulties with sleep maintenance.[A177163]\r\n\r\nTopical doxepin is also approved for short-term (up to 8 days) management of moderate pruritus in adult patients with atopic dermatitis, pruritus or lichen simplex chronicus.[T249]\r\n\r\nOff-label, doxepin is used topically for the management of neuropathic pain.[A177172]\r\n\r\nDepression is a common medical illness that causes feelings of sadness and or loss of interest in prior enjoyable activities. This condition can lead to emotional and physical disturbances that can decrease the ability of a person to function in a regular environment.[L5980]\r\n\r\nAnxiety is a normal reaction of the body towards a normal danger. When the anxious state is exacerbated or appears on situations without danger, it is defined as an anxiety disorder. This disorders can appear in different forms such as phobias, panic, obsessive-compulsive disorder and post-traumatic stress disorder.[L5983]\r\n\r\nInsomnia is a sleep disorder that directly affects the quality of life of the individual. It is characterized by the complication either to fall asleep or to stay asleep. This condition can be occasional or chronic.[L5986]\r\n\r\nPruritus is defined as an unpleasant skin reaction that provokes the urge to scratch. It can be localized or generalized and it can appear in an acute or chronic manner.[L5989]\r\n\r\nNeuropathic pain occurs due to the damage or dysfunction of the peripheral or central nervous system rather than stimulation of the pain receptors.[L5992]",
+    "pharmacodynamics": "Similar to other tricyclic antidepressants, doxepin was shown, in preclinical trials, to decrease the electrical activity of the brain, prolong the hexobarbital-induced sleep and block avoidance behavior without affecting the conditioned emotional response. At high doses, it also produces symptoms of central nervous system depression.[L5998]\r\n\r\nDoxepin is known to cause antidepressant, sedative, and anticholinergic effects. At high doses, its anticholinergic and antiadrenergic properties are the most prevalent which limit its efficacy. These effects are observed at high doses where its affinity for H1 histamine receptor is lost and its binding to other receptors is observed.[A177163]\r\n\r\nThe maximal antidepressive effects of doxepin are present around two weeks following initiation of therapy.[T388] However, the sedative effects of doxepin, usually used for the treatment of insomnia or anxiety, are observed immediately after administration.[T249]",
+    "mechanism-of-action": "Doxepin exact mechanism of action is not very clear. However, doxepin is known to be a selective histamine H1 receptor blocker.[A177163] This effect on histamine receptors indicates effectiveness in skin conditions.[T249]\r\n\r\nBreaking its function according to the different effect, doxepin's antidepressive action is primarily associated with the inhibition of the central nervous system biogenic amine reuptake; more specifically, norepinephrine and serotonin at synaptic nerve terminals. This effect increases the level of monoamines in the synaptic site which in order increases the activity at the post-synaptic neuron receptor sites.[T388] It has been suggested that doxepin also desensitizes both serotonin 1A receptors and beta-adrenergic receptors.[T249]\r\n\r\nIt is known that the lack of dopamine transporters in the frontal cortex and the transmission of dopamine in this region is largely inactivated by the effect of norepinephrine reuptake. Hence, doxepin action on the frontal cortex is suggested to increase dopamine neurotransmission in this area.[T249]",
+    "absorption": "Doxepin is moderately absorbed following oral ingestion with a bioavailability of 30%.[T388] The median peak concentration of doxepin ranges from 8.8-45.8 ng/ml and it is achieved 3.5 hours after initial administration. Its absorption is increased with concomitant administration of a high-fat meal.[L5995]",
+    "metabolism": "Doxepin is extensively metabolized to N-desmethyldoxepin which is a biologically active metabolite and other inactive metabolites.[A177172] The first-pass metabolism accounts for 55-87% of the administered dose.[A177196] After, the secondary metabolism is driven by the transformation of N-desmethyldoxepin to its glucuronide conjugates.[L5995]\r\n\r\nThe main metabolic enzymes involved in the transformation of doxepin are the members of the cytochrome P450 family, CYP2C19 and CYP2D6 with minor involvement of CYP1A2 and CYP2C9.[L5995]",
+    "toxicity": "Oral LD50 values of doxepin in mouse and rat are 180 mg/kg and 147 mg/kg, respectively.[MSDS] In an overdose state, symptoms of convulsions, dysrhythmias, coma, severe hypotension, central nervous system depression, changes on electrocardiography results and death have been observed.[T249]\r\n\r\nOn fertility studies, doxepin was shown to increase the copulatory interval, decrease the corpora lutea, decrease implantation, decreased the number of viable embryos, decrease litter size, increase the number of abnormal sperm and decrease the sperm motility. There is no evidence indicating carcinogenic and mutagenic potential.[FDA label] ",
+    "targets": [
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "HRH2",
+            "Histamine H2 receptor",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine receptor 2B",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "5-hydroxytryptamine receptor 6",
+            "Humans"
+        ],
+        [
+            "HRH4",
+            "Histamine H4 receptor",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01142",
+            "Drug Name": "Doxepin",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs35742686",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of doxepin."
+        },
+        {
+            "DrugBank ID": "DB01142",
+            "Drug Name": "Doxepin",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of doxepin."
+        },
+        {
+            "DrugBank ID": "DB01142",
+            "Drug Name": "Doxepin",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of doxepin."
+        },
+        {
+            "DrugBank ID": "DB01142",
+            "Drug Name": "Doxepin",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of doxepin."
+        },
+        {
+            "DrugBank ID": "DB01142",
+            "Drug Name": "Doxepin",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with poor metabolism of doxepin."
+        },
+        {
+            "DrugBank ID": "DB01142",
+            "Drug Name": "Doxepin",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with reduced or poor metabolism of doxepin."
+        },
+        {
+            "DrugBank ID": "DB01142",
+            "Drug Name": "Doxepin",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1135824",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of doxepin."
+        },
+        {
+            "DrugBank ID": "DB01142",
+            "Drug Name": "Doxepin",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs28371733",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of doxepin."
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "pharmgkb_id": "PA7000",
+    "drugbank_id": "DB00398",
+    "names": [
+        "Sorafenib"
+    ],
+    "description": "Sorafenib is a bi-aryl urea and an oral multikinase inhibitor. It targets cell surface tyrosine kinase receptors and downstream intracellular kinases that are implicated in tumour cell proliferation and tumour angiogenesis.[A255852] First approved by the FDA and European Commission in 2007 for the treatment of hepatocellular carcinoma, sorafenib is also indicated to treat renal carcinoma and differentiated thyroid carcinoma.[A14794]",
+    "indication": "Sorafenib is indicated for the treatment of unresectable hepatocellular carcinoma and advanced renal cell carcinoma.[L9341,L44577]\r\n\r\nIn the US, it is also indicated for the treatment of patients with locally recurrent or metastatic, progressive, differentiated thyroid carcinoma that is refractory to radioactive iodine treatment.[L9341]",
+    "pharmacodynamics": "Sorafenib decreases tumour cell proliferation _in vitro_. It attenuated tumour growth of human tumour xenografts in immunocompromised mice, reduced tumour angiogenesis, and increased tumour apoptosis in models of hepatocellular carcinoma, renal cell carcinoma, and differentiated thyroid carcinoma.[A255852,L9341] Some studies suggest that sorafenib induces apoptosis in several tumour cell lines, although this effect is inconsistent across cell lines.[A255852] Antiviral effects of sorafenib have been documented, as it was shown to inhibit hepatitis C viral replication _in vitro_.[A255852]",
+    "mechanism-of-action": "Kinases are involved in tumour cell signalling, proliferation, angiogenesis, and apoptosis.[A14794,L9341] Sorafenib inhibits multiple intracellular serine/threonine kinases in the Ras/mitogen-activated protein kinase (MAPK) signal transduction pathway. Intracellular Raf serine/threonine kinase isoforms inhibited by sorafenib include Raf-1 (or C-Raf), wild-type B-Raf, and mutant B-Raf. Sorafenib inhibits cell surface tyrosine kinase receptors such as KIT, FMS-like tyrosine kinase 3 (FLT-3), RET, RET/PTC, vascular endothelial growth factor receptor-1 (VEGFR-1), VEGFR-2, VEGFR-3, and platelet-derived growth factor receptor-\u03b2 (PDGFR-\u03b2).[A255852,A255857,A14794,L9341] \r\n\r\nSorafenib is thought to exhibit a dual mechanism of action: it blocks tumour proliferation and growth by inhibiting the RAF/MEK/extracellular signal-regulated kinase (ERK) pathway on tumour cells, and reduces tumour angiogenesis by inhibiting VEGFR and PDGFR signalling in tumour vasculature.[A255852,A10489]",
+    "absorption": "The administration of multiple doses for seven days resulted in a 2.5- to 7-fold accumulation compared to a single dose. Steady-state concentrations were achieved within seven days, with a peak-to-trough ratio of mean concentrations of less than 2. Mean C<sub>max</sub> and AUC increased less than proportionally beyond oral doses of 400 mg administered twice daily. The T<sub>max</sub> is approximately three hours.[L9341]\r\n\r\nThe mean relative bioavailability was 38\u201349% following the administration of oral sorafenib tablets. A high-fat meal reduced bioavailability by 29%.[L9341]",
+    "metabolism": "Sorafenib undergoes oxidative metabolism by CYP3A4 in the liver, as well as glucuronidation by UGT1A9 in the liver and kidneys.[A255852,L9341] At steady-state, sorafenib accounts for 70-85% of the circulating analytes in plasma.[A255852] About eight metabolites of sorafenib have been identified, of which five were detected in plasma. The main circulating metabolite was the pyridine N-oxide form, which comprises approximately 9\u201316% of the total circulating dose at steady-state: the pharmacological activity of this metabolite was comparable to the parent drug.[L9341]",
+    "toxicity": "The oral lowest published toxic dose (Toxic Dose Low, TDLo) is 2.84 mg/kg/21D (intermittent).[L44582] The oral LD<sub>50</sub> of sorafenib tosylate in rats is >2000 mg/kg.[L44607]\r\n\r\nThe adverse reactions observed at 800 mg sorafenib twice daily (twice the recommended dose) were primarily diarrhea and dermatologic. No information is available on symptoms of acute overdose in animals because of the saturation of absorption in oral acute toxicity studies conducted in animals. The prescribing information recommends the discontinuation of sorafenib treatment and initiation of supportive care in cases of suspected overdose.[L9341]",
+    "targets": [
+        [
+            "BRAF",
+            "Serine/threonine-protein kinase B-raf",
+            "Humans"
+        ],
+        [
+            "RAF1",
+            "RAF proto-oncogene serine/threonine-protein kinase",
+            "Humans"
+        ],
+        [
+            "FLT4",
+            "Vascular endothelial growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "KDR",
+            "Vascular endothelial growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FLT1",
+            "Vascular endothelial growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "FLT3",
+            "Receptor-type tyrosine-protein kinase FLT3",
+            "Humans"
+        ],
+        [
+            "PDGFRB",
+            "Platelet-derived growth factor receptor beta",
+            "Humans"
+        ],
+        [
+            "KIT",
+            "Mast/stem cell growth factor receptor Kit",
+            "Humans"
+        ],
+        [
+            "FGFR1",
+            "Fibroblast growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "RET",
+            "Proto-oncogene tyrosine-protein kinase receptor Ret",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "RALBP1",
+            "RalA-binding protein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

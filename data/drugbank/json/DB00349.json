@@ -1,0 +1,244 @@
+{
+    "pharmgkb_id": "PA10888",
+    "drugbank_id": "DB00349",
+    "names": [
+        "Clobazam",
+        "Aedon",
+        "Castilium",
+        "Clobam",
+        "Clobamax",
+        "Frisium",
+        "Grifoclobam",
+        "Mystan",
+        "Noiafren",
+        "Sederlona",
+        "Urbanil",
+        "Urbanol",
+        "Urbanyl",
+        "Venium"
+    ],
+    "description": "Clobazam belongs to the 1,5-benzodiazepine class of drugs and is marketed under different names, Onfi, Frisium, Urbanyl, and others.[A256868]. Clobazam was first synthesized in 1966 and first published in 1969, following the incidental synthesis and discovery of the first benzodiazepine chlordiazepoxide in the 1950s.[A256913] Unlike older 1,4-benzodiazepines, clobazam has a better side-effects profile, particularly less sedative and amnesic effects.[A256963,A256868] This is likely because of clobazam's higher affinity to the \u03b1<sub>2</sub> subunit of the GABA<sub>A</sub> receptor, which mediates anxiolytic effects, than the \u03b1<sub>1</sub> subunit, which mediates sedative effect.[A256868] Additionally, clobazam is believed to be a partial agonist to the GABA<sub>A</sub> receptor rather than non-selective full receptor agonists like 1,4-benzodiazepines, thus potentially explaining the decreased incidence of sedative effects.[A256968,A256973]\r\n\r\nClobazam has been marketed as an anxiolytic since 1975 and an anticonvulsant since 1984.[A521,A522] In October 21, 2011, the FDA approved clobazam as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome in adults and children aged two years and older.[A256958] In 2005, clobazam also received approval from Health Canada as an add-on therapy for generalized tonic-clonic, myoclonic, and focal impaired awareness seizures.[A256978]",
+    "indication": "Clobazam is indicated for the adjunctive treatment of seizures associated with Lennox-Gastaut syndrome (LGS) in patients 2 years of age or older.[L44888] ",
+    "pharmacodynamics": "Clobazam belongs to the benzodiazepine class of drugs.[L44888] Clobazam acts on the GABA<sub>A</sub> receptor to increase GABAnergic transmission, particularly chloride conductance in neurons.[A256868] This causes neuronal hyperpolarization, resulting in an increase in the action potential threshold and reducing neuron firing frequency.[A256908, A256913] Consequently, the general neuronal activity of the central nervous system is depressed; therefore, clobazam can be used to treat diseases caused by excessive excitatory action potentials.[A256913]\r\n\r\nThe effect of clobazam 20 mg and 80 mg administered twice daily on QTc interval was evaluated in a randomized, evaluator-blinded, placebo-, and active-controlled (moxifloxacin 400 mg) parallel thorough QT study in 280 healthy subjects. In a study with demonstrated ability to detect small effects, the upper bound of the one-sided 95% confidence interval for the largest placebo-adjusted, baseline-corrected QTc based on the Fridericia correction method was below 10 ms, the threshold for regulatory concern.\r\nThus, at a dose two times the maximum recommended dose, clobazam did not prolong the QTc interval to any clinically relevant extent.[L44888]  ",
+    "mechanism-of-action": "The exact mechanism of action for clobazam, a 1,5-benzodiazepine, is not fully understood but is thought to involve the potentiation of GABAergic neurotransmission resulting from binding at the benzodiazepine site of the GABA<sub>A</sub> receptor.[L44888] Specifically, clobazam binds to the interface of the \u03b1<sub>2</sub> and \u03b3<sub>2</sub>-subunit of the GABA<sub>A</sub> receptor.[A256868] It has a great affinity for the \u03b1<sub>2</sub> subunit than the \u03b1<sub>1</sub> subunit compared to other 1,4\u2010benzodiazepines.[A256938]Binding of clobazam to the GABA<sub>A</sub> receptor causes chloride channels to open, resulting in an influx of chloride and thus hyperpolarization of neurons.[A256868]",
+    "absorption": "The peak plasma levels (Cmax) and the area under the curve (AUC) of clobazam are dose-proportional over the dose range of 10-80 mg following single- or multiple-dose administration of ONFI. Based on a population pharmacokinetic analysis, the pharmacokinetics of clobazam are linear from 5-160 mg/day.[L44888]\r\n\r\nClobazam is rapidly and extensively absorbed following oral administration. The time to peak concentrations (T<sub>max</sub>) of clobazam tablets under fasted conditions ranged from 0.5 to 4 hours after single- or multiple-dose administrations. The relative bioavailability of clobazam tablets compared to an oral solution is approximately 100%. After single-dose administration of the oral suspension under fasted conditions, the Tmax ranged from 0.5 to 2 hours. Based on exposure (C<sub>max</sub> and AUC) of clobazam, clobazam tablets and suspension were shown to have similar bioavailability under fasted conditions. The administration of clobazam tablets with food or when crushed in applesauce does not affect absorption. Although not studied, the oral bioavailability of the oral suspension is unlikely to be affected under fed conditions.[L44888] \r\n\r\n",
+    "metabolism": "Clobazam is extensively metabolized in the liver via N-demethylation and hydroxylation to form two major metabolites, N-desmethylclobazam (norclobazam) and 4'-hydroxyclobazam, respectively, with approximately 2% of the dose recovered in urine and 1% in feces as an unchanged drug.[L44888,A18648] The N-demethylation reaction is catalyzed primarily by CYP3A4 and to a lesser extent by CYP2C19 and CYP2B6. N-desmethylclobazam, an active metabolite, is the major circulating metabolite in humans, and at therapeutic doses, plasma concentrations are 3-5 times higher than those of the parent compound. Based on animal and in vitro receptor binding data, estimates of the relative potency of N-desmethylclobazam compared to the parent compound range from 1/5 to equal potency. N-desmethylclobazam is extensively hydroxylated, mainly by CYP2C19. N-desmethylclobazam and its metabolites comprise ~94% of the total drug-related components in urine.[L44888]. The formation of 4'-hydroxyclobazam is facilitated by CYP2C18 and CYP2C19.[A18648]\r\n\r\nThe polymorphic CYP2C19 is the major contributor to the metabolism of the pharmacologically active N-desmethylclobazam. In CYP2C19 poor metabolizers, levels of N-desmethylclobazam were 5-fold higher in plasma and 2- to 3-fold higher in the urine than in CYP2C19 extensive metabolizers.[L44888]  \r\n",
+    "toxicity": "Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8) and Clinical Considerations]. Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association between benzodiazepines and major birth defects.[L44888]\r\n\r\nAdministration of clobazam to pregnant rats and rabbits during the period of organogenesis or to rats throughout pregnancy and lactation resulted in developmental toxicity, including increased incidences of fetal malformations and mortality, at plasma\r\nexposures for clobazam and its major active metabolite, N-desmethylclobazam, below those expected at therapeutic doses in patients. Data for other benzodiazepines suggest the possibility of long-term effects on neurobehavioral and immunological function in animals following prenatal exposure to benzodiazepines at clinically relevant doses. ONFI should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus. Advise a pregnant woman and women of childbearing age of the potential risk to a fetus.[L44888]\r\n\r\nBenzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates. Monitor neonates exposed to clobazam during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems. Monitor neonates exposed to clobazam during pregnancy for signs of withdrawal. Manage these neonates accordingly [see Warnings and Precautions (5.8)].[L44888] \r\n\r\nThe background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.[L44888] \r\n\r\nAdministration of clobazam to rats prior to and during mating and early gestation resulted in adverse effects on fertility and early embryonic development at plasma exposures for clobazam and its major active metabolite, N-desmethylclobazam, below those in humans at the MRHD [see Nonclinical Toxicology (13.1)].[L44888]\r\n\r\nIn a study in which clobazam (0, 4, 36, or 120 mg/kg/day) was orally administered to rats during the juvenile period of development (postnatal days 14 to 48), adverse effects on growth (decreased bone density and bone length) and behavior (altered motor activity and auditory startle response; learning deficit) were observed at the high dose. The effect on bone density, but not on behavior, was reversible when the drug was discontinued. The no-effect level for juvenile toxicity (36 mg/kg/day) was associated with plasma exposures (AUC) to clobazam and its major active metabolite, N-desmethylclobazam, less than those expected at therapeutic doses in pediatric patients.[L44888]   \r\n\r\nIn mice, oral administration of clobazam (0, 6, 12, or 24 mg/kg/day) for 2 years did not result in an increase in tumors. The highest dose tested was approximately 3 times the maximum recommended human dose (MRHD) of 40 mg/day, based on body surface\r\narea (mg/m2).[L44888]\r\n\r\nIn rats, oral administration of clobazam for 2 years resulted in increases in tumors of the thyroid gland (follicular cell adenoma and carcinoma) and liver (hepatocellular adenoma) at the mid and high doses. The low dose, not associated with an increase in tumors, was associated with plasma exposures (AUC) for clobazam and its major active metabolite, N-desmethylclobazam, less than that in humans at the MRHD.[L44888] \r\n\r\nClobazam and the major active metabolite, N-desmethylclobazam, were negative for genotoxicity, based on data from a battery of in vitro (bacteria reverse mutation, mammalian clastogenicity) and in vivo (mouse micronucleus) assays.[L44888] \r\n\r\nIn a fertility study in which clobazam (50, 350, or 750 mg/kg/day, corresponding to 12, 84, and 181 times the oral Maximum Recommended Human Dose, MRHD, of 40 mg/day based on mg/m2 body surface) was orally administered to male and female rats prior to and during mating and continuing in females to gestation day 6, increases in abnormal sperm and pre-implantation loss were observed at the highest dose tested. The no-effect level for fertility and early embryonic development in rats was associated with\r\nplasma exposures (AUC) for clobazam and its major active metabolite, N-desmethylclobazam, less than those in humans at the maximum recommended human dose of 40 mg/day.[L44888] \r\n\r\nClobazam is a benzodiazepine and a CNS depressant with a potential for abuse and addiction. Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects. Misuse is the intentional use, for\r\ntherapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed. Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence. Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medication. Abuse and misuse of benzodiazepines may lead to addiction.[L44888]\r\n\r\nAbuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death. Benzodiazepines are often sought by individuals who abuse drugs and other substances, and by individuals with addictive disorders [see Warnings and Precautions (5.2)].[L44888]\r\n\r\nThe following adverse reactions have occurred with benzodiazepine abuse and/or misuse: abdominal pain, amnesia, anorexia, anxiety, aggression, ataxia, blurred vision, confusion, depression, disinhibition, disorientation, dizziness, euphoria, impaired concentration and memory, indigestion, irritability, muscle pain, slurred speech, tremors, and vertigo.[L44888]\r\n\r\nThe following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death. Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).[L44888]\r\n\r\nThe World Health Organization epidemiology database contains reports of drug abuse, misuse, and overdoses associated with clobazam.[L44888]\r\n\r\nClobazam may produce physical dependence from continued therapy. Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug. Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.[L44888]\r\n\r\nPatients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use\r\n[see Warnings and Precautions (5.3)]. In clinical trials, cases of dependency were reported following the abrupt discontinuation of clobazam.[L44888]\r\n\r\nAcute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g.,nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis,hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor. More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality.[L44888]\r\n\r\nProtracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal. Protracted withdrawal symptoms may last weeks to more than 12 months. As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for\r\nwhich the benzodiazepine was being used.[L44888]\r\n\r\nTolerance to clobazam may develop from continued therapy. Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose). Tolerance to the therapeutic effect of clobazam may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.[L44888] \r\n\r\nOverdosage of benzodiazepines is characterized by central nervous system depression ranging from drowsiness to coma. In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia. Rarely, paradoxical or disinhibitory reactions (including agitation, irritability, impulsivity, violent behavior, confusion, restlessness, excitement, and talkativeness) may occur. In severe overdosage cases, patients may develop respiratory depression and coma. Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal [see Warnings and Precautions (5.2)]. Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raises the concern that additional drugs and/or alcohol are involved in the overdosage.[L44888]\r\n\r\nIn managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway maintenance. Flumazenil, a specific benzodiazepine receptor antagonist indicated for the complete or partial reversal of the sedative effects of benzodiazepines in the management of benzodiazepine overdosage, can lead to withdrawal and adverse reactions, including seizures, particularly in the context of mixed overdosage with drugs that increase seizure risk (e.g., tricyclic and tetracyclic antidepressants) and in patients with long-term benzodiazepine use and physical dependency. The risk of withdrawal seizures with flumazenil may be increased in patients with epilepsy. Flumazenil is contraindicated in patients who have received a benzodiazepine for control of a potentially life-threatening condition (e.g., status epilepticus). If the decision is made to use flumazenil, it should be used as an adjunct to, not as a substitute for, supportive management of benzodiazepine overdosage. See\r\nthe flumazenil injection Prescribing Information.[L44888]\r\n\r\nConsider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.[L44888]",
+    "targets": [
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferase 1-4",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferase 1-6",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferase 2B4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00349",
+            "Drug Name": "Clobazam",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of clobazam."
+        }
+    ]
+}

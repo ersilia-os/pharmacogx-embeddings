@@ -1,0 +1,53 @@
+{
+    "pharmgkb_id": "PA135057240",
+    "drugbank_id": "DB00297",
+    "names": [
+        "Bupivacaine",
+        "Bupivan",
+        "Carbostesin",
+        "Marcain",
+        "Marcaina",
+        "Posimir",
+        "Sensorcaine-MPF",
+        "Xaracoll"
+    ],
+    "description": "Bupivacaine is a widely used local anesthetic agent.",
+    "indication": "As an implant, bupivacaine is indicated in adults for placement into the surgical site to produce postsurgical analgesia for up to 24 hours following open inguinal hernia repair.[L41270]\r\n\r\nBupivacaine, in liposome suspension, is indicated in patients aged 6 years and older for single-dose infiltration to produce postsurgical local analgesia. In adults, it is also indicated as an interscalene brachial plexus nerve block to produce postsurgical regional analgesia.[L40418]  \r\n\r\nBupivacaine, in combination with [meloxicam], is indicated for postsurgical analgesia in adult patients for up to 72 hours following foot and ankle, small-to-medium open abdominal, and lower extremity total joint arthroplasty surgical procedures.[L34100]\r\n\r\nBupivacaine, alone or in combination with [epinephrine], is indicated in adults for the production of local or regional anesthesia or analgesia for surgery, dental and oral surgery procedures, diagnostic and therapeutic procedures, and for obstetrical procedures. Specific concentrations and presentations are recommended for each type of block indicated to produce local or regional anesthesia or analgesia. Finally, its use is not indicated in all blocks given clinically significant risks associated with use.[L30533]  \r\n\r\n",
+    "pharmacodynamics": "Bupivacaine is a widely used local anesthetic agent. Bupivacaine is often administered by spinal injection prior to total hip arthroplasty. It is also commonly injected into surgical wound sites to reduce pain for up to 20 hours after surgery. In comparison to other local anesthetics it has a long duration of action. It is also the most toxic to the heart when administered in large doses. This problem has led to the use of other long-acting local anaesthetics:ropivacaine and levobupivacaine. Levobupivacaine is a derivative, specifically an enantiomer, of bupivacaine. Systemic absorption of local anesthetics produces effects on the cardiovascular and central nervous systems. At blood concentrations achieved with therapeutic doses, changes in cardiac conduction, excitability, refractoriness, contractility, and peripheral vascular resistance are minimal. However, toxic blood concentrations depress cardiac conduction and excitability, which may lead to atrioventricular block, ventricular arrhythmias and to cardiac arrest, sometimes resulting in fatalities. In addition, myocardial contractility is depressed and peripheral vasodilation occurs, leading to decreased cardiac output and arterial blood pressure. Following systemic absorption, local anesthetics can produce central nervous system stimulation, depression or both.",
+    "mechanism-of-action": "Like [lidocaine], bupivacaine is an amide local anesthetic that provides local anesthesia through blockade of nerve impulse generation and conduction.[L30533 ] These impulses, also known as action potentials, critically depend on membrane depolarization produced by the influx of sodium ions into the neuron through voltage-gated sodium channels.[L41310] Bupivacaine crosses the neuronal membrane and exerts its anesthetic action through blockade of these channels at the intracellular portion of their pore-forming transmembrane segments.[A246170] The block is use-dependent, where repetitive or prolonged depolarization increases sodium channel blockade.[A4530, A246170] Without sodium ions passing through the channel\u2019s pore, bupivacaine stabilizes the membrane at rest and therefore prevents neurotransmission.\r\n\r\n\r\nIn general, the progression of anesthesia is related to the diameter, myelination and conduction velocity of affected nerve fibers.[L30533] Clinically, the order of loss of nerve function is as follows: (1) pain, (2) temperature, (3) touch, (4) proprioception, and (5) skeletal muscle tone.[L30533] \r\n\r\nWhile it is well-established that the main action of bupivacaine is through sodium channel block, additional analgesic effects of bupivacaine are thought to potentially be due to its binding to the prostaglandin E2 receptors, subtype EP1 (PGE2EP1), which inhibits the production of prostaglandins, thereby reducing fever, inflammation, and hyperalgesia.[A246170, A246175] ",
+    "absorption": "Systemic absorption of local anesthetics is dose- and concentration-dependendent on the total drug administered. Other factors that affect the rate of systemic absorption include the route of administration, blood flow at the administration site, and the presence or absence of epinephrine in the anesthetic solution.\r\n\r\nBupivacaine formulated for instillation with [meloxicam] produced varied systemic measures following a single dose of varying strength. In patients undergoing bunionectomy, 60 mg of bupivacaine produced a C<sub>max</sub> of 54 \u00b1 33 ng/mL, a median T<sub>max</sub> of 3 h, and an AUC<sub>\u221e</sub> of 1718 \u00b1 1211 ng\\*h/mL. For a 300 mg dose used in herniorrhaphy, the corresponding values were 271 \u00b1 147 ng/mL, 18 h, and 15,524 \u00b1 8921 ng\\*h/mL. Lastly, a 400 mg dose used in total knee arthroplasty produced values of 695 \u00b1 411 ng/mL, 21 h, and 38,173 \u00b1 29,400 ng\\*h/mL.[L34100]",
+    "metabolism": "Amide-type local anesthetics such as bupivacaine are metabolized primarily in the liver via conjugation with glucuronic acid. The major metabolite of bupivacaine is 2,6-pipecoloxylidine, which is mainly catalyzed via cytochrome P450 3A4.",
+    "toxicity": "The mean seizure dosage of bupivacaine in rhesus monkeys was found to be 4.4 mg/kg with mean arterial plasma concentration of 4.5 mcg/mL. The intravenous and subcutaneous LD 50 in mice is 6 to 8 mg/kg and 38 to 54 mg/kg respectively. Recent clinical data from patients experiencing local anesthetic induced convulsions demonstrated rapid development of hypoxia, hypercarbia, and acidosis with bupivacaine within a minute of the onset of convulsions. These observations suggest that oxygen consumption and carbon dioxide production are greatly increased during local anesthetic convulsions and emphasize the importance of immediate and effective ventilation with oxygen which may avoid cardiac arrest.",
+    "targets": [
+        [
+            "SCN10A",
+            "Sodium channel protein type 10 subunit alpha",
+            "Humans"
+        ],
+        [
+            "PTGER1",
+            "Prostaglandin E2 receptor EP1 subtype",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

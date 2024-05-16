@@ -1,0 +1,93 @@
+{
+    "pharmgkb_id": "PA10810",
+    "drugbank_id": "DB00642",
+    "names": [
+        "Pemetrexed"
+    ],
+    "description": "Pemetrexed is a chemotherapy drug that is manufactured and marketed by Eli Lilly and Company under the brand name Alimta. It is indicated for use in combination with cisplatin for the treatment of patients with malignant pleural mesothelioma whose disease is either unresectable or who are otherwise not candidates for curative surgery. Its use in non-small cell lung cancer has also been investigated. Pemetrexed was first approved by the FDA in February 4, 2004.[A253907]",
+    "indication": "Pemetrexed is indicated for the treatment of the following conditions:\r\n\r\n**Non-squamous non-small cell lung cancer (NSCLC)**\r\n\r\n- in combination with [pembrolizumab] and platinum-based chemotherapy as initial treatment in metastatic disease where no EGFR or ALK genomic tumour aberrations exist [L40943]\r\n- in combination with [cisplatin] as initial treatment for locally advanced or metastatic disease [L40943,L44883]\r\n- as maintenance treatment for locally advanced or metastatic disease that has not progressed following four cycles of platinum-based chemotherapy [L40943,L44883]\r\n- recurrent metastatic disease following prior chemotherapy [L40943]\r\n- as monotherapy for the second-line treatment of patients with locally advanced or metastatic non-squamous non-small cell lung cancer [L44883]\r\n\r\n**Malignant pleural mesothelioma**\r\n\r\n- in combination with [cisplatin] for the initial treatment of patients with malignant pleural mesothelioma.[L40943,L44883] In the US, it is reserved for patients whose disease is unresectable or otherwise not candidates for curative surgery.[L40943]",
+    "pharmacodynamics": "Pemetrexed inhibited the in vitro growth of mesothelioma cell lines (MSTO-211H, NCI-H2052) and showed synergistic\r\neffects when combined with cisplatin. Based on population pharmacodynamic analyses, the depth of the absolute neutrophil counts (ANC) nadir correlates with systemic exposure to pemetrexed and supplementation with folic acid and vitamin B12. There is no cumulative effect of pemetrexed exposure on ANC nadir over multiple treatment cycles.[L40943] ",
+    "mechanism-of-action": "Pemetrexed is an antifolate containing the pyrrolopyrimidine-based nucleus that exerts its antineoplastic activity by disrupting folate-dependent metabolic processes essential for cell replication. In vitro studies have shown that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), all folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides. Pemetrexed is transported into cells by both the reduced folate carrier and membrane folate binding protein transport systems. Once in the cell, pemetrexed is converted to polyglutamate forms by the enzyme folylpolyglutamate synthetase. The polyglutamate forms are retained in cells and are inhibitors of TS and GARFT. Polyglutamation is a time- and concentration-dependent process that occurs in tumor cells and, to a lesser extent, in normal tissues. Polyglutamated metabolites have an increased intracellular half-life resulting in prolonged drug action in malignant cells.[A973,A974,A975,A976,A253907,L40943]",
+    "absorption": "The pharmacokinetics of pemetrexed when pemetrexed was administered as a single agent in doses ranging from 0.2 to 838 mg/m<sup>2</sup> infused over a 10-minute period have been evaluated in 426 cancer patients with a variety of solid tumors. Pemetrexed total systemic exposure (AUC) and maximum plasma concentration (C<sub>max</sub>) increased proportionally with the increase in dose. The pharmacokinetics of pemetrexed did not change over multiple treatment cycles.[L43807] ",
+    "metabolism": "Pemetrexed is not metabolized to an appreciable extent by the liver.[L43807,A253987] ",
+    "toxicity": null,
+    "targets": [
+        [
+            "TYMS",
+            "Thymidylate synthase",
+            "Humans"
+        ],
+        [
+            "ATIC",
+            "Bifunctional purine biosynthesis protein PURH",
+            "Humans"
+        ],
+        [
+            "DHFR",
+            "Dihydrofolate reductase",
+            "Humans"
+        ],
+        [
+            "GART",
+            "Trifunctional purine biosynthetic protein adenosine-3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ],
+        [
+            "DCK",
+            "Deoxycytidine kinase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC19A1",
+            "Folate transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC46A1",
+            "Proton-coupled folate transporter",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC5",
+            "Multidrug resistance-associated protein 5",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

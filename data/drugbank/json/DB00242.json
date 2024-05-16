@@ -1,0 +1,85 @@
+{
+    "pharmgkb_id": "PA449027",
+    "drugbank_id": "DB00242",
+    "names": [
+        "Cladribine",
+        "Litak",
+        "Movectro",
+        "Mylinax"
+    ],
+    "description": "An antineoplastic agent used in the treatment of lymphoproliferative diseases including hairy-cell leukemia.",
+    "indication": "For the treatment of active hairy cell leukemia (leukemic reticuloendotheliosis) as defined by clinically significant anemia, neutropenia, thrombocytopenia, or disease-related symptoms. Also used as an alternative agent for the treatment of chronic lymphocytic leukemia (CLL), low-grade non-Hodgkin's lymphoma, and cutaneous T-cell lymphoma.",
+    "pharmacodynamics": "Cladribine is a synthetic purine nucleoside that acts as an antineoplastic agent with immunosuppressive effects. Cladribine differs structurally from deoxyadenosine only by the presence of a chlorine atom at position 2 of the purine ring, which results in resistance to enzymatic degradation by adenosine deaminase. Due to this resistance, cladribine exhibits a more prolonged cytotoxic effect than deoxyadenosine against resting and proliferating lymphocytes. Cladribine is one of a group of chemotherapy drugs known as the anti-metabolites.&nbsp;Anti-metabolites stop cells from making and repairing DNA, which are processes that are necessary for cancer cells to grow and multiply.",
+    "mechanism-of-action": "Cladribine is structurally related to fludarabine and pentostatin but has a different mechanism of action. Although the exact mechanism of action has not been fully determined, evidence shows that cladribine is phosphorylated by deoxycytidine kinase to the nucleotidecladribine triphosphate (CdATP; 2-chloro-2\u2032-deoxyadenosine 5\u2032-triphosphate), which accumulates and is incorporated into DNA in cells such as lymphocytes that contain high levels of deoxycytidine kinase and low levels of deoxynucleotidase, resulting in DNA strand breakage and inhibition of DNA synthesis and repair. High levels of CdATP also appear to inhibit ribonucleotide reductase, which leads to an imbalance in triphosphorylated deoxynucleotide (dNTP) pools and subsequent DNA strand breaks, inhibition of DNA synthesis and repair, nicotinamide adenine dinucleotide (NAD) and ATP depletion, and cell death. Unlike other antimetabolite drugs, cladribine has cytotoxic effects on resting as well as proliferating lymphocytes. However, it does cause cells to accumulate at the G1/S phase junction, suggesting that cytotoxicity is associated with events critical to cell entry into S phase. It also binds purine nucleoside phosphorylase (PNP), however no relationship between this binding and a mechanism of action has been established.",
+    "absorption": "Oral bioavailability is 34 to 48%.",
+    "metabolism": "Metabolized in all cells with deoxycytidine kinase activity to 2-chloro-2'-deoxyadenosine-5'-triphosphate",
+    "toxicity": "Symptoms of overdose include irreversible neurologic toxicity (paraparesis/quadriparesis), acute nephrotoxicity, and severe bone marrow suppression resulting in neutropenia, anemia and thrombocytopenia.",
+    "targets": [
+        [
+            "RRM1",
+            "Ribonucleoside-diphosphate reductase large subunit",
+            "Humans"
+        ],
+        [
+            "RRM2",
+            "Ribonucleoside-diphosphate reductase subunit M2",
+            "Humans"
+        ],
+        [
+            "RRM2B",
+            "Ribonucleoside-diphosphate reductase subunit M2 B",
+            "Humans"
+        ],
+        [
+            "POLA1",
+            "DNA polymerase alpha catalytic subunit",
+            "Humans"
+        ],
+        [
+            "POLE",
+            "DNA polymerase epsilon catalytic subunit A",
+            "Humans"
+        ],
+        [
+            "POLE2",
+            "DNA polymerase epsilon subunit 2",
+            "Humans"
+        ],
+        [
+            "POLE3",
+            "DNA polymerase epsilon subunit 3",
+            "Humans"
+        ],
+        [
+            "POLE4",
+            "DNA polymerase epsilon subunit 4",
+            "Humans"
+        ],
+        [
+            "PNP",
+            "Purine nucleoside phosphorylase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "DCK",
+            "Deoxycytidine kinase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC28A3",
+            "Solute carrier family 28 member 3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

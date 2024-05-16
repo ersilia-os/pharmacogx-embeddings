@@ -1,0 +1,77 @@
+{
+    "pharmgkb_id": "nan-fc46f6a4-092f-49da-913f-f42ebd7dde6f",
+    "drugbank_id": "DB05154",
+    "names": [
+        "Pretomanid"
+    ],
+    "description": "Persistent forms of tuberculosis (TB) have proven to be a major cause of global morbidity and mortality and a cause for significant concern. Research in recent years has been geared toward the development of novel therapies that target persistent forms of this disease, which have shown resistance to standard therapy regimens.[A182915] Pretomanid is an antimycobacterial agent that is administered with [Bedaquiline] and [Linezolid] to treat resistant forms of pulmonary TB. It was the first TB drug developed by a nonprofit organization, known as TB Alliance, and was granted FDA approval on August 14, 2019.[L8048,L8066] Unlike other therapeutic regimens for the treatment of resistant TB, which may take 18 months or longer and may not be effective, the pretomanid-containing regimen allows for a more efficacious and shorter duration of treatment with fewer drugs.[L8066]",
+    "indication": "Pretomanid is indicated, as part of a combination regimen with bedaquiline and linezolid, for the treatment of adults with pulmonary tuberculosis (TB) that is resistant to isoniazid, rifamycins, a fluoroquinolone and a second-line injectable antibacterial drug or adults with pulmonary TB resistant to isoniazid and rifampin, who are treatment-intolerant or non-responsive to standard therapy.[L44707]",
+    "pharmacodynamics": "Pretomanid kills the actively replicating bacteria causing tuberculosis, known as Mycobacterium tuberculosis, and shortens the duration of treatment in patients who suffer from resistant forms of pulmonary TB by killing dormant bacteria.[A182897,A182903,A182972,L8048]\r\n\r\nIn rodent models of tuberculosis infection, pretomanid administered in a regimen with bedaquiline and linezolid caused a significant reduction in pulmonary bacterial cell counts. A decrease in the frequency of TB relapses at 2 and 3 months after treatment was observed after the administration of this regimen, when compared to the administration of a 2-drug regimen.[L8048] Successful outcomes have been recorded for patients with XDR and MDR following a clinical trial of the pretomanid regimen, demonstrating a 90% cure rate after 6 months.[L8069]\r\n\r\n**A note on cardiac QT prolongation, hepatotoxicity, and myelosuppression**\r\n\r\nThis drug has the propensity to caused cardiac QT interval prolongation and significant hepatotoxicity, as well as myelosuppression. Caution must be observed during the administration of this drug.[L8048,L8057]",
+    "mechanism-of-action": "Pretomanid is a prodrug which is metabolically activated by a nitroreductase enzyme, known as Ddn, producing various active metabolites that are responsible for its other therapeutic actions, particularly the induction of nitric oxide. The nitroreductase enzyme which activates pretomanid is deazaflavin dependent and relies on reduced cofactor F420. Reduction of F420 occurs via the enzyme glucose-6-phosphate dehydrogenase.[L8048] Reduction of pretomanid's imidazole ring at the C-3 position causes the formation of the metabolites, which include a des-nitro derivative. The formation of this derivative leads to increased levels of nitric oxide, leading to bactericidal activities under anaerobic conditions via its action as a bacterial respiratory poison.[A182894,L8048] Bactericidal activity against anaerobes is reported to be associated with a shortened duration of antibiotic treatment.[A182897] \r\n\r\nPretomanid exerts aerobic bactericidal effects through its inhibitory actions on bacterial cell wall mycolic acid biosynthesis. This allows for the killing of actively replicating Mycobacterium tuberculosis bacteria, resulting in the treatment of active tuberculosis infection.[A182897,L8048] The molecular mechanism of the above bactericidal effects is poorly understood at this time, but may involve effects exerted on various genes that affect the cell wall, including the fasI and fasII as well as the efpA and iniBAC operons. Other possible targets include the genes of the cyd operon. The clinical effects of the above target relations are unknown at this time.[A182903] ",
+    "absorption": "This drug is absorbed in the gastrointestinal tract. The steady-state Cmax of pretomanid was estimated to be 1.7 \u03bcg/mL after a single 200mg oral dose.[L8048] In a separate pharmacokinetic modeling study, the Cmax of a 200mg dose was 1.1 \u03bcg/ml.[A182888] Tmax in a study of healthy subjects in the fed or unfed state was achieved within 4 to 5 hours.[L8048] The AUC in the same study was found to be about 28.1 \u03bcg\u2022hr/mL in the fasted state and about 51.6 \u03bcg\u2022hr/mL in the fed state, showing higher absorption when taken with high-calorie and high-fat food.[L8048]",
+    "metabolism": "Various reductive and oxidative pathways are responsible for pretomanid metabolism, with no single major metabolic pathway identified. According to in vitro studies, CYP3A4 is responsible for a 20% contribution to the metabolism of pretomanid.[L8048]",
+    "toxicity": "To this date, there is no documented experience with the treatment of a pretomanid overdose. The FDA label advises that general supportive measures are taken to manage an overdose, such as monitoring vital signs in addition to performing ECG testing for a prolonged QT interval in the case of an overdose.[L8048]",
+    "targets": [
+        [
+            "fas",
+            "Fatty acid synthetase",
+            "Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)"
+        ],
+        [
+            "efpA",
+            "Uncharacterized MFS-type transporter EfpA",
+            "Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)"
+        ],
+        [
+            "lsr2",
+            "Nucleoid-associated protein Lsr2",
+            "Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)"
+        ],
+        [
+            "cydC",
+            "Cyd operon, Mycobacterium tuberculosis",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            null,
+            "Cyd operon, Mycobacterium tuberculosis",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            "cydA",
+            "Cyd operon, Mycobacterium tuberculosis",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            "cydB",
+            "Cyd operon, Mycobacterium tuberculosis",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            "inhA",
+            "Enoyl-[acyl-carrier-protein] reductase [NADH]",
+            "Mycobacterium tuberculosis"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "ddn",
+            "Deazaflavin-dependent nitroreductase",
+            "Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

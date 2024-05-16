@@ -1,0 +1,134 @@
+{
+    "pharmgkb_id": "PA449591",
+    "drugbank_id": "DB01023",
+    "names": [
+        "Felodipine",
+        "Felodur ER",
+        "Felogard",
+        "Penedil",
+        "Plendil Depottab",
+        "Plendil ER",
+        "Plendil Retard",
+        "Splendil"
+    ],
+    "description": "Felodipine is a long-acting 1,4-dihydropyridine calcium channel blocker (CCB)b. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, felodipine prevents calcium-dependent myocyte contraction and vasoconstriction. Felodipine is the most potent CCB in use and is unique in that it exhibits fluorescent activity. In addition to binding to L-type calcium channels, felodipine binds to a number of calcium-binding proteins, exhibits competitive antagonism of the mineralcorticoid receptor, inhibits the activity of calmodulin-dependent cyclic nucleotide phosphodiesterase, and blocks calcium influx through voltage-gated T-type calcium channels. Felodipine is used to treat mild to moderate essential hypertension.",
+    "indication": "For the treatment of mild to moderate essential hypertension. ",
+    "pharmacodynamics": "Felodipine belongs to the dihydropyridine (DHP) class of calcium channel blockers (CCBs), the most widely used class of CCBs. There are at least five different types of calcium channels in Homo sapiens: L-, N-, P/Q-, R- and T-type. It was widely accepted that CCBs target L-type calcium channels, the major channel in muscle cells that mediates contraction; however, some studies have shown that felodipine also binds to and inhibits T-type calcium channels. T-type calcium channels are most commonly found on neurons, cells with pacemaker activity and on osteocytes. The pharmacologic significance of T-type calcium channel blockade is unknown. Felodipine also binds to calmodulin and inhibits calmodulin-dependent calcium release from the sarcoplasmic reticulum. The effect of this interaction appears to be minor.  Another study demonstrated that felodipine attenuates the activity of calmodulin-dependent cyclic nucleotide phosphodiesterase (CaMPDE) by binding to the PDE-1B1 and PDE-1A2 enzyme subunits. CaMPDE is one of the key enzymes involved in cyclic nucleotides and calcium second messenger systems. Felodipine also acts as an antagonist to the mineralcorticoid receptor by competing with aldosterone for binding and blocking aldosterone-induced coactivator recruitment of the mineralcorticoid receptor. Felodipine is able to bind to skeletal and cardiac muscle isoforms of troponin C, one of the key regulatory proteins in muscle contraction. Though felodipine exhibits binding to many endogenous molecules, its vasodilatory effects are still thought to be brought about primarily through inhibition of voltage-gated L-type calcium channels. Similar to other DHP CCBs, felodipine binds directly to inactive calcium channels stabilizing their inactive conformation. Since arterial smooth muscle depolarizations are longer in duration than cardiac muscle depolarizations, inactive channels are more prevalent in smooth muscle cells. Alternative splicing of the alpha-1 subunit of the channel gives felodipine additional arterial selectivity. At therapeutic sub-toxic concentrations, felodipine has little effect on cardiac myocytes and conduction cells.",
+    "mechanism-of-action": "Felodipine decreases arterial smooth muscle contractility and subsequent vasoconstriction by inhibiting the influx of calcium ions through voltage-gated L-type calcium channels. It reversibly competes against nitrendipine and other DHP CCBs for DHP binding sites in vascular smooth muscle and cultured rabbit atrial cells. Calcium ions entering the cell through these channels bind to calmodulin. Calcium-bound calmodulin then binds to and activates myosin light chain kinase (MLCK). Activated MLCK catalyzes the phosphorylation of the regulatory light chain subunit of myosin, a key step in muscle contraction. Signal amplification is achieved by calcium-induced calcium release from the sarcoplasmic reticulum through ryanodine receptors. Inhibition of the initial influx of calcium decreases the contractile activity of arterial smooth muscle cells and results in vasodilation. The vasodilatory effects of felodipine result in an overall decrease in blood pressure. Felodipine may be used to treat mild to moderate essential hypertension.",
+    "absorption": "Is completely absorbed from the gastrointestinal tract; however, extensive first-pass metabolism through the portal circulation results in a low systemic availability of 15%. Bioavailability is unaffected by food. ",
+    "metabolism": "Hepatic metabolism primarily via cytochrome P450 3A4. Six metabolites with no appreciable vasodilatory effects have been identified. ",
+    "toxicity": "Symptoms of overdose include excessive peripheral vasodilation with marked hypotension and possibly bradycardia. Oral rat LD<sub>50</sub> is 1050 mg/kg.\r\n",
+    "targets": [
+        [
+            "CACNA1C",
+            "Voltage-dependent L-type calcium channel subunit alpha-1C",
+            "Humans"
+        ],
+        [
+            "CACNA2D1",
+            "Voltage-dependent calcium channel subunit alpha-2/delta-1",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage-dependent L-type calcium channel subunit beta-2",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage-dependent L-type calcium channel subunit alpha-1D",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage-dependent L-type calcium channel subunit alpha-1S",
+            "Humans"
+        ],
+        [
+            "CACNA1H",
+            "Voltage-dependent T-type calcium channel subunit alpha-1H",
+            "Humans"
+        ],
+        [
+            "CACNA2D2",
+            "Voltage-dependent calcium channel subunit alpha-2/delta-2",
+            "Humans"
+        ],
+        [
+            "CALM1",
+            "Calmodulin",
+            "Humans"
+        ],
+        [
+            "PDE1B",
+            "Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B",
+            "Humans"
+        ],
+        [
+            "PDE1A",
+            "Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",
+            "Humans"
+        ],
+        [
+            "NR3C2",
+            "Mineralocorticoid receptor",
+            "Humans"
+        ],
+        [
+            "TNNC2",
+            "Troponin C, skeletal muscle",
+            "Humans"
+        ],
+        [
+            "TNNC1",
+            "Troponin C, slow skeletal and cardiac muscles",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

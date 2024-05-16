@@ -1,0 +1,35 @@
+{
+    "pharmgkb_id": "PA152031327",
+    "drugbank_id": "DB02424",
+    "names": [
+        "Geldanamycin"
+    ],
+    "description": null,
+    "indication": null,
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "HSP90B1",
+            "Endoplasmin",
+            "Humans"
+        ],
+        [
+            "HSP90AA1",
+            "Heat shock protein HSP 90-alpha",
+            "Humans"
+        ],
+        [
+            "HSP90AB1",
+            "Heat shock protein HSP 90-beta",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

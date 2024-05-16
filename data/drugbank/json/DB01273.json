@@ -1,0 +1,51 @@
+{
+    "pharmgkb_id": "PA164781343",
+    "drugbank_id": "DB01273",
+    "names": [
+        "Varenicline"
+    ],
+    "description": "Varenicline is a prescription medication used to treat smoking addiction. This medication is the first approved nicotinic receptor partial agonist. Specifically, varenicline is a partial agonist of the alpha4/beta2 subtype of the nicotinic acetylcholine receptor. In addition it acts on alpha3/beta4 and weakly on alpha3beta2 and alpha6-containing receptors. A full agonism was displayed on alpha7-receptors.\r\n\r\nOn March 9, 2015, the U.S. Food and Drug Administration warned that Varenicline, in the form of Pfizer Inc's quit-smoking drug, Chantix, has been associated with seizures and that some patients who drink while taking the drug may become aggressive or black out. Pfizer is conducting an additional safety study of the drug, results of which are  expected in late 2015. The FDA said it is keeping the black box in place at least until the results of the trial are announced.",
+    "indication": "For use as an aid in smoking cessation.\r\n\r\nVarenicline as a nasal spray is indicated for the symptomatic treatment of dry eye disease.[L38954]",
+    "pharmacodynamics": "Varenicline is a partial nicotinic acetylcholine receptor agonist, designed to partially activate this system while displacing nicotine at its sites of action in the brain.",
+    "mechanism-of-action": "Varenicline is an alpha-4 beta-2 neuronal nicotinic acetylcholine receptor partial agonist. The drug shows high selectivity for this receptor subclass, relative to other nicotinic receptors (>500-fold alpha-3 beta-4, >3500-fold alpha-7, >20,000-fold alpha-1 beta gamma delta) or non-nicotinic receptors and transporters (>2000-fold). The drug competitively inhibits the ability of nicotine to bind to and activate the alpha-4 beta-2 receptor. The drug exerts mild agonistic activity at this site, though at a level much lower than nicotine; it is presumed that this activation eases withdrawal symptoms.",
+    "absorption": null,
+    "metabolism": "Metabolism is limited (<10%). Most of the active compound is excreted by the kidneys (81%). A minor amount of varenicline is glucuronidated, oxidated, N-formylated, as well as conjugated to form a hexose.",
+    "toxicity": null,
+    "targets": [
+        [
+            "CHRNA4",
+            "Neuronal acetylcholine receptor subunit alpha-4",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ],
+        [
+            "CHRNA3",
+            "Neuronal acetylcholine receptor subunit alpha-3",
+            "Humans"
+        ],
+        [
+            "CHRNA6",
+            "Neuronal acetylcholine receptor subunit alpha-6",
+            "Humans"
+        ],
+        [
+            "CHRNB2",
+            "Neuronal acetylcholine receptor subunit beta-2",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

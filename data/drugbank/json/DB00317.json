@@ -1,0 +1,107 @@
+{
+    "pharmgkb_id": "PA131301952",
+    "drugbank_id": "DB00317",
+    "names": [
+        "Gefitinib"
+    ],
+    "description": "Gefitinib (originally coded ZD1839) is a drug used in the treatment of certain types of cancer. Acting in a similar manner to erlotinib (marketed as Tarceva), gefitinib selectively targets the mutant proteins in malignant cells. It is marketed by AstraZeneca under the trade name Iressa.",
+    "indication": "For the continued treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of either platinum-based or docetaxel chemotherapies.",
+    "pharmacodynamics": "Gefitinib inhibits the intracellular phosphorylation of numerous tyrosine kinases associated with transmembrane cell surface receptors, including the tyrosine kinases associated with the epidermal growth factor receptor (EGFR-TK). EGFR is expressed on the cell surface of many normal cells and cancer cells.",
+    "mechanism-of-action": "Gefitinib is an inhibitor of the epidermal growth factor receptor (EGFR) tyrosine kinase that binds to the adenosine triphosphate (ATP)-binding site of the enzyme. EGFR is often shown to be overexpressed in certain human carcinoma cells, such as lung and breast cancer cells. Overexpression leads to enhanced activation of the anti-apoptotic Ras signal transduction cascades, subsequently resulting in increased survival of cancer cells and uncontrolled cell proliferation. Gefitinib is the first selective inhibitor of the EGFR tyrosine kinase which is also referred to as Her1 or ErbB-1. By inhibiting EGFR tyrosine kinase, the downstream signaling cascades are also inhibited, resulting in inhibited malignant cell proliferation. ",
+    "absorption": "Absorbed slowly after oral administration with a mean bioavailability of 60%. Peak plasma levels occurs 3-7 hours post-administration. Food does not affect the bioavailability of gefitinib. ",
+    "metabolism": "Primarily hepatic via CYP3A4. Three sites of biotransformation have been identified: metabolism of the N-propoxymorpholino-group, demethylation of the methoxy-substituent on the quinazoline, and oxidative defluorination of the halogenated phenyl group.",
+    "toxicity": "The acute toxicity of gefitinib up to 500 mg in clinical studies has been low. In non-clinical studies, a single dose of 12,000 mg/m<sup>2</sup> (about 80 times the recommended clinical dose on a mg/m<sup>2</sup> basis) was lethal to rats. Half this dose caused no mortality in mice. Symptoms of overdose include diarrhea and skin rash.",
+    "targets": [
+        [
+            "EGFR",
+            "Epidermal growth factor receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00317",
+            "Drug Name": "Gefitinib",
+            "Gene Symbol": "EGFR",
+            "RS ID (Genotype)": "rs121434568",
+            "Effect Description": "The presence of this polymorphism in EGFR is associated with a higher response rate to gefitinib."
+        },
+        {
+            "DrugBank ID": "DB00317",
+            "Drug Name": "Gefitinib",
+            "Gene Symbol": "EGFR",
+            "RS ID (Genotype)": "rs28929495",
+            "Effect Description": "The presence of this polymorphism in EGFR is associated with a higher response rate to gefitinib."
+        },
+        {
+            "DrugBank ID": "DB00317",
+            "Drug Name": "Gefitinib",
+            "Gene Symbol": "EGFR",
+            "RS ID (Genotype)": "rs121913444",
+            "Effect Description": "The presence of this polymorphism in EGFR is associated with a higher response rate to gefitinib."
+        },
+        {
+            "DrugBank ID": "DB00317",
+            "Drug Name": "Gefitinib",
+            "Gene Symbol": "ABCG2",
+            "RS ID (Genotype)": "rs2231142",
+            "Adverse Reaction Description": "Patients with this genotype have an increased risk of diarrhea with gefitinib."
+        }
+    ]
+}

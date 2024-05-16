@@ -1,0 +1,38 @@
+{
+    "pharmgkb_id": "PA166268803",
+    "drugbank_id": "DB16226",
+    "names": [
+        "Maralixibat",
+        "Livmarli"
+    ],
+    "description": "Maralixibat (also known as SHP625, LUM001, and lopixibat) is an ileal bile acid transporter inhibitor, like [odevixibat].[A236823,A239249,L38834] Maralixibat is indicated for the treatment of cholestatic pruritus in patients with Alagille syndrome.[L38834]\r\n\r\nPreviously, patients with cholestatic pruritus associated with Alagille syndrome were treated with antihistamines, [rifampin], [ursodeoxycholic acid], [cholestyramine], [naltrexone], and [sertraline] alone or in combination.[A239249] No clinical trials have been performed to assess the efficacy of these treatments for cholestatic pruritus and treatments were given based on a prescriber's clinical experience.[A239249] Surgical interventions such as partial external bile diversion and ileal exclusion have also been used as treatments.[A239249]\r\n\r\nMaralixibat represents the first FDA-approved treatment for cholestatic pruritus in patients with Alagille syndrome. It was granted FDA approval on 29 September 2021.[L38834] In October 2022, the EMA's Committee for Medicinal Products for Human Use (CHMP) recommended maralixibat be granted marketing authorization for the treatment of cholestatic pruritus in patients with Alagille syndrome:[L43547] it was granted marketing authorization in Europe on 13 December 2022.[L44396] On July 21, 2023, maralixibat was also approved by Health Canada.[L47541]",
+    "indication": "Maralixibat is indicated in the treatment of cholestatic pruritus in patients with Alagille syndrome.[L38834] It is approved for use in patients at least one-month-old in the US [L38834] and at least two months old in Europe.[L44391] In Canada, it is reserved for use in adults.[L47541]",
+    "pharmacodynamics": "Maralixibat is indicated in the treatment of cholestatic pruritus in patients with Alagille syndrome who are at least 1 year old.[L38834] It has a moderate duration of action as it is given once daily, and a wide therapeutic index as patients have safely tolerated single doses up to 18 times the normal dose.[L38834] Patients should be counselled regarding the risks of liver test abnormalities, gastrointestinal adverse reactions, and fat-soluble vitamin deficiencies.[L38834]",
+    "mechanism-of-action": "Patients with Alagille syndrome experience potentially debilitating pruritus.[L38834] The exact mechanism of cholestatic pruritus in Alagille syndrome is not well defined, however it is correlated with elevated total serum bile acid concentrations.[A239249,L38834]\r\n\r\nEnterohepatic circulation involves the synthesis of bile acid from cholesterol in the liver, conjugation with glycine or taurine, excretion into the duodenum, 95% resorption in the distal ileum through the ileal bile acid transporter (IBAT), return to the liver via the portal vein, and uptake into the liver by the sodium-dependent taurocholate co-transporting peptide (NTCP).[A236823] It is important to note that unconjugated bile acids may freely diffuse across the intestinal mucosa or be transported across by other organic anion transporters.[A236823]\r\n\r\nMaralixibat reversibly inhibits IBAT to decrease bile acid resorption in the ileum, leading to decreased resorption of bile acids in the distal ileum, increased elimination of bile acids in the feces, and decreased serum bile acids.[A236823,L38834] The mechanism of action of maralixibat also leads to increased rates of diarrhea in patients.[A236823]\r\n\r\nUnder normal conditions, bile acids binding to the farnesoid X receptor (FXR) in the liver by via nuclear receptor small heterodimer partner (SHP) or in the ileum via fibroblast growth factor 19 (FGF19), triggers signal cascade that inhibits CYP7A1-mediated bile acid synthesis.[A236823] Inhibition of IBAT by maralixibat, inhibits these negative feedback loops, leading to increased bile acid synthesis, and a reduction of low density lipoprotein cholesterol.[A236823]\r\n\r\nIn one clinical trial (NCT02057692), not all dose strengths were associated with a clinically significant difference between maralixibat and placebo.[A239249]",
+    "absorption": "Following single oral administration of maralixibat in healthy adults at doses ranging from 1 mg to 500 mg, plasma concentrations of maralixibat were below the limit of quantification (0.25 ng/mL) at doses less than 20 mg and PK parameters could not be reliably estimated.[L48081]\r\n\r\nFollowing a single dose administration of 30 mg under fasted conditions, median T<sub>max</sub> was 0.75 and mean (SD) C<sub>max</sub> and AUC<sub>last</sub> were 1.65 (1.10) ng/ml and 3.43 (2.13) ng\u00b7h/mL, respectively.[L48081] \r\n\r\nMaralixibat is minimally absorbed and plasma concentrations are often below the limit of quantification (0.25 ng/mL) after single or multiple doses at recommended doses. Following a single oral administration of maralixibat 30, 45, and 100 mg liquid formulation under fasted conditions, AUC<sub>last</sub> and C<sub>max</sub> increased in a dose-dependent manner with increases of 4.6-and 2.4-fold, respectively, following a 3.3-fold dose increase from 30 to 100 mg.[L48081]\r\n\r\nNo accumulation of maralixibat was observed following repeated oral administration of maralixibat in healthy adults at doses up to 100 mg once daily.[L48081]\r\n\r\nConcomitant administration of a high-fat meal with a single oral dose of maralixibat decreased both the rate and extent of absorption. AUC and C<sub>max</sub> of maralixibat values in the fed state were 64.8% to 85.8% lower relative to oral administration of 30 mg in fasted conditions. The effect of food on the changes of systemic exposures to maralixibat is not clinically significant.[L48081]",
+    "metabolism": "No maralixibat metabolites have been detected in plasma. Three minor metabolites, accounting for <3% of maralixibat-associated fecal radioactivity in total, were identified following oral administration of [<sup>14</sup>C]maralixibat.[L48081] The structures of these metabolites have not been defined in the literature.",
+    "toxicity": "Data regarding overdoses are rare, given that patients have tolerated single doses up to 500 mg.[L38834] In the event of an overdose, discontinue maralixibat and initiate symptomatic and supportive treatment.[L38834]\r\n\r\nMaralixibat oral solution contains 364.5 mg/mL propylene glycol.[L38834] Patients aged 1 month to <5 years can safely tolerate up to 50 mg/kg/day of propylene glycol.[L38834] Patients experiencing an overdose of propylene glycol may present with CNS, cardiovascular, or respiratory effect, as well as hyperosmolality.[L38834] Symptoms of propylene glycol overdose may resolve as it is eliminated from the body.[L38834]",
+    "targets": [
+        [
+            "SLC10A2",
+            "Ileal sodium/bile acid cotransporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,64 @@
+{
+    "pharmgkb_id": "PA449466",
+    "drugbank_id": "DB01364",
+    "names": [
+        "Ephedrine",
+        "Rezipres"
+    ],
+    "description": "Ephedrine was first described in western literature in 1888, as a naturally occurring component of the ephedra plant, along with [pseudoephedrine].[A193698] Ephedrine acts as both a direct and indirect sympathomimetic. It is an alpha- and beta-adrenergic receptor agonist; however, it also causes the indirect release of norepinephrine from sympathetic neurons, inhibiting norepinephrine reuptake and displacing more norepinephrine from storage vesicles.[A193650,L12972] Ephedrine is used for its vasoconstrictive, positive chronotropic, and positive inotropic effects.[L12972] Ephedrine and [phenylephrine] are still used to treat hypotension, but their use in other indications has decreased due to the development of more selective adrenergic agonists.[A193701,A193704,L12975] Ephedrine was granted a type 7 FDA Approval on 29 April 2016.[L12975]",
+    "indication": "Ephedrine intravenous injections are indicated to treat hypotension under anesthesia,[L12972,L34645] ephedrine injections by multiple routes are indicated to treat allergic conditions such as bronchial asthma,[L12996] ephedrine nasal spray is and OTC medication used as a decongestant.[L12993]",
+    "pharmacodynamics": "Ephedrine increases blood pressure by stimulating heart rate and cardiac output and variably increasing peripheral resistance.[L12975] It causes bronchodilation due to the activation of beta-adrenergic receptors in the lungs. By stimulating alpha-adrenergic receptors in bladder smooth muscle cells, ephedrine also increases the resistance to the outflow of urine.[L12972,L12975] The therapeutic window of ephedrine is wide, as patients can be given doses of 5mg up to 50mg.[L12993] Patients should be counselled regarding the pressor effects of sympathomimetic amines and the risk of tachyphylaxis.[A193650] Also, the use of ephedrine for hypotension prophylaxis is associated with a higher risk of hypertension, compared to when ephedrine is used to treat hypotension.[L12975]",
+    "mechanism-of-action": "Ephedrine is a direct and indirect sympathomimetic amine.[A193650] As a direct effect, ephedrine activates alpha-adrenergic and beta-adrenergic receptors. As an indirect effect, it inhibits norepinephrine reuptake and increases the release of norepinephrine from vesicles in nerve cells.[A193650] These actions combined lead to larger quantities of norepinephrine present in the synapse for more extended periods of time, increasing stimulation of the sympathetic nervous system.[A193650]\r\n\r\nEphedrine acts as an agonist of alpha-1, beta-1 and beta-2-adrenergic receptors. The stimulation of alpha-1-adrenergic receptors causes the constriction of veins and a rise in blood pressure, the stimulation of beta-1-adrenergic receptors increases cardiac chronotropy and inotropy, and the stimulation of beta-2-adrenergic receptors causes vasodilation and bronchodilation.[A193650]",
+    "absorption": "Oral ephedrine reaches an average C<sub>max</sub> of 79.5ng/mL, with a T<sub>max</sub> of 1.81h, and a bioavailability of 88%.[A193644]",
+    "metabolism": "Ephedrine is largely unmetabolized in the body.[A193641] Ephedrine can be N-demethylated to norephedrine, or demethylated and deaminized to benzoic acid conjugates and 1,2-hydroxypropylbenzene.[A193641]",
+    "toxicity": "Patients experiencing an overdose of ephedrine will present with rapidly increasing blood pressure.[L12972,L34645] Manage overdose with blood pressure monitoring, and possibly the administration of parenteral antihypertensives.[L12972,L34645] The LD<sub>50</sub> in mice after oral administration is 785mg/kg, after intraperitoneal administration if 248mg/kg, and after subcutaneous administration is 425mg/kg.[L12990]",
+    "targets": [
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ],
+        [
+            "ACHE",
+            "Acetylcholinesterase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC18A2",
+            "Synaptic vesicular amine transporter",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

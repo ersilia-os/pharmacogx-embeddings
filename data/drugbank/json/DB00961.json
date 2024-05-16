@@ -1,0 +1,26 @@
+{
+    "pharmgkb_id": "PA164748741",
+    "drugbank_id": "DB00961",
+    "names": [
+        "Mepivacaine",
+        "Scandicaine"
+    ],
+    "description": "A local anesthetic that is chemically related to bupivacaine but pharmacologically related to lidocaine. It is indicated for infiltration, nerve block, and epidural anesthesia. Mepivacaine is effective topically only in large doses and therefore should not be used by this route. (From AMA Drug Evaluations, 1994, p168)",
+    "indication": "For production of local or regional analgesia and anesthesia by local infiltration, peripheral nerve block techniques, and central neural techniques including epidural and caudal blocks.",
+    "pharmacodynamics": "Mepivicaine is an amide local anesthetic. Mepivicaine as a reasonably rapid onset and medium duration and is known by the proprietary names as Carbocaine and Polocaine. Mepivicaine is used in local infiltration and regional anesthesia. Systemic absorption of local anesthetics produces effects on the cardiovascular and central nervous systems. At blood concentrations achieved with normal therapeutic doses, changes in cardiac conduction, excitability, refractoriness, contractility, and peripheral vascular resistance are minimal.",
+    "mechanism-of-action": "Local anesthetics block the generation and the conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential. In general, the progression of anesthesia is related to the diameter, myelination, and conduction velocity of affected nerve fibers. Clinically, the order of loss of nerve function is as follows: pain, temperature, touch, proprioception, and skeletal muscle tone.",
+    "absorption": "Absorbed locally. The rate of systemic absorption of local anesthetics is dependent upon the total dose and concentration of drug administered, the route of administration, the vascularity of the administration site, and the presence or absence of epinephrine in the anesthetic solution.",
+    "metabolism": "Rapidly metabolized, with only a small percentage of the anesthetic (5 percent to 10 percent) being excreted unchanged in the urine. The liver is the principal site of metabolism, with over 50% of the administered dose being excreted into the bile as metabolites.",
+    "toxicity": "The mean seizure dosage of mepivacaine in rhesus monkeys was found to be 18.8 mg/kg with mean arterial plasma concentration of 24.4 &micro;g/mL. The intravenous and subcutaneous LD 50 in mice is 23 mg/kg to 35 mg/kg and 280 mg/kg respectively.",
+    "targets": [
+        [
+            "SCN10A",
+            "Sodium channel protein type 10 subunit alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

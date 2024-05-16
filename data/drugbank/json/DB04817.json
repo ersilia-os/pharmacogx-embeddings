@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA166128206",
+    "drugbank_id": "DB04817",
+    "names": [
+        "Metamizole",
+        "Algocalmin",
+        "Algozone",
+        "Analgin",
+        "Dimethone",
+        "Dipirona",
+        "Neo-Melubrina",
+        "Novalgin",
+        "Optalgin",
+        "Protemp",
+        "Pyralgin"
+    ],
+    "description": "Metamizole (dipyrone) is a pyrazolone derivative that belongs to the group of nonacid nonopioids. It is considered a potent analgesic and antipyretic with favourable gastrointestinal tolerability.[A251885] Metamizole was formerly marketed in the US as Dimethone tablets and injection, Protemp oral liquid, and other drug products, and was withdrawn due to its association with potentially fatal agranulocytosis. Approvals of the NDA's for metamizole drug products were withdrawn on June 27, 1977 (see the Federal Register of June 17, 1977, 42 FR 30893).[L42975] In 1963, metamizole was withdrawn from the Canadian market and banned in the UK, France, Sweden, Norway and Australia.[A251805] Metamizole is still used in certain countries in Europe, Asia and South America.[A251805]",
+    "indication": "Metamizole is banned in several countries, where it was previously used as a powerful analgesic and fever reducer. In countries where it is still available, metamizole is indicated for acute severe pain after injuries or surgeries, colic, tumor pain, and acute or severe pain symptoms, as well as high fever if other treatments are unsuccessful.[A251805]",
+    "pharmacodynamics": "Metamizole is a strong analgesic and antipyretic with spasmolytic properties. It has weak anti-inflammatory or antithrombotic properties and does not follow the same mechanism of action as conventional non-steroidal anti-inflammatory drugs (NSAIDs).[A251805] Metamizole can lead to agranulocytosis, a life-threatening side effect where a patient\u2019s neutrophil count falls below 500 cells per microliter.[A251805] It has been shown that metamizole-induced agranulocytosis is caused by the development of drug-dependent anti-neutrophil antibodies requiring covalent binding of neutrophils to metamizole and its metabolites.[A251885]",
+    "mechanism-of-action": "The mechanism of action of metamizole is not fully understood. Its active metabolites, 4-methyl-amino-antipyrine (MAA) and 4-amino-antipyrine (AA), inhibit prostaglandin E2 (PGE<sub>2</sub>)-induced hyperalgesia.[A251910] It has been suggested that the anti-hyperalgesic effect of MAA is mediated by guanosine 3',5'-cyclic monophosphate (cGMP) activation and ATP-sensitive potassium channel opening, while the effects of AA are associated with the activation of cannabinoid receptor type 1 (CB1).[A251910] Metamizole is classified in some sources as a weak non-steroidal anti-inflammatory drug (NSAID);[A251885] however, evidence suggests that its analgesic effects do not depend on its anti-inflammatory properties.[A251910] Although the inhibition of cyclooxygenase (COX) 2 may play a role in the central nervous system effects of metamizole,[A251910] reports suggest that metamizole inhibits COX-3 with a higher affinity compared to COX-1 or COX-2.[A251905,A468]",
+    "absorption": "Metamizole is hydrolyzed to 4-methyl-amino-antipyrine (MAA) in gastric juice and is mostly absorbed in this form. MAA bioavailability differs based on the administration route. In patients given metamizole tablets, the bioavailability of MAA is 85%, in patients given drops, 89%, in patients given suppositories, 54%, and in patients given an intramuscular injection, 87%.[A251890] There is a linear relationship between metamizole oral dose and MAA C<sub>max</sub>. After oral doses ranging between 0.75 and 3 g, the t<sub>max</sub> is reached at 1.4-2.0 hours.[A251890]",
+    "metabolism": "Metamizole undergoes rapid hydrolysis to the active moiety 4-methyl-amino-antipyrine (MAA). MAA is then metabolized to 4-formyl-amino-antipyrine (FAA) via c-oxidation and 4-amino-antipyrine (AA) via N-demethylation. The N-demethylation of MAA is mainly mediated by CYP3A4, although CYP2B6, CYP2C8 and CYP2C9 may also be involved.[A251885] FAA is an end metabolite, while AA is acetylated by N-acetyl-transferase to form 4-acetyl-amino-antipyrine (AAA).[A251890] The unchanged drug may be present in plasma following the intravenous administration of metamizole; however, following oral administration, it cannot be detected in plasma or urine.[A251890]",
+    "toxicity": "A metamizole overdose (7.5 g) may lead to gastrointestinal toxicity. If less than an hour has passed since metamizole ingestion, gastrointestinal decontamination and supportive measures are suggested as overdose treatment.[A251900] Metamizole can also cause myelotoxicity, leading to drug-induced agranulocytosis.[A251885,A251905]",
+    "targets": [
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

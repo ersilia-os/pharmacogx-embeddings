@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA166179849",
+    "drugbank_id": "DB11995",
+    "names": [
+        "Avatrombopag"
+    ],
+    "description": "Avatrombopag (_Doptelet_), is an orally administered, small molecule thrombopoietin receptor (c-Mpl) agonist that increases platelet number without increasing platelet activation,[A33097,L2824] thereby decreasing the need for blood transfusions.[L2824] Patients with thrombocytopenia and chronic liver disease often require platelet transfusions before surgical procedures to decrease the risk of bleeding.[A33095] Thrombocytopenia is a common complication in patients suffering from chronic liver disease, occurring as a result of liver disease or a consequence of interferon-based antiviral therapy.[F95]\r\n\r\nAvatrombopag was first approved by the FDA in May 2018 for use in adults with chronic liver disease who are scheduled to undergo a procedure.[L2931] It is administered orally as the salt form avatrombopag maleate.[L2927] _Doptelet_ (Avatrombopag) is the first orally administered treatment option for patients with chronic liver disease,  allowing a large population of patients to avoid a platelet transfusion before a procedure by increasing platelet counts to the optimal level \u226550,000 per microliter.[L2932]",
+    "indication": "Indicated for the treatment of thrombocytopenia in adult patients with chronic liver disease who are scheduled to undergo a procedure.[L49941] It is also indicated in adult patients with chronic immune thrombocytopenia who have had an insufficient response to a previous treatment.[L49941]",
+    "pharmacodynamics": "In a study of efficacy, avatrombopag resulted in dose and exposure-dependent elevations in platelet counts in adults.[A33095] The onset of the platelet count increase was noted within 3 to 5 days of the start of a 5-day treatment course, with the highest level of effect measured after 10 to 13 days. Following this, platelet counts decreased gradually, returning to near baseline values at the 35-day point.[L49941]\r\n\r\nIncreased platelet activation leads to increased blood clotting, which may lead to various complications.[A33110]  Avatrombopag does not lead to increased platelet activation.[L2824]",
+    "mechanism-of-action": "Avatrombopag is an orally bioavailable, small molecule thrombopoietin (TPO) receptor agonist that stimulates proliferation and differentiation of megakaryocytes from bone marrow progenitor cells resulting in an increased production of platelets. Avatrombopag is not competitive with thrombopoietin for binding to the TPO receptor and has an additive pharmacological effect with TPO on platelet production.[L49941]\r\n\r\nAvatrombopag is a thrombopoietin receptor (TPOR; MPL) agonist, with possible megakaryopoiesis stimulating activity. After administration, avatrombopag binds to and stimulates the platelet thrombopoeitin receptor (TPOR), which can lead to the proliferation and differentiation of megakaryocytes from bone marrow progenitor cells. This process increases the production of platelets and may serve to prevent chemotherapy-induced thrombocytopenia (CIT). TPOR is classified as a cytokine receptor and as a member of the hematopoietin receptor superfamily.[L2928]",
+    "absorption": "Following single dosing under fasted and fed conditions, mean peak concentrations occurred at 5-8 hours and declined with a half-life of 16-18 hours in Japanese and white subjects. Administration with food did not have an effect on the rate or extent of avatrombopag absorption, however, significantly reduced pharmacokinetic variability relative to the fasting state.[A33097]\r\n\r\nAvatrombopag showed dose-proportional pharmacokinetics after single doses from 10 mg (0.25-times the lowest approved dosage) to 80 mg (1.3-times the highest recommended dosage). Healthy subjects administered 40 mg of avatrombopag showed a geometric mean (%CV) maximal concentration (Cmax) of 166 (84%) ng/mL and area under the time-concentration curve, extrapolated to infinity (AUC0-inf) of 4198 (83%) ng.hr/mL. The pharmacokinetics of avatrombopag are similar in both healthy subjects and the chronic liver disease population.[L49941]",
+    "metabolism": "Avatrombopag is primarily metabolized by CYP2C9 and CYP3A4.[L49941]",
+    "toxicity": "The most common adverse reactions reported in at least 3% of patients were pyrexia, abdominal pain, nausea, headache, fatigue, and peripheral edema.[L2822,L49941] Hyponatremia was also a rare serious adverse effect of this drug, seen in only 2 patients in the treatment group .[L49941]  Adverse reactions resulting in discontinuation of this drug have been anemia, pyrexia, and myalgia.[L49941]\r\n\r\nAtrombopag is a thrombopoietin (TPO) receptor agonist, and TPO receptor agonists have been associated with thrombotic and thromboembolic complications in patients with chronic liver disease. Portal venous thrombosis occurrence has been reported in patients with chronic liver disease who are treated with TPO receptor agonists.[L49941] ",
+    "targets": [
+        [
+            "MPL",
+            "Thrombopoietin receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

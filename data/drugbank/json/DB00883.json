@@ -1,0 +1,37 @@
+{
+    "pharmgkb_id": "PA450125",
+    "drugbank_id": "DB00883",
+    "names": [
+        "Isosorbide dinitrate",
+        "Carvasin",
+        "Flindix",
+        "Isoket",
+        "Isorbid",
+        "Nitrosorbide",
+        "Sorbidilat"
+    ],
+    "description": "A vasodilator used in the treatment of angina pectoris. Its actions are similar to nitroglycerin but with a slower onset of action.",
+    "indication": "For the prevention of angina pectoris due to coronary artery disease.",
+    "pharmacodynamics": "Isosorbide Dinitrate is a moderate to long acting oral organic nitrate used for the relief and prophylactic management of angina pectoris. It relaxes the vascular smooth muscle and consequent dilatation of peripheral arteries and veins, especially the latter. Dilatation of the veins promotes peripheral pooling of blood and decreases venous return to the heart, thereby reducing left ventricular end- diastolic pressure and pulmonary capillary wedge pressure (preload). Arteriolar relaxation reduces systemic vascular resistance, systolic arterial pressure, and mean arterial pressure.",
+    "mechanism-of-action": "Isosorbide dinitrate is converted to the active nitric oxide to activate guanylate cyclase. This activation increases levels of cyclic guanosine 3',5'-monophosphate (cGMP). cGMP activates protein kinases and causes a series of phosphorylation reactions which leads to dephosphorylation of myosin light chains of smooth muscle fibres. Finally there is a release of calcium ions which causes smooth muscle relaxation and vasodilation.",
+    "absorption": "Absorption of isosorbide dinitrate after oral dosing is nearly complete, but bioavailability is highly variable (10% to 90%), with extensive first-pass metabolism in the liver. The average bioavailability of isosorbide dinitrate is about 25%.",
+    "metabolism": "Hepatic",
+    "toxicity": "Symptoms of overdose include reduced cardiac output and hypotension.",
+    "targets": [
+        [
+            "NPR1",
+            "Atrial natriuretic peptide receptor 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "gene": "NAT2",
+        "rank": 1,
+        "explanation": "N-acetyltransferase 2 (NAT2) polymorphisms are known to have significant impacts on the metabolism and elimination of several drugs. Although direct pharmacogenetic relationships between pyrazinamide and NAT2 are not conclusively stated, it is plausible that it plays a role in pyrazinamide metabolism, given its primary role in drug acetylation, a process that helps in the inactivation and elimination of drugs. This reflects the initial list's ranking and the current knowledge of its pharmacogenomics."
+    },
+    {
+        "gene": "AOX1",
+        "rank": 2,
+        "explanation": "Aldehyde oxidase 1 (AOX1) is one of the key enzymes involved in the human metabolism of pyrazinamide, converting it into its inactive metabolites. Drug-gene interactions between AOX1 and pyrazinamide may affect the metabolism and the clearance rate of pyrazinamide, thereby impacting its efficacy and safety profile. Genetic variants in AOX1 may affect the function of the enzyme, altering the drug's metabolism and potentially its efficacy and safety."
+    },
+    {
+        "gene": "XDH",
+        "rank": 3,
+        "explanation": "Xanthine dehydrogenase/oxidase (XDH) is one of the enzymes in humans that metabolize pyrazinamide. Polymorphisms in the XDH gene could potentially modulate enzyme activity, impacting the metabolism, efficacy, or toxicity of pyrazinamide. A strong pharmacogenetic relationship between pyrazinamide and XDH is likely given that any genetic variation influential to the XDH metabolic pathway may affect pyrazinamide's therapeutic performance and side effects."
+    },
+    {
+        "gene": "ABCB1",
+        "rank": 4,
+        "explanation": "ABCB1 is a gene that encodes for P-glycoprotein (P-gp), which is involved in the transportation and elimination of many drugs and xenobiotics. Variations in ABCB1 could potentially influence the pharmacokinetics of pyrazinamide, although direct evidence for this relationship is yet to be observed. However, the importance of ABCB1 in drug efflux, and the knowledge that pyrazinamide is well-absorbed after oral administration, hints at a potential interaction that warrants exploration."
+    },
+    {
+        "gene": "CYP3A4",
+        "rank": 5,
+        "explanation": "CYP3A4 is a major enzyme involved in drug metabolism. Although no direct evidence of its relationship with pyrazinamide is observed, given its substantial role in hepatic metabolism, it is rational to speculate a potential pharmacogenetic interaction. However, more data and experimental proof are needed to confirm this."
+    },
+    {
+        "gene": "HLA-B",
+        "rank": 6,
+        "explanation": "The HLA-B gene is involved in immunoregulation. Variation in HLA-B is related to diverse hypersensitivity responses to various drugs. Given that pyrazinamide induces hypersensitivity reactions, HLA-B variants might influence the susceptibility to such side effects. This connection, however, the certainty of such a relation is currently speculative and needs further study."
+    },
+    {
+        "gene": "TNF",
+        "rank": 7,
+        "explanation": "TNF gene is responsible for producing a pro-inflammatory cytokine, and it is implicated in immune modulation. As an antitubercular drug, pyrazinamide might influence TNF production, which in turn can affect the immune response to M. tuberculosis infection. However, evidence for this is limited and speculative, therefore, further research is required to validate this potential relationship."
+    },
+    {
+        "gene": "GSTP1",
+        "rank": 8,
+        "explanation": "The GSTP1 gene belongs to the glutathione S-transferase family involved in detoxification processes. While the connection between pyrazinamide and GSTP1 lacks strong evidence, given GSTP1's broad role in drug metabolism, it may influence pyrazinamide's pharmacokinetics or its role in the detoxification that can mitigate drug-induced liver injury."
+    },
+    {
+        "gene": "GSTM1",
+        "rank": 9,
+        "explanation": "GSTM1, another glutathione S-transferase family member, plays an integral role in the detoxification of xenobiotics in the liver. Given that pyrazinamide metabolism primarily occurs in the liver and has been associated with liver injury, GSTM1 might be involved in dealing with this adverse effect. However, more research is needed to substantiate this hypothesized interaction."
+    },
+    {
+        "gene": "GSTA1",
+        "rank": 10,
+        "explanation": "GSTA1 encodes a protein of the glutathione S-transferase family, which plays a significant role in detoxification by catalyzing the conjugation of many hydrophobic and electrophilic compounds with reduced glutathione. Due to its possible involvement in hepatic detoxification pathways, it might be implicated in mitigating pyrazinamide-induced hepatotoxicity. The exploration of a potential interaction between pyrazinamide and GSTA1 is speculative and warrants further investigation."
+    }
+]

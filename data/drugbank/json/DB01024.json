@@ -1,0 +1,89 @@
+{
+    "pharmgkb_id": "PA164748728",
+    "drugbank_id": "DB01024",
+    "names": [
+        "Mycophenolic acid",
+        "Melbex",
+        "Myfortic"
+    ],
+    "description": "Mycophenolic acid is a potent immunosuppressant agent that inhibits _de novo_ purine biosynthesis.[L42165] It was derived from _Penicillium stoloniferum_, and has also shown antibacterial, antifungal and antiviral properties.[A249170]. Mycophenolic acid is used in immunosuppressive regimens as part of a triple therapy that includes a calcineurin inhibitor (ciclosporin or tacrolimus) and prednisolone.[A249175] This regimen can be used in place of the older anti-proliferative [azathioprine] due to its stronger immunosuppressive potency.[A249180] However, mycophenolic acid treatment is more expensive and requires therapeutic drug monitoring to optimize efficacy and minimize toxicity.[A249180,A249185] Mycophenolic acid is available as enteric-coated tablets of delayed-release, in an effort to improve upper gastrointestinal adverse events by delaying mycophenolic acid release until it reaches the small intestine.[A249190] [Mycophenolate mofetil], a prodrug of mycophenolic acid, is also prescribed to transplant recipients to prevent organ rejection.[L42020]",
+    "indication": "Mycophenolic acid is an antimetabolite immunosuppressant indicated for prophylaxis of organ rejection in adult patients receiving kidney transplants and in pediatric patients at least 5 years of age and older who are at least 6 months post kidney transplant. Mycophenolic acid is used in combination with cyclosporine and corticosteroids.[L42165]",
+    "pharmacodynamics": "Mycophenolic acid is a potent inhibitor of inosine monophosphate dehydrogenase (IMPDH) that blocks _de novo_ biosynthesis of purine nucleotides. This affects lymphocytes primarily and leads to the suppression of DNA synthesis in T- and B-cells.[A249175,L42165] Mycophenolic acid arrests the T-lymphocyte cell cycle at the G1/S interface and inhibits the proliferation of lymphocytes.[A249175] Also, it has been suggested that mycophenolic acid suppresses cytokine production by limiting the number of cytokine-producing cells.[A249175] The enteric-coating of mycophenolic acid tablets prevents the development of upper gastrointestinal adverse events by delaying drug release until it reaches the small intestine.[A249190]\r\n\r\nPatients treated with mycophenolic acid have a higher risk of developing new or reactivated viral infections, serious infections, blood dyscrasias (including pure red cell aplasia), serious gastrointestinal tract complications, acute inflammatory syndrome associated with mycophenolate products, lymphoma, and other malignancies.[L42165] The use of mycophenolic acid is also associated with an increased risk of first-trimester pregnancy loss and congenital malformations. Mycophenolic acid should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT). Patients treated with mycophenolic acid should not receive live attenuated vaccines or donate blood or semen.[L42165]",
+    "mechanism-of-action": "Mycophenolic acid is a selective noncompetitive and reversible inhibitor of inosine monophosphate dehydrogenase (IMPDH), that blocks the conversion of inosine-5-phosphate and xanthine-5-phosphate to guanosine-5-phosphate.[A249170,L42165] By inhibiting IMPDH, mycophenolic acid interferes with the _de novo_ pathway of guanosine nucleotide synthesis without incorporation into DNA. While other cell types are able to use salvage pathways, T- and B-lymphocyte proliferation is a mechanism heavily dependent on the _de novo_ synthesis of purines. Therefore, mycophenolic acid has potent cytostatic effects on T- and B- and lymphocytes.[A249170,L42165] Mycophenolic acid also suppresses antibody formation by B-lymphocytes and prevents the glycosylation of lymphocyte and monocyte glycoproteins involved in intercellular adhesion to endothelial cells.[L42020]",
+    "absorption": "Between 360 mg and 2,160 mg, mycophenolic acid follows a linear and dose-proportional pharmacokinetic profile. The enteric-coating of mycophenolic acid tablets prevents release under acidic conditions (stomach, pH < 5). However, enteric-coated mycophenolic acid tablets are highly soluble in neutral pH conditions such as those in the intestine.[L42165] In renal transplant patients, the median delay (T<sub>lag</sub>) in the rise of mycophenolic acid concentration ranged between 0.25 and 1.25 hours, and the T<sub>max</sub> ranged between 1.5 and 2.75 hours. Adult renal transplant patients on cyclosporine given mycophenolic acid had a T<sub>max</sub> of 2 h, a C<sub>max</sub> of 26.1 \u03bcg/mL, and an AUC<sub>0-12</sub> of 66.5 \u03bcg\u22c5h/mL. Stable pediatric (5-16 years old) renal transplant patients had a C<sub>max</sub> and AUC 33% and 18% higher than the ones detected in adults.[L42165]\r\n\r\nIn stable renal transplant patients treated with cyclosporine, the gastrointestinal absorption and absolute bioavailability of delayed-release tablets of mycophenolic acid were 93% and 72%, respectively.[L42165] Following the administration of a high-fat meal (55 g fat, 1000 calories), the AUC of mycophenolic acid (enteric-coated tablets, 720 mg) was comparable to the one detected during fasting. However, a high-fat meal can lead to a 33% decrease of the C<sub>max</sub>, a 3.5-hour delay in the T<sub>lag</sub> (range of -6 to 18 hours), and a 5.0-hour delay in the T<sub>max</sub> (range of -9 to 20 hours). To avoid variability in the absorption of mycophenolic acid, this drug should be taken on an empty stomach.[L42165]",
+    "metabolism": "Mycophenolic acid is mainly metabolized by glucuronyl transferase to form glucuronidated metabolites. Mycophenolic acid glucuronide (MPAG), the major metabolite of mycophenolic acid, does not display pharmacological activity. However, the acyl glucuronide minor metabolite has a pharmacological activity similar to mycophenolic acid. The AUC ratio of mycophenolic acid:MPAG:acyl glucuronide is approximately 1:24:0.28 at a steady state.[L42165]",
+    "toxicity": "There are anecdotal reports of deliberate or accidental overdoses with mycophenolic acid; however, not all patients have experienced related adverse reactions. In those cases where adverse reactions have been reported, reactions fall within the safety profile of its class of drugs. A mycophenolic acid overdose could lead to the oversuppression of the immune system and increase the susceptibility to infection.[L42165] It may be appropriate to interrupt or discontinue mycophenolic acid if blood dyscrasias occur. Some of the signs and symptoms associated with mycophenolic acid overdose are hematological abnormalities, such as leukopenia and neutropenia, and gastrointestinal symptoms, such as abdominal pain, diarrhea, nausea and vomiting, and dyspepsia.[L42165]\r\n\r\nCarcinogenicity studies of 104 weeks done in rats and mice, suggest that mycophenolate sodium does not induce the formation of tumours. Rats were given up to 9 mg/kg of mycophenolate sodium, which corresponded to 0.6-1.2 times the systemic exposure observed in renal transplant patients, while mice were given 180 mg/kg, an equivalent of 0.6 times the mycophenolate sodium therapeutic dose.[L42165] The genotoxicity of mycophenolate sodium was confirmed by the mouse lymphoma/thymidine kinase assay, the micronucleus test in V79 Chinese hamster cells, and the _in vivo_ mouse micronucleus assay. Mycophenolate mofetil, a prodrug of mycophenolic acid, had a similar genotoxic profile. At daily oral doses as high as 18 mg/kg and 20 mg/kg, mycophenolate sodium had no effect on male and female rat fertility, respectively.[L42165] The oral LD<sub>50</sub> of mycophenolic acid is 352 mg/kg in rats and 1000 mg/kg in mice.[L42180]",
+    "targets": [
+        [
+            "IMPDH2",
+            "Inosine-5'-monophosphate dehydrogenase 2",
+            "Humans"
+        ],
+        [
+            "IMPDH1",
+            "Inosine-5'-monophosphate dehydrogenase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferase 1-8",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A7",
+            "UDP-glucuronosyltransferase 1-7",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferase 1-10",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferase 1-6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

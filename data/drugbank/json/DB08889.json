@@ -1,0 +1,56 @@
+{
+    "pharmgkb_id": "PA166165203",
+    "drugbank_id": "DB08889",
+    "names": [
+        "Carfilzomib"
+    ],
+    "description": "Carfilzomib is an injectable antineoplastic agent (IV only). Chemically, it is a modified tetrapeptidyl epoxide and an analog of epoxomicin. It is also a selective proteasome inhibitor. FDA approved carfilzomib in July 2012 for the treatment of adults with relapsed or refractory multiple myeloma as monotherapy or combination therapy.[L39392]",
+    "indication": "Carfilzomib is indicated for the treatment of adult patients with relapsed or refractory multiple myeloma who have received one to three lines of therapy in combination with lenalidomide and dexamethasone; or dexamethasone; or daratumumab and dexamethasone; or daratumumab and hyaluronidase-fihj and dexamethasone; or isatuximab and dexamethasone. It is also indicated as a single agent for the treatment of patients with relapsed or refractory multiple myeloma who have received one or more lines of therapy.[L39392,L42350]",
+    "pharmacodynamics": "Intravenous carfilzomib administration resulted in suppression of proteasome chymotrypsin-like activity when measured in blood 1 hour after the first dose. On Day 1 of Cycle 1, proteasome inhibition in peripheral blood mononuclear cells (PBMCs) ranged from 79% to 89% at 15 mg/m2, and from 82% to 83% at 20 mg/m2. In addition, carfilzomib administration resulted in inhibition of the LMP2 and MECL1 subunits of the immunoproteasome ranging from 26% to 32% and 41% to 49%, respectively, at 20 mg/m2.  Proteasome inhibition was maintained for \u2265 48 hours following the first dose of carfilzomib for each week of dosing. Resistance against carfilzomib has been observed and although the mechanism has not been confirmed, it is thought that up-regulation of P-glycoprotein may be a contributing factor. Furthermore, studies suggest that carfilzomib is more potent than bortezomib. ",
+    "mechanism-of-action": "Carfilzomib is made up of four modified peptides and acts as a proteasome inhibitor. Carfilzomib irreversibly and selectively binds to N-terminal threonine-containing active sites of the 20S proteasome, the proteolytic core particle within the 26S proteasome.  This 20S core has 3 catalytic active sites: the chymotrypsin, trypsin, and caspase-like sites. Inhibition of the chymotrypsin-like site by carfilzomib (\u03b25 and \u03b25i subunits) is the most effective target in decreasing cellular proliferation, ultimately resulting in cell cycle arrest and apoptosis of cancerous cells. At higher doses, carfilzomib will inhibit the trypsin-and capase-like sites. ",
+    "absorption": "Cmax, single IV dose of 27 mg/m^2 = 4232 ng/mL; \r\nAUC, single IV dose of 27 mg/m^2 = 379 ng\u2022hr/mL;\r\nCarfilzomib does not accumulation in the systemic. At doses between 20 and 36 mg/m2, there was a dose-dependent increase in exposure.",
+    "metabolism": "Carfilzomib was rapidly and extensively metabolized by the liver. The predominant metabolites were the peptide fragments and the diol of carfilzomib which suggests that the main metabolic pathways are peptidase cleavage and epoxide hydrolysis. The cytochrome P450 enzyme system is minimally involved in the metabolism of carfilzomib. All metabolites are inactive. ",
+    "toxicity": "Most commonly reported adverse reactions (incidence \u2265 30%) are fatigue, anemia, nausea, thrombocytopenia, dyspnea, diarrhea, and pyrexia. The two dose limiting toxicities are thrombocytopenia and febrile neutropenia. \r\nMaximum tolerate dose = 15 mg/m^2 ",
+    "targets": [
+        [
+            "PSMB5",
+            "Proteasome subunit beta type-5",
+            "Humans"
+        ],
+        [
+            "PSMB8",
+            "Proteasome subunit beta type-8",
+            "Humans"
+        ],
+        [
+            "PSMB1",
+            "Proteasome subunit beta type-1",
+            "Humans"
+        ],
+        [
+            "PSMB9",
+            "Proteasome subunit beta type-9",
+            "Humans"
+        ],
+        [
+            "PSMB2",
+            "Proteasome subunit beta type-2",
+            "Humans"
+        ],
+        [
+            "PSMB10",
+            "Proteasome subunit beta type-10",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

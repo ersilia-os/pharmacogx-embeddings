@@ -1,0 +1,83 @@
+{
+    "pharmgkb_id": "PA450126",
+    "drugbank_id": "DB01020",
+    "names": [
+        "Isosorbide mononitrate",
+        "Chemydur",
+        "Corangin",
+        "Dilatrate",
+        "Duride",
+        "Elantan",
+        "Etimonis",
+        "Imodur",
+        "Imtrate",
+        "Ismexin",
+        "Ismox",
+        "Isomon",
+        "Isomonit",
+        "Isonorm",
+        "Medocor",
+        "Monicor",
+        "Monit",
+        "Mono Corax",
+        "Mono Mack",
+        "Monocedocard",
+        "Monoclair",
+        "Monocord",
+        "Monodur Durules",
+        "Monolong",
+        "Monomax",
+        "Mononit",
+        "Monopront",
+        "Monosorb",
+        "Monosordil",
+        "Monotrate",
+        "Nitramin",
+        "Olicard",
+        "Olicardin",
+        "Orasorbil",
+        "Pertil",
+        "Plodin",
+        "Promocard",
+        "Sigacora",
+        "Solotrate",
+        "Sorbimon",
+        "Turimonit",
+        "Uniket",
+        "Vasdilat"
+    ],
+    "description": "Isosorbide mononitrate is an organic nitrate with vasodilating properties. It is an anti-anginal agent that works by relaxing the smooth muscles of both arteries and veins, but but predominantly veins to reduce cardiac preload.[L11698, L11743] Isosorbide mononitrate is an active metabolite of [isosorbide dinitrate]. Like other organic nitrates, isosorbide mononitrate acts as a prodrug for its active metabolite, [nitric oxide], which mediates the therapeutic action of isosorbide mononitrate.[L11743] Isosorbide mononitrate has a longer duration of action than [nitroglycerin] due to its slow onset of absorption and metabolism.[T28]\r\n\r\nFirst approved by the FDA in 1991,[L11743] isosorbide mononitrate is used for the prevention and management of angina pectoris caused by coronary artery disease; however, the onset of action of orally-administered isosorbide mononitrate is not rapid enough to offset an acute anginal episode.[L11698] It is available in oral tablets generically and under the brand name ISMO and Monoket. The extended-release forms of the drug are also available generically and under the brand name Imdur.[L11743]",
+    "indication": "Isosorbide mononitrate is indicated for the prevention and management of angina pectoris due to coronary artery disease. The onset of action of oral isosorbide mononitrate is not sufficiently rapid to be useful in aborting an acute anginal episode.[L11698]",
+    "pharmacodynamics": "Isosorbide mononitrate is an anti-anginal agent and vasodilator that relaxes vascular smooth muscle to prevent and manage angina pectoris. The pharmacological action is mediated by the active metabolite, [nitric oxide], which is released when isosorbide mononitrate is metabolized.[T28] Nitric oxide works on both arteries and veins, but predominantly veins: by relaxing veins and reducing the central venous pressure, nitric oxide causes venous pooling and a decrease in the venous return to the heart, thus decreasing cardiac preload.[L11743] In healthy subjects, the stroke volume is decreased and venous pooling can occur in the standing posture, leading to postural hypotension and dizziness.[T28] \r\n\r\nAt therapeutic doses of isosorbide mononitrate, nitric oxide has a bigger effect on larger muscular arteries over small resistance arteries. Arterial relaxation leads to reduced systemic vascular resistance and systolic blood (aortic) pressure, decreasing to decreased cardiac afterload.[L11743,T28] The direct dilator effect on coronary arteries opposes the coronary artery spasm in variant angina or angina pectoris.[T28] At larger doses, nitric oxide causes the resistance arteries and arterioles to dilate, reducing arterial pressure via coronary vasodilatation. This leads to increased coronary blood flow.[L11743,T28] Reduced cardiac preload and afterload caused by nitric oxide causes a reduction in myocardial oxygen consumption; decreased myocardial oxygen demand, along with increased coronary blood flow, leads to an increased in the oxygen content of coronary sinus blood [T28] and the relief from ischemia.[L11743] \r\n\r\nThe end effect of isosorbide mononitrate include decreased cardiac oxygen consumption, redistribution coronary flow toward ischemic areas via collaterals, and the relief of coronary spasms. Nitric oxide can also increase the rate of relaxation of cardiac muscles, which is an effect outside of vascular smooth muscles.[T28] Organic nitrates can also relax other types of smooth muscles, including esophageal and biliary smooth muscle.[T28] The anti-anginal activity of isosorbide mononitrate was observed about 1 hour after dosing, and the peak effect was achieved from 1-4 hours after dosing.[L11698] The duration of anti-anginal action of at least 12 hours was observed with an asymmetrical dosing regimen.[A190738]",
+    "mechanism-of-action": "Isosorbide mononitrate acts as a prodrug for nitric oxide (NO), which is a potent vasodilator gas that is released when the drug is metabolized. NO activates soluble guanylyl cyclase in vascular endothelial cells, which increases the intracellular concentrations of cyclic GMP (cGMP). cGMP activates cGMP-dependent protein kinases, such as protein kinase G and I, which activates the downstream intracellular cascades.[A190732] The downstream cascade results in reduced intracellular concentrations of calcium, caused by processes including inhibition of IP<sub>3</sub>-mediated pathway, phosphorylation of big calcium-activated potassium channel leading to cell hyperpolarization and reduced calcium influx, and increased calcium efflux via the Ca2+-ATPase-pump.[A190732] Reduced intracellular calcium concentrations lead to the dephosphorylation of myosin light chains and the relaxation of smooth muscle cells.[L11743,T28]",
+    "absorption": "Upon oral administration, isosorbide mononitrate is rapidly and completely absorbed from the gastrointestinal tract. Isosorbide mononitrate has a dose-linear kinetics and the absolute bioavailability is nearly 100%. The Cmax is reached within 30 to 60 minutes following administration.[L11698]",
+    "metabolism": "Isosorbide mononitrate is not subject to first pass metabolism in human liver.[L11698] Detectable metabolites include isosorbide, sorbitol, and 2-glucuronide of mononitrate, which are pharmacologically inactive.[A190738,L11698]",
+    "toxicity": "The oral LD<sub>50</sub> is 2010 mg/kg in rats and 1771 mg/kg in mice.[L11728] \r\n\r\nThe symptoms of overdose from isosorbide mononitrate is associated with vasodilatation, venous pooling, reduced cardiac output, and hypotension. These symptoms can be accompanied by several manifestations, including increased intracranial pressure (possibly along with persistent throbbing headache, confusion, and moderate fever), vertigo, palpitations, visual disturbances, nausea and vomiting (possibly along with colic and bloody diarrhea), syncope (especially in the upright posture), air hunger and dyspnea (later followed by reduced ventilatory effort), diaphoresis (with flushed or cold and clammy skin), heart blocks and bradycardia, paralysis, coma, seizures, and death.[L11698]\r\n\r\nThere is limited clinical information on the management of isosorbide mononitrate overdose; it is advised that venodilatation and arterial hypovolemia from overdose are responded with therapy aimed to increase in central fluid volume. However, this method may be potentially hazardous in patients with renal disease or congestive heart failure: invasive monitoring may be required in these patients. The patient's legs should be passively elevated, and intravenous infusion of normal saline or similar fluid is recommended. Isosorbide mononitrate was shown to be significantly removed from the systemic circulation via hemodialysis. The use of epinephrine or other arterial vasoconstrictors is not recommended.[L11698]",
+    "targets": [
+        [
+            "GUCY1A2",
+            "Guanylate cyclase soluble subunit alpha-2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "GSTM1",
+            "Glutathione S-transferase Mu 1",
+            "Humans"
+        ],
+        [
+            "XDH",
+            "Xanthine dehydrogenase/oxidase",
+            "Humans"
+        ],
+        [
+            "ADH5",
+            "Alcohol dehydrogenase class-3",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

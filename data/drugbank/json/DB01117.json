@@ -1,0 +1,54 @@
+{
+    "pharmgkb_id": "PA448502",
+    "drugbank_id": "DB01117",
+    "names": [
+        "Atovaquone",
+        "Acuvel",
+        "Wellvone"
+    ],
+    "description": "Atovaquone is a hydroxynaphthoquinone, or an analog of ubiquinone, that has antimicrobial and antipneumocystis activity. It is being used in antimalarial protocols.",
+    "indication": "For the treatment or prevention of <i>Pneumocystis carinii</i> pneumonia in patients who are intolerant to trimethoprim-sulfamethoxazole (TMP-SMX). Also indicated for the acute oral treatment of mild to moderate PCP in patients who are intolerant to TMP-SMX.",
+    "pharmacodynamics": "Atovaquone is a highly lipophilic drug that closely resembles the structure [ubiquinone]. Its inhibitory effect being comparable to ubiquinone, atovaquone can act by selectively affecting mitochondrial electron transport and parallel processes such as ATP and pyrimidine biosynthesis in atovaquone-responsive parasites. Cytochrome bc1 complex (complex III) seems to serve as a highly discriminating molecular target for atovaquone in Plasmodia. There is no significant risk for myelosuppression associated with atovaquone, making this drug a beneficial therapeutic agent for recipients of bone marrow transplantation.",
+    "mechanism-of-action": "The mechanism of action against <i>Pneumocystis carinii</i> has not been fully elucidated. In Plasmodium species, the site of action appears to be the cytochrome bc1 complex (Complex III). Several metabolic enzymes are linked to the mitochondrial electron transport chain via ubiquinone. Inhibition of electron transport by atovaquone will result in indirect inhibition of these enzymes. The ultimate metabolic effects of such blockade may include inhibition of nucleic acid and ATP synthesis. Atovaquone also has been shown to have good <i>in vitro</i> activity against <i>Toxoplasma gondii</i>.",
+    "absorption": "The bioavailability of atovaquone is low and variable and is highly dependent on formulation and diet. Bioavailability of the suspension increases two-fold when administered with meals. When administered with food, bioavailability is approximately 47%. Without food, the bioavailability is 23%.",
+    "metabolism": "Some evidence suggests limited metabolism (although no metabolites have been identified).",
+    "toxicity": "The median lethal dose is higher than the maximum oral dose tested in mice and rats (1825 mg/kg per day). Overdoses up to 31,500 mg of atovaquone have been reported. In one such patient who also took an unspecified dose of dapsone, methemoglobinemia occurred. Rash has also been reported after overdose.",
+    "targets": [
+        [
+            "MT-CYB",
+            "Cytochrome b",
+            "Plasmodium falciparum"
+        ],
+        [
+            null,
+            "Dihydroorotate dehydrogenase (quinone), mitochondrial",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "DHODH",
+            "Dihydroorotate dehydrogenase (quinone), mitochondrial",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

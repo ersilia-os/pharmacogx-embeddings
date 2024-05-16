@@ -1,0 +1,70 @@
+{
+    "pharmgkb_id": "PA451114",
+    "drugbank_id": "DB00433",
+    "names": [
+        "Prochlorperazine",
+        "Buccastem",
+        "Emetiral",
+        "Stemzine",
+        "Volimin"
+    ],
+    "description": "Prochlorperazine, also known as compazine, is a piperazine phenothiazine and first-generation antipsychotic drug that is used for the treatment of severe nausea and vomiting, as well as short-term management of psychotic disorders such as generalized non-psychotic anxiety and schizophrenia.[label] It mainly works by depressing the chemoreceptor trigger zone and blocking D2 dopamine receptors in the brain. It was shown to also block histaminergic, cholinergic and noradrenergic receptors.[L6637] Prochlorperazine was first developed in the 1950s [L6643] and was first approved by the FDA in 1956. Although newer antiemetic agents such as 5-HT3 antagonists are more heavily promoted, prochlorperazine is still widely used in nausea and vomiting.[L6640]",
+    "indication": "Indicated for the symptomatic treatment of severe nausea and vomiting.[label]\r\n\r\nIndicated for the management of manifestations of psychotic disorders, such as schizophrenia and generalized non-psychotic anxiety. The use of prochlorperazine for the management of generalized non-psychotic anxiety is typically not a first-line therapy and should be limited to doses of less than 20 mg per day or for shorter than 12 weeks.[label,L6634]\r\n\r\nOff-label uses include use in emergency settings for adult and pediatric migraines. The American Headache Society recommends the use of prochlorperazine as the first-line medication in this setting. In pediatric migraines, a non-steroidal anti-inflammatory agent is often used in combination with dopamine antagonist.[L6637]",
+    "pharmacodynamics": "Prochlorperazine is an antipsychotic agent that works to promote postsynaptic inhibition of dopaminergic neurons.[L6640] It also exerts its anti-emetic actions via anti-dopaminergic effects, where it displays similar efficacy as ondansteron, a 5HT-3 receptor antagonist and anti-emetic, in preventing delayed nausea and vomiting.[A179179] Prochlorperazine was shown to inhibit histaminergic, cholinergic and alpha-1 adrenergic receptors.[A179173,L6637] The blockade of alpha-1 adrenergic receptors may result in sedation, muscle relaxation, and hypotension. It displays anti-anxiety effects as well.[L6640] Compared to other phenothiazine derivatives, prochlorperazine is less sedating and has a weak propensity for causing hypotension or potentiating the effects of CNS depressants and anesthetics.[L6646] Other than its primary action on D2 receptors, one study showed that prochlorperazine may inhibit the P2X7 receptor in human macrophages, leading to inhibition of calcium ion influx.[L6637]",
+    "mechanism-of-action": "The mechanism of action of prochlorperazine has not been fully determined, but may be primarily related to its anti-dopaminergic effects. Prochlorperazine blocks the D2 dopamine receptors in the brain, which are somatodendritic autoreceptors. Inhibition of D2 receptor signaling results in the blockade of postsynaptic dopamine receptors in the mesolimbic system [L6643] and an increased dopamine turnover. Nausea and vomiting are proposed to arise from peripheral or central stimulation of  serotonin type 3 (5-HT3) and dopamine type 2 receptors, the predominant receptors expressed at the chemoreceptor trigger zone (CTZ).[A179194,L6643] Prochlorperazine exerts antiemetic effects and was shown to inhibit apomorphine-induced vomiting by blocking D2 dopamine receptors in the CTZ.[A179179]. ",
+    "absorption": "Following oral administration, prochlorperazine is reported to be well absorbed from the gastrointestinal tract. The onset of pharmacological action is about 30 to 40 minutes following oral administration and 10 to 20 minutes following intramuscular administration. The duration of action for all routes is about 3 to 4 hours.[L6646] Following oral administration in healthy volunteers, the mean oral bioavailability was about 12.5%. In these patients, the time to reach the peak plasma concentrations was about 5 hours. Repeated oral dosing resulted in an accumulation of prochlorperazine and its metabolite. Following multiple twice daily dosing, the steady state of prochlorperazine was reached by 7 days.[A179173]",
+    "metabolism": "Prochlorperazine undergoes hepatic metabolism involving oxidation, hydroxylation, demethylation, sulfoxide formation and conjugation with glucuronic acid.[L6649] The oxidation reaction is mediated by CYP2D6.[A179179] N-desmethyl prochlorperazine was detected in the plasma[A179173], as well as prochlorperazine sulfoxide, prochlorperazine 7-hydroxide and prochlorperazine sulfoxide 4'-N-oxide, following oral and buccal administration.[A179188] Prochlorperazine may enter the enterohepatic circulation.[L6646]",
+    "toxicity": "**LD<sub>50</sub> and Overdose**\r\n\r\nOral LD<sub>50</sub> in rats is 750 mg/kg. Intraperitoneal and subcutaneous LD<sub>50</sub> in mice are 191 mg/kg and 320 mg/kg, respectively.[MSDS] In placebo-controlled trials, there were increased incidences of mortality in elderly patients with dementia-related psychosis receiving antipsychotic medications. The risk of death in drug-treated patients was about 1.6 to 1.7 times that of placebo-treated patients. Deaths were largely resulting from cardiovascular, such as heart failure and sudden death, or infectious, such as pneumonia, conditions.[label] Due to its antagonist action on dopamine receptors, prochlorperazine is associated with a risk for developing extrapyramidal symptoms such as tardive dyskinesia, which is a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements. This risk is also conferred on other antipsychotic agents that block dopamine receptors. It is proposed that increased duration of the drug treatment is likely thus increased total cumulative dose of antipsychotic drugs administered to the patient leads to increased risk for developing the syndrome and the likelihood that it will become irreversible. As with other antipsychotic agents, prochlorperazine is associated with a risk for causing neuroleptic malignant syndrome (NMS), which is a potentially fatal symptom complex, which is manifested as hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability. \r\n\r\nThere is no known antidote for prochlorperazine thus overdose treatment should be supportive and symptomatic. Overdose of prochlorperazine may produce dystonic reactions that involve extrapyramidal mechanism. To reduce these symptoms, antiparkinsonism drugs, barbiturates, or diphenhydramine may be used. Symptoms of central nervous system depression, such as somnolence or coma, may also be observed. Amphetamine, destroamphetamine, or caffeine and sodium benzoate may be used to induce stimulatory effects. In contrast, agitation and restlessness may also be seen in case of overdose. Other possible manifestations include convulsions, EKG changes and cardiac arrhythmias, fever, and autonomic reactions such as hypotension, dry mouth and ileus. Hypotension can be responded with the standard measures for managing circulatory shock.[label] \r\n\r\n**Nonclinical Toxicology**\r\n\r\nIn a rat developmental or reproductive toxicity study, abnormalities in both the reproductive measures and neurobehavioral testing were observed following administration of 25 mg/kg of prochlorperazine.[L6649] \r\n\r\n**Use in specific populations**\r\n\r\nAs the use of antipsychotic agents during the third trimester of pregnancy is associated with a risk for extrapyramidal and/or withdrawal symptoms following delivery, the use of prochlorperazine in pregnant patients is generally not recommended and it should be limited after careful consideration of the potential benefit of drug therapy justifying the potential risk to the fetus. Caution should be exercised when prochlorperazine is administered to a nursing mother. While lower doses of prochlorperazine is reported to be safe for elderly patients, caution is still advised, especially those with higher susceptibility to hypotension and neuromuscular reactions.[label]",
+    "targets": [
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

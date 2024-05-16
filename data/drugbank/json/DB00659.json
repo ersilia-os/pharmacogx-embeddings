@@ -1,0 +1,72 @@
+{
+    "pharmgkb_id": "PA10344",
+    "drugbank_id": "DB00659",
+    "names": [
+        "Acamprosate",
+        "Regtect"
+    ],
+    "description": "Alcohol use disorder is responsible for a large worldwide burden of morbidity, premature mortality, and economic consequences resulting from accidents, violence, incarceration, decreased productivity, and increased healthcare spending.[A229073]\r\n\r\nAcamprosate, also known by the brand name Campral, is a drug used for the maintenance of alcohol abstinence. It is a structural analogue of the neurotransmitter \u03b3-aminobutyric acid (GABA).[L31758] Acamprosate is the first medication specifically formulated for the maintenance of alcohol abstinence in ethanol-dependent patients after alcohol detoxification[A997], unlike [naltrexone] and [disulfiram]. It was first approved by the FDA in 2004 and initially marketed by Forest Laboratories.[L31783]",
+    "indication": "Acamprosate is indicated for the maintenance of abstinence from alcohol in patients with alcohol dependence who are abstinent at treatment initiation. It is also indicated for the maintenance of alcohol abstinence in patients who have undergone alcohol detoxification. This drug should be used with a psychosocial support program providing adequate support.[L31738]",
+    "pharmacodynamics": "Acamprosate acts on the CNS, aiding in the restoration of normal glutaminergic neuron activity.[A993] Pharmacodynamic studies have shown that acamprosate calcium reduces alcohol intake in alcohol-dependent individuals, likely through effects on NMDA receptors and calcium channels.[A229038]   It is a safe and well-tolerated drug for patients with alcohol dependency and improves the likelihood of alcohol abstinence.[A993,L31758]\r\n \r\n",
+    "mechanism-of-action": "The mechanism of action of acamprosate for the maintenance of alcohol abstinence has not been established. Chronic alcohol exposure is believed to modify the balance between neuronal excitation and inhibition. Results of studies in animals suggest acamprosate may interact with glutamate and GABA neurotransmitter systems in the CNS, supporting the hypothesis that acamprosate restores the balance between neuronal excitation and inhibition.[A996,L31738] Evidence shows that acamprosate directly binds and inhibits GABA B receptors and indirectly affects GABA A receptors.[A229023,A229118]",
+    "absorption": "Acamprosate is absorbed in the gastrointestinal tract. [A229023,A229033] The absolute bioavailability of acamprosate after oral administration is about 11%. The effect of food absorption is clinically insignificant and no adjustment of the dose is necessary with regard to meals.[L31738] After repeated oral doses of 666 mg 3 times a day, steady-state concentrations are achieved within 5 to 7 days, with plasma concentration ranging between 370 to 650 micrograms/L.[A229033]",
+    "metabolism": "Acamprosate is not metabolized.[A229033,L31738]",
+    "toxicity": "The intraperitoneal LD50 in male mice is 1.87 g/kg.[L31813]  In reported cases of acute overdosage with acamprosate (doses of up to 56 grams of acamprosate calcium) diarrhea was the only reported symptom attributable to acamprosate. In the case of an overdose, supportive and symptomatic treatment is recommended.[L31738]",
+    "targets": [
+        [
+            "GRIN1",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2A",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2B",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2C",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2D",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3A",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3B",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRM5",
+            "Metabotropic glutamate receptor 5",
+            "Humans"
+        ],
+        [
+            "GABBR1",
+            "Gamma-aminobutyric acid type B receptor subunit 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

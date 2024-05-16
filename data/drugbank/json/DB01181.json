@@ -1,0 +1,75 @@
+{
+    "pharmgkb_id": "PA449964",
+    "drugbank_id": "DB01181",
+    "names": [
+        "Ifosfamide",
+        "Celofos",
+        "Cuantil",
+        "Holoxan",
+        "Mitoxana"
+    ],
+    "description": "Ifosfamide is a chemotherapeutic agent chemically related to the nitrogen mustards and a synthetic analog of cyclophosphamide. It is active as an alkylating agent and an immunosuppressive agent.",
+    "indication": "Used as a component of various chemotherapeutic regimens as third-line therapy for recurrent or refractory germ cell testicular cancer. Also used as a component of various chemotherapeutic regimens for the treatment of cervical cancer, as well as in conjunction with surgery and/or radiation therapy in the treatment of various soft tissue sarcomas. Other indications include treatment of osteosarcoma, bladder cancer, ovarian cancer. small cell lung cancer, and non-Hodgkin's lymphoma.",
+    "pharmacodynamics": "Ifosfamide requires activation by microsomal liver enzymes to active metabolites in order to exert its cytotoxic effects. Activation occurs by hydroxylation at the ring carbon atom 4 to form the unstable intermediate 4-hydroxyifosfamide. This metabolite than rapidly degrades to the stable urinary metabolite 4-ketoifosfamide. The stable urinary metabolite, 4-carboxyifosfamide, is formed upon opening of the ring. These urinary metabolites have not been found to be cytotoxic. N, N-bis (2-chloroethyl)-phosphoric acid diamide (ifosphoramide) and acrolein are also found. The major urinary metabolites, dechloroethyl ifosfamide and dechloroethyl cyclophosphamide, are formed upon enzymatic oxidation of the chloroethyl side chains and subsequent dealkylation. It is the alkylated metabolites of ifosfamide that have been shown to interact with DNA. Ifosfamide is cycle-phase nonspecific.",
+    "mechanism-of-action": "The exact mechanism of ifosfamide has not been determined, but appears to be similar to other alkylating agents. Ifosfamide requires biotransformation in the liver by mixed-function  oxidases (cytochrome P450 system) before it becomes active. After metabolic activation, active metabolites of ifosfamide alkylate or bind with many intracellular molecular structures, including nucleic acids. The cytotoxic action is primarily through the alkylation of DNA, done by attaching the N-7 position of guanine to its reactive electrophilic groups. The formation of inter and intra strand cross-links in the DNA results in cell death.",
+    "absorption": null,
+    "metabolism": "Primarily hepatic. Ifosfamide is metabolized through two metabolic pathways: ring oxidation (\"activation\") to form the active metabolite, 4-hydroxy-ifosfamide and side-chain oxidation to form the inactive metabolites, 3-dechloro-ethylifosfamide or 2-dechloroethylifosfamide with liberation of the toxic metabolite, chloroacetaldehyde.  Small quantities (nmol/mL) of ifosfamide mustard and 4-hydroxyifosfamide are detectable in human plasma. Metabolism of ifosfamide is required for the generation of the biologically active species and while metabolism is extensive, it is also quite variable among patients.",
+    "toxicity": "LD<sub>50</sub> (mouse) = 390-1005 mg/kg, LD<sub>50</sub> (rat) = 150-190 mg/kg. Side effects include nausea, vomiting and myelosuppression. Toxic effects include central nervous system toxicity (confusion, hallucinations) and urotoxic effects (cystitis, blood in urine).",
+    "targets": [
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

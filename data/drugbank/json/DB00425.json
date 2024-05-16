@@ -1,0 +1,79 @@
+{
+    "pharmgkb_id": "PA451976",
+    "drugbank_id": "DB00425",
+    "names": [
+        "Zolpidem",
+        "Adormix",
+        "Bikalm",
+        "Dormizol",
+        "Hypnogen",
+        "Ivedal",
+        "Nasen",
+        "Nimadorm",
+        "Nottem",
+        "Stilnoct",
+        "Stilnox",
+        "Stilnox CR",
+        "Zolsana",
+        "Zoltis"
+    ],
+    "description": "Zolpidem, also known as _Ambien_, is a hypnotic drug that was initially approved by the FDA in 1992 [FDA label].  Zolpidem improves sleep in patients with insomnia. It is aimed for use in patients with difficulties initiating sleep. This drug decreases the time to fall asleep (sleep latency), increases the duration of sleep, and decreases the number of awakenings during sleep in patients with temporary (transient) insomnia.  It is available in both immediate acting and extended release forms [FDA label], [F3802]. \r\n\r\nIts tolerability profile is favorable when administered according to the manufacturer\u2019s instructions, with a low risk of drug withdrawal, drug dependence, and drug tolerance [A175426]. In addition, zolpidem improves sleep quality in patients suffering from chronic insomnia and can show mild muscle relaxant properties [L5584]. Research also shows that zolpidem is rapid and effective in restoring brain function for patients in a vegetative state following brain injury. This drug has the propensity to completely or partially reverse the abnormal metabolism of damaged brain cells after injury [L5584], [A175444].",
+    "indication": "This drug is indicated for the short-term treatment of insomnia in adults characterized by difficulties with sleep initiation [FDA label]. ",
+    "pharmacodynamics": "**Effects on the central nervous system (CNS)**\r\n\r\nThis drug has CNS depressant effects, which may include somnolence, decreased alertness, sedation, drowsiness, dizziness,  and other changes in psychomotor function [FDA label].  Due to the above effects, the FDA has recommended an initial dose of zolpidem (immediate-acting) is a single dose of 5 mg for women and a single dose of 5 or 10 mg for men, immediately before bedtime with at least 7-8 hours remaining before the planned time of awakening [L5581]. Refer to product labeling for detailed information [F3802], [FDA label]. \r\n\r\n**Effects on memory**\r\n\r\nControlled studies in adults using objective measures of memory demonstrated no significant evidence of next-day memory impairment after the administration of zolpidem. On the contrary, in a clinical study involving the administration of zolpidem doses of 10 and 20 mg, a  marked reduction in a next-morning recall of information relayed to subjects during peak drug effect (90 minutes after dosing) was observed. These subjects experienced a condition known as _anterograde amnesia_. Subjective evidence from adverse event data has suggested that anterograde amnesia may occur after zolpidem administration, mainly at doses above 10 mg [FDA label].\r\n\r\n**Effects on psychomotor function**\r\n\r\nThis drug may cause decreased psychomotor performance. Additive psychomotor effects may occur with other drugs that cause depression of psychomotor function, including alcohol [FDA label]. Patients taking zolpidem should be cautioned against participating in hazardous activities or occupations requiring complete mental alertness or motor coordination, including operating machinery or driving a motor vehicle after ingesting the drug. Potential impairment of the performance of the above types of activities may also occur the day after zolpidem ingestion, especially at higher doses and ingestion of the extended-release form [FDA label], [F3802]. \r\n\r\n**Effects on insomnia and sleep stages**\r\n\r\nEvidence suggests that this drug is associated with minimal rebound insomnia. During clinical trials with patients using zolpidem on an \u2018as-needed\u2019 basis, zolpidem use resulted in global improvements in sleep [A175426]. Zolpidem has been demonstrated to decrease sleep latency (the time it takes to fall asleep) for up to 35 days in controlled clinical studies [FDA label]. In studies measuring the percentage of sleep time spent in each sleep stage, zolpidem has primarily been shown to preserve sleep stages. Sleep time spent in stages 3 and 4 (deep sleep) was measured as similar to placebo with only minor and inconsistent changes in REM (paradoxical) sleep at the recommended dose [FDA label].\r\n\r\n**Next-day residual effects**\r\n\r\n In 2013, the FDA issued a statement warning that patients who take zolpidem extended-release (Ambien CR)\u2015either 6.25 mg or 12.5 mg\u2015should not drive or participate in other activities requiring full mental alertness the day after taking the drug, due to the fact that zolpidem concentrations can remain increased the next day, and impair the ability to perform these activities [L5581], [F3802].  Patients may decrease their risk of next-morning impairment by taking the lowest dose of their insomnia medicine that treats their symptoms, according to the FDA [L5590]. Specific dosing recommendations for both men and women are included in this statement [L5581]. This information is also available on product labeling [F3802], [FDA label]. \r\n\r\n**Rebound effects**\r\n\r\n There was no polysomnographic (objective) evidence of rebound insomnia at normal doses,  in studies evaluating sleep on the nights following discontinuation of zolpidem tartrate. Subjective evidence of impaired sleep in the elderly on the first post-treatment night was observed at doses higher than the recommended 5mg dose for elderly patients [FDA label]. ",
+    "mechanism-of-action": "\r\nZolpidem, the active moiety of zolpidem tartrate, is a hypnotic substance with a chemical structure that is not related to the structure benzodiazepines, barbiturates, pyrrolopyrazines, pyrazolopyrimidines or other drugs exerting hypnotic effects. It interacts with a _GABA-BZ_ receptor complex and shares various pharmacological properties with the _benzodiazepine_ class of drugs [FDA label].\r\n\r\nSubunit binding of the _GABAA_ receptor chloride channel macromolecular complex is thought to lead to the sedative, anticonvulsant, anxiolytic, and myorelaxant drug effects of zolpidem. The main regulatory site of the GABAA receptor complex can be found on its _alpha (\u03b1) subunit_ and is called the _benzodiazepine_ (BZ) or _omega (\u03c9)_ receptor. At least three different subtypes of the (\u03c9) receptor have been identified to this date [FDA label].\r\n\r\nIn contrast to benzodiazepine drugs, which are found to modulate all benzodiazepine receptor subtypes in a non-selective fashion, zolpidem binds the (BZ1) receptor specifically with a potent affinity for the alpha 1/alpha 5 subunits (in vitro) [FDA label].   More recent studies suggest that zolpidem binds primarily to the alpha 1, 2, and 3 subunits of the GABA receptor [A173896], [A10523], [A175567], and not the alpha 5 subunit. \r\n\r\nThe (_BZ1_) receptor is found primarily on the Lamina IV of the brain sensorimotor cortical regions, substantia nigra (pars reticulata), cerebellum molecular layer, olfactory bulb, ventral thalamic complex, pons, inferior colliculus, and globus pallidus. Specific and selective binding of zolpidem on the (BZ1) receptor is not considered absolute, however, this binding could potentially explain the relative lack of myorelaxant and anticonvulsant activity in animal studies in addition to the preservation of deep sleep (stages 3 and 4) in human studies of zolpidem at hypnotic doses [FDA label]. ",
+    "absorption": "Zolpidem is rapidly absorbed from the gastrointestinal tract. In a single-dose crossover study in 45 healthy subjects given 5 and 10 mg zolpidem tartrate tablets, the average peak zolpidem concentrations (Cmax) were 59 and 121 ng/mL, respectively, occurring at a mean time (Tmax) of 1.6 hours for both doses [FDA label]. ",
+    "metabolism": "\r\nZolpidem is metabolized to three pharmacologically by various hepatic cytochrome P450 (CYP) isoenzymes, mainly CYP3A4, but also CYP1A2 and CYP2C9 [A175429], [A175447].\r\nAlthough zolpidem is heavily metabolized, all three metabolites are inactive [A175426]. \r\n\r\nThe major metabolic routes in humans are oxidation of the methyl group on the phenyl ring or the methyl group on the imidazopyridine moiety, to produce carboxylic acids (metabolites I and II), and hydroxylation of one of the imidazopyridine groups (to produce metabolite X). Another less common pathway is by the oxidation of the methyl groups on the substituted amide [A175429]. ",
+    "toxicity": "Oral (male rat) LD<sub>50</sub> = 695 mg/kg [MSDS]. \r\n\r\n**Overdose**\r\n\r\nSymptoms of overdose include impairment of consciousness ranging from somnolence to light coma, in addition to cardiorespiratory collapse resulting in fatal outcomes have been reported [FDA label].\r\n\r\n**Withdrawal effects**\r\n\r\nFollowing rapid decreases in dose or abrupt discontinuation of zolpidem and other sedative/hypnotics, reports of signs and symptoms similar to those associated with withdrawal from other CNS-depressant drugs have been made [FDA label]. \r\n\r\n**Carcinogenesis**\r\n\r\nZolpidem was administered to rats and mice over a span of 2 years at dietary dosages of 4, 18, and 80 mg/kg/day. In mice, these doses are considered 26 to 520 times or 2 to 35 times the maximum 10 mg human dose, respectively. In rats, these doses are 43 to 876 times or 6 to 115 times the maximum 10 mg human dose. No evidence of carcinogenicity was seen in mice. Renal liposarcomas were observed in 4/100 rats (3 males, 1 female) receiving 80 mg/kg/day, and a renal lipoma was observed in one male rat at the 18 mg/kg/day dose. Incidence rates of lipoma and liposarcoma for zolpidem were similar to those seen in historical control cases, and the tumor findings are presumed to be a spontaneous occurrence, not causally related to zolpidem [FDA label].\r\n\r\n**Mutagenesis**\r\n\r\nZolpidem did not show mutagenic activity in several tests including the Ames test, genotoxicity in mouse lymphoma cells in vitro, chromosomal aberrations in cultured human lymphocytes, abnormal DNA synthesis in rat hepatocytes in vitro, and the micronucleus test performed in mice [FDA label].\r\n\r\n**Impairment of fertility**\r\n\r\nIn a rat reproduction study, the high dose (100 mg base/kg) of zolpidem lead to irregular estrus cycles and prolonged precoital intervals, however, there was no effect on male or female fertility after daily oral doses comparable to 5 to 130 times the recommended human dose. No effects on any other fertility parameters were observed [FDA label]. \r\n\r\n**Use in pregnancy**\r\n\r\nThis drug is considered a pregnancy category C drug.  There are currently no sufficient conclusive studies completed in pregnant women to determine the safety of zolpidem use during pregnancy. Zolpidem should be used during pregnancy only if the potential benefit outweighs the potential risk to the fetus.\r\n\r\n**Use in nursing**\r\n\r\nFrom 0.004% to 0.019% of the total administered zolpidem dose is excreted into milk. The effect of zolpidem on the nursing infant is unknown at this time. Caution should be observed when zolpidem is administered to a nursing mother [FDA label].",
+    "targets": [
+        [
+            "GABRA1",
+            "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "Gamma-aminobutyric acid receptor subunit alpha-2",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "Gamma-aminobutyric acid receptor subunit alpha-3",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "Gamma-aminobutyric acid receptor subunit gamma-2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

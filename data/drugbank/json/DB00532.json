@@ -1,0 +1,89 @@
+{
+    "pharmgkb_id": "PA450373",
+    "drugbank_id": "DB00532",
+    "names": [
+        "Mephenytoin"
+    ],
+    "description": "Mephenytoin is used for the treatment of refractory partial epilepsy. Mephenytoin is a solid. This compound belongs to the phenylhydantoins. These are heterocyclic aromatic compounds containing an imiazolidinedione moiety substituted by a phenyl group. Mephenytoin is known to target sodium channel protein type 5 subunit alpha. Cytochrome P450 2C19, Cytochrome P450 2C8, Cytochrome P450 2C9, Cytochrome P450 2B6, Cytochrome P450 1A2, and Cytochrome P450 2D6 are known to metabolize mephenytoin. Mephenytoin is a hydantoin-derivative anticonvulsant used to control various partial seizures. Mephenytoin and oxazolidinedione derivatives are associated with higher incidences of blood dyscrasias compared to other anticonvulsants.",
+    "indication": "For the treatment of refractory partial epilepsy.",
+    "pharmacodynamics": "Mephenytoin is an antiepileptic drug which can be useful in the treatment of epilepsy. The primary site of action appears to be the motor cortex where spread of seizure activity is inhibited. Possibly by promoting sodium efflux from neurons, mephenytoin tends to stabilize the threshold against hyperexcitability caused by excessive stimulation or environmental changes capable of reducing membrane sodium gradient. This includes the reduction of posttetanic potentiation at synapses. Loss of posttetanic potentiation prevents cortical seizure foci from detonating adjacent cortical areas. Mephenytoin reduces the maximal activity of brain stem centers responsible for the tonic phase of tonic-clonic (grand mal) seizures.",
+    "mechanism-of-action": "The mechanism of action of mephenytoin is not definitely known, but extensive research strongly suggests that its main mechanism is to block frequency-, use- and voltage-dependent neuronal sodium channels, and therefore limit repetitive firing of action potentials.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "SERPINA7",
+            "Thyroxine-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00532",
+            "Drug Name": "Mephenytoin",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "Patients with this genotype have reduced metabolism of mephenytoin."
+        },
+        {
+            "DrugBank ID": "DB00532",
+            "Drug Name": "Mephenytoin",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs41291556",
+            "Effect Description": "Patients with this genotype have reduced metabolism of mephenytoin."
+        },
+        {
+            "DrugBank ID": "DB00532",
+            "Drug Name": "Mephenytoin",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs72558186",
+            "Effect Description": "Patients with this genotype have reduced metabolism of mephenytoin."
+        }
+    ]
+}

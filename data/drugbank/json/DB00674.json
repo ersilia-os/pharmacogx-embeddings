@@ -1,0 +1,60 @@
+{
+    "pharmgkb_id": "PA449726",
+    "drugbank_id": "DB00674",
+    "names": [
+        "Galantamine",
+        "Lycoremine",
+        "Nivalin",
+        "Reminyl"
+    ],
+    "description": "Galantamine is a tertiary alkaloid and reversible, competitive inhibitor of the acetylcholinesterase (AChE) enzyme, which is a widely studied therapeutic target used in the treatment of Alzheimer's disease.[A1018] First characterized in the early 1950s, galantamine is a tertiary alkaloid that was extracted from botanical sources, such as _Galanthus nivalis_.[A201968] Galantamine was first studied in paralytic and neuropathic conditions, such as myopathies and postpolio paralytic conditions, and for reversal of neuromuscular blockade.[A182993,A201968] Following the discovery of its AChE-inhibiting properties, the cognitive effects of galantamine were studied in a wide variety of psychiatric disorders such as mild cognitive impairment, cognitive impairment in schizophrenia and bipolar disorder, and autism; however, re-development of the drug for Alzheimer\u2019s disease did not commence until the early 1990s due to difficulties in extraction and synthesis.[A201968] Galantamine blocks the breakdown of acetylcholine in the synaptic cleft, thereby increasing acetylcholine neurotransmission. It also acts as an allosteric modulator of the nicotinic receptor, giving its dual mechanism of action clinical significance.[A182993]\r\n\r\nThe drug was approved by the FDA in 2001 for the treatment of mild to moderate dementia of the Alzheimer's type. As Alzheimer's disease is a progressive neurodegenerative disorder, galantamine is not known to alter the course of the underlying dementing process. Galantamine works to block the enzyme responsible for the breakdown of acetylcholine in the synaptic cleft, thereby enhancing cholinergic neuron function and signalling. Under this hypothesized mechanism of action, the therapeutic effects of galantamine may decrease as the disease progression advances and fewer cholinergic neurons remain functionally intact.[L13571] It is therefore not considered to be a disease-modifying drug.[A203558] Galantamine is marketed under the brand name Razadyne, and is available as oral immediate- and extended-release tablets and solution.[L13571]",
+    "indication": "Galantamine is indicated for the treatment of mild to moderate dementia of the Alzheimer\u2019s type.[L13571]",
+    "pharmacodynamics": "Galantamine is a competitive and reversible inhibitor of acetylcholinesterase that works to increase acetylcholine levels.[L13571]  Galantamine acts both centrally and peripherally to inhibit both muscle and brain acetylcholinesterase, thereby increasing cholinergic tone.[A201968] Galantamine is also a positive allosteric modulator of neuronal nicotinic acetylcholine receptors.[A1022,A201968] As dementia is a progressive neurodegenerative disease, galatamine has a negligible effect in altering the course of the underlying process of dementia [L13571] and may exert its therapeutic effectiveness for a short period of time.[A203558] However, galantamine promoted improvements in cognition, global function, activities of daily living, and behavioural symptoms in clinical studies of Alzheimer\u2019s disease.[A1018,A182993]\r\n\r\nGalantamine exhibited therapeutic efficacy in studies of vascular dementia and Alzheimer\u2019s disease with cerebrovascular disease.[A182993] In one study, galantamine reversed scopolamine-induced acute anticholinergic syndrome that was characterized by drowsiness, disorientation, and delirium.[A201968]",
+    "mechanism-of-action": "Alzheimer\u2019s disease is characterized by progressive, irreversible degeneration of acetylcholine-producing neurons, cognitive impairment, and the accumulation of neurofibrillary tangles and amyloid plaques.[A182993,A203558] The cholinergic system plays a critical role in memory, alongside other important neural functions such as attention, learning, stress response, wakefulness and sleep, and sensory information. Studies show that acetylcholine (ACh) is involved in the modulation of acquisition, encoding, consolidation, reconsolidation, extinction, and retrieval of memory. The gradual loss of cholinergic neurons in Alzheimer\u2019s disease (AD) may, therefore, contribute to the memory loss exhibited by AD patients.[A203558] \r\n\r\nAcetylcholinesterase is secreted by cholinergic neurons to rapidly hydrolyze ACh at the synaptic cleft to release acetate and choline. Choline is later recycled back into the presynaptic cholinergic neuron via reuptake by the high-affinity choline transporter. There is some evidence demonstrating the potential involvement of the acetylcholinesterase enzyme in the formation of amyloid fibrils.[A203558] Galantamine competitively and reversibly inhibits the anticholinesterase enzyme in the CNS (namely in the frontal cortex and hippocampal regions) [A1022] by binding to the choline-binding site and acyl-binding pocket of the enzyme active site.[A1019] By blocking the breakdown of ACh, galantamine enhances ACh levels in the synaptic cleft.[A203558] \r\n\r\nNicotinic acetylcholine receptors (nAChR) in the CNS are mostly expressed at the presynaptic neuronal membrane to control the release of multiple neurotransmitters, such as ACh, glutamate, GABA, dopamine, serotonin, norepinephrine.[A182993,A203558] Agonists of nAChRs improve performance in cognitive tasks, while antagonists of nAChR impair cognitive processes.[A203558] Some studies show a decrease in the expression and activity of nAChRs in patients with AD, which may explain the reduction in central cholinergic neurotransmission in these patients.[A1022] Galantamine binds to nAChRs at the allosteric site,[A182993,A203591] leading to a conformational change of the receptor, increased ACh release, and increased activity of neighbouring glutaminergic and serotoninergic neurons.[A182993] The modulation of nAChRs facilitates both excitatory and inhibitory cholinergic transmissions in brain tissues and increases receptor sensitivity. The modulated release of other neurotransmitters by galantamine may also contribute to the upregulation of nAChRs and amelioration of behavioural symptoms in AD.[A182993]",
+    "absorption": "Over a dose range of 8-32 mg/day, galantamine exhibits a dose-linear pharmacokinetic profile. The oral bioavailability of galantamine ranges from 90-100%. Following oral administration, the Tmax is about 1 hour.[L13571] Following 10 hours of administration, the mean galantamine plasma concentrations were 82\u201397 \u00b5g/L for the 24 mg/day dose and 114\u2013126 \u00b5g/L for the 32 mg/day dose.[A182993]",
+    "metabolism": "_In vitro_ study findings suggest that about 75% of the drug is metabolized by CYP2D6 and CYP3A4. CYP2D6 promotes O-demethylation of the drug to form O-desmethyl-galantamine and the CYP3A4-mediated pathway forms the galantamine-N-oxide.[A182993] Important metabolic pathways also include N-demethylation, epimerization, and sulfate conjugation.[A203444] Other metabolites include norgalantamine, O-desmethyl-galantamine, O-desmethyl-norgalantamine, epigalantamine and galantaminone, which do not retain clinically significant pharmacology activities.[A1022] \r\n\r\nGalantamine can also undergo glucuronidation: in one oral radiolabeled drug study in poor and extensive CYP2D6 metabolizers, about 14-24% of the total radioactivity was identified as galantamine glucuronide 8 hours post-dose. O-demethylation by CYP2D6 becomes prominent in patients with who are extensive metabolizers of CYP2D6, but unchanged galatamine (39-77%) and its glucuronide metabolite (14-24%) predominated in the plasma of both poor and extensive metabolizers of CYP2D6 in a radiolabelled drug study.[L13571] The total plasma clearance, or nonrenal clearnace, accounts for 20\u201325% of drug elimination.[A182993]",
+    "toxicity": "The oral LD<sub>50</sub> of the active ingredient, galantamine hydrobromide, in rats is 75 mg/kg.[L13709] Symptoms of overdose are expected to be similar to those of cholinomimetics, which involve the central nervous system, the parasympathetic nervous system, and the neuromuscular junction. Effects of a cholinergic crisis include severe nausea, vomiting, gastrointestinal cramping, salivation, lacrimation, urination, defecation, sweating, bradycardia, hypotension, respiratory depression, collapse, and convulsions. Muscle weakness or fasciculations may also occur, with respiratory muscle weakness having the potential to bring fatal results. In one patient who consumed an oral daily dose of 32 mg developed bradycardia, QT prolongation, ventricular tachycardia and torsades de pointes accompanied by a brief loss of consciousness. In one patient with a history of hallucinations who consumed a daily dose of 24 mg galantamine, hallucinations requiring hospitalization occurred. A patient who ingested 160 mg of galantamine from an oral solution developed sweating, vomiting, bradycardia, and near-syncope one hour following consumption.[L13571] \r\n\r\nAs in any case of overdose, general supportive measures should be initiated. Tertiary anticholinergics such as intravenous atropine may be used to reverse the cholinergic effects of galantamine. The recommended initial dose of atropine intravenously administered for galantamine overdose ranges from 0.5 to 1.0 mg. It is not known whether galantamine can be removed by dialysis.[L13571]",
+    "targets": [
+        [
+            "ACHE",
+            "Acetylcholinesterase",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ],
+        [
+            null,
+            "Muscle nicotinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

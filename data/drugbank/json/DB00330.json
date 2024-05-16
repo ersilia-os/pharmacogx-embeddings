@@ -1,0 +1,73 @@
+{
+    "pharmgkb_id": "PA164784021",
+    "drugbank_id": "DB00330",
+    "names": [
+        "Ethambutol",
+        "Etibi",
+        "Tibutol"
+    ],
+    "description": "Ethambutol is a bacteriostatic agent indicated alongside medications such as [isoniazid], [rifampin], and [pyrazinamide] in the treatment of pulmonary tuberculosis.[L31743] Ethambutol was first described in the literature in 1961.[A229048] It was developed out of a need for therapies active against isoniazid resistant strains of _Mycobacterium tuberculosis_.[A229048]\r\n\r\nEthambutol was granted FDA approval on 6 November 1967.[L31663]",
+    "indication": "Ethambutol is indicated in combination with other anti-tuberculosis drugs in the treatment of pulmonary tuberculosis.[L31663] Ethambutol is commonly used in combination with [isoniazid], [rifampin], and [pyrazinamide].[L31743]",
+    "pharmacodynamics": "Ethambutol is indicated in combination with other anti-tuberculosis drugs in the treatment of pulmonary tuberculosis.[L31663] It has a long duration of action as it is administered daily, and a moderate therapeutic window.[L31663] Patients should be counselled regarding the risk of optic neuritis and hepatic toxicity.[L31663]",
+    "mechanism-of-action": "Ethambutol diffuses into _Mycobacterium_ cells.[L31663] Once inside the cell, ethambutol inhibits the arabinosyltransferases (embA, embB, and embC), preventing formation of the cell wall components arabinogalactan and lipoarabinomannan, and preventing cell division.[A228973,A4616,A229043,A228968] Decreased concentrations of arabinogalactan in the cell wall reduces the number of binding sites for mycolic acid, leading to the accumulation of mycolic acid, trehalose monomycolate, and trehalose dimycolate.[A229028,A4616] Lipoarabinomannan is a component of a cell surface molecule involved in the interaction with host cells.[A4616] Reduced levels of lipoarabinomannan may interfere with mycobacterial interaction with host cells.[A4616]",
+    "absorption": "Oral ethambutol is approximately 75-80% orally bioavailable.[L31663,L31748] A 25 mg/kg oral dose of ethambutol reaches a C<sub>max</sub> of 2-5 \u00b5g/mL, with a T<sub>max</sub> of 2-4 hours.[L31663,L31748] In a separate study, the AUC<sub>0-8</sub> varied from 6.3 \u00b1 5.5 h\\*mg/L to 10.8 \u00b1 7.6 h\\*mg/L depending on CYP1A2 genetic polymorphisms.[A228953]",
+    "metabolism": "Ethambutol is mainly oxidized by an aldehyde dehydrogenase to an aldehyde metabolite, followed by conversion to the dicarboxylic acid 2,2'-(ethylinediimino)di-butyric acid.[A228948,A228963,L31663]",
+    "toxicity": "Patients experiencing a chronic overdose of ethambutol may present with disturbances in colour vision and reduced visual acuity as symptoms of optic neuropathy.[A228993] In these cases, ethambutol should be stopped.[A228993] Data regarding acute overdose of ethambutol are not readily available. Patients experiencing an acute overdose of ethambutol may be experience an increased risk and severity of adverse effects such as pruritus, joint pain, gastrointestinal upset, abdominal pain, malaise, headache, dizziness, mental confusion, disorientation, and possible hallucinations.[L31663,L31748] Patients should be treated with symptomatic and supportive measures.",
+    "targets": [
+        [
+            "embC",
+            "Probable arabinosyltransferase C",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            "embB",
+            "Probable arabinosyltransferase B",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            "embA",
+            "Probable arabinosyltransferase A",
+            "Mycobacterium tuberculosis"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

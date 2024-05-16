@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA165958348",
+    "drugbank_id": "DB05039",
+    "names": [
+        "Indacaterol",
+        "Arcapta ",
+        "Hirobriz",
+        "Onbrez",
+        "Onbrize"
+    ],
+    "description": "Indacaterol is a novel, ultra-long-acting, rapid onset \u03b2(2)-adrenoceptor agonist developed for Novartis for the once-daily management of asthma and chronic obstructive pulmonary disease. It was approved by the European Medicines Agency (EMA) on 30 November 2009 and by the FDA on 1 July 2011. It is marketed in Europe as Onbrez and in America as Arcapta Neohaler. Indacaterol is provided as its maleate salt form. Indacaterol is also a chiral molecule but only the pure R-enantiomer is dispensed.",
+    "indication": "For the long term, once-daily-dosing maintenance of airflow obstruction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.\r\n",
+    "pharmacodynamics": "Bronchodilator drugs are the foundation for the treatment of chronic obstructive pulmonary disease. The principal inhaled bronchodilator treatments used are \u03b2(2) -agonists and anticholinergics, either alone or in combination. Currently available \u03b2(2) -agonists are of either short duration and used multiple times/day, or of long duration, which requires twice-daily administration. Indacaterol is considered an ultra-long-acting \u03b2(2) -agonist and was recently approved for use in the United States. Its duration of action is approximately 24 hours, allowing for once-daily administration. Furthermore, this chiral compound it is given as the R-enantiomer and acts as a full agonist. Cough was the most commonly reported adverse effect with use of indacaterol. Compared to salmeterol, it has 35% more agonist activity. Cough usually occurred within 15 seconds of inhalation of the drug, lasted around 6 seconds, was not associated with bronchospasm, and did not cause discontinuation of the drug. Otherwise, the drug's safety profile was similar to that of other bronchodilators. [PMID: 22499359]",
+    "mechanism-of-action": "Indacaterol works by stimulating adrenergic beta-2 receptors in the smooth muscle of the airways. This causes relaxation of the muscle, thereby increasing the diameter of the airways, which become constricted in asthma and COPD. It is also long acting due to its high affinity to the lipid raft domains in the airway membrane so it slowly dissociates from the receptors. Indacaterol also has a high intrinsic efficacy so it is also very rapid acting - onset of action occurs within 5 minutes. \r\n\r\nThe pharmacological effects of beta2-adrenoceptor agonist drugs, including indacaterol, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3\u2019, 5\u2019-adenosine monophosphate (cyclic monophosphate). Increased cyclic AMP levels cause relaxation of bronchial smooth muscle. In vitro studies have shown that indacaterol has more than 24-fold greater agonist activity at beta2-receptors compared to beta1-receptors and 20-fold greater agonist activity compared to beta3-receptors. This selectivity profile is similar to formoterol. The clinical significance of these findings is unknown.",
+    "absorption": "The median time to reach peak serum concentrations of indacaterol was approximately 15 minutes after single or repeated inhaled doses. Absolute bioavailability of indacaterol after an inhaled dose was on average 43-45%.",
+    "metabolism": "After oral administration of radiolabeled indacaterol, unchanged indacaterol was the main component in serum, accounting for about one third of total drug-related AUC over 24 hours. The monohydroxylated derivative, glucuronide conjugate, and the 8-O-glucuronide were the most prominent metabolites in serum. Other metabolites identified include a diastereomer of the hydroxylated derivative, a N-glucuronide of indacaterol, and C- and N-dealkylated products. \r\n\r\nIn vitro investigations indicated that UGT1A1 was the only UGT isoform that metabolized indacaterol to the phenolic O-glucuronide. CYP3A4 is the predominant isoenzyme responsible for hydroxylation of indacaterol.",
+    "toxicity": "The expected signs and symptoms associated with overdosage of indacaterol are those of excessive beta-adrenergic stimulation and occurrence or exaggeration of any of the signs and symptoms, e.g., angina, hypertension or hypotension, tachycardia, with rates up to 200 bpm, arrhythmias, nervousness, headache, tremor, dry mouth, palpitation, muscle cramps, nausea, dizziness, fatigue, malaise, hypokalemia, hyperglycemia, metabolic acidosis and insomnia. As with all inhaled sympathomimetic medications, cardiac arrest and even death may be associated with an overdose of indacaterol.\r\n",
+    "targets": [
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

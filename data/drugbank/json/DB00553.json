@@ -1,0 +1,44 @@
+{
+    "pharmgkb_id": "PA450433",
+    "drugbank_id": "DB00553",
+    "names": [
+        "Methoxsalen",
+        "Deltasoralen",
+        "Meladinine",
+        "Meloxine",
+        "Ultra Mop"
+    ],
+    "description": "A naturally occurring furocoumarin compound found in several species of plants, including Psoralea corylifolia. It is a photoactive substance that forms DNA adducts in the presence of ultraviolet A irradiation.",
+    "indication": "For the treatment of psoriasis and vitiligo",
+    "pharmacodynamics": "Methoxsalen selectively inhibits the synthesis of deoxyribonucleic acid (DNA). The guanine and cytosine content correlates with the degree of Methoxsalen-induced cross-linking. At high concentrations of the drug, cellular RNA and protein synthesis are also suppressed.",
+    "mechanism-of-action": "After activation it binds preferentially to the guanine and cytosine moieties of DNA, leading to cross-linking of DNA, thus inhibiting DNA synthesis and function.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2A13",
+            "Cytochrome P450 2A13",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

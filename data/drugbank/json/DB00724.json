@@ -1,0 +1,49 @@
+{
+    "pharmgkb_id": "PA449972",
+    "drugbank_id": "DB00724",
+    "names": [
+        "Imiquimod",
+        "Beselna",
+        "Imimore",
+        "Imiquad",
+        "Labimiq",
+        "Li Di",
+        "Miquimod",
+        "Nan Bo",
+        "Nilwart",
+        "Omiquidar",
+        "Tian Rui",
+        "Vetland",
+        "You Care",
+        "Youbiqing"
+    ],
+    "description": "Imiquimod is an immune response modifier that acts as a toll-like receptor 7 agonist. Imiquimod is commonly used topically to treat warts on the skin of the genital and anal areas. Imiquimod does not cure warts, and new warts may appear during treatment. Imiquimod does not fight the viruses that cause warts directly, however, it does help to relieve and control wart production. Miquimod is also used to treat a skin condition of the face and scalp called actinic keratoses and certain types of skin cancer called superficial basal cell carcinoma.",
+    "indication": "For the topical treatment of clinically typical, nonhyperkeratotic, nonhypertrophic actinic keratoses on the face or scalp in immunocompetent adults. Also indicated for the treatment of external genital and perianal warts/condyloma acuminata in individuals 12 years old and above.",
+    "pharmacodynamics": "Imiquimod is an immune response modifier that acts as a toll-like receptor 7 agonist. Imiquimod is commonly used topically to treat warts on the skin of the genital and anal areas. Imiquimod does not cure warts, and new warts may appear during treatment. Imiquimod does not fight the viruses that cause warts directly, however, it does help to relieve and control wart production. It is not used on warts inside the vagina, penis, or rectum. Imiquimod is also used to treat a skin condition of the face and scalp called actinic keratoses. Imiquimod can also be used to treat certain types of skin cancer called superficial basal cell carcinoma. Imiquimod is particularly useful on areas where surgery or other treatments may be difficult, complicated or otherwise undesirable, especially the face and lower legs.",
+    "mechanism-of-action": "Imiquimod's mechanism of action is via stimulation of innate and acquired immune responses, which ultimately leads to inflammatory cell infiltration within the field of drug application followed by apoptosis of diseased tissue. Imiquimod does not have direct antiviral activity. Studies of mice show that imiquimod may induce cytokines, including interferon-alpha (IFNA) as well as several IFNA genes (IFNA1, IFNA2, IFNA5, IFNA6, and IFNA8) as well as the IFNB gene. Imiquimod also induced the expression of interleukin (IL)-6, IL-8, and tumor necrosis factor alpha genes. In the treatment of basal cell carcinoma, Imiquimod appears to act as a toll-like receptor-7 agonist, and is thought to exert its anti-tumor effect via modification of the immune response and stimulation of apoptosis in BCC cells. In treating basal cell carcinoma it may increase the infiltration of lymphocytes, dendritic cells, and macrophages into the tumor lesion.",
+    "absorption": "Well absorbed through skin (as a cream)",
+    "metabolism": null,
+    "toxicity": "Symptoms of overdose include flu-like symptoms, such as fever, fatigue, headache, nausea, diarrhoea and muscle pain.",
+    "targets": [
+        [
+            "TLR7",
+            "Toll-like receptor 7",
+            "Humans"
+        ],
+        [
+            "TLR8",
+            "Toll-like receptor 8",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

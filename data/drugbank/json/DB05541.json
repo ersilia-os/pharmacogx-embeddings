@@ -1,0 +1,117 @@
+{
+    "pharmgkb_id": "PA166153491",
+    "drugbank_id": "DB05541",
+    "names": [
+        "Brivaracetam",
+        "Rikelta"
+    ],
+    "description": "Brivaracetam is a racetam derivative of levetiracetam used in the treatment of partial-onset seizures. Brivaracetam binds SV2A with 20 times higher affinity than levetiracetam [A19184]. It is available under the brand name Briviact made by UCB. Briviact received FDA approval on February 19, 2016 [L760].",
+    "indication": "Used as adjunctive therapy for partial-onset seizures in patients 16 years of age or older.",
+    "pharmacodynamics": "Brivaracetam binds SV2A with high affinity  [A19184]. SV2A is known to play a role in epileptogenesis through modulation of synaptic GABA release [A19185]. It is thought that brivaracetam exerts its anti-epileptogenic effects through its binding to SV2A. Brivaracetam is also known to inhibit Na+ channels which may also contribute to its anti-epileptogenic action [A19186].",
+    "mechanism-of-action": "The precise mechanism of brivaracetam's anti-epileptogenic activity is unknown.",
+    "absorption": "Nearly 100% oral bioavailability [A19180].",
+    "metabolism": "Primarily metabolized by hydrolysis of the acetamide moeity  to form a carboxylic acid metabolite [A19188]. Another metabolite is created via oxidation of the propyl side chain by CYP2C8 as well as CYP3A4, CYP2C19, and CYP2B6. Some conjugation with glucuronic acid and taurine account for a small amount of metabolism.",
+    "toxicity": "No carcinogenesis or fertility impairment found. Overdose is associated with somnolence and dizziness [FDA Label].",
+    "targets": [
+        [
+            "SV2A",
+            "Synaptic vesicle glycoprotein 2A",
+            "Humans"
+        ],
+        [
+            "SCN1A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN10A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN11A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN2A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN3A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN4A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN5A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN7A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN8A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN9A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN1B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN2B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN3B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN4B",
+            "Sodium channel protein",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

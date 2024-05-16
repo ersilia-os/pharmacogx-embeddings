@@ -1,0 +1,89 @@
+{
+    "pharmgkb_id": "PA10075",
+    "drugbank_id": "DB00736",
+    "names": [
+        "Esomeprazole",
+        "Alenia",
+        "Awa-Block",
+        "Axagon",
+        "Cor",
+        "Cronopep",
+        "Emanera",
+        "Emep",
+        "Emozul",
+        "ES-OD",
+        "Esmep",
+        "Eso",
+        "Esofag",
+        "Esolok",
+        "Esomarfan",
+        "Esomenta",
+        "Esomep",
+        "Esomeprazol Genfar",
+        "Esopral",
+        "Esorest",
+        "Inexium paranova",
+        "Lucen",
+        "Nexiam"
+    ],
+    "description": "Esomeprazole, sold under the brand name Nexium, is a proton pump inhibitor (PPI) medication used for the management of gastroesophageal reflux disease (GERD), for gastric protection to prevent recurrence of stomach ulcers or gastric damage from chronic use of NSAIDs, and for the treatment of pathological hypersecretory conditions including Zollinger-Ellison (ZE) Syndrome. It can also be found in quadruple regimens for the treatment of _H. pylori_ infections along with other antibiotics including [DB01060], [DB01211], and [DB00916], for example.[A177271, F4498] Its efficacy is considered similar to other medications within the PPI class including [DB00338], [DB00213], [DB00448], [DB05351], and [DB01129]. Esomeprazole is the s-isomer of [DB00338], which is a racemate of the S- and R-enantiomer. Esomeprazole has been shown to inhibit acid secretion to a similar extent as [DB00338], without any significant differences between the two compounds _in vitro_. \r\n\r\nEsomeprazole exerts its stomach acid-suppressing effects by preventing the final step in gastric acid production by covalently binding to sulfhydryl groups of cysteines found on the (H+, K+)-ATPase enzyme at the secretory surface of gastric parietal cells. This effect leads to inhibition of both basal and stimulated gastric acid secretion, irrespective of the stimulus. As the binding of esomeprazole to the (H+, K+)-ATPase enzyme is irreversible and new enzyme needs to be expressed in order to resume acid secretion, esomeprazole's duration of antisecretory effect persists longer than 24 hours.[FDA Label]\r\n\r\nPPIs such as esomeprazole have also been shown to inhibit the activity of dimethylarginine dimethylaminohydrolase (DDAH), an enzyme necessary for cardiovascular health. DDAH inhibition causes a consequent accumulation of the nitric oxide synthase inhibitor asymmetric dimethylarginie (ADMA), which is thought to cause the association of PPIs with increased risk of cardiovascular events in patients with unstable coronary syndromes.[A177577, A177580]\r\n\r\nDue to their good safety profile and as several PPIs are available over the counter without a prescription, their current use in North America is widespread. Long term use of PPIs such as esomeprazole has been associated with possible adverse effects, however, including increased susceptibility to bacterial infections (including gastrointestinal _C. difficile_), reduced absorption of micronutrients such as iron and B12, and an increased risk of developing hypomagnesemia and hypocalcemia which may contribute to osteoporosis and bone fractures later in life.[A177571]\r\n\r\nRapid discontinuation of PPIs such as esomeprazole may cause a rebound effect and a short term increase in hypersecretion.[A177574] Esomeprazole doses should be slowly lowered, or tapered, before discontinuing to prevent this rebound effect.",
+    "indication": "Esomeprazole is indicated for the treatment of acid-reflux disorders including healing and maintenance of erosive esophagitis, and symptomatic gastroesophageal reflux disease (GERD), peptic ulcer disease, H. pylori eradication, prevention of gastrointestinal bleeds with NSAID use, and for the long-term treatment of pathological hypersecretory conditions including Zollinger-Ellison Syndrome. ",
+    "pharmacodynamics": "Esomeprazole is a compound that inhibits gastric acid secretion and is indicated in the treatment of gastroesophageal reflux disease (GERD), the healing of erosive esophagitis, and <i>H. pylori</i> eradication to reduce the risk of duodenal ulcer recurrence. Esomeprazole belongs to a new class of antisecretory compounds, the substituted benzimidazoles, that do not exhibit anticholinergic or H2 histamine antagonistic properties, but that suppress gastric acid secretion by specific inhibition of the H<sup>+</sup>/K<sup>+</sup> ATPase at the secretory surface of the gastric parietal cell. By doing so, it inhibits acid secretion into the gsatric lumen. This effect is dose-related and leads to inhibition of both basal and stimulated acid secretion irrespective of the stimulus.\r\n\r\nEsomeprazole is the s-isomer of [DB00338], which is a racemate of the S- and R-enantiomer. Esomeprazole has been shown to inhibit acid secretion to a similar extent as [DB00338], without any significant differences between the two compounds _in vitro_. \r\n\r\nPPIs such as esomeprazole have also been shown to inhibit the activity of dimethylarginine dimethylaminohydrolase (DDAH), an enzyme necessary for cardiovascular health. DDAH inhibition causes a consequent accumulation of the nitric oxide synthase inhibitor asymmetric dimethylarginie (ADMA), which is thought to cause the association of PPIs with increased risk of cardiovascular events in patients with unstable coronary syndromes.[A177577, A177580]\r\n\r\nDue to their good safety profile and as several PPIs are available over the counter without a prescription, their current use in North America is widespread. Long term use of PPIs such as esomeprazole has been associated with possible adverse effects, however, including increased susceptibility to bacterial infections (including gastrointestinal _C. difficile_), reduced absorption of micronutrients including iron and B12, and an increased risk of developing hypomagnesemia and hypocalcemia which may contribute to osteoporosis and bone fractures later in life.[A177571]",
+    "mechanism-of-action": "Esomeprazole exerts its stomach acid-suppressing effects by preventing the final step in gastric acid production by covalently binding to sulfhydryl groups of cysteines found on the (H+, K+)-ATPase enzyme at the secretory surface of gastric parietal cells. This effect leads to inhibition of both basal and stimulated gastric acid secretion, irrespective of the stimulus. As the binding of esomeprazole to the (H+, K+)-ATPase enzyme is irreversible and new enzyme needs to be expressed in order to resume acid secretion, esomeprazole's duration of antisecretory effect that persists longer than 24 hours.[FDA Label]\r\n",
+    "absorption": "After oral administration, peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax). The Cmax increases proportionally when the dose is increased, and there is a three-fold increase in the area under the plasma concentration-time curve (AUC) from 20 to 40 mg. At repeated once-daily dosing with 40 mg, the systemic bioavailability is approximately 90% compared to 64% after a single dose of 40 mg. The mean exposure (AUC) to esomeprazole increases from 4.32 \u03bcmol*hr/L on Day 1 to 11.2 \u03bcmol*hr/L on Day 5 after 40 mg once daily dosing. The AUC after administration of a single 40 mg dose of Esomeprazole is decreased by 43% to 53% after food intake compared to fasting conditions. Esomeprazole should be taken at least one hour before meals.[FDA Label]\r\n\r\n_Combination Therapy with Antimicrobials:_\r\n\r\nEsomeprazole magnesium 40 mg once daily was given in combination with [DB01211] 500 mg twice daily and [DB01060] 1000 mg twice daily for 7 days to 17 healthy male and female subjects. The mean steady state AUC and Cmax of esomeprazole increased by 70% and 18%, respectively during triple combination therapy compared to treatment with esomeprazole alone. The observed increase in esomeprazole exposure during co-administration with clarithromycin and amoxicillin is not expected to produce significant safety concerns.",
+    "metabolism": "Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP) enzyme system. The metabolites of esomeprazole lack antisecretory activity. The major part of esomeprazole\u2019s metabolism is dependent upon the CYP2C19 isoenzyme, which forms the hydroxy and desmethyl metabolites. The remaining amount is dependent on CYP3A4 which forms the sulphone metabolite. CYP2C19 isoenzyme exhibits polymorphism in the metabolism of esomeprazole, since some 3% of Caucasians and 15 to 20% of Asians lack CYP2C19 and are termed Poor Metabolizers.[FDA Label] However, the influence of CYP 2C19 polymorphism is less pronounced for esomeprazole than for omeprazole.[F4495] At steady state, the ratio of AUC in Poor Metabolizers to AUC in the rest of the population (Extensive Metabolizers) is approximately 2.\r\n\r\nFollowing administration of equimolar doses, the S- and R-isomers are metabolized differently by the liver, resulting in higher plasma levels of the S- than of the R-isomer.[FDA Label]\r\n\r\nNine major urinary metabolites have been detected. The two main metabolites have been identified as hydroxyesomeprazole and the corresponding carboxylic acid. Three major metabolites have been identified in plasma: the 5-O-desmethyl- and sulphone derivatives and hydroxyesomeprazole. The major metabolites of esomeprazole have no effect on gastric acid secretion.[F4495]",
+    "toxicity": "Blurred vision, confusion, drowsiness, dry mouth, flushing headache, nausea, rapid heartbeat, sweating",
+    "targets": [
+        [
+            "ATP4A",
+            "Potassium-transporting ATPase alpha chain 1",
+            "Humans"
+        ],
+        [
+            "DDAH1",
+            "N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00736",
+            "Drug Name": "Esomeprazole",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "Patients with this genotype have reduced metabolism of esomeprazole."
+        },
+        {
+            "DrugBank ID": "DB00736",
+            "Drug Name": "Esomeprazole",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "Patients with this genotype have reduced metabolism of esomeprazole."
+        }
+    ]
+}

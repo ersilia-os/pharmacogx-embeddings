@@ -1,0 +1,420 @@
+{
+    "pharmgkb_id": "PA448385",
+    "drugbank_id": "DB00321",
+    "names": [
+        "Amitriptyline",
+        "Adepril",
+        "Amitryp",
+        "Conmitrip",
+        "Endep",
+        "Fiorda",
+        "Kamitrin",
+        "Laroxyl",
+        "Latilin",
+        "Maxitrip",
+        "Redomex",
+        "Saroten",
+        "Sarotex",
+        "Sarotex Retard",
+        "Syneudon",
+        "Tryptanol",
+        "Tryptizol",
+        "Uxen Retard"
+    ],
+    "description": "Amitriptyline is a tricyclic antidepressant that has been used to treat depression for decades. ELAVIL, a previously approved branded product of amitriptyline, was first approved by the FDA in 1961.[A259342] Amitriptyline has been investigated in the treatment of pain-related conditions, attributed to its analgesic properties.[A174661]",
+    "indication": "This drug in indicated for the following conditions [FDA label]:\r\n\r\nMajor depressive disorder in adults [L46357]\r\n\r\nManagement of neuropathic pain in adults\r\n\r\nProphylactic treatment of chronic tension-type headache (CTTH) in adults\r\n\r\nProphylactic treatment of migraine in adults\r\n\r\nTreatment of nocturnal enuresis in children aged 6 years and above when organic pathology, including spina bifida and related disorders, have been excluded and no response has been achieved to all other non-drug and drug treatments, including antispasmodics and vasopressin-related products. This product should only be prescribed by a healthcare professional with expertise in the management of persistent enuresis [FDA label]\r\n\r\nOff-label uses: irritable bowel syndrome, sleep disorders, diabetic neuropathy, agitation, fibromyalgia, and insomnia ",
+    "pharmacodynamics": "**Effects in pain and depression**\r\n\r\nAmitriptyline is a tricyclic antidepressant and an analgesic. It has anticholinergic and sedative properties [FDA label]. \r\nClinical studies have shown that oral amitriptyline achieves, at a minimum, good to moderate response in up to 2/3 of patients diagnosed with post-herpetic neuralgia and 3/4 of patients diagnosed with diabetic neuropathic pain, and neurogenic pain syndromes that are frequently unresponsive to narcotic analgesics. Amitriptyline has also shown efficacy in diverse groups of patients with chronic non-malignant pain. There have also been some studies showing efficacy in managing fibromyalgia (an off-label use of this drug) [A174658], [A174667].\r\n\r\n**Cardiovascular and Anticholinergic Effects**\r\n\r\nAmitriptyline has strong anticholinergic properties and may cause ECG changes and quinidine-like effects on the heart [F3454]. Amitriptyline may inhibit ion channels, which are necessary for cardiac repolarization (hERG channels), in the upper micromolar range of therapeutic plasma concentrations. Therefore, amitriptyline may increase the risk for cardiac arrhythmia [FDA label]. Orthostatic hypotension and tachycardia can be a problem in elderly patients receiving this drug at normal doses for depression. There is evidence in the literature that these effects may occur, rarely, at the lower dosages utilized in the treatment of pain. As with any other tricyclic antidepressant agent, increased glucose levels can occur with amitriptyline [A174661]. \r\n\r\n**Effects on seizure threshold**\r\n\r\nThis drug also decreases the convulsive threshold and causes alterations in EEG and sleep patterns [F3454].  ",
+    "mechanism-of-action": "The mechanism of action of this drug is not fully elucidated. It is suggested that amitriptyline inhibits the membrane pump mechanism responsible for the re-uptake of transmitter amines, such as norepinephrine and serotonin, thereby increasing their concentration at the synaptic clefts of the brain [FDA label], [A174673].   These amines are important in regulating mood.  The monoamine hypothesis in depression, one of the oldest hypotheses, postulates that deficiencies of serotonin (5-HT) and/or norepinephrine (NE) neurotransmission in the brain lead to depressive effects [A174670].   This drug counteracts these mechanisms, and this may be the mechanism of amitriptyline in improving depressive symptoms.\r\n\r\nWhether its analgesic effects are related to its mood-altering activities or attributable to a different, less obvious pharmacological action (or a combination of both) is unknown [A174661].",
+    "absorption": "Rapidly absorbed following oral administration (bioavailability is 30-60% due to first pass metabolism). Peak plasma concentrations are reached 2-12 hours after oral or intramuscular administration [FDA label].  Steady-state plasma concentrations vary greatly and this variation may be due to genetic differences [F3454]. ",
+    "metabolism": "In vitro, the metabolism of amitriptyline occurs mainly by demethylation (CYP2C19, CYP3A4) as well as hydroxylation (CYP2D6) followed by conjugation with glucuronic acid. Other isozymes involved in amitriptyline metabolism are CYP1A2 and CYP2C9. The metabolism of this drug is subject to genetic polymorphisms. The main active metabolite is the secondary amine, _nortriptyline_ [FDA label].\r\n\r\nNortriptyline is a stronger inhibitor of noradrenaline than of serotonin uptake, while amitriptyline inhibits the uptake of noradrenaline and serotonin with equal efficacy. Other metabolites such as _cis-_ and _trans-10-hydroxyamitriptyline_ and _cis-_ and _trans-10-hydroxynortriptyline_ have the same pharmacologic profile as nortriptyline but are significantly weaker. _Demethylnortriptyline_ and amitriptyline N oxide are only present in plasma in negligible amounts; the latter is mostly inactive [FDA label]. ",
+    "toxicity": "**Toxicity Data**: Oral TDLO (child): 4167 \u03bcg/kg; Oral TDLO (man): 714 \u03bcg/kg/1D (intermittent); Oral TDLO (woman): 10 mg/kg [F3454]. \r\n\r\nIngestion of 750 mg or more by an adult may result in severe toxicity. The effects in overdose are further increased by simultaneous ingestion of alcohol and another psychotropic agent [FDA label]. Symptoms of overdose include abnormally low blood pressure, confusion, convulsions, dilated pupils and other eye problems, disturbed concentration, drowsiness, hallucinations, impaired heart function, rapid or irregular heartbeat, reduced body temperature, stupor, and unresponsiveness or coma, among others [FDA label], [F3454]. \r\n\r\n**Use in pregnancy**\r\n\r\nFor amitriptyline, only limited clinical data are available regarding its use in pregnancy.\r\nAmitriptyline is not recommended during pregnancy unless clearly required and only after careful consideration of both risks and benefits [FDA label].\r\n\r\n**Use in breastfeeding**\r\n\r\nAmitriptyline and its metabolites are excreted into breast milk (corresponding to 0.6 % - 1 % of the maternal dose). A risk to the suckling child must be considered. A decision should be made as to whether it is appropriate to discontinue breastfeeding or to discontinue/abstain from the therapy of this medicinal product, considering the benefit of breastfeeding for the child and the benefit of therapy for the woman.\r\n\r\n**Effects on fertility**\r\n\r\nAnimal studies have shown reproductive toxicity. No data on the effects of amitriptyline on human fertility are available [FDA label].\r\n\r\n\r\n**Mutagenesis and carcinogenesis**\r\n\r\nThe genotoxic potential of amitriptyline has been investigated in various in vitro and in vivo studies. Although these investigations showed\r\nsome contradictory results, a potential of amitriptyline to lead to chromosome abnormalities cannot be excluded. Long-term carcinogenicity studies have not been performed to this date [FDA label]. ",
+    "targets": [
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "NTRK1",
+            "High affinity nerve growth factor receptor",
+            "Humans"
+        ],
+        [
+            "NTRK2",
+            "BDNF/NT-3 growth factors receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "KCNQ2",
+            "Potassium voltage-gated channel subfamily KQT member 2",
+            "Humans"
+        ],
+        [
+            "KCNA1",
+            "Potassium voltage-gated channel subfamily A member 1",
+            "Humans"
+        ],
+        [
+            "HRH2",
+            "Histamine H2 receptor",
+            "Humans"
+        ],
+        [
+            "HRH4",
+            "Histamine H4 receptor",
+            "Humans"
+        ],
+        [
+            "SIGMAR1",
+            "Sigma non-opioid intracellular receptor 1",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1D",
+            "Humans"
+        ],
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1B",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "5-hydroxytryptamine receptor 6",
+            "Humans"
+        ],
+        [
+            "KCNQ3",
+            "Potassium voltage-gated channel subfamily KQT member 3",
+            "Humans"
+        ],
+        [
+            "Htr2c",
+            "5-hydroxytryptamine receptor 1C",
+            "Rat"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "HERG human cardiac K+ channel",
+            "Humans"
+        ],
+        [
+            "KCNH6",
+            "HERG human cardiac K+ channel",
+            "Humans"
+        ],
+        [
+            "KCNH7",
+            "HERG human cardiac K+ channel",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "UGT2B10",
+            "UDP-glucuronosyltransferase 2B10",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferase 1-4",
+            "Humans"
+        ],
+        [
+            "GSTA1",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTA2",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTM1",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTM2",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTM3",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTM4",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTM5",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTP1",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTT1",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTT2",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTT2B",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "HPGDS",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "Patients with this genotype have reduced metabolism of amitriptyline."
+        },
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "ABCB1",
+            "RS ID (Genotype)": "rs2032583",
+            "Effect Description": "Patients with this genotype have an increased likelihood of remission when using amitriptyline to treat major depressive disorder"
+        },
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "Patients with this genotype have reduced metabolism of amitriptyline."
+        },
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "ABCB1",
+            "RS ID (Genotype)": "rs2032583",
+            "Effect Description": "Patients with this genotype have increased risk of adverse events with amitriptyline"
+        },
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs35742686",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of amitriptyline."
+        },
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of amitriptyline."
+        },
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of amitriptyline."
+        },
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of amitriptyline."
+        },
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with poor metabolism of amitriptyline."
+        },
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with reduced or poor metabolism of amitriptyline."
+        },
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1135824",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of amitriptyline."
+        },
+        {
+            "DrugBank ID": "DB00321",
+            "Drug Name": "Amitriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs28371733",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of amitriptyline."
+        }
+    ]
+}

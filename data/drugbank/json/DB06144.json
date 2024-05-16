@@ -1,0 +1,73 @@
+{
+    "pharmgkb_id": "PA164784002",
+    "drugbank_id": "DB06144",
+    "names": [
+        "Sertindole",
+        "Serdolect",
+        "SerLect"
+    ],
+    "description": "Sertindole, a neuroleptic, is one of the newer antipsychotic medications available. Serdolect is developed by the Danish pharmaceutical company H. Lundbeck. It is a phenylindole derivative used in the treatment of schizophrenia. It was first marketed in 1996 in several European countries before being withdrawn two years later because of numerous cardiac adverse effects. It has once again been approved and should soon be available on the French and Australian market.",
+    "indication": "Used in the treatment of schizophrenia.",
+    "pharmacodynamics": "Sertindole is an atypical antipsychotic at least as effective as haloperidol and risperidone in the treatment of neuroleptic-responsive schizophrenia. Sertindole improves negative symptoms, and is also effective for the treatment of neuroleptic-resistant schizophrenia. Sertindole is generally well tolerated and is associated with a low rate of extrapyramidal symptoms (EPS).",
+    "mechanism-of-action": "Sertindole is an antipsychotic drug with affinity for dopamine D2, serotonin 5-HT2A and 5-HT2C, and alpha1-adrenoreceptors. Preclinical studies suggest that sertindole acts preferentially on limbic and cortical dopaminergic neurons and clinical trials have confirmed that sertindole is effective at a low dopamine D2 occupancy level. ",
+    "absorption": "Orally available.",
+    "metabolism": "Hepatic. Sertindole is metabolized by cytochrome P450 isoenzymes CYP 2D6 and CYP 3A4.",
+    "toxicity": null,
+    "targets": [
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "5-hydroxytryptamine receptor 6",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

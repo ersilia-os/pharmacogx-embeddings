@@ -1,0 +1,198 @@
+{
+    "pharmgkb_id": "PA451974",
+    "drugbank_id": "DB00246",
+    "names": [
+        "Ziprasidone"
+    ],
+    "description": "Disorders such as schizophrenia and bipolar disorder can significantly impair mood, cognition, and behavior.[A190525] These mental illnesses can often be accompanied by comorbidities such as depression and substance abuse, and can significantly impact the quality of life of patients and caregivers.[A190525] Luckily, several treatment options for psychotic disorders have been introduced to market since the realization of chlorpromazine's antipsychotic properties in 1952.[A190525] \r\n\r\nSecond generation antipsychotics (commonly referred to as atypical antipsychotics) include [clozapine], [quetiapine], [olanzapine], [aripiprazole] and [ziprasidone] among others, and are generally thought to be as efficacious as first generation antipsychotics but differ in their adverse effect profiles.[A190525,A190534] First generation antipsychotics are associated with extrapyramidal adverse effects while atypical antipsychotics are linked to weight gain, impaired glucose tolerance and metabolic syndrome.[A190534,A190537] \r\n\r\nZiprasidone is used to treat schizophrenia and bipolar disorder.[A180748] It can effectively reduce the rate and time of relapses in schizophrenia, and can be used to treat manic episodes in bipolar disorder although the mechanism of action is unknown.[A180748] Although ziprasidone is classified as an atypical antipsychotic, it appears to have a lower incidence of metabolic adverse effects compared to other medications in the same class.[A190525]",
+    "indication": "In its oral form, ziprasidone is approved for the treatment of schizophrenia, as monotherapy for acute treatment of manic or mixed episodes related to bipolar I disorder, and as adjunctive therapy to lithium or valproate for maintenance treatment of bipolar I disorder.[L7342] The injectable formulation is approved only for treatment of acute agitation in schizophrenia.[L7342]",
+    "pharmacodynamics": "Ziprasidone is classified as a \"second generation\" or \"atypical\" antipsychotic and is a dopamine and 5HT2A receptor antagonist with a unique receptor binding profile.  As previously mentioned, ziprasidone has a very high 5-HT2A/D2 affinity ratio, binds to multiple serotonin receptors in addition to 5-HT2A, and blocks monoamine transporters which prevents 5HT and NE reuptake.  On the other hand, ziprasidone has a low affinity for muscarinic cholinergic M1, histamine H1, and alpha1-adrenergic receptors.[A174562]",
+    "mechanism-of-action": "The effects of ziprasidone are differentiated from other antispychotics based on its preference and affinity for certain receptors. Ziprasidone binds to serotonin-2A (5-HT2A) and dopamine D2 receptors in a similar fashion to other atypical antipsychotics; however, one key difference is that ziprasidone has a higher 5-HT2A/D2 receptor affinity ratio when compared to other antipsychotics such as olanzapine, quetiapine, risperidone, and aripiprazole.[A363]  Ziprasidone offers enhanced modulation of mood, notable negative symptom relief, overall cognitive improvement and reduced motor dysfunction which is linked to it's potent interaction with 5-HT2C, 5-HT1D, and 5-HT1A receptors in brain tissue.[A363] Ziprasidone can bind moderately to norepinephrine and serotonin reuptake sites which may contribute to its antidepressant and anxiolytic activity.[A363] Patient's taking ziprasidone will likely experience a lower incidence of orthostatic hypotension, cognitive disturbance, sedation, weight gain, and disruption in prolactin levels since ziprasidone has a lower affinity for histamine H1, muscarinic M1, and alpha1-adrenoceptors.[A363]  ",
+    "absorption": "In the absence of food, ziprasidone's oral bioavailability is 60%, and absorption may reach 100% if ziprasidone is taken with a meal containing at least 500 kcal. The difference in bioavailability has little to do with the fat content of the food and appears to be related to the bulk of the meal since more absorption occurs the longer ziprasidone remains in the stomach.[A174562]",
+    "metabolism": "Ziprasidone is heavily metabolized in the liver with less than 5% of the drug excreted unchanged in the urine.[A174277] The primary reductive pathway is catalyzed by aldehyde oxidase, while 2 other less prominent oxidative pathways are catalyzed by CYP3A4.[A174277] Ziprasidone is unlikely to interact with other medications metabolized by CYP3A4 since only 1/3 of the antipsychotic is metabolized by the CYP3A4 system.[A174277] \r\n\r\nThere are 12 identified ziprasidone metabolites (abbreviations italicized): Ziprasidone sulfoxide, ziprasidone sulfone, (6-chloro-2-oxo-2,3-dihydro-1H-indol-5-yl)acetic acid (_OX-COOH_), OX-COOH glucuronide, 3-(piperazine-1-yl)-1,2-benzisothiazole (_BITP_), BITP sulfoxide, BITP sulfone, BITP sulfone lactam, S-Methyl-dihydro-ziprasidone, S-Methyl-dihydro-ziprasidone-sulfoxide, 6-chloro-5-(2-piperazin-1-yl-ethyl)-1,3-dihydro-indol-2-one (_OX-P_), and dihydro-ziprasidone-sulfone.[A190558] \r\n\r\nAs suggested by the quantity of metabolites, ziprasidone is metabolized through several different pathways. Ziprasidone is sequentially oxidized to ziprasidone sulfoxide and ziprasidone sulfone, and oxidative N-dealkylation of ziprasidone produces OX-COOH and BITP.[A190558] OX-COOH undergoes phase II metabolism to yield a glucuronidated metabolite while BITP is sequentially oxidized into BITP sulfoxide, BITP sulfone, then BITP sulfone lactam.[A190558] Ziprasidone can also undergo reductive cleavage and methylation to produce S-Methyl-dihydro-ziprasidone and then further oxidation to produce S-Methyl-dihydro-ziprasidone-sulfoxide.[A190558] Finally dearylation of ziprasidone produces OX-P, and the process of hydration and oxidation transforms the parent drug into dihydro-ziprasidone-sulfone.[A190558]\r\n\r\nAlthough CYP3A4 and aldehyde oxidase are the primary enzymes involved in ziprasidone metabolism[A174277], the pathways associated with each enzyme have not been specified.\r\n\r\n",
+    "toxicity": "The most common adverse reactions reported with ziprasidone include somnolence, respiratory tract infections, extrapyramidal symptoms, dizziness, akathisia, abnormal vision, asthenia, vomiting, headache and nausea. [L7342]",
+    "targets": [
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1D",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "DRD5",
+            "Dopamine D5 receptor",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "DRD4",
+            "Dopamine D4 receptor",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1B",
+            "Humans"
+        ],
+        [
+            "HTR1E",
+            "5-hydroxytryptamine receptor 1E",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "5-hydroxytryptamine receptor 6",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine 3 receptor",
+            "Humans"
+        ],
+        [
+            "HTR3B",
+            "5-hydroxytryptamine 3 receptor",
+            "Humans"
+        ],
+        [
+            "HTR3C",
+            "5-hydroxytryptamine 3 receptor",
+            "Humans"
+        ],
+        [
+            "HTR3D",
+            "5-hydroxytryptamine 3 receptor",
+            "Humans"
+        ],
+        [
+            "HTR3E",
+            "5-hydroxytryptamine 3 receptor",
+            "Humans"
+        ],
+        [
+            "HTR5A",
+            "5-hydroxytryptamine receptor 5A",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "AOX1",
+            "Aldehyde oxidase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

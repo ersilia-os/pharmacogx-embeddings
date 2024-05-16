@@ -1,0 +1,102 @@
+{
+    "pharmgkb_id": "PA131285527",
+    "drugbank_id": "DB00526",
+    "names": [
+        "Oxaliplatin"
+    ],
+    "description": "Oxaliplatin is a platinum-based chemotherapy drug in the same family as cisplatin and carboplatin. Compared to cisplatin the two amine groups are replaced by diamino cyclohexane (DACH) group to provide a greater antitumor effect.[A797] However, this leads to poorer water solubility, which was compensated by the addition of the chloride moieties.[A797] Due to this chemical moiety, oxaliplatin readily undergoes non-enzymatic biotransformation, thus complicating oxaliplatin's pharmacokinetics.[A260396] Like most platinum-based compounds, oxaliplatin's mechanism of action is primarily through DNA damage through DNA crosslinking, particularly intrastrand and interstrand crosslinking.[A260396] However, due to the structure of oxaliplatin, its adducts make the binding of mismatch repair protein to DNA harder compared to cisplatin or carboplatin's adducts, resulting in greater cytotoxic effects.[A260396] The DACH moiety also prevents cross-resistance with cisplatin and carboplatin.[A797]\r\n\r\nAlthough oxaliplatin has been investigated as a monotherapy, it is typically administered in combination with fluorouracil and leucovorin, known as the FOLFOX regimen, for the treatment of colorectal cancer.[A796,A797] This is an effective combination treatment both as a first-line treatment and in patients refractory to an initial fluorouracil and leucovorin combination. Ongoing trials have also shown promising results for oxaliplatin use in nonHodgkin\u2019s lymphoma, breast cancer, mesothelioma, and non-small cell lung cancer.[A797]\r\n\r\nOxaliplatin was approved by the FDA on January 9, 2004 and is currently marketed by Sanofi-Aventis under the trademark Eloxatin&reg;.[L47316]",
+    "indication": "Oxaliplatin, in combination with infusional fluorouracil and leucovorin, is indicated for the treatment of advanced colorectal cancer and adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor.[L47206]",
+    "pharmacodynamics": "In vivo studies have shown antitumor activities of oxaliplatin against colon carcinoma. In combination with fluorouracil, oxaliplatin exhibits in vitro and in vivo antiproliferative activity greater than either compound alone in several tumor models (HT29 [colon], GR [mammary], and L1210 [leukemia]).[L47206]",
+    "mechanism-of-action": "Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules. Both inter and intrastrand Pt-DNA crosslinks are formed. Crosslinks are formed between the N7 positions of two adjacent guanines (GG), adjacent adenine-guanines (AG), and guanines separated by an intervening nucleotide (GNG). These crosslinks inhibit DNA replication and transcription. Cytotoxicity is cell-cycle nonspecific.[L47206]\r\n\r\n",
+    "absorption": "The reactive oxaliplatin derivatives are present as a fraction of the unbound platinum in plasma ultrafiltrate. After a single 2-hour intravenous infusion of oxaliplatin at a dose of 85 mg/m<sup>2</sup>, pharmacokinetic parameters expressed as ultrafiltrable platinum was C<sub>max</sub> of 0.814 mcg/mL. Interpatient and intrapatient variability in ultrafiltrable platinum exposure (AUC<sub>0-48hr</sub>) assessed over 3 cycles was 23% and 6%, respectively.[L47206]",
+    "metabolism": "Oxaliplatin undergoes rapid and extensive nonenzymatic biotransformation. There is no evidence of cytochrome P450-mediated metabolism in vitro. Up to 17 platinum-containing derivatives have been observed in plasma ultrafiltrate samples from patients, including several cytotoxic species (monochloro DACH platinum, dichloro DACH platinum, and monoaquo and diaquo DACH platinum) and a number of noncytotoxic, conjugated species.[L47206] ",
+    "toxicity": "The maximum dose of oxaliplatin that has been administered in a single infusion is 825 mg. Several cases of overdoses have been reported with oxaliplatin. Adverse reactions observed following an overdosage were grade 4 thrombocytopenia (less than 25,000/mm3) without bleeding, anemia, sensory neuropathy (including paresthesia, dysesthesia, laryngospasm, and facial muscle spasms), gastrointestinal disorders (including nausea, vomiting, stomatitis, flatulence, abdomen enlarged and grade 4 intestinal obstruction), grade 4 dehydration, dyspnea, wheezing, chest pain, respiratory failure, severe bradycardia, and death. Closely monitor patients suspected of receiving an overdose, including for the adverse reactions described above, and administer appropriate supportive treatment.[L47206] \r\n\r\nBased on its direct interaction with DNA, ELOXATIN can cause fetal harm when administered to a pregnant woman. The available human data do not establish the presence or absence of major birth defects or miscarriages related to the use of oxaliplatin. Reproductive toxicity studies demonstrated adverse effects on embryo-fetal development in rats at maternal doses that were below the recommended human dose based on body surface area. Advise a pregnant woman of the potential risk to a fetus.[L47206]\r\n\r\nIn the adjuvant treatment trial, 400 patients who received oxaliplatin with fluorouracil/leucovorin were greater than or equal to 65 years. The effect of oxaliplatin in patients greater than or equal to 65 years was not conclusive. Patients greater than or equal to 65 years receiving ELOXATIN experienced more diarrhea and grade 3-4 neutropenia (45% vs 39%) compared to patients less than 65 years.[L47206]\r\n\r\nThe AUC of unbound platinum in plasma ultrafiltrate was increased in patients with renal impairment. No dose reduction is recommended for patients with mild (creatinine clearance 50 to 79 mL/min) or moderate (creatinine clearance 30 to 49 mL/min) renal impairment, calculated by Cockcroft-Gault equation. Reduce the dose of oxaliplatin in patients with severe renal impairment (creatinine clearance less than 30 mL/min).[L47206]\r\n\r\nLong-term animal studies have not been performed to evaluate the carcinogenic potential of oxaliplatin. Oxaliplatin was not mutagenic to bacteria (Ames test) but was mutagenic to mammalian cells in vitro (L5178Y mouse lymphoma assay). Oxaliplatin was clastogenic both in vitro (chromosome aberration in human lymphocytes) and in vivo (mouse bone marrow micronucleus assay).[L47206]\r\n\r\nIn a fertility study, male rats were given oxaliplatin at 0, 0.5, 1, or 2 mg/kg/day for five days every 21 days for a total of three cycles prior to mating with females that received two cycles of oxaliplatin on the same schedule. A dose of 2 mg/kg/day (less than one-seventh the recommended human dose on a body surface area basis) did not affect the pregnancy rate but resulted in 97% postimplantation loss (increased early resorptions, decreased live fetuses, decreased live births), and delayed growth (decreased fetal weight).[L47206]\r\n\r\nTesticular damage, characterized by degeneration, hypoplasia, and atrophy, was observed in dogs administered oxaliplatin at 0.75 mg/kg/day (approximately one-sixth of the recommended human dose on a body surface area basis) \u00d7 5 days every 28 days for three cycles. A no-effect level was not identified.[L47206] ",
+    "targets": null,
+    "enzymes": [
+        [
+            "GSTT1",
+            "Glutathione S-transferase theta-1",
+            "Humans"
+        ],
+        [
+            "MT1A",
+            "Metallothionein-1A",
+            "Humans"
+        ],
+        [
+            "MT2A",
+            "Metallothionein-2",
+            "Humans"
+        ],
+        [
+            "MPO",
+            "Myeloperoxidase",
+            "Humans"
+        ],
+        [
+            "SOD1",
+            "Superoxide dismutase [Cu-Zn]",
+            "Humans"
+        ],
+        [
+            "GSTP1",
+            "Glutathione S-transferase P",
+            "Humans"
+        ],
+        [
+            "GSTM1",
+            "Glutathione S-transferase Mu 1",
+            "Humans"
+        ],
+        [
+            "NQO1",
+            "NAD(P)H dehydrogenase [quinone] 1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC31A1",
+            "High affinity copper uptake protein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ATP7B",
+            "Copper-transporting ATPase 2",
+            "Humans"
+        ],
+        [
+            "ATP7A",
+            "Copper-transporting ATPase 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

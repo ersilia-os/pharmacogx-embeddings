@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA164781375",
+    "drugbank_id": "DB00078",
+    "names": [
+        "Ibritumomab tiuxetan"
+    ],
+    "description": "Indium or yttrium conjugated murine IgG1 kappa monoclonal antibody directed against the CD20 antigen, which is found on the surface of normal and malignant B lymphocytes. Ibritumomab is produced in Chinese hamster ovary cells and is composed of two murine gamma 1 heavy chains of 445 amino acids each and two kappa light chains of 213 amino acids each.",
+    "indication": "For treatment of non-Hodgkin's lymphoma",
+    "pharmacodynamics": "Ibritumomab is a murine monoclonal antibody against CD20 that has been radiolabeled with yttrium-90.",
+    "mechanism-of-action": "The Fab segment of the antibody targets the CD20 epitope on B-cells, allowing the radioactive yttrium to destroy the cell via production of beta particles.",
+    "absorption": null,
+    "metabolism": "Most likely removed by opsonization via the reticuloendothelial system when bound to B cells, or by human antimurine antibody production",
+    "toxicity": null,
+    "targets": [
+        [
+            "MS4A1",
+            "B-lymphocyte antigen CD20",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

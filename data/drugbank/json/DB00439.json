@@ -1,0 +1,94 @@
+{
+    "pharmgkb_id": "PA448897",
+    "drugbank_id": "DB00439",
+    "names": [
+        "Cerivastatin",
+        "Lipobay",
+        "Rivastatin"
+    ],
+    "description": "On August 8, 2001 the U.S. Food and Drug Administration (FDA) announced that Bayer Pharmaceutical Division voluntarily withdrew Baycol from the U.S. market, due to reports of fatal rhabdomyolysis, a severe adverse reaction from this cholesterol-lowering (lipid-lowering) product. It has also been withdrawn from the Canadian market.[A669,L43942]",
+    "indication": "Used as an adjunct to diet for the reduction of elevated total and LDL cholesterol levels in patients with primary hypercholesterolemia and mixed dyslipidemia (Fredrickson Types IIa and IIb) when the response to dietary restriction of saturated fat and cholesterol and other non-pharmacological measures alone has been inadequate.",
+    "pharmacodynamics": "Cerivastatin, a competitive HMG-CoA reductase inhibitor effective in lowering LDL cholesterol and triglycerides, is used to treat primary hypercholesterolemia and mixed dyslipidemia (Fredrickson types IIa and IIb).",
+    "mechanism-of-action": "Cerivastatin competitively inhibits hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase, the hepatic enzyme responsible for converting HMG-CoA to mevalonate. As mevalonate is a precursor of sterols such as cholesterol, this results in a decrease in cholesterol in hepatic cells, upregulation of LDL-receptors, and an increase in hepatic uptake of LDL-cholesterol from the circulation.",
+    "absorption": "The mean absolute oral bioavailability 60% (range 39 - 101%).",
+    "metabolism": "Hepatic. Biotransformation pathways for cerivastatin in humans include the following: demethylation of the benzylic methyl ether to form Ml and hydroxylation of the methyl group in the 6'-isopropyl moiety to form M23.",
+    "toxicity": "Rhabdomyolysis, liver concerns",
+    "targets": [
+        [
+            "HMGCR",
+            "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,88 @@
+{
+    "pharmgkb_id": "PA448547",
+    "drugbank_id": "DB00394",
+    "names": [
+        "Beclomethasone dipropionate",
+        "Aerobec",
+        "Aldecin",
+        "Anceron",
+        "Andion",
+        "Beclacin",
+        "Becloforte",
+        "Beclomet",
+        "Beclorhinol",
+        "Becloval",
+        "Beclovent",
+        "Becodisks",
+        "Beconase",
+        "Beconasol",
+        "Becotide",
+        "Clenil-A",
+        "Entyderma",
+        "Inalone",
+        "Korbutone",
+        "orBec",
+        "Rino-Clenil",
+        "Rivanase",
+        "Sanasthmax",
+        "Sanasthmyl",
+        "Vancenase",
+        "Vanceril"
+    ],
+    "description": "Beclomethasone dipropionate is a second-generation[A179842] synthetic corticosteroid and diester of beclomethasone, which is structurally similar to [dexamethasone].[L6871] It is a prodrug of an active metabolite beclomethasone 17-monopropionate (17-BMP)[A179839] which acts on the glucocorticoid receptor to mediates its therapeutic action. Beclomethasone dipropionate itself posesses weak glucocorticoid receptor binding affinity and is rapidly converted into 17-BMP upon administration.[A179839] Formulations for oral inhalation, intranasal, and topical use are available for beclomethasone dipropionate. Beclomethasone dipropionate became first available in a pressurized metered-dose inhaler in 1972 and later in a dry powder inhaler and an aqueous nasal spray.[A179839] Due to its anti-inflammatory, antipruritic, and anti-allergy properties, beclomethasone dipropionate is used in various inflammatory conditions, such as asthma, allergic rhinitis, and dermatoses to reduce symptoms. When inhaled, it is proposed that beclomethasone dipropionate remains active locally in the lung without causing significant side effects associated with systemic corticosteroids.[A180010] Compared to earlier corticosteroids such as [dexamethasone] and [prednisolone], beclomethasone dipropionate is reported to be less irritating to the nasal mucosa with a longer duration of action when administered intranasally.[A179848]",
+    "indication": "Indicated for oral inhalation use in the maintenance treatment of asthma as prophylactic therapy in patients 5 years of age and older. The aerosol form of beclomethasone diproprionate is not indicated for the relief of acute bronchospasm.[L6871]\r\n\r\nIndicated for intranasal use to relieve the symptoms of seasonal or perennial allergic and nonallergic (vasomotor) rhinitis and prevent the recurrence of nasal polyps following surgical removal.[L6880]\r\n\r\nIndicated for the relief of the inflammatory and pruritic manifestations of corticosteroid-responsive dermatoses in patients 13 years of age and older.[L10782] Corticosteroid-responsive dermatoses include psoriasis, contact dermatitis (dermatitis venenata), atopic dermatitis (infantile eczema, allergic dermatitis), neurodermatitis (lichen simplex chronicus, lichen planus, eczema, eczematous dermatitis), intertrigo, dyshidroses (pompholyx), seborrheic dermatitis, exfoliative dermatitis, solar dermatitis, stasis dermatitis, and anogenital and senile pruritus.[L6886]",
+    "pharmacodynamics": "Inflammatory conditions, including asthma, dermatoses, and allergic rhinitis, involve the activation of cascades by inflammatory mediators. Inflammation is a primary defense mechanism and the homeostatic response of the immune system; however, a prolonged inflammatory response in certain disorders may lead to tissue damage, pain, and swelling. Beclomethasone dipropionate works by attenuating the inflammatory responses associated with asthma, allergic rhinitis, nasal polyps, and corticosteroid-responsive dermatoses. It suppresses the actions of inflammatory cells, such as mast cells, eosinophils, basophils, lymphocytes, macrophages, and neutrophils. It also inhibits the release of inflammatory mediators, such as histamine, eicosanoids, leukotrienes, and cytokines.[L6871] Beclomethasone dipropionate is reported to exhibit potent topical activity while possessing low systemic effects.[A179845] \r\n\r\nBeclomethasone dipropionate is a corticosteroid drug with anti-inflammatory and vasoconstrictive effects used to treat chronic inflammatory processes such as asthma, allergic rhinitis, corticosteroid-responsive dermatoses. When inhaled, it improves lung function, decreases airway hyper-reactivity, and reduces the severity of asthmatic symptoms.[A180160] Although inhaled corticosteroids, including beclomethasone dipropionate, are reported to mainly act locally in the lungs, systemic effects such as disruption of hypothalamic-pituitary-adrenal (HPA) axis function, bone turnover, osteoporosis, and growth suppression may still be observed with chronic use or high dose administration. There were varying findings from clinical studies examining the effect of beclomethasone dipropionate on growth suppression in pediatric patients.[A180160] It was shown to suppress the hypothalamo-pituitary-adrenal (HPA) axis in a dose-dependent manner.[A179917] HPA axis is a central hormonal response system to stress and activation of HPA axis leads to the production of endogenous steroid hormone production.[A179920] Long-term use of high-dose systemic corticosteroids, including those inhaled, was often associated with signs and symptoms of adrenal insufficiency when exposed to stress conditions, such as trauma, surgery, or infections. As corticosteroids work by suppressing the immune system, there may be an increased risk for developing infections.[L6871] Cases of _Candida albicans_ infection of the mouth and throat have been reported with inhaled beclomethasone dipropionate therapy.[A180010]",
+    "mechanism-of-action": "Beclomethasone dipropionate is a corticosteroid and prodrug that is rapidly activated by hydrolysis to the active monoester, 17 monopropionate (17-BMP), which mediates anti-inflammatory actions. 17-BMP has been shown _in vitro_ to exhibit a binding affinity for the human glucocorticoid receptor which is approximately 13 times that of dexamethasone and 25 times that of beclomethasone dipropionate.[L6871] Upon binding of the ligand, the glucocorticoid receptors dimerize and translocate into the nucleus, where they subsequently bind to glucocorticoid response elements (GRE) on glucocorticoid-responsive genes, leading to changes in transcription. There are several proposed mechanisms for the anti-inflammatory action of corticosteroids. Corticosteroids may work by increasing the transcription of genes coding for anti-inflammatory proteins, including lipocortin-1 and interleukin-10.[A179875] Corticosteroids were also shown to inhibit the expression of multiple genes that encode pro-inflammatory factors, such as cytokines, chemokines, and adhesion molecules, that are activated during the chronic inflammatory process.[A31449] This is thought to be due to the direct inhibitory interaction between activated glucocorticoid receptors and activated pro-inflammatory transcription factors, such as nuclear factor-kappa B and activator protein-1.[A179875] Chronic inflammation is often characterized by enhanced expression of these transcription factors that bind to and activate coactivator molecules, which then acetylate core histones to switch on gene transcription to further amplify the inflammatory process.[A31449] Corticosteroids suppress the multiple inflammatory gene expression by promoting histone deacetylation, resulting in tighter coiling of DNA and reduced access of transcription factors to their binding sites.[A179875] ",
+    "absorption": "Following oral inhalation of 320 mcg of beclomethasone dipropionate (BDP), the Cmax was 88 pg/mL and it was reached after 0.5 at post-administration. The mean Cmax of the major and most active metabolite, beclomethasone-17-monopropionate (17-BMP), was 1419 pg/mL at 0.7 hour post-dosing.[L6871]\r\n\r\nIn another pharmacokinetic study, the AUC of BDP and 17-BMP were 6660 and 6185 pgxh/mL, respectively. The Cmax was 35356 pg/mL for BDP and 2633 pg/mL for 17-BMP, and and the median time to reach these concentrations (Tmax) was 0.2 hours. In the same study, the AUC of 17-BMP following oral and intranasal administration were 10158 and 3660 pgxh/mL, respectively. The Cmax of 17-BMP following oral and intranasal administration were 703 and 310 pg/mL, respectively, and the Tmax was 4 hours. The total bioavailability of 17-BMP following oral and intranasal administration were 41% and 44%, respectively.[A179839]",
+    "metabolism": "During absorption, beclomethasone dipropionate is undergoes rapid and extensive hydrolysis mediated by esterases CYP3A to form beclomethasone-17-monopropionate (17-BMP), beclomethasone-21-monopropionate (21-BMP), and beclomethasone (BOH). 17-BMP is the major active metabolite with the most potent anti-inflammatory activity.[L6871] About 95% of the total beclomethasone dipropionate administered via oral inhalation undergoes presystemic conversion to form 17-BMP in the lung.[A179839]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is >3750 mg/kg.[MSDS] \r\n\r\nThe acute toxicity of beclometasone dipropionate is low. The only harmful effect that follows inhalation of large amounts of the drug over a short period of time is suppression of hypothalamic-pituitary-adrenal (HPA) function. Chronic: The excessive use of beclometasone dipropionate over a long period could lead to adrenal suppression.",
+    "targets": [
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "SERPINA6",
+            "Corticosteroid-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

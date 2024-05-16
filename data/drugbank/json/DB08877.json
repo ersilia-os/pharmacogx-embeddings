@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA166123386",
+    "drugbank_id": "DB08877",
+    "names": [
+        "Ruxolitinib"
+    ],
+    "description": "Ruxolitinib, formerly known as INCB018424 or INC424, is an anticancer drug and a Janus kinase (JAK) inhibitor. It is a potent and selective inhibitor of JAK1 and JAK2,[A229698] which are tyrosine kinases involved in cytokine signalling and hematopoiesis.[A7450] Myeloproliferative neoplasms, such as myelofibrosis and polycythemia vera, are often characterized by aberrant activation of the JAK-STAT pathway, leading to abnormal blood cell counts and thrombotic complications. By inhibiting JAK1 and JAK2, ruxolitinib works to block the dysregulated cell signalling pathways and prevents abnormal blood cell proliferation.[A229708] Due to a large number of patients with myeloproliferative neoplasms who have JAK2 mutations, ruxolitinib was the first ATP-competitive inhibitor of JAK1 and JAK2 ever developed.[A229938]\r\n\r\nRuxolitinib was first approved for the treatment of adult patients with myelofibrosis by the FDA in 2011, followed by EMA's approval in 2012.[A229708] In 2014, it was approved for the treatment of polycythemia vera in adults who have an inadequate response to or are intolerant of [hydroxyurea] and in 2019, ruxolitinib was approved for use in steroid-refractory acute graft-versus-host disease in adults and children.[L31958] The topical formulation of ruxolitinib is used to treat atopic dermatitis and vitiligo.[L39125] It is being investigated for other inflammatory skin conditions.[A229883]\r\n\r\nRuxolitinib has been investigated to treat patients with coronavirus disease 2019 (COVID-19) accompanied by severe systemic hyperinflammation. In phase II clinical trials, ruxolitinib improved chest computed tomography and improved recovery in patients with lymphopenia.[A229713, A229718] However, phase III clinical trials later determined that ruxolitinib was inadequate in meeting its primary endpoint of reducing the number of hospitalized COVID-19 patients who experienced severe complications [L31968] thus the drug was not approved as a treatment for COVID-19.",
+    "indication": "Ruxolitinib is indicated for the treatment of the following conditions:\r\n\r\n- intermediate or high-risk myelofibrosis (MF), including prima1y MF, post-polycythemia vera MF and post-essential thrombocythemia MF in adults.[L31938] It is also used to treat disease-related splenomegaly or symptoms in adult patients with these conditions.[L32073] \r\n- polycythemia vera (PV) in adults who have had an inadequate response to or are intolerant of hydroxyurea.[L31938]\r\n- steroid-refracto1y acute graft-versus-host disease (GVHD) in adult and pediatric patients 12 years and older.[L31938]\r\n- chronic GVHD in patients aged 12 years and older who have failed one or two lines of systemic therapy.[L31938]\r\n\r\nTopical ruxolitinib is indicated for:\r\n\r\n- the short-term and non-continuous chronic treatment of mild to moderate atopic dermatitis in non-immunocompromised patients patients 12 years of age and older whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable.[L39125]\r\n- the treatment of non-segmental vitiligo in adult and pediatric patients 12 years of age and older.[L39125, L46068]",
+    "pharmacodynamics": "Ruxolitinib is an antineoplastic agent that inhibits cell proliferation, induces apoptosis of malignant cells, and reduces pro-inflammatory cytokine plasma levels by inhibiting JAK-induced phosphorylation of signal transducer and activator of transcription (STAT).[A229703] Inhibition of STAT3 phosphorylation, which is used as a marker of JAK activity, [A7450] by ruxolitinib is achieved at two hours after dosing which returned to near baseline by 10 hours in patients with myelofibrosis and polycythemia vera.[L31938] In clinical trials, ruxolitinib reduced splenomegaly and improved symptoms of myelofibrosis.[A229703] In a mouse model of myeloproliferative neoplasms, administration of ruxolitinib was associated with prolonged survival.[A7450] Ruxolitinib inhibits both mutant and wild-type JAK2 [A229703]; however, JAK2V617F mutation, which is often seen in approximately 50% of patients with myelofibrosis, was shown to reduce ruxolitinib sensitivity, which may also be associated with possible resistance to JAK inhibitor treatment.[A229933]",
+    "mechanism-of-action": "The Janus kinase (JAK) family of protein tyrosine kinases comprises JAK1, JAK2, JAK3, and non-receptor tyrosine kinase 2 (TYK2).[A229703] JAKs play a pivotal role in intracellular signalling pathways of various cytokines and growth factors essential to hematopoiesis, such as interleukin, erythropoietin, and thrombopoietin.[A7450] JAKs have diverse functions: JAK1 and JAK3 promote lymphocyte differentiation, survival, and function, while JAK2 promotes signal transduction of erythropoietin and thrombopoietin.[A229703, A229753] JAKs are in close proximity to the cytokine and growth factor receptor\u2019s cytoplasmic region. Upon binding of cytokines and growth factors, JAKs are activated, undergoing cross-phosphorylation and tyrosine phosphorylation. This process also reveals selective binding sites for STATs, which are DNA-binding proteins that also bind to the cytoplasmic region of cytokine or growth factor receptors. Activated JAKs and STATs translocate to the nucleus as transcription factors to regulate gene expression of pro-inflammatory cytokines such as IL-6, IL-10, and nuclear factor \u03baB (NF-\u03baB).[A229938] They also activate downstream pathways that promote erythroid, myeloid, and megakaryocytic development.[A229703] \r\n\r\nThe molecular pathogenesis of myeloproliferative neoplasms is not fully understood; however, JAK2 is constitutively activated and the JAK-STAT signalling pathway becomes deregulated and aberrant.[A7450, A229938] Ruxolitinib is a selective and potent inhibitor of JAK2 and JAK1, with some affinity against JAK3 and TYK2. Anticancer effects of ruxolitinib are attributed to its inhibition of JAKs and JAK-mediated phosphorylation of STAT3.[L31938] By downregulating the JAK-STAT pathway, ruxolitinib inhibits myeloproliferation and suppresses the plasma levels of pro-inflammatory cytokines such as IL-6 and TNF-\u03b1.[A229703] \r\n\r\nActivated JAKs are also implicated in graft-versus-host-disease (GVHD), which is a severe immune complication of allogeneic hematopoietic cell transplantation GVHD is associated with significant morbidity and mortality, especially for patients who do not respond well to corticosteroid therapy. Activated JAKS stimulate T-effector cell responses, leading to increased proliferation of effector T cells and heightened production of pro-inflammatory cytokines. By blocking JAK1 and JAk2, ruxolitinib inhibits donor T-cell expansion and suppresses pro-inflammatory responses.[A229913]",
+    "absorption": "Following oral administration, ruxolitinib undergoes rapid absorption [A229753] and the peak concentrations are reached within one hour after administration.[A229703] Over a single-dose range of 5 mg to 200 mg, the mean maximal plasma concentration (C<sub>max</sub>) increases proportionally. C<sub>max</sub> ranged from 205 nM to 7100 nM and AUC ranged from 862 nM x hr to 30700 nM x hr. T<sub>max</sub> ranges from one to two hours following oral administration. Oral bioavailability is at least 95%.[L31938]",
+    "metabolism": "More than 99% of orally-administered ruxolitinib undergoes metabolism[A229703] mediated by CYP3A4 and, to a lesser extent, CYP2C9.[L31938] The major circulating metabolites in human plasma were M18 formed by 2-hydroxylation, and M16 and M27 (stereoisomers) formed by 3-hydroxylation. Other identified metabolites include M9 and M49, which are formed by hydroxylation and ketone formation. Not all metabolite structures are fully characterized and it is speculated that many metabolites exist in stereoisomers.[A229753] Metabolites of ruxolitinib retain inhibitory activity against JAK1 and JAk2 to a lesser degree than the parent drug.[A38590]",
+    "toxicity": "The oral LD<sub>50</sub> was 250 mg/kg.[L31953]\r\n\r\nSingle doses of ruxolitinib up to 200 mg were tolerated well. Higher doses than recommended repeat doses are associated with myelosuppression, including leukopenia, anemia, and thrombocytopenia. There is no known antidote for overdoses with ruxolitinib: it is recommended that patients are given appropriate supportive treatment. Hemodialysis is not expected to enhance the elimination of ruxolitinib.[L31938]",
+    "targets": [
+        [
+            "JAK2",
+            "Tyrosine-protein kinase JAK2",
+            "Humans"
+        ],
+        [
+            "JAK1",
+            "Tyrosine-protein kinase JAK1",
+            "Humans"
+        ],
+        [
+            "JAK3",
+            "Tyrosine-protein kinase JAK3",
+            "Humans"
+        ],
+        [
+            "TYK2",
+            "Non-receptor tyrosine-protein kinase TYK2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

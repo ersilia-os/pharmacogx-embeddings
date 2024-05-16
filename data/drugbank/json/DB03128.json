@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA448031",
+    "drugbank_id": "DB03128",
+    "names": [
+        "Acetylcholine"
+    ],
+    "description": "A neurotransmitter. Acetylcholine in vertebrates is the major transmitter at neuromuscular junctions, autonomic ganglia, parasympathetic effector junctions, a subset of sympathetic effector junctions, and at many sites in the central nervous system. It is generally not used as an administered drug because it is broken down very rapidly by cholinesterases, but it is useful in some ophthalmological applications.",
+    "indication": "Used to obtain miosis of the iris in seconds after delivery of the lens in cataract surgery, in penetrating keratoplasty, iridectomy and other anterior segment surgery where rapid miosis may be required.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "ACHE",
+            "Acetylcholinesterase",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

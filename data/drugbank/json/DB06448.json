@@ -1,0 +1,118 @@
+{
+    "pharmgkb_id": "PA166129466",
+    "drugbank_id": "DB06448",
+    "names": [
+        "Lonafarnib",
+        "Sarasar"
+    ],
+    "description": "Hutchinson-Gilford progeria syndrome (HGPS) is a rare autosomal dominant disorder estimated to affect approximately one in 20 million individuals resulting in adverse symptoms associated with premature ageing: skeletal dysplasia, joint contractures, atherosclerosis, myocardial fibrosis/dysfunction, scleroderma-like cutaneous effects, lipoatrophy, alopecia, and a severe failure to thrive; HGPS is uniformly fatal.[A224379, A224384, A224389, A224394, A224399] Mechanistically, HGPS is underpinned by a single heterozygous C-to-T mutation at position 1824 of the _LMNA_ gene, which results in the accumulation of an aberrant farnesylated form of lamin A called progerin in the inner nuclear membrane.[A224379, A224394] Lonafarnib is a farnesyl transferase (FTase) inhibitor (FTI), which reduces the farnesylation of numerous cellular proteins, including progerin; as progerin farnesylation is important for localization to the nuclear membrane, lonafarnib inhibits progerin accumulation and improves symptoms in HGPS patients.[A224379, A224414, A224419, L23414]\r\n\r\nMerck originally developed Lonafarnib and subsequently licensed it to Eiger Biopharmaceuticals Inc., which currently markets it under the trademark ZOKINVY\u2122.[L23414, L23544] Lonafarnib was granted FDA approval on November 20, 2020, and is the first FDA-approved treatment for HGPS and other related progeroid laminopathies.[L23414, L23549]",
+    "indication": "Lonafarnib is a farnesyltransferase inhibitor indicated in patients aged 12 months and older with a body surface area of at least 0.39 m<sup>2</sup> to reduce the risk of mortality associated with Hutchinson-Gilford progeria syndrome (HGPS). It is also indicated in this same population for the treatment of processing-deficient progeroid laminopathies that either involve a heterozygous _LMNA_ mutation resulting in the accumulation of a progerin-like protein or homozygous/compound heterozygous mutations in _ZMPSTE24_.[L23414]",
+    "pharmacodynamics": "Lonafarnib is a direct farnesyl transferase inhibitor that reduces the farnesylation of numerous cellular proteins, including progerin, the aberrantly truncated form of lamin A that accumulates in progeroid laminopathies such as Hutchinson-Gilford progeria syndrome. Treatment with lonafarnib has been associated with electrolyte abnormalities, myelosuppression, and increased liver enzyme levels (AST/ALT), although causation remains unclear. Also, lonafarnib is known to cause nephrotoxicity in rats and rod-dependent low-light vision decline in monkeys at plasma levels similar to those achieved under recommended dosing guidelines in humans; patients taking lonafarnib should undergo regular monitoring for both renal and ophthalmological function. In addition, based on observations from animal studies with rats, monkeys, and rabbits with plasma drug concentrations approximately equal to those attained in humans, lonafarnib may cause both male and female fertility impairment and embryo-fetal toxicity.[L23414]",
+    "mechanism-of-action": "Hutchinson-Gilford progeria syndrome (HGPS) is a rare autosomal dominant disorder estimated to affect approximately one in 20 million individuals resulting in premature ageing, associated cardiovascular, cerebrovascular, and musculoskeletal effects and early death around 14 years of age.[A224379, A224384, A224389, A224394] The _LMNA_ gene encodes lamin A and lamin C, two proteins involved in nuclear integrity and function at the inner nuclear membrane. Under normal conditions, the 12-exon _LMNA_ gene produces full-length prelamin A, which undergoes farnesylation of the C-terminal _CaaX_ motif, followed by proteolytic cleavage of the terminal three amino acids (_aaX_) by the metalloproteinase ZMPSTE24, subsequent carboxymethylation, and finally removal of the last 15 amino acids to yield mature, unfarnesylated, lamin A protein.[A224379, A224394] In HGPS, a single heterozygous C-to-T mutation at position 1824 results in a cryptic splice site that removes the last 150 nucleotides of exon 11 and a concomitant 50-amino acid deletion in the C-terminus of the prelamin A protein. This aberrant prelamin A protein, often called progerin, is permanently farnesylated but unable to complete maturation due to the removal of the second endoproteolytic cleavage site.[A224379, A224394]\r\n\r\nAlthough the exact mechanism is unclear, progerin accumulation results in a host of adverse symptoms associated with ageing such as skeletal dysplasia, joint contractures, atherosclerosis, myocardial fibrosis/dysfunction, scleroderma-like cutaneous effects, lipoatrophy, alopecia, and a severe failure to thrive.[A224379, A224384, A224389, A224394, A224399] An additional notable effect of HGPS is increased vascular and peripheral calcification.[A224404] Children affected by HGPS typically die due to myocardial infarction or stroke.[A224399] Mechanistic understanding of HGPS remains unclear, although a recent study correlated progerin accumulation, telomere dysfunction, DNA damage-mediated inflammatory cytokine release, and HGPS symptoms, suggesting that the nuclear effects of progerin accumulation may result in pleiotropic downstream effects.[A224409]\r\n\r\nLonafarnib is a farnesyl transferase (FTase) inhibitor (FTI), with a reported IC<sub>50</sub> value of 1.9 nM; lonafarnib is specific for FTase, as it does not appreciably inhibit the related GGPT-1 enzyme at concentrations up to 50 \u03bcM.[A30625] Inhibition of progerin farnesylation reduces progerin accumulation in the inner nuclear membrane, which subsequently slows the progression of HGPS and other progeroid laminopathies.[A224379, A224414, A224419, L23414]",
+    "absorption": "The absolute oral bioavailability of lonafarnib is unknown; in healthy subjects administration of either 75 or 100 mg of lonafarnib twice daily resulted in mean peak plasma concentrations (%CV) of 834 (32%) and 964 (32%) ng/mL, respectively. Twice daily administration of 115 mg/m<sup>2</sup> lonafarnib in HGPS patients resulted in a median t<sub>max</sub> of 2 hours (range 0-6), mean C<sub>max</sub> of 1777 \u00b1 1083 ng/mL, mean AUC<sub>0-8hr</sub> of 9869 \u00b1 6327 ng\\*hr/mL, and a mean AUC<sub>tau</sub> of 12365 \u00b1 9135 ng\\*hr/mL. The corresponding values for a dose of 150 mg/m<sup>2</sup> are: 4 hours (range 0-12), 2695 \u00b1 1090 ng/mL, 16020 \u00b1 4978 ng\\*hr/mL, and 19539 \u00b1 6434 ng\\*hr/mL, respectively.[L23414]\r\n\r\nFollowing a single oral dose of 75 mg in healthy subjects, the C<sub>max</sub> of lonafarnib decreased by 55% and 25%, and the AUC decreased by 29% and 21% for a high/low-fat meal compared to fasted conditions.[L23414]",
+    "metabolism": "Lonafarnib is metabolized _in vitro_ primarily by CYP3A4/5 and partially by CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, and CYP2E1.[A224439, L23414] Formation of the primary metabolites involves oxidation and subsequent dehydration in the pendant piperidine ring.[A224439, A224444]",
+    "toxicity": "Toxicity information regarding lonafarnib is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as altered electrolyte, blood cell, and liver enzyme levels, retinal toxicity, nephrotoxicity, fertility impairment, and embryo-fetal toxicity. Symptomatic and supportive measures are recommended.[L23414]",
+    "targets": [
+        [
+            "FNTA",
+            "Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha",
+            "Humans"
+        ],
+        [
+            "FNTB",
+            "Protein farnesyltransferase subunit beta",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

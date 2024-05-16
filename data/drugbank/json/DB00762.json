@@ -1,0 +1,151 @@
+{
+    "pharmgkb_id": "PA450085",
+    "drugbank_id": "DB00762",
+    "names": [
+        "Irinotecan",
+        "Biotecan",
+        "Campto"
+    ],
+    "description": "Irinotecan is an antineoplastic enzyme inhibitor primarily used in the treatment of colorectal cancer. It is a derivative of camptothecin that inhibits the action of topoisomerase I. Irinotecan prevents religation of the DNA strand by binding to topoisomerase I-DNA complex, and causes double-strand DNA breakage and cell death. It is a derivative of camptothecin. Irinotecan was approved for the treatment of advanced pancreatic cancer in October, 2015 (irinotecan liposome injection, trade name Onivyde).",
+    "indication": "For the treatment of metastatic colorectal cancer (first-line therapy when administered with 5-fluorouracil and leucovorin). Also used in combination with cisplatin for the treatment of extensive small cell lung cancer. Irinotecan is currently under investigation for the treatment of metastatic or recurrent cervical cancer. Also used in combination with fluorouracil and leucovorin for the treatment of patients with metastatic adenocarcinoma of the pancreas after disease progression following gemcitabine-based therapy. ",
+    "pharmacodynamics": "Irinotecan is an antineoplastic enzyme inhibitor primarily used in the treatment of colorectal cancer. Irinotecan is a semisynthetic derivative of camptothecin. Camptothecins interact specifically with topoisomerase I, an enzyme in the cell nucleus that regulates DNA topology and facilitates nuclear processes such as DNA replication, recombination, and repair. During these processes, topoisomerase I relieves torsional strain in DNA by inducing reversible single-strand breaks, allowing single DNA strands to pass through the break. The 3'-DNA terminus of the broken DNA strands bind covalently with the topoisomerase enzyme to form a catalytic intermediate called a cleavable complex. After the DNA is sufficiently relaxed and the strand passage reaction is complete, DNA topoisomerase reattaches the broken DNA strands to form the chemically unaltered topoisomers that allow transcription to proceed. Irinotecan and its active metabolite SN-38 bind to the topoisomerase I-DNA complex and prevent religation of these single-strand breaks. Current research suggests that the cytotoxicity of irinotecan is due to double-strand DNA damage produced during DNA synthesis when replication enzymes interact with the ternary complex formed by topoisomerase I, DNA, and either Irinotecan or SN-38. Mammalian cells cannot efficiently repair these double-strand breaks. The precise contribution of SN-38 to the activity of irinotecan in humans is not known. Irinotecan is cell cycle phase-specific (S-phase).",
+    "mechanism-of-action": "Irinotecan inhibits the action of topoisomerase I. Irinotecan prevents religation of the DNA strand by binding to topoisomerase I-DNA complex. The formation of this ternary complex interferes with the moving replication fork, which induces replication arrest and lethal double-stranded breaks in DNA. As a result, DNA damage is not efficiently repaired and apoptosis (programmed cell death) occurs.",
+    "absorption": "The maximum plasma concentration (Cmax) when a dose of 125 mg/m^2 is given to patients with solid tumours is 1660 ng/mL. The AUC (0-24) is 10,200 ng\u00b7h/mL. The Cmax when a dose of 340 mg/m^2 is given to patients with solid tumours is 3392 ng/mL. The AUC (0-24) is 20,604 ng\u00b7h/mL.",
+    "metabolism": "Hepatic. The metabolic conversion of irinotecan to the active metabolite SN-38 is mediated by carboxylesterase enzymes and primarily occurs in the liver. SN-38 is subsequently conjugated predominantly by the enzyme UDP-glucuronosyl transferase 1A1 (UGT1A1) to form a glucuronide metabolite. ",
+    "toxicity": "Gastrointestinal complications, such as nausea, vomiting, abdominal cramping, diarrhea, and infection.",
+    "targets": [
+        [
+            "TOP1MT",
+            "DNA topoisomerase I, mitochondrial",
+            "Humans"
+        ],
+        [
+            "TOP1",
+            "DNA topoisomerase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ],
+        [
+            "CES2",
+            "Cocaine esterase",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00762",
+            "Drug Name": "Irinotecan",
+            "Gene Symbol": "SLCO1B1",
+            "RS ID (Genotype)": "rs4149056",
+            "Effect Description": "Patients with this genotype have reduced transport of the active metabolite of irinotecan resulting in increased plasma concentrations."
+        },
+        {
+            "DrugBank ID": "DB00762",
+            "Drug Name": "Irinotecan",
+            "Gene Symbol": "UGT1A1",
+            "RS ID (Genotype)": "rs8175347",
+            "Adverse Reaction Description": "The presence of this genotype in UGT1A1 may indicate an increased risk of bone marrow toxicity when treated with irinotecan."
+        },
+        {
+            "DrugBank ID": "DB00762",
+            "Drug Name": "Irinotecan",
+            "Gene Symbol": "UGT1A7",
+            "RS ID (Genotype)": "rs17868323",
+            "Adverse Reaction Description": "The presence of this genotype in UGT1A1 may indicate an increased risk of bone marrow toxicity when treated with irinotecan."
+        },
+        {
+            "DrugBank ID": "DB00762",
+            "Drug Name": "Irinotecan",
+            "Gene Symbol": "UGT1A1",
+            "RS ID (Genotype)": "rs10929302",
+            "Adverse Reaction Description": "The presence of this genotype in UGT1A1 may indicate an increased risk of bone marrow toxicity when treated with irinotecan."
+        },
+        {
+            "DrugBank ID": "DB00762",
+            "Drug Name": "Irinotecan",
+            "Gene Symbol": "UGT1A1",
+            "RS ID (Genotype)": "rs8175347",
+            "Adverse Reaction Description": "Patients who carry this genotype in UGT1A1 are at increased risk for neutropenia following initiation of irinotecan treatment."
+        }
+    ]
+}

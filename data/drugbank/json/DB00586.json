@@ -1,0 +1,187 @@
+{
+    "pharmgkb_id": "PA449293",
+    "drugbank_id": "DB00586",
+    "names": [
+        "Diclofenac",
+        "Aclonac",
+        "Allvoran",
+        "Ecofenac",
+        "Effekton",
+        "Nu-Diclo",
+        "Primofenac",
+        "Prophenatin",
+        "Rhumalgan",
+        "Voltarol"
+    ],
+    "description": "Diclofenac is a phenylacetic acid derivative and non-steroidal anti-inflammatory drug (NSAID).[label] NSAIDs inhibit cyclooxygenase (COX)-1 and-2 which are the enzyme responsible for producing prostaglandins (PGs). PGs contribute to inflammation and pain signalling. Diclofenac, like other NSAIDs, is often used as first line therapy for acute and chronic pain and inflammation from a variety of causes. Diclofenac was the product of rational drug design based on the structures of [phenylbutazone], [mefenamic acid], and [indomethacin].[A180796] The addition of two chlorine groups in the ortho position of the phenyl ring locks the ring in maximal torsion which appears to be related to increased potency. It is often used in combination with [misoprostol] to prevent NSAID-induced gastric ulcers. Diclofenac was first approved by the FDA in July 1988 under the trade name Voltaren, marketed by Novartis (previously Ciba-Geigy).[L7360]",
+    "indication": "Diclofenac is indicated for use in the treatment of pain and inflammation from varying sources including inflammatory conditions such as osteoarthritis, rheumatoid arthritis, and ankylosing spondylitis, as well as injury-related inflammation due to surgery and physical trauma. It is often used in combination with [misoprostol] as a gastro-protective agent in patients with high risk of developing NSAID-induced ulcers.",
+    "pharmacodynamics": "Diclofenac reduces inflammation and by extension reduces nociceptive pain and combats fever.[label,T116] It also increases the risk of developing a gastrointestinal ulcer by inhibiting the production of protective mucus in the stomach.",
+    "mechanism-of-action": "Diclofenac inhibits cyclooxygenase-1 and -2, the enzymes responsible for production of prostaglandin (PG) G<sub>2</sub> which is the precursor to other PGs.[label,T116] These molecules have broad activity in pain and inflammation and the inhibition of their production is the common mechanism linking each effect of diclofenac.\r\n\r\nPGE<sub>2</sub> is the primary PG involved in modulation of nociception.[A179023] It mediates peripheral sensitization through a variety of effects.[T116,A179023] PGE<sub>2</sub> activates the G<sub>q</sub>-coupled EP<sub>1</sub> receptor leading to increased activity of the inositol trisphosphate/phospholipase C pathway. Activation of this pathway releases intracellular stores of calcium which directly reduces action potential threshold and activates protein kinase C (PKC) which contributes to several indirect mechanisms. PGE<sub>2</sub> also activates the EP<sub>4</sub> receptor, coupled to G<sub>s</sub>, which activates the adenylyl cyclase/protein kinase A (AC/PKA) signaling pathway. PKA and PKC both contribute to the potentiation of transient receptor potential cation channel subfamily V member 1 (TRPV1) potentiation, which increases sensitivity to heat stimuli. They also activate tetrodotoxin-resistant sodium channels and inhibit inward potassium currents. PKA further contributes to the activation of the P2X3 purine receptor and sensitization of T-type calcium channels. The activation and sensitization of depolarizing ion channels and inhibition of inward potassium currents serve to reduce the intensity of stimulus necessary to generate action potentials in nociceptive sensory afferents. PGE<sub>2</sub> act via EP<sub>3</sub> to increase sensitivity to bradykinin and via EP<sub>2</sub> to further increase heat sensitivity. Central sensitization occurs in the dorsal horn of the spinal cord and is mediated by the EP<sub>2</sub> receptor which couples to G<sub>s</sub>. Pre-synaptically, this receptor increases the release of pro-nociceptive neurotransmitters glutamate, CGRP, and substance P. Post-synaptically it increases the activity of AMPA and NMDA receptors and produces inhibition of inhibitory glycinergic neurons. Together these lead to a reduced threshold of activating, allowing low intensity stimuli to generate pain signals. PGI<sub>2</sub> is known to play a role via its G<sub>s</sub>-coupled IP receptor although the magnitude of its contribution varies. It has been proposed to be of greater importance in painful inflammatory conditions such as arthritis. By limiting sensitization, both peripheral and central, via these pathways NSAIDs can effectively reduce inflammatory pain.\r\n\r\nPGI<sub>2</sub> and PGE<sub>2</sub> contribute to acute inflammation via their IP and EP<sub>2</sub> receptors.[T116,A179044] Similarly to \u03b2 adrenergic receptors these are G<sub>s</sub>-coupled and mediate vasodilation through the AC/PKA pathway. PGE<sub>2</sub> also contributes by increasing leukocyte adhesion to the endothelium and attracts the cells to the site of injury.[T116] PGD<sub>2</sub> plays a role in the activation of endothelial cell release of cytokines through its DP<sub>1</sub> receptor.[A179044] PGI<sub>2</sub> and PGE<sub>2</sub> modulate T-helper cell activation and differentiation through IP, EP<sub>2</sub>, and EP<sub>4</sub> receptors which is believed to be an important activity in the pathology of arthritic conditions. By limiting the production of these PGs at the site of injury, NSAIDs can reduce inflammation.\r\n\r\nPGE<sub>2</sub> can cross the blood-brain barrier and act on excitatory G<sub>q</sub> EP<sub>3</sub> receptors on thermoregulatory neurons in the hypothalamus.[T116] This activation triggers an increase in heat-generation and a reduction in heat-loss to produce a fever. NSAIDs prevent the generation of PGE<sub>2</sub> thereby reducing the activity of these neurons.\r\n",
+    "absorption": "Diclofenac is completely absorbed from the GI tract but likely undergoes significant first pass metabolism with only 60% of the drug reaching systemic circulation unchanged [label,A178633,A180694]. Many topical formulations are absorbed percutaneous and produce clinically significant plasma concentrations. Absorption is dose proportional over the range of 25-150 mg.[A178633] Tmax varies between formulations with the oral solution reaching peak plasma concentrations in 10-40min, the enteric coated tablet in 1.5-2h, and the sustained- and extended-release formulations prolonging Tmax even further. Administration with food has no significant effects on AUC but does delay Tmax to 2.5-12h.[A178633,A180694] ",
+    "metabolism": "Diclofenac undergoes oxidative metabolism to hydroxy metabolites as well as conjugation to glucuronic acid, sulfate, and taurine.[label,A178633] The primary metabolite is 4'-hydroxy diclofenac which is generated by CYP2C9. This metabolite is very weakly active with one thirtieth the activity of diclofenac. Other metabolites include 3'-hydroxy diclofenac, 3'-hydroxy-4'methoxy diclofenac, 4',5-dihydroxy diclofenac, an acylglucuronide conjugate, and other conjugate metabolites.",
+    "toxicity": "Symptoms of overdose include lethargy, drowsiness, nausea, vomiting, and epigastric pain, and gastrointestinal bleeding.[label] Hypertension, acute renal failure, respiratory depression and coma occur rarely. In case of overdose, provide supportive care and consider inducing emesis and administering activated charcoal if overdose occurred less than 4 hours prior.",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferase 2B4",
+            "Humans"
+        ],
+        [
+            "ALOX5",
+            "Arachidonate 5-lipoxygenase",
+            "Humans"
+        ],
+        [
+            "PLA2G2A",
+            "Phospholipase A2, membrane associated",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLCO1C1",
+            "Solute carrier organic anion transporter family member 1C1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SCN4A",
+            "Sodium channel protein type 4 subunit alpha",
+            "Humans"
+        ],
+        [
+            "ASIC1",
+            "Acid-sensing ion channel 1",
+            "Humans"
+        ],
+        [
+            "KCNQ2",
+            "Potassium voltage-gated channel subfamily KQT member 2",
+            "Humans"
+        ],
+        [
+            "KCNQ3",
+            "Potassium voltage-gated channel subfamily KQT member 3",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "TTR",
+            "Transthyretin",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,73 @@
+{
+    "pharmgkb_id": "PA451565",
+    "drugbank_id": "DB00605",
+    "names": [
+        "Sulindac"
+    ],
+    "description": "Sulindac is a nonsteroidal anti-inflammatory drug (NSAID) of the arylalkanoic acid class that is marketed by Merck under the brand name Clinoril. Like other NSAIDs, it may be used in the treatment of acute or chronic inflammatory conditions. Sulindac is a prodrug, derived from sulfinylindene, that is converted _in vivo_ to an active sulfide compound by liver enzymes. There is evidence from some studies that sulindac may be associated with fewer gastrointestinal side effects than other NSAIDs, except for the cyclooxygenase-2 (COX-2) inhibitor drug class. This may be due to the sulfide metabolite undergoing enterohepatic circulation thus maintaining constant blood levels of the compound without inducing gastrointestinal effects, where the drug is excreted in the bile and then reabsorbed from the intestines. While its full mechanism of action is not fully understood, sulindac is thought to primarily mediate its action by inhibiting prostaglandin synthesis by inhibiting COX-1 and COX-2.",
+    "indication": "For acute or long-term use in the relief of signs and symptoms of osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, acute painful shoulder (acute subacromial bursitis/supraspinatus tendinitis), and acute gouty arthritis.",
+    "pharmacodynamics": "Sulindac is a non-steroidal anti-inflammatory indene derivative, also possessing analgesic and antipyretic activities.",
+    "mechanism-of-action": "Sulindac's exact mechanism of action is unknown. Its antiinflammatory effects are believed to be due to inhibition of both COX-1 and COX-2 which leads to the inhibition of prostaglandin synthesis. Antipyretic effects may be due to action on the hypothalamus, resulting in an increased peripheral blood flow, vasodilation, and subsequent heat dissipation.",
+    "absorption": "Approximately 90% absorbed in humans following oral administration.",
+    "metabolism": "Undergoes two major biotransformations: reversible reduction to the sulfide metabolite, and irreversible oxidation to the sulfone metabolite. Sulindac and its sulfide and sulfone metabolites undergo extensive enterohepatic circulation. Available evidence indicates that the biological activity resides with the sulfide metabolite. Side chain hydroxylation and hydration of the double bond also occur. ",
+    "toxicity": "Acute oral toxicity (LD<sub>50</sub>) in rats is 264 mg/kg. Cases of overdose have been reported and rarely, deaths have occurred. The following signs and symptoms may be observed following overdose: stupor, coma, diminished urine output and hypotension.",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "AKR1B1",
+            "Aldose reductase",
+            "Humans"
+        ],
+        [
+            "MAPK3",
+            "Mitogen-activated protein kinase 3",
+            "Humans"
+        ],
+        [
+            "PPARD",
+            "Peroxisome proliferator-activated receptor delta",
+            "Humans"
+        ],
+        [
+            "PTGDR2",
+            "Prostaglandin D2 receptor 2",
+            "Humans"
+        ],
+        [
+            "AKR1B10",
+            "Aldo-keto reductase family 1 member B10",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA166114925",
+    "drugbank_id": "DB06795",
+    "names": [
+        "Mafenide"
+    ],
+    "description": "Mafenide is a sulfonamide-type antimicrobial agent used to treat severe burns. It acts by reducing the bacterial population present in the burn tissue and promotes healing of deep burns.[L36773] In 1998, mafenide acetate was approved under the FDA\u2019s accelerated approval regulations. In November 2022, the use of mafenide acetate (powder for 5% topical solution) was withdrawn by the FDA due to an unresolved confirmatory study required to fulfill the accelerated approval requirements.[L44251]",
+    "indication": "Indicated for use as an adjunctive topical antimicrobial agent to control bacterial infection when used under moist dressings over meshed autografts on excised burn wounds.[label]",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "The precise mechanism of mafenide is unknown. However, mafenide reduces the bacterial population in the avascular burn tissue and promotes spontaneous heeling of deep burns. ",
+    "absorption": "Mafenide is absorbed through devascularized areas into the systemic circulation following topical administration.",
+    "metabolism": "Metabolized to a carbonic anhydrase inhibitor.",
+    "toxicity": "Since mafenide is metabolized to a carbonic anhydrase inhibitor, metabolic acidosis could occur. ",
+    "targets": [
+        [
+            "CA6",
+            "Carbonic anhydrase 6",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

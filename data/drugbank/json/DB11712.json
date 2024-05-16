@@ -1,0 +1,102 @@
+{
+    "pharmgkb_id": "PA166175754",
+    "drugbank_id": "DB11712",
+    "names": [
+        "Tezacaftor"
+    ],
+    "description": "Tezacaftor is a drug of the cystic fibrosis transmembrane conductance regulator (CFTR) potentiator class.[L1595] It was developed by Vertex Pharmaceuticals and FDA approved in combination with [ivacaftor] to manage cystic fibrosis.[L6814] This drug was approved by the FDA on February 12, 2018.[L4894]\r\n\r\nCystic Fibrosis is an autosomal recessive disorder caused by one of several different mutations in the gene for the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) protein, an ion channel involved in the transport of chloride and sodium ions across cell membranes. CFTR is active in epithelial cells of organs such as of the lungs, pancreas, liver, digestive system, and reproductive tract. Alterations in the CFTR gene result in altered production, misfolding, or function of the protein and consequently abnormal fluid and ion transport across cell membranes.[A20298,A20299] As a result, CF patients produce thick, sticky mucus that clogs the ducts of organs where it is produced making patients more susceptible to complications such as infections, lung damage, pancreatic insufficiency, and malnutrition.[A20302]",
+    "indication": "Tezacaftor is combined with ivacaftor in one product for the treatment of cystic fibrosis (CF) in patients aged 12 years or older with two copies of the _F508del_ gene mutation or at least one mutation in the CFTR gene that is responsive to this drug.[L6814]\r\n\r\nTezacaftor, when used in combination with ivacaftor and [elexacaftor] in the product Trikafta, is also indicated for the treatment of CF in patients 12 years of age and older that have at least one _F508del_ mutation in the CFTR gene.[L9395]\r\n",
+    "pharmacodynamics": "Clinical studies have shown a significant decrease in sweat chloride and an increase in the forced expiratory volume (FEV), a measure of lung function, following Tevacaftor/Ivacaftor therapy.[A32090] Phase 3 clinical studies have shown that a significant increase in forced expiratory volume was attained at 4 and 8 weeks after initiating this drug. The above effects lead to improvement of the respiratory symptoms of cystic fibrosis. Tezacaftor does not induce clinically significant QT prolongation.[A32093] When given with ivacaftor, tezacaftor can lead to liver transaminase elevations.[L6814] Testing of transaminases (ALT and AST) levels should occur before starting this combination every 3 months during the first year of treatment, and every year afterwards. Patients with a history of transaminase elevations should be monitored more frequently.[L6814]",
+    "mechanism-of-action": "The transport of charged ions across cell membranes is normally achieved through the actions of the cystic fibrosis transmembrane regulator (CFTR) protein. This protein acts as a channel and allows for the passage of chloride and sodium. This process affects the movement of water in and out of the tissues and impacts the production of mucus that lubricates and protects certain organs and body tissues, including the lungs. In the _F508del_ mutation of the CFTR gene, one amino acid is deleted at the position 508, therefore, the CFTR channel function is compromised, resulting in thickened mucus secretions.[L1595]  CFTR correctors such as tezacaftor aim to repair F508del cellular misprocessing.[A179677] This is done by modulating the position of the CFTR protein on the cell surface to the correct position, allowing for adequate ion channel formation and increased in water and salt movement through the cell membrane.[L1595] The concomitant use of ivacaftor is intended to maintain an open channel, increasing the transport of chloride, reducing thick mucus production.[L1599]",
+    "absorption": "The Cmax, Tmax and AUC of tezacaftor, when administered with ivacaftor, are 5.95 mcg/ml, 2-6 h, and 84.5 mcg.h/ml respectively.[L6814] Exposure of tezacaftor/ivacaftor increases 3-fold when it is administered with a high-fat meal.[L6814]",
+    "metabolism": "Tezacaftor is metabolized extensively in humans by the action of CYP3A4 and CYP3A5. There are three main circulating metabolites; M1, M2, and M5. The M1 is an active metabolite with similar activity to the parent drug, tezacaftor. The M2 metabolite is significantly less active and M5 is considered an inactive metabolite.[A179665,L6814] An additional circulating metabolite, M3, corresponding to the glucuronide form of tezacaftor.[L6814]",
+    "toxicity": "The LD50 of an oral dose in rats is >2000 mg/kg.[L6826]\r\n\r\nOverdose symptoms may include dizziness and diarrhea. There have been no reports to this date of tezacaftor overdose, but the highest dose of 450 mg every 12 hours commonly resulted in reports of dizziness and diarrhea.  No antidote exists for treating an overdose with this drug. General supportive measures should be undertaken along with monitoring of vital signs and close monitoring of clinical status.[L6814]",
+    "targets": [
+        [
+            "CFTR",
+            "Cystic fibrosis transmembrane conductance regulator",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

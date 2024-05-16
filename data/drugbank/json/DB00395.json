@@ -1,0 +1,58 @@
+{
+    "pharmgkb_id": "PA448809",
+    "drugbank_id": "DB00395",
+    "names": [
+        "Carisoprodol",
+        "Carisoma",
+        "Gencari",
+        "Genesafe",
+        "Hiranin",
+        "Listaflex",
+        "Sanoma",
+        "Tensaprin"
+    ],
+    "description": "Originally approved by the FDA in 1959 [FDA label], carisoprodol is a centrally acting muscle relaxant used in painful musculoskeletal conditions in conjunction with physical therapy and other medications [A176047].  This drug is available by itself in an oral tablet or combined with aspirin, or in a fixed-dose combination with both aspirin and codeine [FDA label, F4060, F4069].\r\n\r\nIn January 2012, this drug was classified as a Schedule IV substance under the controlled substances act in several US states due to alarming rates of abuse [A176062, A176077] despite having a low potential for abuse in addition to a low risk of dependence [L5074].",
+    "indication": "Carisoprodol is indicated for the relief of discomfort related to acute, painful musculoskeletal conditions [FDA label].\r\n\r\n\r\n**Important limitations of use** [FDA label]:\r\n\r\n\u2022 Should only be used for acute treatment periods up to two or three weeks \r\n\r\n\u2022 Adequate evidence of effectiveness for more prolonged use has not been established \r\n\r\n\u2022 Not recommended in pediatric patients less than 16 years of age",
+    "pharmacodynamics": "Carisoprodol is a centrally acting skeletal muscle relaxant that does not act directly on skeletal muscle but acts directly on the central nervous system (CNS).  This drug relieves the painful effects of muscle spasm [A176101, F4093]. A metabolite of carisoprodol, _meprobamate_, possesses both anxiolytic and sedative properties [FDA label]. Clinical studies have shown that this drug causes impairment of psychomotor performance in neuropsychological tests.[A176062, A176095]",
+    "mechanism-of-action": "The mechanism of action of carisoprodol in relieving discomfort associated with acute painful musculoskeletal conditions has not been confirmed.\r\nIn studies using animal models, the muscle relaxation that is induced by carisoprodol is associated with a change in the interneuronal activity of the spinal cord and of the descending reticular formation, located in the brain.[FDA label] \r\n\r\nThe abuse potential of this drug is attributed to its ability to alter GABAA function.[A176077] This drug has been shown to modulate a variety of GABAA receptor subunits.[A176062, A176068]  GABAA receptor modulation can lead to anxiolysis due to inhibitory effects on neurotransmission.[A173848]",
+    "absorption": "The absolute bioavailability of carisoprodol has not yet been established. The mean time to peak plasma concentrations (Tmax) of this drug was about 1.5-2 hours in clinical studies [FDA label]. Co-administration of a fatty meal with carisoprodol (350 mg tablet) had no impact on carisoprodol pharmacokinetics [FDA label]. ",
+    "metabolism": "The main pathway of carisoprodol is liver metabolism is by the cytochrome enzyme CYP2C19 to form meprobamate. This enzyme exhibits genetic polymorphism, which may affect the metabolism of this drug [FDA label]. ",
+    "toxicity": "**LD50 values**\r\n\r\nThe LD50 values of carisoprodol for rats are 450 mg/kg for intravenous (IV) and intraperitoneal injection, and 1,320 mg/kg for gavage dosing. In mice, the LD50 values are 165 mg/kg for intravenous injection, 980 mg/kg for intraperitoneal injection, and 2,340 mg/kg for gavage dosing. The LD50 value for rabbits given carisoprodol by intravenous injection is 124 mg/kg [F4078].\r\n\r\n**Overdose**\r\n\r\nAn overdose of carisoprodol leads to CNS depression, and in severe cases, induction of a coma. Shock, depression of respiratory function, seizures and death have also been reported in rare cases. Several symptoms may be associated with carisoprodol overdose, such as horizontal and vertical nystagmus, blurred vision, mydriasis, mild tachycardia and hypotension, respiratory depression, euphoria, CNS stimulation, muscular incoordination, and/or rigidity, confusion, headache, hallucinations, and dystonic reactions. Alcohol or other CNS depressants or psychotropic agents can exert additive effects on carisoprodol even when one of the agents has been ingested at the normal, therapeutic dose. Fatal accidental and non-accidental overdoses have both been reported with carisoprodol ingestion alone or ingestion of carisoprodol in combination with alcohol or psychotropic drugs [F4057]. \r\n\r\n**A note on dependence and withdrawal**\r\n\r\nIn the postmarketing reports after carisoprodol use, cases of dependence, withdrawal, and abuse have been reported with long-term use. The majority of dependence and withdrawal cases, as well as abuse, have occurred in patients with a history of addiction or who have used this drug in combination with other drugs having abuse potential. However, multiple post-marketing adverse event reports have been made of carisodopril-associated abuse when used without other drugs possessing abuse potential. Withdrawal symptoms have been observed and reported following sudden abrupt cessation after long-term carisodoprol use. To reduce the chance of carisodopril dependence, withdrawal, or abuse, carisodopril should be used with caution in addiction-prone patients and in patients taking other CNS depressants including alcohol. This drug should not be taken for longer than 2 to 3 weeks for symptomatic relief of acute musculoskeletal discomfort [FDA label].\r\n\r\n**Use in pregnancy**\r\n\r\nThis drug has been classified as Pregnancy Category C. There are no clinical trial data on the use of carisoprodol during human pregnancy. Animal studies show that carisoprodol crosses the placenta and leads to adverse effects on fetal growth and postnatal survival. In postmarketing reports, the main metabolite, _meprobamate_, has not demonstrated a consistent association between maternal use and an increased risk for specific congenital malformations [FDA label].\r\n\r\n**Use in nursing**\r\n\r\nLimited data in humans demonstrate that this is found excreted in breast milk and may reach concentrations in breast milk of 2-4 times the maternal plasma concentrations [FDA label]. It is therefore advisable to exercise caution when this drug is used during breastfeeding [FDA label].\r\n",
+    "targets": [
+        [
+            "GABRA1",
+            "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "Gamma-aminobutyric acid receptor subunit beta-2",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "Gamma-aminobutyric acid receptor subunit gamma-2",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "Gamma-aminobutyric acid receptor subunit alpha-5",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "Gamma-aminobutyric acid receptor subunit alpha-3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

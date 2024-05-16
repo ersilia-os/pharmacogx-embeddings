@@ -1,0 +1,37 @@
+{
+    "pharmgkb_id": "PA448997",
+    "drugbank_id": "DB00369",
+    "names": [
+        "Cidofovir"
+    ],
+    "description": "Cidofovir is an injectable antiviral medication employed in the treatment of cytomegalovirus (CMV) retinitis in patients diagnosed with AIDS. It suppresses CMV replication through selective inhibition of viral DNA synthesis.[FDA label] It was manufactured by _Gilead_ and initially approved by the FDA in 1996, but has since been discontinued.[L6223]",
+    "indication": "For the treatment of CMV retinitis in patients with acquired immunodeficiency syndrome (AIDS)",
+    "pharmacodynamics": "Cidofovir is a new anti-viral drug. It is classified as a nucleotide analogue and is active against herpes cytomegalovirus (CMV) retinitis infection. Most adults are infected with CMV. Cidofovir suppresses cytomegalovirus (CMV) replication by selective inhibition of viral DNA synthesis. ",
+    "mechanism-of-action": "Cidofovir acts through the selective inhibition of viral DNA polymerase.Biochemical data support selective inhibition of CMV DNA polymerase by cidofovir diphosphate, the active intracellular metabolite of cidofovir. Cidofovir diphosphate inhibits herpesvirus polymerases at concentrations that are 8- to 600-fold lower than those needed to inhibit human cellular DNA polymerase alpha, beta, and gamma(1,2,3). Incorporation of cidofovir into the growing viral DNA chain results in reductions in the rate of viral DNA synthesis.",
+    "absorption": "100%",
+    "metabolism": null,
+    "toxicity": "Kidney damage, fall in the number of white blood cells, decreased platelets",
+    "targets": [
+        [
+            "UL54",
+            "DNA polymerase catalytic subunit",
+            "HHV-5"
+        ]
+    ],
+    "enzymes": [
+        [
+            "TYMP",
+            "Thymidine phosphorylase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

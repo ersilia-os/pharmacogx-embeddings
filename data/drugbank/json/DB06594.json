@@ -1,0 +1,48 @@
+{
+    "pharmgkb_id": "PA165958363",
+    "drugbank_id": "DB06594",
+    "names": [
+        "Agomelatine",
+        "Melitor",
+        "Valdoxan"
+    ],
+    "description": "Agomelatine is structurally closely related to melatonin. Agomelatine is a potent agonist at melatonin receptors and an antagonist at serotonin-2C (5-HT2C) receptors, tested in an animal model of depression. Agomelatine was developed in Europe by Servier Laboratories Ltd. and submitted to the European Medicines Agency (EMA) in 2005. The Committee for Medical Products for Human Use (CHMP) recommended refusal of marketing authorization on 27 July 2006. The major concern was that efficacy had not been sufficiently shown. In 2006 Servier sold the rights to develop Agomelatine in the US to Novartis.\r\n\r\nThe development for the US market was discontinued in October 2011. It is currently sold in Australia under the Valdoxan trade name.",
+    "indication": "Agomelatine is indicated to treat major depressive episodes in adults.",
+    "pharmacodynamics": "Agomelatine resynchronises circadian rhythms in animal models of delayed sleep phase syndrome and other circadian rhythm disruptions. It increases noradrenaline and dopamine release specifically in the frontal cortex and has no influence on the extracellular levels of serotonin. Agomelatine has shown an antidepressant-like effect in animal depression models, (learned helplessness test, despair test, and chronic mild stress) circadian rhythm desynchronisation, and in stress and anxiety models. In humans, agomelatine has positive phase shifting properties; it induces a phase advance of sleep, body temperature decline and melatonin onset. Controlled studies in humans have shown that agomelatine is as effective as the SSRI antidepressants paroxetine and sertraline in the treatment of major depression",
+    "mechanism-of-action": "The novel antidepressant agent, agomelatine, behaves as an agonist at melatonin receptors (MT1 and MT2) and as an antagonist at serotonin (5-HT)(2C) receptors.",
+    "absorption": "Bioavailability is less than 5%.",
+    "metabolism": "Hepatic (90% CYP1A2 and 10% CYP2C9).",
+    "toxicity": null,
+    "targets": [
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "MTNR1A",
+            "Melatonin receptor type 1A",
+            "Humans"
+        ],
+        [
+            "MTNR1B",
+            "Melatonin receptor type 1B",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

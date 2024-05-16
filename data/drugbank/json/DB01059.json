@@ -1,0 +1,88 @@
+{
+    "pharmgkb_id": "PA450654",
+    "drugbank_id": "DB01059",
+    "names": [
+        "Norfloxacin",
+        "Chibroxin"
+    ],
+    "description": "A synthetic fluoroquinolone (fluoroquinolones) with broad-spectrum antibacterial activity against most gram-negative and gram-positive bacteria. Norfloxacin inhibits bacterial DNA gyrase.",
+    "indication": "For the treatment of urinary tract infection",
+    "pharmacodynamics": "Norfloxacin is a quinolone/fluoroquinolone antibiotic. Norfloxacin is bactericidal and its mode of action depends on blocking of bacterial DNA replication by binding itself to an enzyme called DNA gyrase, which allows the untwisting required to replicate one DNA double helix into two. Notably the drug has 100 times higher affinity for bacterial DNA gyrase than for mammalian.",
+    "mechanism-of-action": "The bactericidal action of Norfloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV, which are required for bacterial DNA replication, transcription, repair, and recombination. Norfloxacin is a broad-spectrum antibiotic agent that is shown to be effective against various Gram-positive and Gram-negative bacterial species. The fluorine atom at the 6 position increases potency against gram-negative organisms, and the piperazine moiety at the 7 position is responsible for anti-pseudomonal activity",
+    "absorption": "Rapid",
+    "metabolism": "Via liver and kidney",
+    "toxicity": null,
+    "targets": [
+        [
+            "gyrA",
+            "DNA gyrase subunit A",
+            "Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)"
+        ],
+        [
+            "parC",
+            "DNA topoisomerase 4 subunit A",
+            "Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)"
+        ],
+        [
+            "TOP2A",
+            "DNA topoisomerase 2-alpha",
+            "Humans"
+        ],
+        [
+            "gyrA",
+            "DNA gyrase subunit A",
+            "Staphylococcus aureus"
+        ],
+        [
+            "TOP2A",
+            "DNA topoisomerase 2",
+            "Humans"
+        ],
+        [
+            "TOP2B",
+            "DNA topoisomerase 2",
+            "Humans"
+        ],
+        [
+            "parC",
+            "DNA topoisomerase 4 subunit A",
+            "Staphylococcus aureus"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

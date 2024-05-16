@@ -1,0 +1,37 @@
+{
+    "pharmgkb_id": "PA10227",
+    "drugbank_id": "DB01610",
+    "names": [
+        "Valganciclovir",
+        "Cymeval",
+        "Valcyt"
+    ],
+    "description": "Valganciclovir hydrochloride (Valcyte, manufactured by Roche) is an antiviral medication used to treat cytomegalovirus infections. As the L-valyl ester of ganciclovir, it is actually a prodrug for ganciclovir. After oral administration, it is rapidly converted to ganciclovir by intestinal and hepatic esterases.",
+    "indication": "Valganciclovir is an antiviral medication used for the treatment of cytomegalovirus infections.",
+    "pharmacodynamics": "Valganciclovir is an antiviral medication used to treat cytomegalovirus infections. As the L-valyl ester of ganciclovir, it is actually a prodrug for ganciclovir. After oral administration, it is rapidly converted to ganciclovir by intestinal and hepatic esterases. After this, it (being an analogue of guanosine) gets incorporated into DNA and thus cannot be properly read by DNA polymerase. This results in the termination of the elongation of viral DNA.",
+    "mechanism-of-action": "Valganciclovir is a prodrug of ganciclovir that exists as a mixture of two diastereomers. After administration, these diastereomers are rapidly converted to ganciclovir by hepatic and intestinal esterases. In cytomegalovirus (CMV)-infected cells, ganciclovir is initially phosphorylated to the monophosphate form by viral protein kinase, then it is further phosphorylated via cellular kinases to produce the triphosphate form. This triphosphate form is slowly metabolized intracellularly. The phosphorylation is dependent upon the viral kinase and occurs preferentially in virus-infected cells. The virustatic activity of ganciclovir is due to the inhibition of viral DNA synthesis by ganciclovir triphosphate. Ganciclovir triphosphate is incorporated into the DNA strand replacing many of the adenosine bases. This results in the prevention of DNA synthesis, as phosphodiester bridges can longer to be built, destabilizing the strand. Ganciclovir inhibits viral DNA polymerases more effectively than it does cellular polymerase, and chain elongation resumes when ganciclovir is removed.",
+    "absorption": "Valganciclovir is well absorbed from the gastrointestinal tract and the absolute bioavailability from valganciclovir tablets (following administration with food) is approximately 60%.",
+    "metabolism": "Rapidly hydrolyzed in the intestinal wall and liver to ganciclovir. No other metabolites have been detected.",
+    "toxicity": "It is expected that an overdose of valganciclovir could also possibly result in increased renal toxicity.",
+    "targets": null,
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLC6A14",
+            "Sodium- and chloride-dependent neutral and basic amino acid transporter B(0+)",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

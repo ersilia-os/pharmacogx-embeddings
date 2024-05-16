@@ -5,3 +5,4 @@ data/variants/1000_Genomes/1000_subset_snvs_coding_1kGPhg38.tsv filter=lfs diff=
 data/variants/1000_Genomes/100000_subset_snvs_coding_1kGPhg38.tsv filter=lfs diff=lfs merge=lfs -text
 data/gwas_ebi/gwas_catalog*.tsv filter=lfs diff=lfs merge=lfs -text
 data/gwas_ebi/gwas_catalog_biogpt_embeddings.h5 filter=lfs diff=lfs merge=lfs -text
+embeddings/protein-sequence---uniprot.joblib filter=lfs diff=lfs merge=lfs -text

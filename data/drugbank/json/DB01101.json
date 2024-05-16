@@ -1,0 +1,112 @@
+{
+    "pharmgkb_id": "PA448771",
+    "drugbank_id": "DB01101",
+    "names": [
+        "Capecitabine"
+    ],
+    "description": "Capecitabine is an orally-administered chemotherapeutic agent used in the treatment of metastatic breast and colorectal cancers. Capecitabine is a prodrug, that is enzymatically converted to fluorouracil (antimetabolite) in the tumor, where it inhibits DNA synthesis and slows growth of tumor tissue.",
+    "indication": "Capecitabine is indicated as treatment for a variety of cancer types. For colorectal cancer, capecitabine is indicated as a single agent or a component of a combination chemotherapy regiment for the adjuvant treatment of stage III colon cancer and treatment unresectable or metastatic colorectal cancer. It can also be used as a part of a combination chemotherapy perioperative treatment of adult locally advanced rectal cancer.[L44657] For breast cancer, capecitabine is indicated for advanced or metastatic breast cancer as a single agent if an anthracycline- or taxane-containing chemotherapy is not indicated or as a regimen with docetaxel after disease progression on prior anthracycline-containing chemotherapy.[L44657] For gastric, esophageal, or gastroesophageal junction (GEJ) cancer, capecitabine is indicated as a component of a combination chemotherapy treatment for the treatment of adult unresectable or metastatic gastric, esophageal, or GEJ cancer or adult HER2-overexpressing metastatic gastric or GEJ adenocarcinoma who have not received prior treatment for metastatic disease.[L44657] Finally, for pancreatic cancer, capecitabine is indicated as adjuvant treatment for adult pancreatic adenocarcinoma as a component of a combination chemotherapy regimen.[L44657]",
+    "pharmacodynamics": "Capecitabine is a fluoropyrimidine carbamate belonging to a group of antineoplastic agents called antimetabolites, which kill cancerous cells by interfering with DNA synthesis.[A256242,A841] It is an orally administered systemic prodrug that has little pharmacologic activity until it is converted to 5-fluorouracil (5-FU) by enzymes that are expressed in higher concentrations in many tumors.[A256247] Capecitabine was designed specifically to overcome the disadvantages of 5-FU and to mimic the infusional pharmacokinetics of 5-FU without the associated complexity and complications of central venous access and infusion pumps.[A256242] Particularly, since the enzymes converting 5-FU into active metabolites exist in the gastrointestinal tract, infusion of 5-FU can have gastrointestinal toxicity while also losing efficacy.[A256252] Since capecitabine can be transported intact across the intestinal mucosa, it can be selectively delivered 5-FU to tumor tissues through enzymatic conversion preferentially inside tumor cells.[A256252]\r\n\r\n5-FU exerts its pharmacological action through the inhibition and interference of 3 main targets: thymidylate synthase, DNA, and RNA, leading through protein synthesis disruption and apoptosis.[A841,A256152] Population-based exposure-effect analyses demonstrated a positive association between AUC of 5-FU and grade 3-4 hyperbilirubinemia.[L44657]",
+    "mechanism-of-action": "Capecitabine is metabolized to 5-fluorouracil in vivo by carboxylesterases, cytidine deaminase, and thymidine phosphorylase/uridine phosphorylase sequentially.[L44657,A256027,A256142,A256147,A32078] 5-fluorouracil is further metabolized through a series of enzymatic reactions into 3 main active metabolites: 5-fluorouridine triphosphate (5-FUTP), 5-fluoro-2\u2019-deoxyuridine monophosphate (5-FdUMP), and 5-fluorodeoxyuridine triphosphate (5-FdUTP).[A256062,A256027,A256077]. These metabolites cause cell injury by two different mechanisms. First, FdUMP and the folate cofactor, N5-10-methylenetetrahydrofolate (CH<sub>2</sub>THF), bind to thymidylate synthase (TS) to form a covalently bound ternary complex.[L44657] TS is an enzyme that catalyzes the methylation of deoxyuridine monophosphate (dUMP) to deoxythymidine monophosphate (dTMP).[A256152,A256077] Under normal physiological conditions, dUMP binds to TS first before CH<sub>2</sub>THF, followed by a 1,4 or Michael addition from the pyrimidine C (6)atom to the Cys146 nucleophile.[A256152,A256157] If correctly positioned, dUMP, CH<sub>2</sub>THF, and TS would form a ternary complex to facilitate the donation of the methyl group from CH<sub>2</sub>THF to dUMP.[A256152] However, the substitution of dUMP with FdUMP results in a new time-dependent TS\u2013FdUMP\u2013CH2THF complex. Since the fluorine group prevents dissociation of FdUMP from the pyrimidine ring, the whole complex is rendered irreversibly deactivated, terming this reaction \"suicide inhibition\".[A256152,A256162] TS inhibition prevents the conversion of dUMP to dTMP, depleting the pool of dTMP that could be phosphorylated into dTTP to be incorporated as DNA nucleotides. This disrupts the nucleotides balance, particularly the the ATP/dTTP ratio, thus impairing DNA synthesis and repair and causing apoptosis.[A256167,A256152] \r\n\r\n5-FdUMP can also be phosphorylated into 5-FdUTP, further increasing the pool of dUTP base to potentially overwhelm the activity of dUTPase.[A256177] Coupled with the decrease in dTTP, 5-FdUMP, and 5-FdUTP increase the probability of mistakenly incorporating a uracil base into DNA strands in place of thymine. Although this mistake can often be resolved by the nucleotide excision repair enzyme uracil-DNA-glycosylase (UDG), the high (F)dUTP/dTTP ratio would result in re-incorporation of uracil into DNA, leading to a futile cycle of misincorporation, excision, and repair.[A256172,A841] Repeated base excision repair can result in abasic sites, which can lead to DNA mutagenesis and thus protein miscoding, replication forks collapse, and DNA fragmentation through single or double strand breaks [A256177,A256182,A256187,A256192] \r\n\r\nHowever, several reports have found that the incorporation of uracil in genomic DNA does not significantly affect the cytotoxicity of 5-FU, suggesting that the cytotoxic effect of 5-FU is dominated by the perturbation of RNA through 5-FUTP.[A256197,A256202] Similar to 5-dFUTP, 5-FUTP can be mistakenly incorporated into RNA in place of regular UTP and disrupt regular RNA biology through various mechanisms. 5-FUTP can be incorporated into the spliceosomal U2 snRNA at pseudouridylated sites to prevent further pseudouridylation and thus pre-mrNA splicing. 5-FUTP can also change the structure of U4 and U6 snRNA and reduce the turnover rate of U1 snrNA once incorporated.[A256207] For tRNA, 5-FUTP can affect tRNA's post-transcriptional RNA modifications activity, particularly by inhbiting pseudouridine synthase through formation of covalent complex.[A256212,A256217] Recently, the effect of 5-FUTP on miRNAs and lncRNA was also observed through profound changes in expression, although the precise mechanism is still unknown.[A256222,A256227,A256232]\r\n\r\nAlthough the main mechanism of 5-FU cytotoxicity was thought to be attributed to DNA damages, recent reports have shown that the majority of 5-FU pharmacological action is mediated through RNA, since 5-FU is accumulated ~3000- to 15\u2009000-fold more in RNA compared to that of DNA.[A256237] \r\n",
+    "absorption": "The AUC of capecitabine and its metabolite 5\u2019-DFCR increases proportionally over a dosage range of 500 mg/m2/day to 3,500 mg/m2/day (0.2 to 1.4 times the approved recommended dosage). The AUC of capecitabine\u2019s metabolites 5\u2019-DFUR and fluorouracil increased greater than proportional to the dose. The interpatient variability in the Cmax and AUC of fluorouracil was greater than 85%.[L44657]\r\n\r\nFollowing oral administration of capecitabine 1,255 mg/m<sup>2</sup> orally twice daily (the recommended dosage when used as a single agent), the median Tmax of capecitabine and its metabolite fluorouracil was approximately 1.5 hours and 2 hours, respectively.[L44657] \r\n\r\n",
+    "metabolism": "Capecitabine undergoes metabolism by carboxylesterase and is hydrolyzed to 5\u2019-DFCR. 5\u2019-DFCR is subsequently converted to 5\u2019-DFUR by cytidine deaminase. 5\u2019-DFUR is then hydrolyzed by thymidine phosphorylase (dThdPase) enzymes to the active metabolite\r\nfluorouracil.[L44657]\r\n\r\nFluorouracil is subsequently metabolized by dihydropyrimidine dehydrogenase to 5-fluoro-5, 6-dihydro-fluorouracil (FUH2). The pyrimidine ring of FUH2 is cleaved by dihydropyrimidinase to yield 5-fluoro-ureido-propionic acid (FUPA). Finally, FUPA is cleaved by \u03b2-ureido-propionase to \u03b1-fluoro-\u03b2-alanine (FBAL).[L44657]",
+    "toxicity": "Adequate studies investigating the carcinogenic potential of capecitabine have not been conducted. Capecitabine was not mutagenic in vitro to bacteria (Ames test) or mammalian cells (Chinese hamster V79/HPRT gene mutation assay). Capecitabine was clastogenic in vitro to human peripheral blood lymphocytes but not clastogenic in vivo to mouse bone marrow (micronucleus test). Fluorouracil causes mutations in bacteria and yeast. Fluorouracil also causes chromosomal abnormalities in the mouse micronucleus test in vivo.[L44657]\r\n\r\nIn studies of fertility and general reproductive performance in female mice, oral capecitabine doses of 760 mg/kg/day (about 2,300 mg/m2/day) disturbed estrus and consequently caused a decrease in fertility. In mice that became pregnant, no fetuses survived this dose. The disturbance in estrus was reversible. In males, this dose caused degenerative changes in the testes, including decreases in the number of spermatocytes and spermatids. In separate pharmacokinetic studies, this dose in mice produced 5\u2019-DFUR AUC values about 0.7 times the corresponding values in patients administered the recommended daily dose.[L44657]\r\n\r\nBased on findings in animal reproduction studies and its mechanism of action [see Clinical Pharmacology (12.1)], XELODA can cause fetal harm when administered to a pregnant woman. Available human data on XELODA use in pregnant women is not sufficient to inform the drug-associated risk. In animal reproduction studies, administration of capecitabine to pregnant animals during the period of organogenesis caused embryo lethality and teratogenicity in mice and embryo lethality in monkeys at 0.2 and 0.6 times the exposure (AUC) in patients receiving the recommended dose of 1,250 mg/m2 twice daily, respectively. Advise pregnant women of the potential risk to a fetus.[L44657]\r\n\r\nThe estimated background risk of major birth defects and miscarriage for the indicated population is unknown. All pregnancies have a background risk of birth defect, loss, or other adverse outcomes. In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.[L44657]\r\n\r\nAdminister uridine triacetate within 96 hours for management of XELODA overdose. Although no clinical experience using dialysis as a treatment for XELODA overdose has been reported, dialysis may be of benefit in reducing circulating concentrations of 5\u2019-DFUR, a low\u2013molecular-weight metabolite of the parent compound.[L44657]",
+    "targets": [
+        [
+            "TYMS",
+            "Thymidylate synthase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "TYMP",
+            "Thymidine phosphorylase",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ],
+        [
+            "CDA",
+            "Cytidine deaminase",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "UPP1",
+            "Uridine phosphorylase 1",
+            "Humans"
+        ],
+        [
+            "UPP2",
+            "Uridine phosphorylase 2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01101",
+            "Drug Name": "Capecitabine",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs3918290",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD is associated with an increased risk of drug-related toxicity from capecitabine therapy."
+        },
+        {
+            "DrugBank ID": "DB01101",
+            "Drug Name": "Capecitabine",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs55886062",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD is associated with an increased risk of drug-related toxicity from capecitabine therapy."
+        },
+        {
+            "DrugBank ID": "DB01101",
+            "Drug Name": "Capecitabine",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs67376798",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from capecitabine therapy."
+        },
+        {
+            "DrugBank ID": "DB01101",
+            "Drug Name": "Capecitabine",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801158",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from capecitabine therapy."
+        },
+        {
+            "DrugBank ID": "DB01101",
+            "Drug Name": "Capecitabine",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801159",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from capecitabine therapy."
+        },
+        {
+            "DrugBank ID": "DB01101",
+            "Drug Name": "Capecitabine",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801160",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from capecitabine therapy."
+        },
+        {
+            "DrugBank ID": "DB01101",
+            "Drug Name": "Capecitabine",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801265",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from capecitabine therapy."
+        }
+    ]
+}

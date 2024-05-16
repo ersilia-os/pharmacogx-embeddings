@@ -1,0 +1,129 @@
+{
+    "pharmgkb_id": "PA452620",
+    "drugbank_id": "DB09256",
+    "names": [
+        "Tegafur",
+        "Ai Yi",
+        "ESUEEW AN T",
+        "Fimer",
+        "Ftorafur",
+        "Furil",
+        "Futraful",
+        "Icarus",
+        "Lunacin",
+        "NKS-1 T",
+        "Qi Xing",
+        "S-1",
+        "Sterozine",
+        "Tefudex",
+        "Tegacin",
+        "Tegracil",
+        "Teroful",
+        "TS-1",
+        "TS-ONE",
+        "UFT",
+        "Ufur",
+        "Unitoral",
+        "Utefos"
+    ],
+    "description": "Tegafur (INN, BAN, USAN) is a prodrug of [DB00544] (5-FU), an antineoplastic agent used as the treatment of various cancers such as advanced gastric and colorectal cancers. It is a pyrimidine analogue used in combination therapies as an active chemotherapeutic agent in conjunction with [DB09257] and [DB03209], or along with [DB00544] as [DB09327]. Tegafur is usually given in combination with other drugs that enhance the bioavailability of the 5-FU by blocking the enzyme responsible for its degradation, or serves to limit the toxicity of 5-FU by ensuring high concentrations of 5-FU at a lower dose of tegafur [L933]. When converted and bioactivated to 5-FU, the drug mediates an anticancer activity by inhibiting thymidylate synthase (TS) during the pyrimidine pathway involved in DNA synthesis. 5-FU is listed on the World Health Organization's List of Essential Medicines.",
+    "indication": "Indicated for the treatment of cancer usually in combination with other biochemically modulating drugs.\r\n\r\nIndicated in adults for the treatment of advanced gastric cancer when given in combination with [DB00515] [L933]. \r\n\r\nIndicated for the first-line treatment of metastatic colorectal cancer with [DB03419] and calcium folinate [L934]. ",
+    "pharmacodynamics": "Tegafur is an antineoplastic agent that belongs in the class of pyrimidine analogues. It interferes with the 2'-deoxythymidylate (DTMP) synthesis in the pyrimidine pathway, resulting in inhibition of DNA synthesis [T28]. In a phase III trial investigating the clinical efficacy of S-1 (tegafur/gimeracil/oteracil) in patients with advanced or recurrent gastric cancer, treatment resulted in a high response rate and was associated with a longer overall survival and longer progression-free survival rate when used in combination with cisplatin [A20336]. In a meta analysis, triple combination therapy consisting of tegafur, gimeracil and oteracil showed longer survival times and well tolerance in patients with advanced gastric cancer [A20338]. Tegafur and its active metabolites are potent myleosuppressive agents [L933]. ",
+    "mechanism-of-action": "The transformation of 2'-deoxyurindylate (dUMP) to 2'-deoxythymidylate (dTMP) is essential in driving the synthesis of DNA and purines in cells [T28]. Thymidylate synthase catalyzes the conversion of dUMP to dTMP, which is a precursor of thymidine triphosphate (TTP), one of the four deoxyribonucleotides required for DNA synthesis [A31546]. After administration into the body, tegafur is converted into the active antineoplastic metabolite, fluorouracil (5-FU). In tumour cells, 5-FU undergoes phosphorylation to form the active anabolites, including 5-fluorodeoxyuridine monophosphate (FdUMP) [L933]. FdUMP and reduced folate are bound to thymidylate synthase leading to formation of a ternary complex which inhibits DNA synthesis [L933]. In addition, 5-fluorouridine-triphosphate (FUTP) is incorporated into RNA causing disruption of RNA functions [L933].",
+    "absorption": "Tegafur displays a dose-proportional pharmacokinetic properties. Tegafur is rapidly and well absorbed into the systemic circulation, reaching the peak plasma concentration within 1 to 2 hours of administration [L934]. ",
+    "metabolism": "Hepatic CYP2A6 is the predominant enzyme that mediates 5-hydroxylation of tegafur to generate 5'-hydroxytegafur. This metabolite is unstable and undergoes spontaneous degradation to form 5-FU, which is an active antineoplastic agent that exerts a pharmacological action on tumours. 5-FU is rapidly metabolised by the liver enzyme dihydropyrimidine dehydrogenase (DPD) [A31546]. ",
+    "toxicity": "Oral LD50 value in rat, mouse and dog are 930mg/kg, 775mg/kg, and 34mg/kg, respectively [MSDS]. Continuous exposure to tegafur may cause physical defects in the developing embryo (teratogenesis). \r\n\r\nAcute toxicity from the combination use of tegafur was associated with nausea, vomiting, diarrhoea, mucositis, gastrointestinal irritation, bleeding, bone marrow depression, and respiratory failure [L933]. Overdose may lead to fatal complications [L934]. In case of overdose, appropriate therapeutic and supportive medical interventions should be implemented. ",
+    "targets": [
+        [
+            "TYMS",
+            "Thymidylate synthase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "SERPINA7",
+            "Thyroxine-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB09256",
+            "Drug Name": "Tegafur",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs3918290",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD is associated with an increased risk of drug-related toxicity from tegafur therapy."
+        },
+        {
+            "DrugBank ID": "DB09256",
+            "Drug Name": "Tegafur",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs55886062",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD is associated with an increased risk of drug-related toxicity from tegafur therapy."
+        },
+        {
+            "DrugBank ID": "DB09256",
+            "Drug Name": "Tegafur",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs67376798",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from tegafur therapy."
+        },
+        {
+            "DrugBank ID": "DB09256",
+            "Drug Name": "Tegafur",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801158",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from tegafur therapy."
+        },
+        {
+            "DrugBank ID": "DB09256",
+            "Drug Name": "Tegafur",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801159",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from tegafur therapy."
+        },
+        {
+            "DrugBank ID": "DB09256",
+            "Drug Name": "Tegafur",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801160",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from tegafur therapy."
+        },
+        {
+            "DrugBank ID": "DB09256",
+            "Drug Name": "Tegafur",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801265",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from tegafur therapy."
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "pharmgkb_id": "PA165110439",
+    "drugbank_id": "DB04845",
+    "names": [
+        "Ixabepilone"
+    ],
+    "description": "Ixabepilone is an epothilone B analog developed by Bristol-Myers Squibb as a cancer drug. It was FDA approved on October 16, 2007, for the treatment of unresponsive aggressive metastatic or locally advanced breast cancer. Ixabepilone is administered through injection, and will be marketed under the trade name Ixempra. Ixabepilone is a semisynthetic analogue of epothilone B. It has a lactone\u2013lactam modification that minimizes susceptibility to esterase degradation.",
+    "indication": "Investigated for use/treatment in breast cancer, head and neck cancer, melanoma, lung cancer, lymphoma (non-hodgkin's), prostate cancer, renal cell carcinoma, and cancer/tumors (unspecified).",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Binding of Ixabepilone to beta-tubulins (e.g. beta-III tubulin) stabilizes microtubules. Microtubules are essential to cell division, and epothilones therefore stop cells from properly dividing. Like taxol, Ixabepilone binds to the \u03b1\u03b2-tubulin heterodimer subunit. Once bound, the rate of \u03b1\u03b2-tubulin dissociation decreases, thus stabilizing the microtubules.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "TUBB3",
+            "Tubulin beta-3 chain",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

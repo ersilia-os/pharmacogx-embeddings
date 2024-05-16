@@ -1,0 +1,78 @@
+{
+    "pharmgkb_id": "PA450985",
+    "drugbank_id": "DB00554",
+    "names": [
+        "Piroxicam",
+        "Bruxicam",
+        "Dolonex",
+        "Erazon",
+        "Geld\u00e8ne",
+        "Improntal",
+        "Roxam",
+        "Roxiden",
+        "Sasulen",
+        "Solocalm",
+        "Trast"
+    ],
+    "description": "A cyclooxygenase inhibiting, non-steroidal anti-inflammatory agent (NSAID) that is well established in treating rheumatoid arthritis and osteoarthritis and used for musculoskeletal disorders, dysmenorrhea, and postoperative pain. Its long half-life enables it to be administered once daily.",
+    "indication": "For treatment of osteoarthritis and rheumatoid arthritis.",
+    "pharmacodynamics": "Piroxicam is in a class of drugs called nonsteroidal anti-inflammatory drugs (NSAIDs). Piroxicam works by reducing hormones that cause inflammation and pain in the body. Piroxicam is used to reduce the pain, inflammation, and stiffness caused by rheumatoid arthritis and osteoarthritis.",
+    "mechanism-of-action": "The antiinflammatory effect of Piroxicam may result from the reversible inhibition of cyclooxygenase, causing the peripheral inhibition of prostaglandin synthesis. The prostaglandins are produced by an enzyme called Cox-1. Piroxicam blocks the Cox-1 enzyme, resulting into the disruption of production of prostaglandins. Piroxicam also inhibits the migration of leukocytes into sites of inflammation and prevents the formation of thromboxane A2, an aggregating agent, by the platelets.",
+    "absorption": "Well absorbed following oral administration.",
+    "metabolism": "Renal",
+    "toxicity": "Symptoms of overdose include drowsiness, nausea, stomach pain, and/or vomiting.",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

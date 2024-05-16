@@ -1,0 +1,131 @@
+{
+    "pharmgkb_id": "PA450475",
+    "drugbank_id": "DB01233",
+    "names": [
+        "Metoclopramide",
+        "Cerucal",
+        "Degan",
+        "Elieten",
+        "Maxeran",
+        "Maxolon",
+        "METOZOLV",
+        "Plasil1",
+        "Plazilin",
+        "Pramin",
+        "Primperan",
+        "Pulin",
+        "Pylomid",
+        "Reliveran"
+    ],
+    "description": "Diabetic gastroparesis is a condition that causes frequent nausea and vomiting, which has a negative impact on quality of life and poses a significant burden on the healthcare system.[A184934] Metoclopramide is a dopamine antagonist used to treat nausea and vomiting that may be associated with diabetic gastroparesis in addition to gastroesophageal reflux disease (GERD). It can also be used to prevent nausea or vomiting associated with chemotherapy or certain surgical or diagnostic procedures.[L8417] \r\n\r\nOne unique property of this drug is that it does not increase gastric acid secretion. It is available in the oral tablet form or in solution, and can also be administered through the intravenous route.[T683] Metoclopramide was initially approved by the FDA in 1980.[A184922]",
+    "indication": "Metoclopramide in the oral tablet form is used for symptomatic treatment of both acute and recurrent diabetic gastroparesis, in addition to the treatment of gastroesophageal reflux disease (GERD) in patients who have failed to respond to traditional therapy.[L8414] A nasal spray formulation is also indicated to treat adults with acute, recurrent diabetic gastroparesis.[L14381]\r\n\r\nIn the intravenous injection form, it is indicated for the above conditions as well as for the prevention of vomiting that may follow emetogenic chemotherapy or nausea and vomiting after surgery. Intravenous metoclopramide facilitates intubation of the small bowel and stimulates gastric emptying and barium flow in patients who require radiological examination of the stomach or small intestine.  In some cases, the delay of gastrointestinal emptying interferes with the radiographic visualization of the gastrointestinal tract, and metoclopramide is used to facilitate emptying in these cases, allowing for adequate diagnostic visualization.[L8417]\r\n\r\nSome off-label uses of metoclopramide include the management of radiation-induced nausea and vomiting, gastric bezoars, intractable hiccups, and migraine pain.[A184961,A184964,A184967,A40105]",
+    "pharmacodynamics": "Metoclopramide increases gastric emptying by decreasing lower esophageal sphincter (LES) pressure. It also exerts effects on the area postrema of the brain, preventing and relieving the symptoms of nausea and vomiting. In addition, this drug increases gastrointestinal motility without increasing biliary, gastric, or pancreatic secretions.[T683,L8414,L8417]\r\n\r\nBecause of its antidopaminergic activity, metoclopramide can cause symptoms of tardive dyskinesia (TD), dystonia, and akathisia, and should therefore not be administered for longer than 12 weeks.[A184886,L8414]",
+    "mechanism-of-action": "Metoclopramide causes antiemetic effects by inhibiting dopamine D2 and serotonin 5-HT3 receptors in the chemoreceptor trigger zone (CTZ) located in the area postrema of the brain.[A184880,T683] Administration of this drug leads to prokinetic effects via inhibitory actions on presynaptic and postsynaptic D2 receptors, agonism of serotonin 5-HT4 receptors, and antagonism of muscarinic receptor inhibition. This action enhances the release of acetylcholine, causing increased lower esophageal sphincter (LES) and gastric tone, accelerating gastric emptying and transit through the gut. Metoclopramide antagonizes the dopamine D2 receptors. Dopamine exerts relaxant effect on the gastrointestinal tract through binding to muscular D2 receptors.[A184880,T683,L8414]",
+    "absorption": "Metoclopramide is rapidly absorbed in the gastrointestinal tract with an absorption rate of about 84%.[A184886] The bioavailability of the oral preparation is reported to be about 40.7%, but can range from 30-100%.[A184880,A184949]\r\n\r\nNasal metoclopramide is 47% bioavailable.[L14381] A 15mg dose reaches a C<sub>max</sub> of 41.0 ng/mL, with a T<sub>max</sub> of 1.25 h, and an AUC of 367 ng\\*h/mL.[L14381]",
+    "metabolism": "Metoclopramide undergoes first-pass metabolism and its metabolism varies according to the individual. This drug is metabolized by cytochrome P450 enzymes in the liver.[A184880] CYP2D6 and CYP3A4 both contribute to its metabolism, with CYP2D6 being more heavily involved. CYP1A2 is also a minor contributing enzyme.[A181352] The process of N-4 sulphate conjugation is a primary metabolic pathway of metoclopramide.[A184886]",
+    "toxicity": "The rat oral LD50 of metoclopramide is 750 mg/kg.[L8465]\r\n\r\nSome symptoms of an overdose with metoclopramide include drowsiness, disorientation, and extrapyramidal reactions. Drugs that manage Parkinson's disease or anticholinergic drugs or antihistamines with anticholinergic properties [A185174] should be employed to treat extrapyramidal symptoms. Normally, these symptoms subside within 24 hours.[L8414] Unintentional overdose in infants receiving the oral solution of metoclopramide resulted in seizures, extrapyramidal symptoms, in addition to a lethargic state.\r\n\r\nIn addition, methemoglobinemia has been found to occur in premature and full-term neonates after a metoclopramide overdose. Intravenous methylene blue may treat metoclopramide-associated methemoglobinemia. It is important to note that methylene blue administration may lead to hemolytic anemia in patients who suffer from G6PD deficiency, which can result in fatality. Dialysis has not been shown to be effective in sufficiently eliminating metoclopramide in an overdose situation due to low plasma distribution of this drug.[L8414]",
+    "targets": [
+        [
+            "HTR4",
+            "5-hydroxytryptamine receptor 4",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01233",
+            "Drug Name": "Metoclopramide",
+            "Gene Symbol": "KCNH2",
+            "RS ID (Genotype)": "rs1805123",
+            "Effect Description": "The presence of this polymorphism in KCNH2 may be associated with increased clinical efficacy with metoclopramide."
+        },
+        {
+            "DrugBank ID": "DB01233",
+            "Drug Name": "Metoclopramide",
+            "Gene Symbol": "ADRA1D",
+            "RS ID (Genotype)": "rs2236554",
+            "Effect Description": "The presence of this polymorphism in ADRA1D may be associated with increased clinical efficacy with metoclopramide."
+        },
+        {
+            "DrugBank ID": "DB01233",
+            "Drug Name": "Metoclopramide",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "Patients with this genotype have reduced metabolism of metoclopramide."
+        },
+        {
+            "DrugBank ID": "DB01233",
+            "Drug Name": "Metoclopramide",
+            "Gene Symbol": "ABCB1",
+            "RS ID (Genotype)": "rs1045642",
+            "Effect Description": "Patients with this polymorphism in ABCB1 may have a reduced response to clomipramine."
+        },
+        {
+            "DrugBank ID": "DB01233",
+            "Drug Name": "Metoclopramide",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1080985",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of metoclopramide and may be at a higher risk of experiencing adverse events."
+        },
+        {
+            "DrugBank ID": "DB01233",
+            "Drug Name": "Metoclopramide",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs16947",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of metoclopramide and may be at a higher risk of experiencing adverse events."
+        },
+        {
+            "DrugBank ID": "DB01233",
+            "Drug Name": "Metoclopramide",
+            "Gene Symbol": "KCNH2",
+            "RS ID (Genotype)": "rs3815459",
+            "Adverse Reaction Description": "The presence of this polymorphism in KCNH2 is associated with higher incidences of adverse events from metoclopramide treatment."
+        }
+    ]
+}

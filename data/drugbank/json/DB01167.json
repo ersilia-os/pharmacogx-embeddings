@@ -1,0 +1,101 @@
+{
+    "pharmgkb_id": "PA450132",
+    "drugbank_id": "DB01167",
+    "names": [
+        "Itraconazole",
+        "Itrizole",
+        "Oriconazole",
+        "Sporal"
+    ],
+    "description": "First synthesized in the early 1980s, itraconazole is a broad-spectrum triazole antifungal agent used to treat a variety of infections.[A34257] It is a 1:1:1:1 racemic mixture of four diastereomers, made up of two enantiomeric pairs, each possessing three chiral centers.[L50051] Itraconazole was first approved in the US in 1992 [L50056] and is available orally. While the intravenous formulation of the drug was formerly available, it was discontinued in the US in 2007.[A263232]",
+    "indication": "Itraconazole is indicated for the treatment of the following fungal infections in immunocompromised and non-immunocompromised patients:[L50051, L50056]\r\n\r\n- Blastomycosis, pulmonary and extrapulmonary\r\n- Histoplasmosis, including chronic cavitary pulmonary disease and disseminated, nonmeningeal histoplasmosis, and\r\n- Aspergillosis, pulmonary and extrapulmonary, in patients who are intolerant of or who are refractory to amphotericin B therapy\r\n\r\nIt is also indicated for the treatment of the following fungal infections in non-immunocompromised patients:[L50051]\r\n\r\n- Onychomycosis of the toenail, with or without fingernail involvement, due to dermatophytes (tinea unguium)\r\n- Onychomycosis of the fingernail due to dermatophytes (tinea unguium).\r\n\r\nItraconazole oral solution is indicated for the treatment of oropharyngeal and esophageal candidiasis.[L50061]",
+    "pharmacodynamics": "Itraconazole is an antifungal agent that inhibits cell growth and promotes cell death of fungi.[A34257] It exhibits in vitro activity against _Blastomyces dermatitidis_, _Histoplasma capsulatum_, _Histoplasma duboisii_, _Aspergillus flavus_, _Aspergillus fumigatus_, and _Trichophyton_ species.[L50051]",
+    "mechanism-of-action": "Itraconazole mediates its antifungal activity by inhibiting 14\u03b1-demethylase, a fungal cytochrome P450 enzyme that converts lanosterol to ergosterol, a vital component of fungal cell membranes.[L50051] The azole nitrogen atoms in the chemical structure of itraconazole form a complex with the active site, or the haem iron, of the fungal enzyme to impede its function.[A34257, A263232] The accumulation of lanosterol and 14-methylated sterols results in increased permeability of the fungal cell membrane, and modified membrane-bound enzyme activity, and dysregulated chitin synthesis.[A34257, A263222, A263227] Other proposed mechanisms of action of itraconazole include the inhibition of fungal cytochrome c oxidative and peroxidative enzymes that also lead to the disruption of fungal cell membranes.[A34257]",
+    "absorption": "Itraconazole is rapidly absorbed after oral administration. As oral capsules, peak plasma concentrations of itraconazole are reached within two to five hours. The observed absolute oral bioavailability of itraconazole is about 55%. Itraconazole exposure is lower with the capsule formulation than with the oral solution when the same dose of the drug is given.[L50051] Maximal drug absorption is achieved under adequate gastric acidity.[A34257, L50051]\r\n\r\nAs a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing. Steady-state concentrations are generally reached within about 15 days, with Cmax values of 0.5 \u03bcg/mL, 1.1 \u03bcg/mL and 2.0 \u03bcg/mL after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.[L50051]",
+    "metabolism": "Itraconazole is extensively metabolized in the liver. In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.[L50051] While itraconazole can be metabolized to more than 30 metabolites,[A263222] the main metabolite is hydroxyitraconazole. Hydroxyitraconazole has in vitro antifungal activity comparable to itraconazole; trough plasma concentrations of this metabolite are about twice those of the parent compound.[L50051]\r\n\r\nOther metabolites include keto-itraconazole and N-dealkyl-itraconazole.[A263232]",
+    "toxicity": "In rats, the oral and intraperitoneal LD<sub>50</sub> values were >320 mg/kg and  100 mg/kg, respectively.[L50076] \r\n\r\nThere is limited clinical information regarding itraconazole overdoses. Reported toxic trough levels are over 3 mcg/mL.[A34257] Itraconazole is not removed by dialysis; thus, supportive measures should be initiated in the event of an overdose.[L50051] There is no known antidote to itraconazole poisoning.[A34257]",
+    "targets": [
+        [
+            "ERG11",
+            "Lanosterol 14-alpha demethylase",
+            "Candida tropicalis"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

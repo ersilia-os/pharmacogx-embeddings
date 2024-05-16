@@ -1,0 +1,58 @@
+{
+    "pharmgkb_id": "PA448691",
+    "drugbank_id": "DB01008",
+    "names": [
+        "Busulfan",
+        "Bisulfex",
+        "Busilvex",
+        "Leucosulfan",
+        "Mablin",
+        "Mielucin",
+        "Misulban",
+        "Mitostan",
+        "Myeloleukon"
+    ],
+    "description": "Busulfan is a bifunctional alkylating agent, having a selective immunosuppressive effect on bone marrow. It is not a structural analog of the nitrogen mustards. It has been used in the palliative treatment of chronic myeloid leukemia (myeloid leukemia, chronic), but although symptomatic relief is provided, no permanent remission is brought about. According to the Fourth Annual Report on Carcinogens (NTP 85-002, 1985), busulfan is listed as a known carcinogen.",
+    "indication": "For use in combination with cyclophosphamide as a conditioning regimen prior to allogeneic hematopoietic progenitor cell transplantation for chronic myelogenous  (myeloid, myelocytic, granulocytic) leukemia (FDA has designated busulfan as an orphan drug for this use). It is also used as a component of pretransplant conditioning regimens in patients undergoing bone marrow transplantation for acute myeloid leukemia and nonmalignant diseases.",
+    "pharmacodynamics": "Busulfan is an antineoplastic in the class of alkylating agents and is used to treat various forms of cancer. Alkylating agents are so named because of their ability to add alkyl groups to many electronegative groups under conditions present in cells. They stop tumor growth by cross-linking guanine bases in DNA double-helix strands - directly attacking DNA. This makes the strands unable to uncoil and separate. As this is necessary in DNA replication, the cells can no longer divide. In addition, these drugs add methyl or other alkyl groups onto molecules where they do not belong which in turn leads to a miscoding of DNA. Alkylating agents are cell cycle-nonspecific and work by three different mechanisms, all of which achieve the same end result - disruption of DNA function and cell death. Overexpression of MGST2, a glutathione s-transferase, is thought to confer resistance to busulfan. The role of MGST2 in the metabolism of busulfan is unknown however. ",
+    "mechanism-of-action": "Busulfan is an alkylating agent that contains 2 labile methanesulfonate groups attached to opposite ends of a 4-carbon alkyl chain. Once busulfan is hydrolyzed, the methanesulfonate groups are released and carbonium ions are produced. These carbonium ions alkylate DNA, which results in the interference of DNA replication and RNA transcription, ultimately leading to the disruption of nucleic acid function. Specifically, its mechanism of action through alkylation produces guanine-adenine intrastrand crosslinks. These crosslinks occur through a SN2 reaction guanine N7 nucleophilically attacks the carbon adjacent to the mesylate leaving group. This kind of damage cannot be repaired by cellular machinery and thus the cell undergoes apoptosis.",
+    "absorption": "Completely absorbed from the gastrointestinal tract. Busulfan is a small, highly lipophilic molecule that crosses the blood-brain-barrier. The absolute bioavailability, if a single 2 mg IV bolus injection is given to adult patients, is 80% \u00b1 20%. In children (1.5 - 6 years old), the absolute bioavailability was 68% \u00b1 31%. When a single oral dose is given to patients, the area under the curve (AUC) was 130 ng\u2022hr/mL. The peak plasma concentration when given orally is 30 ng/mL (after dose normalization to 2 mg). It takes 0.9 hours to reach peak plasma concentration after dose normalization to 4 mg. ",
+    "metabolism": "Busulfan is extensively metabolizes in the hepatic. Busulfan is predominantly metabolized by conjugation with glutathione, both spontaneously and by glutathione S-transferase (GST) catalysis. GSTA1 is the primary GST isoform that facilitates the the metabolism of busulfan. Other GST isoforms that are also involved are GSTM1 and GSTP1. At least 12 metabolites have been identified among which tetrahydrothiophene, tetrahydrothiophene 12-oxide, sulfolane, and 3-hydroxysulfolane were identified. These metabolites do not have cytotoxic activity. ",
+    "toxicity": "Signs of overdose include allergic reaction, unusual bleeding or bruising, sudden weakness or unusual fatigue, persistent cough, congestion, or shortness of breath; flank, stomach or joint pain; pronounced nausea, vomiting, diarrhea, dizziness, confusion, or darkening of the skin, chills, fever, collapse, and loss of consciousness.",
+    "targets": null,
+    "enzymes": [
+        [
+            "GSTM1",
+            "Glutathione S-transferase Mu 1",
+            "Humans"
+        ],
+        [
+            "GSTP1",
+            "Glutathione S-transferase P",
+            "Humans"
+        ],
+        [
+            "MGST2",
+            "Microsomal glutathione S-transferase 2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "GSTA2",
+            "Glutathione S-transferase A2",
+            "Humans"
+        ],
+        [
+            "GSTA1",
+            "Glutathione S-transferase A1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

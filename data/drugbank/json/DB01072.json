@@ -1,0 +1,127 @@
+{
+    "pharmgkb_id": "PA10251",
+    "drugbank_id": "DB01072",
+    "names": [
+        "Atazanavir",
+        "Latazanavir",
+        "Zrivada"
+    ],
+    "description": "Atazanavir (formerly known as BMS-232632) is an antiretroviral drug of the protease inhibitor (PI) class. Like other antiretrovirals, it is used to treat infection of human immunodeficiency virus (HIV). Atazanavir is distinguished from other PIs in that it can be given once daily (rather than requiring multiple doses per day) and has lesser effects on the patient's lipid profile (the amounts of cholesterol and other fatty substances in the blood). Like other protease inhibitors, it is used only in combination with other HIV medications. The U.S. Food and Drug Administration (FDA) approved atazanavir on June 20, 2003.",
+    "indication": "Atazanavir is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection in adults and pediatric patients 3 months of age and older weighing at least 5kg.[L37604] Atazanavir is also indicated in combination with [cobicistat] and other antiretrovirals for the treatment of HIV-1 infection in adults and pediatric patients weighing at least 35kg.[L37599]",
+    "pharmacodynamics": "Atazanavir (ATV) is an azapeptide HIV-1 protease inhibitor (PI) with activity against Human Immunodeficiency Virus Type 1 (HIV-1). HIV-1 protease is an enzyme required for the proteolytic cleavage of the viral polyprotein precursors into the individual functional proteins found in infectious HIV-1. Atazanavir binds to the protease active site and inhibits the activity of the enzyme. This inhibition prevents cleavage of the viral polyproteins resulting in the formation of immature non-infectious viral particles. Protease inhibitors are almost always used in combination with at least two other anti-HIV drugs. Atazanivir is pharmacologically related but structurally different from other protease inhibitors and other currently available antiretrovirals.[A1697]\r\n\r\nAtazanavir exhibits anti-HIV-1 activity with a mean 50% effective concentration (EC50) in the absence of human serum of 2 to 5 nM against a variety of laboratory and clinical HIV-1 isolates grown in peripheral blood mononuclear cells, macrophages, CEM-SS cells, and MT-2 cells.[L48636] \r\n\r\nAtazanavir has activity against HIV-1 Group M subtype viruses A, B, C, D, AE, AG, F, G, and J isolates in cell culture. Atazanavir has variable activity against HIV-2 isolates (1.9-32 nM), with EC<sub>50</sub> values above the EC<sub>50</sub> values of failure isolates. Two-drug combination antiviral activity studies with atazanavir showed no antagonism in cell culture with PIs (amprenavir, indinavir, lopinavir, nelfinavir, ritonavir, and saquinavir), NNRTIs (delavirdine, efavirenz, and nevirapine), NRTIs (abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir DF, and zidovudine), the HIV-1 fusion inhibitor enfuvirtide, and two compounds used in the treatment of viral hepatitis, adefovir and ribavirin, without enhanced cytotoxicity.[L48636]\r\n\r\nHIV-1 isolates with a decreased susceptibility to atazanavir have been selected in cell culture and obtained from patients treated with atazanavir or atazanavir with ritonavir. HIV-1 isolates with 93- to 183-fold reduced susceptibility to atazanavir from three different viral strains were selected in cell culture for 5 months. The substitutions in these HIV-1 viruses that contributed to atazanavir resistance include I50L, N88S, I84V, A71V, and M46I. Changes were also observed at the protease cleavage sites following drug selection. Recombinant viruses containing the I50L substitution without other major PI substitutions were growth impaired and displayed increased susceptibility in cell culture to other PIs (amprenavir, indinavir, lopinavir, nelfinavir, ritonavir, and saquinavir). The I50L and I50V substitutions yielded selective resistance to atazanavir and amprenavir, respectively, and did not appear to be cross-resistant.[L48636] \r\n\r\nConcentration- and dose-dependent prolongation of the PR interval in the electrocardiogram has been observed in healthy subjects receiving atazanavir. In placebo-controlled Study AI424-076, the mean (\u00b1SD) maximum change in PR interval from the predose value was 24 (\u00b115) msec following oral dosing with 400 mg of atazanavir (n=65) compared to 13 (\u00b111) msec following dosing with placebo (n=67). The PR interval prolongations in this study were asymptomatic. There is limited information on the potential for a pharmacodynamic interaction in humans between atazanavir and other drugs that prolong the PR interval of the electrocardiogram.\r\n\r\nElectrocardiographic effects of atazanavir were determined in a clinical pharmacology study of 72 healthy subjects. Oral doses of 400 mg (maximum recommended dosage) and 800 mg (twice the maximum recommended dosage) were compared with placebo; there was no concentration-dependent effect of atazanavir on the QTc interval (using Fridericia\u2019s correction). In 1793 subjects with HIV-1 infection, receiving antiretroviral regimens, QTc prolongation was comparable in the atazanavir and comparator regimens. No atazanavir-treated healthy subject or subject with HIV-1 infection in clinical trials had a QTc interval >500 msec",
+    "mechanism-of-action": "Atazanavir selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1 infected cells by binding to the active site of HIV-1 protease, thus preventing the formation of mature virions. Atazanavir is not active against HIV-2.[L48636] ",
+    "absorption": "Atazanavir is rapidly absorbed with a T<sub>max</sub> of approximately 2.5 hours. Atazanavir demonstrates nonlinear pharmacokinetics with greater than dose-proportional increases in AUC and C<sub>max</sub> values over the dose range of 200 to 800 mg once daily. A steady state is achieved between Days 4 and 8, with an accumulation of approximately 2.3-fold.[L48636] \r\n\r\nAdministration of atazanavir with food enhances bioavailability and reduces pharmacokinetic variability. Administration of a single 400-mg dose of atazanavir with a light meal (357 kcal, 8.2 g fat, 10.6 g protein) resulted in a 70% increase in AUC and 57% increase in C<sub>max</sub> relative to the fasting state. Administration of a single 400-mg dose of atazanavir with a high-fat meal (721 kcal, 37.3 g fat, 29.4 g protein) resulted in a mean increase in AUC of 35% with no change in C<sub>max</sub> relative to the fasting state. Administration of atazanavir with either a light or high-fat meal decreased the coefficient of variation of AUC and C<sub>max</sub> by approximately one-half compared to the fasting state.[L48636]\r\n\r\nCoadministration of a single 300-mg dose of atazanavir and a 100-mg dose of ritonavir with a light meal (336 kcal, 5.1 g fat, 9.3 g protein) resulted in a 33% increase in the AUC and a 40% increase in both the C<sub>max</sub> and the 24-hour concentration of atazanavir relative to the fasting state. Coadministration with a high-fat meal (951 kcal, 54.7 g fat, 35.9 g protein) did not affect the AUC of atazanavir relative to fasting conditions and the C<sub>max</sub> was within 11% of fasting values. The 24-hour concentration following a high-fat meal was increased by approximately 33% due to delayed absorption; the median T<sub>max</sub> increased from 2.0 to 5.0 hours. Coadministration of atazanavir with ritonavir with either a light or a high-fat meal decreased the coefficient of variation of AUC and C<sub>max</sub> by approximately 25% compared to the fasting state.[L48636] ",
+    "metabolism": "Atazanavir is extensively metabolized in humans. The major biotransformation pathways of atazanavir in humans consisted of monooxygenation and dioxygenation. Other minor biotransformation pathways for atazanavir or its metabolites consisted of glucuronidation, N-dealkylation, hydrolysis, and oxygenation with dehydrogenation. Two minor metabolites of atazanavir in plasma have been characterized. Neither metabolite demonstrated in vitro antiviral activity. In vitro studies using human liver microsomes suggested that atazanavir is metabolized by CYP3A.[L48636]",
+    "toxicity": null,
+    "targets": [
+        [
+            "pol",
+            "Human immunodeficiency virus type 1 protease",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01072",
+            "Drug Name": "Atazanavir",
+            "Gene Symbol": "UGT1A1",
+            "RS ID (Genotype)": "rs3064744",
+            "Adverse Reaction Description": "The presence of this genotype in UGT1A1 may indicate an increased risk of hyperbilirubinemia from atazanavir treatment."
+        },
+        {
+            "DrugBank ID": "DB01072",
+            "Drug Name": "Atazanavir",
+            "Gene Symbol": "UGT1A1",
+            "RS ID (Genotype)": "rs8175347",
+            "Adverse Reaction Description": "The presence of this genotype in UGT1A1 may indicate an increased risk of hyperbilirubinemia from atazanavir treatment."
+        },
+        {
+            "DrugBank ID": "DB01072",
+            "Drug Name": "Atazanavir",
+            "Gene Symbol": "UGT1A1",
+            "RS ID (Genotype)": "rs887829",
+            "Adverse Reaction Description": "The presence of this genotype in UGT1A1 may indicate an increased risk of hyperbilirubinemia from atazanavir treatment."
+        }
+    ]
+}

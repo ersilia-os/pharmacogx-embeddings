@@ -1,0 +1,53 @@
+{
+    "pharmgkb_id": "PA165291472",
+    "drugbank_id": "DB11828",
+    "names": [
+        "Neratinib"
+    ],
+    "description": "Neratinib was approved in July 2017 for use as an extended adjuvant therapy in Human Epidermal Growth Factor Receptor 2 (HER2) positive breast cancer. Approval was granted to Puma Biotechnology Inc. for the tradename Nerlynx. Neratinib is currently under investigation for use in many other forms of cancer.",
+    "indication": "For use as an extended adjuvant treatment in adult patients with early stage HER2-overexpressed/amplified breast cancer, to follow adjuvant trastuzumab-based therapy [FDA Label].",
+    "pharmacodynamics": "Neratinib is a tyrosine kinase inhibitor which exhibits antitumor action against Epidermal Growth Factor Receptor (EGFR), HER2, and Human Epidermal Growth Factor Receptor 4 (HER4) postive carcinomas [FDA Label].",
+    "mechanism-of-action": "Neratinib binds to and irreversibly inhibits EGFR, HER2, and HER4 [FDA Label]. This prevents auotphoshorylation of tyrosine residues on the receptor and reduces oncogenic signalling through the mitogen-activated protein kinase and Akt pathways.",
+    "absorption": "Neratinib and its major active metabolites M3. M6, and M7 have a Tmax of 2-8 h [FDA Label]. Administration with a high fat meal increases Cmax by 1.7-fold and total exposure by 2.2-fold. Administration with a standard meal increases Cmax by 1.2-fold and total exposure by 1.1-fold. Administration with gastric acid reducing agents such as proton pump inhibitors reduces Cmax by 71% and total exposure by 65%.",
+    "metabolism": "Neratinib is mainly undergoes metabolism via CYP3A4 [FDA Label]. It is also metabolized by flavin-containing monooxygenase to a lesser extent. The systemic exposures of neratinib's active metabolites M3, M6, M7, and M11 are 15%, 33%, 22%, and 4%.",
+    "toxicity": "Use of neratinib may produce diarrhea and hepatotoxicity as clinically significant adverse effects [FDA Label]. Serious adverse reactions in the neratinib arm of the clinical trials included diarrhea (1.6%), vomiting (0.9%), dehydration (0.6%), cellulitis (0.4%), renal failure (0.4%), erysipelas (0.4%), alanine aminotransferase increase (0.3%), aspartate aminotransferase increase (0.3%), nausea (0.3%), fatigue (0.2%), and abdominal pain (0.2%).",
+    "targets": [
+        [
+            "EGFR",
+            "Epidermal growth factor receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "FMO3",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 3",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

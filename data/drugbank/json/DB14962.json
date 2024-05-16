@@ -1,0 +1,87 @@
+{
+    "pharmgkb_id": "PA166190621",
+    "drugbank_id": "DB14962",
+    "names": [
+        "Trastuzumab deruxtecan"
+    ],
+    "description": "Trastuzumab deruxtecan is a HER2-directed antibody attached to a topoisomerase inhibitor that is approved for use in certain types of treatment-resistant HER2-positive cancers.[L10842] It is classified as an antibody-drug conjugate. The cleavable peptide linker used to bind the antibody and drug in this product distinguishes it from other members of its class.[A188988] \r\n\r\nTrastuzumab deruxtecan was developed by Daiichi Sankyo in collaboration with AstraZeneca and was first approved by the FDA in 2019.[L10842]",
+    "indication": "In the US, trastuzumab deruxtecan is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive breast cancer who have received a prior anti-HER2-based regimen either in the metastatic setting, or in the neoadjuvant or adjuvant setting and have developed disease recurrence during or within six months of completing therapy.[L10842] It is also indicated to treat adults with unresectable or metastatic HER2-low (IHC 1+ or IHC 2+/ISH-) breast cancer who have received a prior chemotherapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy.[L10842] Trastuzumab deruxtecan is also indicated to treat adult patients with locally advanced or metastatic HER2-positive gastric or gastroesophageal junction adenocarcinoma who have received a prior trastuzumab-based regimen.[L10842]\r\n\r\nIn Canada, trastuzumab deruxtecan is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive breast cancer who have previously been treated with [trastuzumab emtansine], or who have received at least one prior anti-HER2-based regimen either in the metastatic setting or in the adjuvant/neoadjuvant setting who have experienced disease recurrence during or within 6 months of adjuvant/neoadjuvant therapy.[L42240] Trastuzumab deruxtecan is also indicated in Canada for the treatment of adult patients with unresectable or metastatic HER2-low breast cancer who have received at least one prior line of chemotherapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy.[L42240]\r\n\r\nIn Europe, trastuzumab deruxtecan is indicated as monotherapy for the treatment of adult patients with unresectable or metastatic HER2-positive breast cancer who have received one or more prior anti-HER2-based regimens and unresectable or metastatic HER2-low breast cancer who have received prior chemotherapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy.[L48576] It is also indicated for the treatment of adult patients with advanced HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma who have received a prior trastuzumab-based regimen.[L48576] It is also indicated as a monotherapy for the treatment of adult patients with advanced non-small cell lung cancer whose tumors have an activating HER2 mutation and who require systemic therapy following platinum-based chemotherapy with or without immunotherapy.[L48576]",
+    "pharmacodynamics": "Trastuzumab demonstrates antitumor activity against certain types of HER2 positive breast cancer, however, clinical trials are still ongoing to confirm its efficacy.[A188982,L10842,L10845]  By exploiting both targeted antibody and cytotoxic effects, trastuzumab deruxtecan can effectively destroy tumors.[A188988] \r\n\r\nThe FDA label warns of a potential risk for neutropenia, interstitial lung disease/pneumonitis, and left ventricular dysfunction following the use of this drug.[L10842]",
+    "mechanism-of-action": "Trastuzumab deruxtecan is a humanized anti-HER2 IgG1 antibody, targeting cancer cause by mutation of the HER2 gene. In addition, the small molecule portion of this drug, deruxtecan (DXd), is a topoisomerase I inhibitor.[A188976,L10842]  It is attached to the antibody by a peptide linker. After trastuzumab deruxtecan binds to HER2 found on malignant cells, it is internalized and linker cleavage occurs through the actions of lysosomal enzymes. After it is released through cleavage, DXd causes targeted DNA damage and apoptosis in cancer cells, due to the ability to cross cell membranes.[A188988,L10842]\r\n\r\nNormally, drugs in this class (antibody-drug conjugates) present a challenge. The monoclonal antibody accurately targets cancer cells, however exert limited killing action. The addition of a cytotoxic agent (a topoisomerase I inhibitor in this case) effectively kills dividing cancer cells, including those in the healthy tissues, leading to various adverse effects.  The peptide linker used to formulate this drug is cleavable, which is unique to other antibody-drug conjugates, allowing for increased efficacy and reduced drug resistance to topoisomerase.[A188988]",
+    "absorption": "The Cmax of trastuzumab deruxtecan at normal therapeutic doses was 122 \u03bcg/mL (20%). The AUC of trastuzumab deruxtecan was 735 \u03bcg\u00b7day/mL (31%).[L10842]",
+    "metabolism": "Trastuzumab deruxtecan is likely broken down into small peptides and amino acids through catabolism,  just as the metabolism of endogenous IgG.[A189009,L10842] Cathepsin B and L enzymes are thought to be involved in the cleavage of the peptide linker that joins the topoisomerase I inhibitor and the antibody.[A188988] In vitro, DXd, the topoisomerase inhibitor portion of the drug, is found to be metabolized by CYP3A4.[L10842]",
+    "toxicity": "LD50 and overdose information are not currently available, but effects of an overdose are likely to impact the lungs, heart, and circulatory system, leading to significant toxicity.[L10842]  ",
+    "targets": [
+        [
+            "FCGR1A",
+            "High affinity immunoglobulin gamma Fc receptor I",
+            "Humans"
+        ],
+        [
+            "TOP1",
+            "DNA topoisomerase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "GAA",
+            "Lysosomal alpha-glucosidase",
+            "Humans"
+        ],
+        [
+            "TOP1",
+            "DNA topoisomerase 1",
+            "Humans"
+        ],
+        [
+            "CTSB",
+            "Cathepsin B",
+            "Humans"
+        ],
+        [
+            "CTSL",
+            "Cathepsin L1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

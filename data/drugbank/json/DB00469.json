@@ -1,0 +1,63 @@
+{
+    "pharmgkb_id": "PA131890625",
+    "drugbank_id": "DB00469",
+    "names": [
+        "Tenoxicam",
+        "Mobiflex",
+        "Octiveran",
+        "Oxicam",
+        "Oxytel",
+        "Palitenox",
+        "Tenorix",
+        "Tenxil",
+        "Tilcotil",
+        "Tilflam",
+        "Tilko",
+        "Tilnoxcam",
+        "Tiloxican",
+        "Tobitil",
+        "Tonox",
+        "Toscacalm",
+        "Velasor",
+        "Vienoks",
+        "Voir",
+        "Xicotil",
+        "Zibelant",
+        "Zikaral"
+    ],
+    "description": "Tenoxicam, an antiinflammatory agent with analgesic and antipyretic properties, is used to treat osteoarthritis and control acute pain.",
+    "indication": "For the treatment of rheumatoid arthritis, osteoarthritis, backache, and pain.",
+    "pharmacodynamics": "Tenoxicam, an antiinflammatory agent with analgesic and antipyretic properties, is used to treat osteoarthritis and control acute pain.",
+    "mechanism-of-action": "The antiinflammatory effects of tenoxicam may result from the inhibition of the enzyme cycooxygenase and the subsequent peripheral inhibition of prostaglandin synthesis. As prostaglandins sensitize pain receptors, their inhibition accounts for the peripheral analgesic effects of tenoxicam. Antipyresis may occur by central action on the hypothalamus, resulting in peripheral dilation, increased cutaneous blood flow, and subsequent heat loss.",
+    "absorption": "Oral absorption of tenoxicam is rapid and complete (absolute bioavailability 100%).",
+    "metabolism": "Tenoxicam is metabolized in the liver to several pharmacologically inactive metabolites (mainly 5'-hydroxy-tenoxicam).",
+    "toxicity": null,
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

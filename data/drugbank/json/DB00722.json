@@ -1,0 +1,61 @@
+{
+    "pharmgkb_id": "PA450242",
+    "drugbank_id": "DB00722",
+    "names": [
+        "Lisinopril",
+        "Acebitor",
+        "Acemin",
+        "Acerbon",
+        "Acinopril",
+        "Bellisin",
+        "Biopril",
+        "Dapril",
+        "Fibsol",
+        "Fisopril",
+        "Hipril",
+        "Linopril",
+        "Lisipril",
+        "Noperten",
+        "Presiten",
+        "Ranolip",
+        "Ranopril",
+        "Rantex",
+        "Sinopren",
+        "Sinopril",
+        "Tensopril"
+    ],
+    "description": "Lisinopril is an angiotensin converting enzyme inhibitor (ACEI) used to treat hypertension, heart failure, and myocardial infarction.[L8384,L8387,L8390] Lisinopril and [captopril] are the only ACEIs that are not prodrugs.[A184853] It functions by inhibition of angiotensin converting enzyme as well as the renin angiotensin aldosterone system.[A184781,A184808,A184817] ACEIs are commonly used as a first line therapy in the treatment of hypertension, along with thiazide diuretics or beta blockers.[A184844]\r\n\r\nLisinopril was granted FDA approval on 29 December 1987.[L8384]",
+    "indication": "Lisinopril is indicated for the treatment of acute myocardial infarction, hypertension in patients \u22656 years, and as an adjunct therapy for heart failure.[L8384,L8387] A combination product with hydrochlorothiazide is indicated for the treatment of hypertension.[L8390]",
+    "pharmacodynamics": "Lisinopril is an angiotensin converting enzyme inhibitor used to treat hypertension, heart failure, and myocardial infarction.[L8384,L8387,L8390] Lisinopril is not a prodrug, and functions by inhibition of angiotensin converting enzyme as well as the renin angiotensin aldosterone system.[A184781,A184808,A184817] It has a wide therapeutic index and a long duration of action as patients are generally given 10-80mg daily.[L8384,L8387,L8390]",
+    "mechanism-of-action": "Angiotensin II constricts coronary blood vessels and is positively inotropic, which under normal circumstances, would increase vascular resistance and oxygen consumption.[A184781] This action can eventually lead to myocyte hypertrophy and vascular smooth muscle cell proliferation.[A184781]\r\n\r\nLisinopril is an angiotensin converting enzyme inhibitor (ACEI), preventing the conversion of angiotensin I to angiotensin II.[A184781,A184808] This action prevents myocyte hypertrophy and vascular smooth muscle cell proliferation seen in untreated patients.[A184808] Increased levels of bradykinin also exhibit vasodilating effects for patients taking ACEIs.[A184808] Lisinopril also inhibits renin's conversion of angiotensin to angiotensin I.[A184817]",
+    "absorption": "Lisinopril is 6-60% orally bioavailable with an average of 25% bioavailability.[A184754,L8384,L8387,L8390] Lisinopril reaches a C<sub>max</sub> of 58ng/mL with a T<sub>max</sub> of 6-8h.[A184754] Lisinopril's absorption is not affected by food.[A184754]",
+    "metabolism": "Lisinopril is not metabolized and is excreted as the unchanged drug.[L8384,L8387,L8390]",
+    "toxicity": "The oral and subcutaneous LD<sub>50</sub> in rats is >8500mg/kg and in mice is >9100mg/kg.[L8399] The oral LDLO in women is 1200\u00b5g/kg/16D and in men is 43mg/kg/43W.[L8399]\r\n\r\nPatients experiencing an overdose of lisinopril may present with hypotension.[L8384,L8387,L8390] Patients should be treated with intravenous saline to restore blood pressure.[L8384,L8387,L8390] Lisinopril can be removed from the blood by hemodialysis due to it not being protein bound.[L8384,L8387,L8390]",
+    "targets": [
+        [
+            "ACE",
+            "Angiotensin-converting enzyme",
+            "Humans"
+        ],
+        [
+            "REN",
+            "Renin",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

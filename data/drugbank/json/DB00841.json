@@ -1,0 +1,64 @@
+{
+    "pharmgkb_id": "PA449381",
+    "drugbank_id": "DB00841",
+    "names": [
+        "Dobutamine",
+        "Dobuject",
+        "Dobusafe",
+        "Dobutamin",
+        "Dobutan",
+        "Dobutel",
+        "Dobutil",
+        "Dopmin",
+        "Inotrex"
+    ],
+    "description": "A beta-1 agonist catecholamine that has cardiac stimulant action without evoking vasoconstriction or tachycardia. It is proposed as a cardiotonic after myocardial infarction or open heart surgery.",
+    "indication": "Indicated when parenteral therapy is necessary for inotropic support in the short-term treatment of patients with cardiac decompensation due to depressed contractility resulting either from organic heart disease or from cardiac surgical procedures.",
+    "pharmacodynamics": "Dobutamine is a direct-acting inotropic agent whose primary activity results from stimulation of the beta-adrenoceptors of the heart while producing comparatively mild chronotropic, hypertensive, arrhythmogenic, and vasodilative effects. Dobutamine acts primarily on beta-1 adrenergic receptors, with negligible effects on beta-2 or alpha receptors. It does not cause the release of endogenous norepinephrine, as does dopamine. ",
+    "mechanism-of-action": "Dobutamine directly stimulates beta-1 receptors of the heart to increase myocardial contractility and stroke volume, resulting in increased cardiac output.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "COMT",
+            "Catechol O-methyltransferase",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

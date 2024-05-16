@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "PA450523",
+    "drugbank_id": "DB00929",
+    "names": [
+        "Misoprostol",
+        "Isprelor"
+    ],
+    "description": "Misoprostol is a prostaglandin analog used to reduce the risk of NSAID related ulcers, manage miscarriages, prevent post partum hemorrhage, and also for first trimester abortions.[L7616,L7619,A181589,A181583,A181697] The stimulation of prostaglandin receptors in the stomach reduces gastric acid secretion, while stimulating these receptors in the uterus and cervix can increase the strength and frequency of contractions and decrease cervical tone.[A181586]\r\n\r\nMisoprostol was granted FDA approval on 27 December 1988.[L7616]",
+    "indication": "Misoprostol is indicated as a tablet to reduce the risk of NSAID induced gastric ulcers but not duodenal ulcers in high risk patients.[L7616] Misoprostol is also formulated in combination with diclofenac to treat symptoms of osteoarthritis or rheumatoid arthritis in patients with a high risk of developing gastric ulcers.[L7619] Misoprostol is used off label for the management of miscarriages, prevention of post partum hemorrhage, and is also used alone or in combination with mifepristone in other countries for first trimester abortions.[A181589,A181583,A181697]",
+    "pharmacodynamics": "Misoprostol is a prostaglandin E1 analog used to reduce the risk of NSAID induced gastric ulcers by reducing secretion of gastric acid from parietal cells.[A181586,L7616,L7619] Misoprostol is also used to manage miscarriages and used alone or in combination with mifepristone for first trimester abortions.[A181589,A181583,A181598] An oral dose of misoprostol has an 8 minute onset of action and a duration of action of approximately 2 hours, a sublingual dose has an 11 minute onset of action and a duration of action of approximately 3 hours, a vaginal dose has a 20 minute onset of action and a duration of action of approximately 4 hours, and a rectal dose has a 100 minute onset of action and a duration of action of approximately 4 hours.[A181607]",
+    "mechanism-of-action": "Misoprostol is a synthetic prostaglandin E1 analog that stimulates prostaglandin E1 receptors on parietal cells in the stomach to reduce gastric acid secretion.[A181586] Mucus and bicarbonate secretion are also increased along with thickening of the mucosal bilayer so the mucosa can generate new cells.[A181586] \r\n\r\nMisoprostol binds to smooth muscle cells in the uterine lining to increase the strength and frequency of contractions as well as degrade collagen and reduce cervical tone.[A181586]",
+    "absorption": "For an 800\u00b5g oral dose of misoprostol, the AUC was 2.0192\u00b10.8032h\\*ng/mL, the C<sub>max</sub> was 2.6830\u00b11.2161ng/mL, and a t<sub>max</sub> of 0.345\u00b10.186h.[A181592] For a 800\u00b5g sublingual dose of misoprostol, the AUC was 3.2094\u00b11.0417h\\*ng/mL, the C<sub>max</sub> was 2.4391\u00b11.1567ng/mL, and a t<sub>max</sub> of 0.712\u00b10.415h.[A181592] For a 800\u00b5g buccal dose of misoprostol, the AUC was 2.0726\u00b10.3578h\\*ng/mL, the C<sub>max</sub> was 1.3611\u00b10.3436ng/mL, and a t<sub>max</sub> of 1.308\u00b10.624h.[A181592]",
+    "metabolism": "Misoprostol is de-esterified to its active metabolite, misoprostol acid, also known as SC-30695.[A181574] This metabolite is further reduced to dinor and tetranor metabolites (SC-41411), a prostaglandin F<sub>1</sub> (PGF<sub>1</sub>) analog of SC-41411, and a \u03c9-16-carboxylic acid derivative.[A181574] However, the majority of these metabolites are not well described in the literature.[A181574]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is 81mg/kg and in mice is 27mg/kg.[L7613] The intraperitoneal LD<sub>50</sub> in rats is 40mg/kg and in mice is 70mg/kg.[L7613]\r\n\r\nPatients experiencing an overdose may present with sedation, tremor, convulsions, dyspnea, abdominal pain, diarrhea, fever, palpitations, hypotension, and bradycardia.[A181706,L7616,L7619] Hemodialysis is not expected to be useful in the treatment of misoprostol overdose[L7616] but oral activated charcoal may help reduce absorption.[L7619] In the event of an overdose, treat symptoms with supportive therapy.[L7616] This may include removal of undissolved tablets from the vagina or buccal cavity, intravenous fluid replacement, acetaminophen, diazepam, haloperidol, or intramuscular diclofenac depending on the symptoms that present.[A181706]",
+    "targets": [
+        [
+            "PTGER3",
+            "Prostaglandin E2 receptor EP3 subtype",
+            "Humans"
+        ],
+        [
+            "PTGER2",
+            "Prostaglandin E2 receptor EP2 subtype",
+            "Humans"
+        ],
+        [
+            "PTGER1",
+            "Prostaglandin E2 receptor EP1 subtype",
+            "Humans"
+        ],
+        [
+            "PTGER4",
+            "Prostaglandin E2 receptor EP4 subtype",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

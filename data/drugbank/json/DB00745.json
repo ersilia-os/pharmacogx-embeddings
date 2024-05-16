@@ -1,0 +1,95 @@
+{
+    "pharmgkb_id": "PA450530",
+    "drugbank_id": "DB00745",
+    "names": [
+        "Modafinil",
+        "Alertex",
+        "Aspendos",
+        "Forcilin",
+        "Mentix",
+        "Modasomil",
+        "Modavigil",
+        "Modiodal",
+        "Provake",
+        "Resotyl",
+        "Sparlon",
+        "Stavigile",
+        "Vigicer",
+        "Vigil",
+        "Zalux"
+    ],
+    "description": "Modafinil is a stimulant drug marketed as a 'wakefulness promoting agent' and is one of the stimulants used in the treatment of narcolepsy. Narcolepsy is caused by dysfunction of a family of wakefulness-promoting and sleep-suppressing peptides, the orexins, whose neurons are activated by modafinil. The prexin neuron activation is associated with psychoactivation and euphoria. The exact mechanism of action is unclear, although in vitro studies have shown it to inhibit the reuptake of dopamine by binding to the dopamine reuptake pump, and lead to an increase in extracellular dopamine. Modafinil activates glutamatergic circuits while inhibiting GABA.",
+    "indication": "To improve wakefulness in patients with excessive daytime sleepiness (EDS) associated with narcolepsy.",
+    "pharmacodynamics": "Modafinil is a stimulant drug marketed as a 'wakefulness promoting agent' and is one of the stimulants used in the treatment of narcolepsy. Narcolepsy is caused by dysfunction of a family of wakefulness-promoting and sleep-suppressing peptides, the orexins, whose neurons are activated by modafinil. The prexin neuron activation is associated with psychoactivation and euphoria. Modafinil is not indicated for complaints of lack of energy or fatigue; but it appears to be very helpful for some patients. Also, it has been used in the treatment of hypersomnia, a disorder in which patients lack the capacity for meaningful sleep and may require ten or more hours per day. Recent studies have have found that modafinil may help recovering cocaine addicts fight their addiction.",
+    "mechanism-of-action": "The exact mechanism of action is unclear, although <i>in vitro</i> studies have shown it to inhibit the reuptake of dopamine by binding to the dopamine reuptake pump, and lead to an increase in extracellular dopamine. Modafinil activates glutamatergic circuits while inhibiting GABA. Modafinil is thought to have less potential for abuse than other stimulants due to the absence of any significant euphoric or pleasurable effects. It is possible that modafinil acts by a synergistic combination of mechanisms including direct inhibition of dopamine reuptake, indirect inhibition of noradrenalin reuptake in the VLPO and orexin activation. Modafinil has partial alpha 1B-adrenergic agonist effects by directly stimulating the receptors.",
+    "absorption": "Rapid following oral administration.",
+    "metabolism": "Hepatic",
+    "toxicity": null,
+    "targets": [
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00745",
+            "Drug Name": "Modafinil",
+            "Gene Symbol": "COMT",
+            "RS ID (Genotype)": "rs4680",
+            "Effect Description": "Patients with this genotype have reduced improvement in vigor and well-being with modafinil."
+        },
+        {
+            "DrugBank ID": "DB00745",
+            "Drug Name": "Modafinil",
+            "Gene Symbol": "COMT",
+            "RS ID (Genotype)": "rs4680",
+            "Effect Description": "Patients with this genotype have increased improvement in vigor and well-being with modafinil."
+        }
+    ]
+}

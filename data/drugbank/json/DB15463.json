@@ -1,0 +1,63 @@
+{
+    "pharmgkb_id": "PA166268761",
+    "drugbank_id": "DB15463",
+    "names": [
+        "Belzutifan",
+        "Welireg"
+    ],
+    "description": "Belzutifan is an inhibitor of hypoxia-inducible factor 2\u03b1 (HIF-2\u03b1) used in the treatment of von Hippel-Lindau (VHL) disease-associated cancers.[L35995] The HIF-2\u03b1 protein was first identified in the 1990s by researchers at UT Southwestern Medical Center as a key player in the growth of certain cancers.[L36105] Initially considered to be undruggable, a binding pocket was eventually discovered in the HIF-2\u03b1 molecule which allowed for compounds to bind and inhibit these proteins. This discovery led to the initial development of belzutifan (at the time called PT2977), which was further developed by a spin-off company named Peloton Pharmaceuticals (which itself was eventually acquired by Merck in 2019).[L36105]\r\n\r\nBelzutifan inhibits the complexation of HIF-2\u03b1 with another transcription factor, HIF-1\u03b2, a necessary step in its activation - by preventing the formation of this complex, belzutifan can slow or stop the growth of VHL-associated tumors. Belzutifan received FDA approval for the treatment of select VHL-associated cancers on August 13, 2021.[L36000]",
+    "indication": "Belzutifan is indicated for the treatment of adult patients with von Hippel-Lindau (VHL) disease who require therapy for associated renal cell carcinoma (RCC), central nervous system (CNS) hemangioblastomas, or pancreatic neuroendocrine tumors (pNET), who do not require immediate surgery.[L35995]",
+    "pharmacodynamics": "Belzutifan exerts its therapeutic effects by inhibiting a transcription factor necessary for the growth of solid tumors associated with VHL disease.[L35995] It is taken once daily at approximately the same time each day, with or without food. Both severe anemia and hypoxia have been observed following therapy with belzutifan, and patients should be monitored closely before and during therapy to ensure patients can be managed as clinically indicated. There are no data regarding the use of erythropoiesis-stimulating agents for the treatment of belzutifan-induced anemia, and as such these therapies should be avoided.[L35995]\r\n\r\nBelzutifan may cause embryo-fetal toxicity when administered to pregnant women. Female patients and male patients with female partners of reproductive potential should ensure that an effective form of contraception is used throughout therapy and for one week after the last dose - as belzutifan appears to decrease the efficacy of systemic hormonal contraceptives, patients should be advised to use an additional method of contraception (e.g. condoms) to eliminate the possibility of pregnancy during therapy.[L35995]",
+    "mechanism-of-action": "Hypoxia-inducible factor 2\u03b1 (HIF-2\u03b1) is a transcription factor which aids in oxygen sensing by regulating genes that promote adaptation to hypoxia.[L35995] In healthy patients, when oxygen levels are normal, HIF-2\u03b1 is broken down via ubiquitin-proteasomal degradation by von-Hippel Lindau (VHL) proteins. In the presence of hypoxia, HIF-2\u03b1 translocates into cell nuclei and forms a transcriptional complex with hypoxia-inducible factor 1\u03b2 (HIF-1\u03b2) - this complex then induces the expression of downstream genes associated with cellular proliferation and angiogenesis.[L35995] \r\n\r\nPatients with von-Hippel Lindau (VHL) disease lack functional VHL proteins, leading to an accumulation of HIF-2\u03b1, and this accumulation is what drives the growth of VHL-associated tumors. Belzutifan is an inhibitor of HIF-2\u03b1 that prevents its complexation with HIF-1\u03b2 in conditions of hypoxia or impaired VHL protein function, thereby reducing the expression of HIF-2\u03b1 target genes and slowing/stopping the growth of VHL-associated tumors.[L35995]",
+    "absorption": "In patients with VHL disease-associated renal cell carcinoma, the mean C<sub>max</sub> and AUC<sub>0-24h</sub> at steady-state - which was achieved after approximately three days of therapy - were 1.3 \u00b5g/mL and 16.7 \u03bcg\u2022hr/mL, respectively.[L35995] The median T<sub>max</sub> is one to two hours following oral administration.[L35995]\r\n\r\nThe administration of belzutifan with food has a negligible effect on drug disposition - when given alongside a high-calorie, high-fat meal, the T<sub>max</sub> was delayed by approximately 2 hours with no other clinically meaningful effects observed.[L35995]",
+    "metabolism": "Belzutifan is primarily metabolized by UGT2B17 and CYP2C19, and to a lesser extent by CYP3A4.[L35995]",
+    "toxicity": "Data regarding overdosage with belzutifan is lacking. There is no specific treatment available for belzutifan overdose - if a patient is suspected to have overdosed, immediately withhold belzutifan and institute standard supportive care. Grade 3 hypoxia has been observed at doses of 120mg twice daily and Grade 4 thrombocytopenia has been observed at doses of 240mg once daily (twice the recommended dose).[L35995]",
+    "targets": [
+        [
+            "EPAS1",
+            "Endothelial PAS domain-containing protein 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT2B17",
+            "UDP-glucuronosyltransferase 2B17",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

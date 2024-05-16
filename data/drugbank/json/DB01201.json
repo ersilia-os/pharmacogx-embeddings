@@ -1,0 +1,71 @@
+{
+    "pharmgkb_id": "nan-c67b39b1-3fa3-49ee-b1da-784271b69bc7",
+    "drugbank_id": "DB01201",
+    "names": [
+        "Rifapentine"
+    ],
+    "description": "Rifapentine is an antibiotic drug used in the treatment of tuberculosis. It inhibits DNA-dependent RNA polymerase activity in susceptible cells. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme.",
+    "indication": "For the treatment of pulmonary tuberculosis.",
+    "pharmacodynamics": "Rifapentine is an antibiotic that inhibits DNA-dependent RNA polymerase activity in susceptible cells. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme. It is bactericidal and has a very broad spectrum of activity against most gram-positive and gram-negative organisms (including Pseudomonas aeruginosa) and specifically Mycobacterium tuberculosis. Because of rapid emergence of resistant bacteria, use is restricted to treatment of mycobacterial infections and a few other indications. Rifampin is well absorbed when taken orally and is distributed widely in body tissues and fluids, including the CSF. It is metabolized in the liver and eliminated in bile and, to a much lesser extent, in urine, but dose adjustments are unnecessary with renal insufficiency.",
+    "mechanism-of-action": "Rifapentine has shown higher bacteriostatic and bactericidal activities especially against intracellular bacteria growing in human monocyte-derived macrophages. Rifapentine inhibits DNA-dependent RNA polymerase in susceptible strains of M. tuberculosis. Rifapentine acts via the inhibition of DNA-dependent RNA polymerase, leading to a suppression of RNA synthesis and cell death.",
+    "absorption": "Rapidly and well absorbed from the gastrointestinal tract.",
+    "metabolism": "Hepatic",
+    "toxicity": null,
+    "targets": [
+        [
+            "rpoC",
+            "DNA-directed RNA polymerase subunit beta'",
+            "Mycobacterium tuberculosis"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

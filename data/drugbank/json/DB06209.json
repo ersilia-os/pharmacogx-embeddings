@@ -1,0 +1,58 @@
+{
+    "pharmgkb_id": "PA154410481",
+    "drugbank_id": "DB06209",
+    "names": [
+        "Prasugrel",
+        "Prasita"
+    ],
+    "description": "Prasugrel, a thienopyridine derivative, is a platelet activation and aggregation inhibitor structurally and pharmacologically related to clopidogrel and ticlopidine. Similar to clopidogrel, prasugrel is a prodrug that requires enzymatic transformation in the liver to its active metabolite, R-138727. R-138727 irreversibly binds to P2Y12 type ADP receptors on platelets thus preventing activation of the GPIIb/IIIa receptor complex. As a result, inhibition of ADP-mediated platelet activation and aggregation occurs. Prasugrel was developed by Daiichi Sankyo Co. and is currently marketed in the United States and Canada in cooperation with Eli Lilly and Company for acute coronary syndromes planned for percutaneous coronary intervention (PCI). FDA approved in 2009.",
+    "indication": "Indicated in combination with acetylsalicylic acid (ASA) to prevent atherothrombotic events in patients with acute coronary syndrome (ACS) who are to be managed with percutaneous coronary intervention (PCI). May be used in patients with unstable angina (UA), non-ST elevation myocardial infarction (NSTEMI), ST-elevation myocardial infarction (STEMI) who are to be managed with PCI. Prasugrel is not recommended in patients 75 years of age or greater, those that weigh<60kg, and patients with a history of stroke or transient ischemic attack due to increased risk of fatal and intracranial bleeding. ",
+    "pharmacodynamics": "Prasugrel is a thienopyridine ADP receptor inhibitors which inhibits platelet aggregation by irreversibly binding to P2Y12 receptors.",
+    "mechanism-of-action": "Prasugrel is an thienopyridine and a prodrug which inhibits ADP receptors by irreversibly acting on the P2Y12 receptor on platelets. The active metabolite of prasugrel prevents binding of adenosine diphosphate (ADP) to its platelet receptor, impairing the ADP-mediated activation of the glycoprotein GPIIb/IIIa complex. Prasugrel is proposed to have a similar mechanism of action to clopidogrel.",
+    "absorption": "79% or greater of the dose is absorbed after oral administration. Absorption and metabolism occur rapidly and peak plasma concentrations (C<sub>max</sub>) are reached approximately 30 minutes following oral administration. Administration with a high fat, high calorie meal did not affect the AUC of the active metabolite in healthy individuals, but the C<sub>max</sub> was decreased by ~49% and the T<sub>max</sub> was increased to 0.5 to 1.5 hours. Prasugrel may be administered with or without food. ",
+    "metabolism": "Prasugrel is not detected in plasma following oral administration. It is rapidly hydrolyzed in the intestine to thiolactone by human carboxylesterase (hCE) 2. This intermediate is further metabolized to its active metabolite, R-138727, in a single step by cytochrome P450 enzymes in the liver (primarily CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19). The active metabolite is further metabolized by S-methylation or cysteine conjugation to two inactive metabolites.\r\n\r\nUnlike clopidogrel, transformation of prasugrel to its active metabolite does not appear to be affected by cytochrome P450 polymorphisms. ",
+    "toxicity": "LD50 (rat) 1,000 - 2,000 mg/kg; LD50 (rabbit) > 1,000 mg/kg",
+    "targets": [
+        [
+            "P2RY12",
+            "P2Y purinoceptor 12",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CES2",
+            "Cocaine esterase",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

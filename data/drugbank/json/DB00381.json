@@ -1,0 +1,160 @@
+{
+    "pharmgkb_id": "PA448388",
+    "drugbank_id": "DB00381",
+    "names": [
+        "Amlodipine",
+        "Aforbes",
+        "Agen",
+        "Aken",
+        "Amcard",
+        "Amdepin",
+        "Amdipin",
+        "Amilostad",
+        "Amlocard",
+        "Amlod",
+        "Amlodine",
+        "Amlodipin",
+        "Amlodipin-Mepha 5/10",
+        "Amlodipine 5",
+        "Amlodis",
+        "Amlong",
+        "Amlopin",
+        "Amlopine",
+        "Amlostin",
+        "Amlosun",
+        "Amlovas",
+        "Amlovasc",
+        "Amlozek",
+        "Amvaz",
+        "Asomex",
+        "Atecard-AM",
+        "Camlodin",
+        "Cardilopina",
+        "Coroval",
+        "Dailyvasc",
+        "Istin",
+        "Lama",
+        "Lodip",
+        "Lodopin",
+        "Lopin",
+        "Nelod",
+        "Nopidin",
+        "Nordip",
+        "Perivasc",
+        "Pharex Amlodipine",
+        "Tenox"
+    ],
+    "description": "Amlodipine, initially approved by the FDA in 1987, is a popular antihypertensive drug belonging to the group of drugs called _dihydropyridine calcium channel blockers_.  Due to their selectivity for the peripheral blood vessels, dihydropyridine calcium channel blockers are associated with a lower incidence of myocardial depression and cardiac conduction abnormalities than other calcium channel blockers [A175327].\r\n\r\nAmlodipine is commonly used in the treatment of high blood pressure and angina. Amlodipine has antioxidant properties and an ability to enhance the production of nitric oxide (NO), an important vasodilator that decreases blood pressure [A175321].  The option for single daily dosing of amlodipine is an attractive feature of this drug [FDA label].",
+    "indication": "Amlodipine may be used alone or in combination with other antihypertensive and antianginal agents for the treatment of the following conditions [FDA label]:\r\n\r\n\u2022 Hypertension \r\n\r\n\u2022 Coronary artery disease\r\n\r\n\u2022 Chronic stable angina\r\n\r\n\u2022 Vasospastic angina (Prinzmetal\u2019s or Variant angina) \r\n\r\n\u2022 Angiographically documented coronary artery disease in patients without heart failure or an ejection fraction < 40%",
+    "pharmacodynamics": "**General pharmacodynamic effects**\r\n\r\nAmlodipine has a strong affinity for cell membranes, modulating calcium influx by inhibiting selected membrane calcium channels. This drug's unique binding properties allow for its long-acting action and less frequent dosing regimen [A573], [FDA label].  \r\n\r\n**Hemodynamic effects**\r\n\r\nAfter the administration of therapeutic doses of amlodipine to patients diagnosed with hypertension, amlodipine causes vasodilation, which results in a reduction of supine and standing blood pressure. During these blood pressure reductions, there are no clinically significant changes in heart rate or plasma catecholamine levels with long-term use. Acute intravenous administration of amlodipine reduces arterial blood pressure and increases heart rate in patients with chronic stable angina, however, chronic oral administration of amlodipine in clinical studies did not cause clinically significant alterations in heart rate or blood pressures in patients diagnosed with angina and normal blood pressure. With long-term, once daily oral administration, antihypertensive effectiveness is maintained for at least 24 hours [FDA label]. \r\n\r\n**Electrophysiologic effects**\r\n\r\nAmlodipine does not change sinoatrial (SA) nodal function or atrioventricular (AV) conduction in animals or humans. In patients who were diagnosed with chronic stable angina, the intravenous administration of 10 mg of amlodipine did not cause clinically significant alterations A-H and H-V conduction and sinus node recovery time after cardiac pacing. Patients administered amlodipine with concomitant beta-blockers produced similar results. In clinical trials in which amlodipine was given in combination with beta-blockers to patients diagnosed with hypertension or angina, no adverse effects on electrocardiographic parameters were noted. In clinical studies comprised of angina patients alone, amlodipine did not change electrocardiographic intervals or produce high degrees of AV block [FDA label]. \r\n\r\n**Effects on angina**\r\n\r\nAmlodipine relieves the symptoms of chest pain associated with angina. In patients diagnosed with angina, daily administration of a single amlodipine dose increases total exercise time, the time to angina onset, and the time to 1 mm ST-segment depression on ECG studies, decreases anginal attack frequency, and decreases the requirement for nitroglycerin tablets [F3757]. ",
+    "mechanism-of-action": "**Mechanism of action on blood pressure**\r\n\r\nAmlodipine is considered a peripheral arterial vasodilator that exerts its action directly on vascular smooth muscle to lead to a reduction in peripheral vascular resistance, causing a decrease in blood pressure. Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the influx of calcium ions into both vascular smooth muscle and cardiac muscle. Experimental studies imply that amlodipine binds to both _dihydropyridine_ and _nondihydropyridine_ binding sites, located on cell membranes. The contraction of cardiac muscle and vascular smooth muscle are dependent on the movement of extracellular calcium ions into these cells by specific ion channels. Amlodipine blocks calcium ion influx across cell membranes with selectivity. A stronger effect of amlodipine is exerted on vascular smooth muscle cells than on cardiac muscle cells [FDA label]. Direct actions of amlodipine on vascular smooth muscle result in reduced blood pressure [F3757]. \r\n\r\n**Mechanism of action in angina**\r\n\r\nThe exact mechanism by which amlodipine relieves the symptoms of angina have not been fully elucidated to this date, however, the mechanism of action is likely twofold:\r\n\r\nAmlodipine has a dilating effect on peripheral arterioles, reducing the total peripheral resistance (afterload) against which the cardiac muscle functions. Since the heart rate remains stable during amlodipine administration, the reduced work of the heart reduces both myocardial energy use and oxygen requirements [F3757].\r\n\r\nDilatation of the main coronary arteries and coronary arterioles, both in healthy and ischemic areas, is another possible mechanism of amlodipine reduction of blood pressure. The dilatation causes an increase in myocardial oxygen delivery in patients experiencing coronary artery spasm (Prinzmetal's or variant angina) and reduces coronary vasoconstriction caused by smoking [F3757].",
+    "absorption": "Amlodipine absorbed slowly and almost completely from the gastrointestinal tract. Peak plasma concentrations are achieved 6-12 hours after oral administration. The estimated bioavailability of amlodipine is 64-90%. Steady-state plasma amlodipine levels are achieved after 7-8 days of consecutive daily dosing. Absorption is not affected by food [FDA label]. ",
+    "metabolism": "Amlodipine is heavily (approximately 90%) converted to inactive metabolites via hepatic breakdown with 10% of the parent compound and 60% of the metabolites found excreted in the urine. _Ex vivo_ studies have shown that about 93% of the circulating drug is bound to plasma proteins in hypertensive patients [FDA label].  Characteristics that add to amlodipine's unique pharmacologic profile include nearly complete absorption, late-peak plasma concentrations, high bioavailability, and slow hepatic breakdown [A574].",
+    "toxicity": "**Acute oral toxicity (LD50)**: 37 mg/kg (mouse) [MSDS]. \r\n\r\n**Overdose**\r\n\r\nAn overdose of amlodipine could result in a high degree of peripheral vasodilatation with a possibility of reflex tachycardia. Significant and prolonged hypotension leading to shock and fatal outcomes have been reported [FDA label].\r\n\r\n**Carcinogenesis, mutagenesis, impairment of fertility**\r\n\r\nRats and mice treated with amlodipine maleate in the diet on a long-term basis for up to 2 years demonstrated no evidence of a carcinogenic effect of the drug. For the mouse, the highest dose was comparable to the maximum recommended human dose of 10 mg amlodipine per day.  For the rat, the highest dose was measured to be about twice the maximum recommended human dose [FDA label].\r\n\r\nMutagenicity studies using amlodipine maleate showed no drug-related gene or chromosomal effects [FDA label].\r\n\r\nThere was no impact on the fertility of rats given oral amlodipine maleate (males for 64 days and females for 14 days before mating) at doses up to 10 mg amlodipine/kg/day (8 times the maximum recommended human dose) [FDA label].\r\n\r\n**Use in pregnancy**\r\n\r\nThe safety of amlodipine in human pregnancy or lactation has not been proven. Amlodipine is therefore considered a pregnancy category C drug [F3757]. \r\nUse amlodipine only if the potential benefit justifies the potential risk [FDA label]. \r\n\r\n**Use in nursing**\r\n\r\nDiscontinue when administering amlodipine [FDA label]. ",
+    "targets": [
+        [
+            "CACNA1C",
+            "Voltage-dependent L-type calcium channel subunit alpha-1C",
+            "Humans"
+        ],
+        [
+            "CACNA1I",
+            "Voltage-dependent T-type calcium channel subunit alpha-1I",
+            "Humans"
+        ],
+        [
+            "CACNA1B",
+            "Voltage-dependent N-type calcium channel subunit alpha-1B",
+            "Humans"
+        ],
+        [
+            "CACNB1",
+            "Voltage-dependent L-type calcium channel subunit beta-1",
+            "Humans"
+        ],
+        [
+            "CACNA2D3",
+            "Voltage-dependent calcium channel subunit alpha-2/delta-3",
+            "Humans"
+        ],
+        [
+            "CA1",
+            "Carbonic anhydrase 1",
+            "Humans"
+        ],
+        [
+            "SMPD1",
+            "Sphingomyelin phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "CACNA1B",
+            "Voltage-dependent N-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1B",
+            "Voltage-dependent N-type calcium channel",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00381",
+            "Drug Name": "Amlodipine",
+            "Gene Symbol": "NPPA",
+            "RS ID (Genotype)": "rs5065",
+            "Effect Description": "Patients with this genotype have increased risk of adverse cardiovascular outcomes with diuretics."
+        }
+    ]
+}

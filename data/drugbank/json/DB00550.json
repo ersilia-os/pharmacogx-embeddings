@@ -1,0 +1,54 @@
+{
+    "pharmgkb_id": "PA451156",
+    "drugbank_id": "DB00550",
+    "names": [
+        "Propylthiouracil",
+        "Antiroid",
+        "Propil",
+        "Propilracil",
+        "Propycil",
+        "Proracyl",
+        "Prothiucil",
+        "Prothuril",
+        "PTU",
+        "Thiuragyl",
+        "Thyrosan",
+        "Tiotil",
+        "Tirostat",
+        "Uracil"
+    ],
+    "description": "A thiourea antithyroid agent. Propythiouracil inhibits the synthesis of thyroxine and inhibits the peripheral conversion of throxine to tri-iodothyronine. It is used in the treatment of hyperthyroidism. (From Martindale, The Extra Pharmacopeoia, 30th ed, p534)",
+    "indication": "Used to manage hyperthyroidism which is due to an overactive thyroid gland (Grave's disease).",
+    "pharmacodynamics": "Propylthiouracil is a thiourea antithyroid agent. Grave's disease is the most common cause of hyperthyroidism. It is an autoimmune disease where an individual's own antibodies attach to thyroid stimulating hormone receptors within cells of the thyroid gland and then trigger overproduction of thyroid hormone. The two thyroid hormones manufactured by the thyroid gland, thyroxine (T4) and triiodothyronine (T3), are formed by combining iodine and a protein called thyroglobulin with the assistance of an enzyme called peroxidase. PTU inhibits iodine and peroxidase from their normal interactions with thyroglobulin to form T4 and T3. This action decreases thyroid hormone production. PTU also interferes with the conversion of T4 to T3, and, since T3 is more potent than T4, this also reduces the activity of thyroid hormones. The actions and use of propylthiouracil are similar to those of methimazole.",
+    "mechanism-of-action": "Propylthiouracil binds to thyroid peroxidase and thereby inhibits the conversion of iodide to iodine. Thyroid peroxidase normally converts iodide to iodine (via hydrogen peroxide as a cofactor) and also catalyzes the incorporation of the resulting iodide molecule onto both the 3 and/or 5 positions of the phenol rings of tyrosines found in thyroglobulin. Thyroglobulin is degraded to produce thyroxine (T4) and tri-iodothyronine (T3), which are the main hormones produced by the thyroid gland. Therefore propylthiouracil effectively inhibits the production of new thyroid hormones.",
+    "absorption": "Well absorbed following oral administration.",
+    "metabolism": null,
+    "toxicity": "Oral, rat: LD<sub>50</sub> = 1250 mg/kg.",
+    "targets": [
+        [
+            "TPO",
+            "Thyroid peroxidase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "MPO",
+            "Myeloperoxidase",
+            "Humans"
+        ],
+        [
+            "DBH",
+            "Dopamine beta-hydroxylase",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,189 @@
+{
+    "pharmgkb_id": "PA451341",
+    "drugbank_id": "DB01236",
+    "names": [
+        "Sevoflurane",
+        "Sevorane",
+        "Ultane"
+    ],
+    "description": "Sevoflurane is an ether inhalation anesthetic agent used to induce and maintain general anesthesia.[L42340] It is a volatile, non-flammable compound with a low solubility profile and blood/gas partition coefficient.[L42340] Sevoflurane was patented in 1972, was approved for clinical use in Japan in 1990, and approved by the FDA in 1996.[A249885] Sevoflurane is three times more potent than [desflurane], but has lower potency compared to [halothane] and [isoflurane]. Unlike other volatile anesthetics, sevoflurane has a pleasant odor and does not irritate the airway. The hemodynamic and respiratory depressive effects of sevoflurane are well tolerated, and most patients receiving this anesthetic agent present little toxicity.[A249910] Therefore, it can be used for inhalational induction in adults and children for a wide variety of anesthetic procedures.[A249885]",
+    "indication": "Sevoflurane is used for the induction and maintenance of general anesthesia in adult and pediatric patients for inpatient and outpatient surgery.[L42340]",
+    "pharmacodynamics": "Sevoflurane induces muscle relaxation and reduces sensitivity by altering tissue excitability with a fast onset of action. It does so by decreasing the extent of gap junction-mediated cell-cell coupling and altering the activity of the channels that underlie the action potential.[A249905] Compared to [halothane] and [isoflurane], sevoflurane has a shorter emergence time, as well as a shorter time to first analgesia.[L42340] To reach an equilibrium between alveolar and arterial partial pressure, only a minimal amount of sevoflurane needs to be dissolved in blood.[L42340] \r\n\r\nThe use of sevoflurane can increase the risk of renal injury, respiratory depression, and QT prolongation. Also, it can lead to malignant hyperthermia, perioperative hyperkalemia, and pediatric neurotoxicity. Episodes of severe bradycardia and cardiac arrest have been reported in pediatric patients with Down Syndrome given sevoflurane. Sevoflurane anesthesia may impair the performance of activities requiring mental alertness, such as driving or operating machinery.[L42340]",
+    "mechanism-of-action": "The precise mechanism of action of sevoflurane has not been fully elucidated. Like other halogenated inhalational anesthetics, sevoflurane induces anesthesia by binding to ligand-gated ion channels and blocking CNS neurotransmission. It has been suggested that inhaled anesthetics enhance inhibitory postsynaptic channel activity by binding GABA<sub>A</sub> and glycine receptors, and inhibit excitatory synaptic channel activity by binding nicotinic acetylcholine, serotonin, and glutamate receptors.[A249890] Sevoflurane has an effect on several ionic currents, including the hyperpolarisation-activated cation current (I<sub>f</sub>), the T-type and L-type Ca<sup>2+</sup> currents (I<sub>Ca, T</sub> and I<sub>Ca, L</sub>), the slowly activating delayed rectifier K<sup>+</sup> currents (I<sub>Ks</sub>), and the Na<sup>+</sup>/Ca<sup>2+</sup> exchange current (I<sub>NCX</sub>).[A249895] This ability to modulate ion channel activity can also regulate cardiac excitability and contractility.[A249895]",
+    "absorption": "Sevoflurane is rapidly absorbed into circulation through the lungs; however, solubility in the blood is low (blood/gas partition coefficient at 37\u00b0C ranges from 0.63 to 0.69).[L42340] Therefore, a minimal amount of sevoflurane needs to be dissolved in blood in order to induce anesthesia.[A249885]",
+    "metabolism": "Sevoflurane is metabolized to hexafluoroisopropanol by cytochrome P450 2E1 in a reaction that promotes the release of inorganic fluoride and carbon dioxide. Hexafluoroisopropanol is rapidly conjugated with glucuronic acid and eliminated in urine. _In vivo_ metabolism studies suggest that approximately 5% of the sevoflurane dose may be metabolized.[L42340] In most cases, inorganic fluoride reaches its highest concentration within 2 hours of the end of sevoflurane anesthesia, and returns to baseline levels within 48 hours. Sevoflurane metabolism may be induced by chronic exposure to isoniazid and ethanol, and it has been shown that barbiturates do not affect it.[L42340]",
+    "toxicity": "In the event of sevoflurane overdosage (or what may appear to be overdosage) discontinue administration, maintain a patent airway, initiate assisted or controlled ventilation with oxygen, and maintain adequate cardiovascular function.[L42340] Patients experiencing an overdose may be at an increased risk of severe adverse effects such as renal injury, respiratory depression, severe bradycardia and cardiac arrest. Fatalities due to sevoflurane abuse have been reported as well.[A249900] Symptomatic and supportive measures are recommended. Animal studies have shown that the use of anesthetic agents during periods of rapid brain growth or synaptogenesis results in alterations in synaptic morphology and neurogenesis. In primates, anesthetic regimens of up to 3 hours did not increase neuronal cell loss, but regimens of 5 hours or longer did have a significant effect.[L42340] The oral LD<sub>50</sub> of sevoflurane is 10.8 g/kg in rats and 18.2 g/kg in mice.[L42345]",
+    "targets": [
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GLRA1",
+            "Glycine receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "GRIA1",
+            "Glutamate receptor 1",
+            "Humans"
+        ],
+        [
+            "ATP2C1",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2C2",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B1",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B2",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B3",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B4",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2A1",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2A2",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "MT-ND1",
+            "NADH-ubiquinone oxidoreductase chain 1",
+            "Humans"
+        ],
+        [
+            "CCDC51",
+            "Mitochondrial potassium channel",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

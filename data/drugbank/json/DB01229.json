@@ -1,0 +1,114 @@
+{
+    "pharmgkb_id": "PA450761",
+    "drugbank_id": "DB01229",
+    "names": [
+        "Paclitaxel",
+        "NanoPac",
+        "Paxceed"
+    ],
+    "description": "Paclitaxel is a chemotherapeutic agent marketed under the brand name Taxol among others. Used as a treatment for various cancers, paclitaxel is a mitotic inhibitor that was first isolated in 1971 from the bark of the Pacific yew tree which contains endophytic fungi that synthesize paclitaxel. It is available as an intravenous solution for injection and the newer formulation contains albumin-bound paclitaxel marketed under the brand name Abraxane.",
+    "indication": "Used in the treatment of Kaposi's sarcoma and cancer of the lung, ovarian, and breast. Abraxane\u00ae is specfically indicated for the treatment of metastatic breast cancer and locally advanced or metastatic non-small cell lung cancer.",
+    "pharmacodynamics": "Paclitaxel is a taxoid antineoplastic agent indicated as first-line and subsequent therapy for the treatment of advanced carcinoma of the ovary, and other various cancers including breast cancer. Paclitaxel is a novel antimicrotubule agent that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions. In addition, paclitaxel induces abnormal arrays or \"bundles\" of microtubules throughout the cell cycle and multiple asters of microtubules during mitosis.",
+    "mechanism-of-action": "Paclitaxel interferes with the normal function of microtubule growth. Whereas drugs like colchicine cause the depolymerization of microtubules in vivo, paclitaxel arrests their function by having the opposite effect; it hyper-stabilizes their structure. This destroys the cell's ability to use its cytoskeleton in a flexible manner. Specifically, paclitaxel binds to the &beta; subunit of tubulin. Tubulin is the \"building block\" of mictotubules, and the binding of paclitaxel locks these building blocks in place. The resulting microtubule/paclitaxel complex does not have the ability to disassemble. This adversely affects cell function because the shortening and lengthening of microtubules (termed dynamic instability) is necessary for their function as a transportation highway for the cell. Chromosomes, for example, rely upon this property of microtubules during mitosis. Further research has indicated that paclitaxel induces programmed cell death (apoptosis) in cancer cells by binding to an apoptosis stopping protein called Bcl-2 (B-cell leukemia 2) and thus arresting its function.",
+    "absorption": "When a 24 hour infusion of 135 mg/m^2 is given to ovarian cancer patients, the maximum plasma concentration (Cmax) is 195 ng/mL, while the AUC is 6300 ng\u2022h/mL. ",
+    "metabolism": "Hepatic. In vitro studies with human liver microsomes and tissue slices showed that paclitaxel was metabolized primarily to 6a-hydrox-ypaclitaxel by the cytochrome P450 isozyme CYP2C8; and to two minor metabolites, 3&rsquo;-p-hydroxypaclitaxel and 6a, 3&rsquo;-p-dihydroxypaclitaxel, by CYP3A4.",
+    "toxicity": "Rat (ipr) LD<sub>50</sub>=32530 &micro;g/kg. Symptoms of overdose include bone marrow suppression, peripheral neurotoxicity, and mucositis. Overdoses in pediatric patients may be associated with acute ethanol toxicity.",
+    "targets": [
+        [
+            "TUBB1",
+            "Tubulin beta-1 chain",
+            "Humans"
+        ],
+        [
+            "BCL2",
+            "Apoptosis regulator Bcl-2",
+            "Humans"
+        ],
+        [
+            "MAP4",
+            "Microtubule-associated protein 4",
+            "Humans"
+        ],
+        [
+            "MAP2",
+            "Microtubule-associated protein 2",
+            "Humans"
+        ],
+        [
+            "MAPT",
+            "Microtubule-associated protein tau",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCC10",
+            "Multidrug resistance-associated protein 7",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

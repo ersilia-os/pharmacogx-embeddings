@@ -1,0 +1,40 @@
+{
+    "pharmgkb_id": "PA166151864",
+    "drugbank_id": "DB05016",
+    "names": [
+        "Ataluren"
+    ],
+    "description": "Ataluren is a novel, orally administered drug that targets nonsense mutations. Ataluren is approved for use by the European Medicines Agency to treat Duchenne Muscular Dystrophy in patients aged 5 years and older who are able to walk. More specifically, ataluren is used in the small group of patients whose disease is caused by a specific genetic defect (called a \u2018nonsense mutation\u2019) in the dystrophin gene.\r\n\r\nThis drug does not yet have approval by the US Food and Drug Administration or by Health Canada for any indications.",
+    "indication": "Ataluren is approved for use by the European Medicines Agency to treat Duchenne Muscular Dystrophy in patients aged 5 years and older who are able to walk. More specifically, ataluren is used in the small group of patients whose disease is caused by a specific genetic defect (called a \u2018nonsense mutation\u2019) in the dystrophin gene.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Ataluren enables ribosomal readthrough of mRNA containing premature stop codons that otherwise would result in premature termination of protein chains. Use of ataluren allows cellular machinery to bypass nonsense mutations in genetic material, continue the translation process, and thereby restore the production of a full-length, functional protein.\r\n\r\nThe research on the effects of Ataluren on the translation and stability of nonsense-containing mRNA in vitor show that Ataluren promoted readthrough at each of the nonsense codons, showing maximal activity with UGA, while having no effect on mRNA levels. Unlike the stable cell line assays, Ataluren did not discriminate significantly between the UAG and UAA mRNAs. Ataluren was a more potent nonsense-suppressing agent than gentamicin, and exhibited 4- to 15-fold stimulation of in vitro readthrough relative to the controls at levels similar to those in the stable cell reporter assays. These results indicate that Ataluren modulates termination efficiency at premature nonsense codons.",
+    "absorption": "Peak plasma levels of ataluren are attained approximately 1.5 hours after dosing in subjects who received medicinal product within 30 minutes of a meal [L925].",
+    "metabolism": "Ataluren is metabolized by conjugation via uridine diphosphate glucuronosyltransferase (UGT) enzymes, predominantly UGT1A9 in liver and intestine. In vivo, the only metabolite detected in plasma after oral administration of radio-labelled ataluren was the ataluren-O-1\u03b2-acyl glucuronide; exposure to this metabolite in humans was approximately 8% of the plasma AUC of ataluren [L925].",
+    "toxicity": null,
+    "targets": null,
+    "enzymes": [
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

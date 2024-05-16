@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA449655",
+    "drugbank_id": "DB01073",
+    "names": [
+        "Fludarabine"
+    ],
+    "description": "Fludarabine is a chemotherapeutic agent used in the treatment of hematological malignancies. It is commonly marketed under the brand name Fludara.",
+    "indication": "For the treatment of adult patients with B-cell chronic lymphocytic leukemia (CLL) who have not responded to or whose disease has progressed during treatment with at least one standard alkylating-agent containing regimen",
+    "pharmacodynamics": "Fludarabine is a chemotherapy drug used in the treatment of chronic lymphocytic leukemia. It acts at DNA polymerase alpha, ribonucleotide reductase and DNA primase, results in the inhibition of DNA synthesis, and destroys the cancer cells.",
+    "mechanism-of-action": "Fludarabine phosphate is rapidly dephosphorylated to 2-fluoro-ara-A and then phosphorylated intracellularly by deoxycytidine kinase to the active triphosphate, 2-fluoro-ara-ATP. This metabolite appears to act by inhibiting DNA polymerase alpha, ribonucleotide reductase and DNA primase, thus inhibiting DNA synthesis. The mechanism of action of this antimetabolite is not completely characterized and may be multi-faceted.",
+    "absorption": "Bioavailability is 55% following oral administration.",
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "DCK",
+            "Deoxycytidine kinase",
+            "Humans"
+        ],
+        [
+            "POLA1",
+            "DNA polymerase alpha catalytic subunit",
+            "Humans"
+        ],
+        [
+            "RRM1",
+            "Ribonucleoside-diphosphate reductase large subunit",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC28A3",
+            "Solute carrier family 28 member 3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

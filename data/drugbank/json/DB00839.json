@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "PA164774902",
+    "drugbank_id": "DB00839",
+    "names": [
+        "Tolazamide",
+        "Desumide",
+        "Diabewas",
+        "Esulin",
+        "Norglycin",
+        "Tolanase"
+    ],
+    "description": "A sulphonylurea hypoglycemic agent with actions and uses similar to those of chlorpropamide.",
+    "indication": "For use as an adjunct to diet to lower the blood glucose in patients with non-insulin dependent diabetes mellitus (Type II) whose hyperglycemia cannot be satisfactorily controlled by diet alone.",
+    "pharmacodynamics": "Tolazamide is an oral blood glucose lowering drug of the sulfonylurea class. Tolazamide appears to lower the blood glucose acutely by stimulating the release of insulin from the pancreas, an effect dependent upon functioning beta cells in the pancreatic islets. The mechanism by which tolazamide lowers blood glucose during long-term administration has not been clearly established. With chronic administration in Type II diabetic patients, the blood glucose lowering effect persists despite a gradual decline in the insulin secretory response to the drug. Extrapancreatic effects may be involved in the mechanism of action of oral sulfonylurea hypoglycemic drugs. Some patients who are initially responsive to oral hypoglycemic drugs, including tolazamide, may become unresponsive or poorly responsive over time. Alternatively, tolazamide may be effective in some patients who have become unresponsive to one or more other sulfonylurea drugs. In addition to its blood glucose lowering actions, tolazamide produces a mild diuresis by enhancement of renal free water clearance.",
+    "mechanism-of-action": "Sulfonylureas likely bind to ATP-sensitive potassium-channel receptors on the pancreatic cell surface, reducing potassium conductance and causing depolarization of the membrane. Depolarization stimulates calcium ion influx through voltage-sensitive calcium channels, raising intracellular concentrations of calcium ions, which induces the secretion, or exocytosis, of insulin.",
+    "absorption": "Rapidly and well absorbed from the gastrointestinal tract.",
+    "metabolism": "Tolazamide is metabolized to five major metabolites ranging in hypoglycemic activity from 0 to 70%.",
+    "toxicity": "Overdosage of sulfonylureas can produce hypoglycemia. Severe hypoglycemic reactions with coma, seizure, or other neurological impairment occur infrequently, but constitute medical emergencies requiring immediate hospitalization.",
+    "targets": [
+        [
+            "ABCC8",
+            "Sulfonylurea receptor 1, Kir6.2",
+            "Humans"
+        ],
+        [
+            "KCNJ11",
+            "Sulfonylurea receptor 1, Kir6.2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

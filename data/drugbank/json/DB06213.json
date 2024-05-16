@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA166129536",
+    "drugbank_id": "DB06213",
+    "names": [
+        "Regadenoson"
+    ],
+    "description": "Regadenoson is an A2A adenosine receptor agonist that causes coronary vasodilation and used for myocardial perfusion imagining. Manufactured by Astellas and FDA approved April 10, 2008.",
+    "indication": "Diagnostic agent for radionuclide myocardial perfusion imaging (MPI) ",
+    "pharmacodynamics": "Regadenoson rapidly increases coronary blood flow (CBF) which is sustained for a short duration. Mean average peak velocity increased to greater than twice baseline by 30 seconds and decreased to less than twice the baseline level within 10 minutes. Myocardial uptake of the radiopharmaceutical is proportional to (CBF). Regadenoson increases blood flow in normal coronary arteries but not in stenotic (blocked) arteries. The significance of this finding is that stenotic arteries will take up less of the radiopharmaceutical than normal coronary arteries, resulting in a signal that is less intense in these areas. ",
+    "mechanism-of-action": "Regadenoson is an selective low-affinity (Ki= 1.3 \u00b5M) A2A receptor agonist that mimics the effects of adenosine in causing coronary vasodilatation and increasing myocardial blood flow. It is a very weak agonist of the A1 adenosine receptor (Ki > 16.5 \u00b5M). Furthermore, it has negligible affinity to A2B and A3 adenosine receptors. Regadenoson is undergoing trials for use in pharmacological stress tests. Adenosine slows conduction time through the A-V node, can interrupt the reentry pathways through the A-V node, and can restore normal sinus rhythm in patients with paroxysmal supraventricular tachycardia (PSVT), including PSVT associated with Wolff-Parkinson-White Syndrome.",
+    "absorption": "The pharmacokinetic profile of regadenoson is best described by a 3-compartment model. \r\nT max, injection = 1 to 3 minutes;\r\nOnset of pharmacodynamic response = 1 to 3 minutes;  \r\nE max 12.3 ng/mL \r\n",
+    "metabolism": "The metabolism of regadenoson is unknown in humans. The cytochrome P450 enzyme system is not likely to be involved with the metabolism of regadenoson. ",
+    "toxicity": "The most common (incidence \u2265 5%) adverse reactions to regadenoson are dyspnea, headache, flushing, chest discomfort, dizziness, angina pectoris, chest pain, and nausea. \r\nMTD (male, supine position): 20 \u00b5g/kg; \r\nMTD (male, standing position): 10 \u00b5g/kg;",
+    "targets": [
+        [
+            "ADORA2A",
+            "Adenosine receptor A2a",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

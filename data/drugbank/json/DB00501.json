@@ -1,0 +1,159 @@
+{
+    "pharmgkb_id": "PA449001",
+    "drugbank_id": "DB00501",
+    "names": [
+        "Cimetidine",
+        "Cimetag",
+        "Tagamet HB 200",
+        "Tagamet HB200",
+        "Ulcedine",
+        "Ulcerfen",
+        "Ulcimet"
+    ],
+    "description": "A histamine congener, it competitively inhibits histamine binding to histamine H2 receptors. Cimetidine has a range of pharmacological actions. It inhibits gastric acid secretion, as well as pepsin and gastrins output. It also blocks the activity of cytochrome P-450 which might explain proposals for use in neoadjuvant therapy.",
+    "indication": "Cimetidine is indicated to reduce gastric acid secretion and to treat the following disease states: duodenal ulcers, non-malignant gastric ulcers, gastroesophageal reflux disease, and pathological hypersecretion associated with Zollinger-Ellison Syndrome, systemic mastocytosis, and multiple endocrine adenomas.[L30280] It is indicated for prophylaxis of recurrent gastric or duodenal ulcers, as adjunctive therapy in the management of cystic fibrosis in children, and to treat NSAID induced lesions and gastrointestinal symptoms.[L30280]",
+    "pharmacodynamics": "Cimetidine is a histamine H<sub>2</sub>-receptor antagonist. It reduces basal and nocturnal gastric acid secretion and a reduction in gastric volume, acidity, and amount of gastric acid released in response to stimuli including food, caffeine, insulin, betazole, or pentagastrin. It is used to treat gastrointestinal disorders such as gastric or duodenal ulcer, gastroesophageal reflux disease, and pathological hypersecretory conditions. Cimetidine inhibits many of the isoenzymes of the hepatic CYP450 enzyme system. Other actions of Cimetidine include an increase in gastric bacterial flora such as nitrate-reducing organisms.",
+    "mechanism-of-action": "Cimetidine binds to an H<sub>2</sub>-receptor located on the basolateral membrane of the gastric parietal cell, blocking histamine effects. This competitive inhibition results in reduced gastric acid secretion and a reduction in gastric volume and acidity.",
+    "absorption": "Two peak plasma concentrations are often observed after oral administration of cimetidine, likely as a result of discontinuous absorption in the gastrointestinal tract.[A226958] In healthy patients, the absolute bioavailability of cimetidine is approximately 60%; however, the bioavailability can be as high as 70% in patients with peptic ulcer disease.[A226958] Overall, rates of bioavailability are much more variable in patients with peptic ulcer disease.[A226958] ",
+    "metabolism": "After intravenous administration of cimetidine, the majority of the parent drug (58-77%) is eliminated unchanged in the urine.[A226918,L30280] Cimetidine\u2019s primary metabolite is cimetidine sulfoxide and represents an estimated 10-15% of total elimination.[A226918,A226958] Researchers have also identified a minor cimetidine metabolite with a hydroxylated methyl group on the imidazole ring which represents only 4% of total elimination.[A226918,A226958] Both cytochrome P450 enzymes and flavin-containing monooxygenases are implicated in the metabolism of cimetidine, although it is unclear which specific enzymes are involved.[A226933] Cimetidine is a well known enzyme inhibitor and may impair the metabolism of certain co-administered medications.[A226943]",
+    "toxicity": "In the rare event of cimetidine overdose, it is vital to maintain the airway and cardiovascular status.[A226848] The patient should be closely monitored and provided with symptomatic and supportive treatment as needed.[A226848] Interventions such as gastric lavage and administration of activated charcoal may be initiated if deemed appropriate and necessary.[A226848]",
+    "targets": [
+        [
+            "HRH2",
+            "Histamine H2 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP11B1",
+            "Cytochrome P450 11B1, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "FMO3",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 3",
+            "Humans"
+        ],
+        [
+            "FMO1",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 1",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

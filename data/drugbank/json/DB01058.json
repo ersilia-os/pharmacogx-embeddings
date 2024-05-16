@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA164764583",
+    "drugbank_id": "DB01058",
+    "names": [
+        "Praziquantel"
+    ],
+    "description": "Praziquantel is a pyrazino-isoquinolein derivative from the thioxantonic group used as a broad anthelmintic spectrum. Specifically, it is known as a treatment of trematodes and cestodes infections such as schistosomiasis, taeniasis, and cysticercosis.[A263201] The efficacy of praziquantel in treating parasitic flatworms infection with low cost (~US$0.20 drug cost to treat a child) makes it an integral to WHO's plan to eliminate schistosomiasis by 2030.[A263206,A263211] Despite being approved since 1980, the exact mechanism of action is yet to be elucidated.[A263211]",
+    "indication": "Praziquantel is indicated in patients aged 1 year and older for the treatment of the schistosomiasis due to all species of Schistosoma (for example, Schistosoma mekongi, Schistosoma japonicum, Schistosoma mansoni and Schistosoma hematobium) and clonorchiasis and opisthorchiasis due to the liver flukes, Clonorchis sinensis/Opisthorchis viverrini (approval of this indication was based on studies in which the two species were not differentiated).[L50021]",
+    "pharmacodynamics": "In vitro studies on trematodes and cestodes have shown that praziquantel induces a rapid contraction of schistosomas by a specific effect on the permeability of the cell membrane. The drug further causes vacuolization and disintegration of the schistosome tegument. The effect is more marked on adult worms compared to young worms. An increased Ca2<sup>+</sup>-influx may play an important role.[L40268]\r\n\r\nSecondary effects are inhibition of glucose uptake, lowering of glycogen levels and stimulation of lactate release. The action of praziquantel is specific to trematodes and cestodes; nematodes (including filariae) are not affected.[L40268]\r\n\r\nPraziquantel is active against schistosoma (for example, Schistosoma mekongi, Schistosoma japonicum, Schistosoma mansoni and Schistosoma hematobium), and infections due to the liver flukes, Clonorchis sinensis/Opisthorchis viverrini. Published in vitro data have shown a potential lack of efficacy of praziquantel against migrating schistosomulae.[L50021]\r\n\r\nAn interesting quirk of praziquantel is that it is relatively ineffective against juvenile schistosomes. While initially effective, effectiveness against schistosomes decreases until it reaches a minimum at 3-4 weeks. Effectiveness then increases again until it is once again fully effective at 6-7 weeks.[A1664]",
+    "mechanism-of-action": "Although the exact mechanism of action is unknown, praziquantel was hypothesized to target the \u03b2 subunits of voltage-gated Ca<sub>2+</sub> channels, particularly in Schistosoma mansoni and Schistosoma japonicum, due to the lack of two conserved serine residues in these subunits. This is supported by the finding that co-administration of calcium channel blockers like nicarpidine and nifedipine renders 50% of Schistosoma mansoni resistant to praziquantel.[L50021,A1664]\r\n\r\nIncreased exposure of antigens on the worm surface was also observed, but little research has been done to elucidate on the mechanism of action.[A1664]",
+    "absorption": "After oral administration of praziquantel, about 80% of the dose is absorbed. In subjects with normal hepatic function who received 40 mg/kg of praziquantel under fasting conditions, the mean \u00b1 SD C<sub>max</sub> and AUC were 0.83 \u00b1 0.52 \u00b5g/mL and 3.02 \u00b1 0.59 \u00b5g/mL x hr. The T<sub>max</sub> was 1.48 \u00b1 0.74 hours.[L50021]",
+    "metabolism": "Praziquantel is rapidly metabolized by the cytochrome P450 enzyme system and undergoes a first-pass effect after oral administration.[L50021] ",
+    "toxicity": "The acute toxicity of praziquantel is relatively low, as demonstrated by oral LD<sub>50</sub> values ranging between 200 - 2976 mg/kg in various species.[L40268]\r\n\r\nPublished studies have not identified an association between praziquantel use during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes. In animal reproduction studies conducted in pregnant rats and rabbits no adverse developmental outcomes were observed with oral administration of praziquantel during organogenesis at approximately 0.65 times (rats) or 1.3 times (rabbits) the highest recommended human daily dose of 75 mg/kg/day, based on body surface area.[L50021] \r\n\r\nMutagenicity studies of praziquantel published in the scientific literature are inconclusive. Long-term oral carcinogenicity studies in rats and golden hamsters did not reveal any carcinogenic effect at doses up to 250 mg/kg/day (about half of the human daily dose based on body surface area). Praziquantel had no effect on fertility and general reproductive performance of male and female rats when given at oral doses ranging from 30 to 300 mg/kg body weight (up to 0.65 times the human daily dose based on body surface area).[L50021] \r\n",
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

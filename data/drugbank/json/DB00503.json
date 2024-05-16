@@ -1,0 +1,191 @@
+{
+    "pharmgkb_id": "PA451260",
+    "drugbank_id": "DB00503",
+    "names": [
+        "Ritonavir",
+        "Busvir",
+        "Empetus",
+        "Normune"
+    ],
+    "description": "Ritonavir is an HIV protease inhibitor that interferes with the reproductive cycle of HIV. Although it was initially developed as an independent antiviral agent, it has been shown to possess advantageous properties in combination regimens with low-dose ritonavir and other protease inhibitors. It is now more commonly used as a booster of other protease inhibitors and is available in both liquid formulations and as capsules. \r\n\r\nWhile ritonavir is not an active antiviral agent against hepatitis C virus (HCV) infection, it is added in combination therapies indicated for the treatment of HCV infections as a booster. Ritonavir is a potent CYP3A inhibitor that increases peak and trough plasma drug concentrations of other protease inhibitors such as [DB09297] and overall drug exposure. American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) guidelines recommend ritonavir-boosted combination therapies as first-line therapy for HCV Genotype 1a/b and 4 treatment-na\u00efve patients with or without cirrhosis. \r\n\r\nRitonavir is found in a fixed-dose combination product with [DB09296], [DB09183], and [DB09297] as the FDA-approved product Viekira Pak. First approved in December 2014, Viekira Pak is indicated for the treatment of HCV genotype 1b without cirrhosis or with compensated cirrhosis, and when combined with Ribavirin for the treatment of HCV genotype 1a without cirrhosis or with compensated cirrhosis.\r\n\r\nRitonavir is also available as a fixed-dose combination product with [DB09296] and [DB09297] as the FDA- and Health Canada-approved product Technivie. First approved in July 2015, Technivie is indicated in combination with Ribavirin for the treatment of patients with genotype 4 chronic hepatitis C virus (HCV) infection without cirrhosis or with compensated cirrhosis.\r\n\r\nIn Canada, ritonavir is also available as a fixed-dose combination product with [DB09296], [DB09183], and [DB09297] as the Health Canada-approved, commercially available product Holkira Pak. First approved in January 2015, Holkira Pak is indicated for the treatment of HCV genotype 1b with or without cirrhosis, and when combined with Ribavirin for the treatment of HCV genotype 1a with or without cirrhosis. The inclusion of ritonavir can select for HIV-1 protease inhibitor resistance-associated substitutions. Any HCV/HIV-1 co-infected patients treated with ritonavir-containing combination therapies should also be on a suppressive antiretroviral drug regimen to reduce the risk of HIV-1 protease inhibitor drug resistance.\r\n\r\nRitonavir is combined with other drugs to treat coronavirus disease 2019 (COVID-19) in patients at risk for progressing into a severe form of the disease, such as [nirmatrelvir].[L40094]",
+    "indication": "Ritonavir is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection.[L3513, L12357, L11163, L13443]\r\n\r\nIn the US, Europe, and Canada, ritonavir, in combination with [nirmatrelvir], is indicated for the treatment of mild-to-moderate coronavirus disease 2019 (COVID-19) in adults who are at high risk for progression to severe COVID-19, including hospitalization or death.[L46586, L39840] In Europe, this therapeutic indication is approved under conditional marketing authorization.[L40089]",
+    "pharmacodynamics": "Ritonavir is a protease inhibitor with activity against Human Immunodeficiency Virus Type 1 (HIV-1). Protease inhibitors block the part of HIV called protease. HIV-1 protease is an enzyme required for the proteolytic cleavage of the viral polyprotein precursors into the individual functional proteins found in infectious HIV-1. Ritonavir binds to the protease active site and inhibits the activity of the enzyme. This inhibition prevents cleavage of the viral polyproteins resulting in the formation of immature non-infectious viral particles. Protease inhibitors are almost always used in combination with at least two other anti-HIV drugs. Modern protease inhibitors require the use of low-dose ritonavir to boost pharmacokinetic exposure through inhibition of metabolism via the cytochrome P450 3A4 enzyme pathway. ",
+    "mechanism-of-action": "Ritonavic inhibits the HIV viral proteinase enzyme that normally cleaves the structural and replicative proteins that arise from major HIV genes, such as *gag* and *pol*. *Gag* encodes proteins involved in the core and the nucleocapsid, while *pol* encodes the the HIV reverse transcriptase, ribonuclease H, integrase, and protease [A19647]. The *pol*-encoded proteins are initially translated in the form of a larger precursoe polypeptide, *gag-pol*, and needs to be cleaved by HIV protease to form other complement proteins [A19647]. Ritonavir prevents the cleavage of the *gag-pol* polyprotein, which results in noninfectious, immature viral particles. Ritonavir is a potent inhibitor of cytochrome P450 CYP3A4 isoenzyme present both in the intestinal tract and liver [A19647]. It is a type II ligand that perfectly fits into the CYP3A4 active site cavity and irreversibly binds to the heme iron via the thiazole nitrogen, which decreases the redox potential of the protein and precludes its reduction with the redox partner, cytochrome P450 reductase [A19648]. Ritonavir may also play a role in limiting cellular transport and efflux of other protease inhibitors via the P-glycoprotein and MRP efflux channels [A19647].",
+    "absorption": "The absolute bioavailability of ritonavir has not been determined.[L3513] Following oral administration, peak concentrations are reached after approximately 2 hours and 4 hours (T<sub>max</sub>) after dosing under fasting and non-fasting conditions, respectively.[L3513] It should be noted that ritonavir capsules and tablets are not considered bioequivalent.[L3513]",
+    "metabolism": "Ritonavir circulates in the plasma predominantly as unchanged drug. Five metabolites have been identified.[L3513] The isopropylthiazole oxidation metabolite (M-2) is the major metabolite in low plasma concentrations and retains similar antiviral activity to unchanged ritonavir. The cytochrome P450 enzymes CYP3A and CYP2D6 are the enzymes primarily involved in the metabolism of ritonavir.[L3513]",
+    "toxicity": "Human experience of acute overdose with ritonavir is limited. One patient in clinical trials took ritonavir 1500 mg/day for two days. The patient reported paresthesias which resolved after the dose was decreased. A post-marketing case of renal failure with eosinophilia has been reported with ritonavir overdose. The approximate lethal dose was found to be greater than 20 times the related human dose in rats and 10 times the related human dose in mice. Oral LD value in rats is >2500 mg/kg. Adverse effects of ritonavir may arise from drug-drug interactions. Other effects include hepatotoxicity, pancreatitis, and allergic reactions/hypersensitivity. ",
+    "targets": [
+        [
+            "pol",
+            "Human immunodeficiency virus type 1 protease",
+            "Human immunodeficiency virus 1"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

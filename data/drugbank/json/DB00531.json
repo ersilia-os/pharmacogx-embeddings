@@ -1,0 +1,86 @@
+{
+    "pharmgkb_id": "PA449165",
+    "drugbank_id": "DB00531",
+    "names": [
+        "Cyclophosphamide",
+        "Endoxan",
+        "Neosar",
+        "Procytox",
+        "Revimmune",
+        "Sendoxan"
+    ],
+    "description": "Precursor of an alkylating nitrogen mustard antineoplastic and immunosuppressive agent that must be activated in the liver to form the active aldophosphamide. It has been used in the treatment of lymphoma and leukemia. Its side effect, alopecia, has been used for defleecing sheep. Cyclophosphamide may also cause sterility, birth defects, mutations, and cancer.",
+    "indication": "Cyclophosphamide is indicated for the treatment of malignant lymphomas, multiple myeloma, leukemias, mycosis fungoides (advanced disease), neuroblastoma (disseminated disease), adenocarcinoma of the ovary, retinoblastoma, and carcinoma of the breast. It is also indicated for the treatment of biopsy-proven minimal change nephrotic syndrome in pediatric patients. ",
+    "pharmacodynamics": "Cyclophosphamide is an antineoplastic in the class of alkylating agents and is used to treat various forms of cancer. Alkylating agents are so named because of their ability to add alkyl groups to many electronegative groups under conditions present in cells. They stop tumor growth by cross-linking guanine bases in DNA double-helix strands - directly attacking DNA. This makes the strands unable to uncoil and separate. As this is necessary in DNA replication, the cells can no longer divide. In addition, these drugs add methyl or other alkyl groups onto molecules where they do not belong which in turn inhibits their correct utilization by base pairing and causes a miscoding of DNA. Alkylating agents are cell cycle-nonspecific. Alkylating agents work by three different mechanisms all of which achieve the same end result - disruption of DNA function and cell death.",
+    "mechanism-of-action": "Alkylating agents work by three different mechanisms: 1) attachment of alkyl groups to DNA bases, resulting in the DNA being fragmented by repair enzymes in their attempts to replace the alkylated bases, preventing DNA synthesis and RNA transcription from the affected DNA, 2) DNA damage via the formation of cross-links (bonds between atoms in the DNA) which prevents DNA from being separated for synthesis or transcription, and 3) the induction of mispairing of the nucleotides leading to mutations.",
+    "absorption": "After oral administration, peak concentrations occur at one hour. ",
+    "metabolism": "Metabolism and activation occurs at the liver. 75% of the drug is activated by cytochrome P450 isoforms, CYP2A6, 2B6, 3A4, 3A5, 2C9, 2C18, and 2C19. The CYP2B6 isoform is the enzyme with the highest 4-hydroxylase activity. Cyclophosphamide undergoes activation to eventually form active metabolites, phosphoramide mustard and acrolein. Cyclophosphamide appears to induce its own metabolism which results in an overall increase in clearance, increased formation of 4-hydroxyl metabolites, and shortened t1/2 values following repeated administration. ",
+    "toxicity": "Adverse reactions reported most often include neutropenia, febrile neutropenia, fever, alopecia, nausea, vomiting, and diarrhea.\r\n",
+    "targets": [
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00531",
+            "Drug Name": "Cyclophosphamide",
+            "Gene Symbol": "CYP3A4",
+            "RS ID (Genotype)": "rs2740574",
+            "Effect Description": "Patients with this genotype have reduced metabolism of cyclophosphamide to its active form and reduced disease free survival time when using cyclophosphamide to treat node-positive breast cancer."
+        },
+        {
+            "DrugBank ID": "DB00531",
+            "Drug Name": "Cyclophosphamide",
+            "Gene Symbol": "CYP2B6",
+            "RS ID (Genotype)": "rs4802101",
+            "Effect Description": "Patients with this genotype have reduced metabolism of cyclophosphamide to its active form."
+        }
+    ]
+}

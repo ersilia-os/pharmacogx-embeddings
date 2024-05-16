@@ -1,0 +1,196 @@
+{
+    "pharmgkb_id": "PA449283",
+    "drugbank_id": "DB00829",
+    "names": [
+        "Diazepam",
+        "Diapam",
+        "Nervium",
+        "Relanium"
+    ],
+    "description": "A benzodiazepine with anticonvulsant, anxiolytic, sedative, muscle relaxant, and amnesic properties and a long duration of action. Its actions are mediated by enhancement of gamma-aminobutyric acid activity. It is used in the treatment of severe anxiety disorders, as a hypnotic in the short-term management of insomnia, as a sedative and premedicant, as an anticonvulsant, and in the management of alcohol withdrawal syndrome. (From Martindale, The Extra Pharmacopoeia, 30th ed, p589)\r\n\r\nGiven diazepam's storied history as a commonly used and effective medication for a variety of indications, contemporary advancements in the formulation and administration of the agent include the development and US FDA approval of an auto-injectable formulation for the rapid treatment of uncontrolled seizures in 2015-2016 [L5200]. Combining diazepam, a proven effective therapy for acute repetitive seizures, with an auto-injector designed for subcutaneous administration that is quickly and easily administered offers the potential for complete, consistent drug absorption and rapid onset of effect [L5200]. This current development is subsequently an important addition to the rescue therapy tool chest for patients with epilepsy [L5200].",
+    "indication": "In general, diazepam is useful in the symptomatic management of mild to moderate degrees of anxiety in conditions dominated by tension, excitation, agitation, fear, or aggressiveness such as may occur in psychoneurosis, anxiety reactions due to stress conditions, and anxiety states with somatic expression.[F3160]\r\n\r\nMoreover, in acute alcoholic withdrawal, diazepam may be useful in the symptomatic relief of acute agitation, tremor, and impending acute delirium tremens.[F3160]\r\n\r\nFurthermore, diazepam is a useful adjunct for the relief of skeletal muscle spasm due to reflex spasm to local pathologies, such as inflammation of the muscle and joints or secondary to trauma; spasticity caused by upper motor neuron disorders, such as cerebral palsy and paraplegia; athetosis and the rare \"stiff man syndrome\".[F3160]\r\n\r\nParticular label information from the United Kingdom also lists particular age-specific indications, including for adults: (1) The short-term relief (2-4 weeks) only, of anxiety which is severe, disabling, or subjecting the individual to unacceptable distress, occurring alone or in association with insomnia or short-term psychosomatic, organic or psychotic illness, (2) cerebral palsy, (3) muscle spasm, (4) as an adjunct to certain types of epilepsy (eg. myoclonus), (5) symptomatic treatment of acute alcohol withdrawal, (6) as oral premedication for the nervous dental patient, and (7) for premedication before surgery.[L5188]\r\n\r\nIn the same UK label information, diazepam is indicated in children for: (1) control of tension and irritability in cerebral spasticity in selected cases, (2) as an adjunct to the control of muscle spasm in tetanus, and for (3) oral premedication.[L5188]\r\n\r\nA diazepam nasal spray is indicated in patients 6 years and older to treat intermittent, stereotypic episodes of frequent seizure activity that are different than the patient's usual seizure pattern.[L11247]",
+    "pharmacodynamics": "Diazepam is a benzodiazepine that exerts anxiolytic, sedative, muscle- relaxant, anticonvulsant and amnestic effects [F3157, F3160, L5188]. Most of these effects are thought to result from facilitation of the action of gamma aminobutyric acid (GABA), an inhibitory neurotransmitter in the central nervous system [F3157, F3160, L5188].",
+    "mechanism-of-action": "Diazepam is a benzodiazepine tranquilliser with anticonvulsant, sedative, muscle relaxant and amnesic properties [F3157, F3160, L5188].\r\n\r\nBenzodiazepines, such as diazepam, bind to receptors in various regions of the brain and spinal cord. This binding increases the inhibitory effects of gamma-aminobutyric acid (GABA) [F3157, F3160, L5188]. GABAs functions include CNS involvement in sleep induction. Also involved in the control of hypnosis, memory, anxiety, epilepsy and neuronal excitability [F3157, F3160, L5188].",
+    "absorption": "After oral administration, it is considered that diazepam is rapidly and completely absorbed from the gastrointestinal tract as  >90% of diazepam is absorbed and the average time to achieve peak plasma concentrations is 1 \u2013 1.5 hours with a range of 0.25 to 2.5 hours [F3157, F3160, L5188].\r\n\r\nAbsorption is delayed and decreased when administered with a moderate fat meal [F3157]. In the presence of food mean lag times are approximately 45 minutes as compared with 15 minutes when fasting [F3157]. There is also an increase in the average time to achieve peak concentrations to about 2.5 hours in the presence of food as compared with 1.25 hours when fasting [F3157]. This results in an average decrease in Cmax of 20% in addition to a 27% decrease in AUC (range 15% to 50%) when administered with food [F3157].",
+    "metabolism": "Diazepam is N-demethylated by CYP3A4 and 2C19 to the active metabolite N-desmethyldiazepam, and is hydroxylated by CYP3A4 to the active metabolite temazepam [F3157, F3160]. N-desmethyldiazepam and temazepam are both further metabolized to oxazepam [F3157, F3160]. Temazepam and oxazepam are further largely eliminated by way of conjugation to glucuronic acid via glucuronidation [F3157, F3160].\r\n\r\nFurthermore, oxidation of diazepam is mediated by cytochrome P450 isozymes; formation of desmethyl-diazepam mainly by CYP2C19 and CYP3A and 3-hydroxy-diazepam (temazepam) and oxazepam by CYP3A. Because CYP2C19 is polymorphic, extensive metabolizers (EMs), and poor metabolizers (PMs) of diazepam can be distinguished [F3157, F3160]. PMs of diazepam showed significantly lower clearance (12 vs 26 mL/min) and longer elimination half-life (88 vs 41 h) of diazepam than EMs after a single oral dose [F3157, F3160]. Also, PMs had lower clearance, higher AUC and longer elimination half-life of desmethyl-diazepam [F3157, F3160].",
+    "toxicity": "The symptoms of diazepam overdose are mainly an intensification of the therapeutic effects (ataxia, drowsiness, dysarthria, sedation, muscle weakness, profound sleep, hypotension, bradycardia, nystagmus) or paradoxical excitation [F3157, F3160, L5188]. In most cases only observation of vital functions is required [F3157, F3160, L5188].\r\n\r\nExtreme overdosage may lead to coma, areflexia, cardio-respiratory depression and apnoea, requiring appropriate countermeasures (ventilation, cardiovascular support) [F3157, F3160, L5188].\r\n\r\nBenzodiazepine respiratory depressant effects are more serious in patients with severe chronic obstructive airways disease [F3157, F3160, L5188]. Severe effects in overdose also include rhabdomyolysis and hypothermia [L5188]. Overdose of benzodiazepines in combination with other CNS depressants (including alcohol) may be fatal and should be closely monitored [F3157].\r\n\r\nIn general, the use of diazepam in women of childbearing potential, and more specifically during known pregnancy, should be considered only when the clinical situation warrants the risk to the fetus [F3157]. The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered [F3157]. If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus [F3157]. Patients should also be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physician about the desirability of discontinuing the drug [F3157].\r\n\r\nSpecial care must be taken when diazepam is used during labor and delivery, as high single doses may produce irregularities in the fetal heart rate and hypotonia, poor sucking, hypothermia, and moderate respiratory depression in the neonates [F3157]. With newborn infants it must be remembered that the enzyme system involved in the breakdown of the drug is not yet fully developed (especially in premature infants) [F3157].\r\n\r\nDiazepam passes into breast milk [F3157]. Breastfeeding is therefore not recommended in patients receiving diazepam [F3157].\r\n\r\nSafety and effectiveness in pediatric patients below the age of 6 months have not been established [F3157].\r\n\r\nIn elderly patients, it is recommended that the dosage be limited to the smallest effective amount to preclude the development of ataxia or oversedation (2 mg to 2.5 mg once or twice daily, initially to be increased gradually as needed and tolerated) [F3157]. Extensive accumulation of diazepam and its major metabolite, desmethyldiazepam, has been noted following chronic administration of diazepam in healthy elderly male subjects. Metabolites of this drug are known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function [F3157]. Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [F3157].\r\n\r\nDecreases in clearance and protein binding, and increases in volume of distribution and half-life has been reported in patients with cirrhosis [F3157]. In such patients, a 2- to 5- fold increase in mean half-life has been reported [F3157]. Delayed elimination has also been reported for the active metabolite desmethyldiazepam [F3157]. Benzodiazepines are commonly implicated in hepatic encephalopathy [F3157]. Increases in half-life have also been reported in hepatic fibrosis and in both acute and chronic hepatitis [F3157].",
+    "targets": [
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

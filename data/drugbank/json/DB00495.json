@@ -1,0 +1,123 @@
+{
+    "pharmgkb_id": "PA451954",
+    "drugbank_id": "DB00495",
+    "names": [
+        "Zidovudine"
+    ],
+    "description": "A dideoxynucleoside compound in which the 3&#39;-hydroxy group on the sugar moiety has been replaced by an azido group. This modification prevents the formation of phosphodiester linkages which are needed for the completion of nucleic acid chains. The compound is a potent inhibitor of HIV replication, acting as a chain-terminator of viral DNA during reverse transcription. It improves immunologic function, partially reverses the HIV-induced neurological dysfunction, and improves certain other clinical abnormalities associated with AIDS. Its principal toxic effect is dose-dependent suppression of bone marrow, resulting in anemia and leukopenia. [PubChem]",
+    "indication": "Used in combination with other antiretroviral agents for the treatment of human immunovirus (HIV) infections.",
+    "pharmacodynamics": "Zidovudine is a nucleoside reverse transcriptase inhibitor (NRTI) with activity against Human Immunodeficiency Virus Type 1 (HIV-1). Zidovudine is phosphorylated to active metabolites that compete for incorporation into viral DNA. They inhibit the HIV reverse transcriptase enzyme competitively and act as a chain terminator of DNA synthesis. The lack of a 3'-OH group in the incorporated nucleoside analogue prevents the formation of the 5' to 3' phosphodiester linkage essential for DNA chain elongation, and therefore, the viral DNA growth is terminated.",
+    "mechanism-of-action": "Zidovudine, a structural analog of thymidine, is a prodrug that must be phosphorylated to its active 5\u2032-triphosphate metabolite, zidovudine triphosphate (ZDV-TP). It inhibits the activity of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue. It competes with the natural substrate dGTP and incorporates itself into viral DNA. It is also a weak inhibitor of cellular DNA polymerase \u03b1 and \u03b3.  ",
+    "absorption": "Rapid and nearly complete absorption from the gastrointestinal tract following oral administration; however, because of first-pass metabolism, systemic bioavailability of zidovudine capsules and solution is approximately 65% (range, 52 to 75%). Bioavailability in neonates up to 14 days of age is approximately 89%, and it decreases to approximately 61% and 65% in neonates over 14 days of age and children 3 months to 12 years, respectively. Administration with a high-fat meal may decrease the rate and extent of absorption.",
+    "metabolism": "Hepatic. Metabolized by glucuronide conjugation to major, inactive metabolite, 3&prime;-azido-3&prime;-deoxy-5&prime;- O-beta-D-glucopyranuronosylthymidine (GZDV). UGT2B7 is the primary UGT isoform that is responsible for glucuronidation. Compared to zidovudine, GZDV's area under the curve is approximately 3-fold greater. The cytochrome P450 isozymes are responsible for the reduction of the azido moiety to form 3'-amino-3'- deoxythymidine (AMT). ",
+    "toxicity": "Symptoms of overdose include fatigue, headache, nausea, and vomiting. LD<sub>50</sub> is 3084 mg/kg (orally in mice).",
+    "targets": [
+        [
+            "pol",
+            "Reverse transcriptase/RNaseH",
+            "Human immunodeficiency virus 1"
+        ],
+        [
+            "TERT",
+            "Telomerase reverse transcriptase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "TK1",
+            "Thymidine kinase, cytosolic",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLC28A1",
+            "Sodium/nucleoside cotransporter 1",
+            "Humans"
+        ],
+        [
+            "SLC29A2",
+            "Equilibrative nucleoside transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC5",
+            "Multidrug resistance-associated protein 5",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

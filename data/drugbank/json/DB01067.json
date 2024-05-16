@@ -1,0 +1,88 @@
+{
+    "pharmgkb_id": "PA449762",
+    "drugbank_id": "DB01067",
+    "names": [
+        "Glipizide",
+        "Aldiab",
+        "Digrin",
+        "Dipazide",
+        "Glibenese",
+        "Glib\u00e9n\u00e8se",
+        "Glibetin",
+        "Glican",
+        "Glidiab",
+        "Glipid",
+        "Glipin",
+        "Glix",
+        "Gluco-Rite",
+        "Glucolip",
+        "Glucozide",
+        "Glupitel",
+        "Glupizide",
+        "Glyde",
+        "Glydiazinamide",
+        "Melizide",
+        "Mindiab",
+        "Minidab",
+        "Minidiab",
+        "Minodiab",
+        "Napizide",
+        "Ozidia",
+        "Sucrazide",
+        "Zitrol XR"
+    ],
+    "description": "Glipizide is an oral hypoglycemic agent in the second-generation sulfonylurea drug class that is used to control blood sugar levels in patients with type 2 diabetes mellitus. It was first introduced in 1984 [A179491] and is available in various countries including Canada and the U.S. According to the 2018 Clinical Practice Guidelines by Diabetes Canada, sulfonylurea drugs are considered a second-line glucose-lowering therapy following metformin.[L6712] Because sulfonylureas require functional pancreatic beta cells for their therapeutic effectiveness, sulfonylureas are more commonly used for early-stage type 2 diabetes when there is no progressed pancreatic failure.[T28] Compared to the first-generation sulfonylureas, such as [tolbutamide] and [chlorpropamide], second-generation sulfonylureas contain a more non-polar side chain in their chemical structure, which enhances their hypoglycemic potency.[A179488] Compared to other members of the sulfonylurea drug group, glipizide displays rapid absorption and onset of action with the shortest half-life and duration of action, reducing the risk for long-lasting hypoglycemia that is often observed with blood glucose-lowering agents.[A179485] Glipizide was first approved by the FDA in 1994 and is available in extended-release tablets under the brand name Glucotrol\u00ae, as well as in combination with metformin under the brand name Metaglip\u00ae.",
+    "indication": "Indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.[label] ",
+    "pharmacodynamics": "Glipizide is a blood glucose-lowering agent. The initial onset of blood glucose-lowering effect occurs around 30 minutes post-administration with the duration of action lasting for about 12 to 24 hours.[L6739] While the chronic use of glipizide does not result in elevations in the fasting insulin levels over time, the postprandial insulin response, or insulin response to a meal, is observed to be enhanced, even after 6 months of treatment.[label] The main therapeutic actions of glipizide primarily occur at the pancreas where the insulin release is stimulated, but glipizide also mediates some extrapancreatic effects, such as the promotion of insulin signaling effects on the muscles, fat, or liver cells.[L6745] Due to its action on the endogenous cells, sulfonylureas including glipizide is associated with a risk for developing hypoglycemia and weight gain in patients receiving the drug.[A179554,T28] Chronic administration of glipizide may result in down-regulation of the sulfonylurea receptors on pancreatic beta cells, which are molecular targets of the drug, leading to a reduced effect on insulin secretion.[A177715] \r\n\r\nLike other sulfonylureas, glipizide may work on pancreatic delta (\u03b4) cells and alpha (\u03b1) cells to stimulate the secretion of somatostatin and suppress the secretion of glucagon, which are peptide hormones that regulate neuroendocrine and metabolic pathways. Other than its primary action on the pancreas, glipizide also exerts other biological actions outside of the pancreas, or \"extrapancreatic effects\", which is similar to other members of the sulfonylurea drug class. Glipizide may enhance the glucose uptake into the skeletal muscles and potentiate the action of insulin in the liver. Other effects include inhibited lipolysis in the liver and adipose tissue, inhibited hepatic glucose output, and increased uptake and oxidation of glucose. It has also been demonstrated by several studies that the chronic therapeutic use of sulfonylureas may result in an increase in insulin receptors expressed on monocytes, adipocytes, and erythrocytes.[A177715]",
+    "mechanism-of-action": "Type 2 diabetes mellitus (T2DM) is a chronic metabolic disorder with increasing prevalence worldwide. Characterized by higher-than-normal levels of blood glucose, T2DM is a complex disorder that arises from the interaction between genetic, environmental and behavioral risk factors. Insulin is a peptide hormone that plays a critical role in regulating blood glucose levels. In response to high blood glucose levels, insulin promotes the uptake of glucose into the liver, muscle cells, and fat cells for storage. Although there are multiple events occurring that lead to the pathophysiology of T2DM, the disorder mainly involves insulin insensitivity as a result of insulin resistance, declining insulin production, and eventual failure of beta cells of pancreatic islets that normally produce insulin.[A179554] Early management with lifestyle intervention, such as controlled diet and exercise, is critical in reducing the risk of long-term secondary complications, such as cardiovascular mortality.\r\n\r\nGlipizide, like other sulfonylurea drugs, is an insulin secretagogue, which works by stimulating the insulin release from the pancreatic beta cells thereby increasing the plasma concentrations of insulin.[A177715] Thus, the main therapeutic action of the drug depends on the functional beta cells in the pancreatic islets.[L6739] Sulfonylureas bind to the sulfonylurea receptor expressed on the pancreatic beta-cell plasma membrane, leading to the closure of the ATP-sensitive potassium channel and reduced potassium conductance. This results in depolarization of the pancreatic beta cell and opening of the voltage-sensitive calcium channels, promoting calcium ion influx. Increased intracellular concentrations of calcium ions in beta cells stimulates the secretion, or exocytosis, of insulin granules from the cells.[label,T28] Apart from this main mechanism of action, the blood-glucose-lowering effect of glipizide involves increased peripheral glucose utilization via stimulating hepatic gluconeogenesis and by increasing the number and sensitivity of insulin receptors.[A177715]",
+    "absorption": "Gastrointestinal absorption of glipizide is uniform, rapid, and essentially complete.[A179485] The absolute bioavailability of glipizide in patients with type 2 diabetes receiving a single oral dose was 100%. The maximum plasma concentrations are expected to be reached within 6 to 12 hours following initial dosing. The steady-state plasma concentrations of glipizide from extended-release oral formulations are maintained over the 24-hour dosing interval.[label] In healthy volunteers, the absorption of glipizide was delayed by the presence of food but the total absorption was unaffected.[L6745]",
+    "metabolism": "Glipizide is subject to hepatic metabolism, in which its major metabolites are formed from aromatic hydroxylation. These major metabolites are glipizide are reported to be pharmacologically inactive. In contrast, an acetylaminoethyl benzine derivative is formed as a minor metabolite which accounts for less than 2% of the initial dose and is reported to have one-tenth to one-third as much hypoglycemic activity as the parent compound.[label]",
+    "toxicity": "In rats, the oral LD<sub>50</sub> is reported to be greater than 4000 mg/kg and the intraperitoneal LD<sub>50</sub> is 1200 mg/kg. The lowest published toxic dose (TDLo) via oral route in child was 379 \u03bcg/kg.[MSDS] \r\n\r\nSymptoms of overdose in sulfonylureas, including glipizide, may be related to severe hypoglycemia and may include coma, seizure, or other neurological impairment. These are symptoms of severe hypoglycemia and require immediate treatment with glucagon or intravenous glucose and close monitoring for a minimum of 24 to 48 hours since hypoglycemia may recur after apparent clinical recovery. Mild hypoglycemic symptoms without loss of consciousness or neurologic findings should be treated with oral glucose.[label]",
+    "targets": [
+        [
+            "ABCC8",
+            "ATP-binding cassette sub-family C member 8",
+            "Humans"
+        ],
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01067",
+            "Drug Name": "Glipizide",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1057910",
+            "Effect Description": "Patients with this genotype have reduced metabolism of glipizide."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "pharmgkb_id": "PA449899",
+    "drugbank_id": "DB00999",
+    "names": [
+        "Hydrochlorothiazide",
+        "Dichlotride",
+        "Esidrex",
+        "HydroDIURIL"
+    ],
+    "description": "Hydrochlorothiazide is the most commonly prescribed thiazide diuretic.[A185138] It is indicated to treat edema and hypertension.[A185138,L8447,L8450] Hydrochlorothiazide use is common but declining in favour of angiotensin converting enzyme inhibitors.[A185138] Many combination products are available containing hydrochlorothiazide and angiotensin converting enzyme inhibitors[L8390,L8423] or angiotensin II receptor blockers.[L7426,L7459]\r\n\r\nHydrochlorothiazide was granted FDA approval on 12 February 1959.[L8444]",
+    "indication": "Hydrochlorothiazide is indicated alone or in combination for the management of edema associated with congestive heart failure, hepatic cirrhosis, nephrotic syndrome, acute glomerulonephritis, chronic renal failure, and corticosteroid and estrogen therapy.[L8447,L8450] Hydrochlorothiazide is also indicated alone or in combination for the management of hypertension.[A185138,L8447,L8450,L45663]",
+    "pharmacodynamics": "Hydrochlorothiazide prevents the reabsorption of sodium and water from the distal convoluted tubule, allowing for the increased elimination of water in the urine.[A185138,A185180,A16730,L8447,L8450] Hydrochlorothiazide has a wide therapeutic window as dosing is individualized and can range from 25-100mg.[L8447,L8450] Hydrochlorothiazide should be used with caution in patients with reduced kidney or liver function.[L8447,L8450]",
+    "mechanism-of-action": "Hydrochlorothiazide is transported from the circulation into epithelial cells of the distal convoluted tubule by the organic anion transporters OAT1, OAT3, and OAT4.[A185204,A185180] From these cells, hydrochlorothiazide is transported to the lumen of the tubule by multidrug resistance associated protein 4 (MRP4).[A185204]\r\n\r\nNormally, sodium is reabsorbed into epithelial cells of the distal convoluted tubule and pumped into the basolateral interstitium by a sodium-potassium ATPase, creating a concentration gradient between the epithelial cell and the distal convoluted tubule that promotes the reabsorption of water.[A16730]\r\n\r\nHydrochlorothiazide acts on the proximal region of the distal convoluted tubule, inhibiting reabsorption by the sodium-chloride symporter, also known as Solute Carrier Family 12 Member 3 (SLC12A3).[A185138,A185180,A16730] Inhibition of SLC12A3 reduces the magnitude of the concentration gradient between the epithelial cell and distal convoluted tubule, reducing the reabsorption of water.[A16730]",
+    "absorption": "An oral dose of hydrochlorothiazide is 65-75% bioavailable, with a T<sub>max</sub> of 1-5 hours, and a C<sub>max</sub> of 70-490ng/mL following doses of 12.5-100mg.[L8447,L8450] When taken with a meal, bioavailability is 10% lower, C<sub>max</sub> is 20% lower, and T<sub>max</sub> increases from 1.6 to 2.9 hours.[L8450]",
+    "metabolism": "Hydrochlorothiazide is not metabolized.[L8447,L8450]",
+    "toxicity": "The oral LD<sub>50</sub> of hydrochlorothiazide is >10g/kg in mice and rats.[L8447,L8450]\r\n\r\nPatients experiencing an overdose may present with hypokalemia, hypochloremia, and hyponatremia.[L8447,L8450,A185138] Treat patients with symptomatic and supportive treatment including fluids and electrolytes.[L8447,L8450,A185138] Vasopressors may be administered to treat hypotension and oxygen may be given for respiratory impairment.[A185138,L8447,L8450]",
+    "targets": [
+        [
+            "SLC12A3",
+            "Solute carrier family 12 member 3",
+            "Humans"
+        ],
+        [
+            "KCNMA1",
+            "Calcium-activated potassium channel subunit alpha-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

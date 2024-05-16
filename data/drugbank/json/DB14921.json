@@ -1,0 +1,61 @@
+{
+    "pharmgkb_id": "PA166272922",
+    "drugbank_id": "DB14921",
+    "names": [
+        "Mavacamten"
+    ],
+    "description": "Mavacamten is a myosin inhibitor indicated for the treatment of adults with symptomatic New York Heart Association (NYHA) class II-III obstructive hypertrophic cardiomyopathy (HCM). It received initial US FDA approval in 2022, and it is one of the first myosin inhibitors to be used in humans.[A248440] Mavacamten was also approved by Health Canada in October 2022 and by EMA in July 2023 for the same indication.[L44106,L47471]",
+    "indication": "Mavacamten is indicated for the treatment of adults with symptomatic New York Heart Association (NYHA) class II-III obstructive hypertrophic cardiomyopathy (HCM) to improve functional capacity and symptoms by the FDA, Health Canada, and the EMA.[L41680,L44106,L47466]",
+    "pharmacodynamics": "Mavacamten is a myosin inhibitor to prevent muscle hypercontractility. It binds to myosin and inhibits myosin interaction with actin at various stages of the thermomechanical cycle. Mechanistic studies show that mavacamten can inhibit myosin in both its active and relaxed form, thus effectively alleviating excess sarcomere power, a hallmark of hypertrophic cardiomyopathy.[L41680, A248440]\r\n\r\nIn the EXPLORER-HCM trial, patients achieved reductions in mean resting and provoked (Valsalva) LVOT gradient by Week 4 which were sustained throughout the 30-week trial. At Week 30, the mean (SD) changes from baseline in resting and Valsalva LVOT gradients were -39 (29) mmHg and -49 (34) mmHg, respectively, for the CAMZYOS group and -6 (28) mmHg and -12 (31) mmHg, respectively, for the placebo group. The reductions in the Valsalva LVOT gradient were accompanied by decreases in LVEF, generally within the normal range. Eight weeks after discontinuation of CAMZYOS, mean LVEF and Valsalva LVOT gradients were similar to baseline.[L41680]\r\n\r\nEchocardiographic measurements of the cardiac structure showed a mean (SD) reduction from baseline at Week 30 in left ventricular mass index (LVMI) in the mavacamten group (-7.4 [17.8] g/m2) versus an increase in LVMI in the placebo group (8.9 [15.3] g/m2). There was also a mean (SD) reduction from baseline in left atrial volume index (LAVI) in the mavacamten group(-7.5 [7.8] mL/m2) versus no change in the placebo group (-0.1 [8.7] mL/m2). The clinical significance of these findings is unknown.[L41680]\r\n\r\nA reduction in a biomarker of cardiac wall stress, NT-proBNP, was observed by Week 4 and sustained through the end of treatment.\r\nAt Week 30 compared with baseline, the reduction in NT-proBNP after mavacamten treatment was 80% greater than for placebo (proportion of geometric mean ratio between the two groups, 0.20 [95% CI: 0.17, 0.24]). The clinical significance of these findings is unknown.[L41680]\r\n\r\nIn healthy volunteers receiving multiple doses of mavacamten, a concentration-dependent increase in the QTc interval was observed at doses up to 25 mg once daily. No acute QTc changes have been observed at similar exposures during single-dose studies. The mechanism of the QT prolongation effect is not known. A meta-analysis across clinical studies in HCM patients does not suggest clinically relevant increases in the QTc interval in the therapeutic exposure range. In HCM, the QT interval may be intrinsically prolonged due to the underlying disease, in association with ventricular pacing, or in association with drugs with the potential for QT prolongation commonly used in the HCM population. The effect of coadministration of mavacamten with QT-prolonging drugs or in patients with potassium channel variants resulting in a long QT interval has not been characterized.[L41680]   ",
+    "mechanism-of-action": "Myosin is a family of enzymes that can produce mechanical output by an ATP-mediated cyclic interaction with actin. When ATP is bound to the myosin head, it is hydrolyzed into ADP and organophosphate by myosin ATPase activity, and the energy produced from the reaction is stored in the myosin head. As the organophosphate dissociates from myosin, it shifts myosin into a strong binding state to actin, thus creating a myosin-actin complex otherwise known as \"cross-bridging\".[A248280, A247120, A248290]Dissociation of the organophosphate also causes a conformation change in myosin that creates strain in the actin-myosin bridge that can only be released once the actin and myosin filaments slide past each other, thus shortening the sarcomere and create a muscle contraction.[A248290,A248425] Once the sliding is completed, ADP is released to create further movement of the myosin head.[A248425] Although this ADP release-induced movement is minor and unlikely to contribute to the sarcomere movement, researchers have hypothesized that this movement is likely essential in limiting the sliding velocity of actin.[A248410,A248415,A248420,A248425]Finally, myosin then bind to a new ATP molecule to initiate the chemomechanical cycle again. \r\n\r\n\r\nMavacamten reduces sarcomere hypercontractility by acting as an allosteric and reversible modulator of the beta-cardiac isoform of myosin to reduce its ATPase activity, thus reducing actin-myosin cross bridging.[A248285] Specifically, mavacamten inhibits the phosphate release, the cycle's rate-limiting step, without affecting the ADP release rate in actin-bound myosin.[A247155]Also, mavacamten inhibits binding of ADP-bound myosin to actin as well as ADP release to prime the myosin head to initiate turnover.[A247120]Recently, it was also discovered when myosin is not in its active state to interact with actin, it exists in equilibrium between 2 energy sparing states: a disordered relaxed state, where interaction between actin and myosin by the thin filament regulatory proteins, and a super relaxed state, where significant myosin head-to-head interaction lengthen ATP turnover rate.[A248430,A248435]. Mavacamten's binding to myosin can shift the equilibrium toward the super relaxed state, effectively exerting both a basal and actin-activated ATP inhibition.[A248430,L41680]\r\n",
+    "absorption": "Mavacamten has an estimated oral bioavailability of at least 85% and T<sub>max</sub> of 1 hour.[L41680] Mavacamten exposures (AUC) increased up to 220% in patients with mild (Child-Pugh A) or moderate (Child-Pugh B) hepatic impairment. The effect of severe (Child-Pugh C) hepatic impairment is unknown.[L41680]",
+    "metabolism": "Mavacamten is extensively metabolized, primarily through CYP2C19 (74%), CYP3A4 (18%), and CYP2C9 (8%).[L41680] ",
+    "toxicity": "Human experience of overdose with CAMZYOS is limited. CAMZYOS has been given as a single dose of up to 144 mg in patients with HCM. One subject administered a single dose of 144 mg experienced serious adverse events including vasovagal reaction, hypotension, and asystole, but the subject recovered. In healthy subjects, doses of up to 25 mg have been administered for up to 25 days, with 3 of 8 participants treated at the 25-mg dose level experiencing 20% or greater reductions in LVEF. An infant's death was reported after accidental ingestion of three 15-mg capsules.[L41680] \r\n\r\nSystolic dysfunction is the most likely result of overdosage of CAMZYOS. Treatment of overdose with CAMZYOS consists of discontinuation of CAMZYOS treatment as well as medically supportive measures to maintain hemodynamic stability, including close monitoring of vital signs and LVEF and management of the clinical status of the patient. Overdose in humans can be life-threatening and result in asystole refractory to any medical intervention.[L41680] \r\n\r\nMavacamten was not genotoxic in a bacterial reverse mutation test (Ames test), a human in vitro lymphocyte clastogenicity assay, or a rat in vivo micronucleus assay. There was no evidence of carcinogenicity seen in a 6-month rasH2 transgenic mouse study at mavacamten doses of up to 2.0 mg/kg/day in males and 3.0 mg/kg/day in females, which resulted in exposures (AUC) that were 1.8- and 3-fold in males and females, respectively, compared to AUC exposures in humans at the MRHD.[L41680] \r\n\r\nIn reproductive toxicity studies, there was no evidence of the effects of mavacamten on mating and fertility in male or female rats at doses up to 1.2 mg/kg/day, or on the viability and fertility of offspring of dams dosed up to 1.5 mg/kg/day. Plasma exposure (AUC) of mavacamten at the highest dose tested was the same as in humans at the MRHD.[L41680] \r\n\r\nThe safety of mavacamten has been evaluated in rats and dogs at multiple dose levels (0.06 to 10 mg/kg/day) orally. Noted toxicities, including echocardiographic findings, reduction in systolic function, cardiac dilation, and death, as well as increased heart weights in rats, were consistent with mavacamten\u2019s mechanism of action and primary pharmacological activity. Other findings included cardiac osseous metaplasia in rats and QTc prolongation in dogs. Plasma exposures (AUC) at the NOAEL in rats and dogs were 0.1 and 0.3 times, respectively, human exposure (AUC) at the MRHD.[L41680] ",
+    "targets": [
+        [
+            "MYH7",
+            "Myosin-7",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

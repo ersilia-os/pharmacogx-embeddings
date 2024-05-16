@@ -1,0 +1,127 @@
+{
+    "pharmgkb_id": "PA165291492",
+    "drugbank_id": "DB06589",
+    "names": [
+        "Pazopanib"
+    ],
+    "description": "Pazopanib is a small molecule inhibitor of multiple protein tyrosine kinases with potential antineoplastic activity. It is developed by GlaxoSmithKline and was FDA approved on October 19, 2009.",
+    "indication": "Treatment of advanced renal cell cancer and advanced soft tissue sarcoma (in patients previously treated with chemotherapy) ",
+    "pharmacodynamics": "Pazopanib is a synthetic indazolylpyrimidine and reaches steady state concentrations of >15 \u03bcg/ml. This concentration is high enough to observe maximal inhibition of VEGFR2 phosphorylation and some anti-tumour activity (concentration required to inhibit receptors is 0.01 - 0.084 \u03bcmol/L). A reduction in tumour blood flow, increased tumour apoptosis, inhibition of tumour growth, reduction in tumour interstitial fluid pressure, and hypoxia in cancer cells can be observed in patients receiving treatment. ",
+    "mechanism-of-action": "Pazopanib is a second-generation multitargeted tyrosine kinase inhibitor against vascular endothelial growth factor receptor-1, -2, and -3, platelet-derived growth factor receptor-alpha, platelet-derived growth factor receptor-beta, and c-kit. These receptor targets are part of the angiogenesis pathway that facilitates the formation of tumour blood vessel for tumour survival and growth. ",
+    "absorption": "Absorption of pazopanib in cancer patients is slow and incomplete. In patients with solid tumour, over a dose range of 50-2000 mg, absorption is nonlinear. Significant accumulation of pazopanib can also be observed in patients receiving 800 mg once daily for 22 days. Crushing tablets may increase exposure (increase in Cmax and AUC, while Tmax decreases by 2 hours). \r\nBioavailability, oral tablet 800 mg, cancer patient = 21%;\r\nBioavailability may be low due to incomplete absorption from the gastrointestinal tract. The major circulating component of the drug in the systemic is pazopanib, and not its metabolites. \r\nMean maximum plasma concentration= 58.1 \u00b5g/mL;\r\nMean AUC= 1037 \u00b5g \u00b7 h/mL; ",
+    "metabolism": "Metabolized by CYP3A4 and to a lesser extent by CYP1A2 and CYP2C8. Metabolites are less active than pazopanib (10 to 20-fold less active). Three of its metabolites can be observed in the systemic and account for <10% of plasma radioactivity. ",
+    "toxicity": null,
+    "targets": [
+        [
+            "FLT1",
+            "Vascular endothelial growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "KDR",
+            "Vascular endothelial growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FLT4",
+            "Vascular endothelial growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "PDGFRA",
+            "Platelet-derived growth factor receptor alpha",
+            "Humans"
+        ],
+        [
+            "PDGFRB",
+            "Platelet-derived growth factor receptor beta",
+            "Humans"
+        ],
+        [
+            "KIT",
+            "Mast/stem cell growth factor receptor Kit",
+            "Humans"
+        ],
+        [
+            "FGFR3",
+            "Fibroblast growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "ITK",
+            "Tyrosine-protein kinase ITK/TSK",
+            "Humans"
+        ],
+        [
+            "FGF1",
+            "Fibroblast growth factor 1",
+            "Humans"
+        ],
+        [
+            "SH2B3",
+            "SH2B adapter protein 3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB06589",
+            "Drug Name": "Pazopanib",
+            "Gene Symbol": "UGT1A1",
+            "RS ID (Genotype)": "rs3064744",
+            "Adverse Reaction Description": "The presence of this polymorphism in UGT1A1 is associated with an increase in the incidence of hyperbilirubinemia when treated with pazopanib."
+        },
+        {
+            "DrugBank ID": "DB06589",
+            "Drug Name": "Pazopanib",
+            "Gene Symbol": "HCP5",
+            "RS ID (Genotype)": "rs2395029",
+            "Adverse Reaction Description": "The presence of this polymorphism in HCP5 may indicate an increased risk of ALT elevation  leading to drug-related hepatotoxicty from pazpanib therapy."
+        }
+    ]
+}

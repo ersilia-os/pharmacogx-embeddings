@@ -1,0 +1,23 @@
+{
+    "pharmgkb_id": "PA164784025",
+    "drugbank_id": "DB00442",
+    "names": [
+        "Entecavir",
+        "Barcavir",
+        "Caavirel",
+        "Entaliv",
+        "Teviral"
+    ],
+    "description": "Entecavir is an oral antiviral drug used in the treatment of hepatitis B infection. It is marketed under the trade name Baraclude (BMS).\r\n\r\nEntecavir is a guanine analogue that inhibits all three steps in the viral replication process, and the manufacturer claims that it is more efficacious than previous agents used to treat hepatitis B (lamivudine and adefovir). It was approved by the U.S. Food and Drug Administration (FDA) in March 2005.",
+    "indication": "For the treatment of chronic hepatitis B virus infection in adults with evidence of active viral replication and either evidence of persistent elevations in serum aminotransferases (ALT or AST) or histologically active disease.",
+    "pharmacodynamics": "Entecavir is a guanosine nucleoside analogue with selective activity against hepatitis B virus (HBV). It is designed to selectively inhibit the Hepatitis B virus, blocking all three steps in the replication process. Entecavir is more efficient than an older Hepatitis B drug, lamivudine.",
+    "mechanism-of-action": "By competing with the natural substrate deoxyguanosine triphosphate, entecavir functionally inhibits all three activities of the HBV polymerase (reverse transcriptase, rt): (1) base priming, (2) reverse transcription of the negative strand from the pregenomic messenger RNA, and (3) synthesis of the positive strand of HBV DNA. Upon activation by kinases, the drug can be incorporated into the DNA which has the ultimate effect of inhibiting the HBV polymerase activity.",
+    "absorption": "Absorption Following oral administration in healthy subjects, entecavir peak plasma concentrations occurred between 0.5 and 1.5 hours. In healthy subjects, the bioavailability of the tablet is 100% relative to the oral solution.",
+    "metabolism": "Entecavir is not a substrate, inhibitor, or inducer of the cytochrome P450 (CYP450) enzyme system. Entecavir is efficiently phosphorylated to the active triphosphate form.",
+    "toxicity": "Healthy subjects who received single entecavir doses up to 40 mg or multiple doses up to 20 mg/day for up to 14 days had no increase in or unexpected adverse events. If overdose occurs, the patient must be monitored for evidence of toxicity, and standard supportive treatment applied as necessary.",
+    "targets": null,
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

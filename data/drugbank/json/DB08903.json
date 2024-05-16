@@ -1,0 +1,42 @@
+{
+    "pharmgkb_id": "nan-10cb7504-1815-48f4-9db9-1df9ce025271",
+    "drugbank_id": "DB08903",
+    "names": [
+        "Bedaquiline"
+    ],
+    "description": "Bedaquiline is a bactericidal antimycobacterial drug belonging to the class of diarylquinoline. The quinolinic central heterocyclic nucleus with alcohol and amine side chains is responsible for bedaquiline-mediated antimycobacterial activity.[A261866] Although it is closely related to fluoroquinolones, bedaquiline does not affect DNA gyrase; instead, bedaquiline inhibits the c subunit of ATP synthase responsible for synthesizing ATP.[A261866] Consequently, bedaquiline can be used to treat mycobacterial infection, particularly tuberculosis (TB).[L48506] Although the current standard of TB treatment of anti-TB drugs for 2 months, including 2 key drugs [isoniazid] and [rifampin], is highly effective, the emergence of multidrug-resistant TB (MDR-TB) to [isoniazid] and [rifampin] has substantially worsened patients outcome.[A261861]\r\n\r\nBedaquiline was approved by the FDA on December 28, 2012, to treat pulmonary MDR-TB, following favorable results in multiple pre-clinical and clinical studies.[A261856,A261861] It is the first drug that was approved in the last 40 years by the FDA for TB unresponsive to current treatments on the market.[A261856] Currently, bedaquiline is the last-line anti-TB drug and must only be used in an appropriate combination regimen.[L48506,A261866]",
+    "indication": "Bedaquiline is indicated as part of combination therapy in the treatment of adult and pediatric patients (5 years and older and weighing at least 15 kg) with pulmonary multi-drug resistant tuberculosis (MDR-TB). Reserve SIRTURO for use when an effective treatment regimen cannot otherwise be provided.[L48506]\r\n\r\nThis indication is approved under FDA accelerated approval based on time to sputum culture conversion. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.[L48506]",
+    "pharmacodynamics": "Bedaquiline is primarily subjected to oxidative metabolism leading to the formation of N-monodesmethyl metabolite (M2). M2 is not thought to contribute significantly to clinical efficacy given its lower average exposure (23% to 31%) in humans and lower antimycobacterial activity (4-fold to 6-fold lower) than the parent compound. However, M2 plasma concentrations appeared to correlate with QT prolongation.[L48506] \r\n\r\nBedaquiline inhibits mycobacterial TB at a minimal inhibitory concentration (MIC) from 0.002-0.06 \u03bcg/ml and with a MIC<sub>50</sub> of 0.03 \u03bcg/ml. The proportion of naturally resistant bacteria is low, estimated to be in one strain over 10<sup>7</sup>/10<sup>8</sup> bacteria. Bacteria that have smaller ATP stores (such as dormant, nonreplicating bacilli) are more susceptible to bedaquiline.[A7484]\r\n\r\nAdditionally, bedaquiline is also effective against nontuberculous mycobacteria, with MICs ranging from 0.06 to 0.5 \u03bcg/ml.[A7484]\r\n\r\nA potential for the development of resistance to bedaquiline in M. tuberculosis exists. Modification of the atpE target gene, and/or upregulation of the MmpS5-MmpL5 efflux pump (Rv0678 mutations) have been associated with increased bedaquiline MIC values in isolates of M. tuberculosis. Target-based mutations generated in preclinical studies lead to 8- to 133-fold increases in bedaquiline MIC, resulting in MICs ranging from 0.25 to 4 micrograms per mL. Efflux-based mutations have been seen in preclinical and clinical isolates. These lead to 2- to 8-fold increases in bedaquiline MICs, resulting in bedaquiline MICs ranging from 0.25 to 0.5 micrograms per mL.[L48506] \r\n\r\n",
+    "mechanism-of-action": "Bedaquiline is a diarylquinoline antimycobacterial drug that inhibits mycobacterial ATP (adenosine 5'-triphosphate) synthase, by binding to subunit c of the enzyme that is essential for the generation of energy in _M. tuberculosis._.[L48506]\r\n",
+    "absorption": "After the recommended dosing regimen of bedaquiline (400 mg for 2 weeks followed by 200 mg three times per week for 22 weeks), the C<sub>max</sub> and AUC<sub>24h</sub> were calculated to be 1.659 \u03bcg/ml and 25.863 \u03bcg.h/ml respectively.[L48506]\r\n\r\nAfter a single oral dose administration of bedaquiline, maximum plasma concentrations (C<sub>max</sub>) are typically achieved at approximately 5 hours post-dose. C<sub>max</sub> and the area under the plasma concentration-time curve (AUC) increased proportionally up to 700 mg (1.75 times the 400 mg loading dose).[L48506]\r\n\r\nAdministration of bedaquiline with a standard meal containing approximately 22 grams of fat (558 total Kcal) increased the relative bioavailability by approximately 2-fold compared to administration under fasted conditions. Bedaquiline should be taken with food to enhance its oral bioavailability.[L48506]",
+    "metabolism": "CYP3A4 was the major CYP isoenzyme involved in the in vitro metabolism of bedaquiline and the formation of the N-monodesmethyl metabolite (M2).[L48506]",
+    "toxicity": "There is no experience with the treatment of acute overdose with SIRTURO. Take general measures to support basic vital functions including monitoring of vital signs and ECG (QT interval) in case of deliberate or accidental overdose. It is advisable to contact a poison control center to obtain the latest recommendations for the management of an overdose. Since bedaquiline is highly protein-bound, dialysis is not likely to significantly remove bedaquiline from plasma.[L48506]\r\n\r\nBedaquiline was not carcinogenic in rats up to the maximum tolerated dose of 10 mg/kg/day. Exposures at this dose in rats (AUCs) were within 1-fold to 2-fold of those observed in adult patients in the clinical trials.[L48506]\r\n\r\nNo mutagenic or clastogenic effects were detected in the in vitro non-mammalian reverse mutation (Ames) test, in vitro mammalian (mouse lymphoma) forward mutation assay, and an in vivo mouse bone marrow micronucleus assay.[L48506]\r\n\r\nSIRTURO did not affect fertility when evaluated in male and female rats at approximately twice the clinical exposure based on AUC comparisons. There was no effect of maternal treatment on sexual maturation, mating performance, or fertility in the F1 generation exposed to bedaquiline in utero at approximately twice the human exposure.[L48506]",
+    "targets": [
+        [
+            "atpE",
+            "ATP synthase subunit c",
+            "Mycobacterium tuberculosis"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,63 @@
+{
+    "pharmgkb_id": "PA151958426",
+    "drugbank_id": "DB04861",
+    "names": [
+        "Nebivolol",
+        "Lobivon",
+        "Nebicard",
+        "Nebilet",
+        "Nebilong",
+        "Nodon",
+        "Nubeta"
+    ],
+    "description": "Nebivolol is a racemic mixture of 2 enantiomers where one is a beta adrenergic antagonist and the other acts as a cardiac stimulant without beta adrenergic activity.[A182579] Treatment with nebivolol leads to a greater decrease in systolic and diastolic blood pressure than [atenolol], [propranolol], or [pindolol].[A182579] Nebivolol and other beta blockers are generally not first line therapies as many patients are first treated with thiazide diuretics.[A182594]\r\n\r\nNebivolol was granted FDA approval on 17 December 2007.[L7985]",
+    "indication": "Nebivolol is indicated to treat hypertension.[A2762,A182579,L7985,L7988]",
+    "pharmacodynamics": "Nebivolol is a selective beta-1 adrenergic receptor antagonist that decreases vascular resistance, increases stroke volume and cardiac output, and does not negatively affect left ventricular function.[A182579,A182585] It has a long duration of action as effects can be seen 48 hours after stopping the medication and a wide therapeutic window as patients generally take 5-40mg daily.[A182579,L7985] Patients should not abruptly stop taking this medication as this may lead to exacerbation of coronary artery disease.[L7985] Diabetic patients should monitor their blood glucose levels as beta blockers may mask signs of hypoglycemia.[L7985]",
+    "mechanism-of-action": "Nebivolol is a highly selective beta-1 adrenergic receptor antagonist[A182579] with weak beta-2 adrenergic receptor antagonist activity.[A182585] Blocking beta-1 adrenergic receptors by d-nebivolol leads to decreased resting heart rate, exercise heart rate, myocardial contracility, systolic blood pressure, and diastolic blood pressure.[A182603,A182579,A182585,A182615] The selectivity of d-nebivolol limits the magnitude of beta blocker adverse effects in the airways or relating to insulin sensitivity.[A182615] Nebivolol also inhibits aldosterone, and beta-1 antagonism in the juxtaglomerular apparatus also inhibits the release of renin.[A182615] Decreased aldosterone leads to decreased blood volume, and decreased renin leads to reduced vasoconstriction.[A182615] l-nebivolol is responsible for beta-3 adrenergic receptor agonist activity that stimulates endothelial nitric oxide synthase, increasing nitric oxide levels; leading to vasodilation, decreased peripheral vascular resistance, increased stroke volume, ejection fraction, and cardiac output.[A2762,A182603,A182579,A182585,A182615] The vasodilation, reduced oxidative stress, and reduced platelet volume and aggregation of nebivolol may lead to benefits in heart failure patients.[A182603]",
+    "absorption": "The absorption of nebivolol is not affected by food.[L7985] Nebivolol has a T<sub>max</sub> of 1.5-4 hours.[L7985] Bioavailability can range from 12-96% for extensive to poor CYP2D6 metabolizers.[A183008,A183011] For a 20mg dose, d-nebivolol has a C<sub>max</sub> of 2.75\u00b11.55ng/mL, l-nebivolol has a C<sub>max</sub> of 5.29\u00b12.06ng/mL, both enantiomers have a C<sub>max</sub> of 8.02\u00b13.47ng/mL, and nebivolol glucuronides have a C<sub>max</sub> of 68.34\u00b144.68ng/mL.[A183008] For a 20mg dose, d-nebivolol has an AUC of 13.78\u00b115.27ng\\*h/mL, l-nebivolol has an AUC of 27.72\u00b115.32ng\\*h/mL, both enantiomers have an AUC of 41.50\u00b129.76ng\\*h/mL, and nebivolol glucuronides have an AUC of 396.78\u00b1297.94ng\\*h/mL.[A183008]",
+    "metabolism": "Nebivolol is metabolized mainly by glucuronidation and CYP2D6 mediated hydroxylation.[A2762,A182603] Metabolism involves n-dealkylation, hydroxylation, oxidation, and glucuronidation.[A183011] Aromatic hydroxyl and acyclic oxide metabolites are active, while n-dealkylated and glucuronides are inactive.[A183011]",
+    "toxicity": "Patients experiencing an overdose may present with bradycardia, hypotension, cardiac failure, dizziness, hypoglycemia, fatigue, vomiting, bronchospasm and heart block.[L7985] Treat overdose with general supportive measures including intravenous atropine for bradycardia, vasopressors and intravenous fluids for hypotension, isoproterenol infusion for heart block, digitalis glycosides and diuretics for congestive heart failure, bronchodilators for bronchospasm, and intravenous glucose for hypoglycemia.[L7985]",
+    "targets": [
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta-3 adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

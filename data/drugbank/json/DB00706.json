@@ -1,0 +1,71 @@
+{
+    "pharmgkb_id": "PA451583",
+    "drugbank_id": "DB00706",
+    "names": [
+        "Tamsulosin",
+        "Betamsal",
+        "Contiflo XL",
+        "Flomaxtra",
+        "Harnal D",
+        "Maxrin",
+        "Mecir",
+        "Omexel",
+        "Omipro",
+        "Omix",
+        "Omnic",
+        "Pradif",
+        "Ranomax",
+        "Salover",
+        "Secotex",
+        "Stronazon",
+        "Tamsact",
+        "Tamsol",
+        "Tamsul",
+        "Urimax"
+    ],
+    "description": "Tamsulosin is a selective alpha-1A and alpha-1B adrenoceptor antagonist that exerts its greatest effect in the prostate and bladder, where these receptors are most common.[Label] It is indicated for the treatment of signs and symptoms of benign prostatic hypertrophy.[Label] Antagonism of these receptors leads to relaxation of smooth muscle in the prostate and detrusor muscles in the bladder, allowing for better urinary flow.[Label] Other alpha-1 adrenoceptor antagonists developed in the 1980s were less selective and more likely to act on the smooth muscle of blood vessels, resulting in hypotension.[A178351]\r\n\r\nTamsulosin was first approved by the FDA on April 15, 1997.[L6238]",
+    "indication": "Tamsulosin is indicated for the treatment of signs and symptoms of benign prostatic hyperplasia.[Label]\r\n\r\nTamsulosin is also used off label for the treatment of ureteral stones, prostatitis, and female voiding dysfunction.[A178339,L6259]",
+    "pharmacodynamics": "Tamsulosin is an alpha adrenoceptor blocker with specificity for the alpha-1A and alpha-1D subtypes, which are more common in the prostate and submaxillary tissue.[A1078] The final subtype, alpha-1B, are most common in the aorta and spleen.[A1078] Tamsulosin binds to alpha-1A receptors 3.9-38 times more selectively than alpha-1B and 3-20 times more selectively than alpha-1D.[A1078] This selectivity allows for a significant effect on urinary flow with a reduced incidence of adverse reactions like orthostatic hypotension.[A1078]",
+    "mechanism-of-action": "Tamsulosin is a blocker of alpha-1A and alpha-1D adrenoceptors.[Label,A1078] About 70% of the alpha-1 adrenoceptors in the prostate are of the alpha-1A subtype.[Label] By blocking these adrenoceptors, smooth muscle in the prostate is relaxed and urinary flow is improved.[Label] The blocking of alpha-1D adrenoceptors relaxes the detrusor muscles of the bladder which prevents storage symptoms.[A1078] The specificity of tamsulosin focuses the effects to the target area while minimizing effects in other areas.[Label]",
+    "absorption": "Oral tamsulosin is 90% absorbed in fasted patients.[Label] The area under the curve is 151-199ng/mL\\*hr for a 0.4mg oral dose and 440-557ng/mL*hr for a 0.8mg oral dose.[Label] The maximum plasma concentration is 3.1-5.3ng/mL for a 0.4mg oral dose and 2.5-3.6ng/mL for a 0.8mg oral dose.[Label] Taking tamsulosin with food increases the time to maximum concentration from 4-5 hours to 6-7 hours but increases bioavailability by 30% and maximum plasma concentration by 40-70%.[Label]",
+    "metabolism": "Tamsulosin is mostly metabolized in the liver by cytochrome P450 (CYP) 3A4 and 2D6, with some metabolism by other CYPs.[Label,A1078] CYP3A4 is responsible for the deethylation of tamsulosin to the M-1 metabolite and the oxidative deamination to the AM-1 metabolite,[A178276,A178321] while CYP2D6 is responsible for the hydroxylation of tamsulosin to the M-3 metabolite and the demethylation of tamsulosin to the M-4 metabolite.[A178276] In addition, tamsulosin can be hydroxylated at a different position by an unknown enzyme to form the M-2 metabolite.[A178276] The M-1, M-2, M-3, and M-4 metabolites can be glucuronidated, and the M-1 and M-3 metabolites can undergo sulfate conjugation to form other metabolites before excretion.[A178321]",
+    "toxicity": "In the event of overdose, patients may experience hypotension and should lie down in a supine position to maintain blood pressure and heart rate.[Label] If further measures are required intravenous fluids should be considered.[Label] If further progression is required, vasopressors may be used and renal function should be monitored.[Label] Dialysis is unlikely to assist in treating overdose because tamsulosin is extensively protein bound.[Label]\r\n\r\nThe oral LD50 in rats is 650mg/kg.[MSDS]\r\n\r\nTamsulosin is not indicated for use in women and no studies have been performed in pregnancy, though animal studies have not shown fetal harm.[Label] Tamsulosin is excreted in the milk of rats but there is no available data on what the effect of this tamsulosin exposure may be.[Label] Animal studies have shown male and female rat fertility is affected by tamsulosin due to impairment of ejaculation and fertilization.[Label] In men, tamsulosin is associated with abnormal ejaculation.[Label] Tamsulosin is not mutagenic but may be carcinogenic at levels above the maximum recommended human dose.[Label] Female rats experience a slight increase in the rates of mammary gland fibroadenomas and adenocarcinomas.[Label]",
+    "targets": [
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA161925594",
+    "drugbank_id": "DB11699",
+    "names": [
+        "Tropisetron"
+    ],
+    "description": "Tropisetron is an indole derivative with antiemetic activity. As a selective serotonin receptor antagonist, tropisetron competitively blocks the action of serotonin at 5HT3 receptors, resulting in suppression of chemotherapy- and radiotherapy-induced nausea and vomiting.\r\n\r\nTropisetron appears to be well tolerated with the most frequently reported adverse effect being headache. Extrapyramidal side effects are rare upon using tropisetron.",
+    "indication": "For the prevention of nausea and vomiting induced by cytotoxic therapy and postoperative. ",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Tropisetron competitively binds to and blocks the action of serotonin at 5HT3 receptors peripherally on vagus nerve terminals located in the gastrointestinal (GI) tract as well as centrally in the chemoreceptor trigger zone (CTZ) of the area postrema of the central nervous system (CNS). This results in the suppression of chemotherapy- and radiotherapy-induced nausea and vomiting.",
+    "absorption": "The absorption of tropisetron from the gastrointestinal tract is rapid (mean half-life of about 20 minutes) and nearly complete (more than 95%). Due to first-pass metabolism in the liver, the absolute bioavailability of a 5 mg oral dose is 60%. The peak plasma concentration is attained within three hours. ",
+    "metabolism": "The metabolism of tropisetron occurs by hydroxylation at the 5, 6 or 7 positions of its indole ring, followed by a conjugation reaction to the glucuronide or sulphate with excretion in the urine or bile (urine to faeces ratio 5:1). The metabolites have a greatly reduced potency for the 5-HT3 receptor and do not contribute to the pharmacological action of the drug. ",
+    "toxicity": "LD50: 265 mg/kg (Rat, oral). ",
+    "targets": [
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

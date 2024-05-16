@@ -1,0 +1,33 @@
+{
+    "pharmgkb_id": "PA10232",
+    "drugbank_id": "DB00309",
+    "names": [
+        "Vindesine",
+        "Eldesine",
+        "Eldisine"
+    ],
+    "description": "Vinblastine derivative with antineoplastic activity against cancer. Major side effects are myelosuppression and neurotoxicity. Vindesine is used extensively in chemotherapy protocols (antineoplastic combined chemotherapy protocols).",
+    "indication": "For the treatment of acute leukaemia, malignant lymphoma, Hodgkin's disease, acute erythraemia and acute panmyelosis",
+    "pharmacodynamics": "Vindesine is indicated for the treatment of acute lymphocytic leukemia of childhood that is resistant to vincristine and non-oat cell lung cancer. Vindesine causes the arrest of cells in metaphase mitosis. It is three times more potent than vincristine and nearly 10 times more potent than vinblastine in causing mitotic arrest in <i>in vitro</i> studies at doses designed to arrest from 10 to 15% of the cells in mitosis. Vindesine and vincristine are approximately equipotent at dose levels that arrest 40 to 50% of the cells in mitosis. Unlike vinblastine, vindesine produces very few postmetaphase cells. Vindesine has demonstrated activity in patients who have relapsed while receiving multiple-agent treatment that included vincristine.",
+    "mechanism-of-action": "Vindesine acts by causing the arrest of cells in metaphase mitosis through its inhibition tubulin mitotic funcitoning. The drug is cell-cycle specific for the S phase.",
+    "absorption": null,
+    "metabolism": "Hepatic",
+    "toxicity": null,
+    "targets": [
+        [
+            "TUBB1",
+            "Tubulin beta-1 chain",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,74 @@
+{
+    "pharmgkb_id": "PA164746820",
+    "drugbank_id": "DB01320",
+    "names": [
+        "Fosphenytoin",
+        "Prodilantin",
+        "Sesquient"
+    ],
+    "description": "Fosphenytoin is a water-soluble phenytoin prodrug used only in hospitals for the treatment of epileptic seizures. It works by slowing down impulses in the brain that cause seizures. Its main mechanism is to block frequency-dependent, use-dependent and voltage-dependent neuronal sodium channels, and therefore limit repetitive firing of action potentials.",
+    "indication": "Fosphenytoin is indicated for the treatment of generalized tonic-clonic status epilepticus and for the prevention and treatment of seizures occurring during neurosurgery in adult patients. It can also be substituted, short-term, for oral phenytoin in patients aged two years and older when oral phenytoin administration is not possible.[L20619]",
+    "pharmacodynamics": "Fosphenytoin is a water-soluble phenytoin prodrug used for the treatment of epileptic seizures. Following parenteral administration of fosphenytoin, fosphenytoin is converted to the anticonvulsant phenytoin by endogenous phosphatases. Each 1.5 mg of fosphenytoin sodium is equivalent to 1.0mg of phenytoin sodium (PE equivalents); care should be taken to calculate the dose required in PE equivalents properly. Serious adverse effects such as Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), Stevens-Johnson Syndrome/Toxic Epidermal Necrolysis (SJS/TEN), and hematopoietic complications may occur and indicate an alternate antiepileptic should be used. Withdrawal of fosphenytoin sodium may precipitate seizures and should be done gradually.[L20619]",
+    "mechanism-of-action": "Fosphenytoin is a prodrug of phenytoin and accordingly, its anticonvulsant effects are attributable to phenytoin. Phenytoin acts on sodium channels on the neuronal cell membrane, limiting the spread of seizure activity and reducing seizure propagation. By promoting sodium efflux from neurons, phenytoin tends to stabilize the threshold against hyperexcitability caused by excessive stimulation or environmental changes capable of reducing membrane sodium gradient. This includes the reduction of post-tetanic potentiation at synapses. Loss of post-tetanic potentiation prevents cortical seizure foci from detonating adjacent cortical areas.",
+    "absorption": "Fosphenytoin at 15 to 20 mg PE/kg infused at 100 to 150 mg PE/min intravenously yields free plasma phenytoin concentrations similar to an equivalent dose of phenytoin sodium administered at 50 mg/min. Single intravenous administration of fosphenytoin shows a linear increase in mean maximum total phenytoin concentration while the mean maximum unbound phenytoin concentrations increase with both dose and infusion rate. Fosphenytoin is rapidly converted to phenytoin following intravenous administration with a half-life of 15 minutes; if administered intramuscularly, the peak plasma phenytoin concentration is not reached until three hours.[L20619]",
+    "metabolism": "Fosphenytoin is metabolized, likely by phosphatases, to phenytoin, phosphate, and formaldehyde; the formaldehyde is subsequently converted into formate. The phenytoin produced is metabolized hepatically by CYP2C9 and, to a lesser extent, by CYP2C19.[L20619]",
+    "toxicity": "Nausea, vomiting, lethargy, tachycardia, bradycardia, asystole, cardiac arrest, hypotension, syncope, hypocalcemia, metabolic acidosis, and death have been reported in cases of overdosage with fosphenytoin. The median lethal dose of fosphenytoin given intravenously in mice and rats was 156 mg PE/kg and approximately 250 mg PE/kg, or about 0.6 and 2 times, respectively, the maximum human loading dose on a mg/m2 basis. Signs of acute toxicity in animals included ataxia, labored breathing, ptosis, and hypoactivity.",
+    "targets": [
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferase 1-6",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "SERPINA7",
+            "Thyroxine-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

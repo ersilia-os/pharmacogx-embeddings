@@ -1,0 +1,81 @@
+{
+    "pharmgkb_id": "PA451666",
+    "drugbank_id": "DB00679",
+    "names": [
+        "Thioridazine",
+        "Aldazine",
+        "Mallorol",
+        "Malloryl",
+        "Meleril",
+        "Mellaril-S",
+        "Mellerets",
+        "Mellerette",
+        "Melleretten",
+        "Melleril",
+        "Novoridazine",
+        "Orsanil",
+        "Ridazin",
+        "Ridazine",
+        "Sonapax",
+        "Thioril"
+    ],
+    "description": "A phenothiazine antipsychotic used in the management of psychoses, including schizophrenia, and in the control of severely disturbed or agitated behavior. It has little antiemetic activity. Thioridazine has a higher incidence of antimuscarinic effects, but a lower incidence of extrapyramidal symptoms, than chlorpromazine. (From Martindale, The Extra Pharmacopoeia, 30th ed, p618).\r\n\r\nThioridazine was withdrawn worldwide in 2005 due to its association with cardiac arrythmias.",
+    "indication": "For the treatment of schizophrenia and generalized anxiety disorder.",
+    "pharmacodynamics": "Thioridazine is a trifluoro-methyl phenothiazine derivative intended for the management of schizophrenia and other psychotic disorders. Thioridazine has not been shown effective in the management of behaviorial complications in patients with mental retardation.",
+    "mechanism-of-action": "Thioridazine blocks postsynaptic mesolimbic dopaminergic D1 and D2 receptors in the brain; blocks alpha-adrenergic effect, depresses the release of hypothalamic and hypophyseal hormones and is believed to depress the reticular activating system thus affecting basal metabolism, body temperature, wakefulness, vasomotor tone, and emesis.",
+    "absorption": "60%",
+    "metabolism": "Hepatic",
+    "toxicity": "LD<sub>50</sub>=956-1034 mg/kg (Orally in rats); Agitation, blurred vision, coma, confusion, constipation, difficulty breathing, dilated or constricted pupils, diminished flow of urine, dry mouth, dry skin, excessively high or low body temperature, extremely low blood pressure, fluid in the lungs, heart abnormalities, inability to urinate, intestinal blockage, nasal congestion, restlessness, sedation, seizures, shock",
+    "targets": [
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

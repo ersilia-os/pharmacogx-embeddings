@@ -1,0 +1,91 @@
+{
+    "pharmgkb_id": "PA448866",
+    "drugbank_id": "DB01212",
+    "names": [
+        "Ceftriaxone",
+        "Acantex",
+        "Biotrakson",
+        "Rocephine"
+    ],
+    "description": "Ceftriaxone is a broad-spectrum third-generation cephalosporin antibiotic.[A215582] It has a very long half-life compared to other cephalosporins and is high penetrable into the meninges[A215582], eyes[A215647], and inner ear[A215627]. Ceftriaxone has broader and stronger gram-negative coverage then first or second-generation cephalosporins, but worse activity against methicillin-susceptible S.aureus. Ceftriaxone is a commonly used antimicrobial due to its good activity against multi-drug resistant Enterobacteriaceae, its relatively safe adverse effect profile, and its long half-life which allows for the convenience of daily or twice-daily dosing.[A215582]",
+    "indication": "Ceftriaxone is used for the treatment of the infections (respiratory, skin, soft tissue, UTI, ENT) caused by susceptible organisms.[L15082] Organisms that are generally susceptible to ceftriaxone include S. pneumoniae, S. pyogenes (group A beta-hemolytic streptococci), coagulase-negative staphylococci, Some Enterobacter spp, H. influenzae, N. gonorrhoeae, P. mirabilis, E. coli, Klebsiella spp, M. catarrhalis, B. burgdorferi, and some oral anaerobes.[A215582] ",
+    "pharmacodynamics": "Ceftriaxone is a cephalosporin/cephamycin beta-lactam antibiotic used in the treatment of bacterial infections caused by susceptible, usually gram-positive, organisms.[L15082] Ceftriaxone has <i>in vitro</i> activity against gram-positive aerobic, gram-negative aerobic, and anaerobic bacteria.[L15087] The bactericidal activity of ceftriaxone results from the inhibition of cell wall synthesis and is mediated through ceftriaxone binding to penicillin-binding proteins (PBPs).[T324] Ceftriaxone is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended-spectrum beta-lactamases.[L15082] However, resistance to ceftriaxone usually occurs through beta-lactamase hydrolysis, altered PBPs, or reduced bacterial cell permeability.[T324] Ceftriaxone should not be mixed with or giving in the same IV line as diluents/products containing calcium as they may cause ceftriaxone to precipitate.[L15082] Ceftriaxone use may also cause biliary sludge or gallbladder pseudolithiasis.[L15082,A215602] ",
+    "mechanism-of-action": "Ceftriaxone works by inhibiting the mucopeptide synthesis in the bacterial cell wall.[T324,L15082] The beta-lactam moiety of ceftriaxone binds to carboxypeptidases, endopeptidases, and transpeptidases in the bacterial cytoplasmic membrane. These enzymes are involved in cell-wall synthesis and cell division. Binding of ceftriaxone to these enzymes causes the enzyme to lose activity; therefore, the bacteria produce defective cell walls, causing cell death.",
+    "absorption": "Ceftriaxone is only given as an injection, either intramuscularly or intravenously.[L15082] Ceftriaxone is less than 1% bioavailable if given orally.[A215607]",
+    "metabolism": "Metabolism of ceftriaxone is negligible. ",
+    "toxicity": "Ceftriaxone overdose may increase the risk of urolithiasis and subsequent post-renal acute renal failure (PARF).[A215637] Other symptoms of overdose unavailable in the literature. However, they are likely similar to the adverse effects of the medication. If overdose of ceftriaxone occurs, treat with symptomatic and supportive treatment, as ceftriaxone levels will not be reduced by dialysis.[L15082]\r\n",
+    "targets": [
+        [
+            "penA",
+            "Penicillin-binding protein 2B",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "GLUL",
+            "Glutamine synthetase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

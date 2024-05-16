@@ -1,0 +1,48 @@
+{
+    "pharmgkb_id": "PA166153431",
+    "drugbank_id": "DB04908",
+    "names": [
+        "Flibanserin",
+        "Ectris"
+    ],
+    "description": "Flibanserin is the first drug to be approved for hypoactive sexual desire disorder (HSDD) in premenopausal women by the FDA in August 2015. It was originally developed as an antidepressant medication by Boehringer Ingelheim, but showed lack of efficacy in trials and was further developed as a hypoactive sexual disorder drug by Sprout Pharmaceuticals. Flibanserin's mechanism of action is attributed to its high affinity for 5-HTA1 and 5-HTA2 receptors, displaying agonist activity on 5-HTA1 and antagonist on 5-HTA2, resulting in lowering of serotonin in the brain as well as an effect on increasing norepinephrine and dopamine neurotransmitters.",
+    "indication": "For the treatment of hypoactive sexual desire disorder (HSDD) in premenopausal women. ",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Flibansetrin has high affinity for serotonin receptors in the brain: it acts as an agonist on 5-HT1A and an antagonist on 5-HT2A. In vivo, flibanserin binds equally to 5-HT1A and 5-HT2A receptors. However, under higher levels of brain 5-HT (i.e., under stress), flibanserin may occupy 5-HT2A receptors in higher proportion than 5-HT(1A) receptors. It may also moderately antagonize D4 (dopamine) receptors and 5-HT2B and 5-HTB2C. Its action on neurotransmitter receptors may contribute to reduction in serotonin levels and increase in dopamine and norepinephrine levels, all of which may play part in reward processing. ",
+    "absorption": "Flibanserin has an absolute oral availability of 33%.\r\n",
+    "metabolism": "Metabolism is primarily via CYP3A4, slightly CYP2C19. Minimal involvement of CYP1A2, CYP2B6, CYP2C8, CYP2C9 or CYP2D6. At least 35 metabolites of flibanserin are produced, 2 of which reach plasma concentrations as high as parent drug, however they are pharmacologically inactive. ",
+    "toxicity": null,
+    "targets": [
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "DRD4",
+            "Dopamine D4 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

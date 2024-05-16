@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA451131",
+    "drugbank_id": "DB01182",
+    "names": [
+        "Propafenone"
+    ],
+    "description": "An antiarrhythmia agent that is particularly effective in ventricular arrhythmias. It also has weak beta-blocking activity. The drug is generally well tolerated.",
+    "indication": "Used to prolong the time to recurrence of paroxysmal atrial fibrillation/flutter (PAF) associated with disabling symptoms in patients without structural heart disease. Also used for the treatment of life-threatening documented ventricular arrhythmias, such as sustained ventricular tachycardia.",
+    "pharmacodynamics": "Propafenone is a Class 1C antiarrhythmic drug with local anesthetic effects, and a direct stabilizing action on myocardial membranes. It is used in the treatment of atrial and ventricular arrhythmias. It acts by inhibiting sodium channels to restrict the entry of sodium into cardiac cells resulting in reduced excitation. Propafenone has local anesthetic activity approximately equal to procaine.",
+    "mechanism-of-action": "The electrophysiological effect of propafenone manifests itself in a reduction of upstroke velocity (Phase 0) of the monophasic action potential. In Purkinje fibers, and to a lesser extent myocardial fibers, propafenone reduces the fast inward current carried by sodium ions, which is responsible for the drugs antiarrhythmic actions. Diastolic excitability threshold is increased and effective refractory period prolonged. Propafenone reduces spontaneous automaticity and depresses triggered activity. At very high concentrations in vitro, propafenone can inhibit the slow inward current carried by calcium but this calcium antagonist effect probably does not contribute to antiarrhythmic efficacy.",
+    "absorption": "Nearly completely absorbed following oral administration (90%). Systemic bioavailability ranges from 5 to 50%, due to significant first-pass metabolism. This wide range in systemic bioavailability is related to two factors: presence of food (food increases bioavailability) and dosage (bioavailability is 3.4% for a 150-mg tablet compared to 10.6% for a 300-mg tablet).",
+    "metabolism": "Metabolized primarily in the liver where it is rapidly and extensively metabolized to two active metabolites, 5-hydroxypropafenone and N-depropylpropafenone. These metabolites have antiarrhythmic activity comparable to propafenone but are present in concentrations less than 25% of propafenone concentrations.",
+    "toxicity": "Symptoms of propafenone overdose (usually most severe within the first 3 hours) may include convulsions (rarely), heartbeat irregularities, low blood pressure, and sleepiness.",
+    "targets": [
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

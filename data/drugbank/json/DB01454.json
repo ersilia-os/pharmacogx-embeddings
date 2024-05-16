@@ -1,0 +1,77 @@
+{
+    "pharmgkb_id": "PA131887008",
+    "drugbank_id": "DB01454",
+    "names": [
+        "Midomafetamine"
+    ],
+    "description": "An N-substituted amphetamine analog. It is a widely abused drug classified as a hallucinogen and causes marked, long-lasting changes in brain serotonergic systems. It is commonly referred to as MDMA or ecstasy. It is a widely abused drug classified as a hallucinogen and causes marked, long-lasting changes in brain serotonergic systems.",
+    "indication": "Clinical trials are now testing the therapeutic potential of MDMA for post-traumatic stress disorder (PTSD) and anxiety associated with terminal cancer. MDMA is one of the four most widely used illicit drugs in the U.S.",
+    "pharmacodynamics": "MDMA acts as a releasing agent of serotonin, norepinephrine, and dopamine.",
+    "mechanism-of-action": "It enters neurons via carriage by the monoamine transporters. Once inside, MDMA inhibits the vesicular monoamine transporter, which results in increased concentrations of serotonin, norepinephrine, and dopamine into the cytoplasm, and induces their release by reversing their respective transporters through a process known as phosphorylation. It also acts as a weak 5-HT1 and 5-HT2 receptor agonist.\r\nMDMA's unusual entactogenic effects have been hypothesized to be, at least partly, the result of indirect oxytocin secretion via activation of the serotonin system. Oxytocin is a hormone released following events like hugging, orgasm, and childbirth, and is thought to facilitate bonding and the establishment of trust. Based on studies in rats, MDMA is believed to cause the release of oxytocin, at least in part, by both directly and indirectly agonizing the serotonin 5-HT1A receptor.",
+    "absorption": null,
+    "metabolism": "Midomafetamine, or MDMA, is reported to undergo extensive CYP-mediated hepatic metabolism, with CYP2D6 playing a major role in humans. Other CYP enzymes contributing to MDMA metabolism are CYP3A4 and COMT. \r\nMDMA is metabolized via two primary metabolic pathways. It may undergo O-demethylenation followed by catechol-O-methyltransferase (COMT)-catalyzed methylation and/or glucuronide/sulfate conjugation. In contrast, it may also undergo N-dealkylation, deamination, and oxidation to the corresponding benzoic acid derivatives conjugated with glycine. Due to autoinhibition of CYP2D6 and CYP2D8, MDMA displays a complex, nonlinear pharmacokinetics profile, with the zeroth order kinetics occurring at higher doses. It is thought that this can result in sustained and higher concentrations of MDMA if the user takes consecutive doses of the drug.",
+    "toxicity": null,
+    "targets": [
+        [
+            "SLC18A2",
+            "Synaptic vesicular amine transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine receptor 2B",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,82 @@
+{
+    "pharmgkb_id": "PA449685",
+    "drugbank_id": "DB00499",
+    "names": [
+        "Flutamide",
+        "Andraxan",
+        "Antipros",
+        "Curestat",
+        "Cytomid",
+        "Dedile",
+        "Drogenil",
+        "Elbat",
+        "Etaconil",
+        "Farostat",
+        "Flimutal",
+        "Flucinom",
+        "Flulem",
+        "Odyne",
+        "Prostadirex",
+        "Prostanon"
+    ],
+    "description": "An antiandrogen with about the same potency as cyproterone in rodent and canine species.",
+    "indication": "For the management of locally confined Stage B2-C and Stage D2 metastatic carcinoma of the prostate",
+    "pharmacodynamics": "Flutamide is a nonsteroidal antiandrogen. In animal studies, flutamide demonstrates potent antiandrogenic effects. It exerts its antiandrogenic action by inhibiting androgen uptake and/or by inhibiting nuclear binding of androgen in target tissues or both. Prostatic carcinoma is known to be androgen-sensitive and responds to treatment that counteracts the effect of androgen and/or removes the source of androgen, e.g. castration. Elevations of plasma testosterone and estradiol levels have been noted following flutamide administration.",
+    "mechanism-of-action": "Flutamide is a nonsteroidal antiandrogen that blocks the action of both endogenous and exogenous testosterone by binding to the androgen receptor. In addition Flutamide is a potent inhibitor of testosterone-stimulated prostatic DNA synthesis. Moreover, it is capable of inhibiting prostatic nuclear uptake of androgen.",
+    "absorption": "Rapidly and completely absorbed.",
+    "metabolism": "Flutamide is rapidly and extensively metabolized, with flutamide comprising only 2.5% of plasma radioactivity 1 hour after administration.",
+    "toxicity": "In animal studies with flutamide alone, signs of overdose included hypoactivity, piloerection, slow respiration, ataxia, and/or lacrimation, anorexia, tranquilization, emesis, and methemoglobinemia.",
+    "targets": [
+        [
+            "AR",
+            "Androgen receptor",
+            "Humans"
+        ],
+        [
+            "AHR",
+            "Aryl hydrocarbon receptor",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,64 @@
+{
+    "pharmgkb_id": "PA10892",
+    "drugbank_id": "DB01120",
+    "names": [
+        "Gliclazide",
+        "Glimicron",
+        "Nordialex"
+    ],
+    "description": "Gliclazide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It has been classified differently according to its drug properties in which based on its chemical structure, gliclazide is considered a first-generation sulfonylurea due to the structural presence of a sulfonamide group able to release a proton and the presence of one aromatic group.[A39546] On the other hand, based on the pharmacological efficacy, gliclazide is considered a second-generation sulfonylurea which presents a higher potency and a shorter half-life.[T238, T360] Gliclazide belongs to the sulfonylurea class of insulin secretagogues, which act by stimulating &beta; cells of the pancreas to release insulin. Sulfonylureas increase both basal insulin secretion and meal-stimulated insulin release. Medications in this class differ in their dose, rate of absorption, duration of action, route of elimination and binding site on their target pancreatic &beta; cell receptor. Sulfonylureas also increase peripheral glucose utilization, decrease hepatic gluconeogenesis and may increase the number and sensitivity of insulin receptors. Sulfonylureas are associated with weight gain, though less so than insulin. Due to their mechanism of action, sulfonylureas may cause hypoglycemia and require consistent food intake to decrease this risk. The risk of hypoglycemia is increased in elderly, debilitated and malnourished individuals. Gliclazide has been shown to decrease fasting plasma glucose, postprandial blood glucose and glycosolated hemoglobin (HbA1c) levels (reflective of the last 8-10 weeks of glucose control). Gliclazide is extensively metabolized by the liver; its metabolites are excreted in both urine (60-70%) and feces (10-20%).",
+    "indication": "For the treatment of NIDDM in conjunction with diet and exercise. ",
+    "pharmacodynamics": "Based on the pharmacological properties, gliclazide is a second generation sulphonylurea which acts as a hypoglycemic agent. It stimulates &beta; cells of the islet of Langerhans in the pancreas to release insulin. It also enhances peripheral insulin sensitivity. Overall, it potentiates insulin release and improves insulin dynamics.",
+    "mechanism-of-action": "Gliclazide binds to the &beta; cell sulfonyl urea receptor (SUR1). This binding subsequently blocks the ATP sensitive potassium channels. The binding results in closure of the channels and leads to a resulting decrease in potassium efflux leads to depolarization of the &beta; cells. This opens voltage-dependent calcium channels in the &beta; cell resulting in calmodulin activation, which in turn leads to exocytosis of insulin containing secretorty granules.",
+    "absorption": "Rapidly and well absorbed but may have wide inter- and intra-individual variability. Peak plasma concentrations occur within 4-6 hours of oral administration. ",
+    "metabolism": "Extensively metabolized in the liver. Less than 1% of the orally administered dose appears unchanged in the urine. Metabolites include oxidized and hydroxylated derivates, as well as glucuronic acid conjugates. ",
+    "toxicity": "LD<sub>50</sub>=3000 mg/kg (orally in mice). Gliclazide and its metabolites may accumulate in those with severe hepatic and/or renal dysfunction. Symptoms of hypoglycemia include: dizziness, lack of energy, drowsiness, headache and sweating.",
+    "targets": [
+        [
+            "ABCC8",
+            "ATP-binding cassette sub-family C member 8",
+            "Humans"
+        ],
+        [
+            "VEGFA",
+            "Vascular endothelial growth factor A",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01120",
+            "Drug Name": "Gliclazide",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with reduction in gliclazide metabolism."
+        },
+        {
+            "DrugBank ID": "DB01120",
+            "Drug Name": "Gliclazide",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with reduction in gliclazide metabolism."
+        }
+    ]
+}

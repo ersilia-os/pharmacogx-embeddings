@@ -1,0 +1,281 @@
+{
+    "pharmgkb_id": "PA448405",
+    "drugbank_id": "DB00543",
+    "names": [
+        "Amoxapine",
+        "Adisen",
+        "Amolife",
+        "Amoxan",
+        "Asendin",
+        "Asendis",
+        "D\u00e9fanyl",
+        "Demolox",
+        "Oxamine",
+        "Oxcap"
+    ],
+    "description": "Amoxapine, the <i>N</i>-demethylated derivative of the antipsychotic agent loxapine, is a dibenzoxazepine-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, amoxapine does not affect mood or arousal, but may cause sedation. In depressed individuals, amoxapine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. In addition, TCAs down-regulate cerebral cortical &beta;-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine H<sub>1</sub> receptors, &alpha;<sub>1</sub>-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. See toxicity section below for a complete listing of side effects. Amoxapine may be used to treat neurotic and reactive depressive disorders, endogenous and psychotic depression, and mixed symptoms of depression and anxiety or agitation.",
+    "indication": "For the relief of symptoms of depression in patients with neurotic or reactive depressive disorders as well as endogenous and psychotic depressions. May also be used to treat depression accompanied by anxiety or agitation.",
+    "pharmacodynamics": "Amoxapine is a tricyclic antidepressant of the dibenzoxazepine class, chemically distinct from the dibenzodiazepines, dibenzocycloheptenes, and dibenzoxepines. It has a mild sedative component to its action. The mechanism of its clinical action in man is not well understood. In animals, amoxapine reduced the uptake of nor-epinephirine and serotonin and blocked the response of dopamine receptors to dopamine. Amoxapine is not a monoamine oxidase inhibitor. Clinical studies have demonstrated that amoxapine has a more rapid onset of action than either amitriptyline or imipramine",
+    "mechanism-of-action": "Amoxapine acts by decreasing the reuptake of norepinephrine and serotonin (5-HT).",
+    "absorption": "Rapidly and almost completely absorbed from the GI tract. Peak plasma concentrations occur within 1-2 hours of oral administration of a single dose. ",
+    "metabolism": "Amoxapine is almost completely metabolized in the liver to its major metabolite, 8-hydroxyamoxapine, and a minor metabolite, 7-hydroxyamoxapine. Both metabolites are phamacologically inactive and have half-lives of approximately 30 and 6.5 hours, respectively. ",
+    "toxicity": "Toxic manifestations of amoxapine overdosage differ significantly from those of other tricyclic antidepressants. Serious cardiovascular effects are seldom if ever observed. However, CNS effects, particularly grand mal convulsions, occur frequently, and treatment should be directed primarily toward prevention or control of seizures. Status epilepticus may develop and constitutes a neurologic emergency. Coma and acidosis are other serious complications of substantial amoxapine overdosage in some cases. Renal failure may develop two to five days after toxic overdose in patients who may appear otherwise recovered. Acute tubular necrosis with rhabdomuolysis and myolobinurla is the most common renal complication in such cases. This reaction probably occurs in less than 5% of overdose cases, and typically in those who have experienced multiple seizures.",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "5-hydroxytryptamine receptor 6",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "DRD4",
+            "Dopamine D4 receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine receptor 2B",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1B",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "HRH4",
+            "Histamine H4 receptor",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

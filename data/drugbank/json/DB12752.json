@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA165945764",
+    "drugbank_id": "DB12752",
+    "names": [
+        "Bucindolol"
+    ],
+    "description": "Bucindolol has been investigated in Heart Failure.",
+    "indication": null,
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

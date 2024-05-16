@@ -1,0 +1,70 @@
+{
+    "pharmgkb_id": "PA165958369",
+    "drugbank_id": "DB06695",
+    "names": [
+        "Dabigatran etexilate",
+        "Pradax",
+        "Rendix"
+    ],
+    "description": "Dabigatran etexilate is an oral prodrug that is hydrolyzed to the competitive and reversible direct thrombin inhibitor [dabigatran].[A177463, A6970, L34675, L34680] Dabigatran etexilate may be used to decrease the risk of venous thromboembolic events in patients in whom anticoagulation therapy is indicated.[A177463] In contrast to warfarin, because its anticoagulant effects are predictable, lab monitoring is not necessary.[A177463] Dabigatran etexilate was approved by the FDA in 2010.[L6022]",
+    "indication": "Dabigatran etexilate is available in both oral pellet and capsule form. Dabigatran etexilate pellets are indicated for the treatment of venous thromboembolic events (VTE) in pediatric patients between three months and 12 years of age who have been treated with a parenteral anticoagulant for at least 5 days. They are also indicated in the same age group to reduce the risk of recurrence of VTE in patients who have been previously treated.[L34675]\r\n\r\nIn capsule form, dabigatran etexilate is indicated in adults to reduce the risk of stroke and systemic embolism associated with non-valvular atrial fibrillation and for the treatment of deep venous thrombosis (DVT) and pulmonary embolism (PE) in patients who have been treated with a parenteral anticoagulant for 5-10 days. It is also indicated in adults to reduce the risk of recurrence of DVT and PE in patients who have been previously treated and for the prophylaxis of DVT and PE in patients who have undergone hip replacement surgery. Lastly, it is indicated in pediatric patients between eight and 18 years of age for the treatment of venous thromboembolic events (VTE) in patients who have been treated with a parenteral anticoagulant for at least 5 days and to reduce the risk of recurrence of VTE in patients who have been previously treated.[L34680]\r\n\r\nDabigatran etexilate is also approved by the EMA to prevent VTE in adult patients. For pediatric patients, Dabigatran etexilate is used to treat TVE and prevent recurrent TVE for patients from birth to less than 18 years of age.[L46856]",
+    "pharmacodynamics": "Dabigatran etexilate is a double prodrug that is hydrolyzed to the active [dabigatran] by intestinal and hepatic carboxylesterases.[A236225, A17923, A236195] Dabigatran is a reversible competitive thrombin inhibitor that directly inhibits the conversion by thrombin of fibrinogen to fibrin, impairing the clotting process and acting as an anticoagulant.[A17924, A236200, A236210, L34675, L34680] Dabigatran use prolongs coagulation markers such as the activated partial thromboplastin time (aPTT), ecarin clotting time (ECT), thrombin time (TT), and dilute thrombin time (dTT), but not the international normalized ratio (INR), which cannot be used in this context as it can in [warfarin] monitoring.[L34675, L34680]\r\n\r\nAs with all anticoagulant therapies, dabigatran carries a risk of bleeding, which may increase with concomitant use of antiplatelet agents, fibrinolytic therapy, heparins, or chronic NSAID use, and should be monitored for. Premature discontinuation of dabigatran, in the absence of an alternative anticoagulant, also carries an increased risk of thromboembolic events. Due to the risk of an epidural or spinal hematoma, dabigatran should generally not be used in the context of neuraxial anesthesia or spinal puncture; if such use is unavoidable, careful monitoring should be employed. Dabigatran should not be used in patients with prosthetic heart valves due to an increased occurrence of major bleeding and thromboembolic events. Dabigatran is a substrate of the P-gp transporter and should generally not be administered together with P-gp inhibitors or inducers, especially in patients with impaired renal function. Lastly, dabigatran or any other direct-acting oral anticoagulant should not be administered in patients with triple-positive antiphospholipid syndrome (APS) due to an increased risk of recurrent thrombotic events. In case of the need for emergency reversal, [idarucizumab] is available for use in adult patients; the safety and efficacy of [idarucizumab] has not been established in pediatric patients yet, for whom reversal may be achieved through hemodialysis, prothrombin complex concentrates, or recombinant FVIIa. However, none of these have been sufficiently evaluated in clinical trials.[L34675, L34680]",
+    "mechanism-of-action": "Hemostasis is a complex process that balances coagulation to prevent excessive thrombus formation or excessive bleeding. Central to the coagulation process is the serine protease thrombin (FIIa), which is synthesized as inactive prothrombin (FII) and subsequently activated by FXa/FVa, leading to a positive feedback loop and the production of large quantities of thrombin; once enough thrombin is formed, it cleaves soluble fibrinogen to form insoluble fibrin fibres that, together with aggregated platelets, form a clot. Although beneficial in wound healing, aberrant thrombus formation can lead to serious health consequences.[A236205]\r\n\r\nDabigatran is a univalent reversible direct thrombin inhibitor (DTI) that competitively inhibits thrombin with a K<sub>i</sub> of 4.5 \u00b1 0.2 nmol/L.[A236200, A236210, L34675, L34680] Furthermore, the reversible nature of the inhibition is believed to allow for some normal physiological thrombin function, which may help alleviate some adverse effects associated with anticoagulation therapy.[A236215] In addition, dabigatran has several glucuronidated metabolites, all of which have been shown to possess _in vitro_ activity similar to the parent compound.[A17924]\r\n\r\nIn addition to a direct effect on thrombin activity, dabigatran has also been shown to inhibit platelet aggregation, another step in the coagulation pathway. However, the mechanism remains unclear as dabigatran inhibits platelet aggregation stimulated by thrombin and von Willebrand factor (vWF), but not by other pathways such as ADP- or thromboxane A2-induced aggregation.[A236210, A236220, A215227, L34675, L34680]",
+    "absorption": "Oral dabigatran has a bioavailability of 3-7%, although the relative bioavailability of dabigatran pellets is 37% higher than that for capsules and the bioavailability increases to 75% when the capsule shell is removed; dabigatran capsules should not be tampered with in any way prior to administration. The C<sub>max</sub> is achieved by one hour following oral dosing, which is extended to two hours if accompanied by a high-fat meal. Dabigatran can be taken with or without food. Dabigatran pharmacokinetics are approximately linear over a range of 10-400 mg in healthy adults and adult patients and it has an accumulation factor of two in adult and pediatric patients.[L34675, L34680]",
+    "metabolism": "Dabigatran is administered as the orally available prodrug dabigatran etexilate that is subsequently metabolized to the active form.[A236225, L34675, L34680] _In vitro_ studies and observations regarding the oral bioavailability and levels of plasma prodrug suggest extensive first-pass metabolism by carboxylesterases, first by intestinal CES2 to form BIBR0951 (also known as M2) and then subsequently by hepatic CES1 to form [dabigatran]. Dabigatran etexilate can also first undergo CES1-mediated hydrolysis to BIBR1087 (M1) followed by CES2-mediated hydrolysis to [dabigatran], though it is hypothesized that the former pathway accounts for most of the active form in plasma.[A17923, A236195] Dabigatran can undergo 1-_O_-acyl glucuronidation by UGT1A9, UGT2B7, and UGT2B15 followed by acyl migration to form the corresponding 2-_O_-, 3-_O_-, and 4-_O_-acyl glucuronides; all of these acyl glucuronides exhibit activity similar to [dabigatran] but account for a small fraction of recovered metabolites.[A236225, A17924, L34675, L34680]\r\n\r\nIn addition to these better characterized metabolic pathways, detailed LC/MS characterization suggests a wide variety of possible metabolites following oral or intravenous administration, most of which are present in only trace amounts in plasma, urine, or feces. These include a variety of oxidation, hydrolysis, and conjugation products, including through the addition of mannitol.[A236225]",
+    "toxicity": "No human studies involving pregnancy, labor and delivery, nursing, or pediatrics[Label]. Geriatric patients are at higher risk of adverse effects than younger patients but the risk to benefit ratio is generally still favourable for older patients[Label]. Patients with a creatinine clearance of 15-30mL/min should have their doses of dabigatran etexilate reduced, and no data is available for patients with a creatinine clearance below 15mL/min[Label].\r\n\r\nIn animal studies, dabigatran increases the rates of dead offspring and causes uterine and vaginal bleeding close to birth[Label]. Dabigatran may or may not be excreted in breast milk so the risk and benefit of stopping the drug or stopping breast feeding must be considered[Label].",
+    "targets": [
+        [
+            "F2",
+            "Prothrombin",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ],
+        [
+            "CES2",
+            "Cocaine esterase",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "NQO2",
+            "Ribosyldihydronicotinamide dehydrogenase [quinone]",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

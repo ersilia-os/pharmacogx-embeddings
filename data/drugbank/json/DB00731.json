@@ -1,0 +1,105 @@
+{
+    "pharmgkb_id": "PA450600",
+    "drugbank_id": "DB00731",
+    "names": [
+        "Nateglinide",
+        "Fastic",
+        "Starsis"
+    ],
+    "description": "Nateglinide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It belongs to the meglitinide class of short-acting insulin secretagogues, which act by binding to \u03b2 cells of the pancreas to stimulate insulin release. Nateglinide is an amino acid derivative that induces an early insulin response to meals decreasing postprandial blood glucose levels. It should only be taken with meals and meal-time doses should be skipped with any skipped meal. Approximately one month of therapy is required before a decrease in fasting blood glucose is seen. Meglitnides may have a neutral effect on weight or cause a slight increase in weight. The average weight gain caused by meglitinides appears to be lower than that caused by sulfonylureas and insulin and appears to occur only in those na\u00efve to oral antidiabetic agents. Due to their mechanism of action, meglitinides may cause hypoglycemia although the risk is thought to be lower than that of sulfonylureas since their action is dependent on the presence of glucose. In addition to reducing postprandial and fasting blood glucose, meglitnides have been shown to decrease glycosylated hemoglobin (HbA1c) levels, which are reflective of the last 8-10 weeks of glucose control. Meglitinides appear to be more effective at lowering postprandial blood glucose than metformin, sulfonylureas and thiazolidinediones. Nateglinide is extensively metabolized in the liver and excreted in urine (83%) and feces (10%). The major metabolites possess less activity than the parent compound. One minor metabolite, the isoprene, has the same potency as its parent compound.",
+    "indication": "For the treatment of non-insulin dependent-diabetes mellitus in conjunction with diet and exercise.",
+    "pharmacodynamics": "Insulin secretion by pancreatic \u03b2 cells is partly controlled by cellular membrane potential. Membrane potential is regulated through an inverse relationship between the activity of cell membrane ATP-sensitive potassium channels (ABCC8) and extracellular glucose concentrations. Extracellular glucose enters the cell via GLUT2 (SLC2A2) transporters. Once inside the cell, glucose is metabolized to produce ATP. High concentrations of ATP inhibit ATP-sensitive potassium channels causing membrane depolarization. When extracellular glucose concentrations are low, ATP-sensitive potassium channels open causing membrane repolarization. High glucose concentrations cause ATP-sensitive potassium channels to close resulting in membrane depolarization and opening of L-type calcium channels. The influx of calcium ions stimulates calcium-dependent exocytosis of insulin granules. Nateglinide increases insulin release by inhibiting ATP-sensitive potassium channels in a glucose-dependent manner. ",
+    "mechanism-of-action": "Nateglinide activity is dependent on the presence functioning \u03b2 cells and glucose. In contrast to sulfonylurea insulin secretatogogues, nateglinide has no effect on insulin release in the absence of glucose. Rather, it potentiates the effect of extracellular glucose on ATP-sensitive potassium channel and has little effect on insulin levels between meals and overnight. As such, nateglinide is more effective at reducing postprandial blood glucose levels than fasting blood glucose levels and requires a longer duration of therapy (approximately one month) before decreases in fasting blood glucose are observed. The insulinotropic effects of nateglinide are highest at intermediate glucose levels (3 to 10 mmol/L) and it does not increase insulin release already stimulated by high glucose concentrations (greater than 15 mmol/L). Nateglinide appears to be selective for pancreatic \u03b2 cells and does not appear to affect skeletal or cardiac muscle or thyroid tissue.",
+    "absorption": "Rapidly absorbed following oral administration prior to a meal, absolute bioavailability is estimated to be approximately 73%. Peak plasma concentrations generally occur within 1 hour of oral administration. Onset of action is <20 minutes and the duration of action is approximately 4 hours. ",
+    "metabolism": "Hepatic, via cytochrome P450 isoenzymes CYP2C9 (70%) and CYP3A4 (30%). Metabolism is via hydroxylation followed by glucuronidation. The major metabolites have less antidiabetic activity than nateglinide, but the isoprene minor metabolite has antidiabetic activity comparable to that of nateglinide.",
+    "toxicity": "An overdose may result in an exaggerated glucose-lowering effect with the development of hypoglycemic symptoms.",
+    "targets": [
+        [
+            "ABCC8",
+            "ATP-binding cassette sub-family C member 8",
+            "Humans"
+        ],
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "SLC16A1",
+            "Monocarboxylate transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

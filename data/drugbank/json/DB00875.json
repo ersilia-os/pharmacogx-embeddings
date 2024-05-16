@@ -1,0 +1,80 @@
+{
+    "pharmgkb_id": "PA10268",
+    "drugbank_id": "DB00875",
+    "names": [
+        "Flupentixol",
+        "Depixol",
+        "Fluanxol",
+        "Jexit"
+    ],
+    "description": "Flupentixol is an antipsychotic drug of the thioxanthene group. It exists in two geometric isomers, the trans(E) and pharmacologically active cis(Z) forms. Flupentixol decanoate is one of the active ingredients found in injectable drug formulations: it is produced by esterification of cis(Z)\u2010flupentixol with decanoic acid.[A229083] Flupentixol is an antagonist of both D1 and D2 dopamine receptors.[A229083]\r\n\r\nAvailable as oral tablets or long-acting intramuscular injections, flupentixol is marketed under brand names such as Depixol and Fluanxol. It is approved for use in Canada and other countries around the world, but not in the US. It is used for the management of chronic schizophrenia in patients whose main manifestations do not include excitement, agitation or hyperactivity.[L31808] It has been marketed to manage symptoms of depression in patients who may or may not exhibit signs of anxiety.[L31928] In combination with [melitracen], flupentixol is used to manage symptoms of anxiety, depression, and asthenia.[L31923]",
+    "indication": "Flupentixol is indicated for maintenance therapy of chronic schizophrenic patients whose main manifestations do not include excitement, agitation or hyperactivity.[L31808]\r\n\r\nIt is indicated for the management of depression in adult patients who may, or may not, also be showing signs of anxiety.[L31928]\r\n\r\nFlupentixol in combination with [melitracen] is indicated to manage symptoms of anxiety, depression, and asthenia in adults.[L31923]",
+    "pharmacodynamics": "Flupentixol is an antipsychotic agent with anxiolytic and mild sedative actions. It exerts weak anticholinergic and adrenergic effects. It possesses antiemetic actions. As flupentixol works by antagonizing dopamine actions, it can cause extrapyramidal effects,[L31808] mostly at doses greater than 10 mg. In clinical trials, flupentixol-induced extrapyramidal effects have been managed with anti-Parkinsonian drugs.[A229403] Drug esterification in the intramuscular formulation of the drug results in slow release of the drug from the injection site and a prolonged duration of action.[L31808] Flupentixol has been investigated for use in mild to moderate depression: compared to other antidepressant agents, flupentixol has a rapid onset of action, where antidepressive effects were observed within the first two to three days after administration.[A229403]\r\n\r\nAs with other antipsychotic agents, flupentixol can cause QTc prolongation and increase the risk of arrhythmias. In clinical trials, flupentixol was associated with the risk of cardiovascular disease, cerebrovascular adverse events, stroke, and venous thromboembolism. Flupentixol can elevate the levels of prolactin; however, the clinical significance of hyperprolactinemia caused by neuroleptic drugs is unclear. Long-term hyperprolactinemia, when associated with hypogonadism, may lead to decreased bone mineral density in both female and male subjects.[L31808]\r\n\r\nInterestingly, recent studies show that flupentixol exhibits anti-tumour properties alone or synergistically with other anticancer drugs like gefitinib. One study demonstrated that _in vitro_, flupentixol docks to the ATP binding pocket of phosphatidylinositol 3-kinase (PI3K), a lipid kinase that activates signalling pathways that are often hyperactivated in some cancers. Flupentixol inhibited the PI3K/AKT pathway and survival of lung cancer cells _in vitro_ and _in vivo_.[A229408]",
+    "mechanism-of-action": "The mechanism of action of flupentixol is not completely understood. The antipsychotic actions are mainly thought to arise from cis(Z)-flupentixol, the active stereoisomer, acting as an antagonist at both dopamine D<sub>1</sub> and D<sub>2</sub> receptors with equal affinities.[A229398] Schizophrenia is a mental illness characterized by positive (such as hallucinations and delusions) and negative (such as affect flattening and apathy) symptoms. While several neurotransmitter systems are implicated in the pathophysiologic processes leading to the development of symptoms, the dopamine and glutamate systems have been extensively studied. It is generally understood that positive symptoms of schizophrenia arise from a dysregulated striatal dopamine pathway, leading to hyperstimulation of D<sub>2</sub> receptors. Many antipsychotic agents work by blocking D<sub>2</sub> receptors as antagonists;[A229428] similarly, cis(Z)-flupentixol, the active stereoisomer, is an antagonist at D<sub>2</sub> receptors.[A229398] However, there is now evidence that antipsychotic agents can work by blocking other dopamine receptor subtypes, such as D<sub>1</sub>, D<sub>3</sub>, or D<sub>4</sub> receptors.[A229413, A229433, A229438] One study showed that cis(Z)-flupentixol is an antagonist at both dopamine D<sub>1</sub> and D<sub>2</sub> receptors with equal affinities,[A229398] and binds to D3 and D4 receptors with lower affinities. It also binds to alpha-1 adrenoceptors.[A229083] Antidepressant effects of flupentixol are understood to be mediated by antagonism at 5-HT<sub>2A</sub> receptors, which are commonly downregulated following repeated antidepressant treatment.[A177847] Flupentixol also binds to 5-HT<sub>2C</sub> receptors.[A229083] ",
+    "absorption": "Following oral administration, flupentixol is readily absorbed from the gastrointestinal tract, with oral bioavailability of about 40%. T<sub>max</sub> ranges from three to eight hours. Steady-state plasma levels are achieved in about seven days and following once-daily oral administration of 5 mg flupentixol, the mean minimum steady-state level was about 1.7 ng/mL (3.9 nmol/L).[L31808]\r\n\r\nFrom the site of intramuscular injection, esterified flupentixol diffuses slowly from the oil solution and is slowly released into the extracellular fluid and the circulation to be distributed to different tissues. Peak drug concentrations are reached between four and seven days following intramuscular injection. Intramuscularly administered flupentixol is detectable in the blood three weeks after injection and reaches steady-state concentrations after about three months of repeated administration.[L31808]",
+    "metabolism": "Flupentixol is metabolized in the liver via sulfoxidation, dealkylation, and glucuronidation to form pharmacologically inactive metabolites. Flupentixol decanoate, the active ingredient in the intramuscular formulation, is hydrolyzed to flupentixol.[L31808]",
+    "toxicity": "The oral LD<sub>50</sub> is 423 mg/kg in mice and 791 mg/kg in rats.[L31868] The intravenous LD<sub>50</sub> is 37 mg/kg in rats.[L31873]\r\n\r\nFlupentixol overdose is characterized by sedation, frequently preceded by extreme agitation, excitement, confusion, somnolence, coma, convulsions, and hyperthermia or hypothermia. Extrapyramidal symptoms or respiratory and circulatory collapse may be observed. ECG changes, QT prolongation, Torsades de Pointes, cardiac arrest and ventricular arrhythmias have been reported from the combined use of drugs known to affect the heart with large doses of flupentixol. In case of overdose, symptomatic treatment should be initiated with airway management. In case of severe hypotension, epinephrine should not be used: instead, intravenous vasopressor drugs, such as levarterenol, can be used. Antiparkinsonian medication should be administered only if extrapyramidal symptoms develop. Gastric lavage should be initiated in the case of flupentixol tablet overdose. Further injections of flupentixol should be discontinued in case of an intramuscularly-administered drug overdose until the patient shows signs of relapse, in which the dosage can subsequently be decreased.[L31808]\r\n\r\nNeuroleptic malignant syndrome is associated with neuroleptic drugs, which should be responded to with immediate discontinuation of the drug and initiation of symptomatic treatment and medical monitoring.[L31808]",
+    "targets": [
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "DRD4",
+            "Dopamine D4 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ],
+        [
+            "DDC",
+            "Aromatic-L-amino-acid decarboxylase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

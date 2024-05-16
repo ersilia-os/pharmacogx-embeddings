@@ -1,0 +1,80 @@
+{
+    "pharmgkb_id": "PA451241",
+    "drugbank_id": "DB00811",
+    "names": [
+        "Ribavirin",
+        "Rebretron",
+        "Ribamide",
+        "Vilona",
+        "Viramid",
+        "Virazide"
+    ],
+    "description": "Producing a broad-spectrum activity against several RNA and DNA viruses, Ribavirin is a synthetic guanosine nucleoside and antiviral agent that interferes with the synthesis of viral mRNA. It is primarily indicated for use in treating hepatitis C and viral hemorrhagic fevers. HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. It is reported that ribavirin might be only effective in early stages of viral hemorrhagic fevers including Lasser fever, Crimean-Congo hemorrhagic fever, Venezuelan hemorrhagic fever, and Hantavirus infection. Ribavirin is a prodrug that is metabolized into nucleoside analogs that blocks viral RNA synthesis and viral mRNA capping. Before the development of newer drugs, ribavirin and [DB00008]/[DB00022] dual therapy was considered the first-generation and standard antiviral treatment [A19626]. The dual therapy was administered for 48 weeks in patients with genotype 1, 4, 5, and 6, and 24 weeks in patients with genotype 2 and 3 [A19626]. Newer drugs developed as Hepatitis C viral infection treatments can be used to reduce or eliminate the use of ribavirin, which are associated with serious adverse effects. They also improve therapeutic efficacy in patients with failed [DB00008]/[DB00022] and ribavirin-based therapy. The potential use of ribavirin as a treatment for acute myeloid leukemia is currently under investigation.\r\n\r\nAccording to 2017 American Association for the Study of Liver Diseases (AASLD) and 2015 consensus guidelines from the Canadian Association for the Study of the Liver (CASL), ribavirin is typically used as an adjunct therapy to various first-line and second-line combination therapies recommended for each genotypes. Ribavirin is added to decrease relapse rates by accelerating viral clearance early in the treatment course [A19645]. When used to treat Hepatitis C virus (HCV) infections, it is always used as a part of combination therapies as ribavirin monotherapy is not efficacious in the treatment of chronic hepatitis C infection [A19644]. Additionally, including ribavirin in the regimen can increase the risk of anemia. \r\n\r\nIn HCV genotye 1/2/3/4/5/6 patients, ribavirin can be used in combination therapy involving [DB09102] and [DB08934], Eplusa ([DB08934], [DB11613]), Harvoni ([DB08934], [DB09027]), [DB06290] and [DB08934], Viekira Pak ([DB09296], [DB09297], [DB00503], [DB09183]), Technivie ([DB00503], [DB09296], [DB09297]) and Zepatier ([DB11574], [DB11575]). Addition of weight-based ribavirin to Technivie therapy increased sustained virologic response after 12 weeks of daily therapy (SVR12) from 90% to 97% in patients with HCV genotype 1a and 90.9% to 100% in HCV genotype 4 patients [L852]. Zepatier therapy along with ribavirin improved SVR in HCV genotype 5 patients. Combination therapy of ribavirin and [DB00008] results in the SVR of 44% in patients with genotype 1 infection and 70% in patients with genotype 2-6. The inclusion of ribavirin in the combination therapies depend on individual patient's profile, for example if HCV genotype 3 patient has a Y93H genetic variant and compensated cirrhosis.",
+    "indication": "Indicated for the treatment of chronic Hepatitis C virus (HCV) infection in combination with other antiviral agents with the intent to cure or achieve a sustained virologic response (SVR). Typically added to improve SVR and reduce relapse rates [A19644].\r\n\r\nThe addition of ribavirin in Technivie therapy indicated for treating HCV genotype 1a and 4 infections is recommended in patients with or without cirrhosis. \r\n\r\nResistance: viral genetic determinants resulting in variable response to ribavirin therapy has not been yet determined. ",
+    "pharmacodynamics": "Ribavirin mediates direct antiviral activity against a number of DNA and RNA viruses by increasing the mutation frequency in the genomes of several RNA viruses. It is a member of the nucleoside antimetabolite drugs that interfere with duplication of the viral genetic material. The drug inhibits the activity of the enzyme RNA dependent RNA polymerase, due to its resemblence to building blocks of the RNA molecules. ",
+    "mechanism-of-action": "Ribavirin is reported to have several mechanism of actions that lead to inhibition of viral RNA and protein synthesis. \r\nAfter activation by adenosine kinase to ribavirin mono-, di-, and triphosphate metabolites. Ribavirin triphosphate (RTP) is the predominant metabolite which directly inhibits viral mRNA polymerase by binding to the nucleotide binding site of the enzyme. This prevents the binding of the correct nucleotides, leading to a reduction in viral replication or to the production of defective virions [A19645]. RTP also demonstrates an inhibitory action on viral mRNA guanylyltransferase and mRNA 2\u2032-O-methyltransferase of dengue virus. Inhibition of these enzymes disrupts the posttranslational capping of the 5\u2032 end of viral mRNA through ribavirin being incorporated at the 5\u2032 end in place of guanosine and preventing the cap methylation step. \r\n\r\nInhibition of host inosine monophosphate dehydrogenase (IMPDH) and subsequent depletion of GTP pool is proposed to be another mechanism of action of ribavirin. IMPDH catalyzes the rate-limiting step where inosine 5\u2032-monophosphate is converted to xanthine monophosphate during guanosine monophosphate (GMP) synthesis. GMP is later converted to guanosine triphoshpate (GTP). Ribavirin monophosphate mimics inosine 5\u2032-monophosphate and acts as a competitive inhibitor of IMPDH. Inhibited de novo synthesis of guanine nucleotides and decreased intracellular GTP pools leads to a decline in viral protein synthesis and limit replication of viral genomes [A19645].\r\n\r\nRibavirin acts as a mutagen in the target virus to cause an 'error catastrophe' due to increased viral mutations. RTP pairs with cytidine triphosphate or uridine triphosphate with equal efficiency and to block HCV RNA elongation. It causes premature termination of nascent HCV RNA and increases mutagenesis by producing defective virions [A19645].\r\n\r\nRibavirin also exerts an immunomodulatory action of the host to the virus by shifting a Th2 response in favor of a Th1 phenotype. Th2 response and production of type 2 cytokines such as IL-4, IL-5, and IL-10 stimulates the humoral response which enhances immunity toward the virus [A19645]. Ribavirin enhanced induction of interferon-related genes, including the interferon-\u03b1 receptor, and down-regulation of genes involved in interferon inhibition, apoptosis, and hepatic stellate cell activation in vitro [A19644]. ",
+    "absorption": "Ribavirin is reported to be rapidly and extensively absorbed following oral administration. The average time to reach Cmax was 2 hours after oral administration of 1200 mg ribavirin [FDA Label]. The oral bioavailability is 64% following a single oral dose administration of 600mg ribavirin [L11019]. ",
+    "metabolism": "First and as a step required for activation, ribavirin is phosphorylated intracellularly by adenosine kinase to ribavirin mono-, di-, and triphosphate metabolites. After activation and function, ribavirin undergoes two metabolic pathways where it is reversibly phosphorlyated or degraded via deribosylation and amide hydrolysis to yield a triazole carboxylic acid metabolite. In vitro studies indicate that ribavirin is not a substrate of CYP450 enzymes [L11019].",
+    "toxicity": "Rivabirin and PEG-Interferon Alfa-2A dual therapy is associated with flu-like symptoms, depression, suicide, insomnia, irritability, relapse of drug abuse/overdose, hepatic decompensation in 2% of HIV co-infected patients and bacterial infections each occurring at a frequency of less than 1%. \r\nRibavirin-induced anemia is a dose-dependent adverse effect where reduced hemoglobin levels can be seen within the first 1-2 weeks in therapy. The mechanism of ribavirin-induced anemia has been shown to involve reductions in reticulocyte counts and erythrocyte Na-K pump activity, and increases in K-Cl cotransport, membrane bound IgG, and C3, and erythrocyte band 3 [A19644]. \r\nOral LD50 in rats is 2700 mg/kg. Intraperitoneal LD50 in mouse is 1300 mg/kg. Potential carcinogenic effects of ribavirin to humans cannot be yet excluded as it demonstrates mutagenic activity in the in vitro mouse lymphoma assay. ",
+    "targets": [
+        [
+            "IMPDH1",
+            "Inosine-5'-monophosphate dehydrogenase 1",
+            "Humans"
+        ],
+        [
+            "L",
+            "RNA-directed RNA polymerase L",
+            "HPIV-2"
+        ],
+        [
+            null,
+            "Genome polyprotein",
+            "DENV-2"
+        ],
+        [
+            "IMPDH2",
+            "Inosine-5'-monophosphate dehydrogenase 2",
+            "Humans"
+        ],
+        [
+            "PB1",
+            "RNA-directed RNA polymerase catalytic subunit",
+            "Influenza A virus (strain A/Beijing/11/1956 H1N1)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "NT5C2",
+            "Cytosolic purine 5'-nucleotidase",
+            "Humans"
+        ],
+        [
+            "ADK",
+            "Adenosine kinase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC28A3",
+            "Solute carrier family 28 member 3",
+            "Humans"
+        ],
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00811",
+            "Drug Name": "Ribavirin",
+            "Gene Symbol": "IFNL3",
+            "RS ID (Genotype)": "rs12979860",
+            "Effect Description": "Patients with this genotype in IFNL3 have a reduced likelihood of achieving sustained virologic response to ribavirin therapy."
+        }
+    ]
+}

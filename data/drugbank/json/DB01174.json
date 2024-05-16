@@ -1,0 +1,193 @@
+{
+    "pharmgkb_id": "PA450911",
+    "drugbank_id": "DB01174",
+    "names": [
+        "Phenobarbital",
+        "Luminal"
+    ],
+    "description": "A barbituric acid derivative that acts as a nonselective central nervous system depressant. It promotes binding to inhibitory gamma-aminobutyric acid subtype receptors, and modulates chloride currents through receptor channels. It also inhibits glutamate induced depolarizations.",
+    "indication": "For the treatment of all types of seizures except absence seizures.",
+    "pharmacodynamics": "Phenobarbital, the longest-acting barbiturate, is used for its anticonvulsant and sedative-hypnotic properties in the management of all seizure disorders except absence (petit mal).",
+    "mechanism-of-action": "Phenobarbital acts on GABAA receptors, increasing synaptic inhibition. This has the effect of elevating seizure threshold and reducing the spread of seizure activity from a seizure focus. Phenobarbital may also inhibit calcium channels, resulting in a decrease in excitatory transmitter release. The sedative-hypnotic effects of phenobarbital are likely the result of its effect on the polysynaptic midbrain reticular formation, which controls CNS arousal.",
+    "absorption": "Absorbed in varying degrees following oral, rectal or parenteral administration. The salts are more rapidly absorbed than are the acids. The rate of absorption is increased if the sodium salt is ingested as a dilute solution or taken on an empty stomach.",
+    "metabolism": "Hepatic (mostly via CYP2C19).",
+    "toxicity": "CNS and respiratory depression which may progress to Cheyne-Stokes respiration, areflexia, constriction of the pupils to a slight degree (though in severe poisoning they may wshow paralytic dilation), oliguria, tachycardia, hypotension, lowered body temperature, and coma. Typical shock syndrome (apnea, circulatory collapse, respiratory arrest, and death) may occur.",
+    "targets": [
+        [
+            "GABRA1",
+            "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "CHRNA4",
+            "Neuronal acetylcholine receptor subunit alpha-4",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ],
+        [
+            "GRIA2",
+            "Glutamate receptor 2",
+            "Humans"
+        ],
+        [
+            "GRIK2",
+            "Glutamate receptor ionotropic, kainate 2",
+            "Humans"
+        ],
+        [
+            "GRIN1",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2A",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2B",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2C",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2D",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3A",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3B",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP4B1",
+            "Cytochrome P450 4B1",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLCO2A1",
+            "Solute carrier organic anion transporter family member 2A1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

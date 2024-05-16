@@ -1,0 +1,104 @@
+{
+    "pharmgkb_id": "PA451866",
+    "drugbank_id": "DB00285",
+    "names": [
+        "Venlafaxine",
+        "Elafax"
+    ],
+    "description": "Venlafaxine is an antidepressant and a serotonin and norepinephrine reuptake inhibitor (SNRI). Its active metabolite, [desvenlafaxine], works by blocking the reuptake of serotonin and norepinephrine, which are key neurotransmitters in mood regulation. Venlafaxine is officially approved to treat major depressive disorder (MDD), generalized anxiety disorder (GAD), social anxiety disorder, and panic disorder in adults.[L43030] The immediate formulation of the drug, marketed as Effexor, was first approved by the FDA in 1993 and the extended-release formulation, Effexor XR, was later introduced in 1997.[A252065]\r\n\r\nVenlafaxine has been used as a first-line treatment for MDD, GAD, social anxiety disorder, and panic disorder in Canada for many years. It was also considered a second-line treatment for obsessive-compulsive disorder (OCD).[A177226,A177235] Venlafaxine was also investigated in off-label uses for the prophylaxis of migraine headaches,[A413,A177229] for reduction of vasomotor symptoms associated with menopause,[A177238] and for the management of neuropathic pain (although there is only minimal evidence of efficacy for this condition).[A177232]",
+    "indication": "Venlafaxine is indicated for the management of major depressive disorder (MDD), generalized anxiety disorder (GAD), social anxiety disorder (SAD), and panic disorder.[L43030]",
+    "pharmacodynamics": "Venlafaxine is an antidepressant agent that works to ameliorate the symptoms of various psychiatric disorders by increasing the level of neurotransmitters in the synapse. Venlafaxine does not mediate muscarinic, histaminergic, or adrenergic effects.[L43030]",
+    "mechanism-of-action": "The exact mechanism of action of venlafaxine in the treatment of various psychiatric conditions has not been fully elucidated; however, it is understood that venlafaxine and its active metabolite O-desmethylvenlafaxine (ODV) potently and selectively inhibits the reuptake of both serotonin and norepinephrine at the presynaptic terminal.[A27600,A252065,L43030] This results in increased levels of neurotransmitters available at the synapse that can stimulate postsynaptic receptors.[A252075] It is suggested that venlafaxine has a 30-fold selectivity for serotonin compared to norepinephrine: venlafaxine initially inhibits serotonin reuptake at low doses, and with higher doses, it inhibits norepinephrine reuptake in addition to serotonin.[A252065,A252070] Venlafaxine and ODV are also weak inhibitors of dopamine reuptake.[L43030]",
+    "absorption": "Venlafaxine is well absorbed after oral administration with an absolute bioavailability of approximately 45%. In mass balance studies, at least 92% of a single oral dose of venlafaxine was absorbed. After twice-daily oral administration of immediate-release formulation of 150 mg venlafaxine, C<sub>max</sub> was 150 ng/mL and T<sub>max</sub> was 5.5 hours. C<sub>max</sub> and T<sub>max</sub> of ODV were 260 ng/mL and nine hours, respectively. The extended-release formulation of venlafaxine has a slower rate of absorption, but the same extent of absorption as the immediate-release formulation. After once-daily administration of extended-release formulation of 75 mg venlafaxine, C<sub>max</sub> was 225 ng/mL and T<sub>max</sub> was two hours. C<sub>max</sub> and T<sub>max</sub> of ODV were 290 ng/mL and three hours, respectively.[L43030]\r\n\r\nFood does not affect the bioavailability of venlafaxine or its active metabolite, O-desmethylvenlafaxine (ODV).[L43030]",
+    "metabolism": "Following absorption, venlafaxine undergoes extensive presystemic metabolism in the liver. It primarily undergoes CYP2D6-mediated demethylation to form its active metabolite O-desmethylvenlafaxine (ODV).[L43030] Venlafaxine can also undergo N-demethylation mediated by CYP2C9, and CYP2C19, and CYP3A4 to form N-desmethylvenlafaxine (NDV) but this is a minor metabolic pathway.[A14753] ODV and NDV further metabolized by CYP2C19, CYP2D6 and/or CYP3A4 to form N,O-didesmethylvenlafaxine (NODV) [A6998] and NODV can be further metabolized to form N, N, O-tridesmethylvenlafaxine, followed by a possible glucuronidation.[A19479]",
+    "toxicity": "Oral LD<sub>50</sub> was 350 mg/kg in female rats and 700 mg/kg in male rats.[L43025]\r\n\r\nThere are reports of acute overdosage with venlafaxine either alone or in combination with other drugs including alcohol. Doses up to several-fold higher than the usual therapeutic dose have been ingested in these cases of acute overdosage. Somnolence is the most commonly reported symptom, along with other symptoms such as paresthesia of the extremities, moderate dizziness, altered consciousness, nausea, vomiting, numb hands and feet, hot-cold spells (which occur a few days after the overdose event), hypotension, convulsions, sinus and ventricular tachycardia, rhabdomyolysis, vertigo, liver necrosis, electrocardiogram changes (e.g., prolongation of QT interval, bundle branch block, QRS prolongation), serotonin syndrome, and death.[L43030]\r\n\r\nThere is no known antidote for venlafaxine overdose. Cases of overdose have been managed with or without symptomatic treatment, hospitalization, and activated charcoal.[L43030]\r\n\r\nRetrospective studies suggest that the risk of fatal outcomes from venlafaxine overdosage is higher than that of SSRI antidepressants, but lower than that of tricyclic antidepressants.[L43030]",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00285",
+            "Drug Name": "Venlafaxine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "Patients with this genotype have reduced metabolism of venlafaxine."
+        },
+        {
+            "DrugBank ID": "DB00285",
+            "Drug Name": "Venlafaxine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "Patients with this genotype have reduced metabolism of venlafaxine."
+        },
+        {
+            "DrugBank ID": "DB00285",
+            "Drug Name": "Venlafaxine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "Patients with this genotype have reduced metabolism of venlafaxine."
+        },
+        {
+            "DrugBank ID": "DB00285",
+            "Drug Name": "Venlafaxine",
+            "Gene Symbol": "ABCB1",
+            "RS ID (Genotype)": "rs2032583",
+            "Effect Description": "Patients with this genotype have an increased likelihood of remission when using venlafaxine to treat major depressive disorder"
+        },
+        {
+            "DrugBank ID": "DB00285",
+            "Drug Name": "Venlafaxine",
+            "Gene Symbol": "ABCB1",
+            "RS ID (Genotype)": "rs2032583",
+            "Effect Description": "Patients with this genotype have increased risk of adverse events with venlafaxine"
+        }
+    ]
+}

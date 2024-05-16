@@ -1,0 +1,47 @@
+{
+    "pharmgkb_id": "PA166131626",
+    "drugbank_id": "DB09330",
+    "names": [
+        "Osimertinib"
+    ],
+    "description": "Osimertinib is an oral, third-generation epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI) drug developed by AstraZeneca Pharmaceuticals.[A7926,L43453] Its use is indicated for the treatment of metastatic non-small cell lung cancer (NSCLC) in cases where tumour EGFR expression is positive for the T790M mutation as detected by FDA-approved testing and which has progressed following therapy with a first-generation EGFR tyrosine kinase inhibitor. Approximately 10% of patients with NSCLC have a rapid and clinically effective response to EGFR-TKIs due to the presence of specific activating EGFR mutations within the tumour cells.[A7927] More specifically, deletions around the LREA motif in exon 19 and exon 21 L858R point mutations are correlated with response to therapy.[A7928]\r\n\r\nDevelopment of third-generation EGFR-TKIs, such as osimertinib, has been in response to altered tumour resistance patterns following treatment and toxic side effects that impact patient quality of life. Treatment with first-generation EGFR-TKIs (gefitinib and erlotinib) has been associated with the development of resistance through activating mutations in the EGFR gene. Second-generation EGFR-TKIs (afatinib and dacomitinib) were then developed to be more potent inhibitors, although their use is associated with increased toxicity through nonspecific targeting of wild-type EGFR. In contrast, third-generation inhibitors are specific for the gate-keeper T790M mutations which increases ATP binding activity to EGFR and result in poor prognosis for late-stage disease. Furthermore, osimertinib has been shown to spare wild-type EGFR during therapy, thereby reducing non-specific binding and limiting toxicity.[A7926,A7927,A7931]",
+    "indication": "Osimertinib is indicated as adjuvant therapy after tumor resection in adult patients with non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 L858R mutations (as detected by an FDA-approved test), and as the first-line treatment of adult patients with metastatic NSCLC whose tumors have EGFR exon 19 deletions or exon 21 L858R mutations (as detected by an FDA-approved test). Osimertinib is also indicated for the treatment of adult patients with metastatic EGFR T790M mutation-positive NSCLC, as detected by an FDA-approved test, whose disease has progressed on or after EGFR TKI therapy.[L43453]",
+    "pharmacodynamics": "A pharmacokinetic/pharmacodynamic analysis suggested a concentration-dependent QTc interval prolongation of 14 msec (upper bound of two-sided 90% CI: 16 msec) at a dose of osimertinib 80 mg.[L43453]",
+    "mechanism-of-action": "Osimertinib is an epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI) that binds to certain mutant forms of EGFR (T790M, L858R, and exon 19 deletion) that predominate in non-small cell lung cancer (NSCLC) tumours following treatment with first-line EGFR-TKIs.[L43453] As a third-generation tyrosine kinase inhibitor, osimertinib is specific for the gate-keeper T790M mutation which increases ATP binding activity to EGFR and results in poor prognosis for late-stage disease. Furthermore, osimertinib has been shown to spare wild-type EGFR during therapy, thereby reducing non-specific binding and limiting toxicity.[A7934,A7932] Compared to wild-type EGFR, osimertinib has 200 times higher affinity for EGFR molecules with the L858R/T790M mutation _in vitro_.[A7929,A7930]",
+    "absorption": "The median time to Cmax was found to be 6 hours.[L43453]",
+    "metabolism": "Osimertinib is metabolized to at least two pharmacologically active metabolites, AZ7550 and AZ5104, that circulate at approximately 10% of the concentration of the parent compound. Biochemical assays have shown that AZ7550 has similar potency and efficacy to osimertinib, while AZ5104 is more potent against mutant and wild-type EGFR. The main metabolic pathways are oxidation (predominantly by CYP3A) and dealkylation.[L43453]",
+    "toxicity": "Across clinical trials, interstitial lung disease (ILD)/pneumonitis occurred in 3.7% of treated patients with 0.3% of these being fatal. There is also a change of QTc interval prolongation; electrocardiogram and electrolytes should be monitored in patients with a history or predisposition for QTc prolongation. Cardiomyopathy occurred in 3% of patients, therefore left ventricular ejection fraction (LVEF) should be measured at baseline and during treatment. Osimertinib can cause embryo-fetal toxicity, requiring female patients to take effective birth control during therapy and for 6 weeks after final dose.[L43453]",
+    "targets": [
+        [
+            "EGFR",
+            "Epidermal growth factor receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

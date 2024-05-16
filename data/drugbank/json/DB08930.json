@@ -1,0 +1,125 @@
+{
+    "pharmgkb_id": "PA166114961",
+    "drugbank_id": "DB08930",
+    "names": [
+        "Dolutegravir"
+    ],
+    "description": "Dolutegravir is an HIV-1 integrase inhibitor that blocks the strand transfer step of the integration of the viral genome into the host cell (INSTI).[A7514] The effect of this drug has no homology in human host cells, which gives it excellent tolerability and minimal toxicity.[A31342] Dolutegravir was developed by ViiV Healthcare and FDA-approved on August 12, 2013.[L1035] On November 21, 2017, dolutegravir, in combination with rilpivirine, was approved as part of the first complete treatment regimen with only two drugs for the treatment of adults with HIV-1 named Juluca.[L1031]",
+    "indication": "Dolutegravir is indicated in combination with other antiretroviral agents for the treatment of patients with HIV-1 infection that comply with the characteristics of being adults or children aged 12 years and older and present at least a weight of 40 kg.[A7520] The FDA combination therapy approval of dolutegravir and [rilpivirine] is indicated for adults with HIV-1 infections whose virus is currently suppressed (< 50 copies/ml) on a stable regimen for at least six months, without history of treatment failure and no known substitutions associated to resistance to any of the two components of the therapy.[L1031]\r\n\r\nDolutegravir is also available in combination with [lamivudine] and [abacavir] for the treatment of adult and pediatric patients with HIV-1 who weigh \u226510kg.[L41365]",
+    "pharmacodynamics": "HIV-1 infected subjects on dolutegravir monotherapy demonstrated rapid and dose-dependent reduction of antiviral activity with declines of HIV-1 RNA copies per ml. The antiviral response was maintained for 3 to 4 days after the last dose.[A7516] The sustained response obtained in clinical trials indicates that dolutegravir has a tight binding and longer dissociative half-life providing it a high barrier to resistance.[A31343] The combination therapy (ripivirine and dolutegravir) presented the same viral suppression found in previous three-drug therapies without integrase strand transfer inhibitor mutations or rilpivirine resistance.[L1033]",
+    "mechanism-of-action": "Dolutegravir is an HIV-1 antiviral agent. It inhibits HIV integrase by binding to the active site and blocking the strand transfer step of retroviral DNA integration in the host cell. The strand transfer step is essential in the HIV replication cycle and results in the inhibition of viral activity. Dolutegravir has a mean EC50 value of 0.5 nM (0.21 ng/mL) to 2.1 nM (0.85 ng/mL) in peripheral blood mononuclear cells (PBMCs) and MT-4 cells.[A7517]",
+    "absorption": "When 50 mg of dolutegravir once daily was orally administered to HIV-1 infected adults, the AUC, Cmax, and Cmin is 53.6 mcg h/mL, 3.67 mcg/mL, and 1.11 mcg/mL, respectively. The peak plasma concentration was observed 2 to 3 hours post-dose. Steady state is achieved within approximately 5 days with average accumulation ratios for AUC, Cmax, and C24h ranging from 1.2 to 1.5. When 50 mg once daily is given to pediatric patients (12 to < 18 years and weighing \u226540 kg) the Cmax, AUC, and C24 is 3.49 mcg/mL, 46 mcg.h/mL, and 0.90 mcg/mL respectively.[A7514]",
+    "metabolism": "Dolutegravir is highly metabolized through three main pathways and it forms no long-lived metabolites. The first pathway is defined by the glucuronidation by UGT1A1, the second pathway by carbon oxidation by CYP3A4 and the third pathway is what appears to be a sequential oxidative defluorination and glutathione conjugation. The main metabolite found in blood plasma is the ether glucuronide form (M2) and its chemical properties disrupt its ability to bind metal ions, therefore, it is inactive.[A31344]",
+    "toxicity": "Data from an ongoing birth outcome surveillance study has identified an increased risk of neural tube defects when dolutegravir is administered at the time of conception. As defects related to the closure of the neural tube occur from conception through the first 6 weeks of gestation, embryos exposed to dolutegravir from the time of conception through the first 6 weeks of gestation are at potential risk.\r\n\r\nAdvise adolescents and adults of childbearing potential, including those actively trying to become pregnant, of the potential risk of neural tube defects with the use of TIVICAY and TIVICAY PD. Assess the risks and benefits of TIVICAY and TIVICAY PD and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester. A benefit-risk assessment should consider factors such as the feasibility of switching to another antiretroviral regimen, tolerability, ability to maintain viral suppression, and risk of HIV-1 transmission to the infant against the risk of neural tube defects associated with in-utero dolutegravir exposure during critical periods of fetal development [see Warnings and Precautions (5.3)].\r\n\r\nThere are insufficient human data on the use of dolutegravir during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage. The background risk for major birth defects for the indicated population is unknown. In the U.S. general population, the estimated background rate for major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.\r\n\r\nIn animal reproduction studies, no evidence of adverse developmental outcomes was observed with dolutegravir at systemic exposures (AUC) less than (rabbits) and approximately 27 times (rats) the exposure in humans at the maximum recommended human dose (MRHD) of TIVICAY (see Data). \r\n\r\nThere is no known specific treatment for an overdose with TIVICAY or TIVICAY PD. If an overdose occurs, the patient should be monitored, and standard supportive treatment applied as required. As dolutegravir is highly bound to plasma proteins, it is unlikely that it will be significantly removed by dialysis. ",
+    "targets": [
+        [
+            "pol",
+            "Integrase",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB08930",
+            "Drug Name": "Dolutegravir",
+            "Gene Symbol": "UGT1A1",
+            "RS ID (Genotype)": "rs8175347",
+            "Effect Description": "Poor drug metabolizer."
+        },
+        {
+            "DrugBank ID": "DB08930",
+            "Drug Name": "Dolutegravir",
+            "Gene Symbol": "UGT1A1",
+            "RS ID (Genotype)": "rs4148323",
+            "Effect Description": "The presence of this polymorphism in UGT1A1 is associated with reduction in dolutegravir metabolism."
+        },
+        {
+            "DrugBank ID": "DB08930",
+            "Drug Name": "Dolutegravir",
+            "Gene Symbol": "UGT1A1",
+            "RS ID (Genotype)": "rs8175347",
+            "Effect Description": "The presence of this polymorphism in UGT1A1 is associated with reduction in dolutegravir metabolism."
+        }
+    ]
+}

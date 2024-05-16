@@ -1,0 +1,168 @@
+{
+    "pharmgkb_id": "PA449072",
+    "drugbank_id": "DB00907",
+    "names": [
+        "Cocaine"
+    ],
+    "description": "An alkaloid ester extracted from the leaves of plants including coca. It is a local anesthetic and vasoconstrictor and is clinically used for that purpose, particularly in the eye, ear, nose, and throat. It also has powerful central nervous system effects similar to the amphetamines and is a drug of abuse. Cocaine, like amphetamines, acts by multiple mechanisms on brain catecholaminergic neurons; the mechanism of its reinforcing effects is thought to involve inhibition of dopamine uptake.",
+    "indication": "For the introduction of local (topical) anesthesia of accessible mucous membranes of the oral, laryngeal and nasal cavities.",
+    "pharmacodynamics": "Cocaine is a local anesthetic indicated for the introduction of local (topical) anesthesia of accessible mucous membranes of the oral, laryngeal and nasal cavities.",
+    "mechanism-of-action": "Cocaine produces anesthesia by inhibiting excitation of nerve endings or by blocking conduction in peripheral nerves. This is achieved by reversibly binding to and inactivating sodium channels. Sodium influx through these channels is necessary for the depolarization of nerve cell membranes and subsequent propagation of impulses along the course of the nerve. Cocaine is the only local anesthetic with vasoconstrictive properties. This is a result of its blockade of norepinephrine reuptake in the autonomic nervous system. Cocaine binds differentially to the dopamine, serotonin, and norepinephrine transport proteins and directly prevents the re-uptake of dopamine, serotonin, and norepinephrine into pre-synaptic neurons. Its effect on dopamine levels is most responsible for the addictive property of cocaine.",
+    "absorption": "Cocaine is absorbed from all sites of application, including mucous membranes and gastrointestinal mucosa. By oral or intra-nasal route, 60 to 80% of cocaine is absorbed.",
+    "metabolism": "Hepatic. Cocaine is metabolized to benzoylecgonine and ecgonine methyl ester, which are both excreted in the urine. In the presence of alcohol, a further active metabolite, cocaethylene is formed, and is more toxic then cocaine itself.",
+    "toxicity": "Intense agitation, convulsions, hypertension, rhythm disturbance, coronary insufficiency, hyperthermia, rhabdomyolysis, and renal impairment. Oral mouse LD<sub>50</sub> = 96 mg/kg",
+    "targets": [
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SCN1A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN10A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN11A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN2A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN3A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN4A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN5A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN7A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN8A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN9A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN1B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN2B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN3B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN4B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "SIGMAR1",
+            "Sigma non-opioid intracellular receptor 1",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

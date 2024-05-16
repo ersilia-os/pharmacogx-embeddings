@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA450608",
+    "drugbank_id": "DB00994",
+    "names": [
+        "Neomycin",
+        "Myacyne",
+        "Mycifradin",
+        "Myciguent",
+        "Neo-Rx",
+        "Neobiotic",
+        "Nivemycin"
+    ],
+    "description": "Neomycin is a broad-spectrum aminoglycoside antibiotic drug that is derived from the metabolic products of _Streptomyces fradiae_.[L11979] Neomycin is a complex comprised of three components, neomycin A, B, and C.[A191529] Neomycin B, also known as [framycetin], is the most active component of the complex and neomycin C is the isomer of neomycin B, making these two stereoisomers the active components of neomycin.[A175042,A191529] Neomycin A, or [neamine], is a moiety that conjoins two molecules of neomycin B and C together.[A175042] Neomycin is active against both gram-positive and gram-negative organisms and mediates its pharmacological action by binding to bacterial ribosomes and inhibiting protein synthesis, which is crucial for the survival of bacteria.[L11985] \r\n\r\nNeomycin sulfate is the most common form for pharmaceutical preparations; because the compound is a complex, the amount of neomycin in products is measured in units.[A191529] Neomycin sulfate as monotherapy is available in an oral solution for adjunct use in the treatment of hepatic coma.[L11979] It is also used in combination with [polymyxin B] sulfates and [hydrocortisone] in otic suspensions for use in the treatment of bacterial infections in the external auditory canal, including infections caused by medical procedures in the ear.[L10532] Neomycin is also used in combination with [polymyxin B] sulfates and [dexamethasone] in ophthalmic preparations for use in the treatment of inflammatory conditions and infections in the eye.[L10716] Neomycin is also available in over-the-counter topical products to prevent minor skin infections.",
+    "indication": "Oral neomycin sulfate is indicated as an adjunctive therapy in hepatic coma (portal-system encephalopathy) by reducing ammonia-forming bacteria in the intestinal tract. It is strongly recommended that oral neomycin is only used in infections that are proven or strongly suspected to be caused by susceptible bacteria to reduce the risk of the development of drug-resistant bacteria.[L11979]\r\n\r\nNeomycin, in combination with polymyxin B sulfates and hydrocortisone in otic suspensions, is used in the treatment of superficial bacterial infections of the external auditory canal caused by organisms susceptible to the antibiotics. This otic formulation is also used in the treatment of infections of mastoidectomy and fenestration cavities caused by organisms susceptible to the antibiotics.[L10532]\r\n\r\nThe ophthalmic solution containing neomycin in combination with polymyxin B sulfates and dexamethasone is used to treat steroid-responsive inflammatory ocular conditions for which a corticosteroid is indicated and where bacterial infection or a risk of bacterial infection exists.[L10716]",
+    "pharmacodynamics": "Neomycin mediates its bactericidal action by inhibiting bacterial protein synthesis, thereby suppressing the growth and survival of susceptible bacteria. Following oral administration, the duration of bactericidal activity of neomycin ranged from 48 to 72 hours.[L11979] By decreasing colonic bacteria that produce ammonia, neomycin was shown to be effective as an adjunctive therapy in hepatic coma to improve neurologic symptoms.[L11979,L11985] \r\n\r\nNeomycin is active against both gram positive and gram negative organisms, including the major _E. coli_ species resident in the colon as well as the enteropathogenic forms of _E. coli_.[L11985] It is also active against _Klebsiella_-_Enterobacter_ group.[L11979] Resistant strains of _E. coli_, _Klebsiella_ and _Proteus spp_. may emerge from neomycin therapy.[A191529] Neomycin has no antifungal activity and has some activity against some protozoa.[A175042]",
+    "mechanism-of-action": "Like other aminoglycoside antibiotic drugs, neomycin inhibits bacterial ribosomes by binding to the 30S ribosomal subunit of susceptible bacteria and disrupting the translational machinery of bacterial protein synthesis.[A15783,T28] Bacterial translation is normally initiated by the mRNA binding to the 30S ribosomal subunit and subsequent binding with 50S subunit for elongation.[T28]",
+    "absorption": "Neomycin is poorly absorbed from the gastrointestinal tract. Gastrointestinal absorption of the drug may be increased if inflammatory or ulcerative gastrointestinal disease is present.[L11979]",
+    "metabolism": "There is limited information on the metabolism of neomycin, as there is limited systemic absorption following drug administration. Metabolism is deemed to be negligible.",
+    "toxicity": "The oral LD<sub>50</sub> of neomycin sulfate in mouse is > 8 g/kg. The subcutaneous LD<sub>50</sub> is 200 mg/kg in rat and 190 mg/kg in mouse. The intraperitoneal LD<sub>50</sub> in mouse is 305 mg/kg. The oral Lowest published toxic dose (TDLo) in woman is 12600 mg/kg/7D.[L11982]\r\n\r\nBecause of low absorption, acute overdosage from oral neomycin is not likely to occur. However, prolonged administration of neomycin should be avoided because of the possibility of some systemic absorption and the risk of neurotoxicity, ototoxicity, and/or nephrotoxicity. Hemodialysis will remove neomycin from the blood. While nephrotoxicity and ototoxicity have been reported in otherwise patients without compromised renal function, the risk for developing these toxicities is increased in patients with renal impairment.[L11985] Like other aminoglycosides, neomycin may cause fetal harm and total irreversible bilateral congenital deafness when administered in pregnant women.[L11979] ",
+    "targets": [
+        [
+            "rpsL",
+            "30S ribosomal protein S12",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "CASR",
+            "Extracellular calcium-sensing receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

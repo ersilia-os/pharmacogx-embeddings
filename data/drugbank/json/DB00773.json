@@ -1,0 +1,117 @@
+{
+    "pharmgkb_id": "PA449552",
+    "drugbank_id": "DB00773",
+    "names": [
+        "Etoposide",
+        "Etopofos",
+        "Lastet",
+        "Nexvep",
+        "Vepesid K",
+        "V\u00e9p\u00e9side"
+    ],
+    "description": "A semisynthetic derivative of podophyllotoxin that exhibits antitumor activity. Etoposide inhibits DNA synthesis by forming a complex with topoisomerase II and DNA. This complex induces breaks in double stranded DNA and prevents repair by topoisomerase II binding. Accumulated breaks in DNA prevent entry into the mitotic phase of cell division, and lead to cell death. Etoposide acts primarily in the G2 and S phases of the cell cycle.",
+    "indication": "For use in combination with other chemotherapeutic agents in the treatment of refractory testicular tumors and as first line treatment in patients with small cell lung cancer. Also used to treat other malignancies such as lymphoma, non-lymphocytic leukemia, and glioblastoma multiforme.",
+    "pharmacodynamics": "Etoposide is an antineoplastic agent and an epipodophyllotoxin (a semisynthetic derivative of the podophyllotoxins). It inhibits DNA topoisomerase II, thereby ultimately inhibiting DNA synthesis. Etoposide is cell cycle dependent and phase specific, affecting mainly the S and G2 phases. Two different dose-dependent responses are seen. At high concentrations (10 &micro;g/mL or more), lysis of cells entering mitosis is observed. At low concentrations (0.3 to 10 &micro;g/mL), cells are inhibited from entering prophase. It does not interfere with microtubular assembly. The predominant macromolecular effect of etoposide appears to be the induction of DNA strand breaks by an interaction with DNA-topoisomerase II or the formation of free radicals.",
+    "mechanism-of-action": "Etoposide inhibits DNA topoisomerase II, thereby inhibiting DNA re-ligation. This causes critical errors in DNA synthesis at the premitotic stage of cell division and can lead to apoptosis of the cancer cell. Etoposide is cell cycle dependent and phase specific, affecting mainly the S and G2 phases of cell division. Inhibition of the topoisomerase II alpha isoform results in the anti-tumour activity of etoposide. The drug is also capable of inhibiting the beta isoform but inhibition of this target is not associated with the anti-tumour activity. It is instead associated with the carcinogenic effect. ",
+    "absorption": "Absorbed well, time to peak plasma concentration is 1-1.5 hrs. Mean bioavailability is 50% (range of 25% - 75%). Cmax and AUC values for orally administered etoposide capsules display intra- and inter-subject variability. There is no evidence of first-pass effect for etoposide. ",
+    "metabolism": "Primarily hepatic (through O-demethylation via the CYP450 3A4 isoenzyme pathway) with 40% excreted unchanged in the urine. Etoposide also undergoes glutathione and glucuronide conjugation which are catalyzed by GSTT1/GSTP1 and UGT1A1, respectively. Prostaglandin synthases are also responsible for the conversion of etoposide to O-demethylated metabolites (quinone). ",
+    "toxicity": "Side effects include alopecia, constipation, diarrhea, nausea and vomiting and secondary malignancies (leukemia).",
+    "targets": [
+        [
+            "TOP2A",
+            "DNA topoisomerase 2-alpha",
+            "Humans"
+        ],
+        [
+            "TOP2B",
+            "DNA topoisomerase 2-beta",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "GSTT1",
+            "Glutathione S-transferase theta-1",
+            "Humans"
+        ],
+        [
+            "GSTP1",
+            "Glutathione S-transferase P",
+            "Humans"
+        ],
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCC6",
+            "Multidrug resistance-associated protein 6",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCC10",
+            "Multidrug resistance-associated protein 7",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

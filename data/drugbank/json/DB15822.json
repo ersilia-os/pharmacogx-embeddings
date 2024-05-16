@@ -1,0 +1,147 @@
+{
+    "pharmgkb_id": "PA166235321",
+    "drugbank_id": "DB15822",
+    "names": [
+        "Pralsetinib"
+    ],
+    "description": "Pralsetinib, similar to the previously approved [selpercatinib], is a kinase inhibitor with enhanced specificity for RET tyrosine kinase receptors (RTKs) over other RTK classes.[A202055, A219751, L15986] Enhanced RET (Rearranged during transfection) oncogene expression is a hallmark of many cancers, including non-small cell lung cancer. Although multikinase inhibitors, including [cabozantinib], [ponatinib], [sorafenib], [sunitinib], and [vandetanib], have shown efficacy in RET-driven cancers, their lack of specificity is generally associated with substantial toxicity.[A202055] Pralsetinib (BLU-667) and [selpercatinib] (LOXO-292) represent the first generation of specific RET RTK inhibitors for the treatment of RET-driven cancers.[A202049, A202055, L15986]\r\n\r\nAlthough a phase 1/2 trial of pralsetinib termed ARROW (NCT03037385) is still ongoing, pralsetinib was granted accelerated FDA approval on September 4, 2020, for the treatment of metastatic RET-fusion positive non-small cell lung cancer. It is currently marketed under the brand name GAVRETO\u2122 by Blueprint Medicines.[L15986]",
+    "indication": "Pralsetinib is indicated for the treatment of metastatic non-small cell lung cancer (NSCLC) in adult patients who are confirmed to possess a rearranged during transfection (RET) gene fusion, as determined by an FDA approved test.[L15986] It is also indicated in adult and pediatric patients 12 years of age and older for the treatment of advanced or metastatic _RET_ fusion-positive thyroid cancer who require systemic therapy and for whom radioactive iodine is not appropriate.[L47905] The indication for advanced or metastatic _RET_ fusion-positive thyroid cancer was approved under accelerated approval based on the overall response rate and duration of response, and continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.[L47905] \r\n\r\n",
+    "pharmacodynamics": "Pralsetinib exerts an anti-tumour effect through specific inhibition of the rearranged during transfection (RET) tyrosine kinase, including multiple distinct oncogenic RET fusions, mutated RET kinase domains harbouring gatekeeper mutations, and in RET kinases with a variety of activating single point mutations.[A202049, A202046, A202055, A219746, L15986] Due to pralsetinib's high selectivity for RET over other kinases, both _in vitro_ and _in vivo_,[A219751] pralsetinib has been described as having a better safety profile compared to previously used multi-kinase inhibitors.[A202049, A202046, A202055, A219746] Despite this, pralsetinib use may increase the risk of hypertension, hemorrhagic events, impaired wound healing, hepatotoxicity, interstitial lung disease/pneumonitis, and embryo-fetal toxicity.[L15986]",
+    "mechanism-of-action": "Rearranged during transfection (RET) is a transmembrane receptor tyrosine kinase containing extracellular, transmembrane, and intracellular domains whose activity is required for normal kidney and nervous system development.[A202061, A202055] Constitutive RET activation is achieved through chromosomal rearrangements producing 5' fusions of dimerizable domains to the 3' _RET_ tyrosine kinase domain leading to constitutive dimerization and subsequent autophosphorylation; the most common fusions are _KIF5B-RET_ and _CCDC6-RET_, although more than 35 genes have been reported to fuse with _RET_.[A202055, A202049, A202073] Constitutive activation leads to increased downstream signalling and is associated with tumour invasion, migration, and proliferation.[A202046]\r\n\r\nPralsetinib (formerly referred to as BLU-667) was developed through screening more than 10,000 agnostically designed kinase inhibitors followed by extensive chemical modification to improve its properties. Pralsetinib displays _in vitro_ IC<sub>50</sub> values for both WT RET as well as several mutant forms, including CCDC6-RET, in the range of 0.3-0.4 nmol/L, and is 100-fold more selective for RET kinase over 96% of 371 kinases tested.[A219751] It is this specific inhibition of RET kinase that is associated with anti-tumour activity and clinical benefit in patients.[A219751, A219756, L15986]\r\n\r\nDespite increased selectivity for RET over other kinases, pralsetinib has been reported to inhibit DDR1, TRKC, FLT3, JAK1-2, TRKA, VEGFR2, PDGFRb, and FGFR1-2 at clinically relevant concentrations. The significance of these findings remains uncertain.[L15986]",
+    "absorption": "Pralsetinib given at 400 mg once daily resulted in a mean steady-state C<sub>max</sub> of 2830 ng/mL (coefficient of variation, CV, 52.5%) and AUC<sub>0-24h</sub> of 43900 ng\\*h/mL (CV 60.2%). The C<sub>max</sub> and AUC of pralsetinib increased inconsistently with increasing doses between 60 and 600 mg once daily, with a median T<sub>max</sub> across this range of between two and four hours. At 400 mg once daily, pralsetinib reached steady-state plasma concentration by three to five days.[L15986]\r\n\r\nPralsetinib absorption is affected by food. A single dose of 400 mg given with a high-fat meal (800 to 1000 calories with 50 to 60% of calories coming from fat) increased the mean C<sub>max</sub> by 104% (95% CI 65-153%), mean AUC<sub>0-\u221e</sub> by 122% (95% CI 96-152%), and the median T<sub>max</sub> from four to 8.5 hours.[L15986]",
+    "metabolism": "Pralsetinib is metabolized _in vitro_ primarily by CYP3A4 and to a lesser extent by CYP2D6 and CYP1A2. Pralsetinib given as a single oral dose of 310 mg in healthy volunteers led to the detection of metabolites from both oxidation (M453, M531, and M549b) and glucuronidation (M709), although these constituted less than 5% of the detected material.[L15986]",
+    "toxicity": "Pralsetinib administered to rats at 20 mg/kg (roughly 2.5-3.6 times the recommended human exposure) resulted in resorption of litters in pregnant female mice in 92% of pregnancies (82% complete resorption); resorption occurred at doses as low as 5 mg/kg (0.3 times the recommended human exposure). Both male and female rats given 10 mg/kg pralsetinib or more had observable degeneration within the testis/ovaries. In 28-day rat and monkey studies, once-daily pralsetinib resulted in histological necrosis at doses 1.1 or more times the recommended human dose and myocardial hemorrhage at doses 2.6 or more times the recommended human dose. Also, pralsetinib induced hyperphosphatemia (rats only, dose 2.4-3.5 times the recommended human dose) and multi-organ mineralization (dose 0.11 or more times the recommended human dose).[L15986]",
+    "targets": [
+        [
+            "RET",
+            "Proto-oncogene tyrosine-protein kinase receptor Ret",
+            "Humans"
+        ],
+        [
+            "DDR1",
+            "Epithelial discoidin domain-containing receptor 1",
+            "Humans"
+        ],
+        [
+            "NTRK3",
+            "NT-3 growth factor receptor",
+            "Humans"
+        ],
+        [
+            "FLT3",
+            "Receptor-type tyrosine-protein kinase FLT3",
+            "Humans"
+        ],
+        [
+            "JAK1",
+            "Tyrosine-protein kinase JAK1",
+            "Humans"
+        ],
+        [
+            "JAK2",
+            "Tyrosine-protein kinase JAK2",
+            "Humans"
+        ],
+        [
+            "NTRK1",
+            "High affinity nerve growth factor receptor",
+            "Humans"
+        ],
+        [
+            "KDR",
+            "Vascular endothelial growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "PDGFRB",
+            "Platelet-derived growth factor receptor beta",
+            "Humans"
+        ],
+        [
+            "FGFR1",
+            "Fibroblast growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "FGFR2",
+            "Fibroblast growth factor receptor 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

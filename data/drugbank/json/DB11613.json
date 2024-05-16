@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA166163415",
+    "drugbank_id": "DB11613",
+    "names": [
+        "Velpatasvir"
+    ],
+    "description": "Velpatasvir is a Direct-Acting Antiviral (DAA) medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. Velpatasvir acts as a defective substrate for NS5A (Non-Structural Protein 5A), a non-enzymatic viral protein that plays a key role in Hepatitis C Virus replication, assembly, and modulation of host immune responses [A19175]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as velpatasvir. Notably, velpatasvir has a significantly higher barrier to resistance than the first generation NS5A inhibitors, such as [DB09027] and [DB09102], making it a highly potent and reliable alternative for treatment of chronic Hepatitis C [A19637]. \r\n\r\nIn a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) recommend Velpatasvir as first line therapy in combination with sofosbuvir for all six genotypes of Hepatitis C [L852]. Velpatasvir is currently only available within a fixed dose combination product as Epclusa with [DB08934], another direct acting antiviral. Goals of therapy for Epclusa include the intent to cure, or achieve a sustained virologic response (SVR), after 12 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality and risk of requiring a liver transplant [A19626].\r\n\r\nSince June 2016, Velpatasvir has been available as a fixed dose combination product with [DB08934], as the commercially available product Epclusa. Epclusa is the first combination HCV product indicated for the treatment of all genotypes of Hepatitis C with or without cirrhosis. It is also currently the most potent HCV antiviral medication on the market with a sustained virologic response (SVR) after 12 weeks of therapy of 93-99% depending on genotype and level of cirrhosis and a high barrier to resistance [L852]. Both Canadian and American guidelines list Epclusa as a first line recommendation for all genotypes of HCV [L852, A19626].",
+    "indication": "Velpatasvir is used in combination therapy with other antiviral medications to treat chronic hepatitis C virus (HCV) infected patients with HCV genoptypes 1-6, and to treat HCV and HIV co-infected patients. Depending on the level of cirrhosis or decompensation, combination therapy can also include therapy with [DB00811].\r\n\r\nWhen used in combination with [DB08934] as the combination product Epclusa, Velpatasvir is indicated for the treatment of adult patients with chronic hepatitis C virus (HCV) genotype 1, 2, 3, 4, 5, or 6 infection without cirrhosis or with compensated cirrhosis, or in combination with [DB00811] if associated with decompensated cirrhosis [FDA Label].",
+    "pharmacodynamics": "Velpatasvir is a small molecule direct-acting antiviral used in the treatment of hepatitis C in combination with sofosbuvir. Velpatasvir prevents viral replication by inhibiting non-structural protein 5A (NS5A) [A19177]. \r\n\r\nAt a dose 5 times the recommended dose, velpatasvir does not prolong QTc interval to any clinically relevant extent [FDA Label].",
+    "mechanism-of-action": "Velpatasvir's mechanism of action is likely similar to other selective NS5A inhibitors which bind domain I of NS5A consisting of amino acids 33-202 [A19172].  NS5A inhibitors compete with RNA for binding at this site. It is also thought that NS5A inhibitors bind the target during its action in replication when the binding site is exposed  [A19173].  Inhibition of NS5A is also known to produce redistribution of the protein to lipid droplets. The exact role of NS5A in RNA replication is not yet understood although it is known to be an important component.",
+    "absorption": "Oral bioavailability of 25-30% [A19175]. ",
+    "metabolism": "Some metabolism by CYP2B6, CYP2C8, and CYP3A4 [A19175].",
+    "toxicity": "No indication of carcinogenicity or impairment of fertility/fetal viability [FDA Label].",
+    "targets": [
+        [
+            "NS5A",
+            "Nonstructural protein 5A",
+            "Hepatitis C Virus"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

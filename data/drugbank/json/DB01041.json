@@ -1,0 +1,84 @@
+{
+    "pharmgkb_id": "PA451644",
+    "drugbank_id": "DB01041",
+    "names": [
+        "Thalidomide",
+        "Contergan",
+        "Distaval",
+        "K-17",
+        "Pro-ban M",
+        "Sedalis",
+        "Softenon",
+        "Talimol",
+        "Thaled"
+    ],
+    "description": "A piperidinyl isoindole originally introduced as a non-barbiturate hypnotic, thalidomide was withdrawn from the market due to teratogenic effects. It has been reintroduced and used for a number of inflammatory disorders and cancers. Thalidomide displays immunosuppressive and anti-angiogenic activity through modulating the release of inflammatory mediators like tumor necrosis factor-alpha (TNF-a) and other cytokine action. Due to severe teratogenicity, pregnancy must be excluded before the start of treatment and patients must enrol in the THALIDOMID Risk Evaluation and Mitigation Strategy (REMS) program to ensure contraception adherence.[L41235]",
+    "indication": "Thalidomide is primarily used for the acute treatment and maintenance therapy to prevent and suppress the cutaneous manifestations of moderate to severe erythema nodosum leprosum (ENL).[L41235]  ",
+    "pharmacodynamics": "Thalidomide, originally developed as a sedative, is an immunomodulatory and anti-inflammatory agent with a spectrum of activity that is not fully characterized. However, thalidomide is believed to exert its effect through inhibiting and modulating the level of various inflammatory mediators, particularly tumor necrosis factor-alpha (TNF-a) and IL-6. [A714] Additionally, thalidomide is also shown to inhibit basic fibroblast growth factor (bFGF) and vascular endothelial growth factor (VEGF), suggesting a potential anti-angiogenic application of thalidomide in cancer patients. [A246185]\r\n\r\nThalidomide is racemic &mdash; it contains both left and right handed isomers in equal amounts: the (+)R enantiomer is effective against morning sickness, and the (&minus;)S enantiomer is teratogenic. The enantiomers are interconverted to each other in vivo; hence, administering only one enantiomer will not prevent the teratogenic effect in humans [A246190].",
+    "mechanism-of-action": "The mechanism of action of thalidomide is not fully understood. Previous research indicate that thalidomide binds to cerebron, a component of the E3 ubiquitin ligase complex, to selectively degrade the transcription factor IKZF3 and IKZF1. These 2 transcription factors are vital for the proliferation and survival of malignant myeloma cells. [A246125] \r\n\r\nRegarding TNF-alpha, thalidomide seems to block this mediator via a variety of mechanism. Thalidomide can inhibit the expression myeloid differentiating factor 88 (MyD88), an adaptor protein that is involved in the TNF-alpha production signalling pathway, at the protein and RNA level. Additionally, thalidomide prevents the activation of Nuclear Factor Kappa B (NF-kB), another upstream effector of the TNF-alpha production pathway. Finally, some evidences suggest that thalidomide can block alpha-1 acid glycoprotein (AGP), a known inducer of the NF-kB/MyD88 pathway, thus inhibiting the expression of TNF-alpha [A246195]. The down-regulation of NF-kB and MyD88 can also affect the cross talk between the NF-kB/MyD88 and VEGF pathway, resulting in thalidomide's anti-angiogenic effect. [A246200]",
+    "absorption": "The absolute bioavailability has not yet been characterized in human subjects due to its poor aqueous solubility. The mean time to peak plasma concentrations (T<sub>max</sub>) ranged from 2.9 to 5.7 hours following a single dose from 50 to 400 mg. Patients with Hansen&rsquo;s disease may have an increased bioavailability of thalidomide, although the clinical significance of this is unknown. [L41235] \r\n\r\nDue to its low aqueous solubility and thus low dissolution is the gastrointestinal tract, thalidomide's absorption is slow, with a  t<sub>lag</sub> of 20-40 min. Therefore, thalidomide exhibits absorption rate-limited pharmacokinetics or \"flip-flop\" phenomenon. Following a single dose of 200 mg in healthy male subjects, c<sub>max</sub> and AUC<sub>\u221e</sub> were calculated to be 2.00 \u00b1 0.55 mg/L and 19.80 \u00b1 3.61 mg*h/mL respectively. [A246135]",
+    "metabolism": "Thalidomide appears to undergo primarily non-enzymatic hydrolysis in plasma to multiple metabolites, as the four amide bonds in thalidomide allow for rapid hydrolysis under physiological pH. [A246130] \r\n\r\nEvidences for enzymatic metabolism of thalidomide is mixed, as _in vitro_ studies using rat liver microsome have detected 5-hydroxythalidomide (5-OH), a monohydroxylated metabolite of thalidomide catalyzed by the CYP2C19 enzyme, and the addition of [omeprazole], a CYP2C19 inhibitor, inhibits the metabolism of thalidomide. [A246130] 5-hydroxythalidomide (5-OH) has also been detected in the plasma of 32% of androgen-independent prostate cancer patients undergoing oral thalidomide treatment.[A246130] However, significant interspecies difference in thalidomide metabolism has been noted, potentially signifying that animals like rats and rabbits rely on enzymatic metabolism of thalidomide more than human.[A246130]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is 113 mg/kg and 2 g/kg in mouse.[L41330]\r\n\r\nTwo-year carcinogenicity studies were conducted in male and female rats and mice. No compound-related tumorigenic effects were observed at the highest dose levels of 3,000 mg/kg/day to male and female mice (38-fold greater than the highest recommended daily human dose of 400 mg based upon body surface area [BSA]), 3,000 mg/kg/day to female rats (75-fold the maximum human dose based upon BSA), and 300 mg/kg/day to male rats (7.5-fold the maximum human dose based upon BSA). [L41235]\r\n\r\nThalidomide was neither mutagenic nor genotoxic in the following assays: the Ames bacterial (S. typhimurium and E. coli) reverse mutation assay, a Chinese hamster ovary cell (AS52/XPRT) forward mutation assay, and an in vivo mouse micronucleus test. [L41235]\r\n\r\nFertility studies were conducted in male and female rabbits; no compound-related effects in mating and fertility indices were observed at any oral thalidomide dose level including the highest of 100 mg/kg/day to female rabbits and 500 mg/kg/day to male rabbits (approximately 5- and 25- fold the maximum human dose, respectively, based upon BSA). Testicular pathological and histopathological effects (classified as slight) were seen in male rabbits at dose levels \u226530 mg/kg/day (approximately 1.5-fold the maximum human dose based upon BSA).  [L41235]\r\n\r\nThere is no specific antidote for a thalidomide overdose. In the event of an overdose, the patient\u2019s vital signs should be monitored and appropriate supportive care given to maintain blood pressure and respiratory status. [L41235]",
+    "targets": [
+        [
+            "CRBN",
+            "Protein cereblon",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

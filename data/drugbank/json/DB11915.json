@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "PA166170051",
+    "drugbank_id": "DB11915",
+    "names": [
+        "Valbenazine"
+    ],
+    "description": "Valbenazine is a modified metabolite of [tetrabenazine], and it is currently being approved for the treatment of various movement disorders, particularly tardive dyskinesia and chorea associated with Huntington's disease.[L47885,A261135] Tardive dyskinesia has long been regarded as a consequence of anti-dopamine receptor therapy, and until 2008 with the advent of [tetrabenazine], most treatments were ineffective.[A261165] However, challenges in using [tetrabenazine] as a treatment of tardive dyskinesia included frequent dosing and safety and tolerability concerns.[A261165]\r\n\r\nOn April 2017, valbenazine was approved by the FDA under the brand name INGREZZA as the first and only approved treatment for adults with Tardive Dyskinesia (TD).[A261125] On August 2023, valbenazine was again approved by the FDA for the treatment of chorea associated with Huntington's disease respectively. This approval was supported by positive results in multiple trials, including the KINECT-HD Phase 3 study and the ongoing KINECT-HD2 open-label extension trial. The reduction in chorea severity was observed as early as 2 weeks after starting treatment with an initial dose of 40 mg.[L47910]",
+    "indication": "Valbenazine is indicated for the treatment of adults with tardive dyskinesia and chorea associated with Huntington\u2019s disease.[L47885]",
+    "pharmacodynamics": "Valbenazine inhibits human VMAT2 (Ki ~ 150 nM) with no appreciable binding affinity for VMAT1 (Ki > 10 \u00b5M). Valbenazine is converted to the active metabolite [+]-\u03b1-dihydrotetrabenazine ([+]-\u03b1-HTBZ). [+]-\u03b1-HTBZ also binds with relatively high affinity to human VMAT2 (Ki ~ 3 nM). Valbenazine and [+]-\u03b1HTBZ have no appreciable binding affinity (Ki > 5000 nM) for dopaminergic (including D2), serotonergic (including 5HT2B), adrenergic, histaminergic or muscarinic receptors, thus limiting off-target receptors binding for a more favorable safety profile.[L47885,A19221,A18896] \r\n\r\nValbenazine may cause an increase in the corrected QT interval in patients who are CYP2D6-poor metabolizers or who are taking a strong CYP2D6 or CYP3A4 inhibitor. An exposure-response analysis of clinical data from two healthy volunteer studies revealed increased QTc interval with higher plasma concentrations of the active metabolite. Based on this model, patients taking an valbenazine 60 mg or 80 mg dose with increased exposure to the metabolite (e.g., being a CYP2D6 poor metabolizer) may have a mean (upper bound of double-sided 90% CI) QT prolongation of 9.6 (12.0) msec or 11.7 (14.7) msec, respectively as compared to otherwise healthy volunteers given valbenazine, who had a respective mean (upper bound of double-sided 90% CI) QT prolongation of 5.3 (6.7) msec or 6.7 (8.4) msec.[L47885]",
+    "mechanism-of-action": "Although the exact mechanism of action of valbenzine is still unknown, it is thought be mediated through the reversible inhibition of vesicular monoamine transporter 2 (VMAT2), a transporter that regulates monoamine uptake from the cytoplasm to the synaptic vesicle for storage and release.[L47885]\r\n",
+    "absorption": "Valbenazine and its active metabolite ([+]-\u03b1-HTBZ) demonstrate approximate proportional increases for the area under the plasma concentration versus time curve (AUC) and maximum plasma concentration (C<sub>max</sub>) after single oral doses from 40 mg to 300 mg (i.e., 50% to 375% of the recommended treatment dose).[L47885] \r\n\r\nFollowing oral administration, the time to reach maximum valbenazine plasma concentration (T<sub>max</sub>) ranges from 0.5 to 1.0 hours. Valbenazine reaches steady-state plasma concentrations within 1 week. The absolute oral bioavailability of valbenazine is approximately 49%. [+]-\u03b1-HTBZ gradually forms and reaches C<sub>max</sub> 4 to 8 hours after administration of valbenazine.[L47885]\r\n\r\nIngestion of a high-fat meal decreases valbenazine Cmax by approximately 47% and AUC by approximately 13%. [+]-\u03b1-HTBZ Cmax and AUC are unaffected.[L47885] ",
+    "metabolism": "Valbenazine is extensively metabolized after oral administration by hydrolysis of the valine ester to form the active metabolite ([+]-\u03b1-HTBZ) and by oxidative metabolism, primarily by CYP3A4/5, to form mono-oxidized valbenazine and other minor metabolites. [+]-\u03b1-HTBZ appears to be further metabolized in part by CYP2D6.[L47885]",
+    "toxicity": "The limited available data on valbenazine use in pregnant women are insufficient to inform a drug-associated risk. In animal reproductive studies, no malformations were observed when valbenazine was administered orally to rats and rabbits during the period of organogenesis at doses up to 1.8 or 24 times, respectively, the maximum recommended human dose (MRHD) of 80 mg/day based on mg/m2 body surface area. However, administration of valbenazine to pregnant rats during organogenesis through lactation produced an increase in the number of stillborn pups and postnatal pup mortalities at doses <1 times the MRHD based on mg/m<sup>2</sup>. Advise a pregnant woman of the potential risk to a fetus.[L47885]\r\n\r\nIn a fertility study, rats were treated orally with valbenazine at 1, 3, and 10 mg/kg/day prior to mating and through mating, for a minimum of 10 weeks (males) or through Day 7 of gestation (females). These doses are 0.1, 0.4, and 1.2 times the MRHD of 80 mg/day based on mg/m<sup>2</sup>, respectively. Valbenazine delayed mating in both sexes, which led to a lower number of pregnancies and disrupted estrous cyclicity at the high dose, 1.2 times the MRHD of 80 mg/day based on mg/m<sup>2</sup>. Valbenazine had no effects on sperm parameters (motility, count, density) or on uterine parameters (corpora lutea, number of implants, viable implants, pre-implantation loss, early resorptions, and post-implantation loss) at any dose.[L47885] \r\n\r\nPatients with moderate to severe hepatic impairment (Child-Pugh score 7 to 15) had higher exposure of valbenazine and its active metabolite than patients with normal hepatic function.[L47885]\r\n\r\nValbenazine did not increase tumors in rats treated orally for 91 weeks at 0.5, 1, and 2 mg/kg/day. These doses are <1 times (0.06, 0.1, and 0.24 times, respectively) the MRHD of 80 mg/day based on mg/m<sup>2</sup>.[L47885]\r\n\r\nValbenazine did not increase tumors in hemizygous Tg.rasH2 mice treated orally for 26 weeks at 10, 30, and 75 mg/kg/day, which are 0.6, 1.9, and 4.6 times the MRHD of 80 mg/day based on mg/m<sup>2</sup>.[L47885]\r\n\r\nValbenazine was not mutagenic in the in vitro bacterial reverse mutation test (Ames) or clastogenic in the in vitro mammalian chromosomal aberrations assay in human peripheral blood lymphocytes or in the in vivo rat bone marrow micronucleus assay.[L47885]\r\n\r\nNo specific antidotes for valbenazine are known. In managing overdose, provide supportive care, including close medical supervision and monitoring, and consider the possibility of multiple drug involvement. If an overdose occurs, consult a Certified Poison Control Center.[L47885]",
+    "targets": [
+        [
+            "SLC18A2",
+            "Synaptic vesicular amine transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

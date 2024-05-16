@@ -1,0 +1,37 @@
+{
+    "pharmgkb_id": "PA451168",
+    "drugbank_id": "DB00344",
+    "names": [
+        "Protriptyline",
+        "Triptil"
+    ],
+    "description": "Protriptyline hydrochloride is a dibenzocycloheptene-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, protriptyline does not affect mood or arousal, but may cause sedation. In depressed individuals, protriptyline exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. In addition, TCAs down-regulate cerebral cortical &beta;-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine H<sub>1</sub> receptors, alpha<sub>1</sub>-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. See toxicity section below for a complete listing of side effects. Protriptyline may be used for the treatment of depression.",
+    "indication": "For the treatment of depression. ",
+    "pharmacodynamics": "Protriptyline is a tricyclic antidepressant. It was thought that tricyclic antidepressants work by inhibiting the reuptake of the neurotransmitters norepinephrine and serotonin by nerve cells. The effectiveness of antidepressants appear after approximately two weeks following recommended adminsitration schedule. Gradual changes are thought to occur in the cerebral cortex and hippocampus, involved in emotion regulation as part of the limbic system, as receptor sensitivity is enhanced. While &alpha;<sub>1</sub> and &beta;<sub>1</sub> receptors are sensitized, &alpha;<sub>2</sub> receptors are desensitized (leading to increased noradrenaline production). Tricyclics are also reported to alter the perceptions of pain, including neuropathic or neuralgic pain, so they may exhibit analgesic properties. The mechanism of action behind this analgesic property is not fully understood; however, it is thought to involve modulation of endogenous opioid systems in the CNS via an indirect serotonergic route. Tricyclic antidepressants are also effective in relieving migraine prophylaxis, but not in abortion of acute migraine attack, potentially via their serotonergic effects. ",
+    "mechanism-of-action": "Protriptyline acts by decreasing the reuptake of norepinephrine and serotonin (5-HT).",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": "Side effects include anxiety, blood disorders, confusion, decreased libido, dizziness, flushing, headache, impotence, insomnia, low blood pressure, nightmares, rapid or irregular heartbeat, rash, seizures, sensitivity to sunlight, stomach and intestinal discomfort, sedation, hypotension, blurred vision, dry mouth, constipation, urinary retention, postural hypotension, tachycardia, hypertension, ECG changes, heart failure, impaired memory and delirium, and precipitation of hypomanic or manic episodes in bipolar depression. Withdrawal symptoms include gastrointestinal disturbances, anxiety, and insomnia. ",
+    "targets": [
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

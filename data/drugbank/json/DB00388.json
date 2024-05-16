@@ -1,0 +1,69 @@
+{
+    "pharmgkb_id": "PA450935",
+    "drugbank_id": "DB00388",
+    "names": [
+        "Phenylephrine",
+        "AK-Dilate",
+        "AK-Nefrin",
+        "Alconefrin",
+        "Mesatone",
+        "Minims Phenylephrine",
+        "Neofrin",
+        "Ocugestrin",
+        "Phenoptic",
+        "Phenylephrine Minims",
+        "Prefrin",
+        "Rhinall",
+        "Spersaphrine",
+        "Visadron"
+    ],
+    "description": "Phenylephrine is an alpha-1 adrenergic receptor agonist used to treat hypotension,[L9416,L9410] dilate the pupil,[L9413] and induce local vasoconstriction.[A187370] The action of phenylephrine, or neo-synephrine, was first described in literature in the 1930s.[A187376]\r\n\r\nPhenylephrine was granted FDA approval in 1939.[L9413]",
+    "indication": "Phenylephrine is available in various drug formulations, which have different indications. Phenylephrine injections are indicated to treat hypotension caused by shock or anesthesia.[L9416, L9410] The ophthalmic formulation is indicated to induce mydriasis [L9413, L46332] and conjunctival vasoconstriction.[A187370] The intranasal formulation is used to treat congestion, and a topical formulation is used to treat hemorrhoids.[A187370] Off-label uses include priapism and induction of local vasoconstriction.[A187370]",
+    "pharmacodynamics": "Phenylephrine is an alpha-1 adrenergic agonist that raises blood pressure,[L9416,L9410] dilates the pupils,[L9413] and causes local vasoconstriction.[A187370] Ophthalmic formulations of phenylephrine act for 3-8 hours[L9413] while intravenous solutions have an effective half life of 5 minutes and an elimination half life of 2.5 hours.[A187379,L9416] Patients taking ophthalmic formulations of phenylephrine should be counselled about the risk of arrhythmia, hypertension, and rebound miosis.[L9413] Patients taking an intravenous formulation should be counselled regarding the risk of bradycardia, allergic reactions, extravasation causing necrosis or tissue sloughing, and the concomitant use of oxytocic drugs.[L9416,L9410]",
+    "mechanism-of-action": "Phenylephrine is an alpha-1 adrenergic agonist that mediates vasoconstriction[A187370] and mydriasis[L9413] depending on the route and location of administration. Systemic exposure to phenylephrine also leads to agonism of alpha-1 adrenergic receptors, raising systolic and diastolic pressure as well as peripheral vascular resistance.[L9416,L9410] Increased blood pressure stimulates the vagus nerve, causing reflex bradycardia.[L9416,L9410]",
+    "absorption": "Phenylephrine is 38% orally bioavailable.[A187379] Clinically significant systemic absorption of ophthalmic formulations is possible, especially at higher strengths and when the cornea is damaged.[L9416]",
+    "metabolism": "Phenylephrine is mainly metabolized by monoamine oxidase A, monoamine oxidase B, and SULT1A3.[A187382,A187385,L9416,L9410] The major metabolite is the inactive meta-hydroxymandelic acid, followed by sulfate conjugates.[A187385,L9416,L9410] Phenylephrine can also be metabolized to phenylephrine glucuronide.[A187385]",
+    "toxicity": "Patients experiencing and overdose may present with headache, hypertension, reflex bradycardia, tingling limbs, cardiac arrhythmias, and a feeling of fullness in the head.[L9416,L9413,L9410] Overdose may be treated by supportive care and discontinuing phenylephrine, chronotropic medications, and vasodilators.[A187370] Subcutaneous phentolamine may be used to treat tissue extravasation.[A187370,L9413]",
+    "targets": [
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ],
+        [
+            "SULT1A3",
+            "Sulfotransferase 1A3/1A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

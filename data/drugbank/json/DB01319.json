@@ -1,0 +1,31 @@
+{
+    "pharmgkb_id": "PA10084",
+    "drugbank_id": "DB01319",
+    "names": [
+        "Fosamprenavir"
+    ],
+    "description": "Fosamprenavir is a prodrug of amprenavir, an inhibitor of human immunodeficiency virus (HIV) protease.",
+    "indication": "Indicated in combination with other antiretroviral agents for the treatment of human immunodeficiency virus (HIV-1) infection, as well as postexposure prophylaxis of HIV infection in individuals who have had occupational or nonoccupational exposure to potentially infectious body fluids of a person known to be infected with HIV when that exposure represents a substantial risk for HIV transmission. The use of fosamprenavir is pending revision due to a potential association between the drug and myocardial infarction and dyslipidemia in HIV infected adults.",
+    "pharmacodynamics": "Fosamprenavir is hydrolyzed by cellular phosphatases to the antiretroviral protease inhibitor amprenavir. This hydrolysis allows for the slow release of amprenavir, reducing the number of pills a patient must take.",
+    "mechanism-of-action": "Fosamprenavir is a prodrug that is rapidly hydrolyzed to amprenavir by cellular phosphatases in the gut epithelium as it is absorbed. Amprenavir is an inhibitor of HIV-1 protease. During HIV replication, HIV protease cleaves viral polypeptide products of the Gag and Gag-Pol genes to form structural proteins of the virion core and essential viral enzymes. Amprenavir interferes with this process by binding to the active site of HIV-1 protease, thereby preventing the processing of viral Gag and Gag-Pol polyprotein precursors, resulting in the formation of immature non-infectious viral particles.",
+    "absorption": "The absolute oral bioavailability of amprenavir after administration of fosamprenavir in humans has not been established. After administration of a single 1,400 mg dose in the fasted state, fosamprenavir oral suspension (50 mg/mL) and fosamprenavir tablets (700 mg) provided similar amprenavir exposures (AUC), however, the C<sub>max</sub> of amprenavir after administration of the suspension formulation was 14.5 % higher compared with the tablet.",
+    "metabolism": "In the gut epithelium during absorption, fosamprenavir is rapidly and almost completely hydrolyzed to amprenavir and inorganic phosphate prior to reaching the systemic circulation. Amprenavir is metabolized in the liver by the cytochrome P450 3A4 (CYP3A4) enzyme system.",
+    "toxicity": null,
+    "targets": [
+        [
+            "pol",
+            "Human immunodeficiency virus type 1 protease",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

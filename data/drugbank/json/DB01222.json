@@ -1,0 +1,138 @@
+{
+    "pharmgkb_id": "PA448681",
+    "drugbank_id": "DB01222",
+    "names": [
+        "Budesonide",
+        "Bidien",
+        "Budeson",
+        "Budicort",
+        "Noex",
+        "Pulmicort",
+        "Rhinosol",
+        "Spirocort"
+    ],
+    "description": "Budesonide is a glucocorticoid that is a mix of the 22R and 22S epimer used to treat inflammatory conditions of the lungs and intestines such as asthma, COPD, Crohn's disease, and ulcerative colitis.[A188529,A188532]\r\n\r\nBudesonide was granted FDA approval on 14 February 1994.[L10598] It is also available in a combination product with [formoterol].[L10619]",
+    "indication": "Budesonide extended-release capsules are indicated for the treatment and maintenance of mild to moderate Crohn\u2019s disease.[L10601,L10604] Various inhaled budesonide products are indicated for prophylactic therapy in asthma [L10607,L10613,L10619] and to reduce exacerbations of COPD.[L10619] A budesonide nasal spray is available over the counter for symptoms of hay fever and upper respiratory allergies.[L10616] Extended-release capsules are indicated to induce remission of mild to moderate ulcerative colitis[L10622] and a rectal foam is used for mild to moderate distal ulcerative colitis.[L10625] In addition, a delayed-release capsule formulation of budesonide is indicated to reduce proteinuria in adults with IgA nephropathy at risk of rapid disease progression.[L42515,L49540] Budesonide is indicated to treat eosinophilic esophagitis (EoE): For this indication, it is only approved for use in adults in Europe [L42525] while it is approved for short-term use (12 weeks) in patients 11 years of age and older in the US.[L50161]",
+    "pharmacodynamics": "Budesonide is a glucocorticoid used to treat respiratory and digestive conditions by reducing inflammation.[L10601,L10604,L10607,L10613,L10619,L10622,L10625] It has a wide therapeutic index, as dosing varies highly from patient to patient.[L10601,L10604,L10607,L10613,L10619,L10622,L10625] Patients should be counselled regarding the risk of hypercorticism and adrenal axis suppression.[L10601,L10604,L10607,L10613,L10619,L10622,L10625]",
+    "mechanism-of-action": "The short term effects of corticosteroids are decreased vasodilation and permeability of capillaries, as well as decreased leukocyte migration to sites of inflammation.[A187463] Corticosteroids binding to the glucocorticoid receptor mediates changes in gene expression that lead to multiple downstream effects over hours to days.[A187463]\r\n\r\nGlucocorticoids inhibit neutrophil apoptosis and demargination; they inhibit phospholipase A2, which decreases the formation of arachidonic acid derivatives; they inhibit NF-Kappa B and other inflammatory transcription factors; they promote anti-inflammatory genes like interleukin-10.[A187463]\r\n\r\nLower doses of corticosteroids provide an anti-inflammatory effect, while higher doses are immunosuppressive.[A187463] High doses of glucocorticoids for an extended period bind to the mineralocorticoid receptor, raising sodium levels and decreasing potassium levels.[A187463]",
+    "absorption": "Extended release oral capsules are 9-21% bioavailable.[L10601,L10604] A 9mg dose reaches a C<sub>max</sub> of 1.50\u00b10.79ng/mL with a T<sub>max</sub> of 2-8h and an AUC of 7.33ng\\*hr/mL.[L10601,L10604] A high fat meal increases the T<sub>max</sub> by 2.3h but otherwise does not affect the pharmacokinetics of budesonide.[L10601,L10604]\r\n\r\n180-360\u00b5g metered inhaled doses of budesonide are 34% deposited in the lungs, 39% bioavailable, and reach a C<sub>max</sub> of 0.6-1.6nmol/L with a T<sub>max</sub> of 10 minutes.[L10607]\r\n\r\nA 1mg nebulized dose is 6% bioavailable, reaching a C<sub>max</sub> of 2.6nmol/L with a T<sub>max</sub> of 20 minutes.[L10613]\r\n\r\nA 9mg oral extended release tablet reaches a C<sub>max</sub> of 1.35\u00b10.96ng/mL with a T<sub>max</sub> of 13.3\u00b15.9h and an AUC of 16.43\u00b110.52ng\\*hr/mL.[L10622]\r\n\r\nBudesonide rectal foam 2mg twice daily has an AUC of 4.31ng\\*hr/mL.[L10625]",
+    "metabolism": "Budesonide is 80-90% metabolized at first pass.[A188526] Budesonide is metabolized by CYP3A to its 2 major metabolites, 6beta-hydroxybudesonide and 16alpha-hydroxyprednisolone.[A188526,A35818] The glucocorticoid activity of these metabolites is negligible (<1/100) in relation to that of the parent compound.[A188526] CYP3A4 is the strongest metabolizer of budesonide, followed by CYP3A5, and CYP3A7.[A35818]",
+    "toxicity": "Acute overdose of corticosteroids is rare, however prolonged high dosing of corticosteroids can lead to hypercorticism and adrenal axis suppression.[L10601,L10604,L10607,L10613,L10619,L10622,L10625] In the case of overdose, reduce the dosage of corticosteroids temporarily.[L10601,L10604,L10607,L10613,L10619,L10622,L10625]\r\n\r\nA 200mg oral dose is lethal to female mice while a 400mg oral dose is lethal to male mice.[L10601,L10604,L10622]",
+    "targets": [
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ],
+        [
+            "ANXA1",
+            "Annexin A1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "SERPINA6",
+            "Corticosteroid-binding globulin",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01222",
+            "Drug Name": "Budesonide",
+            "Gene Symbol": "TBX21",
+            "RS ID (Genotype)": "rs2240017",
+            "Effect Description": "The presence of this polymorphism in TBX21 may be associated with improved responsiveness to budenoside for the treatment of asthma."
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "pharmgkb_id": "PA134687907",
+    "drugbank_id": "DB00983",
+    "names": [
+        "Formoterol",
+        "Foradil",
+        "Oxis Turbuhaler"
+    ],
+    "description": "Formoterol is an inhaled beta<sub>2</sub>-agonist used in the management of COPD and asthma that was first approved for use in the United States in 2001.[L10986] It acts on bronchial smooth muscle to dilate and relax airways, and is administered as a racemic mixture of its active (R;R)- and inactive (S;S)-enantiomers.[A189528] A major clinical advantage of formoterol over other inhaled beta-agonists is its rapid onset of action (2-3 minutes), which is at least as fast as [salbutamol], combined with a long duration of action (12 hours) - for this reason, treatment guidelines for asthma recommend its use as both a reliever and maintenance medication.[L11256] It is available as a single-entity product [L10986,L11223] and in several formulations in combination with both inhaled corticosteroids [L10995,L10619] and long-acting muscarinic antagonists.[L10992,L10989]",
+    "indication": "Formoterol is indicated in various formulations for the treatment of asthma and COPD. For the treatment of COPD, formoterol is available as a single-entity inhalation solution,[L10986] in combination with the long-acting muscarinic antagonists (LAMAs) [aclidinium][L10992] and [glycopyrronium],[L10989] and in combination with the corticosteroid [budesonide].[L10619] For the treatment of asthma, formoterol is available in combination with [mometasone furoate] for patients 5 years and older[L10995] and with budesonide for patients 6 years and older.[L10619] Formoterol may also be used on an as-needed basis for prophylaxis against exercise-induced bronchospasm.[L10998]",
+    "pharmacodynamics": "Formoterol works locally in the lungs as a bronchodilator, relaxing smooth muscle and opening up the airways. It possesses both a rapid onset of action (approximately 2-3 minutes)[A189636] and a long duration of action (up to 12 hours).[L11223] The use of long-acting beta-agonists (LABAs), such as formoterol, without concomitant inhaled corticosteroids in asthmatic patients should be avoided, as LABA monotherapy has been associated with an increased risk of asthma-related death.[L11223]",
+    "mechanism-of-action": "Formoterol is a relatively selective long-acting agonist of beta<sub>2</sub>-adrenergic receptors,[L10986,L11223] although it does carry some degree of activity at beta<sub>1</sub> and beta<sub>3</sub> receptors.[A15544] Beta<sub>2</sub> receptors are found predominantly in bronchial smooth muscle (with a relatively minor amount found in cardiac tissue) whereas beta<sub>1</sub> receptors are the predominant adrenergic receptors found in the heart - for this reason, selectivity for beta<sub>2</sub> receptors is desirable in the treatment of pulmonary diseases such as COPD and asthma.[L10986] Formoterol has demonstrated an approximately 200-fold greater activity at beta<sub>2</sub> receptors over beta<sub>1</sub> receptors.[L10986]\r\n\r\nOn a molecular level, activation of beta receptors by agonists like formoterol stimulates intracellular adenylyl cyclase, an enzyme responsible for the conversion of ATP to cyclic AMP (cAMP). The increased levels of cAMP in bronchial smooth muscle tissue result in relaxation of these muscles and subsequent dilation of the airways, as well as inhibition of the release of hypersensitivity mediators (e.g. histamine, leukotrienes) from culprit cells, especially mast cells.[L10986]",
+    "absorption": "The pulmonary bioavailability of formoterol has been estimated to be about 43% of the delivered dose, while the total systemic bioavailability is approximately 60% of the delivered dose (as systemic bioavailability accounts for absorption in the gut).[L11223]\r\n\r\nFormoterol is rapidly absorbed into plasma following inhalation. In healthy adults, formoterol T<sub>max</sub> ranged from 0.167 to 0.5 hours.[L10995] Following a single dose of 10 mcg, C<sub>max</sub> and AUC were 22 pmol/L and 81 pmol.h/L, respectively. In asthmatic adult patients, T<sub>max</sub> ranged from 0.58 to 1.97 hours.[L10995] Following single-dose administration of 10mcg, C<sub>max</sub> and AUC<sub>0-12h</sub> were 22 pmol/L and 125 pmol.h/L, respectively; following multiple-dose administration of 10 mcg, C<sub>max</sub> and AUC<sub>0-12h</sub> were 41 pmol/L and 226 pmol.h/L, respectively. Absorption appears to be proportional to dose across standard dosing ranges.[L10995,L10986]",
+    "metabolism": "Formoterol is metabolized primarily via direct glucuronidation of the parent drug and via O-demethylation of the parent drug followed by glucuronidation.[L10986,A189606] Minor pathways include sulfate conjugation of the parent drug and deformylation of the parent drug followed by sulfate conjugation, though these minor pathways have not been fully characterized. The major pathway of formoterol metabolism is a direct glucuronidation of the parent drug at its phenolic hydroxyl group, while the second most prominent pathway involves O-demethylation following by glucuronidation at the phenolic hydroxyl group.[L10986,A189606]\r\n\r\n_In vitro_ studies of formoterol disposition indicate that O-demethylation of formoterol involves a number of cytochrome P450 isoenzymes (CYP2D6, CYP2C19, CYP2C9, and CYP2A6) and glucuronidation involves a number of UDP-glucuronosyltransferase isoenzymes (UGT1A1, UGT1A8, UGT1A9, UGT2B7, and UGT2B15), though specific roles for individual enzymes have not been elucidated.[L10986]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is 3130 mg/kg.[L11241]\r\n\r\nSymptoms of overdose are likely consistent with formoterol's adverse effect profile (i.e. consistent with excessive beta-adrenergic stimulation) and may include angina, hyper or hypotension, tachycardia, arrhythmia, nervousness, headache, tremor, seizures, dry mouth, etc. Patients may experience laboratory abnormalities including hypokalemia, hyperglycemia, and metabolic acidosis.[L10986] Treatment of overdosage should consist of symptomatic and supportive therapy, with a particular focus on cardiac monitoring. Consider the use of a cardioselective beta-adrenergic blocker to oppose excessive adrenergic stimulation if clinically appropriate.[L10986]",
+    "targets": [
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta-3 adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferase 1-8",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

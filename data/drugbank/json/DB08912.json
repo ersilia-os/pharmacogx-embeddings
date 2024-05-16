@@ -1,0 +1,128 @@
+{
+    "pharmgkb_id": "PA166114911",
+    "drugbank_id": "DB08912",
+    "names": [
+        "Dabrafenib"
+    ],
+    "description": "Dabrafenib mesylate (Tafinlar) is a reversible ATP-competitive kinase inhibitor and targets the MAPK pathway. It was approved on May 29, 2013, for the treatment of melanoma with V600E or V6000K mutation.[L41955] It was also used for metastatic non-small cell lung cancer with the same mutation.[L41955]\r\n\r\nIn May 2018, Tafinlar (dabrafenib), in combination with Mekinist ([DB08911]), was approved to treat anaplastic thyroid cancer caused by an abnormal BRAF V600E gene.[L41955]",
+    "indication": "As monotherapy, dabrafenib is indicated to treat unresectable or metastatic melanoma with BRAF V600E mutation as detected by an FDA-approved test.[L41955] \r\n\r\nIn combination with [trametinib], dabrafenib is indicated to treat for:\r\n\r\n- the treatment of unresectable or metastatic melanoma with BRAF V600E or V600K mutations as detected by an FDA-approved test.[L41955]\r\n- the adjuvant treatment of melanoma with BRAF V600E or V600K mutations and involvement of lymph node(s), following complete resection.[L41955]\r\n- the treatment of metastatic non-small cell lung cancer (NSCLC) with BRAF V600E mutation.[L41955]\r\n- the treatment of locally advanced or metastatic anaplastic thyroid cancer (ATC) with BRAF V600E mutation and with no satisfactory locoregional treatment options.[L41955]\r\n- treatment of adult and pediatric patients six years and older with unresectable or metastatic solid tumours with BRAF V600E mutation who have progressed following prior treatment and have no satisfactory alternative treatment options. This indication is approved under accelerated approval based on the overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).[L45548]\r\n- the treatment of pediatric patients one year of age and older with low-grade glioma (LGG) with a BRAF V600E mutation who require systemic therapy.[L45548]\r\n\r\nDabrafenib has limitations of use: it is neither indicated for treating patients with colorectal cancer because of known intrinsic resistance to BRAF inhibition nor wild-type BRAF solid tumours.[L45548]",
+    "pharmacodynamics": "Dabrafenib is a kinase inhibitor that is mainly used to target BRAF V600E mutation in multiple types of cancer. Although dabrafenib and [trametinib] both inhibit the RAS/RAF/MEK/ERK pathway, they inhibit different effectors of the pathway, thus increasing response rate and mitigating resistance without cumulative toxicity.[A248975]\r\n\r\nThe melanoma approval for use with [trametinib] is based on results from COMBI-AD, a Phase III study of 870 patients with Stage III BRAF V600E/K mutation-positive melanoma treated with dabrafenib + trametinib after complete surgical resection. Patients received doses of dabrafenib (150 mg BID) + trametinib (2 mg QD) combination (n = 438) or matching placebos (n = 432). After a median follow-up of 2.8 years, the primary endpoint of relapse-free survival (RFS) was met.[L2714]\r\n\r\nIn the case of thyroid cancer, Dabrafenib plus Trametinib is the first regimen demonstrated to have potent clinical activity in BRAF V600E\u2013mutated anaplastic thyroid cancer and is well tolerated. These findings represent a meaningful therapeutic advance for this orphan disease.[L2723]",
+    "mechanism-of-action": "Dabrafenib is a competitive and selective BRAF inhibitor by binding to its ATP pocket.[L41955, A248955] Although dabrafenib can inhibit wild-type BRAF, it has a higher affinity for mutant forms of BRAF, including BRAF V600E, BRAF V600K, and BRAF V600D.[L41955] BRAF is a serine/threonine protein kinase and is involved in activating the RAS/RAF/MEK/ERK or MAPK pathway, a pathway that is implicated in cell cycle progression, cell proliferation, and arresting apoptosis.[A248960, A248965, A193614, A70135]Therefore, constitutive active mutation of BRAF such as BRAF V600E is frequently observed in many types of cancer, including melanoma, lung cancer, and colon cancer.[A248970]\r\n",
+    "absorption": "After oral administration, the median time to achieve peak plasma concentration (Tmax) is 2 hours.[L41955] Mean absolute bioavailability of oral dabrafenib is 95%.[L41955] Following a single dose, dabrafenib exposure (Cmax and AUC) increased in a dose-proportional manner across the dose range of 12 mg to 300 mg, but the increase was less than dose-proportional after repeat twice-daily dosing.[L41955] After repeated twice-daily dosing of 150 mg, the mean accumulation ratio was 0.73, and the inter-subject variability (CV%) of AUC at steady-state was 38%.[L41955] ",
+    "metabolism": "The metabolism of dabrafenib is primarily mediated by CYP2C8 and CYP3A4 to form hydroxy-dabrafenib. Hydroxy-dabrafenib is further oxidized via CYP3A4 to form carboxy-dabrafenib and subsequently excreted in bile and urine. Carboxy-dabrafenib is decarboxylated to form desmethyl-dabrafenib; desmethyl-dabrafenib may be reabsorbed from the gut. Desmethyl-dabrafenib is further metabolized by CYP3A4 to oxidative metabolites.[L41955]",
+    "toxicity": "Carcinogenicity studies with dabrafenib have not been conducted. Dabrafenib increased the risk of cutaneous squamous cell carcinomas in patients in clinical trials.[L41955] \r\n\r\nDabrafenib was not mutagenic in vitro in the bacterial reverse mutation assay (Ames test) or the mouse lymphoma assay and was not clastogenic in an in vivo rat bone marrow micronucleus test.[L41955]\r\n\r\nIn a combined female fertility and embryo-fetal development study in rats, a reduction in fertility was noted at doses greater than or equal to 20 mg/kg/day (equivalent to the human exposure at the recommended dose based on AUC). A reduction in the number of ovarian corpora lutea was noted in pregnant females at 300 mg/kg/day (which is approximately three times the human exposure at the recommended dose based on AUC).[L41955]\r\n\r\nMale fertility studies with dabrafenib have not been conducted; however, in repeat-dose studies, testicular degeneration/depletion was seen in rats and dogs at doses equivalent to and three times the human exposure at the recommended dose based on AUC, respectively.[L41955]",
+    "targets": [
+        [
+            "BRAF",
+            "Serine/threonine-protein kinase B-raf",
+            "Humans"
+        ],
+        [
+            "RAF1",
+            "RAF proto-oncogene serine/threonine-protein kinase",
+            "Humans"
+        ],
+        [
+            "SIK1",
+            "Serine/threonine-protein kinase SIK1",
+            "Humans"
+        ],
+        [
+            "NEK11",
+            "Serine/threonine-protein kinase Nek11",
+            "Humans"
+        ],
+        [
+            "LIMK1",
+            "LIM domain kinase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

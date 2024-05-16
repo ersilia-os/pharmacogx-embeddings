@@ -1,0 +1,43 @@
+{
+    "pharmgkb_id": "PA448010",
+    "drugbank_id": "DB00284",
+    "names": [
+        "Acarbose",
+        "Glucobay",
+        "Prandase",
+        "Precose"
+    ],
+    "description": "Acarbose is a complex oligosaccharide that acts as an inhibitor of several enzymes responsible for the breakdown of complex carbohydrates in the intestines. It inhibits both pancreatic alpha-amylase and membrane-bound alpha-glucosidases - including intestinal glucoamylase, sucrase, maltase, and isomaltase - which are responsible for the metabolism of complex starches and oligo-, tri-, and disaccharides into absorbable simple sugars.[L31633,A37868] By inhibiting the activity of these enzymes, acarbose limits the absorption of dietary carbohydrates and the subsequent postprandial increase in blood glucose and insulin levels. Acarbose is therefore used in conjunction with diet, exercise, and other pharmacotherapies for the management of blood sugar levels in patients with type 2 diabetes.[L31628,L31633]\r\n\r\nAcarbose is one of only two approved alpha-glucosidase inhibitors (the other being [miglitol]), receiving its first FDA approval in 1995 under the brand name Precose (since discontinued).[L31668] This class of antidiabetic therapy is not widely used due to their relatively modest impact on A1c, their requirement for thrice-daily dosing, and the potential for significant gastrointestinal adverse effects.[L31668]",
+    "indication": "Acarbose is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.[L31628]",
+    "pharmacodynamics": "Acarbose is a complex oligosaccharide that competitively inhibits the ability of brush-border alpha-glucosidase enzymes to break down ingested carbohydrates into absorbable monosaccharides, reducing carbohydrate absorption and subsequent postprandial insulin levels.[A37868] Acarbose requires the co-administration of carbohydrates in order to exert its therapeutic effect, and as such should be taken with the first bite of a meal three times daily.[L31633]\r\n\r\nGiven its mechanism of action, acarbose in isolation poses little risk of contributing to hypoglycemia - this risk is more pronounced, however, when acarbose is used in conjunction with other antidiabetic therapies (e.g. sulfonylureas, insulin).[L31633] Patients maintained on acarbose in addition to other antidiabetic agents should be aware of the symptoms and risks of hypoglycemia and how to treat hypoglycemic episodes. There have been rare post-marketing reports of the development of pneumatosis cystoides intestinalis following treatment with alpha-glucosidase inhibitors - patients experiencing significant diarrhea/constipation, mucus discharge, and/or rectal bleeding should be investigated and, if pneumatosis cystoides intestinalis is suspected, should discontinue therapy.[L31628]",
+    "mechanism-of-action": "Alpha-glucosidase enzymes are located in the brush-border of the intestinal mucosa and serve to metabolize oligo-, tri-, and disaccharides (e.g. sucrose) into smaller monosaccharides (e.g. glucose, fructose) which are more readily absorbed.[A37868] These work in conjunction with pancreatic alpha-amylase, an enzyme found in the intestinal lumen that hydrolyzes complex starches to oligosaccharides.[L31633]\r\n\r\nAcarbose is a complex oligosaccharide that competitively and reversibly inhibits both pancreatic alpha-amylase and membrane-bound alpha-glucosidases - of the alpha-glucosidases, inhibitory potency appears to follow a rank order of glucoamylase > sucrase > maltase > isomaltase.[L31633] By preventing the metabolism and subsequent absorption of dietary carbohydrates, acarbose reduces postprandial blood glucose and insulin levels.",
+    "absorption": "The oral bioavailability of acarbose is extremely minimal, with less than 1-2% of orally administered parent drug reaching the systemic circulation. Despite this, approximately 35% of the total radioactivity from a radiolabeled and orally administered dose of acarbose reaches the systemic circulation, with peak plasma radioactivity occurring 14-24 hours after dosing - this delay is likely reflective of metabolite absorption rather than absorption of the parent drug. As acarbose is intended to work within the gut, its minimal degree of oral bioavailability is therapeutically desirable.[L31628]",
+    "metabolism": "Acarbose is extensively metabolized within the gastrointestinal tract, primarily by intestinal bacteria and to a lesser extent by digestive enzymes, into at least 13 identified metabolites. Approximately 1/3 of these metabolites are absorbed into the circulation where they are subsequently renally excreted. The major metabolites appear to be methyl, sulfate, and glucuronide conjugates of 4-methylpyrogallol.[L31628]\r\n\r\nOnly one metabolite - resulting from the cleavage of a glucose molecule from acarbose - has been identified as having alpha-glucosidase inhibitory activity.[L31628]",
+    "toxicity": "The symptoms of acarbose overdose are likely to be consistent with its adverse effect profile and may therefore include significant gastrointestinal (GI) symptoms (flatulence, distension, etc), although an overdose on an empty stomach (i.e. when not co-administered with food) is less likely to result in these GI symptoms.[L31628] In the event of an overdose, patients should be instructed to avoid carbohydrate-containing foods for 4-6 hours following administration as these can precipitate the aforementioned GI symptoms.[L31628]",
+    "targets": [
+        [
+            "MGAM",
+            "Maltase-glucoamylase, intestinal",
+            "Humans"
+        ],
+        [
+            "SI",
+            "Sucrase-isomaltase, intestinal",
+            "Humans"
+        ],
+        [
+            "AMY2A",
+            "Pancreatic alpha-amylase",
+            "Humans"
+        ],
+        [
+            "GAA",
+            "Lysosomal alpha-glucosidase",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

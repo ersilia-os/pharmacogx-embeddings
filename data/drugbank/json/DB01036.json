@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA164746757",
+    "drugbank_id": "DB01036",
+    "names": [
+        "Tolterodine",
+        "Detrusitol"
+    ],
+    "description": "Tolterodine is an antimuscarinic drug that is used to treat urinary incontinence. Tolterodine acts on M2 and M3 subtypes of muscarinic receptors.",
+    "indication": "For the treatment of overactive bladder (with symptoms of urinary frequency, urgency, or urge incontinence).",
+    "pharmacodynamics": "Tolterodine is a competitive muscarinic receptor antagonist. Both urinary bladder contraction and salivation are mediated via cholinergic muscarinic receptors. After oral administration, tolterodine is metabolized in the liver, resulting in the formation of the 5-hydroxymethyl derivative, a major pharmacologically active metabolite. The 5-hydroxymethyl metabolite, which exhibits an antimuscarinic activity similar to that of tolterodine, contributes significantly to the therapeutic effect. Both tolterodine and the 5-hydroxymethyl metabolite exhibit a high specificity for muscarinic receptors, since both show negligible activity or affinity for other neurotransmitter receptors and other potential cellular targets, such as calcium channels. Tolterodine has a pronounced effect on bladder function. The main effects of tolterodine are an increase in residual urine, reflecting an incomplete emptying of the bladder, and a decrease in detrusor pressure, consistent with an antimuscarinic action on the lower urinary tract.",
+    "mechanism-of-action": "Both tolterodine and its active metabolite, 5-hydroxymethyltolterodine, act as competitive antagonists at muscarinic receptors. This antagonism results in inhibition of bladder contraction, decrease in detrusor pressure, and an incomplete emptying of the bladder.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

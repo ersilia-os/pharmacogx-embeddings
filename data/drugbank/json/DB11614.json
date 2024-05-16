@@ -1,0 +1,51 @@
+{
+    "pharmgkb_id": "PA165107052",
+    "drugbank_id": "DB11614",
+    "names": [
+        "Rupatadine"
+    ],
+    "description": "Rupatadine is a dual histamine H1 receptor and platelet activating factor receptor antagonist that is used for symptomatic relief in seasonal and perennial rhinitis as well as chronic spontaneous urticaria. It was approved for marketing in Canada under the tradename Rupall and comes in tablet formulation for adult use and liquid formulation for pediatric use.",
+    "indication": "For the symptomatic relief of nasal and non-nasal symptoms of seasonal allergic rhinitis and perennial allergic rhinitis in patients 2 years of age and older [FDA Label]. Also used for the symptomatic relief of chronic spontaneous urticaria in patients 2 years of age and older.",
+    "pharmacodynamics": "Rupatadine is an anti allergenic and acts to reduce allergic symptoms like urticaria, rhinorrhea, sneezing and itching [FDA Label].",
+    "mechanism-of-action": "Rupatadine is a dual histamine H1 receptor and platelet activating (PAF) receptor antagonist [A19779] [FDA Label]. During allergic response mast cells undergo degranulation, releasing histamine and other substances [A19780]. Histamine acts on H1 receptors to produce symptoms of nasal blockage, rhinorhea, itching, and swelling. PAF is produced from phospholipids cleaved by phospholipase A2. It acts to produce vascular leakage which contributes to rhinorhea and nasal blockage. By blocking both the H1 receptor and PAF receptor, rupatidine prevents these mediators from exerting their effects and so reduces the severity of allergic symptoms.",
+    "absorption": "Rupatidine is rapidly absorbed with a Tmax of 1 h [FDA Label]. Administration with a high fat meal increases exposure by 23% and increases Tmax to 2 h.",
+    "metabolism": "Rupatadine is metabolized by oxidation mediated primarily by CYP3A4 [FDA Label]. CYP2C9, CYP2C19, and CYP2D6 are also involved to a lesser extent. The metabolites desloratidine and hydroxylated forms of desloratidine retain some activity as H1 receptor antagonists.",
+    "toxicity": null,
+    "targets": [
+        [
+            "PTAFR",
+            "Platelet-activating factor receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

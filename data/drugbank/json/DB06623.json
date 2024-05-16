@@ -1,0 +1,31 @@
+{
+    "pharmgkb_id": "PA166152829",
+    "drugbank_id": "DB06623",
+    "names": [
+        "Flupirtine",
+        "Awegal",
+        "Effirma",
+        "Efiret",
+        "Katadolon",
+        "Metanor",
+        "Trancolong"
+    ],
+    "description": "Flupirtine is a pyridine derivative that is in clinical use as a nonopioid analgesic. It was approved for the treatment of pain in 1984 in Europe. It is not approved for use in the U.S. or Canada, but is currently in phase II trials for the treatment of fibromyalgia.",
+    "indication": "Investigated for use/treatment in fibromyalgia.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Flupirtine upregulates Bcl-2, increases glutathione levels, activates an inwardly rectifying potassium channel, and delays loss of intermitochondrial membrane calcium retention capacity. Flupirtine acts like a NMDA receptor antagonists, but does not bind to the receptor. One study concluded that the discriminative effects of flupirtine are neither of opioid nor of alpha-1 adrenergic type, but are primarily mediated through alpha-2 adrenergic mechanisms [PMID: 2901483].",
+    "absorption": "Bioavailability: 90% (oral), 70% (rectal)",
+    "metabolism": "Hepatic to 2-amino-3-acetylamino-6-(para-fluorobenzylamino) pyridine (which has 20-30% the analgesic potential of its parent compound) and Para-fluorohippuric acid.",
+    "toxicity": "Oral, mouse: LD50 = 300 mg/kg; Oral, rabbit: LD50 = 3200 mg/kg; Oral, rat: LD50 = 980 mg/kg.",
+    "targets": [
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

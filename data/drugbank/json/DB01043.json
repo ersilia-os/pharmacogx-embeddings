@@ -1,0 +1,220 @@
+{
+    "pharmgkb_id": "PA10364",
+    "drugbank_id": "DB01043",
+    "names": [
+        "Memantine",
+        "Abixa",
+        "Akatinol",
+        "Memox"
+    ],
+    "description": "Initially approved by the FDA in 2013, memantine is an N-methyl-D-aspartate (NMDA) receptor antagonist used in the management of Alzheimer's Disease (AD).  It is different from many other Alzheimer's Disease medications, as it works by a different mechanism than the cholinesterase enzyme inhibitors normally employed in the management of Alzheimer's disease [A1639].  Memantine blocks the effects of glutamate, a neurotransmitter in the brain that leads to neuronal excitability and excessive stimulation in Alzheimer's Disease [T556].\r\n\r\nIn 2010, it was estimated that 36 million people worldwide live with Alzheimer's Disease. In 2013, this number increased to 44 million.  Almost doubling every 20 years, the prevalence of Alzheimer's Disease is predicted to reach 66 million by 2030 and to 115 million by 2050 [F4366]. In December 2013, the G8 dementia summit concluded that dementia should be considered a global priority with the objective of developing a cure or a disease-modifying therapy by the year 2025 [L5953, F4366].",
+    "indication": "Memantine is used to manage moderate to severe Alzheimer's dementia [FDA label]. \r\n\r\nA more recent systemic review and meta-analysis [A177106] indicates that memantine is beneficial as a first line drug for the treatment of Alzheimer's dementia.  Cholinesterase inhibitors may be added to memantine for further beneficial effects on behavioral symptoms and other symptoms of dementia [A177106].",
+    "pharmacodynamics": "**General effects**\r\n\r\nThis drug inhibits calcium influx into cells that is normally caused by chronic NMDA receptor activation by glutamate [A1640]. This leads to the improvement of Alzheimer's dementia symptoms, demonstrated by increased cognition and other beneficial central nervous system effects [A1640]. \r\n\r\n**Effects on neuroplasticity**\r\n\r\nLike other NMDA receptor antagonists, memantine at high doses can reduce neuronal synaptic plasticity that is involved in learning and memory processes. At lower concentrations, which are normally used in the clinical setting, memantine can enhance neuronal synaptic plasticity in the brain, improve memory, and act as a neuroprotectant against the destruction of neurons caused by excitatory neurotransmitters [A1639]. \r\n\r\n**Effect on various receptors**\r\n\r\nMemantine has demonstrated minimal activity for GABA, benzodiazepine, dopamine, adrenergic, histamine, and glycine receptors, as well as voltage-dependent Ca2+, Na+ or K+ channels. This drug has shown antagonist activity at the 5HT3 receptors. Laboratory studies suggest that memantine does not affect the reversible inhibition of the acetylcholinesterase normally caused by donepezil, galantamine, or tacrine [FDA label].",
+    "mechanism-of-action": "Continuous activation of the N-methyl-D-aspartate (NMDA) receptors in the central nervous system caused by _glutamate_ is thought to cause some of the Alzheimer's disease symptoms. This overactivation is thought to contribute to neurotoxicity due to the excitatory properties of glutamate [T556]. The pharmacological effect of memantine likely occurs via the drug's behavior as an uncompetitive (open-channel) NMDA receptor antagonist, preventing glutamate action on this receptor.  Memantine has a preference for the NMDA receptor-operated cation channels. Despite these antagonist effects, memantine has not been proven to prevent or retard the neurodegeneration seen in patients diagnosed with Alzheimer\u2019s disease [FDA label].",
+    "absorption": "After an oral dose, memantine is well absorbed. Its peak drug concentrations are attained in about 3-7 hours. Memantine shows linear pharmacokinetics when given at normal therapeutic doses. This drug can be taken without regard to food, as there is no effect of food on memantine absorption [FDA label]. ",
+    "metabolism": "This drug is partially metabolized in the liver. The hepatic CYP450 enzyme system does not majorly contribute to the metabolism of this drug [FDA label]. ",
+    "toxicity": "**LD50**\r\n\r\nOral LD50, mouse 437-498 mg/kg [F4375]\r\nOral LD50, rat 328-370 mg/kg [F4375]\r\n\r\n**Carcinogenesis, Mutagenesis, Impairment of Fertility**\r\n\r\nNo evidence of carcinogenicity was seen in mouse and rat models administered memantine at doses equivalent to supratherapeutic human doses [FDA label]. Additionally, no genotoxic potential was noted when a battery of assays was performed.  No effects on fertility or reproductive performance were noted in rats given to 18 mg/kg/day (equivalent to 9 times the maximum recommended human dose) orally from 14 days preceding mating through gestation and lactation in females, or for 60 preceding mating activity in males animals [FDA label].\r\n\r\n**Use in pregnancy**\r\n\r\nThis drug is considered a pregnancy category B drug, meaning no sufficiently controlled and adequate studies of memantine in pregnant women have been performed. This drug should be taken during pregnancy only if the potential benefit justifies the possible fetal risk [FDA label]. \r\n\r\n**Use in nursing**\r\n\r\nIt is unknown whether memantine is excreted in human milk. Due to that fact that many drugs are found excreted in human milk, caution should be observed when this drug is taken by a nursing mother [FDA label]. ",
+    "targets": [
+        [
+            "GRIN1",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2A",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2B",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2C",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2D",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3A",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3B",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "GRIN1",
+            "Glutamate receptor ionotropic, NMDA 1",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GLRA1",
+            "Glycine receptors",
+            "Humans"
+        ],
+        [
+            "GLRA2",
+            "Glycine receptors",
+            "Humans"
+        ],
+        [
+            "GLRA3",
+            "Glycine receptors",
+            "Humans"
+        ],
+        [
+            "GLRA4",
+            "Glycine receptors",
+            "Humans"
+        ],
+        [
+            "GLRB",
+            "Glycine receptors",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC9A1",
+            "Sodium/hydrogen exchanger 1",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

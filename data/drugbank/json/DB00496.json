@@ -1,0 +1,58 @@
+{
+    "pharmgkb_id": "PA164774901",
+    "drugbank_id": "DB00496",
+    "names": [
+        "Darifenacin",
+        "Emselex",
+        "Xelena"
+    ],
+    "description": "Darifenacin (Enablex\u00ae, Novartis) is a medication used to treat urinary incontinence.\r\n\r\nDarifenacin blocks M3 muscarinic acetylcholine receptors, which mediate bladder muscle contractions. This block reduces the urgency to urinate and so it should not be used in people with urinary retention.\r\n\r\nIt is unknown if M3 receptor selectivity is clinically advantageous in overactive bladder syndrome treatments.",
+    "indication": "For the treatment of overactive bladder with symptoms of urge urinary incontinence, urgency and frequency.",
+    "pharmacodynamics": "Darifenacin is a competitive muscarinic receptor antagonist. <i>In vitro</i> studies using human recombinant muscarinic receptor subtypes show that darifenacin has greater affinity for the M3 receptor than for the other known muscarinic receptors (9 and 12-fold greater affinity for M3 compared to M1 and M5, respectively, and 59-fold greater affinity for M3 compared to both M2 and M4). Muscarinic receptors play an important role in several major cholinergically mediated functions, including contractions of the urinary bladder smooth muscle and stimulation of salivary secretion. Adverse drug effects such as dry mouth, constipation and abnormal vision may be mediated through effects on M3 receptors in these organs.",
+    "mechanism-of-action": "Darifenacin selectively antagonizes the muscarinic M3 receptor. M3 receptors are involved in contraction of human bladder and gastrointestinal smooth muscle, saliva production, and iris sphincter function.",
+    "absorption": "The mean oral bioavailability at steady state is estimated to be 15% and 19% for 7.5 mg and 15 mg tablets, respectively.",
+    "metabolism": "Hepatic. Primarily mediated by the cytochrome P450 enzymes CYP2D6 and CYP3A4.",
+    "toxicity": "Overdosage can potentially result in severe central anticholinergic effects.",
+    "targets": [
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

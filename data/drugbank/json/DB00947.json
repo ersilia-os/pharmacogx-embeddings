@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA164747170",
+    "drugbank_id": "DB00947",
+    "names": [
+        "Fulvestrant"
+    ],
+    "description": "Fulvestrant is a drug treatment of hormone receptor (HR)-positive metastatic breast cancer in post-menopausal women with disease progression following anti-estrogen therapy. It is an estrogen receptor antagonist with no agonist effects, which works both by down-regulating and by degrading the estrogen receptor. While it is used as monotherapy for the treatment of breast cancers, it is also used in combination with [alpelisib] for the treatment of HR-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer",
+    "indication": "For the treatment of hormone receptor positive metastatic breast cancer in postmenopausal women with disease progression following anti-estrogen therapy, as monotherapy or in combination with other antineoplastic agents.",
+    "pharmacodynamics": "Fulvestrant for intramuscular administration is an estrogen receptor antagonist without known agonist effects.",
+    "mechanism-of-action": "Fulvestrant competitively and reversibly binds to estrogen receptors present in cancer cells and achieves its anti-estrogen effects through two separate mechanisms. First, fulvestrant binds to the receptors and downregulates them so that estrogen is no longer able to bind to these receptors. Second, fulvestrant degrades the estrogen receptors to which it is bound. Both of these mechanisms inhibit the growth of tamoxifen-resistant as well as estrogen-sensitive human breast cancer cell lines.",
+    "absorption": null,
+    "metabolism": "Metabolism of fulvestrant appears to involve combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids, including oxidation, aromatic hydroxylation, conjugation with glucuronic acid and/or sulphate at the 2, 3 and 17 positions of the steroid nucleus, and oxidation of the side chain sulphoxide. Identified metabolites are either less active or exhibit similar activity to fulvestrant in antiestrogen models. Studies using human liver preparations and recombinant human enzymes indicate that cytochrome P-450 3A4 (CYP 3A4) is the only P-450 isoenzyme involved in the oxidation of fulvestrant; however, the relative contribution of P-450 and non-P-450 routes in vivo is unknown.",
+    "toxicity": "There is no clinical experience with overdosage in humans.",
+    "targets": [
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

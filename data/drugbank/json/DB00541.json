@@ -1,0 +1,117 @@
+{
+    "pharmgkb_id": "PA451879",
+    "drugbank_id": "DB00541",
+    "names": [
+        "Vincristine",
+        "Alcavixin",
+        "Alcrist",
+        "Citomid",
+        "Cytocristin",
+        "Oncocristin",
+        "Oncovin",
+        "Oncrivin",
+        "Sindovin",
+        "Tevacristin",
+        "Vinces",
+        "Vincrisin",
+        "Vincristin",
+        "Vincrisul",
+        "Vinlon",
+        "Vinracine"
+    ],
+    "description": "Vincristine is an antitumor vinca alkaloid isolated from Vinca Rosea. It is marketed under several brand names, many of which have different formulations such as Marqibo (liposomal injection) and Vincasar. Vincristine is indicated for the treatment of acute leukaemia, malignant lymphoma, Hodgkin's disease, acute erythraemia, and acute panmyelosis. vincristine sulfate is often chosen as part of polychemotherapy because of lack of significant bone\u2013marrow suppression (at recommended doses) and of unique clinical toxicity (neuropathy).",
+    "indication": "Treatment of acute lymphocytic leukemia (ALL), Hodgkin lymphoma, non-Hodgkin lymphomas, Wilms' tumor, neuroblastoma, rhabdomyosarcoma. Liposomal vincristine is indicated for the treatment of relapsed Philadelphia chromosome-negative (Ph-) acute lymphoblastic leukemia (ALL). ",
+    "pharmacodynamics": "Vincristine is a vinca alkaloid antineoplastic agent used as a treatment for various cancers including breast cancer, Hodgkin's disease, Kaposi's sarcoma, and testicular cancer. The vinca alkaloids are structurally similar compounds comprised of 2 multiringed units, vindoline and catharanthine. The vinca alkaloids have become clinically useful since the discovery of their antitumour properties in 1959. Initially, extracts of the periwinkle plant (Catharanthus roseus) were investigated because of putative hypoglycemic properties, but were noted to cause marrow suppression in rats and antileukemic effects <i>in vitro</i>. Vincristine binds to the microtubular proteins of the mitotic spindle, leading to crystallization of the microtubule and mitotic arrest or cell death. Vincristine has some immunosuppressant effect. The vinca alkaloids are considered to be cell cycle phase-specific.",
+    "mechanism-of-action": "The antitumor activity of Vincristine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Like other vinca alkaloids, Vincristine may also interfere with: 1) amino acid, cyclic AMP, and glutathione metabolism, 2) calmodulin-dependent Ca<sup>2+</sup>-transport ATPase activity, 3) cellular respiration, and 4) nucleic acid and lipid biosynthesis.",
+    "absorption": null,
+    "metabolism": "Hepatic. Cytochrome P450 isoenzymes of the CYP3A subfamily facilitate the metabolism of vincristine. ",
+    "toxicity": "IVN-RAT LD<sub>50</sub> 1300 mg/kg; IPR-MUS LD<sub>50</sub> 5.2 mg/kg. Marqibo\u00ae must only be administered IV because it is fatal if administered by other routes. Marqibo\u00ae also has different dosing than vincristine sulphate injection, so attention is needed to prevent overdoses. The most clinically significant adverse effect of vincristine is neurotoxicity.  ",
+    "targets": [
+        [
+            "TUBB",
+            "Tubulin beta chain",
+            "Humans"
+        ],
+        [
+            "TUBA4A",
+            "Tubulin alpha-4A chain",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCC10",
+            "Multidrug resistance-associated protein 7",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "RALBP1",
+            "RalA-binding protein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

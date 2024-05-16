@@ -1,0 +1,45 @@
+{
+    "pharmgkb_id": "nan-237fff83-c685-4caf-8d2a-f4cf7ea74cd5",
+    "drugbank_id": "DB13941",
+    "names": [
+        "Piperaquine"
+    ],
+    "description": "Piperaquine is an antimalarial agent first synthesized in the 1960's and used throughout China [A31550]. Its use declined in the 1980's as piperaquine resistant strains of *Plasmodium falciparum* appeared and artemisinin derivatives became available. It has come back into use in combination with the artemisinin derivative [DB11638] as part of the combination product Eurartesim [FDA Label]. Eurartesim was first authorized for market by the European Medicines Agency in October 2011.",
+    "indication": "For the treatment of uncomplicated *Plasmodium falciparum* infection in adults, children, and infants aged 6 months and up weighing over 5 kg [FDA Label]. Used in combination with [DB11638].",
+    "pharmacodynamics": "Piperaquine inhibits the P. Falciparum parasite's haem detoxification pathway [L1149].",
+    "mechanism-of-action": "The mechanism of piperaquine inhibition of the haem detoxification pathway is unknown but is expected to be similar to that of [DB00608].",
+    "absorption": "Piperaquine is slowly absorbed and exhibits multiple peaks in its plasma concentration curve suggestive of enterohepatic recycling occurring alongside the absorption process [L1149]. Due to this complication there is no discreet value for bioavailability but piperaquine is highly absorbed into systemic circulation. When taken with food, Cmax increases by 217% and mean exposure increases by 177%. Tmax is not affected by food and remains around 5 h [FDA Label]. Piperaquine has been observed to accumulate more in females to a degree of 30-50% more than males [FDA Label]. It also collects in red blood cells similar to [DB11638].",
+    "metabolism": "Piperaquine undergoes N-dealkylation, separating its aliphatic bridge from one of the nitrogen-containing rings [A31891]. The resulting aldehyde is then oxidized to a carboxylic acid to form metabolite 1 (M1). The same nitrogen-containing rings can also undergo hydroxylation at one of two sites to form M3 or M4. M2 is formed via N-oxidation of one of the nitrogens in the quinoline groups at either side of the molecule. M5 results when both of these nitrogens are oxidized. M1 and M2 are the major metabolism products [FDA Label]. Each of these metabolites were observed in the urine.",
+    "toxicity": "Studies of piperaquine in monkeys and dogs have shown some hepatotoxicity and reversible depression in white blood cells and neutrophils [FDA Label]. Additional observations include infiltration of macrophages with intracytoplasmic basophilic granular material consistent with phospholipidosis and degenerative lesions in numerous organs and tissues. These effects were seen at exposure levels similar to clinical dosing in humans. At high doses, piperaquine can interfere with cardiac conduction and produce effects on blood pressure. Mild phototoxicity has been observed with piperaquine in rats exposed to UV light.",
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

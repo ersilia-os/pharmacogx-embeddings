@@ -1,0 +1,98 @@
+{
+    "pharmgkb_id": "PA166153471",
+    "drugbank_id": "DB12001",
+    "names": [
+        "Abemaciclib"
+    ],
+    "description": "Abemaciclib is an antitumor agent and dual inhibitor of cyclin-dependent kinases 4 (CDK4) and 6 (CDK6) that are involved in the cell cycle and promotion of cancer cell growth in case of unregulated activity. On September 28, 2017, FDA granted approval of abemaciclib treatment under the market name Verzenio for the treatment of HR-positive and HER2-negative advanced or metastatic breast cancer that has progressed after unsuccessful endocrine therapy. It is either given alone in patients who has undergone endocrine therapy and chemotherapy after the metastasis of cancer, or in combination with [DB00947]. Following oral treatment in patients with HR-positive, HER2-negative breast cancer, abemaciclib demonstrated increased progression-free survival rates and objective response rates. Abemaciclib has been used in trials studying the treatment of melanoma, lymphoma, neoplasm, solid tumor, and glioblastoma.",
+    "indication": "* Indicated in combination with fulvestrant for the treatment of women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer with disease progression following endocrine therapy. \r\n\r\n* Inidicated as monotherapy for the treatment of adult patients with HR-positive, HER2-negative advanced or metastatic breast cancer with disease progression following endocrine therapy and prior chemotherapy in the metastatic setting. ",
+    "pharmacodynamics": "In combination with fulvestrant, the progression-free survival for patients with HR-positive, HER2-negative breast cancer was 16.4 months compared to 9.3 months for patients taking a placebo with fulvestrant. As a monotherapy, 19.7% of patients taking abemaciclib achieved complete or partial shrinkage of their tumors for a median 8.6 months after treatment [L1003]. Abemaciclib induces cell cycle arrest and exerts an antitumor activity in human tumor xenograft models [A27281]. \r\n\r\nIn patient investigations and a healthy volunteer study, abemaciclib is not shown to induce any clinically significant changes in the QTc interval [FDA Label]. ",
+    "mechanism-of-action": "Regulation of cell cycle is crucial in maintaining proper cell growth; dysregulated cell cycle signalling pathway is a key component in inducing hyperproliferation of cells and tumor formation in various cancers. G1 to S phase cell cycle progression, or transition through the G1 restriction point (R), is promoted by the retinoblastoma tumor suppressor protein (Rb)-mediated pathway. Activation of Rb-mediated pathway requires the interaction of Cyclin-dependent kinases (CDK) 4 and 6 with D-type cyclins, which drives the formation of active CDK4/CDK6 and subsequent phosphorylation of Rb [A27281, A27282]. \r\n\r\nRb is a tumor suppressant protein that inhibits proliferation through binding to and suppressing the activity of the E2F family of transcription factors [A27281]. However, phosphorylation of Rb relieves suppression of E2F to allow expression of genes required for passage through the restriction point [A27281]. This leads to increased expression of downstream signalling molecules and activity of protein kinases that promote the cell cycle progression and initiation of DNA replication. Phosphorylation of Rb and other proteins by CDK4/6 additionally leads to transcription of genes involved in cell cycle-independent activities including signal transduction, DNA repair transcriptional control, and mRNA processing [A27281]. \r\n\r\nAbemaciclib selectively inhibits CDK4 and CDK6 with low nanomolar potency, inhibits Rb phosphorylation resulting in a G1 arrest and inhibition of proliferation, and its activity is specific for Rb-proficient cells [A27281]. Unlike other CDK inhibitors such as [DB09073] and [DB11730], abemaciclib exhibits greater selectivity for CDK4 compared to CDK6 [A27282]. ",
+    "absorption": "The plasma concentration of the drug increases in a dose-proportional manner. Following a single oral dose administration of 200 mg abemaciclib, the mean peak plasma concentration (Cmax) of 158 ng/mL is reached after 6 hours. The median time to reach maximum plasma concentration (Tmax) ranges from 4-6 hours following an oral administration of abemaciclib over a range of 50\u2013275 mg [A27282], but may range up to 24 hours [FDA Label]. The absolute bioavailability of the drug is reported to be 45% [FDA Label]. ",
+    "metabolism": "Abemaciclib mainly undergoes hepatic metabolism mediated by CYP3A4. The major metabolite formed is N-desethylabemaciclib (M2), while other metabolites hydroxyabemaciclib (M20), hydroxy-N-desethylabemaciclib (M18), and an oxidative metabolite (M1) are also formed. M2, M18, and M20 are equipotent to abemaciclib and their AUCs accounted for 25%, 13%, and 26% of the total circulating analytes in plasma, respectively [FDA Label].",
+    "toxicity": "According to the bacterial reverse mutation (Ames) assay, abemaciclib and its active metbolites M2 and M20 did not display mutagenic properties. Abemaciclib was not clastogenic *in vitro* rat bone marrow micronucleus assay. Repeat-dose toxicity studies were performed to assess the effects of abemaciclib in testis, epididymis, prostate, and seminal vesicle at doses \u226510 mg/kg/day in rats and \u22650.3 mg/kg/day in dogs which exceed the recommeded therapeutic doses in humans. The findings included decreased organ weights, intratubular cellular debris, hypospermia, tubular distillation, atrophy and degeneration or necrosis [FDA Label]. ",
+    "targets": [
+        [
+            "CDK4",
+            "Cyclin-dependent kinase 4",
+            "Humans"
+        ],
+        [
+            "CDK6",
+            "Cyclin-dependent kinase 6",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

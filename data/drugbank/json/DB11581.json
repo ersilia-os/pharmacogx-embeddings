@@ -1,0 +1,47 @@
+{
+    "pharmgkb_id": "PA166153473",
+    "drugbank_id": "DB11581",
+    "names": [
+        "Venetoclax"
+    ],
+    "description": "Venetoclax is a BCL-2 inhibitor that was initially approved by the FDA in April 2016 [FDA label]. Proteins in the B cell CLL/lymphoma 2 (BCL-2) family are important regulators of the apoptotic (programmed cell death) process [A18565], [A18566].  Venetoclax is used to treat chronic lymphocytic leukemia (CLL) and certain types of small lymphocytic lymphoma [FDA label]. CLL is the most prevalent leukemia diagnosed in Western countries [A40022]. Venetoclax was developed through reverse engineering of the BCL-2 protein family inhibitor, navitoclax [A40022]. Venetoclax is approximately 10 times more potent than navitoclax with regard to induction of apoptosis in CLL cells [A40022]. A new indication was approved in 2018 for the treatment patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL), with or without 17p deletion, who have received at least one prior therapy [FDA label].  Previously, this drug was indicated only for patients with 17p gene deletion [F2130].",
+    "indication": "Venetoclax is indicated for the treatment of adult patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL). It is also used in combination with azacitidine, or decitabine, or low-dose cytarabine for the treatment of newly diagnosed acute myeloid leukemia (AML) in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy.[L39880]",
+    "pharmacodynamics": "Venetoclax induces rapid and potent onset apoptosis of CLL cells, powerful enough to act within 24h and to lead to tumor lysis syndrome  [A40020], [FDA label], [A18566]. Selective targeting of BCL2 with venetoclax has demonstrated a manageable safety profile and has been shown to induce significant response in patients with relapsed CLL (chronic lymphocytic leukemia) or SLL (small lymphocytic leukemia), including patients with poor prognostic features [A40021].  This drug is not expected to have a significant impact on the cardiac QT interval [FDA label]. Venetoclax has demonstrated efficacy in various types of lymphoid malignancies, including relapsed/ refractory CLL harboring deletion 17p, with an overall response rate of approximately 80% [A40022].",
+    "mechanism-of-action": "Proteins in the B cell CLL/lymphoma 2 (BCL-2) family are necessary regulators of the apoptotic (anti-cell programmed death) process. This family comprises proapoptotic and prosurvival proteins for various cells. Cancer cells evade apoptosis by inhibiting programmed cell death (apoptosis). The therapeutic potential of directly inhibiting prosurvival proteins was unveiled with the development of navitoclax, a selective inhibitor of both BCL-2 and BCL-2-like 1 (BCL-X(L)), which has demonstrated clinical efficacy in some BCL-2-dependent hematological cancers [A18565]. Selective inhibition of BCL-2 by venetoclax, sparing BCL-xL enables therapeutic induction of apoptosis without the negative effect of thrombocytopenia [A40022], [A18565].   Venetoclax helps restore the process of apoptosis by binding directly to the BCL-2 protein, displacing pro-apoptotic proteins, leading to mitochondrial outer membrane permeabilization and the activation of caspase enzymes. In nonclinical studies, venetoclax has shown cytotoxic activity in tumor cells that overexpress BCL-2 [FDA label].",
+    "absorption": "Following several oral administrations after a meal, the maximum plasma concentration of venetoclax was reached 5-8 hours after the dose [A18567]. Venetoclax steady state AUC (area under the curve) increased proportionally over the dose range of 150-800 mg. After a low-fat meal, venetoclax mean (\u00b1 standard deviation) steady-state Cmax was 2.1 \u00b1 1.1 \u03bcg/mL and AUC0-24 was 32.8 \u00b1 16.9 \u03bcg\u2022h/mL at the 400 mg once daily dose [FDA label]. \r\n\r\nWhen compared with the fasted state, venetoclax exposure increased by 3.4 times when ingested with a low-fat meal and 5.2 times with a high-fat meal. When comparing low versus high fat, the Cmax and AUC were both increased by 50% when ingested with a high-fat meal. The FDA label indicataes that venetoclax should be taken with food [A40022], [FDA label].",
+    "metabolism": "In vitro studies demonstrated that venetoclax is predominantly metabolized as a substrate of CYP3A4/5 [FDA label], [A18568], [F2124]. ",
+    "toxicity": "**Acute toxicity**: oral toxicity (LD50) >2001 mg/kg (mouse) [L4816].\r\n\r\nVenetoclax may cause embryo-fetal harm when administered to a pregnant woman. Patients should avoid pregnancy during treatment. A risk to human male fertility exists based on the results of testicular toxicity (germ cell loss) seen in dogs at exposures as low as 0.5 times the human AUC exposure at the recommended dose [FDA label].\r\n\r\nCarcinogenicity studies have not yet been performed with venetoclax [FDA label].\r\n\r\nVenetoclax was not shown to be mutagenic in an in vitro bacterial mutagenicity (Ames) assay, did not induce aberrations in an in vitro chromosome aberration assay with human peripheral blood lymphocytes. It was not clastogenic in an in vivo mouse bone marrow micronucleus assay at doses up to 835 mg/kg. The M27 metabolite was negative for genotoxic activity during both in vitro Ames and chromosome aberration assays [FDA label].",
+    "targets": [
+        [
+            "BCL2",
+            "Apoptosis regulator Bcl-2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

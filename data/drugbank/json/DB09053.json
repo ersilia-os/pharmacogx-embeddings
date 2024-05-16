@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA166121346",
+    "drugbank_id": "DB09053",
+    "names": [
+        "Ibrutinib"
+    ],
+    "description": "Ibrutinib is a small molecule that acts as an irreversible potent inhibitor of Burton's tyrosine kinase. It is designated as a targeted covalent drug and presented as a promising activity in B-cell malignancies in clinical trials.[A32299] Ibrutinib was developed by Pharmacyclics Inc and was first approved by the FDA in November 2013 for the treatment of mantle cell lymphoma (MCL) under accelerated approval;[L12228] however, in April 2023, the drug manufacturer withdrew the accelerated approvals for ibrutinib in the US.[L45894]\r\n\r\nIbrutinib was approved by the EMA in October 2014 [L45884] and by Health Canada in November 2014.[L45889] It is currently approved for the treatment of various conditions, such as chronic lymphocytic leukemia (CLL), Waldenstr\u00f6m's Macroglobulinemia, and chronic graft versus host disease (cGVHD) in August 2017.[L12228] Notably, ibrutinib became the first FDA-approved cGVHD treatment for children in August 2017.[L43020]",
+    "indication": "Ibrutinib is indicated for the treatment of the following conditions. \r\n\r\n**Chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL)**\r\n\r\n- In the US, it is used in adult patients with or without 17p deletion.[L42980, L45884] \r\n- In Europe and Canada, it is used as a single agent or combined with [rituximab], [obinutuzumab], or [venetoclax] in previously untreated CLL patients. In patients who have received at least one prior therapy, it is used as a single agent or in combination with [bendamustine] and [rituximab].[L45884, L45889]\r\n\r\n**Waldenstr\u00f6m's macroglobulinemia**\r\n\r\n- It is used alone [L42980, L45884, L45889] or with [rituximab].[L45884, L45889]\r\n- In Europe, it is approved for patients who have received at least one prior therapy or in first-line treatment for patients unsuitable for chemoimmunotherapy.[L45884]\r\n\r\n**Chronic graft-versus-host disease (cGVHD)**\r\n\r\n- In the US, it is approved in patients aged one year and older after the prior failure of one or more lines of systemic therapy.[L42980]\r\n- In Canada, it is approved in adults with steroid-dependent or refractory cGVHD.[L45889]\r\n\r\n**Mantle cell lymphoma (MCL)**\r\n\r\n- In Europe and Canada, ibrutinib is also indicated to treat relapsed or refractory MCL in adults.[L45884, L45889]\r\n\r\n**Marginal zone lymphoma (MZL)**\r\n\r\n- In Canada, it is approved for adults who require systemic therapy and have received at least one prior anti-CD20-based therapy.[L45889]",
+    "pharmacodynamics": "In vitro studies have shown an induction of CLL cell apoptosis even in presence of prosurvival factors. It has also been reported an inhibition of CLL cell survival and proliferation as well as an impaired in cell migration and a reduction in the secretion of chemokines such as CCL3 and CCL4. The latter effect has been shown to produce regression in xenograft mouse models.[A32306]\r\n\r\nClinical studies for relapsed/refractory CLL in phase I and II showed an approximate 71% of overall response rate.[A32308, A32309]. In the case of relapsed/refractory mantle cell lymphoma, approximately 70% of the tested patients presented a partial or complete response.[A32308, A32310]. In clinical trials for relapsed/refractory diffuse large B-cell lymphoma, a partial response was found in between 15-20% of the patients studied; while for patients with relapsed/refractory Waldenstrom's macroglobulinemia, a partial response was observed in over 75% of the patients tested. Finally, for patients with relapsed/refractory follicular lymphoma, a partial to complete response was obtained in approximately 54% of the patients.[A32308]",
+    "mechanism-of-action": "Ibrutinib is an inhibitor of Bruton\u2019s tyrosine kinase (BTK). It forms a covalent bond with a cysteine residue in the active site of BTK (Cys481), leading to its inhibition. The inhibition of BTK plays a role in the B-cell receptor signaling and thus, the presence of ibrutinib prevents the phosphorylation of downstream substrates such as PLC-\u03b3.[A32306] ",
+    "absorption": "Ibrutinib is rapidly absorbed after oral administration and it presents a Cmax, tmax and AUC of approximately 35 ng/ml, 1-2 hour and 953 mg.h/ml respectively.[T148]",
+    "metabolism": "Three metabolic pathways have been identified according to the possible metabolites. These pathways are the hydroxylation of the phenyl group (M35), the opening of the piperidine with a reduction of the primary alcohol (M34) and the oxidation to a carboxylic acid and epoxidation of the ethylene followed by a hydrolysis to the formation of dihydrodiol (PCI-45227). The latter metabolite presents also 15 times lower inhibitory activity against BTK. The metabolism of ibrutinib is mainly performed by CYP3A5 and CYP3A4. and in a minor extent it is seen to be performed by CYP2D6.[A7663]",
+    "toxicity": "Ibrutinib was not showed to present a mutagenic potential in bacterial assays, nor clastogenic in chromosome aberration assays in mammalian cells or in bone marrow micronucleus assays in mice. Carcinogenicity or effects on fertility have not been determined.[L12228]",
+    "targets": [
+        [
+            "BTK",
+            "Tyrosine-protein kinase BTK",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA164746560",
+    "drugbank_id": "DB00024",
+    "names": [
+        "Thyrotropin alfa"
+    ],
+    "description": "Thyrotropin alfa is a recombinant form of thyroid stimulating hormone used in performing certain tests in patients who have or have had thyroid cancer. It is also used along with a radioactive agent to destroy remaining thyroid tissue in certain patients who have had their thyroid gland removed because of thyroid cancer. It is a heterodimeric glycoprotein comprised of two non-covalently linked subunits, an alpha subunit of 92 amino acid residues containing two N-linked glycosylation sites and a beta subunit of 112 residues containing one N-linked glycosylation site. The alpha subunit of thyrotropin alfa, which is the effector region responsible for the stimulation of adenylate cyclase, displays close structural similarity with the alpha subunit of human chorionic gonadotropin (hCG), luteinizing hormone (LH), and follicle-stimulating hormone (FSH). The beta subunit (TSHB) bestows its receptor specificity due to the uniqueness to TSH. The amino acid sequence of thyrotropin alfa is identical to that of human pituitary thyroid stimulating hormone.",
+    "indication": "For detection of residueal or recurrent thyroid cancer",
+    "pharmacodynamics": "Binding of thyrotropin alfa to TSH receptors on normal thyroid epithelial cells or on well-differentiated thyroid cancer tissue stimulates iodine uptake and organification. Thyrogen is an exogenous source of human TSH that offers an additional diagnostic tool in the follow-up of patients with a history of well-differentiated thyroid cancer.",
+    "mechanism-of-action": "Thyrotropin Alfa binds to the thyrotropin receptors found on any residual thyroid cells or tissues. This stimulates radioactive iodine uptake for better radiodiagnostic imaging.",
+    "absorption": "Time to peak: Median: 10 hours (range: 3-24 hours)\r\nAfter a single intramuscular injection of 0.9 mg of thyrotropin alfa: Cmax= 116+38mU/L, Tmax=22+8.5 hours. AUC=5088+1728 mU\u00b7hr/L.",
+    "metabolism": null,
+    "toxicity": "No difference in efficacy and toxicity between adult and geriatric patients. No studies in lactating women, pregnant women and pediatrics. Cautionary administration is advised. ",
+    "targets": [
+        [
+            "TSHR",
+            "Thyrotropin receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

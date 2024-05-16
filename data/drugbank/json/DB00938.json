@@ -1,0 +1,86 @@
+{
+    "pharmgkb_id": "PA451300",
+    "drugbank_id": "DB00938",
+    "names": [
+        "Salmeterol",
+        "Aeromax Diskus",
+        "Arial",
+        "Salmetedur"
+    ],
+    "description": "Salmeterol is a long-acting beta-2 adrenergic receptor agonist drug that is currently prescribed for the treatment of asthma and chronic obstructive pulmonary disease COPD.[L11545,L11548,L11551,L11554,L11557] It has a longer duration of action than the short-acting beta-2 adrenergic receptor agonist, [salbutamol].[A190459] Salmeterol was first described in the literature in 1988.[A190477] Salmeterol's structure is similar to salbutamol's with an aralkyloxy-alkyl substitution on the amine.[A183737]\r\n\r\nSalmeterol was granted FDA approval on 4 February 1994.[L11542]",
+    "indication": "Salmeterol is indicated in the treatment of asthma with an inhaled corticosteroid, prevention of exercise induced bronchospasm, and the maintenance of airflow obstruction and prevention of exacerbations of chronic obstructive pulmonary disease.[L11545,L11548,L11551,L11554,L11557]",
+    "pharmacodynamics": "Salmeterol is a long acting beta-2 adrenergic receptor agonist that binds to both the active and exo sites of the beta-2 adrenergic receptor.[A183737] Salmeterol has a longer duration of action than other beta-2 agonists like [salbutamol].[A190459] Patients should be counselled regarding the risks of long acting beta agonist (LABA) monotherapy, hypokalemia, hypoglycemia, and not to take this drug with another LABA.[L11545,L11548,L11551,L11554,L11557]",
+    "mechanism-of-action": "Beta-2 adrenoceptor stimulation causes relaxation of bronchial smooth muscle, bronchodilation, and increased airflow.[A183737]\r\n\r\nSalmeterol is hypothesized to bind to 2 sites on the beta-2 adrenoceptor.[A183737] The saligenin moiety binds to the active site of the beta-2 adrenoceptor.[A183737] The hydrophilic tail of salmeterol binds to leucine residues in the exo-site of the beta-2 adrenoceptor almost irreversibly, allowing salmeterol to persist in the active site, which is responsible for it's long duration of action.[A183737,A190444]\r\n\r\nAnother hypothesis is that the lipophilic drug diffuses into lipid bilayer of smooth muscle cells and provides a depot of drug to the cells over a longer period of time.[A183737]",
+    "absorption": "In asthmatic patients, a 50\u00b5g dose of inhaled salmeterol powder reaches a C<sub>max</sub> of 47.897pg/mL, with a T<sub>max</sub> of 0.240h, and an AUC of 156.041pg/mL/h.[A190459]",
+    "metabolism": "Salmeterol is predominantly metabolized by CYP3A4 to alpha-hydroxysalmeterol,[A183737] and minorly by an unknown mechanism to an O-dealkylated metabolite.[A190438]",
+    "toxicity": "Patients experiencing an overdose have presented with metabolic acidosis, hyperlactatemia, anxiety, palpitations, chest pain, sinus tachycardia, ST depression, hypokalemia, hypophosphatemia.[A190450] Though patients may also present with seizures, angina, hypertension or hypotension, arrhythmia, headache, tremor, muscle cramps, dry mouth, nausea, dizziness, fatigue, malaise, insomnia, and hyperglycemia.[L11548] Patients should be given symptomatic and supportive treatment which may include intravenous fluids, potassium supplementation, a cardioselective beta-blocker, and cardiac monitoring.[A190450,L11548]\r\n\r\nData regarding the LD<sub>50</sub> of salmeterol is not readily available.[L11569]",
+    "targets": [
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta-3 adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

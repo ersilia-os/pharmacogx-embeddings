@@ -1,0 +1,51 @@
+{
+    "pharmgkb_id": "PA451729",
+    "drugbank_id": "DB01030",
+    "names": [
+        "Topotecan"
+    ],
+    "description": "An antineoplastic agent used to treat ovarian cancer. It works by inhibiting DNA topoisomerases, type I.",
+    "indication": "For the treatment of advanced ovarian cancer in patients with disease that has recurred or progressed following therapy with platinum-based regimens. Also used as a second-line therapy for treatment-sensitive small cell lung cancer, as well as in combination with cisplatin for the treatment of stage IV-B, recurrent, or persistent cervical cancer not amenable to curative treatment with surgery and/or radiation therapy.",
+    "pharmacodynamics": "Topotecan, a semi-synthetic derivative of camptothecin (a plant alkaloid obtained from the <i>Camptotheca acuminata</i> tree), is an anti-tumor drug with topoisomerase I-inhibitory activity similar to irinotecan. DNA topoisomerases are enzymes in the cell nucleus that regulate DNA topology (3-dimensional conformation) and facilitate nuclear processes such as DNA replication, recombination, and repair. During these processes, DNA topoisomerase I creates reversible single-stranded breaks in double-stranded DNA, allowing intact single DNA strands to pass through the break and relieve the topologic constraints inherent in supercoiled DNA. The 3'-DNA terminus of the broken DNA strand binds covalently with the topoisomerase enzyme to form a catalytic intermediate called a cleavable complex. After DNA is sufficiently relaxed and the strand passage reaction is complete, DNA topoisomerase reattaches the broken DNA strands to form the unaltered topoisomers that allow transcription to proceed. Topotecan interferes with the growth of cancer cells, which are eventually destroyed. Since the growth of normal cells can be affected by the medicine, other effects may also occur. Unlike irinotecan, topotecan is found predominantly in the inactive carboxylate form at neutral pH and it is not a prodrug.",
+    "mechanism-of-action": "Topotecan has the same mechanism of action as irinotecan and is believed to exert its cytotoxic effects during the S-phase of DNA synthesis. Topoisomerase I relieves torsional strain in DNA by inducing reversible single strand breaks. Topotecan binds to the topoisomerase I-DNA complex and prevents religation of these single strand breaks. This ternary complex interferes with the moving replication fork, which leads to the induction of replication arrest and lethal double-stranded breaks in DNA. As mammalian cells cannot efficiently repair these double strand breaks, the formation of this ternary complex eventually leads to apoptosis (programmed cell death).\r\n\r\nTopotecan mimics a DNA base pair and binds at the site of DNA cleavage by intercalating between the upstream (\u22121) and downstream (+1) base pairs. Intercalation displaces the downstream DNA, thus preventing religation of the cleaved strand. By specifically binding to the enzyme\u2013substrate complex, Topotecan acts as an uncompetitive inhibitor.",
+    "absorption": null,
+    "metabolism": "Topotecan undergoes a reversible pH dependent hydrolysis of its lactone moiety; it is the lactone form that is pharmacologically active.",
+    "toxicity": "The primary anticipated complication of overdosage would consist of bone marrow suppression.",
+    "targets": [
+        [
+            "TOP1",
+            "DNA topoisomerase 1",
+            "Humans"
+        ],
+        [
+            "TOP1MT",
+            "DNA topoisomerase I, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

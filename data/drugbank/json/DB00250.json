@@ -1,0 +1,96 @@
+{
+    "pharmgkb_id": "PA449211",
+    "drugbank_id": "DB00250",
+    "names": [
+        "Dapsone"
+    ],
+    "description": "A sulfone active against a wide range of bacteria but mainly employed for its actions against mycobacterium leprae. Its mechanism of action is probably similar to that of the sulfonamides which involves inhibition of folic acid synthesis in susceptible organisms. It is also used with pyrimethamine in the treatment of malaria. (From Martindale, The Extra Pharmacopoeia, 30th ed, p157-8)",
+    "indication": "For the treatment and management of leprosy and dermatitis herpetiformis.",
+    "pharmacodynamics": "Dapsone is a sulfone with anti-inflammatory immunosuppressive properties as well as antibacterial and antibiotic properties. Dapsone is the principal drug in a multidrug regimen recommended by the World Health Organization for the treatment of leprosy. As an anti-infective agent, it is also used for treating malaria and, recently, for Pneumocystic carinii pneumonia in AIDS patients. Dapsone is absorbed rapidly and nearly completely from the gastrointestinal tract. Dapsone is distributed throughout total body water and is present in all tissues. However, it tends to be retained in skin and muscle and especially in the liver and kidney: traces of the drug are present in these organs up to 3 weeks after therapy cessation.",
+    "mechanism-of-action": "Dapsone acts against bacteria and protozoa in the same way as sulphonamides, that is by inhibiting the synthesis of dihydrofolic acid through competition with para-amino-benzoate for the active site of dihydropteroate synthetase. The anti-inflammatory action of the drug is unrelated to its antibacterial action and is still not fully understood.",
+    "absorption": "Bioavailability is 70 to 80% following oral administration.",
+    "metabolism": "Hepatic, mostly CYP2E1-mediated.",
+    "toxicity": "Overdosage might be expected to produce nasal congestion, syncope, or hallucinations. Measures to support blood pressure should be taken if necessary.",
+    "targets": [
+        [
+            "folP2",
+            "Inactive dihydropteroate synthase 2",
+            "Mycobacterium leprae (strain TN)"
+        ],
+        [
+            "folP1",
+            "Dihydropteroate synthase 1",
+            "Mycobacterium leprae (strain TN)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "MPO",
+            "Myeloperoxidase",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "FMO3",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 3",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "NAT2",
+            "Arylamine N-acetyltransferase 2",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

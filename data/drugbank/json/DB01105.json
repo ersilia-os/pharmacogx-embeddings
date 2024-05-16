@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA451344",
+    "drugbank_id": "DB01105",
+    "names": [
+        "Sibutramine",
+        "Butramin",
+        "Medaria",
+        "Reductil"
+    ],
+    "description": "Sibutramine (trade name Meridia in the USA, Reductil in Europe and other countries), usually as sibutramide hydrochloride monohydrate, is an orally administered agent for the treatment of obesity. It is a centrally acting stimulant chemically related to amphetamines thus it is classified as a Schedule IV controlled substance in the United States. In October 2010, Sibutramine was withdrawn from Canadian and U.S. markets due to concerns that the drug increases the risk of heart attack and stroke in patients with a history of heart disease.",
+    "indication": "For the treatment of obesity.",
+    "pharmacodynamics": "Sibutramine is an orally administered agent for the treatment of obesity. Sibutramine exerts its pharmacological actions predominantly via its secondary (M1) and primary (M2) amine metabolites. The parent compound, sibutramine, is a potent inhibitor of serotonin and norepinephrine reuptake <i>in vivo</i>, but not <i>in vitro</i>. However, metabolites M1 and M2 inhibit the reuptake of these neurotransmitters both <i>in vitro</i> and <i>in vivo</i>. In human brain tissue, M1 and M2 also inhibit dopamine reuptake <i>in vitro</i>, but with ~3-fold lower potency than for the reuptake inhibition of serotonin or norepinephrine. Sibutramine, M1 and M2 exhibit no evidence of anticholinergic or antihistaminergic actions. In addition, receptor binding profiles show that sibutramine, M1 and M2 have low affinity for serotonin (5-HT<sub>1</sub>, 5-HT<sub>1A</sub>, 5-HT<sub>1B</sub>, 5-HT<sub>2A</sub>, 5-HT<sub>2C</sub>), norepinephrine (b, b1, b3, a1 and a2), dopamine (D1 and D2), benzodiazepine, and glutamate (NMDA) receptors. These compounds also lack monoamine oxidase inhibitory activity <i>in vitro</i> and <i>in vivo</i>.",
+    "mechanism-of-action": "Sibutramine produces its therapeutic effects by inhibition of norepinephrine (NE), serotonin (5-hydroxytryptamine, 5-HT), and to a lesser extent, dopamine reuptake at the neuronal synapse. By inhibiting the reuptake of these neurotransmitters, sibutramine promotes a sense of satiety and decrease in appetite, thereby reducing food intake. Data from animal studies also suggest that sibutramine may also increase energy expenditure through thermogenic effects in both the basal and fed states, but this has not been confirmed in humans. Sibutramine and its major pharmacologically active metabolites (M1 and M2) do not act via release of monoamines. ",
+    "absorption": "Rapid absorption following oral administration. Absolute bioavailability is not known, but at least 77% of a single oral dose of sibutramine is absorbed.",
+    "metabolism": "Hepatic",
+    "toxicity": "Side effects include dry mouth, anorexia, insomnia, constipation and headache.",
+    "targets": [
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01105",
+            "Drug Name": "Sibutramine",
+            "Gene Symbol": "GNB3",
+            "RS ID (Genotype)": "rs5443",
+            "Effect Description": "Patients with this genotype will lose weight with sibutramine."
+        }
+    ]
+}

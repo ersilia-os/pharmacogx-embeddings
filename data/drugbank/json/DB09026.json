@@ -1,0 +1,37 @@
+{
+    "pharmgkb_id": "PA143487910",
+    "drugbank_id": "DB09026",
+    "names": [
+        "Aliskiren"
+    ],
+    "description": "Aliskiren is the first drug in the renin inhibitor drug class and is used for the treatment of hypertension.[A203624] It was developed by Speedel and Novartis and initially approved by the FDA in early 2007.[L14018] Aliskiren has been proven to efficacious in reducing blood pressure when used alone or in conjunction with other antihypertensive agents.[A203624]",
+    "indication": "Aliskiren is used for the treatment of hypertension in children above 6 years and adults.[L13994] This drug may also be used in conjunction with antihypertensives such as calcium channel blockers and thiazides in products form to provide additional blood pressure control.[L14168,L14171]",
+    "pharmacodynamics": "Aliskiren reduces blood pressure by inhibiting renin. This leads to a cascade of events that decreases blood pressure, lowering the risk of fatal and nonfatal cardiovascular events including stroke and myocardial infarction.[A7582,L13994]",
+    "mechanism-of-action": "Aliskiren is a renin inhibitor.[L13994] Renin is secreted by the kidneys when blood volume and renal perfusion decrease. It normally cleaves the protein angiotensinogen to form angiotensin I. Angiotensin I is then converted to angiotensin II, an active protein. Angiotensin II is a potent vasoconstrictor that causes the release of catecholamines into the circulation.  It also promotes the secretion of aldosterone in addition to sodium reabsorption, increasing blood pressure. Additionally, angiotensin II acts on the adrenal cortex where it stimulates aldosterone release. Aldosterone increases sodium reabsorption and potassium excretion in the nephron. [L14030]\r\n\r\nAliskiren prevents the above process via binding to renin at its active site, stopping the cleavage of angiotensin, in turn inhibiting the formation of angiotensin I. This ends the cascade of angiotensin II mediated mechanisms that normally increase blood pressure.[A203624] \r\n\r\n",
+    "absorption": "Aliskiren is absorbed in the gastrointestinal tract and is poorly absorbed with a bioavailability between 2.0 and 2.5%.[A204305,L13994] Peak plasma concentrations of aliskiren are achieved between 1 to 3 hours after administration.[A204305,L13994] Steady-state concentrations of aliskiren are achieved within 7-8 days of regular administration.[A7581]",
+    "metabolism": "About 80% of the drug in plasma following oral administration is unchanged. Two major metabolites account for about 1-3% of aliskiren in the plasma. One metabolite is an O-demethylated alcohol derivative and the other is a carboxylic acid derivative. Minor oxidized and hydrolyzed metabolites may also be found in the plasma.[A214172,L13994]",
+    "toxicity": "The oral LD50 of aliskiren in rats is >2000 mg/kg.[L14294] Overdose information is limited in the literature, however, an overdose with aliskiren is likely to result in hypotension. Supportive treatment should be initiated in the case of an overdose.[L13994,L14297]",
+    "targets": [
+        [
+            "REN",
+            "Renin",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,53 @@
+{
+    "pharmgkb_id": "PA166268804",
+    "drugbank_id": "DB16390",
+    "names": [
+        "Mobocertinib",
+        "Exkivity"
+    ],
+    "description": "Mobocertinib is a kinase inhibitor targeted against human epidermal growth factor receptor (EGFR). It is used specifically in the treatment of non-small cell lung cancer (NSCLC) caused by exon 20 insertion mutations in the _EGFR_ gene,[L38368] which are typically associated with a poorer prognosis (as compared to \"classical\" _EGFR_ mutants causing NSCLC) and are associated with resistance to standard targeted EGFR inhibitors.[A238828] Mobocertinib appears to be an effective means of treating this otherwise treatment-resistant NSCLC, exerting an inhibitory effect on _EGFR_ exon 20 insertion mutant variants at concentrations 1.5- to 10-fold lower than those required to inhibit wild-type EGFR.[L38319]\r\n\r\nMobocertinib, under the brand name Exkivity (Takeda Pharmaceuticals Inc.), was granted accelerated approval by the FDA in September 2021 for the treatment of locally advanced or metastatic NSCLC in patients with _EGFR_ exon 20 insertion mutations who have failed previous therapies.[L38368]",
+    "indication": "Mobocertinib is indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertion mutations whose disease has progressed on or after platinum-based chemotherapy.[L38319]",
+    "pharmacodynamics": "Mobocertinib is an inhibitor of EGFR that preferentially targets exon 20 insertion mutant variants.[L38319] It is available as an oral capsule taken with or without food once daily.\r\n\r\nMobocertinib can cause a concentration-dependent increase in QTc interval which may lead to life-threatening complications such as Torsades de Pointes. Patients with baseline risk factors for QTc prolongation should consider alternative medications or be monitored carefully throughout therapy. The use of concomitant QTc-prolonging medications should be avoided, as should concomitant inhibitors of CYP3A, as these may increase the concentration of mobocertinib and thus the risk of QTc-prolongation.[L38319]",
+    "mechanism-of-action": "The epidermal growth factor receptor (EGFR) is a transmembrane receptor that regulates signaling pathways in the control of cellular proliferation.[A19201] Mutations in these proteins have been associated with certain types of lung cancer, including non-small cell lung cancer (NSCLC). While the majority of _EGFR_ mutations associated with NSCLC involve the _EGFR_ L858R point mutation or exon 19 deletions (referred to as \"classical\" _EGFR_ mutations), less common _EGFR_ exon 20 insertion mutations carry a particularly poor prognosis and are associated with resistance to standard targeted EGFR inhibitors.[A238828]\r\n\r\nMobocertinib is an inhibitor of EGFR that irreversibly binds to and inhibits EGFR exon 20 insertion mutations at lower concentrations than wild-type EGFR proteins, exerting a pharmacologic effect on mutant variants at concentrations 1.5- to 10-fold lower than on wild-type proteins.[L38319] ",
+    "absorption": "The mean absolute bioavailability of mobocertinib is 37% and the median T<sub>max</sub> is approximately 4 hours.[L38319] Following a single oral dose of 160mg of mobocertinib to fasted patients, the mean C<sub>max</sub> and AUC<sub>0-inf</sub> were 45.8 ng/mL and 862 ng\u2022h/mL, respectively.[A238743]",
+    "metabolism": "Mobocertinib is metabolized primarily by CYP3A enzymes to two active metabolites, AP32960 and AP32914, which are equipotent to mobocertinib and account for 36% and 4% of its combined molar AUC, respectively.[L38319]",
+    "toxicity": "No data are available regarding overdosage with mobocertinib. Symptoms of overdosage are likely to be consistent with mobocertinib's adverse effects and may therefore include significant gastrointestinal symptoms, pain, fatigue, and rash.[L38319]",
+    "targets": [
+        [
+            "EGFR",
+            "Epidermal growth factor receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

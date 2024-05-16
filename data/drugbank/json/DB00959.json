@@ -1,0 +1,133 @@
+{
+    "pharmgkb_id": "PA450466",
+    "drugbank_id": "DB00959",
+    "names": [
+        "Methylprednisolone",
+        "Medrate",
+        "Medrone",
+        "Meprolone",
+        "Solomet",
+        "Urbason"
+    ],
+    "description": "Methylprednisolone is a [prednisolone] derivative glucocorticoid with higher potency than [prednisone].[A188811] It was first described in the literature in the late 1950s.[A188811,A188814]\r\n\r\nMethylprednisolone was granted FDA approval on 24 October 1957.[L10785] In the outbreak of COVID-19, low dose methylprednisolone-based therapy was successful in treating COVID-19-associated pneumonia in one patient with long-term immunosuppression.[A192813] The efficacy of methylprednisolone in novel coronavirus pneumonia is being investigated further in clinical trials.[L12666]",
+    "indication": "Oral and intramuscular methylprednisolone are indicated for a number of endocrine,  rheumatic, collagen, dermatologic, allergic, ophthalmic, respiratory, hematologic, neoplastic, edematous, gastrointestinal, nervous system, and other disorders.[L10785,L10788] Intra-articular and soft tissue injections are indicated for short term treatment of acute gouty arthritis, acute and subactute bursitis, acute nonspecific tenosynovitis, epicondylitis, rheumatoid arthritis, and synovitis of osteoarthritis.[L10788] Intralesional injections are indicated for alopecia areata, discoid lupus erythematosus, keloids, lichen planus, lichen simplex chronicus and psoriatic plaques, necrobiosis lipoidica diabeticorum, and localized hypertrophic infiltrated inflammatory lesions of granuloma annulare.[L10788]",
+    "pharmacodynamics": "Corticosteroids bind to the glucocorticoid receptor, inhibiting pro-inflammatory signals, and promoting anti-inflammatory signals.[A187463] Corticosteroids have a wide therapeutic window as patients may require doses that are multiples of what the body naturally produces.[A187463] Patients taking corticosteroids should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections.[A187463]",
+    "mechanism-of-action": "The short term effects of corticosteroids are decreased vasodilation and permeability of capillaries, as well as decreased leukocyte migration to sites of inflammation.[A187463] Corticosteroids binding to the glucocorticoid receptor mediates changes in gene expression that lead to multiple downstream effects over hours to days.[A187463]\r\n\r\nGlucocorticoids inhibit neutrophil apoptosis and demargination; they inhibit phospholipase A2, which decreases the formation of arachidonic acid derivatives; they inhibit NF-Kappa B and other inflammatory transcription factors; they promote anti-inflammatory genes like interleukin-10.[A187463]\r\n\r\nLower doses of corticosteroids provide an anti-inflammatory effect, while higher doses are immunosuppressive.[A187463] High doses of glucocorticoids for an extended period bind to the mineralocorticoid receptor, raising sodium levels and decreasing potassium levels.[A187463]",
+    "absorption": "Oral methylprednisolone has 89.9% the bioavailability of oral methylprednisolone acetate, while rectal methylprednisolone has 14.2% the bioavailability.[A188802] Intravitreal methylprednisolone has a T<sub>max</sub> of 2.5h.[A188808] Approximately 1/10 of an oral or IV dose of methylprednisolone will reach the vitreous humor.[A188808] Further data regarding the absorption of methylprednisolone are not readily available.[L10785,L10788]",
+    "metabolism": "The metabolism of methylprednisolone is thought to be mostly mediated by 11beta-hydroxysteroid dehydrogenases and 20-ketosteroid reductases.[A188757]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is >4g/kg.[L10824] The intraperitoneal LD<sub>50</sub> in mice is 2292mg/kg and in rats is 100mg/kg.[L10824]\r\n\r\nData regarding acute overdoses of glucocorticoids are rare.[L10785,L10788] Chronic high doses of glucocorticoids can lead to the development of cataract, glaucoma, hypertension, water retention, hyperlipidemia, peptic ulcer, pancreatitis, myopathy, osteoporosis, mood changes, psychosis, dermal atrophy, allergy, acne, hypertrichosis, immune suppression, decreased resistance to infection, moon face, hyperglycemia, hypocalcemia, hypophosphatemia, metabolic acidosis, growth suppression, and secondary adrenal insufficiency.[A188405] Treat acute overdoses with symptomatic and supportive therapy, while chronic overdoses will require temporarily reduced dosages.[A188405,L10788]",
+    "targets": [
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ],
+        [
+            "ANXA1",
+            "Annexin A1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "AKR1C1",
+            "20-ketosteroid reductase (20-hydroxysteroid dehydrogenase)",
+            "Humans and other mammals"
+        ],
+        [
+            "AKR1C2",
+            "20-ketosteroid reductase (20-hydroxysteroid dehydrogenase)",
+            "Humans and other mammals"
+        ],
+        [
+            "AKR1C3",
+            "20-ketosteroid reductase (20-hydroxysteroid dehydrogenase)",
+            "Humans and other mammals"
+        ],
+        [
+            "AKR1C4",
+            "20-ketosteroid reductase (20-hydroxysteroid dehydrogenase)",
+            "Humans and other mammals"
+        ],
+        [
+            "HSD11B1",
+            "11beta-hydroxysteroid dehydrogenase",
+            "Humans and other mammals"
+        ],
+        [
+            "HSD11B2",
+            "11beta-hydroxysteroid dehydrogenase",
+            "Humans and other mammals"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

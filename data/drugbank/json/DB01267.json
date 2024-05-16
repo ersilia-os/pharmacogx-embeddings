@@ -1,0 +1,118 @@
+{
+    "pharmgkb_id": "PA163518919",
+    "drugbank_id": "DB01267",
+    "names": [
+        "Paliperidone",
+        "Invega Hafyera"
+    ],
+    "description": "Paliperidone is the primary active metabolite of risperidone. The mechanism of action is unknown but it is likely to act via a similar pathway to risperidone. It has been proposed that the drug's therapeutic activity in schizophrenia is mediated through a combination of central dopamine Type 2 (D2) and serotonin Type 2 (5HT2A) receptor antagonism. Paliperidone is also active as an antagonist at alpha 1 and alpha 2 adrenergic receptors and H1 histaminergic receptors, which may explain some of the other effects of the drug. Paliperidone was approved by the FDA for treatment of schizophrenia on December 20, 2006. It is available as an extended-release tablet, a once-monthly intramuscular injection, an every-three-month intramuscular injection, and a twice-yearly gluteal injection.[L16168,L37744,L4137,L37749]",
+    "indication": "As an oral extended-release tablet and a once-monthly extended-release suspension for intramuscular injection, paliperidone is indicated for the treatment of adults and adolescents with schizophrenia and in the treatment of schizoaffective disorder in combination with antidepressants or mood stabilizers.[L16168,L37744] Paliperidone is also available in both an every-three-month and twice-yearly extended-release suspension for intramuscular injection for the treatment of schizophrenia.[L4137,L37749]",
+    "pharmacodynamics": "Paliperidone is an atypical antipsychotic developed by Janssen Pharmaceutica. Chemically, paliperidone is primary active metabolite of the older antipsychotic risperidone (paliperidone is 9-hydroxyrisperidone). The mechanism of action is unknown but it is likely to act via a similar pathway to risperidone.",
+    "mechanism-of-action": "Paliperidone is the major active metabolite of risperidone. The mechanism of action of paliperidone, as with other drugs having efficacy in schizophrenia, is unknown, but it has been proposed that the drug's therapeutic activity in schizophrenia is mediated through a combination of central dopamine Type 2 (D2) and serotonin Type 2 (5HT2A) receptor antagonism.",
+    "absorption": "The absolute oral bioavailability of paliperidone following paliperidone administration is 28%.",
+    "metabolism": "Although in vitro studies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, in vivo results indicate that these isozymes play a limited role in the overall elimination of paliperidone. Four primary metabolic pathways have been identified in vivo, none of which could be shown to account for more than 10% of the dose: dealkylation, hydroxylation, dehydrogenation, and benzisoxazole scission. Paliperidone does not undergo extensive metabolism and a significant portion of its metabolism occurs in the kidneys. ",
+    "toxicity": "The possibility of obtundation, seizures, or dystonic reaction of the head and neck following overdose may create a risk of aspiration with induced emesis. ",
+    "targets": [
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "DRD4",
+            "Dopamine D4 receptor",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1D",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

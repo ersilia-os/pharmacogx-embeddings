@@ -1,0 +1,223 @@
+{
+    "pharmgkb_id": "PA451728",
+    "drugbank_id": "DB00273",
+    "names": [
+        "Topiramate"
+    ],
+    "description": "Topiramate is a anti-epileptic drug used to manage seizures and prevent migraines.[A175249] It was initially approved by the FDA in 1996. In 2004, topiramate was approved for the prevention of migraine in adults.[A188309,L10544,L43478] Since 2012, the extended-release formulation has been approved in combination with [phentermine] for chronic weight management therapy in adults.[L10550] \r\n\r\nCharacteristics that distinguish topiramate from other antiepileptic drugs are a monosaccharide chemical structure containing a sulfamate, and 40% of its mass accounted for by oxygen.[A175249] Interestingly, topiramate was discovered by chance when attempts were made to formulate a novel antidiabetic drug.[A188330]",
+    "indication": "Topiramate is indicated  for the following conditions: 1)Monotherapy for partial onset or primary generalized tonic-clonic seizures for patients 2 years of age and above 2)Adjunctive therapy for partial onset seizures or primary generalized tonic-clonic seizures for both adult and pediatric patients above 2 years old 3)Adjunctive therapy for seizures associated with Lennox-Gastaut syndrome in patients above 2 years of age 4)Prophylaxis of migraine in children 12 years of age and older and adults.[L10544]\r\n\r\nTopiramate is also used off-label as an adjunct therapy for weight management[L10550] and for mood disorders.[A188312]",
+    "pharmacodynamics": "Topiramate prevents the occurrence of seizures and prevents migraine symptoms by reducing neural pathway excitability.[A188330,L10544] It is important to note that this drug may cause metabolic acidosis, mood changes, suicidal thoughts and attempts, as well as kidney stones. When topiramate is combined with [valproic acid], it is known to cause hypothermia.[L10544]",
+    "mechanism-of-action": "A seizure is an abnormal and unregulated electrical discharge occurring in the brain. This leads to transient interruption in brain function, manifested by reduced alertness, abnormal sensations, and focal involuntary movements or convulsions. Several types of seizures exist, with common types including tonic-clonic seizures and partial onset seizures.[L5548]\r\n\r\nThe exact mechanisms by which topiramate exerts pharmacological actions on seizures and migraines are currently not fully characterized.[A188336,L10544]  Several properties of this drug, however, are likely to contribute to its therapeutic effects. Topiramate has been observed to exert actions on voltage-dependent sodium channels, GABA receptors, and glutamate receptors.[A175249,L10544] \r\n\r\nTopiramate stimulates GABA-A receptor activity at brain non-benzodiazepine receptor sites and reduces glutamate activity at both AMPA and kainate receptors. Normally, GABA-A receptors are inhibitory and glutaminergic receptors are stimulatory for neuronal activity.[A175243,T752] By increasing GABA activity and inhibiting glutamate activity, topiramate blocks neuronal excitability, preventing seizures and migraines.[A188333,A188309,L10544] Additionally, it blocks the voltage-dependent sodium channels, further blocking seizure activity.[A175243] Topiramate has been shown to inhibit various carbonic anhydrase isozymes, but the clinical significance of this is unknown at this time.[A10342,A10348,A20066,L10544]\r\n\r\n",
+    "absorption": "After a 400mg dose in one clinical trial, topiramate reached maximal concentrations within 1.8-4.3 hours and ranged from 1.73-28.7 ug/mL. Food did not significantly affect the extent of absorption, despite delaying time to peak concentration. In patients with normal creatinine clearance, steady state concentrations are reached within 4 days.[A175246] The bioavailability of topiramate in tablet form is about 80% compared to a topiramate solution.[L10544]",
+    "metabolism": "The metabolites of topiramate are not known to be active.[A175237] The metabolism of topiramate is characterized by reactions of glucuronidation, hydroxylation and hydrolysis that lead to the production of six minor metabolites.[L10544] Some of topiramate's metabolites include 2,3-desisopropylidene topiramate, 4,5-desisopropylidene topiramate, 9-hydroxy topiramate, and 10-hydroxy topiramate.[A175282]",
+    "toxicity": "The LD50 of intraperitoneal topiramate in the rat is above 1500 mg/kg.[L10547]\r\n\r\nOverdose information\r\n\r\nIn a study of 4 healthy adult women taking topiramate, the severity of clinical effects following an overdose ranged from asymptomatic to severe, with no deaths reported.[A175258] According to the FDA prescribing information for topiramate, an overdose may cause hypotension, severe metabolic acidosis, coma, abdominal pain, visual disturbances, convulsions, drowsiness, speech abnormalities, impaired mentation and coordination, stupor, agitation, dizziness, as well as depression.[L10544]\r\n\r\nIn the case of a recent ingestion of topiramate, the stomach contents should be emptied through the induction of emesis or gastric lavage. Offer supportive treatment, including activated charcoal and hemodialysis.[L10544]\r\n\r\n",
+    "targets": [
+        [
+            "GABRA1",
+            "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "SCN1A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN10A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN11A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN2A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN3A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN4A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN5A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN7A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN8A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN9A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "GRIK1",
+            "Kainate receptors",
+            "Humans"
+        ],
+        [
+            "GRIK2",
+            "Kainate receptors",
+            "Humans"
+        ],
+        [
+            "GRIK3",
+            "Kainate receptors",
+            "Humans"
+        ],
+        [
+            "GRIK4",
+            "Kainate receptors",
+            "Humans"
+        ],
+        [
+            "GRIK5",
+            "Kainate receptors",
+            "Humans"
+        ],
+        [
+            "CA2",
+            "Carbonic anhydrase 2",
+            "Humans"
+        ],
+        [
+            "CA4",
+            "Carbonic anhydrase 4",
+            "Humans"
+        ],
+        [
+            "CACNA1C",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1F",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB1",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB3",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB4",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CA1",
+            "Carbonic anhydrase 1",
+            "Humans"
+        ],
+        [
+            "CA3",
+            "Carbonic anhydrase 3",
+            "Humans"
+        ],
+        [
+            "CACNA1E",
+            "Voltage-dependent R-type calcium channel",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "PRKAA1",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAA2",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAB1",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAB2",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAG1",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAG2",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAG3",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

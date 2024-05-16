@@ -1,0 +1,116 @@
+{
+    "pharmgkb_id": "PA451089",
+    "drugbank_id": "DB00175",
+    "names": [
+        "Pravastatin",
+        "Elisor",
+        "Lipostat",
+        "Mevalotin",
+        "Pravaselect",
+        "Selipran"
+    ],
+    "description": "Pravastatin is the 6-alpha-hydroxy acid form of [mevastatin].[T303] Pravastatin was firstly approved in 1991 becoming the second available statin in the United States. It was the first statin administered as the active form and not as a prodrug.[T274] This drug was developed by Sankyo Co. Ltd.; however, the first approved pravastatin product was developed by Bristol Myers Squibb and FDA approved in 1991.[L6142]\r\n\r\nPravastatin is made through a fermentation process in which [mevastatin] is first obtained. The manufacturing process is followed by the hydrolysis of the lactone group and the biological hydroxylation with _Streptomyces carbophilus_ to introduce the allylic 6-alcohol group.[T239]",
+    "indication": "Pravastatin is indicated for primary prevention of coronary events hypercholesterolemic patients without clinical evidence of coronary heart disease. Its use includes the reduction of risk on myocardial infarction, undergoing myocardial revascularization procedures and cardiovascular mortality.[T274]\r\n\r\nAs well, pravastatin can be used as a secondary prevention agent for cardiovascular events in patients with clinically evident coronary heart disease. This indication includes the reduction of risk of total mortality by reducing coronary death, myocardial infarction, undergoing myocardial revascularization procedures, stroke, and stroke/transient ischemic attack as well as to slow the progression of coronary atherosclerosis.[T274]\r\n\r\nThe term cardiovascular events correspond to all the incidents that can produce damage to the heart muscle including the interruption of blood flow.[L6028]\r\n\r\nAs adjunctive therapy to diet, pravastatin is used in:\r\n\r\n- Patients with primary hypercholesterolemia and mixed dyslipidemias including hyperlipidemia type IIa and IIb.\r\n- Patients with elevated serum triglycerides including type IV hyperlipidemia.\r\n- Patients with heterozygous familial hypercholesterolemia in patients over 8 years of age with low-density lipoprotein (LDL) cholesterol higher than 190 mg/dl after diet modifications or LDL levels higher than 160 mg/dl and familial history of premature cardiovascular diseases or at least two cardiovascular risk factors.[T274]\r\n\r\nIn patients that do not respond adequately to diet, pravastatin is used to treat patients with primary dysbetalipoproteinemia (type III hyperlipidemia).[T274] \r\n\r\nDyslipidemia is defined as an elevation of plasma cholesterol, triglycerides or both as well as to the presence of low levels of high-density lipoprotein. This condition represents an increased risk for the development of atherosclerosis.[L6025]",
+    "pharmacodynamics": "The action of pravastatin on the 3-hydroxy-3-methyl-glutaryl-coenzyme A (HMG-CoA) reductase produces an increase in the expression of hepatic LDL receptors which in order decreases the plasma levels of LDL cholesterol.[T274]\r\n\r\nThe effect of pravastatin has been shown to significantly reduce the circulating total cholesterol, LDL cholesterol, and apolipoprotein B. As well, it modestly reduces very low-density-lipoproteins (VLDL) cholesterol and triglycerides while increasing the level of high-density lipoprotein (HDL) cholesterol and apolipoprotein A.[F4603]\r\n\r\nIn clinical trials with patients with a history of myocardial infarction or angina with high total cholesterol, pravastatin decreased the level of total cholesterol by 18%, decreased of LDL by 27%, decreased of triglycerides by 6% and increased of high-density lipoprotein (HDL) by 4%. As well, there was reported a decrease in risk of death due to coronary disease of 24%.[A177682] \r\n\r\nWhen coadministered with [cholestyramine], pravastatin can reduce by 50% the levels of LDL and slow the progression of atherosclerosis and the risk of myocardial infarction and death.[T274]",
+    "mechanism-of-action": "Pravastatin is a specific inhibitor of the hepatic HMG-CoA reductase in humans.[T274] The inhibition of this enzyme produces a reduction in cholesterol biosynthesis as HMG-CoA reductase activity is an early-limiting step in cholesterol biosynthesis.[A177397]\r\n\r\nThe inhibitory mechanism of action produces a reduction in cholesterol synthesis which in order has been observed to increase the number of LDL receptors on cell surfaces and an enhancement in receptor-mediated metabolism of LDL and clearance.[A177415]\r\n\r\nOn the other hand, pravastatin-driven inhibition of LDL production inhibits hepatic synthesis of VLDL as the LDL is the precursor for these molecules.[A177436]",
+    "absorption": "Pravastatin is absorbed 60-90 min after oral administration and it presents a low bioavailability of 17%.[A34502] This low bioavailability can be presented due to the polar nature of pravastatin which produces a high range of first-pass metabolism and incomplete absorption.[T239]\r\n\r\nPravastatin is rapidly absorbed from the upper part of the small intestine via proton-coupled carrier-mediated transport to be later taken up in the livery by the sodium-independent bile acid transporter.[A39676] The reported time to reach the peak serum concentration in the range of 30-55 mcg/L is of 1-1.5 hours with an AUC ranging from 60-90 mcg.h/L.[A177907]",
+    "metabolism": "After initial administration, pravastatin undergoes extensive first-pass extraction in the liver.[A34502] However, pravastatin's metabolism is not related to the activity of the cytochrome P-450 isoenzymes and its processing is performed in a minor extent in the liver. Therefore, this drug is highly exposed to peripheral tissues.[A177682] \r\n\r\nThe metabolism of pravastatin is ruled mainly by the presence of glucuronidation reactions with very minimal intervention of CYP3A enzymes. After metabolism, pravastatin does not produce active metabolites.[A34502] This metabolism is mainly done in the stomach followed by a minor portion of renal and hepatic processing.[A39676]\r\n\r\nThe major metabolite formed as part of pravastatin metabolism is the 3-alpha-hydroxy isomer. The activity of this metabolite is very clinically negligible.[F4603]",
+    "toxicity": "The reported oral LD50 of pravastatin in mice is of 8939 mg/kg.[MSDS] There haven't been significant overdosage reports however, in the case of overdosage, symptomatic treatment is recommended along with laboratory monitoring and supportive measures.[FDA label]\r\n\r\nIn carcinogenic studies, high dose administration of pravastatin has been reported to increase the incidence of hepatocellular carcinomas in males and lung carcinomas in females. There is no evidence relating the administration of pravastatin with mutagenicity in different assays not to produce effects in fertility or reproductive potential.[FDA label]",
+    "targets": [
+        [
+            "HMGCR",
+            "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+            "Humans"
+        ],
+        [
+            "HDAC2",
+            "Histone deacetylase 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLC16A1",
+            "Monocarboxylate transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00175",
+            "Drug Name": "Pravastatin",
+            "Gene Symbol": "KIF6",
+            "RS ID (Genotype)": "rs20455",
+            "Effect Description": "Patients with this genotype have a greater reduction in risk of a major cardiovascular event with high dose pravastatin."
+        },
+        {
+            "DrugBank ID": "DB00175",
+            "Drug Name": "Pravastatin",
+            "Gene Symbol": "HMGCR",
+            "RS ID (Genotype)": "rs17244841",
+            "Effect Description": "Patients with this genotype have a lesser reduction in LDL cholesterol with pravastatin."
+        }
+    ]
+}

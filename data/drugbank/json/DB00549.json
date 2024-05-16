@@ -1,0 +1,72 @@
+{
+    "pharmgkb_id": "PA451949",
+    "drugbank_id": "DB00549",
+    "names": [
+        "Zafirlukast"
+    ],
+    "description": "Zafirlukast is an oral leukotriene receptor antagonist (LTRA) for the maintenance treatment of asthma, often used in conjunction with an inhaled steroid and/or long-acting bronchodilator. It is available as a tablet and is usually dosed twice daily. Another leukotriene receptor antagonist is montelukast (Singulair), which is usually taken just once daily.\r\n\r\nZafirlukast blocks the action of the cysteinyl leukotrienes on the CysLT1 receptors, thus reducing constriction of the airways, build-up of mucus in the lungs and inflammation of the breathing passages.",
+    "indication": "For the prophylaxis and chronic treatment of asthma.",
+    "pharmacodynamics": "Zafirlukast is a synthetic, selective peptide leukotriene receptor antagonist (LTRA) indicated for the prophylaxis and chronic treatment of asthma. Patients with asthma were found in one study to be 25-100 times more sensitive to the bronchoconstricting activity of inhaled LTD<sub>4</sub> than nonasthmatic subjects. <i>In vitro</i> studies demonstrated that zafirlukast antagonized the contractile activity of three leukotrienes (LTC<sub>4</sub>, LTD<sub>4</sub> and LTE<sub>4</sub>) in conducting airway smooth muscle from laboratory animals and humans. Zafirlukast prevented intradermal LTD<sub>4</sub>-induced increases in cutaneous vascular permeability and inhibited inhaled LTD<sub>4</sub>-induced influx of eosinophils into animal lungs.",
+    "mechanism-of-action": "Zafirlukast is a selective and competitive receptor antagonist of leukotriene D4 and E4 (LTD<sub>4</sub> and LTE4), components of slow-reacting substance of anaphylaxis (SRSA). Cysteinyl leukotriene production and receptor occupation have been correlated with the pathophysiology of asthma, including airway edema, smooth muscle constriction, and altered cellular activity associated with the inflammatory process, which contribute to the signs and symptoms of asthma.",
+    "absorption": "Rapidly absorbed following oral administration, reduced following a high-fat or high-protein meal.",
+    "metabolism": "Hepatic",
+    "toxicity": "Side effects include rash and upset stomach.",
+    "targets": [
+        [
+            "CYSLTR1",
+            "Cysteinyl leukotriene receptor 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC10A1",
+            "Sodium/bile acid cotransporter",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

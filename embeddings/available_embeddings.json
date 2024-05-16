@@ -1,0 +1,37 @@
+{
+    "compound": [
+        "ersilia",
+        "signaturizer",
+        "grover",
+        "mordred",
+        "rdkit",
+        "morgan",
+        "adme",
+        "CPD-cau-DIS--offsides+sider",
+        "CPD-cau-DIS--ctdchemdis",
+        "CPD-trt-DIS--ctdchemdis",
+        "CPD-int-GEN--repohub",
+        "CPD-int-GEN--drugbank_pk",
+        "CPD-int-GEN--drugcentral",
+        "CPD-int-GEN--drugbank_pd",
+        "CPD-int-GEN--drugbank",
+        "CPD-int-GEN--curated_targets",
+        "CPD-int-GEN--pharmacogenomic_targets"
+    ],
+    "protein": [
+        "esm1b",
+        "uniprot",
+        "GEN-pdf-TIS--hpa_proteome",
+        "GEN-ass-PWY--reactome",
+        "GEN-cex-GEN--coexpressdb",
+        "GEN-has-DOM--interpro",
+        "GEN-pab-TIS--hpa_proteome",
+        "GEN-has-MFN--gomf_goa_curated",
+        "GEN-upr-CLL--gdsc1000_mrna",
+        "GEN-ppi-GEN--hi_union",
+        "GEN-ppi-GEN--string",
+        "GEN-ass-DIS--opentargets",
+        "GEN-ass-DIS--disgenet_curated",
+        "GEN-has-CMP--jensencompartmentcurated"
+    ]
+}

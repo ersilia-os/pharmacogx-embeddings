@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA10202",
+    "drugbank_id": "DB00976",
+    "names": [
+        "Telithromycin"
+    ],
+    "description": "Telithromycin, a semi-synthetic erythromycin derivative, belongs to a new chemical class of antibiotics called ketolides. Ketolides have been recently added to the macrolide-lincosamide-streptogramin class of antibiotics. Similar to the macrolide antibiotics, telithromycin prevents bacterial growth by interfering with bacterial protein synthesis. Telithromycin binds to the 50S subunit of the 70S bacterial ribosome and blocks further peptide elongation. Binding occurs simultaneously at to two domains of 23S RNA of the 50S ribosomal subunit, domain II and V, where older macrolides bind only to one. It is used to treat mild to moderate respiratory infections.",
+    "indication": "For the treatment of <i>Pneumococcal</i> infection, acute sinusitis, acute bacterial tonsillitis, acute bronchitis and bronchiolitis, lower respiratory tract infection and lobar (pneumococcal) pneumonia.",
+    "pharmacodynamics": "Telithromycin is a ketolide antibiotic which has an antimicrobial spectrum similar or slightly broader than that of penicillin. It is often used as an alternative in patients who have an allergy to penicillins. For respiratory tract infections, it has better coverage of atypical organisms, including mycoplasma. Telithromycin prevents bacterial growth by binding to bacterial 50S ribosomal subunits and interfering with bacterial peptide translocation and elongation.",
+    "mechanism-of-action": "Telithromycin acts by binding to domains II and V of 23S rRNA of the 50S ribosomal subunit. By binding at domain II, telithromycin retains activity against gram-positive cocci (e.g. Streptococcus pneumoniae) in the presence of resistance mediated by methylases (erm genes) that alter the binding site at domain V. Telithromycin may also inhibit the assembly of nascent ribosomal units. Compared to erythromycin A, telithromycin binds to the 23S rRNA with 10 times greater affinity in erythromycin-susceptible organisms and 25 times greater affinity in macrolide-resistant strains. This increased binding affinity may be conferred by the C11-12 carbamate side chain of telithromycin. The  side chain appears to maintain binding at domain II in the presence of resistance mediated by alterations in domain V. ",
+    "absorption": "Absolute bioavailability is approximately 57%. Maximal concentrations are reached 0.5 - 4 hours following oral administration. Food intake does not affected absorption. ",
+    "metabolism": "Hepatic - estimated 50% metabolized by CYP3A4 and 50% metabolized independent of cytochrome P450",
+    "toxicity": "LD50>2000 mg/kg (PO in rats). Adverse effects are similar to those of clarithormycin and erithromycin and include diarrhea, nausea, vomiting, loose stools, abdominal pain, flatulence and dyspepsia. It may also cause dizziness, headache and taste disturbances. ",
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "PA448953",
+    "drugbank_id": "DB00880",
+    "names": [
+        "Chlorothiazide"
+    ],
+    "description": "A thiazide diuretic with actions and uses similar to those of hydrochlorothiazide. (From Martindale, The Extra Pharmacopoeia, 30th ed, p812)",
+    "indication": "Chlorothiazide is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy. It is also indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effectiveness of other antihypertensive drugs in the more severe forms of hypertension.",
+    "pharmacodynamics": "Like other thiazides, chlorothiazide promotes water loss from the body (diuretics). It inhibits Na<sup>+</sup>/Cl<sup>-</sup> reabsorption from the distal convoluted tubules in the kidneys. Thiazides also cause loss of potassium and an increase in serum uric acid. Thiazides are often used to treat hypertension, but their hypotensive effects are not necessarily due to their diuretic activity. Thiazides have been shown to prevent hypertension-related morbidity and mortality although the mechanism is not fully understood. Thiazides cause vasodilation by activating calcium-activated potassium channels (large conductance) in vascular smooth muscles and inhibiting various carbonic anhydrases in vascular tissue. Chlorothiazide affects the distal renal tubular mechanism of electrolyte reabsorption. At maximal therapeutic dosages, all thiazides are approximately equal in their diuretic efficacy. Chlorothiazide increases excretion of sodium and chloride in approximately equivalent amounts. Natriuresis may be accompanied by some loss of potassium and bicarbonate. After oral doses, 10-15 percent of the dose is excreted unchanged in the urine. Chlorothiazide crosses the placental but not the blood-brain barrier and is excreted in breast milk.",
+    "mechanism-of-action": "As a diuretic, chlorothiazide inhibits active chloride reabsorption at the early distal tubule via the Na-Cl cotransporter, resulting in an increase in the excretion of sodium, chloride, and water. Thiazides like chlorothiazide also inhibit sodium ion transport across the renal tubular epithelium through binding to the thiazide sensitive sodium-chloride transporter. This results in an increase in potassium excretion via the sodium-potassium exchange mechanism. The antihypertensive mechanism of chlorothiazide is less well understood although it may be mediated through its action on carbonic anhydrases in the smooth muscle or through its action on the large-conductance calcium-activated potassium (KCa) channel, also found in the smooth muscle.",
+    "absorption": "Rapidly absorbed following oral administration.",
+    "metabolism": "Chlorothiazide is not metabolized but is eliminated rapidly by the kidney.",
+    "toxicity": "Oral, rat LD<sub>50</sub>: > 10 g/kg. Signs of overdose include those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis. If digitalis has also been administered hypokalemia may accentuate cardiac arrhythmias.",
+    "targets": [
+        [
+            "SLC12A3",
+            "Solute carrier family 12 member 3",
+            "Humans"
+        ],
+        [
+            "CA1",
+            "Carbonic anhydrase 1",
+            "Humans"
+        ],
+        [
+            "CA2",
+            "Carbonic anhydrase 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

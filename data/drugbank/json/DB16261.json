@@ -1,0 +1,32 @@
+{
+    "pharmgkb_id": "PA166268805",
+    "drugbank_id": "DB16261",
+    "names": [
+        "Odevixibat",
+        "Bylvay"
+    ],
+    "description": "Odevixibat, or A4250, is an ileal sodium/bile acid cotransporter inhibitor indicated for the treatment of pruritus in patients older than 3 months, with progressive familial intrahepatic cholestasis (PFIC).[A236808,L34793] Odevixibat is the first approved non-surgical treatment option for PFIC.[L34803] Previous therapies for PFIC included a bile acid sequestrant such as [ursodeoxycholic acid].[A236808]\r\n\r\nOdevixibat was granted FDA and Health Canada approval on 20 July 2021 and 13 November 2023 respectively.[L34793,L49535]",
+    "indication": "Odevixibat is indicated for the treatment of pruritus in patients older than 3 months and 6 months with progressive familial intrahepatic cholestasis (PFIC) by the FDA and Health Canada respectively.[L46826,L49530] It is also indicated for the treatment of cholestatic pruritus in patients 12 months of age and older with Alagille Syndrome.[L46826] Odevixibat may not be effective in patients with PFIC type 2 with ABCB11 variants since these patients lack a functional bile salt export pump.[L34793]",
+    "pharmacodynamics": "Odevixibat, or A4250, is an ileal sodium/bile acid cotransporter inhibitor indicated for the treatment of pruritus in patients older than 3 months, with progressive familiar intrahepatic cholestasis (PFIC).[A236808,L34793] It has a moderate duration of action as it is given once daily.[L34793] Odevixibat has a wide therapeutic index as patients were given single doses up to 10 mg while the maximum therapeutic dose is 6 mg daily.[A236808,L34793] Patients should be counselled regarding the risks of elevated liver function tests, diarrhea, and fat soluble vitamin defiencies.[L34793]",
+    "mechanism-of-action": "Progressive familiar intrahepatic cholestasis (PFIC) is a group of autosomal recessive disorders leading to cholestasis, fibrosis, and eventually a need for liver transplantation.[A236818] Patients with PFIC require liver transplants or develop hepatocellular carcinomas in their first few years of life.[A236818] Many of these patients experience severe pruritus.[A236818] The exact mechanism of pruritus is PFIC is not known, but lower concentrations of bile acids have been shown to reduce pruritus.[A236813,A236823,L34793] Patients with certain forms of PFIC type 2, associated with a non-functional or absent bile salt export pump, are not expected to benefit from odevixibat treatment.[L34793]\r\n\r\nThe ileal sodium/bile acid cotransporter is a transport glycoprotein responsible for reabsorption of 95% of bile acids in the distal ileum.[A236808] Odevixibat is a reversible inhibitor of the ileal sodium/bile acid contransporter.[A236808,L34793] Patients taking odevixibat for a week experienced a 56% reduction in bile acid area under the curve with a 3 mg once daily dose.[A236808] A 1.5 mg daily dose lead to a 43% reduction in bile acid area under the curve.[A236808]\r\n\r\nThe decreased reabsorption of bile acids, leads to reduced stimulation of FXR, which reduces expression of FGF19, reducing binding of FGF19 to FGF4R, decreasing inhibition of bile acid synthesis.[A236808] Further synthesis of bile acids that will not be reabsorbed in the intestine contributes to lowering low density lipoprotein levels.[A236808]",
+    "absorption": "A 7.2 mg single oral dose of odevixibat in adults reaches a C<sub>max</sub> of 0.47 ng/mL, with an AUC<sub>0-24h</sub> of 2.19 h\\*ng/mL.[L34793] The majority of adult and pediatric patients, given a therapeutic dose, do not have detectable plasma concentrations of odevixibat.[A236808,L34793]",
+    "metabolism": "Odevixibat is largely unmetabolized, however a small amount is metabolized _in vitro_ by mono-hydroxylation.[L34793] The exact structure of the metabolite has not been characterized as a primary endpoint of the clinical trial was to characterize the structure of metabolites accounting for >10% of the dose in plasma, urine, or feces.[L34798] No metabolites have been identified at such a high concentration.[L34793]",
+    "toxicity": "Data regarding overdoses of odevixibat are not readily available, due to the low systemic absorption of the drug.[L34793] If patients experience an overdose, initiate treatment with symptomatic and supportive measures.",
+    "targets": [
+        [
+            "SLC10A2",
+            "Ileal sodium/bile acid cotransporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

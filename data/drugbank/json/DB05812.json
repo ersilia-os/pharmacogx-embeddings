@@ -1,0 +1,88 @@
+{
+    "pharmgkb_id": "PA166123407",
+    "drugbank_id": "DB05812",
+    "names": [
+        "Abiraterone"
+    ],
+    "description": "Abiraterone is a potent, irreversible, and selective inhibitor of 17 \u03b1hydroxylase/C17,20-lyase (CYP17), an enzyme expressed in testicular, adrenal, and prostatic tumour tissues, to regulate androgen biosynthesis.[A3811, A260880, L40968] Abiraterone was first approved by the FDA and EMA on April,[A260880] July,[L47745] and September 2011,[A260880] respectively. It is used to treat metastatic castration-resistant prostate cancer and hormone-sensitive high-risk metastatic prostate cancer.[L40968, L40193, L47740, L47745]\r\n\r\nAs abiraterone has poor oral bioavailability and is susceptible to hydrolysis by esterases, abiraterone acetate was developed as an orally bioavailable prodrug with enhanced stability and absorption.[A3811, A260835]",
+    "indication": "Abiraterone is indicated for the treatment of **metastatic castration-resistant prostate cancer (mCRPC)** in combination with [methylprednisolone] [L40968] or [prednisone].[L40193, L47740, L47745] \r\n\r\nIn Europe and Canada, it is also used in patients with mCRPC who are asymptomatic or mildly symptomatic after the failure of androgen deprivation therapy for whom chemotherapy is not yet clinically indicated.[L47740, L47745] In Europe, it is used in patients whose disease has progressed on or after a docetaxel-based chemotherapy regimen.[L47740] In Canada, it is used in patients who have received prior chemotherapy containing [docetaxel] after the failure of androgen deprivation therapy.[L47745]\r\n\r\nAbiraterone is indicated in combination with [prednisone] for the treatment of **metastatic high-risk castration-sensitive prostate cancer (CSPC)**.[L40193] In Europe and Canada, it may also be used in combination with [prednisolone] and androgen deprivation therapy in newly diagnosed patients.[L47740, L47745]\r\n\r\nIn Canada and the US, abiraterone is also available in a combination product with [niraparib], which is indicated with [prednisone] for the treatment of adults with deleterious or suspected deleterious BRCA-mutated (BRCAm) mCRPC.[L46896, L47755] In Canada, this combination product is also used with [prednisolone] and is reserved for patients who are asymptomatic or mildly symptomatic, and in whom chemotherapy is not clinically indicated.[L46896]",
+    "pharmacodynamics": "_In vivo_, abiraterone acetate is rapidly hydrolyzed to abiraterone, which mediates its pharmacological actions.[A3810] Abiraterone decreases serum testosterone and other androgens. A change in serum prostate-specific antigen (PSA) levels may be observed.[L40968]",
+    "mechanism-of-action": "17\u03b1-hydroxylase/C17,20-lyase (CYP17) is a key enzyme in androgen biosynthesis. It is primarily expressed in testicular, adrenal, and prostatic tumours. CYP17 catalyzes the 17\u03b1-hydroxylation of pregnenolone and progesterone to their 17\u03b1-hydroxy derivative, followed by subsequent cleavage of the C 20,21-acetyl group to yield dehydroepiandrosterone (DHEA) and androstenedione. DHEA and androstenedione are precursors of testosterone.[A260870, L40968] Aberrant androgen levels and unregulated androgen receptor signalling have been implicated in the development and progression of various prostate cancers.[A260875] Androgen-sensitive prostatic carcinoma responds to treatment that decreases androgen levels. Androgen deprivation therapies, such as treatment with GnRH agonists or orchiectomy, decrease androgen production in the testes but do not affect androgen production by the adrenals or in the tumour.[A3810, L40968]\r\n\r\nAbiraterone inhibits CYP17 to block androgen production. Inhibition of CYP17 can also result in increased mineralocorticoid production by the adrenals.[L40968] ",
+    "absorption": "Geometric mean (\u00b1 SD) C<sub>max</sub> was 73 (\u00b1 44) ng/mL and AUC<sub>0-\u221e</sub> was 373 (\u00b1 249) ng x hr/mL following a single dose of 500 mg abiraterone acetate in overnight-fasted healthy subjects. Dose proportionality was observed in single doses of abiraterone acetate ranging from 125 mg to 625 mg.[L40968] A group of patients with mCRPC received a daily dose of 1,000 mg: at steady-state, the mean (\u00b1 SD) C<sub>max</sub> was 226 (\u00b1 178) ng/mL and AUC was 993 (\u00b1 639) ng x hr/mL.[L40193] \r\n\r\nFollowing oral administration of abiraterone acetate to patients with metastatic castration-resistant prostate cancer, the median T<sub>max</sub> was two hours. _In vivo_, abiraterone acetate is converted to abiraterone. In clinical studies of other abiraterone acetate formulations, abiraterone acetate plasma concentrations were below detectable levels (< 0.2 ng/mL) in > 99% of the analyzed samples.[L40968]\r\n\r\nSystemic exposure to abiraterone is increased when abiraterone acetate is administered with food. Abiraterone C<sub>max</sub> was approximately 6.5-fold higher, and AUC<sub>0-\u221e</sub> was 4.4-fold higher when a single dose of abiraterone acetate 500 mg was administered with a high-fat meal (56-60% fat, 900-1,000 calories) compared to overnight fasting in healthy subjects.[L40968] Given the normal variation in the content and composition of meals, taking abiraterone with meals has the potential to result in increased and highly variable exposures.[L40193] ",
+    "metabolism": "The conversion of abiraterone acetate to abiraterone, the active metabolite, is likely to be mediated by esterases, although specific esterases have not been identified. In human plasma, the two main circulating metabolites are abiraterone sulfate, which is formed by CYP3A4 and SULT2A1, and N-oxide abiraterone sulfate, which is formed by SULT2A1. These metabolites each account for about 43% of abiraterone exposure and are pharmacologically inactive.[A260885, L40968, L40193]",
+    "toxicity": "The oral LD<sub>50</sub> is > 400 mg/kg in rats and 800 mg/kg in mice.[L47730]\r\n\r\nThe human experience of overdose with abiraterone is limited. Toxicity is related to the blockade of CYP17 activity. Blockade results in the accumulation of upstream mineralocorticoids like 11-deoxycorticosterone, leading to secondary hyperaldosteronism. Signs of hyperaldosteronism include fluid retention and hypokalemia.[A257158] As there is no specific antidote for abiraterone overdose, overdosage should be managed with general supportive measures, including monitoring and assessment of cardiac and liver function.[L40968, L40193]",
+    "targets": [
+        [
+            "CYP17A1",
+            "Steroid 17-alpha-hydroxylase/17,20 lyase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "SULT2A1",
+            "Bile salt sulfotransferase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

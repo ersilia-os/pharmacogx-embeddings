@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA164746311",
+    "drugbank_id": "DB01590",
+    "names": [
+        "Everolimus"
+    ],
+    "description": "Everolimus is a derivative of Rapamycin (sirolimus), and works similarly to Rapamycin as an mTOR (mammalian target of rapamycin) inhibitor. It is currently used as an immunosuppressant to prevent rejection of organ transplants. In a similar fashion to other mTOR inhibitors Everolimus' effect is solely on the mTORC1 protein and not on the mTORC2 protein.",
+    "indication": "Everolimus is indicated for the treatment of postmenopausal women with advanced hormone receptor-positive, HER2-negative breast cancer (advanced HR+ BC) in combination with exemestane, after failure of treatment with letrozole or anastrozole.\r\nIndicated for the treatment of adult patients with progressive neuroendocrine tumors of pancreatic origin (PNET) with unresectable, locally advanced or metastatic disease.\r\nIndicated for the treatment of adult patients with advanced renal cell carcinoma (RCC) after failure of treatment with sunitinib or sorafenib.\r\nIndicated for the treatment of adult patients with renal angiomyolipoma and tuberous sclerosis complex (TSC), not requiring immediate surgery.\r\nIndicated in pediatric and adult patients with tuberous sclerosis complex (TSC) for the treatment of subependymal giant cell astrocytoma (SEGA) that requires therapeutic intervention but cannot be curatively resected.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Everolimus is a mTOR inhibitor that binds with high affinity to the FK506 binding protein-12 (FKBP-12), thereby forming a drug complex that inhibits the activation of mTOR. This inhibition reduces the activity of effectors downstream, which leads to a blockage in the progression of cells from G1 into S phase, and subsequently inducing cell growth arrest and apoptosis. Everolimus also inhibits the expression of hypoxia-inducible factor, leading to a decrease in the expression of vascular endothelial growth factor. The result of everolimus inhibition of mTOR is a reduction in cell proliferation, angiogenesis, and glucose uptake.",
+    "absorption": "In patients with advanced solid tumors, peak everolimus concentrations are reached 1 to 2 hours after administration of oral doses ranging from 5 mg to 70 mg. Following single doses, Cmax is dose-proportional between 5 mg and 10 mg. At doses of 20 mg and higher, the increase in Cmax is less than dose-proportional, however AUC shows dose-proportionality over the 5 mg to 70 mg dose range. Steady-state was achieved within 2 weeks following once-daily dosing.\r\nDose Proportionality in Patients with SEGA (subependymal giant-cell astrocytomas) and TSC (tuberous sclerosis complex): In patients with SEGA and TSC, everolimus Cmin was approximately dose-proportional within the dose range from 1.35 mg/m2 to 14.4 mg/m2.",
+    "metabolism": "Everolimus is a substrate of CYP3A4 and PgP (phosphoglycolate phosphatase). Three monohydroxylated metabolites, two hydrolytic ring-opened products, and a phosphatidylcholine conjugate of everolimus were the 6 primary metabolites detected in human blood. In vitro, everolimus competitively inhibited the metabolism of CYP3A4 and was a mixed inhibitor of the CYP2D6 substrate dextromethorphan.",
+    "toxicity": "IC50 of 0.63 nM.",
+    "targets": [
+        [
+            "MTOR",
+            "Serine/threonine-protein kinase mTOR",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

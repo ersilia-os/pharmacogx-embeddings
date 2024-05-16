@@ -1,0 +1,72 @@
+{
+    "pharmgkb_id": "PA166278021",
+    "drugbank_id": "DB16236",
+    "names": [
+        "Mitapivat"
+    ],
+    "description": "Mitapivat is a novel, first-in-class pyruvate kinase activator. It works to increase the activity of erythrocyte pyruvate kinase, a key enzyme involved in the survival of red blood cells. Defects in the pyruvate kinase enzyme in various red blood cells disorders lead to the lack of energy production for red blood cells, leading to lifelong premature destruction of red blood cells or chronic hemolytic anemia.[A245478]\r\n\r\nOn February 17, 2022, the FDA approved mitapivat as the first disease-modifying treatment for hemolytic anemia in adults with pyruvate kinase (PK) deficiency, a rare, inherited disorder leading to lifelong hemolytic anemia.[L40533] Mitapivat has also been investigated in other hereditary red blood cell disorders associated with hemolytic anemia, such as sickle cell disease and alpha- and beta-thalassemia.[A245478]",
+    "indication": "Mitapivat is indicated for the treatment of hemolytic anemia in adults with pyruvate kinase (PK) deficiency.[L40528]",
+    "pharmacodynamics": "Mitapivat is a pyruvate kinase activator that works to increase the activity of erythrocyte pyruvate kinase, an enzyme responsible for energy production for and survival of red blood cells. It is effective in upregulating the activity of both wild-type and mutant forms of erythrocyte pyruvate kinase.[A245478, L40528]\r\n\r\nInterestingly, mitapivat is a mild-to-moderate inhibitor of the aromatase enzyme (CYP19A1),[A245478] which is an enzyme involved in biosynthesis of estrogens from androgen precursors. Inhibition of aromatase is associated with bone density loss, as estrogen mediates suppressive, antiresorptive effects on osteoclasts and generally favours bone formation over resorption. Thus, low estrogen levels can increase bone turnover and osteoclast activity, resulting in net bone loss and decreased bone quality.[A245483] Inhibition of aromatase by mitapivat may have some clinical implications, as patients with pyruvate kinase deficiency have considerably high rate of osteopenia and osteoporosis. The long-term effect of mitapivant on bond mineral density requires further investigation. One study suggests that this off-target effect may have negligible clinical effects on adults, but may potentially have some clinical implications in developing children.[A245478]",
+    "mechanism-of-action": "The pyruvate kinase enzyme is an ATP-generating enzyme involved in the Embden\u2013Meyerhof glycolytic pathway: it catalyzes the conversion of phosphoenolpyruvate to pyruvate in the final step of glycolysis, generating adenosine triphosphate (ATP), which is critical for cellular maintenance and survival. One of the four isoforms of pyruvate kinase - erythrocyte pyruvate kinase or PKR - is dedicated to red blood cells (RBCs). Compared to most human cells, RBCs lack the metabolic machinery required for aerobic metabolism of glucose and generation of ATP; thus, they rely on anaerobic glycolysis for ATP production. The deficiency of ATP due to glycolytic enzyme defects leads to shortened lifespan and premature destruction of RBCs in the form of chronic hemolytic anemia and ineffective erythropoiesis.[A245478] Pyruvate kinase deficiency is a rare hereditary disorder affecting RBC glycolysis, caused by mutations in _PKLR_, the gene encoding the RBC (PKR) and liver-specific isoforms (PKL) of pyruvate kinase. Pyruvate kinase deficiency is associated with a build-up of 2,3-disphosphoglycerate (2,3-DPG), an upstream metabolite in glycolysis, and deficient ATP levels.[A245493]\r\n\r\nErythrocyte pyruvate kinase is an allosterically regulated homotetrameric enzyme [A245493] that is normally activated by fructose bisphosphate (FBP) in an allosteric fashion. Mitapivat is also an allosteric pyruvate kinase activator but binds to a different allosteric site from FBP on the PKR tetramer. This allows for the activation of both wild-type and mutant forms of erythrocyte pyruvate kinase, including those not induced by FBP.[A245478, L40528] Upon binding to pyruvate kinase, mitapivat stabilizes the active tetrameric form of the enzyme and enhances its affinity for its substrate, phosphoenolpyruvate.[A245488] Mitapivat upregulates erythrocyte pyruvate kinase activity, increases ATP production, and reduces levels of 2,3-DPG.[A245478, L40528]",
+    "absorption": "The absolute bioavailability of mitapivat after a single dose is approximately 73%. Mitapivat exposure increases dose-proportionally. Following twice-daily oral administration of mitapivat at the dose of 5 mg, 20 mg, and 50 mg, the  mean (CV%) C<sub>max</sub> at steady state were 101.2 (17%) ng/mL, 389.9 (18%) ng/mL, and 935.2 (18%) ng/mL, respectively. The mean (CV%) AUC were 450.4 (28%) ng x h/mL, 1623.8 (28%) ng x h/mL, and 3591.4 (28%) ng x h/mL, respectively. The median T<sub>max</sub> values at steady state were 0.5 to 1.0 hour post-dose across the dose range of 5 mg to 50 mg twice daily.\r\n\r\nIn healthy subjects, a high-fat meal did not affect the drug exposure but reduced the rate of mitapivat absorption, with a 42% reduction in C<sub>max</sub> and a delay in T<sub>max</sub> of 2.3 hours when compared to dosing under fasted conditions.[L40528]",
+    "metabolism": "According to _in vitro_ studies, mitapivat is primarily metabolized by CYP3A4.[L40528] It is also a substrate of CYP1A2, CYP2C8, and CYP2C9.[A245478] Following a single oral dose administration of 120 mg of radiolabeled mitapivat in healthy subjects, unchanged mitapivat was the major circulating component in plasma.[L40528]",
+    "toxicity": "There is no information available regarding the LD<sub>50</sub> and overdose profile of mitapivat.",
+    "targets": [
+        [
+            "PKLR",
+            "Pyruvate kinase PKLR",
+            "Humans"
+        ],
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

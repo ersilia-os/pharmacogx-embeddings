@@ -1,0 +1,43 @@
+{
+    "pharmgkb_id": "PA449390",
+    "drugbank_id": "DB00757",
+    "names": [
+        "Dolasetron",
+        "Anemet",
+        "Zamanon"
+    ],
+    "description": "Dolasetron is an antinauseant and antiemetic agent indicated for the prevention of nausea and vomiting associated with moderately-emetogenic cancer chemotherapy and for the prevention of postoperative nausea and vomiting. Dolasetron is a highly specific and selective serotonin 5-HT3 receptor antagonist. This drug is not shown to have activity at other known serotonin receptors, and has low affinity for dopamine receptors.",
+    "indication": "For the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, including initial and repeat courses of chemotherapy. Also used for the prevention of postoperative nausea and vomiting. This drug can be used intravenously for the treatment of postoperative nausea and vomiting.",
+    "pharmacodynamics": "Dolasetron is a highly specific and selective serotonin 5-HT<sub>3</sub> receptor antagonist, not shown to have activity at other known serotonin receptors and with low affinity for dopamine receptors. It is structurally and pharmacologically related to other 5-HT<sub>3</sub> receptor agonists. The serontonin 5-HT<sub>3</sub> receptors are located on the nerve terminals of the vagus in the periphery, and centrally in the chemoreceptor trigger zone of the area postrema. It is suggested that chemotherapeutic agents release serotonin from the enterochromaffin cells of the small intestine by causing degenerative changes in the GI tract. The serotonin then stimulates the vagal and splanchnic nerve receptors that project to the medullary vomiting center, as well as the 5-HT<sub>3</sub> receptors in the area postrema, thus initiating the vomiting reflex, causing nausea and vomiting.",
+    "mechanism-of-action": "Dolasetron is a selective serotonin 5-HT<sub>3</sub> receptor antagonist. In vivo, the drug is rapidly converted into its major active metabolite, hydrodolasetron, which seems to be largely responsible for the drug's pharmacological activity. The antiemetic activity of the drug is brought about through the inhibition of 5-HT<sub>3</sub> receptors present both centrally (medullary chemoreceptor zone) and peripherally (GI tract). This inhibition of 5-HT<sub>3</sub> receptors in turn inhibits the visceral afferent stimulation of the vomiting center, likely indirectly at the level of the area postrema, as well as through direct inhibition of serotonin activity within the area postrema and the chemoreceptor trigger zone.",
+    "absorption": "Orally-administered dolasetron is well absorbed",
+    "metabolism": "Hepatic",
+    "toxicity": null,
+    "targets": [
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

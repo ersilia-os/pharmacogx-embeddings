@@ -1,0 +1,66 @@
+{
+    "pharmgkb_id": "PA451223",
+    "drugbank_id": "DB00178",
+    "names": [
+        "Ramipril",
+        "Acovil",
+        "Carasel",
+        "Cardace",
+        "Delix",
+        "Hypren",
+        "Lostapres",
+        "Pramace",
+        "Quark",
+        "Triatec",
+        "Tritace",
+        "Vesdil"
+    ],
+    "description": "Ramipril is a prodrug belonging to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is metabolized to ramiprilat in the liver and, to a lesser extent, kidneys. Ramiprilat is a potent, competitive inhibitor of ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Ramipril may be used in the treatment of hypertension, congestive heart failure, nephropathy, and to reduce the rate of death, myocardial infarction and stroke in individuals at high risk of cardiovascular events.",
+    "indication": "For the management of mild to severe hypertension. May be used to reduce cardiovascular mortality following myocardial infarction in hemodynamically stable individuals who develop clinical signs of congestive heart failure within a few days following myocardial infarction. [FDA Label] To reduce the rate of death, myocardial infarction and stroke in individuals at high risk of cardiovascular events. May be used to slow the progression of renal disease in individuals with hypertension, diabetes mellitus and microalubinuria or overt nephropathy. [T116] ",
+    "pharmacodynamics": "Ramipril is an ACE inhibitor similar to benazepril, fosinopril and quinapril. [T116] It is an inactive prodrug that is converted to ramiprilat in the liver, the main site of activation, and kidneys. Ramiprilat confers blood pressure lowing effects by antagonizing the effect of the RAAS. The RAAS is a homeostatic mechanism for regulating hemodynamics, water and electrolyte balance. During sympathetic stimulation or when renal blood pressure or blood flow is reduced, renin is released from the granular cells of the juxtaglomerular apparatus in the kidneys. In the blood stream, renin cleaves circulating angiotensinogen to ATI, which is subsequently cleaved to ATII by ACE. ATII increases blood pressure using a number of mechanisms. First, it stimulates the secretion of aldosterone from the adrenal cortex. Aldosterone travels to the distal convoluted tubule (DCT) and collecting tubule of nephrons where it increases sodium and water reabsorption by increasing the number of sodium channels and sodium-potassium ATPases on cell membranes. Second, ATII stimulates the secretion of vasopressin (also known as antidiuretic hormone or ADH) from the posterior pituitary gland. ADH stimulates further water reabsorption from the kidneys via insertion of aquaporin-2 channels on the apical surface of cells of the DCT and collecting tubules. Third, ATII increases blood pressure through direct arterial vasoconstriction. Stimulation of the Type 1 ATII receptor on vascular smooth muscle cells leads to a cascade of events resulting in myocyte contraction and vasoconstriction. In addition to these major effects, ATII induces the thirst response via stimulation of hypothalamic neurons. ACE inhibitors inhibit the rapid conversion of ATI to ATII and antagonize RAAS-induced increases in blood pressure. ACE (also known as kininase II) is also involved in the enzymatic deactivation of bradykinin, a vasodilator. Inhibiting the deactivation of bradykinin increases bradykinin levels and may sustain the effects of ramiprilat by causing increased vasodilation and decreased blood pressure.",
+    "mechanism-of-action": "Ramipril inhibits the RAAS system by binding to and inhibiting ACE thereby preventing the conversion of angiotensin I to angiotensin II. [T116] As plasma levels of angiotensin II fall, less activation of the G-protein coupled receptors angiotensin receptor I (AT<sub>1</sub>R) and angiotensin receptor II (AT<sub>2</sub>R) occurs. \r\n\r\nAT<sub>1</sub>R mediates vasoconstriction, inflammation, fibrosis, and oxidative stress through a variety of signaling pathways. [T116] These include G<sub>q</sub> coupling to the inositol triphosphate pathway, activation of phospholipases C, A<sub>2</sub>, and D which contribute to eicosanoid production, activation of Ca<sup>2+</sup>-dependent and MAP kinases, G<sub>i</sub> and G<sub>12/13</sub>, and eventual activation of the Jak/STAT pathway leading to cell growth and production of extracellular matrix components. AT<sub>1</sub>R activation also leads to increased activity of membrane-bound NADH/NADPH oxidase which contributes to production of reactive oxygen species. Decreased activation of this receptor mediates the renoprotective, antihypertensive, and cardioprotective effects of ramipril by reducing inflammation and vasoconstriction.\r\n\r\nAT<sub>2</sub>R acts in opposition to the effects of AT<sub>1</sub>R by activating phosphotyrosine phosphatases which inhibit MAP kinases, inhibiting Ca<sup>2+</sup> channel opening, and stimulating cGMP and nitric oxide production leading to vasodilation. [T116] These counteracting effects are shared by the Mas receptor which is activated by Ang(1-7), a subtype of angiotensin produced by plasma esterases from AngI or by ACE2 from AngII produced through a secondary pathway by tonin and cathepsin G. Ang(1-7) also activates AT<sub>2</sub>R although the bulk of its effect is mediated by MasR.\r\n\r\nACE is also responsible for the breakdown of bradykinin. [T116] The resulting buildup of bradykinin due to ACE inhibition is thought to mediate the characteristic dry-cough as a side effect of ACE inhibitor medications.\r\n\r\n",
+    "absorption": "The extent of absorption is at least 50-60%.[FDA Label]. Food decreases the rate of absorption from the GI tract without affecting the extent of absorption. The absolute bioavailabilities of ramipril and ramiprilat were 28% and 44%, respectively, when oral administration was compared to intravenous administration. The serum concentration of ramiprilat was unchanged when capsules were opened and the contents dissolved in water, dissolved in apple juice, or suspended in apple sauce.",
+    "metabolism": "Hepatic metabolism accounts for 75% of total ramipril metabolism.[FDA Label] 25% of hepatic metabolism produces the active metabolite ramiprilat via liver esterase enzymes. 100% of renal metabolism converts ramipril to ramiprilat. Other metabolites, diketopiperazine ester, the diketopiperazine acid, and the glucuronides of ramipril and ramiprilat, are inactive.",
+    "toxicity": "Symptoms of overdose may include excessive peripheral vasodilation (with marked hypotension and shock), bradycardia, electrolyte disturbances, and renal failure. Cases of ACE inhibitor induced hepatotoxicity have been reported in humans and presented as acute jaundice and elevated liver enzymes.[A174280] Removal of the ACE inhbitor resulted in a decline in liver enzymes and re-challenge produced a subsequent increase. \r\n\r\nThere were no observed tumerogenic effects at chronic doses up to 500mg/kg/day to rats for 24 months or at doses up to 1000mg/kg/day to mice for 18 months. For both species doses were administered by gavage and equivalent to 200 time the maximum recommended human exposure based on body surface area.\r\n\r\nNo mutagenic activity was detected in the Ames test in bacteria, the micronucleus test in mice, unscheduled DNA synthesis in a human cell line, or a forward gene-mutation assay in a Chinese hamster ovary cell line. Several metabolites of ramipril also produced negative results in the Ames test.\r\n\r\nNo effects on fertility were seen in rats at doses up to 500mg/kg/day. No teratogenicity was observed in rats and cynomolgus monkeys at doses 400 times the maximum recommended human exposure nor in rabbites at 2 times the maximum recommended human exposure.\r\n\r\nLD<sub>50</sub> 10 g/kg (rat).[MSDS]\r\nLD<sub>50</sub> 10.5 g/kg (mouse).[MSDS]\r\nLD<sub>50</sub> 1 g/kg (dog).[MSDS]\r\n",
+    "targets": [
+        [
+            "ACE",
+            "Angiotensin-converting enzyme",
+            "Humans"
+        ],
+        [
+            "BDKRB1",
+            "B1 bradykinin receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00178",
+            "Drug Name": "Ramipril",
+            "Gene Symbol": "ACE",
+            "RS ID (Genotype)": "rs4344",
+            "Effect Description": "Patients with this genotype have a shorter time to lowering of blood pressure with ramipril"
+        }
+    ]
+}

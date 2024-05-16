@@ -1,0 +1,81 @@
+{
+    "pharmgkb_id": "PA449621",
+    "drugbank_id": "DB00950",
+    "names": [
+        "Fexofenadine",
+        "Fastofen",
+        "Fexidine",
+        "Telfast",
+        "Vifas"
+    ],
+    "description": "Fexofenadine is an over-the-counter second-generation antihistamine used in the treatment of various allergic symptoms.[L4269] It is selective for the H<sub>1</sub> receptor, carries little-to-no activity at off-targets, and does not cross the blood-brain barrier[L10779] - this is in contrast to previous first-generation antihistamines, such as [diphenhydramine], which readily bind to off-targets that contribute to side effects such as sedation.[A1452] Fexofenadine is the major active metabolite of [terfenadine][A1495] and is administered as a racemic mixture in which both enantiomers display approximately equivalent antihistamine activity.[L10779]",
+    "indication": "In the United States, fexofenadine is indicated for the symptomatic treatment of allergic rhinitis in patients \u22652 years old and chronic idiopathic urticaria in patients \u22656 months old.[L4269] In Canada, fexofenadine carries the same indications but is approved only for patients \u226512 years old.[L10779] Fexofenadine is also available in combination with [pseudoephedrine] for the symptomatic treatment of season allergic rhinitis in patients \u226512 years old.[L10800]",
+    "pharmacodynamics": "Fexofenadine relieves allergy symptoms by antagonizing the actions of histamine, an endogenous compound predominantly responsible for allergic symptomatology.[L4269] The relatively long duration of action of fexofenadine (approximately 24 hours)[A1495] allows for once or twice daily dosing, and its rapid absorption allows for an onset of action within 1-3 hours. Fexofenadine should not be taken with fruit juice, as this may impair its absorption.[L4269]",
+    "mechanism-of-action": "The H<sub>1</sub> histamine receptor is responsible for mediating hypersensitivity and allergic reactions. Exposure to an allergen results in degranulation of mast cells and basophils, which then release histamine and other inflammatory mediators. Histamine binds to, and activates, H<sub>1</sub> receptors, which results in the further release of pro-inflammatory cytokines, such as interleukins, from basophils and mast cells. These downstream effects of histamine binding are responsible for a wide variety of allergic symptoms, such as pruritus, rhinorrhea, and watery eyes.[A1495]\r\n\r\nFexofenadine is considered an \u201cinverse agonist\u201d of the H<sub>1</sub> receptor because it binds to and stabilizes the inactive form of the receptor, preventing its activation and subsequent downstream effects.[A1495] It has a potent and selective affinity for H<sub>1</sub> receptors, and there is no evidence that it carries antidopaminergic, antiserotonergic, anticholinergic, sedative, or adrenergic blocking activity.[L10779] Fexofenadine does not cross the blood-brain barrier and thus is unlikely to cause significant CNS effects.[L10779]",
+    "absorption": "Fexofenadine is rapidly absorbed following oral administration and its absolute bioavailability is approximately 33%.[L10779] The T<sub>max</sub> following oral administration is approximately 1-3 hours.[L10779,A1495] The steady-state AUC<sub>ss(0-12h)</sub> and C<sub>max</sub> following twice daily dosing of 60mg are 1367 ng/mL.h and 299 ng/mL, respectively.[L10779]\r\n\r\nFexofenadine AUC is decreased by >20% when coadministered with fruit juices (e.g. apple, orange, grapefruit) due to their inhibition of OATP transporters - for this reason, prescribing information recommends administering fexofenadine only with water.[A188754] Similarly, coadministration of fexofenadine with a high-fat meal appears to decrease AUC and C<sub>max</sub> by >20%.[L4269]",
+    "metabolism": "Fexofenadine is very minimally metabolized, with only 5% of an ingested dose undergoing hepatic metabolism.[L4269,A1495] The only identified metabolites are a methyl ester of fexofenadine (3.6% of the total dose) and MDL 4829 (1.5% of the total dose).[L10779] The enzymes responsible for this metabolism have not been elucidated.",
+    "toxicity": "No deaths were observed following the oral administration of up to 5000 mg/kg in both mice and rats (equivalent to approximately 100-200x the recommended human dose). Single doses of up to 800 mg and chronic exposure of up to 690 mg twice daily for 1 month in humans did not result in clinically significant adverse events. Symptoms of overdosage are consistent with fexofenadine's adverse effect profile and are likely to include dizziness, drowsiness, and dry mouth.[L4269]\r\n\r\nIf overdosage occurs, employ symptomatic and supportive treatment. Hemodialysis does not effectively remove fexofenadine from the blood and is therefore of no benefit.[L4269]",
+    "targets": [
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

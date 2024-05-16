@@ -1,0 +1,201 @@
+{
+    "pharmgkb_id": "PA448383",
+    "drugbank_id": "DB01118",
+    "names": [
+        "Amiodarone",
+        "Amio-Aqueous IV",
+        "Aratac",
+        "Arycor",
+        "Atlansil",
+        "Tachyra"
+    ],
+    "description": "Amiodarone is a benzofuran derivative, anti-arrhythmic drug used commonly in a variety of settings.[A36817] Most known for its approved indication in life-threatening ventricular arrhythmias, it is also used off-label in the outpatient and inpatient setting for atrial fibrillation. Because of its ability to cause serious toxicity and possibly death, amiodarone use should be reserved for its approved indications, according to prescribing information.[L3561,L11265,L11286]",
+    "indication": "The FDA approved indications for amiodarone are recurrent ventricular fibrillation (VF) and recurrent hemodynamically unstable ventricular tachycardia (VT). The FDA emphasizes that this drug should only be given in these conditions when they are clinically documented and have not responded to normal therapeutic doses of other antiarrhythmic agents, or when other drugs are not tolerated by the patient.[L3561]\r\n\r\nOff-label indications include atrial fibrillation and supraventricular tachycardia.[A189666,A189720,A189723,L11286]",
+    "pharmacodynamics": "After intravenous administration, amiodarone acts to relax smooth muscles that line vascular walls, decreases peripheral vascular resistance (afterload), and increases the cardiac index by a small amount. Administration by this route also decreases cardiac conduction, preventing and treating arrhythmias.[A1901,A189666,L3561] When it is given orally, however, amiodarone does not lead to significant changes in the left ventricular ejection fraction. Similar to other anti-arrhythmic agents, controlled clinical trials do not confirm that oral amiodarone increases survival.[L3561] \r\n\r\nAmiodarone prolongs the QRS duration and QT interval.  In addition, a decreased SA (sinoatrial) node automaticity occurs with a decrease in AV node conduction velocity. Ectopic pacemaker automaticity is also inhibited.[L11265] Thyrotoxicosis or hypothyroidism may also result from the administration of amiodarone, which contains high levels of iodine, and interferes with normal thyroid function.[A182168]",
+    "mechanism-of-action": "Amiodarone is considered a class III anti-arrhythmic drug. It blocks potassium currents that cause repolarization of the heart muscle during the third phase of the cardiac action potential. As a result amiodarone increases the duration of the action potential as well as the effective refractory period for cardiac cells (myocytes). Therefore, cardiac muscle cell excitability is reduced, preventing and treating abnormal heart rhythms.[A183137,A189747]\r\n\r\nUnique from other members of the class III anti-arrhythmic drug class, amiodarone also interferes with the functioning of beta-adrenergic receptors, sodium channels, and calcium channels channels. These actions, at times, can lead to undesirable effects, such as hypotension, bradycardia, and Torsades de pointes (TdP).[L11265] In addition to the above, amiodarone may increase activity of peroxisome proliferator-activated receptors, leading to steatogenic changes in the liver or other organs.[A20227,A20650] Finally, amiodarone has been found to bind to the thyroid receptor due to its iodine content, potentially leading to amiodarone induced hypothyroidism or thyrotoxicosis.[A182168]",
+    "absorption": "The Cmax of amiodarone in the plasma is achieved about 3 to 7 hours after administration.[L3561] The general time to onset of action of amiodarone after one dose given by the intravenous route is between 1 and 30 minutes, with therapeutic effects lasting from 1-3 hours. Steady-state concentrations of amiodarone in the plasma ranges between 0.4 to 11.99 \u03bcg/ml; it is advisable that steady-state levels are generally maintained between 1.0 and 2.5 \u03bcg/ml in patients with arrhythmias.[A36817,A183137]\r\n\r\nInterestingly, its onset of action may sometimes begin after 2 to 3 days, but frequently takes 1 to 3 weeks, despite the administration of higher loading doses.[L3561] The bioavailability of amiodarone varies in clinical studies, averaging between 35 and 65%.[L3561]\r\n\r\nEffect of food\r\n\r\nIn healthy subjects who were given a single 600-mg dose immediately after consuming a meal high in fat, the AUC of amiodarone increased by 2.3 and the Cmax by 3.8 times.[L3561] Food also enhances absorption, reducing the Tmax by about 37%.[L3561] \r\n",
+    "metabolism": "This drug is metabolized to the main metabolite desethylamiodarone (DEA)[A36817] by the CYP3A4 and CYP2C8 enzymes. The CYP3A4 enzyme is found in the liver and intestines.[L3561] A hydroxyl metabolite of DEA has been identified in mammals, but its clinical significance is unknown.[A189829]\r\n",
+    "toxicity": "The LD50 of oral amiodarone in mice and rats exceeds 3,000 mg/kg.[L3561]\r\nAn overdose with amiodarone can have a fatal outcome due to its potential to cause arrhythmia. Signs or symptoms of an overdose may include, hypotension, shock, bradycardia, AV block, and liver toxicity. In cases of an overdose, initiate supportive treatment and, if needed, use fluids, vasopressors, or positive inotropic agents. Temporary pacing may be required for heart block. Ensure to monitor liver function regularly. Amiodarone and its main metabolite, DEA, are not removable by dialysis.[L8087]",
+    "targets": [
+        [
+            "KCNH2",
+            "HERG human cardiac K+ channel",
+            "Humans"
+        ],
+        [
+            "KCNH6",
+            "HERG human cardiac K+ channel",
+            "Humans"
+        ],
+        [
+            "KCNH7",
+            "HERG human cardiac K+ channel",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "CACNA1I",
+            "Voltage-dependent T-type calcium channel subunit alpha-1I",
+            "Humans"
+        ],
+        [
+            "CACNA1C",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1F",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB1",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB3",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB4",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "THRA",
+            "Thyroid hormone receptor",
+            "Humans and other mammals"
+        ],
+        [
+            "THRB",
+            "Thyroid hormone receptor",
+            "Humans and other mammals"
+        ],
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ],
+        [
+            "PPARA",
+            "Peroxisome proliferator-activated receptor alpha",
+            "Humans"
+        ],
+        [
+            "PPARGC1B",
+            "Peroxisome proliferator-activated receptor gamma coactivator 1-beta",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2J2",
+            "Cytochrome P450 2J2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01118",
+            "Drug Name": "Amiodarone",
+            "Gene Symbol": "KCNH2",
+            "RS ID (Genotype)": null,
+            "Adverse Reaction Description": "The presence of polymorphisms in KCNH2 and KCNE2 may potentially be associated with increased susceptibility to long Q-T syndrome or cardiac arrhytmia when treated with amiodarone."
+        }
+    ]
+}

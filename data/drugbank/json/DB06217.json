@@ -1,0 +1,47 @@
+{
+    "pharmgkb_id": "PA166184233",
+    "drugbank_id": "DB06217",
+    "names": [
+        "Vernakalant",
+        "Kynapid"
+    ],
+    "description": "Vernakalant was developed by Cardiome Pharma as as an antiarrhythmic drug intended for rapid conversion of atrial fibrillation to sinus rhythm. It acts as an atypical class III antiarrhythmic drug that potentiates its effect in higher heart rates. Intravenous formulation was approved in Europe in September 2010 as Brinavess and in Canada in April 2017. It is an investigational drug under regulatory review by FDA.",
+    "indication": "Indicated for the rapid conversion of recent onset of atrial fibrillation to sinus rhythm in adults for non-surgery patients that lasts for less than 7 days of duration and post-cardiac surgery patients with atrial fibrillation lasting less than 3 days of duration.",
+    "pharmacodynamics": "Vernakalant blocks currents in all phases of atrial action potential including atria-specific potassium currents (the ultra-rapid delayed rectifier and the acetylcholine dependent potassium currents)  and prolongs the refractory period. It dose-dependently prolongs atrial refractoriness, prolongs AV nodal conduction and refractoriness, and slightly prolongs QRS duration without significantly affecting ventricular refractory period. Vernakalant has a high affinity to ion channels specifically involved in repolarization of atrial tissue and is thought to have a low proarrhythmic potential.",
+    "mechanism-of-action": "Vernakalant blocks atrial voltage-gated sodium channels in a dose and frequency-dependent manner and inhibits late sodium current (INa)which confers its effect on intra-atrial conduction. This current blockade enhance and onset of drug action accelerates in higher heart rate as the affinity of vernakalant for INa also increases. Its binding offset is quick once the heart rate slows [A19198]. It also blocks Kv 1.5 channel and its early activating potassium channels (IKur) and inhibits acetylcholine-activated potassium channels (IKAch), which are specific to the atrium and cause prolongation of atrial refractoriness. Vernakalant also blocks Kv4.3 channel and its cardiac transient outward potassium current (Ito), which is involved more with atrial than ventricular refractoriness [A19203]. \r\nVernakalant minimally blocks hERG channels and its rapidly activating/delayed rectifying potassium current (IKr) which accounts for mild QT prolongation. QRS widening due to INa blockade also contributes to QT prolongation [A19197]. ",
+    "absorption": "In patients, average peak plasma concentrations of vernakalant were 3.9 \u03bcg/ml following a single 10 minute infusion of 3 mg/kg vernakalant hydrochloride, and 4.3 \u03bcg/ml following a second infusion of 2 mg/kg with a 15 minute interval between doses [L765]. ",
+    "metabolism": "Vernakalant is mainly eliminated by CYP2D6 mediated O-demethylation in CYP2D6 extensive metabolisers. Glucuronidation is the main metabolism pathway in CYP2D6 poor metabolisers.",
+    "toxicity": "Some common unwanted effects include hypotension, ventricular arrhythmias, bradycardia, atrial flutter, dysgeusia,  paraesthesia, dizziness and nausea.",
+    "targets": [
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ],
+        [
+            "KCNA5",
+            "Potassium voltage-gated channel subfamily A member 5",
+            "Humans"
+        ],
+        [
+            "KCND3",
+            "Potassium voltage-gated channel subfamily D member 3",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

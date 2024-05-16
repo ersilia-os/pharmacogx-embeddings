@@ -1,0 +1,149 @@
+{
+    "pharmgkb_id": "PA449048",
+    "drugbank_id": "DB01242",
+    "names": [
+        "Clomipramine",
+        "Anapramine",
+        "Hydiphen"
+    ],
+    "description": "Clomipramine, the 3-chloro analog of imipramine, is a dibenzazepine-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, clomipramine does not affect mood or arousal, but may cause sedation. In depressed individuals, clomipramine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Tertiary amine TCAs, such as clomipramine, are more potent inhibitors of serotonin reuptake than secondary amine TCAs, such as nortriptyline and desipramine. TCAs also down-regulate cerebral cortical &beta;-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H<sub>1</sub> receptors, &alpha;<sub>1</sub>-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. See toxicity section below for a complete listing of side effects. Clomipramine may be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette\u2019s disorder). Unlabeled indications include panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy, autistic disorder, trichotillomania, onchophagia, stuttering, premature ejaculation, and premenstrual syndrome. Clomipramine is rapidly absorbed from the gastrointestinal tract and demethylated in the liver to its primary active metabolite, desmethylclomipramine.",
+    "indication": "May be used to treat obsessive-compulsive disorder and disorders with an obsessive-compulsive component (e.g. depression, schizophrenia, Tourette\u2019s disorder).\r\nUnlabeled indications include: depression, panic disorder, chronic pain (e.g. central pain, idiopathic pain disorder, tension headache, diabetic peripheral neuropathy, neuropathic pain), cataplexy and associated narcolepsy (limited evidence), autistic disorder (limited evidence), trichotillomania (limited evidence), onchophagia (limited evidence), stuttering (limited evidence), premature ejaculation, and premenstrual syndrome. ",
+    "pharmacodynamics": "Clomipramine, a tricyclic antidepressant, is the 3-chloro derivative of Imipramine. It was thought that tricyclic antidepressants work exclusively by inhibiting the re-uptake of the neurotransmitters norepinephrine and serotonin by nerve cells. However, this response occurs immediately, yet mood does not lift for around two weeks. It is now thought that changes occur in receptor sensitivity in the cerebral cortex and hippocampus. The hippocampus is part of the limbic system, a part of the brain involved in emotions. Presynaptic receptors are affected: &alpha;<sub>1</sub> and &beta;<sub>1</sub> receptors are sensitized, &alpha;<sub>2</sub> receptors are desensitized (leading to increased noradrenaline production). Tricyclics are also known as effective analgesics for different types of pain, especially neuropathic or neuralgic pain.",
+    "mechanism-of-action": "Clomipramine is a strong, but not completely selective serotonin reuptake inhibitor (SRI), as the active main metabolite desmethyclomipramine acts preferably as an inhibitor of noradrenaline reuptake. &alpha;<sub>1</sub>-receptor blockage and &beta;-down-regulation have been noted and most likely play a role in the short term effects of clomipramine. A blockade of sodium-channels and NDMA-receptors might, as with other tricyclics, account for its effect in chronic pain, in particular the neuropathic type.",
+    "absorption": "Well absorbed from the GI tract following oral administration. Bioavailability is approximately 50% orally due to extensive first-pass metabolism. Bioavailability is not affected by food. Peak plasma concentrations occurred 2-6 hours following oral administration of a single 50 mg dose. The peak plasma concentration ranged from 56 ng/mL to 154 mg/mL (mean, 92 ng/mL).  There are large interindividual variations in plasma concentrations occur, partly due to genetic differences in clomipramine metabolism. On average, steady state plasma concentrations are achieved in 1-2 weeks following multiple dose oral administration. Smoking appears to lower the steady-state plasma concentration of clomipramine, but not its active metabolite desmethylclomipramine. ",
+    "metabolism": "Extensively metabolized in the liver. The main active metabolite is desmethylclomipramine, which is formed by <i>N</i>-demethylation of clomipramine via CYP2C19, 3A4 and 1A2. Other metabolites and their glucuronide conjugates are also produced. Other metabolites of clomipramine include 8-hydroxyclomipramine formed via 8-hydroxylation, 2-hydroxyclomipramine formed via 2-hydroxylation, and clomipramine <i>N</i>-oxide formed by <i>N</i>-oxidation. Desmethylclomipramine is further metabolized to 8-hydroxydesmethylclomipramine and didesmethylclomipramine, which are formed by 8-hydroxylation and <i>N</i>-demethylation, respectively. 8-Hydroxyclomipramine and 8-hydroxydesmethylclomipramine are pharmacologically active; however, their clinical relevance remains unknown.",
+    "toxicity": "Signs and symptoms vary in severity depending upon factors such as the amount of drug absorbed, the age of the patient, and the time elapsed since drug ingestion. Critical manifestations of overdose include cardiac dysrhythmias, severe hypotension, convulsions, and CNS depression including coma. Changes in the electrocardiogram, particularly in QRS axis or width, are clinically significant indicators of tricyclic toxicity. In U.S. clinical trials, 2 deaths occurred in 12 reported cases of acute overdosage with Anafranil either alone or in combination with other drugs. One death involved a patient suspected of ingesting a dose of 7000 mg. The second death involved a patient suspected of ingesting a dose of 5750 mg.\r\nSide effects include: sedation, hypotension, blurred vision, dry mouth, constipation, urinary retention, postural hypotension, tachycardia, hypertension, ECG changes, heart failure, impaired memory and delirium, and precipitation of hypomanic or manic episodes in bipolar depression. \r\nWithdrawal symptoms include gastrointestinal disturbances, anxiety, and insomnia. ",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine receptor 2B",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "GSTP1",
+            "Glutathione S-transferase P",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01242",
+            "Drug Name": "Clomipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "Patients with this genotype have reduced metabolism of clomipramine."
+        },
+        {
+            "DrugBank ID": "DB01242",
+            "Drug Name": "Clomipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs35742686",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of clomipramine."
+        },
+        {
+            "DrugBank ID": "DB01242",
+            "Drug Name": "Clomipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of clomipramine."
+        },
+        {
+            "DrugBank ID": "DB01242",
+            "Drug Name": "Clomipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of clomipramine."
+        },
+        {
+            "DrugBank ID": "DB01242",
+            "Drug Name": "Clomipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of clomipramine."
+        },
+        {
+            "DrugBank ID": "DB01242",
+            "Drug Name": "Clomipramine",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with poor metabolism of clomipramine."
+        },
+        {
+            "DrugBank ID": "DB01242",
+            "Drug Name": "Clomipramine",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with reduced or poor metabolism of clomipramine."
+        },
+        {
+            "DrugBank ID": "DB01242",
+            "Drug Name": "Clomipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1135824",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of clomipramine."
+        },
+        {
+            "DrugBank ID": "DB01242",
+            "Drug Name": "Clomipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs28371733",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of clomipramine."
+        }
+    ]
+}

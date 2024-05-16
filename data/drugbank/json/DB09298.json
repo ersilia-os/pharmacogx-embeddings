@@ -1,0 +1,47 @@
+{
+    "pharmgkb_id": "PA166129539",
+    "drugbank_id": "DB09298",
+    "names": [
+        "Silibinin",
+        "Legalon"
+    ],
+    "description": "Silibinin is the major active constituent of silymarin, a standardized extract of the milk thistle seeds, containing a mixture of flavonolignans consisting of silibinin, isosilibinin, silicristin, silidianin and others. Silibinin is presented as a mixture of two diastereomers, silybin A and silybin B, which are found in an approximately equimolar ratio. Both in vitro and animal research suggest that silibinin has hepatoprotective (antihepatotoxic) properties that protect liver cells against toxins. Silibinin has also demonstrated in vitro anti-cancer effects against human prostate adenocarcinoma cells, estrogen-dependent and -independent human breast carcinoma cells, human ectocervical carcinoma cells, human colon cancer cells, and both small and nonsmall human lung carcinoma cells.",
+    "indication": "Currently being tested as a treatment of severe intoxications with hepatotoxic substances, such as death cap (Amanita phalloides) poisoning.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": null,
+    "enzymes": [
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

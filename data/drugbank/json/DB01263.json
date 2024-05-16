@@ -1,0 +1,38 @@
+{
+    "pharmgkb_id": "PA151958574",
+    "drugbank_id": "DB01263",
+    "names": [
+        "Posaconazole",
+        "Noxafil"
+    ],
+    "description": "Posaconazole is a triazole antifungal drug that is used to treat invasive infections by Candida species and Aspergillus species in severely immunocompromised patients.",
+    "indication": "For prophylaxis of invasive <em>Aspergillus</em> and <em>Candida</em> infections in patients, 13 years of age and older, who are at high risk of developing these infections due to being severely immunocompromised as a result of procedures such as hematopoietic stem cell transplant (HSCT) recipients with graft-versus-host disease (GVHD), or due to hematologic malignancies with prolonged neutropenia from chemotherapy. Also for the treatment of oropharyngeal candidiasis, including oropharyngeal candidiasis refractory to itraconazole and/or fluconazole. Posaconazole is used as an alternative treatment for invasive aspergillosis, <em>Fusarium</em> infections, and zygomycosis in patients who are intolerant of, or whose disease is refractory to, other antifungals.",
+    "pharmacodynamics": "Posaconazole is an antifungal agent structurally related to itraconazole. It is a drug derived from itraconzaole through the replacement of the chlorine substituents with flourine in the phenyl ring, as well as hydroxylation of the triazolone side chain. These modifications enhance the potency and spectrum of activity of the drug. Posaconazole can be either fungicial or fungistatic in action.",
+    "mechanism-of-action": "As a triazole antifungal agent, posaconazole exerts its antifungal activity through blockage of the cytochrome P-450 dependent enzyme, sterol 14&alpha;-demethylase, in fungi by binding to the heme cofactor located on the enzyme. This leads to the inhibition of the synthesis of ergosterol, a key component of the fungal cell membrane, and accumulation of methylated sterol precursors. This results in inhibition of fungal cell growth and ultimately, cell death.",
+    "absorption": "Posaconazole is absorbed with a median Tmax of approximately 3 to 5 hours.",
+    "metabolism": "Posaconazole primarily circulates as the parent compound in plasma. Of the circulating metabolites, the majority are glucuronide conjugates formed via UDP glucuronidation (phase 2 enzymes). Posaconazole does not have any major circulating oxidative (CYP450 mediated) metabolites. The excreted metabolites in urine and feces account for ~17% of the administered radiolabeled dose.",
+    "toxicity": "During the clinical trials, some patients received posaconazole up to 1600 mg/day with no adverse events noted that were different from the lower doses. In addition, accidental overdose was noted in one patient who took 1200 mg BID for 3 days. No related adverse events were noted by the investigator.",
+    "targets": [
+        [
+            "ERG11",
+            "Cytochrome P450 51",
+            "Yeast"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

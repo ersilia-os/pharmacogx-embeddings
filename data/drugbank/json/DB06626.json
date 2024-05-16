@@ -1,0 +1,72 @@
+{
+    "pharmgkb_id": "PA164924493",
+    "drugbank_id": "DB06626",
+    "names": [
+        "Axitinib"
+    ],
+    "description": "Axitinib is a second generation tyrosine kinase inhibitor that works by selectively inhibiting vascular endothelial growth factor receptors (VEGFR-1, VEGFR-2, VEGFR-3).[L6676] Through this mechanism of action, axitinib blocks angiogenesis, tumour growth and metastases. It is reported to exhibit potency that is 50-450 times higher than that of the first generation VEGFR inhibitors.[L6676] Axitinib is an indazole derivative.[A179398] It is most commonly marketed under the name Inlyta\u00ae and is available in oral formulations.",
+    "indication": "Used in kidney cell cancer and investigated for use/treatment in pancreatic and thyroid cancer.",
+    "pharmacodynamics": "Axitinib prevents the progression of cancer by inhibiting angiogenesis and blocking tumor growth.",
+    "mechanism-of-action": "Axitinib selectively blocks the tyrosine kinase receptors VEGFR-1 (vascular endothelial growth factor receptor), VEGFR-2, and VEGFR-3.",
+    "absorption": "After one 5 mg dose of axitinib, it takes about 2.5 to 4.1 hours to reach maximum plasma concentration.\r\n\r\n",
+    "metabolism": "Axitinib undergoes mainly hepatic metabolism. CYP3A4 and CYP3A5 are the main hepatic enzymes while CYP1A2, CYP2C19, and UGT1A1 enzymes are secondary.\r\n\r\n ",
+    "toxicity": "Some of the more serious toxic effects seen in patients taking axitinib include, but are not limited to, hypertension, thrombotic events, hemorrhage, and GI perforation.",
+    "targets": [
+        [
+            "FLT1",
+            "Vascular endothelial growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "KDR",
+            "Vascular endothelial growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FLT4",
+            "Vascular endothelial growth factor receptor 3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

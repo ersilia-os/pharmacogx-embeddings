@@ -1,0 +1,127 @@
+{
+    "pharmgkb_id": "PA450112",
+    "drugbank_id": "DB00951",
+    "names": [
+        "Isoniazid",
+        "Nicozid",
+        "Nidrazid",
+        "Nydrazid",
+        "Rimicid",
+        "Rimifon",
+        "Servizid",
+        "Tibinide"
+    ],
+    "description": "Antibacterial agent used primarily as a tuberculostatic. It remains the treatment of choice for tuberculosis.",
+    "indication": "Isoniazid is used for the treatment of all forms of tuberculosis in which organisms are susceptible. It is also used in combination with rifampin and pyrazinamide.[L45369]",
+    "pharmacodynamics": "Isoniazid is a bactericidal agent active against organisms of the genus Mycobacterium, specifically <i>M. tuberculosis</i>, <i>M. bovis</i> and <i>M. kansasii</i>. It is a highly specific agent, ineffective against other microorganisms. Isoniazid is bactericidal when mycobacteria grow rapidly and bacteriostatic when they grow slowly.",
+    "mechanism-of-action": "Isoniazid is a prodrug and must be activated by bacterial catalase. Specficially, activation is associated with reduction of the mycobacterial ferric KatG catalase-peroxidase by hydrazine and reaction with oxygen to form an oxyferrous enzyme complex. Once activated, isoniazid inhibits the synthesis of mycoloic acids, an essential component of the bacterial cell wall. At therapeutic levels isoniazid is bacteriocidal against actively growing intracellular and extracellular <i>Mycobacterium tuberculosis</i> organisms. Specifically isoniazid inhibits InhA, the enoyl reductase from <i>Mycobacterium tuberculosis</i>, by forming a covalent adduct with the NAD cofactor. It is the INH-NAD adduct that acts as a slow, tight-binding competitive inhibitor of InhA.",
+    "absorption": "Readily absorbed following oral administration; however, may undergo significant first pass metabolism. Absorption and bioavailability are reduced when isoniazid is administered with food.",
+    "metabolism": "Primarily hepatic. Isoniazid is acetylated by N -acetyl transferase to N -acetylisoniazid; it is then biotransformed to isonicotinic acid and monoacetylhydrazine. Monoacetylhydrazine is associated with hepatotoxicity via formation of a reactive intermediate metabolite when N-hydroxylated by the cytochrome P450 mixed oxidase system. The rate of acetylation is genetically determined. Slow acetylators are characterized by a relative lack of hepatic N -acetyltransferase.",
+    "toxicity": "LD<sub>50</sub> 100 mg/kg (Human, oral). Adverse reactions include rash, abnormal liver function tests, hepatitis, peripheral neuropathy, mild central nervous system (CNS) effects. In vivo, Isoniazid reacts with pyridoxal to form a hydrazone, and thus inhibits generation of pyridoxal phosphate. Isoniazid also combines with pyridoxal phosphate; high doses interfere with the coenzyme function of the latter.",
+    "targets": [
+        [
+            "katG",
+            "Catalase-peroxidase",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            "inhA",
+            "Enoyl-[acyl-carrier-protein] reductase [NADH]",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "folA",
+            "Dihydrofolate reductase",
+            "Mycobacterium tuberculosis"
+        ]
+    ],
+    "enzymes": [
+        [
+            "NAT2",
+            "Arylamine N-acetyltransferase 2",
+            "Humans"
+        ],
+        [
+            "nat",
+            "Arylamine N-acetyltransferase",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00951",
+            "Drug Name": "Isoniazid",
+            "Gene Symbol": "CYP2E1",
+            "RS ID (Genotype)": null,
+            "Adverse Reaction Description": "The presence of this genotype in CYP2E1 may be associated with an increased risk of drug-induced hepatotoxicity from isoniazid treatment."
+        }
+    ]
+}

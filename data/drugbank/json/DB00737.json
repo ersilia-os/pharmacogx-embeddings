@@ -1,0 +1,48 @@
+{
+    "pharmgkb_id": "PA450338",
+    "drugbank_id": "DB00737",
+    "names": [
+        "Meclizine",
+        "Chiclida",
+        "Meclicot",
+        "Navicalm",
+        "Nevidoxine",
+        "Postafen",
+        "Sea-Legs"
+    ],
+    "description": "Meclizine is a histamine H1 antagonist with antiemetic and antivertigo properties. It is used in the symptomatic treatment of motion sickness and control of vertigo associated with vestibular system diseases. It also exhibits anticholinergic, central nervous system depressant, and local anesthetic effects.[L6760] Commonly marketed under the brand name Antivert in the U.S., meclizine is available as oral tablets.",
+    "indication": "Indicated for the symptomatic treatment of nausea, vomiting, and dizziness associated with motion sickness,[L6772] and management of vertigo due to various causes, including radiation sickness, Meniere\u2019s syndrome, labyrinthitis and other vestibular disturbances.[L6766]",
+    "pharmacodynamics": "Meclizine works on the higher centres of the brain to reduce nausea, vomiting, or vertigo. It is effective against nausea and vomiting arising from many causes, including motion sickness and disorders affecting the vestibular system. The onset of action of meclizine is about 1 hour, with effects lasting between 8 to 24 hours.[L6760] Meclizine is reported to cause drowsiness due to its anticholinergic actions.[L6766] ",
+    "mechanism-of-action": "Vomiting is a centrally regulated reflex mechanism that initiates from the vomiting center and the chemoreceptor trigger zone (CTZ) located in the medulla. Motion sickness is also regulated by CTZ. The blood-brain barrier near the CTZ is relatively permeable to circulating mediators and CTZ can transmit impulses to vomiting center located in the brainstem. Different receptors responding to different factors, including histamine, 5-HT, enkephalins, substance P, and dopamine, are expressed along the brainstem to activate respective pathways and contribute to the control of vomiting. Histamine H1 receptors are expressed on the vestibular nuclei and nucleus of the solitary tract (NTS) that are activated by motion sickness and stimuli from the pharynx and stomach. When activated, H1 receptor signaling from these nuclei is transmitted to the CTZ and vomiting centre.[T28] \r\n\r\nThrough its antagonistic action on the H1 receptors, meclizine primarily works by inhibiting signaling pathway transduction through histaminergic neurotransmission from the vestibular nuclei and NTS to the CTZ and medullary vomiting center.[A179581] Meclizine may also decrease the labyrinth excitability and vestibular stimulation.[L6760]",
+    "absorption": "Most histamine H1 antagonists are reported to be readily absorbed following oral administration.[L6760] Upon oral administration, the time to reach peak plasma concentrations (Cmax) of meclizine is about 3 hours post-dose, with the value ranging from 1.5 to 6 hours.[L6772] ",
+    "metabolism": "There is limited human data on meclizine metabolism. According to the findings of _in vitro_ studies, meclizine may undergo aromatic hydroxylation or benzylic oxidation mediated by the hepatic CYP2D6 enzyme.[A179584]",
+    "toxicity": "The oral and intraperitoneal LD<sub>50</sub> in mouse are 1600 mg/kg and 625 mg/kg, respectively. The lowest published toxic dose (TDLo) in rats via the oral route is 800 mg/kg.[MSDS] \r\n\r\nSymptoms of overdose mainly involve CNS depression with drowsiness, coma, and convulsions. Hypotension may also occur, particularly in the elderly. In children, anticholinergic effects and CNS stimulation, characterized by hallucinations, seizures, trouble sleeping, are more likely to occur. In case of overdose, symptomatic and supportive treatment is recommended. In case of recent ingestion, induction of emesis or gastric lavage should be initiated to limit further drug absorption. Although there is no known antidote to meclizine, physostigmine may be useful to counteract the CNS anticholinergic effects of meclizine.[L6766]",
+    "targets": [
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "NR1I3",
+            "Nuclear receptor subfamily 1 group I member 3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

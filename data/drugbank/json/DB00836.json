@@ -1,0 +1,90 @@
+{
+    "pharmgkb_id": "PA450262",
+    "drugbank_id": "DB00836",
+    "names": [
+        "Loperamide",
+        "Dimor",
+        "Fortasec",
+        "Kaopectate II",
+        "Lopedium",
+        "Lopedium express",
+        "Lopex",
+        "Maalox Anti-Diarrheal",
+        "Pepto Diarrhea Control"
+    ],
+    "description": "Loperamide is an anti-diarrheal agent that is available as various over-the-counter products for treating diarrhea.[L42785] The drug was first synthesized in 1969 and used medically in 1976.[A251610] It is a highly lipophilic synthetic phenylpiperidine opioid [A251610] that is structurally similar to opiate receptor agonists such as [diphenoxylate] and [haloperidol].[A6249] Due to pharmacological properties, loperamide has been misused and abused to self-manage opioid withdrawal symptoms and to induce euphoria.[A251610, A251625] However, loperamide is associated with a risk for experiencing a range of adverse effects, often life-threatening, if taking for non-therapeutic reasons or at doses higher than the recommended dose.[L42790]",
+    "indication": "Loperamide is indicated for the relief of diarrhea, including Travelers\u2019 Diarrhea.[L42785] As an off-label use, it is often used to manage chemotherapy-related diarrhea.[A251610]",
+    "pharmacodynamics": "Loperamide is an anti-diarrheal agent that provides symptomatic relief of diarrhea.[L42790] It decreases peristalsis and fluid secretion in the gastrointestinal tract, delays colonic transit time, and increases the absorption of fluids and electrolytes from the gastrointestinal tract.[A6249, A251610, A251630] Loperamide also increases rectal tone,[A251610] reduces daily fecal volume, and increases the viscosity and bulk density of feces.[L42790] It also increases the tone of the anal sphincter, thereby reducing incontinence and urgency.[A251615, L42790] The onset of action is about one hour and the duration of action can be up to three days.[A251615]\r\n\r\nWhile loperamide is a potent mu-opioid receptor agonist,[A251615] it does not mediate significant analgesic activity at therapeutic and supratherapeutic doses.[A6249, A251615] However, at high doses of loperamide, inhibition of P-glycoprotein-mediated drug efflux may allow loperamide to cross the blood-brain barrier, where loperamide can exert central opioid effects and toxicity.[A251610]\r\n\r\nAt very high plasma concentrations, loperamide can interfere with cardiac conduction.[A251625] Because loperamide inhibits the Na<sup>+</sup>-gated cardiac channels [A251610] and ether-a-go-go\u2013related gene potassium channels,[A251625] the drug can prolong the QRS complex and the QTc interval, which can lead to ventricular dysrhythmias, monomorphic and polymorphic ventricular tachycardia, torsade de pointes, ventricular fibrillation, Brugada syndrome, cardiac arrest, and death.[A251610]",
+    "mechanism-of-action": "Enteric neurons synthesize and release endogenous opioid peptides and other neurotransmitters, such as acetylcholine and substance P. Endogenous opioids bind to opioid receptors expressed on these neurons to regulate gastrointestinal signalling, motility, and balance of fluids and electrolytes.[A251630]\r\n\r\nLoperamide acts on the mu-opioid receptor expressed on the circular and longitudinal intestinal muscle.[A251610] Receptor binding leads to the recruitment of G-protein receptor kinases and the activation of downstream molecular cascades that inhibit enteric nerve activity.[A251630] By inhibiting the excitability of enteric neurons, loperamide suppresses neurotransmitter release, pre-synaptic and post-synaptic inhibition of transmission of excitatory and inhibitory motor pathways, and secretomotor pathways.[A251630] Loperamide inhibits the release of acetylcholine and prostaglandins,[L42790] thereby reducing propulsive peristalsis and increasing intestinal transit time.[A251615, L42790] Loperamide stimulates the intestinal absorption of water and electrolytes by inhibiting calmodulin.[A251615] Loperamide can bind to and hyperpolarize submucosal secretomotor neurons, promoting dry, hard stools.[A251630]",
+    "absorption": "Loperamide is well absorbed from the gastrointestinal tract; however, it undergoes extensive first-pass metabolism to form metabolites that are excreted in the bile. Therefore, little loperamide actually reaches the systemic circulation.[A251615] The drug bioavailability is less than 1%.[A251610]\r\n\r\nFollowing oral administration of a 2 mg capsule of loperamide, plasma concentrations of unchanged drug were below 2 ng/mL. Plasma loperamide concentrations are highest approximately five hours after administration of an oral capsule of loperamide and 2.5 hours after the liquid formulation of the drug.[L42790]",
+    "metabolism": "Loperamide is extensively metabolized. The primary metabolic pathway is oxidative N-demethylation mediated by CYP2C8 and CYP3A4, to form N-demethyl loperamide. CYP2B6 and CYP2D6 play a minor role in loperamide N-demethylation.[L42790] Metabolites of loperamide are pharmacologically inactive.[A251625]",
+    "toxicity": "Oral LD50 is 185 mg/kg in rats.[L42780]\r\n\r\nLoperamide overdose can lead to a range of cardiac and non-cardiac effects. Chronic ingestion of doses ranging from 70 mg to 1600 mg daily - which is four to 100 times the recommended dose - resulted in life-threatening cardiac adverse reactions, including QT/QTc and QRS interval prolongation, Torsades de Pointes, Brugada syndrome and other ventricular arrhythmias, syncope, cardiac arrest, and death. These cases included instances of loperamide misuse and abuse. In case of cardiac effects, it is recommended that loperamide is discontinued and therapies to manage and prevent cardiac arrhythmias are initiated.[L42790] Cases of loperamide overdose may cause opioid toxic effects including CNS depression (e.g. altered mental status, stupor, coordination disorders, somnolence, miosis, muscular hypertonia, respiratory depression), hypotension, urinary retention, and paralytic ileus.[L42790] Naloxone may reverse the opioid-related toxicity, including CNS and respiratory depression, and hypotension, associated with loperamide overdosage.[L42790]",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "CALM1",
+            "Calmodulin",
+            "Humans"
+        ],
+        [
+            "POMC",
+            "Pro-opiomelanocortin",
+            "Humans"
+        ],
+        [
+            "CACNA1A",
+            "Voltage-dependent P/Q-type calcium channel subunit alpha-1A",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

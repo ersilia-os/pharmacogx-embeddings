@@ -1,0 +1,93 @@
+{
+    "pharmgkb_id": "PA164749649",
+    "drugbank_id": "DB00485",
+    "names": [
+        "Dicloxacillin",
+        "Amcidil",
+        "Betaclox",
+        "Cloxagen",
+        "Dacocilin",
+        "Damacir",
+        "Dicillin",
+        "Diclex",
+        "Diclocil",
+        "Dicloplus",
+        "Dicloson",
+        "Dicloxal",
+        "Dicloxgen",
+        "Dicloxina",
+        "Dyclobiot",
+        "Dynapen",
+        "Posipen",
+        "Quimocyclar",
+        "Staklox",
+        "Terbocloxil",
+        "Ziefmycin"
+    ],
+    "description": "One of the penicillins which is resistant to penicillinase.",
+    "indication": "Used to treat infections caused by penicillinase-producing staphylococci which have demonstrated susceptibility to the drug.",
+    "pharmacodynamics": "Dicloxacillin is a beta-lactamase resistant penicillin similar to oxacillin. Dicloxacillin has <i>in vitro</i> activity against gram-positive and gram-negative aerobic and anaerobic bacteria. The bactericidal activity of dicloxacillin results from the inhibition of cell wall synthesis and is mediated through dicloxacillin binding to penicillin binding proteins (PBPs). Dicloxacillin is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended spectrum beta-lactamases.",
+    "mechanism-of-action": "Dicloxacillin exerts a bactericidal action against penicillin-susceptible microorganisms during the state of active multiplication. All penicillins inhibit the biosynthesis of the bacterial cell wall. By binding to specific penicillin-binding proteins (PBPs) located inside the bacterial cell wall, dicloxacillin inhibits the third and last stage of bacterial cell wall synthesis. Cell lysis is then mediated by bacterial cell wall autolytic enzymes such as autolysins; it is possible that dicloxacillin interferes with an autolysin inhibitor.",
+    "absorption": "Absorption of the isoxazolyl penicillins after oral administration is rapid but incomplete: peak blood levels are achieved in 1-1.5 hours. Oral absorption of cloxacillin, dicloxacillin, oxacillin and nafcillin is delayed when the drugs are administered after meals.",
+    "metabolism": null,
+    "toxicity": "Oral LD<sub>50</sub> in rat is 3579 mg/kg. Symptoms of overexposure include irritation, rash, labored breathing, hives, itching, wheezing, nausea, chills, and fever.",
+    "targets": [
+        [
+            "pbpC",
+            "Penicillin-binding protein 3",
+            "Listeria monocytogenes serotype 4b str. LL195"
+        ],
+        [
+            "pbp1b",
+            "Penicillin-binding protein 1b",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "pbp2a",
+            "Penicillin-binding protein 2a",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "pbp3",
+            "Penicillin-binding protein 3",
+            "Streptococcus pneumoniae"
+        ],
+        [
+            "pbpA",
+            "Penicillin-binding protein 1A",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "penA",
+            "Penicillin-binding protein 2B",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

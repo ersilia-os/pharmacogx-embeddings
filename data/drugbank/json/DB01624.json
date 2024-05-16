@@ -1,0 +1,70 @@
+{
+    "pharmgkb_id": "PA452629",
+    "drugbank_id": "DB01624",
+    "names": [
+        "Zuclopenthixol",
+        "Acuphase",
+        "Ciatyl-Z",
+        "Cisordinol",
+        "Clopixol"
+    ],
+    "description": "Zuclopenthixol, also known as Zuclopentixol or Zuclopenthixolum, is an antipsychotic agent. Zuclopenthixol is a thioxanthene-based neuroleptic with therapeutic actions similar to the phenothiazine antipsychotics. It is an antagonist at D1 and D2 dopamine receptors. Major brands of zuclopenthixol are Cisordinol, Acuphase, and Clopixol. This drug is a liquid. This compound belongs to the thioxanthenes. These are organic polycyclic compounds containing a thioxanthene moiety, which is an aromatic tricycle derived from xanthene by replacing the oxygen atom with a sulfur atom. Known drug targets of zuclopenthixol include 5-hydroxytryptamine receptor 2A, D(1B) dopamine receptor, D(2) dopamine receptor, D(1A) dopamine receptor, and alpha-1A adrenergic receptor. It is known that zuclopenthixol is metabolized by Cytochrome P450 2D6. Zuclopenthixol was approved for use in Canada in 2011, but is not approved for use in the United States.",
+    "indication": "Used in the management of acute psychoses such as mania or schizophrenia. However, the use of zuclopenthixol acetate in psychiatric emergencies as an alternative to standard treatments (haloperidol, clotiapine, etc.) should be cautioned, since well executed and documented trials of zuclopenthixol acetate for this use have yet to be conducted. Zuclopenthixol acetate is not intended for long-term use.",
+    "pharmacodynamics": "Zuclopenthixol is a thioxanthene with therapeutic actions similar to the phenothiazine antipsychotics. It is an antagonist at D1 and D2 dopamine receptors.",
+    "mechanism-of-action": "Zuclopenthixol is a typical antipsychotic neuroleptic drug of the thioxanthene class. It mainly acts by antagonism of D1 and D2 dopamine receptors. Zuclopenthixol also has high affinity for alpha1-adrenergic and 5-HT2 receptors. It has weaker histamine H1 receptor blocking activity, and even lower affinity for muscarinic cholinergic and alpha2-adrenergic receptors.",
+    "absorption": "Upon reaching the body water phase, the decanoate ester is slowly released from the oil depot, which is resultantly hydrolyzed to the active substance, zuclopenthixol. The decanoate ester provides a means of slow release since zuclopenthixol itself is a short-acting drug. ",
+    "metabolism": "The metabolism of zuclopenthixol is mainly by sulphoxidation, side chain N-dealkylation and glucuronic acid conjugation. The metabolites are devoid of pharmacological activity.",
+    "toxicity": "Although there have not been any cases of overdosage reported, the symptoms are likely to be somnolence, coma, extrapyramidal symptoms, convulsions, hypotension, shock, or hyper- or hypothermia.\r\n\r\nNeuroleptic malignant syndrome may occur. Zuclopenthixol may potentiate anticholinergic effects of concurrent medications. Zuclopenthixol has a demonstrated antiemetic effect in animals, and may mask signs of toxicity due to other drug overdoses, or may mask symptoms of disease.",
+    "targets": [
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "DRD5",
+            "Dopamine D5 receptor",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

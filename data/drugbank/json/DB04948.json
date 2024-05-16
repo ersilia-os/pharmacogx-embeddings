@@ -1,0 +1,78 @@
+{
+    "pharmgkb_id": "PA164744510",
+    "drugbank_id": "DB04948",
+    "names": [
+        "Lofexidine",
+        "Britlofex"
+    ],
+    "description": "Lofexidine is a non-opioid centrally acting alpha2-adrenergic receptor agonist that was first approved for the treatment of opioid withdrawal in the United Kingdom in 1992.[A33084] It was first studied for use as an antihypertensive in 1980, but its researched was stopped as it was found less effective for the treatment of  hypertension than clonidine.[T210] Lofexidine was then repurposed for the treatment of opioid withdrawal, as it was seen to be more economical and have fewer side effects than clonidine.[T209] Lofexidine was developed by US Woldmeds LLC and it was approved by the FDA on May 16, 2018.[L2794]",
+    "indication": "Lofexidine is indicated for mitigation of symptoms associated with acute withdrawal from opioids and for facilitation of the completion of opioid discontinuation treatment. It is the first non-opioid medication for the symptomatic management of opioid discontinuation.[L2801]\r\n\r\nOpioid withdrawal syndrome is a debilitating manifestation of opioid dependence.[A33085] This condition is extremely unpleasant lasting several days with some of the main features being abdominal pain, nausea, diarrhea, mydriasis, lacrimation, and piloerection. These symptoms are often observed after abrupt reductions in the opioid dose and can be resolved by re-administration of the opioid.[A33088]",
+    "pharmacodynamics": "In clinical trials, lofexidine presented more severe opioid withdrawal effects than observed with methadone. On the other hand, in clinical trials of methadone withdrawal, lofexidine effectively reduced withdrawal symptoms, especially hypotension.[T209] The clinical reports have also indicated that lofexidine presents a better outcome when used briefly.[T210] In phase 3 clinical trials, lofexidine was shown to generate a significantly higher completion rate of opioid discontinuation. Some pharmacological studies were performed and there were no off-target effects reported.[L2801]",
+    "mechanism-of-action": "Lofexidine is a potent alpha2-adrenergic receptor agonist with some moderate agonistic affinity towards Alpha-1A adrenergic receptor and 5-HT1a, 5-HT7, 5HT2c and 5HT1d receptors.[L2801]\r\n\r\nThe alpha2-adrenergic receptor is normally targeted by norepinephrine and its activation inhibits the synthesis of cAMP which in turn leads to potassium efflux and suppression of neural firing and inhibition of norepinephrine release. All of this activity can reduce the heart rate, blood pressure, and attenuate sympathetic stress response.[L2801]\r\n\r\nOpioids inhibit cAMP in the noradrenergic neurons and their discontinuation produces a rise in the level of cAMP. This will generate an increase in norepinephrine which is associated with the symptoms of withdrawal. The magnitude of the effect is augmented by chronic opioid use due to the compensatory mechanisms of continuous negative feedback. Therefore, chronic opioid use translates into an exacerbated production of cAMP and norepinephrine release.[L2801]\r\n\r\nLofexidine replaces the opioid-driven inhibition of cAMP production by activating the alpha2-adrenergic receptor and moderating the symptoms of opioid withdrawal. This effect is performed without interacting with opioid receptors which mediate other activities of opioid dependence or addiction.[L2801]",
+    "absorption": "Lofexidine has a good oral bioavailability and the peak plasma concentration occurs after 2-5 hours of oral administration.[T210] The bioavailability is registered to be even higher than 72%.[T55] About 30% of the administered dose of lofexidine is lost during first-pass metabolism. The absorption is registered to be very rapidly recirculated in the gut. After oral administration of 0.8 mg of lofexidine, a maximal dose of 1.26 ng/ml is achieved after 3 hours.[L2801]",
+    "metabolism": "Lofexidine metabolic ratio is highly variable among people.[T210] It is metabolized mainly by the activity of CYP2D6 and in a minor degree by CYP1A2 and CYP2C19. These enzymes catalyze the hydroxylation of lofexidine and the opening of imidazoline ring to form N-(2-aminoethyl)-2-(2,6-dichlorophenoxy)propanamide. This metabolite is deamidated and forms 2-(2,6-dichlorophenoxy) propionic acid and 2,6-dichlorophenol. These three main metabolites are inactive.[L2801]",
+    "toxicity": "Lofexidine did not exhibit genotoxic, mutagenic nor mutagenic potential. Administration at gestational period showed a reduction in the neonatal weight, survival, and increased abortion.[L2801]",
+    "targets": [
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1D",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB5",
+            "ATP-binding cassette sub-family B member 5",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

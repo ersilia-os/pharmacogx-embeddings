@@ -1,0 +1,58 @@
+{
+    "pharmgkb_id": "PA450150",
+    "drugbank_id": "DB00465",
+    "names": [
+        "Ketorolac",
+        "Bedoral",
+        "Dolten",
+        "Dolten SL",
+        "Dorixina forte NF",
+        "Emodol",
+        "Etorac",
+        "Ketonic",
+        "Ketora",
+        "Lixidol",
+        "Syndol",
+        "Taradyl",
+        "Tarasyn"
+    ],
+    "description": "Ketorolac is a Non-steroidal anti-inflammatory drug (NSAID) and is commercially available as an oral tablet, injectable, nasal spray and as an ophthalmic solution.[L6358][L6508][L11055][L3674][L11070] \r\n\r\nIt's analgesic properties make it a useful pain management tool across many settings including postoperative pain, rheumatoid arthritis, osteoarthritis, menstrual disorders, headaches, spinal and soft tissue pain, and ankylosing spondylitis.[L6520] Impressively, ketorolac has a similar efficacy to standard doses of morphine and meperidine making it a useful opioid sparing agent.[L6511]",
+    "indication": "Ketorolac is a Non-steroidal anti-inflammatory drug (NSAID) and has antipyretic, analgesic and anti-inflammatory properties.[A176131]  It is indicated for short term management of acute pain that requires the calibre of pain management offered by opioids.[L3674]  Clinicians may choose to initiate ketorolac to manage post-operative pain, spinal and soft tissue pain, rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, menstrual disorders and headaches among other ailments.[L6520] Regardless of the etiology of pain, patients should use the lowest possible dose, and avoid using ketorolac for an extended period of time (ideally \u2264 5 days).[L3674] A benefit of choosing ketorolac over other analgesics with similar potency is that that there does not appear to be a risk of dependence or tolerance with ketorolac use.[A176131]     ",
+    "pharmacodynamics": "Ketorolac is a non-selective NSAID and acts by inhibiting both COX-1 and COX-2 enzymes which are normally responsible for converting arachidonic acid to prostaglandins. The COX-1 enzyme is constitutively active and can be found in platelets, gastric mucosa, and vascular endothelium. On the other hand, the COX-2 enzyme is inducible and mediates inflammation, pain and fever.  \r\n\r\nAs a result, inhibition of the COX-1 enzyme is linked to an increased risk of bleeding and risk of gastric ulceration, while the desired anti-inflammatory and analgesic properties are linked to inhibition of the COX-2 enzyme.[A176134] Therefore, despite it's effectiveness in pain management, ketorolac should not be used long-term since this increases the risk of serious adverse effects such as gastrointestinal bleeding, peptic ulcers, and perforations.[A178678]",
+    "mechanism-of-action": "Ketorolac inhibits key pathways in prostaglandin synthesis which is crucial to it's mechanism of action.[A176143]  Although ketorolac is non-selective and inhibits both COX-1 and COX-2 enzymes, it's clinical efficacy is derived from it's COX-2 inhibition. The COX-2 enzyme is inducible and is responsible for converting arachidonic acid to prostaglandins that mediate inflammation and pain.  By blocking this pathway, ketorolac achieves analgesia and reduces inflammation.[A176134] Ketorolac is administered as a racemic mixture; however, the \"S\" enantiomer is largely responsible for it's pharmacological activity.[A176246]",
+    "absorption": "Ketorolac is rapidly, and completely absorbed after oral administration with a bioavailability of 80% after oral administration.[L3674L3674L3674][A176143] Cmax is attained 20-60 minutes after administration, and after intramuscular administration, the area under the plasma concentration-time curve (AUC) is proportional to the dose administered.[A175966] \r\n\r\nAfter intramuscular administration, ketorolac demonstrates a time to maximal plasma concentration (tmax) of approximately 45-50 minutes, and a tmax of 30-40 minutes after oral administration.[A176143] The rate of absorption may be reduced by food; however, the extent of absorption remains unaffected.[A176143]",
+    "metabolism": "Ketorolac is heavily metabolized via hydroxylation or conjugation in the liver; however, it appears that the key metabolic pathway is glucuronic acid conjugation.[L3674,A176143] Enzymes involved in phase I metabolism include CYP2C8 and CYP2C9, while phase II metabolism is carried out by UDP-glucuronosyltransferase (UGT) 2B7.[A176234]  ",
+    "toxicity": "The rate of adverse effects increases with higher doses of ketorolac. The most frequently observed adverse effects in patients occurring with an incidence of greater than 10% include: abdominal pain, dyspepsia, nausea, and headaches.[L11055] Most adverse effects associated with short term use are mild in nature, related to the gastrointestinal tract and nervous system, and occur in roughly 39% of patients.[A176131] Common symptoms of ketorolac overdose include nausea, vomiting, epigastric pain, gastrointestinal bleeding, lethargy and drowsiness. More rare symptoms of overdose include acute renal failure, hypertension, respiratory depression, and coma.[L3674]\r\n\r\nKetorolac is classified as Pregnancy Category C since there is a lack of evidence demonstrating safety in pregnant women.[L11070] NSAIDs including ketorolac increase the risk of premature closure of the fetal ductus arteriosus in the 3rd trimester; therefore, beginning at 30 weeks gestation, pregnant women should avoid ketorolac.[L11070]\r\n\r\nKetorolac has been shown to be excreted in breast milk, and although available data has not demonstrated any adverse effects in nursing infants, practitioners should proceed with caution when suggesting ketorolac for nursing mothers.[L11055,L3674]  The benefits should outweigh the risks and the mother should be counselled to monitor the infant closely and to contact the infant's healthcare provider should any adverse effects arise.[L11055,L3674]\r\n\r\nWomen who are trying to conceive are not advised to take ketorolac since it's effect on prostaglandin synthesis may impair fertility.[L11055L11055]",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

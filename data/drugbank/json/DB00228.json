@@ -1,0 +1,521 @@
+{
+    "pharmgkb_id": "PA449461",
+    "drugbank_id": "DB00228",
+    "names": [
+        "Enflurane",
+        "Alyrane",
+        "Compound 347",
+        "Endurane",
+        "Enfluran"
+    ],
+    "description": "Enflurane is a halogenated inhalational anesthetic initially approved by the FDA in 1972. Since this date, it has been withdrawn from the US market.[L13646,L13649] Unlike its other inhalational anesthetic counterparts including [isoflurane] and [halothane], enflurane is known to induce seizure activity. In addition, it is known to cause increased cardio depressant effects when compared to other inhaled anesthetics.[A202022]",
+    "indication": "Enflurane may be used for both the induction and maintenance of general anesthesia. It can also be used to induce analgesia for vaginal delivery. Low concentrations of enflurane can also be used as an adjunct to general anesthetic drugs during delivery by Cesarean section.[L13646]",
+    "pharmacodynamics": "Enflurane rapidly induces anesthesia via the stimulation of inhibitory neural channels and the inhibition of excitatory neural channels. Muscle relaxation, obtundation of pharyngeal and laryngeal reflexes, and lowering of blood pressure are some of the main pharmacodynamic effects of this drug.[L13643] Enflurane also decreases cardiac muscle contractility.[A202022]  \r\n\r\nHigh concentrations of enflurane may lead to uterine relaxation and increase the risk of uterine bleeding during delivery.[L13643]  Rare but clinically significant elevations in ALT may indicate hepatoxicity from the use of enflurane.[A202016] In some susceptible patients, enflurane may cause malignant hyperthermia.[L13643]",
+    "mechanism-of-action": "The mechanism of action of enflurane is not completely established.[L13643] Studies on rats indicate that enflurane binds to GABAA and glycine receptors, causing depressant effects at the ventral neural horn. It has been reported that 30% of the central nervous system depressant effects on the spinal cord after enflurane is administered are caused by the (GABA-A) receptor while binding to glycine receptors is responsible for about 20 % of the depressant effects.[A10308]  The relevance of these findings to humans is unknown. Other studies have found that enflurane binds to the calcium channels in the cardiac sarcoplasmic reticulum causing cardio depressant effects.[A202082,A202091,A202094] Other studies support that this drug potentiates glycine receptors, which results in central nervous system depressant effects.[A202097,A11019] ",
+    "absorption": "Enflurane is rapidly absorbed into the circulation through the lungs.[A203216,L13646] The minimum alveolar concentration is oxygen is 1.68%.[A202022]",
+    "metabolism": "Enflurane is metabolized by the CYP2E1 enzyme in the liver to produce inorganic fluoride ions, the major metabolite of enflurane metabolism.[A202118] One reference indicates that enflurane is only 2-5% eliminated after oxidative metabolism in the liver, however more recent evidence suggests that about 9% is eliminated via hepatic oxidation.[A202022]",
+    "toxicity": "The LD50 of enflurane in rats is  14000 ppm/3 hour(s) when inhaled.[L13871]\r\nThere is limited information in the literature about enflurane overdose. Hepatotoxicity, cardiotoxicity, nephrotoxicity, and neurotoxicity are expected.[L13646] One report in the literature of an enflurane overdose describes an accidental fatal overdose in a 21-year-old male.[A203174]  About 72 hours after death, high amounts of enflurane were found in the brain, blood, and subcutaneous fat. Gas chromatographic studies revealed enflurane concentrations of 350 mg/l-1 in the brain, 130 mg/l-1 in the blood, and 100 mg/l-1 in the subcutaneous fat.[A203174]\r\n\r\nIn the event of an enflurane overdose, immediately stop the administration of enflurane, establish a patent airway, and administer pure oxygen by assisted or controlled ventilation.[L13646] ",
+    "targets": [
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "CACNG1",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG2",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG3",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG4",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG5",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG6",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG7",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG8",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA2D1",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA2D2",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA2D3",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA2D4",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1C",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1F",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB1",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB3",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB4",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1B",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1A",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1E",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1G",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1H",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1I",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "GLRA1",
+            "Glycine receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "KCNA1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNA10",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNA2",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNA3",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNA4",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNA5",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNA6",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNB1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNB2",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNC1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNC2",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNC3",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNC4",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCND1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCND2",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCND3",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNE1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNE2",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNE3",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNE4",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNE5",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNF1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNG1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNG2",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNG3",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNG4",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNH1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNH2",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNH3",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNH4",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNH5",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNH6",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNH7",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNH8",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNQ1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNQ2",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNQ3",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNQ4",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNQ5",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNS1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNS3",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNV1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNV2",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNAB1",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "KCNAB2",
+            "Voltage-gated Potassium Channels",
+            null
+        ],
+        [
+            "ATP2C1",
+            "Calcium-transporting ATPase type 2C member 1",
+            "Humans"
+        ],
+        [
+            "GRIN1",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2A",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2B",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2C",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2D",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3A",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3B",
+            "Glutamate (NMDA) receptor",
+            "Humans"
+        ],
+        [
+            "ATP2A1",
+            "Sarcoplasmic/endoplasmic reticulum calcium ATPase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

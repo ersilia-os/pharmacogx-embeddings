@@ -1,0 +1,188 @@
+{
+    "pharmgkb_id": "PA451106",
+    "drugbank_id": "DB01032",
+    "names": [
+        "Probenecid",
+        "Benecid",
+        "Benemid",
+        "Probalan",
+        "Probecid",
+        "Proben"
+    ],
+    "description": "The prototypical uricosuric agent. It inhibits the renal excretion of organic anions and reduces tubular reabsorption of urate. Probenecid has also been used to treat patients with renal impairment, and, because it reduces the renal tubular excretion of other drugs, has been used as an adjunct to antibacterial therapy.",
+    "indication": "For the reduction of serum uric acid concentrations in chronic gouty arthritis and tophaceous gout in patients with frequent disabling gout attacks. Has also been effectively used to promote uric acid excretion in hyperuricemia secondary to the administration of thiazide and related diuretics. ",
+    "pharmacodynamics": "Probenecid is a uricosuric and renal tubular blocking agent and is used in combination with colchicine to treat chronic gouty arthritis when complicated by frequent, recurrent acute attacks of gout. It inhibits the reabsorption of urate at the proximal convoluted tubule, thus increasing the urinary excretion of uric acid and decreasing serum urate levels. Effective uricosuria reduces the miscible urate pool, retards urate deposition, and promotes resorption of urate deposits. At the proximal and distal tubles, probenecid competitively inhibits the secretion of many weak organic acids including penicillins, most cephalosporins, and some other \u03b2-lactam antibiotics. This results in an increase in the plasma concentrations of acidic drugs eliminated principally by renal secretion, but only a slight increase if the drug is eliminated mainly by filtration. Thus, the drug can be used for therapeutic advantages to increase concentrations of certain \u03b2-lactam antibiotics in the treatment of gonorrhea, neurosyphilis, or pelvic inflammatory disease (PID).",
+    "mechanism-of-action": "Probenecid inhibits the tubular reabsorption of urate, thus increasing the urinary excretion of uric acid and decreasing serum urate levels. Probenecid may also reduce plasma binding of urate and inhibit renal secretion of uric acid at subtherapeutic concentrations. The mechanism by which probenecid inhibits renal tubular transport is not known, but the drug may inhibit transport enzymes that require a source of high energy phosphate bonds and/or nonspecifically interfere with substrate access to protein receptor sites on the kidney tubules.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "PANX1",
+            "Pannexin-1",
+            "Humans"
+        ],
+        [
+            "TAS2R16",
+            "Taste receptor type 2 member 16",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC5",
+            "Multidrug resistance-associated protein 5",
+            "Humans"
+        ],
+        [
+            "SLC16A7",
+            "Monocarboxylate transporter 2",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "ABCC6",
+            "Multidrug resistance-associated protein 6",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC16A1",
+            "Monocarboxylate transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC10A1",
+            "Sodium/bile acid cotransporter",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A10",
+            "Solute carrier family 22 member 10",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCC11",
+            "ATP-binding cassette sub-family C member 11",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLCO1C1",
+            "Solute carrier organic anion transporter family member 1C1",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLC22A12",
+            "Solute carrier family 22 member 12",
+            "Humans"
+        ],
+        [
+            "SLC2A9",
+            "Solute carrier family 2, facilitated glucose transporter member 9",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,64 @@
+{
+    "pharmgkb_id": "PA450970",
+    "drugbank_id": "DB01132",
+    "names": [
+        "Pioglitazone",
+        "Actost"
+    ],
+    "description": "Pioglitazone is an antihyperglycemic used as an adjunct to diet, exercise, and other antidiabetic medications to manage type 2 diabetes mellitus.[L11416,L11419,L11422,L11425] It is administered as a racemic mixture, though there is no pharmacologic difference between the enantiomers and they appear to interconvert _in vivo_ with little consequence.[L11416] The thiazolidinedione class of medications, which also includes [rosiglitazone] and [troglitazone], exerts its pharmacological effect primarily by promoting insulin sensitivity and the improved uptake of blood glucose[L11416] via agonism at the peroxisome proliferator-activated receptor-gamma (PPAR\u03b3).[A19757] PPARs are ligand-activated transcription factors that are involved in the expression of more than 100 genes and affect numerous metabolic processes, most notably lipid and glucose homeostasis.[A19759]\r\n\r\nThiazolidinediones, including pioglitazone, have fallen out of favor in recent years due to the presence of multiple adverse effects and warnings regarding their use (e.g. congestive heart failure, bladder cancer) and the availability of safer and more effective alternatives for patients with type 2 diabetes mellitus.[L11461]",
+    "indication": "Pioglitazone is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.[L11416] It is also available in combination with [metformin],[L11419] [glimepiride],[L11422] or [alogliptin][L11425] for the same indication.",
+    "pharmacodynamics": "Pioglitazone enhances cellular responsiveness to insulin, increases insulin-dependent glucose disposal, and improves impaired glucose homeostasis.[A19757] In patients with type 2 diabetes mellitus, these effects result in lower plasma glucose concentrations, lower plasma insulin concentrations, and lower HbA1c values.[A19757]\r\n \r\nSignificant fluid retention leading to the development/exacerbation of congestive heart failure has been reported with pioglitazone - avoid its use in patients in heart failure or at risk of developing heart failure.[L11416] There is some evidence that pioglitazone may be associated with an increased risk of developing bladder cancer. Pioglitazone should not be used in patients with active bladder cancer and should be used with caution in patients with a history of bladder cancer.[L11416]",
+    "mechanism-of-action": "Pioglitazone is a selective agonist at peroxisome proliferator-activated receptor-gamma (PPAR\u03b3) in target tissues for insulin action such as adipose tissue, skeletal muscle, and liver.[L11416,A19759] Activation of PPAR\u03b3 increases the transcription of insulin-responsive genes involved in the control of glucose and lipid production, transport, and utilization.[A19759] Through this mechanism, pioglitazone both enhances tissue sensitivity to insulin and reduces the hepatic production of glucose (i.e. gluconeogenesis) - insulin resistance associated with type 2 diabetes mellitus is therefore improved without an increase in insulin secretion by pancreatic beta cells.[L11416,A19759]",
+    "absorption": "Following oral administration of pioglitazone, peak serum concentrations are observed within 2 hours (T<sub>max</sub>) - food slightly delays the time to peak serum concentration, increasing T<sub>max</sub> to approximately 3-4 hours, but does not alter the extent of absorption.[L11416] Steady-state concentrations of both parent drug and its primary active metabolites are achieved after 7 days of once-daily administration of pioglitazone.[L11416] C<sub>max</sub> and AUC increase proportionately to administered doses.[L11416]",
+    "metabolism": "Pioglitazone is extensively metabolized by both hydroxylation and oxidation -  the resulting metabolites are also partly converted to glucuronide or sulfate conjugates.[L11416] The pharmacologically active M-IV and M-III metabolites are the main metabolites found in human serum and their circulating concentrations are equal to, or greater than, those of the parent drug.[A415] The specific CYP isoenzymes involved in the metabolism of pioglitazone are CYP2C8 and, to a lesser degree, CYP3A4. There is also some evidence to suggest a contribution by extrahepatic CYP1A1.[L11416]",
+    "toxicity": "The oral TDLo observed in mice is 24 mg/kg for 4 days and for rats is 3 mg/kg for 6 days.[L11431]\r\n\r\nOne instance of overdose was reported during clinical trials with pioglitazone in which a patient took an oral dose of 120mg daily for four days, followed by 180mg daily for seven days[L11416] - this patient did not report any adverse clinical symptoms during this time. In the event of overdosage, employ symptomatic and supportive measures according to the patient's clinical status.[L11416]",
+    "targets": [
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

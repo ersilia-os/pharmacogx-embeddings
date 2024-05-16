@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA164769031",
+    "drugbank_id": "DB01283",
+    "names": [
+        "Lumiracoxib",
+        "Prexige"
+    ],
+    "description": "Lumiracoxib is a COX-2 selective non-steroidal anti-inflammatory drug (NSAID). On August 11, 2007, Australia's Therapeutic Goods Administration (TGA, the Australian equivalent of the FDA) cancelled the registration of lumiracoxib in Australia due to concerns that it may cause liver failure. New Zealand and Canada have also followed suit in recalling the drug.",
+    "indication": "For the acute and chronic treatment of the signs and symptoms of osteoarthritis of the knee in adults.",
+    "pharmacodynamics": "Lumiracoxib has a different structure from the standard COX-2 inhibitors (e.g. celecoxib). It more closely resembles the structure of diclofenac (one chlorine substituted by fluorine, the phenylacetic acid has another methyl group in meta position), making it a member of the arylalkanoic acid family of NSAIDs. It binds to a different site on the COX-2 receptor than the standard COX-2 inhibitors. It displays extremely high COX-2 selectivity.",
+    "mechanism-of-action": "The mechanism of action of lumiracoxib is due to inhibition of prostaglandin synthesis via inhibition of cyclooygenase-2 (COX-2). Lumiracoxib does not inhibit COX-1 at therapeutic concentrations.",
+    "absorption": "Rapidly absorbed following oral administration, with an absolute oral bioavailablity of 74%.",
+    "metabolism": "Hepatic oxidation and hydroxylation via CYP2C9. Three major metabolites have been identified in plasma: 4'-hydroxy-lumiracoxib, 5-carboxy-lumiracoxib, and 4'-hydroxy-5-carboxy-lumiracoxib.",
+    "toxicity": "Single oral doses in mice and rats resulted in mortality and/or moribundity at doses of 600 mg/kg and 500 mg/kg, respectively. Single intraperitoneal doses in mice and rats results in mortality/moribundity at 750 mg/kg and 1000 mg/kg, respectively. The maximum non-lethal single oral and intraperitoneal dose in mouse was 300 mg/kg and 250 mg/kg, respectively. In the rat it was 150 mg/kg and 250 mg/kg, respectively.",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

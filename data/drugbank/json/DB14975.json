@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA166189802",
+    "drugbank_id": "DB14975",
+    "names": [
+        "Voxelotor"
+    ],
+    "description": "Voxelotor is a novel hemoglobin S polymerization inhibitor for the treatment of sickle cell disease. This is a genetically inherited condition most prevalent in the Middle East, Africa, and certain parts of India. Sickle cell disease can lead to excruciating pain, stroke, infection, and various other complications arising from the blockage of blood vessels.[T734]\r\n\r\nVoxelotor was granted accelerated FDA approval on November 25 2019, as it is likely to be a promising treatment for the 100,000 individuals in the U.S. suffering from the disease, in addition to 20 million others worldwide.[L10403] It was developed by Global Blood Therapeutics, Inc.[L10403] and is unique from other drugs used to treat sickle cell anemia, such as [hydroxyurea], [L-glutamine], and [crizanlizumab][A188135,A188138] due to its novel mechanism of action. The EMA approved the use of voxelotor for the treatment of hemolytic anemia associated with sickle cell disease in February 2022.[L41419,L41424]",
+    "indication": "In the US, voxelotor is indicated to treat sickle cell disease in both adult and pediatric patients aged 4 years and older.[L10397] In Europe, it is indicated for the treatment of hemolytic anemia due to sickle cell disease (SCD) in adults and pediatric patients 12 years of age and older as monotherapy or in combination with [hydroxyurea].[L41419]",
+    "pharmacodynamics": "Voxelotor increases hemoglobin (Hb) oxygen affinity in a dose-dependent manner.[L10397] It has led to up to a 40% increase in hemoglobin in clinical trials.[A188123,A188126] Voxelotor may inhibit red blood cell sickling, attenuate red blood cell deformability, and reduce whole blood viscosity.[A256428]",
+    "mechanism-of-action": "Sickle cell disease is characterized by deoxygenated sickle hemoglobin (HbS) polymerization. The genetic mutation causing this disease leads to the formation of abnormal, sickle-shaped red blood cells that aggregate and block blood vessels throughout the body, causing vaso-occlusive crises.[T734] Sickle-shaped red blood cells cannot effectively bind oxygen, thus incapable of allowing normal blood flow to organs.[A188123,A188138] \r\n\r\nVoxelotor increases Hb oxygen affinity.[A188126,A256428,L10397,L41419] It binds reversibly to hemoglobin (Hb) by forming a covalent bond with the N\u2010terminal valine of the \u03b1\u2010chain of the protein, resulting in an allosteric modification of Hb.[A188126] Voxelotor stabilizes the oxygenated Hb state and prevents HbS polymerization by increasing hemoglobin\u2019s affinity for oxygen.[A256428]",
+    "absorption": "Voxelotor is rapidly absorbed after oral administration, with a plasma T<sub>max</sub> of 2 hours.[A188126,L10406] T<sub>max</sub> in the red blood cells ranges from 17-24 hours.[A188126] The C<sub>max</sub> in whole blood and red blood cells occur 6 and 18 hours after an oral dose, respectively. Consumption of a high-fat meal with voxelotor significantly increased exposure to the drug during clinical trials.[L10397] After a daily dose of either 300, 600, or 900 mg for a period of 15 days, when steady-state concentrations were reached, the average RBC Cmax for the respective doses were measured to be 4950, 9610 and 14 000 \u03bcg*h mL\u22121, respectively.[A188126]",
+    "metabolism": "Voxeletor is heavily metabolized via two phases. Phase I metabolism consists of oxidation and reduction, while phase II metabolism consists of glucuronidation. Voseletor is oxidized mainly by CYP3A4 and by CYP2C19, CYP2B6, and CYP2C9, to a lesser extent.[L10397,L10406]",
+    "toxicity": "The LD<sub>50</sub> information and overdose information is unavailable at this time. Current clinical study results suggest that dose-limiting toxicities of voxelotor are unlikely.[A188126]",
+    "targets": [
+        [
+            "HBA1",
+            "Hemoglobin subunit alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

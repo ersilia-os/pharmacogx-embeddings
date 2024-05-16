@@ -1,0 +1,127 @@
+{
+    "pharmgkb_id": "PA165980594",
+    "drugbank_id": "DB08901",
+    "names": [
+        "Ponatinib"
+    ],
+    "description": "Ponatinib is a novel Bcr-Abl tyrosine kinase inhibitor that is especially effective against the T315I mutation for the treatment of chronic myeloid leukemia. FDA approved on December 14, 2012.",
+    "indication": "Ponatinib is indicated for the treatment of adult patients with chronic phase, accelerated phase, or blast phase chronic myeloid leukemia (CML) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy or Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ALL) that is resistant or intolerant to prior tyrosine kinase inhibitor therapy.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Ponatinib is a multi-target kinase inhibitor. Its primary cellular target is the Bcr-Abl tyrosine kinase protein which is constitutively active and promotes the progression of CML. This protein arises from the fused Bcr and Abl gene- what is commonly known as the Philadelphia chromosome. Ponatinib is unique in that it is especially useful in the treatment of resistant CML because it inhibits the tyrosine kinase activity of Abl and T315I mutant kinases. The T315I mutation confers resistance in cells as it prevents other Bcr-Abl inhibitors from binding to the Abl kinase. Other targets that ponatinib inhibits are members of the VEGFR, PDGFR, FGFR, EPH receptors and SRC families of kinases, and KIT, RET, TIE2, and FLT3. A decrease in tumour size expressing native or T315I mutant BCR-ABL have been observed in rats. ",
+    "absorption": "The absolute bioavailability of ponatinib is unknown. Peak concentrations of ponatinib are observed within 6 hours after Iclusig oral administration. Food does not affect absorption of food. The aqueous solubility of ponatinib is pH dependent, with higher pH resulting in lower solubility.\r\nWhen 45 mg of ponatinib is given to cancer patients, the pharmacokinetic parameters are as follows: \r\nCmax = 73 ng/mL;\r\nAUC = 1253 ng\u2022hr/mL; ",
+    "metabolism": "At least 64% of a ponatinib dose undergoes phase I and phase II metabolism. CYP3A4 and to a lesser extent CYP2C8, CYP2D6 and CYP3A5 are involved in the phase I metabolism of ponatinib in vitro. Ponatinib is also metabolized by esterases and/or amidases.",
+    "toxicity": "The most common non-hematologic adverse reactions (\u2265 20%) were hypertension, rash, abdominal pain, fatigue, headache, dry skin, constipation, arthralgia, nausea, and pyrexia. Hematologic adverse reactions included thrombocytopenia, anemia, neutropenia, lymphopenia, and leukopenia. ",
+    "targets": [
+        [
+            "ABL1",
+            "Tyrosine-protein kinase ABL1",
+            "Humans"
+        ],
+        [
+            "BCR",
+            "Breakpoint cluster region protein",
+            "Humans"
+        ],
+        [
+            "KIT",
+            "Mast/stem cell growth factor receptor Kit",
+            "Humans"
+        ],
+        [
+            "RET",
+            "Proto-oncogene tyrosine-protein kinase receptor Ret",
+            "Humans"
+        ],
+        [
+            "TEK",
+            "Angiopoietin-1 receptor",
+            "Humans"
+        ],
+        [
+            "FLT3",
+            "Receptor-type tyrosine-protein kinase FLT3",
+            "Humans"
+        ],
+        [
+            "FGFR1",
+            "Fibroblast growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "FGFR2",
+            "Fibroblast growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FGFR3",
+            "Fibroblast growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "FGFR4",
+            "Fibroblast growth factor receptor 4",
+            "Humans"
+        ],
+        [
+            "LCK",
+            "Tyrosine-protein kinase Lck",
+            "Humans"
+        ],
+        [
+            "SRC",
+            "Proto-oncogene tyrosine-protein kinase Src",
+            "Humans"
+        ],
+        [
+            "LYN",
+            "Tyrosine-protein kinase Lyn",
+            "Humans"
+        ],
+        [
+            "KDR",
+            "Vascular endothelial growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "PDGFRA",
+            "Platelet-derived growth factor receptor alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

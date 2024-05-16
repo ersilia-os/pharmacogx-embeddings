@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA166115580",
+    "drugbank_id": "DB06608",
+    "names": [
+        "Tafenoquine"
+    ],
+    "description": "Tafenoquine is an 8-aminoquinoline analogue of primaquine which varies only on the presence of a 5-phenoxy group.[A35671, A35690] It was discovered by the scientists at the Walter Reed Army Institute of Research in 1978 as a substitute for primaquine that would be more effective against relapsing vivax malaria.[A35690] Tafenoquine was further developed collaboratively between GlaxoSmithKline and Medicines for Malaria Venture.[A35677] It was FDA approved on July 20, 2018.[L3770]",
+    "indication": "Tafenoquine is used for the treatment and prevention of relapse of Vivax malaria in patients 16 years and older. Tafenoquine is not indicated to treat acute vivax malaria.[A35671] \r\n\r\nMalaria is a disease that remains to occur in many tropical countries. Vivax malaria, caused by _Plasmodium vivax_, is known to be less virulent and seldom causes death. However, it causes a substantive illness-related burden in endemic areas and it is known to present dormant forms in the hepatocytes named hypnozoites which can remain dormant for weeks or even months. This dormant form produces ongoing relapses.[A35671]",
+    "pharmacodynamics": "In vitro studies have shown that tafenoquine presents an average 50% inhibitory concentration of 0.436 mcg against blood stages of seven strains of _P. falciparum_. In chloroquine-resistant _P. falciparum_ strains the IC50 of tafenoquine was greater when compared with primaquine and it ranged from 0.5 to 33.1 mcg. In studies evaluating the transmission-blocking activity of tafenoquine against the sporogonic stage of _P. vivax_, it was showed a reduced transmission at doses higher than 25 mg/kg.[A35677]\r\n\r\nIn clinical trials, it was reported a tafenoquine-induced relapse prevention of 91.9% in cases of vivax malaria when pretreated with chloroquine. In prophylactic studies, tafenoquine showed an efficacy range from 84 to 87% against falciparum malaria and 99.1% against vivax malaria.[A35677]",
+    "mechanism-of-action": "The mechanism of action of tafenoquine is not well established but studies have reported a longer and more effective action when compared to primaquine.[A35671] The active moiety of tafenoquine, 5,6 ortho quinone tafenoquine, seems to be redox cycled by _P. falciparum_ which are upregulated in gametocytes and liver stages. Once inside, the oxidated metabolite produces hydrogen peroxide and hydroxyl radicals. It is thought that these radicals produce leads to the parasite death.[A35677]\r\n\r\nOn the other hand, tafenoquine inhibits heme polymerase in blood stage of parasites which explains the activity against blood stages of parasites.[A35677]",
+    "absorption": "The first-in-human pharmacokinetic study showed a tmax of 13.8 hours and this study suggested that the prolonged absorption from the gut can be due to absorption in the distal gastrointestinal tract combined with a slow clearance. The AUC and Cmax demonstrated an intersubject variability. The bioavailability of tafenoquine is increased in the presence of a high-fat meal by modifying the amount of drug absorbed rather than the rate of absorption. Once absorbed, the concentration of tafenoquine in the whole body is two-fold higher than the corresponding concentration in plasma and it seems to be highly distributed in the liver showing an AUC of approximately 80 times more than what is found in the plasma.[A35677]",
+    "metabolism": "The activation of tafenoquine needs the activity of CYP 2D6 liver microsomal enzyme. This activation step produces the metabolite 5,6 ortho quinone tafenoquine. This metabolite is internalized by the parasite and reduced to radicals by ferredoxin-NADP+ reductase and diflavin reductase enzymes.[A35677] In the human, tafenoquine is metabolized by several metabolic pathways including O-demethylation, N-dealkylation, N-oxidation and oxidative deamination as well as C-hydroxylation of the 8-aminoalkylamino side chain.[T304]",
+    "toxicity": "Tafenoquine can cause hemolysis in people with glucose-6-phosphate dehydrogenase deficiency.[A35671] In preclinical studies, renal cell adenomas and carcinomas are increased in male rats with an overdose administration. However, this drug does not seem to be carcinogenic in humans and it was shown to lack mutagenic potential. In fertility studies, tafenoquine resulted in a reduced number of viable fetuses, implantation sites and corpora lutea.[FDA label]",
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            null,
+            "Ferredoxin--NADP reductase, apicoplast",
+            "Plasmodium falciparum (isolate 3D7)"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

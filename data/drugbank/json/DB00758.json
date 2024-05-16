@@ -1,0 +1,117 @@
+{
+    "pharmgkb_id": "PA449053",
+    "drugbank_id": "DB00758",
+    "names": [
+        "Clopidogrel"
+    ],
+    "description": "Clopidogrel is a prodrug of a platelet inhibitor used to reduce the risk of myocardial infarction and stroke.[A180508,L7213] Clopidogrel is indicated to reduce the risk of myocardial infarction for patients with non-ST elevated acute coronary syndrome (ACS), patients with ST-elevated myocardial infarction, and in recent MI, stroke, or established peripheral arterial disease,[L7213]\r\n\r\nIt has been shown to be superior to [aspirin] in reducing cardiovascular outcomes in patients with cardiovascular disease and provides additional benefit to patients with acute coronary syndromes already taking aspirin.[A180547]\r\n\r\nClopidogrel was granted FDA approval on 17 November 1997.[L7213]",
+    "indication": "Clopidogrel is indicated to reduce the risk of myocardial infarction for patients with non-ST elevated acute coronary syndrome (ACS), patients with ST-elevated myocardial infarction, and in recent MI, stroke, or established peripheral arterial disease,[L7213]",
+    "pharmacodynamics": "Clopidogrel is a prodrug of a platelet inhibitor used to reduce the risk of myocardial infarction and stroke.[A180508,L7213] It has a long duration of action as it is taken once daily and a large therapeutic window as it is given in doses of 75-300mg daily.[L7213]",
+    "mechanism-of-action": "Clopidogrel is activated via a 2 steps reaction to an active thiol-containing metabolite.[A180508] This active form is a platelet inhibitor that irreversibly binds to P2Y<sub>12</sub> ADP receptors on platelets.[L7213] This binding prevents ADP binding to P2Y<sub>12</sub> receptors, activation of the glycoprotein GPIIb/IIIa complex, and platelet aggregation.[L7213]",
+    "absorption": "A 75mg oral dose of clopidogrel is 50% absorbed from the intestine.[L7213] Clopidogrel can be taken with or without food.[L7213] A meal decreases the AUC of the active metabolite by 57%.[L7213] The active metabolite of clopidogrel reaches a maximum concentration after 30-60 minutes.[L7213] Clopidogrel reached a C<sub>max</sub> of 2.04\u00b12.0ng/mL  in 1.40\u00b11.07h.[A180538]\r\n\r\nThe AUC for a 300mg oral dose of clopidogrel was 45.1\u00b116.2ng\\*h/mL for poor metabolizers, 65.6\u00b119.1ng\\*h/mL for intermediate metabolizers, and 104.3\u00b157.3ng\\*h/mL for extensive metabolizers.[A180541] The C<sub>max</sub> was 31.3\u00b113ng/mL for poor metabolizers, 43.9\u00b114ng/mL for intermediate metabolizers, and 60.8\u00b134.3ng/mL for extensive metabolizers.[A180541]",
+    "metabolism": "85-90% of an oral dose undergoes first pass metabolism by carboxylesterase 1 in the liver to an inactive carboxylic acid metabolite.[A180535] about 2% of clopidogrel is oxidized to 2-oxoclopidogrel.[A180535] This conversion is 35.8% by CYP1A2, 19.4% by CYP2B6, and 44.9% by CYP2C19[A180535] though other studies suggest CYP3A4, CYP3A5, and CYP2C9 also contribute.[A180508] 2-oxoclopidogrel is further metabolized to the active metabolite.[A180508,A180535] This conversion is 32.9% by CYP2B6, 6.79% by CYP2C9, 20.6% by CYP2C19, and 39.8% by CYP3A4.[A180508,A180535]",
+    "toxicity": "A single dose of clopidogrel at 1500-2000mg/kg was lethal to mice and rats while 3000mg/kg was lethal to baboons.[L7213] Symptoms of overdose include vomiting, breathing difficulty, gastrointestinal hemorrhage, and prostration.[L7213] Clopidogrel is irreversibly bound to platelets for their lifetime, which is approximately 11 days.[L7213] Overdoses of clopidogrel can be treated with platelet transfusions to restore clotting ability.[L7213]",
+    "targets": [
+        [
+            "P2RY12",
+            "P2Y purinoceptor 12",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00758",
+            "Drug Name": "Clopidogrel",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1057910",
+            "Effect Description": "Patients with this genotype have reduced metabolism of clopidogrel resulting in reduced plasma concentrations of its active metabolite."
+        },
+        {
+            "DrugBank ID": "DB00758",
+            "Drug Name": "Clopidogrel",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "Patients with this genotype have reduced metabolism of clopidogrel resulting in reduced plasma concentrations of its active metabolite."
+        },
+        {
+            "DrugBank ID": "DB00758",
+            "Drug Name": "Clopidogrel",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with reduced or poor metabolism of clopidogrel."
+        },
+        {
+            "DrugBank ID": "DB00758",
+            "Drug Name": "Clopidogrel",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Adverse Reaction Description": "Patients with this polymorphism in CYP2C19 are poor metabolizers of clopidogrel and are associated with diminished platelet response and increased risk of adverse cardiovascular events in response to clopidogrel therapy."
+        }
+    ]
+}

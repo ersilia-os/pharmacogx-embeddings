@@ -1,0 +1,45 @@
+{
+    "pharmgkb_id": "PA164744895",
+    "drugbank_id": "DB01251",
+    "names": [
+        "Gliquidone",
+        "Devotan",
+        "Fordiab",
+        "Glidiab",
+        "Glunormal",
+        "Glurenor",
+        "Glurenorm",
+        "Jie Shi",
+        "Ka Rui Lin",
+        "Lodem"
+    ],
+    "description": "Gliquidone is a sulfonylurea drug used to treat diabetes mellitus type 2. It is an ATP-dependent K+ (KATP) channel blocker. This block causes a depolarization which leads to activation of voltage-dependent Ca channels and Ca2+ influx, and eventually increases insulin release.",
+    "indication": "Used in the treatment of diabetes mellitus type 2.",
+    "pharmacodynamics": "Gliquidone is an anti-diabetic drug in the sulfonylurea class. In patients with diabetes mellitus, there is a deficiency or absence of a hormone manufactured by the pancreas called insulin. Insulin is the main hormone responsible for the control of sugar in the blood. Gliquidone is an antidiabetic medication which is used in those patients with adult maturity onset or non-insulin dependent diabetes (NIDDM). It works by lowering blood sugar levels by stimulating the production and release of insulin from the pancreas. It also promotes the movement of sugar from the blood into the cells in the body which need it.\r\n",
+    "mechanism-of-action": "The mechanism of action of gliquidone in lowering blood glucose appears to be dependent on stimulating the release of insulin from functioning pancreatic beta cells, and increasing sensitivity of peripheral tissues to insulin. Gliquidone likely binds to ATP-sensitive potassium channel receptors on the pancreatic cell surface, reducing potassium conductance and causing depolarization of the membrane. Membrane depolarization stimulates calcium ion influx through voltage-sensitive calcium channels. This increase in intracellular calcium ion concentration induces the secretion of insulin.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "ABCC8",
+            "ATP-binding cassette sub-family C member 8",
+            "Humans"
+        ],
+        [
+            "KCNJ8",
+            "ATP-sensitive inward rectifier potassium channel 8",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

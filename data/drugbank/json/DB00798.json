@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA449753",
+    "drugbank_id": "DB00798",
+    "names": [
+        "Gentamicin",
+        "Alcomicin",
+        "Bristagen",
+        "G-Mycin",
+        "Genoptic",
+        "Gentacidin",
+        "Gentafair",
+        "Gentamar",
+        "Jenamicin",
+        "Ocu-Mycin",
+        "Spectro-Genta",
+        "U-gencin"
+    ],
+    "description": "Gentamicin is a bactericidal aminoglycoside that was discovered and isolated from _Micromonospora purpurea_ in 1963.[A234349] It is one of the most frequently prescribed aminoglycosides due to its spectrum of activity, low cost, and availability.[A234339,A234354] Gentamicin is effective against both gram-positive and gram-negative organisms but is particularly useful for the treatment of severe gram-negative infections including those caused by _Pseudomonas aeruginosa_.[A233325,A234359,A234364] There is the added benefit of synergy when gentamicin is co-administered with other antibacterials such as beta-lactams.[A234364] This synergistic activity is not only important for the treatment of complex infections, but can also contribute to dose optimization and reduced adverse effects.[A234359,A234364]\r\n\r\nAlthough gentamicin is well-established and may be used in a variety of clinical applications, it is also associated with severe adverse effects including nephrotoxicity and ototoxicity which may limit its use.[A234369]",
+    "indication": null,
+    "pharmacodynamics": null,
+    "mechanism-of-action": "There are 3 key phases of aminoglycoside entry into cells.[A232294] The first \u201cionic binding phase\u201d occurs when polycationic aminoglycosides bind electrostatically to negatively charged components of bacterial cell membranes including with lipopolysaccharides and phospholipids within the outer membrane of Gram-negative bacteria and to teichoic acids and phospholipids within the cell membrane of Gram-positive bacteria. This binding results in displacement of divalent cations and increased membrane permeability, allowing for aminoglycoside entry.[A232294, A232304, A232309, A232314]\r\nThe second \u201cenergy-dependent phase I\u201d of aminoglycoside entry into the cytoplasm relies on the proton-motive force and allows a limited amount of aminoglycoside access to its primary intracellular target - the bacterial 30S ribosome.[A232294, A232314] This ultimately results in the mistranslation of proteins and disruption of the cytoplasmic membrane.[A233320] Finally, in the \u201cenergy-dependent phase II\u201d stage, concentration-dependent bacterial killing is observed. Aminoglycoside rapidly accumulates in the cell due to the damaged cytoplasmic membrane, and protein mistranslation and synthesis inhibition is amplified.[A232294, A232314, A232319] The necessity of oxygen-dependent active transport explains why aminoglycosides are ineffective against anaerobic bacteria.[A234130]\r\nHence, aminoglycosides have both immediate bactericidal effects through membrane disruption and delayed bactericidal effects through impaired protein synthesis; observed experimental data and mathematical modeling support this two-mechanism model.[A232294, A232299]\r\nInhibition of protein synthesis is a key component of aminoglycoside efficacy. Structural and cell biological studies suggest that aminoglycosides bind to the 16S rRNA in helix 44 (h44), near the A site of the 30S ribosomal subunit, altering interactions between h44 and h45. This binding also displaces two important residues, A1492 and A1493, from h44, mimicking normal conformational changes that occur with successful codon-anticodon pairing in the A site.[A232324, A232329] Overall, aminoglycoside binding has several negative effects including inhibition of translation, initiation, elongation, and ribosome recycling.[A232294, A232334, A232339] Recent evidence suggests that the latter effect is due to a cryptic second binding site situated in h69 of the 23S rRNA of the 50S ribosomal subunit.[A232329, A232339] Also, by stabilizing a conformation that mimics correct codon-anticodon pairing, aminoglycosides promote error-prone translation.[A232344] Mistranslated proteins can incorporate into the cell membrane, inducing the damage discussed above.[A232294, A232319]",
+    "absorption": null,
+    "metabolism": "Gentamicin undergoes little to no metabolism.[L33254]",
+    "toxicity": "As with other aminoglycosides, nephrotoxicity and ototoxicity are associated with gentamicin.[A232294] Signs of nephrotoxicity include an increase in plasma creatinine and urea, while signs of ototoxicity include issues with balance, nausea, tinnitus, and hearing loss.[A234339] It is important to note that aminoglycoside-induced nephrotoxicity is typically reversible, while ototoxicity is more likely to be permanent.[A232294] The risk of both toxicities increases with long-term gentamicin therapy.[A234130] Gentamicin is considered to be more vestibulotoxic than cochleotoxic compared to other aminoglycosides.[A232294,A234334] Unfortunately, gentamicin-related ototoxicity does not correlate with cumulative dosing, peak and trough levels, or dosing schedule.[A234339] The unpredictability of ototoxicity supports close monitoring of the patient throughout treatment.[A234339] In cases of toxicity or overdose, the medication should be discontinued immediately; hemodialysis may be initiated to lower gentamicin serum concentrations.[L33254]",
+    "targets": [
+        [
+            "rpsL",
+            "30S ribosomal protein S12",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "nadE",
+            "NH(3)-dependent NAD(+) synthetase",
+            "Bacillus subtilis (strain 168)"
+        ],
+        [
+            "DHFR",
+            "Dihydrofolate reductase",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "LRP2",
+            "Low-density lipoprotein receptor-related protein 2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

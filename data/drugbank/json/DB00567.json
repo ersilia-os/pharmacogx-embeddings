@@ -1,0 +1,116 @@
+{
+    "pharmgkb_id": "PA448883",
+    "drugbank_id": "DB00567",
+    "names": [
+        "Cephalexin",
+        "Alcephin",
+        "Alexin",
+        "Alsporin",
+        "Cefadin",
+        "Cefalin",
+        "Ceforal",
+        "Cefovit",
+        "Celexin",
+        "Cephin",
+        "Ceporexin",
+        "Felexin",
+        "Ibilex",
+        "Keforal",
+        "L-Keflex",
+        "Larixin",
+        "Lonflex",
+        "Madlexin",
+        "Nufex",
+        "Oriphex",
+        "Ospexin",
+        "Palitrex",
+        "Pyassan",
+        "Sanaxin",
+        "Sencephalin",
+        "Sepexin",
+        "Servispor",
+        "Sialexin",
+        "Sporicef",
+        "Sporidex",
+        "Syncl",
+        "Tepaxin",
+        "Uphalexin",
+        "Voxxim",
+        "Winlex"
+    ],
+    "description": "Cephalexin is the first of the first generation cephalosporins.[A179071,A179074] This antibiotic contains a  beta lactam and a dihydrothiazide.[A179071] Cephalexin is used to treat a number of susceptible bacterial infections through inhibition of cell wall synthesis.[A179083,Label] Cephalexin was approved by the FDA on 4 January 1971.[L6547]",
+    "indication": "Cephalexin is indicated for the treatment of certain infections caused by susceptible bacteria.[Label,L6550,L6553] These infections include respiratory tract infections, otitis media, skin and skin structure infections, bone infections, and genitourinary tract infections.[Label,L6550,L6553]",
+    "pharmacodynamics": "Cephalexin (also called Cefalexin) is a first generation cephalosporin antibiotic.[A179071,A179074] It is one of the most widely prescribed antibiotics, often used for the treatment of superficial infections that result as complications of minor wounds or lacerations.[Label] It is effective against most gram-positive bacteria through its inihibition of the cross linking reaction between N-acetyl muramicacid and N-acetylglucosamine in the cell wall, leading to cell lysis.[A179083]",
+    "mechanism-of-action": "Cephalexin is a first generation cephalosporin antibiotic.[A179071,A179074] Cephalosporins contain a beta lactam and dihydrothiazide.[A179071] Unlike penicillins, cephalosprins are more resistant to the action of beta lactamase.[A179071] Cephalexin inhibits bacterial cell wall synthesis, leading breakdown and eventualy cell death.[Label]",
+    "absorption": "Well absorbed from the upper gastrointestinal tract with nearly 100% oral bioavailability.[A179032,A179035] Cephalexin is not absorbed in the stomach but is absorbed in the upper intestine.[A179065]\r\n\r\nPatients taking 250mg of cephalexin reach a maximum plasma concentration of 7.7mcg/mL and patients taking 500mg reach 12.3mcg/mL.[A179026]",
+    "metabolism": "Cephalexin is not metabolized in the body.[A179029,Label,L6550,L6553]",
+    "toxicity": "Symptoms of overdose include blood in the urine, diarrhea, nausea, upper abdominal pain, and vomiting.[Label] An overdose is generally managed through supportive treatment as diuresis, dialysis, hemodialysis, and charcoal hemoperfusion are not well studied in this case.[Label]\r\n\r\nThe oral median lethal dose of cephalexin in rats is >5000 mg/kg. The oral LD50 in a monkey is >1g/kg and the lowest dose causing a toxic effect in humans is 14mg/kg.[MSDS]\r\n\r\nCephalexin has not been shown to be harmful in pregnancy and is not associated with teratogeniticy.[Label] Cephalexin is present in breast milk, though infants may be exposed to <1% of the dose given to the mother.[Label] The effects of breast milk exposure to cephalexin have not been established and so caution must be exercised and the risk and benefit of cephalexin use in breastfeeding must be weighed.[Label]\r\n\r\nCephalexin has not been studied for carcinogenicity or mutagenicity.[Label] Cephalexin has no affect on fertility in rats.[Label]",
+    "targets": [
+        [
+            "pbp3",
+            "Penicillin-binding protein 3",
+            "Streptococcus pneumoniae"
+        ],
+        [
+            "pbp2a",
+            "Penicillin-binding protein 2a",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "pbp1b",
+            "Penicillin-binding protein 1b",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "penA",
+            "Penicillin-binding protein 2B",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "pbpA",
+            "Penicillin-binding protein 1A",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

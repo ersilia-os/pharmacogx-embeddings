@@ -1,0 +1,60 @@
+{
+    "pharmgkb_id": "PA450192",
+    "drugbank_id": "DB01097",
+    "names": [
+        "Leflunomide"
+    ],
+    "description": "Leflunomide is a pyrimidine synthesis inhibitor belonging to the DMARD (disease-modifying antirheumatic drug) class of drugs, which are chemically and pharmacologically very heterogeneous. Leflunomide was approved by FDA and in many other countries (e.g., Canada, Europe) in 1999.",
+    "indication": "For the management of the signs and symptoms of active rheumatoid arthritis (RA) to improve physical function and to slow the progression of structural damage associated with the disease. Has also been used for the prevention of acute and chronic rejection in recipients of solid organ trasnplants and is designated by the FDA as an orphan drug for this use.",
+    "pharmacodynamics": "Leflunomide is a pyrimidine synthesis inhibitor indicated in adults for the treatment of active rheumatoid arthritis (RA). RA is an auto-immune disease characterized by high T-cell activity. T cells have two pathways to synthesize pyrimidines: the salvage pathways and the de novo synthesis. At rest, T lymphocytes meet their metabolic requirements by the salvage pathway. Activated lymphocytes need to expand their pyrimidine pool 7- to 8-fold, while the purine pool is expanded only 2- to 3-fold. To meet the need for more pyrimidines, activated T cells use the de novo pathway for pyrimidine synthesis. Therefore, activated T cells, which are dependent on de novo pyrimidine synthesis, will be more affected by leflunomide's inhibition of dihydroorotate dehydrogenase than other cell types that use the salvage pathway of pyrimidine synthesis.",
+    "mechanism-of-action": "Leflunomide is a prodrug that is rapidly and almost completely metabolized following oral administration to its pharmacologically active metabolite, A77 1726. This metabolite is responsible for essentially all of the drug's activity in-vivo. The mechanism of action of leflunomide has not been fully determined, but appears to primarily involve regulation of autoimmune lymphocytes. It has been suggested that leflunomide exerts its immunomodulating effects by preventing the expansion of activated autoimmune lymphocytes via interferences with cell cycle progression. In-vitro data indicates that leflunomide interferes with cell cycle progression by inhibiting dihydroorotate dehydrogenase (a mitochondrial enzyme involved in de novo pyrimidine ribonucleotide uridine monophosphate (rUMP)synthesis) and has antiproliferative activity. Human dihydroorotate dehydrogenase consists of 2 domains: an \u03b1/\u03b2-barrel domain containing the active site and an \u03b1-helical domain that forms a tunnel leading to the active site. A77 1726 binds to the hydrophobic tunnel at a site near the flavin mononucleotide. Inhibition of dihydroorotate dehydrogenase by A77 1726 prevents production of rUMP by the de novo pathway; such inhibition leads to decreased rUMP levels, decreased DNA and RNA synthesis, inhibition of cell proliferation, and G1 cell cycle arrest. It is through this action that leflunomide inhibits autoimmune T-cell proliferation and production of autoantibodies by B cells. Since salvage pathways are expected to sustain cells arrested in the G1 phase, the activity of leflunomide is cytostatic rather than cytotoxic. Other effects that result from reduced rUMP levels include interference with adhesion of activated lymphocytes to the synovial vascular endothelial cells, and increased synthesis of immunosuppressive cytokines such as transforming growth factor-\u03b2 (TGF-\u03b2). Leflunomide is also a tyrosine kinase inhibitor. Tyrosine kinases activate signalling pathways leading to DNA repair, apoptosis and cell proliferation. Inhibition of tyrosine kinases can help to treating cancer by preventing repair of tumor cells. ",
+    "absorption": "Well absorbed, peak plasma concentrations appear 6-12 hours after dosing",
+    "metabolism": "Primarily hepatic. Leflunomide is converted to its active form following oral intake.",
+    "toxicity": "LD<sub>50</sub>=100-250 mg/kg (acute oral toxicity)",
+    "targets": [
+        [
+            "DHODH",
+            "Dihydroorotate dehydrogenase (quinone), mitochondrial",
+            "Humans"
+        ],
+        [
+            "AHR",
+            "Aryl hydrocarbon receptor",
+            "Humans"
+        ],
+        [
+            "PTK2B",
+            "Protein-tyrosine kinase 2-beta",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01097",
+            "Drug Name": "Leflunomide",
+            "Gene Symbol": "CYP1A2",
+            "RS ID (Genotype)": "rs762551",
+            "Adverse Reaction Description": "The presence of this genotype in CYP1A2 may be associated with an increased risk of drug-related toxicity from leflunomide therapy."
+        }
+    ]
+}

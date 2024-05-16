@@ -1,0 +1,78 @@
+{
+    "pharmgkb_id": "PA450616",
+    "drugbank_id": "DB00238",
+    "names": [
+        "Nevirapine"
+    ],
+    "description": "A potent, non-nucleoside reverse transcriptase inhibitor (NNRTI) used in combination with nucleoside analogues for treatment of Human Immunodeficiency Virus Type 1 (HIV-1) infection and AIDS. Structurally, nevirapine belongs to the dipyridodiazepinone chemical class.",
+    "indication": "For use in combination with other antiretroviral drugs in the ongoing treatment of HIV-1 infection.",
+    "pharmacodynamics": "Nevirapine is a non-nucleoside reverse transcriptase inhibitor (nNRTI) with activity against Human Immunodeficiency Virus Type 1 (HIV-1). HIV-2 RT and eukaryotic DNA polymerases (such as human DNA polymerases alpha, beta, or sigma) are not inhibited by nevirapine. Nevirapine is, in general, only prescribed after the immune system has declined and infections have become evident. It is always taken with at least one other HIV medication such as Retrovir or Videx. The virus can develop resistance to nevirapine if the drug is taken alone, although even if used properly, nevirapine is effective for only a limited time.",
+    "mechanism-of-action": "Nevirapine binds directly to reverse transcriptase (RT) and blocks the RNA-dependent and DNA-dependent DNA polymerase activities by causing a disruption of the enzyme's catalytic site. The activity of nevirapine does not compete with template or nucleoside triphosphates.",
+    "absorption": "Nevirapine is readily absorbed (greater than 90%) after oral administration in healthy subjects and adults with HIV-1 infection. The absolute bioavailability in healthy adults following a single dose administration is 93 \u00b1 9% (mean \u00b1 SD) for a 50 mg tablet and 91 \u00b1 8% for an oral solution. Peak plasma nevirapine concentrations of 2 \u00b1 0.4 mcg/mL (7.5 micromolar) were attained by 4 hours following a single 200 mg dose. Nevirapine tablets and suspension have been shown to be comparably bioavailable and interchangeable at doses up to 200 mg. When the oral tablet is given with a high-fat meal, the extent of absorption is compared to that of the fasted-state. ",
+    "metabolism": "Hepatic. In vivo studies in humans and in vitro studies with human liver microsomes have shown that nevirapine is extensively biotransformed via cytochrome P450 3A4 metabolism to several hydroxylated metabolites.",
+    "toxicity": "Symptoms of overdose include edema, erythema nodosum, fatigue, fever, headache, insomnia, nausea, pulmonaryinfiltrates, rash, vertigo, vomiting, and weight decrease. The most common adverse reaction is rash. ",
+    "targets": [
+        [
+            "pol",
+            "Reverse transcriptase/RNaseH",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

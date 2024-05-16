@@ -1,0 +1,252 @@
+{
+    "pharmgkb_id": "PA450657",
+    "drugbank_id": "DB00540",
+    "names": [
+        "Nortriptyline",
+        "Allegron",
+        "Ateben",
+        "Avantyl",
+        "Noritren",
+        "Norpress",
+        "Nortrilen",
+        "Psychostyl",
+        "Sensaval",
+        "Sensoval"
+    ],
+    "description": "Nortriptyline hydrochloride, the active metabolite of [amitriptyline], is a tricyclic antidepressant (TCA).[L11878] It is used in the treatment of major depression and is also used off-label for chronic pain and other conditions.[L11881]",
+    "indication": "Nortriptyline is indicated for the relief of the symptoms of major depressive disorder (MDD).[L11878] Some off-label uses for this drug include treatment of chronic pain, myofascial pain, neuralgia, and irritable bowel syndrome.[A191083,L11878]",
+    "pharmacodynamics": "Nortriptyline exerts antidepressant effects likely by inhibiting the reuptake of serotonin and norepinephrine at neuronal cell membranes. It also exerts antimuscarinic effects through its actions on the acetylcholine receptor.[L11878,L11881]",
+    "mechanism-of-action": "Though prescribing information does not identify a specific mechanism of action for nortriptyline[L11878], is believed that nortriptyline either inhibits the reuptake of the neurotransmitter serotonin at the neuronal membrane or acts at the level of the beta-adrenergic receptors. It displays a more selective reuptake inhibition for noradrenaline, which may explain increased symptom improvement after nortriptyline therapy.[T28] Tricyclic antidepressants do not inhibit monoamine oxidase nor do they affect dopamine reuptake.[L11878] As with other tricyclics, nortriptyline displays affinity for other receptors including mACh receptors, histamine receptors, 5-HT receptors, in addition to other receptors.[A18198,A4909,T28] ",
+    "absorption": "Nortriptyline is readily absorbed in the gastrointestinal tract with extensive variation in plasma levels, depending on the patient. This drug undergoes first-pass metabolism and its plasma concentrations are attained within 7 to 8.5 hours after oral administration.[L11899] The bioavailability of nortriptyline varies considerably and ranges from 45 to 85%.[A191167,L11911]",
+    "metabolism": "Nortriptyline is metabolized via demethylation and hydroxylation in the liver followed by glucuronic acid conjugation. CYP2D6 plays a large role in nortriptyline metabolism, with contributions from CYP1A2, CYP2C19 and CYP3A4.[A15182,L11878,A14832] The main active metabolite is 10-hydroxynortriptyline exists in both cis and a trans form, with the trans form is higher in potency.  10-hydroxynortriptyline is the most frequently found in the plasma. Most of the other metabolites are conjugated, and are less potent.[L11911]",
+    "toxicity": "The oral LD50 of nortriptyline in the rat is 405 mg/kg.[L11920]Symptoms of overdose with nortriptyline include cardiac arrhythmias, severe hypotension, shock, congestive heart failure, pulmonary edema, convulsions, coma, and CNS depression.[L11878,L11899] Changes in the electrocardiogram, particularly in QRS segment, may be indicative of tricyclic antidepressant toxicity.[A191170] ",
+    "targets": [
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "PGRMC1",
+            "Sigma receptor",
+            "Humans"
+        ],
+        [
+            "SIGMAR1",
+            "Sigma receptor",
+            "Humans"
+        ],
+        [
+            "Htr2c",
+            "5-hydroxytryptamine receptor 1C",
+            "Rat"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00540",
+            "Drug Name": "Nortriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "Patients with this genotype have reduced metabolism of nortriptyline."
+        },
+        {
+            "DrugBank ID": "DB00540",
+            "Drug Name": "Nortriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs35742686",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of nortriptyline."
+        },
+        {
+            "DrugBank ID": "DB00540",
+            "Drug Name": "Nortriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of nortriptyline."
+        },
+        {
+            "DrugBank ID": "DB00540",
+            "Drug Name": "Nortriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of nortriptyline."
+        },
+        {
+            "DrugBank ID": "DB00540",
+            "Drug Name": "Nortriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of nortriptyline."
+        },
+        {
+            "DrugBank ID": "DB00540",
+            "Drug Name": "Nortriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1135824",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of nortriptyline."
+        },
+        {
+            "DrugBank ID": "DB00540",
+            "Drug Name": "Nortriptyline",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs28371733",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of nortriptyline."
+        }
+    ]
+}

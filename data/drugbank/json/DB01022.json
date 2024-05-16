@@ -1,0 +1,48 @@
+{
+    "pharmgkb_id": "PA166197681",
+    "drugbank_id": "DB01022",
+    "names": [
+        "Phylloquinone",
+        "Aqua-Mephyton",
+        "Konakion"
+    ],
+    "description": "Vitamin K1, also called phylloquinone or phytonadione, is a fat soluble vitamin.[L33319,L33345] Phylloquinone is a cofactor of the enzyme \u03b3-carboxylase, which modifies and activates precursors to coagulation factors II, VII, IX, and X.[A234264,A234195,A234259] It is indicated in the treatment of coagulation disorders due to faulty formation of coagulation factors II, VII, IX, and X caused by deficiency or interference in the activity of vitamin K.[L33319]\r\n\r\nPhylloquinone has been synthesized since at least 1939,[A234384] and was approved by the FDA prior to 1955.[L33389]",
+    "indication": "Oral phylloquinone is indicated to treat prothrombin deficiency caused by coumarin or indanedione derivatives; and hypoprothrombinemia secondary to antibacterial therapy, salicylates, or obstructive jaundice or biliary fistulas with concomitant bile salt administration.[L33345]\r\n\r\nParenteral (intravenous, intramuscular, and subcutaneous) phylloquinone is indicated to treat coagulation disorders due to faulty formation of coagulation factors II, VII, IX, and X caused by vitamin K deficiency or some interference with vitamin K activity.[L33319] These indications include the above indications as well as hypoprothrombinemia secondary to sprue, ulcerative colitis, celiac disease, intestinal resection, pancreatic cystic fibrosis, or regional enteritis; or hypoprothrombinemia caused by interference with vitamin k metabolism.[L33319]",
+    "pharmacodynamics": "Phylloquinone is a vitamin K indicated in the treatment of coagulation disorders due to faulty formation of coagulation factors II, VII, IX, and X caused by deficiency or interference in the activity of vitamin K.[L33319] It has a long duration of action as vitamin K is cycled in the body,[A234259] and a wide therapeutic index as large doses can be tolerated.[A234284,L33345] Patients should have their prothrombin time monitored during therapy and healthcare professionals should be aware of the increased risk of hypersensitivity reactions with parenteral administration.[L33345]",
+    "mechanism-of-action": "Vitamin K is a cofactor of gamma-carboxylase.[A234264,A234195] Gamma carboxylase attaches carboxylic acid functional groups to glutamate, allowing precursors of factors II, VII, IX, and X to bind calcium ions.[A234259] Binding of calcium ions converts these clotting factors to their active form, which are then secreted from hepatocytes into the blood, restoring normal clotting function.[L33345]\r\n\r\nVitamin K may also carboxylate matrix proteins in chondrocytes, inhibiting calcification of joints, and may increase type II collagen.[A234304] The role of vitamin K in osteroarthritis,[A234304] bone density,[A234309] and vascular calcification[A234314] is currently under investigation.",
+    "absorption": "A 4 \u00b5g oral dose of phylloquinone is 13% \u00b1 9% bioavailable, with a T<sub>max</sub> of 4.7 \u00b1 0.8 hours.[A234264] 1.5 \u00b1 0.8 nmol is found in the plasma compartment, and 3.6 \u00b1 3.4 nmol is found in the second compartment.[A234264]\r\n\r\nA 10 mg intramuscular phylloquinone dose is 89.2% \u00b1 25.4% bioavailable.[A234344] The same dose reaches a mean C<sub>max</sub> of 67 \u00b1 30 ng/mL, with a mean T<sub>max</sub> of 9.2 \u00b1 6.6 hours, and an AUC of 1700 \u00b1 500 h\\*ng/mL.[A234344]\r\n\r\nA 10 mg intravenous phylloquinone dose has a mean AUC of 1950 \u00b1 450 h\\*ng/mL.[A234344]",
+    "metabolism": "Phylloquinone's phytyl side chain is omega hydroxylated by CYP4F2.[A137578] The side chain is then cleaved to 5 or 7 carbons long, and then glucuronidated prior to elimination.[A234104,A234109,A234114,A234119]\r\n\r\nVitamin Ks in general undergo a cycle of reduction to vitamin K hydroquinone by vitamin K epoxide reductase (VKOR), oxidation to vitamin K epoxide by gamma-glutamyl carboxylase, and converted back to vitamin K by VKOR.[A234259]",
+    "toxicity": "High doses of vitamin K1 are not associated with toxicity.[A234259] Intravenous administration has been associated with an increased risk of toxicity.[A234284] These patients should be treated with symptomatic and supportive measures.\r\n\r\nThe intravenous LD<sub>50</sub> in mice is 1170 mg/kg and the oral LD<sub>50</sub> is >24180 mg/kg.[L33345]",
+    "targets": [
+        [
+            "GGCX",
+            "Vitamin K-dependent gamma-carboxylase",
+            "Humans"
+        ],
+        [
+            "BGLAP",
+            "Osteocalcin",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP4F2",
+            "Leukotriene-B(4) omega-hydroxylase 1",
+            "Humans"
+        ],
+        [
+            "UBIAD1",
+            "UbiA prenyltransferase domain-containing protein 1",
+            "Humans"
+        ],
+        [
+            "VKORC1",
+            "Vitamin K epoxide reductase complex subunit 1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

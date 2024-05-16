@@ -1,0 +1,165 @@
+{
+    "pharmgkb_id": "PA449905",
+    "drugbank_id": "DB00741",
+    "names": [
+        "Hydrocortisone",
+        "Acticort",
+        "Aeroseb HC",
+        "Ala-Scalp",
+        "Algicirtis",
+        "Beta-HC",
+        "Cetacort",
+        "Cortaid",
+        "Delacort",
+        "Ficortril",
+        "Genacort",
+        "Glycort",
+        "Komed HC",
+        "Lacticare HC",
+        "Lubricort",
+        "Meusicort",
+        "Mildison",
+        "Nogenic HC",
+        "Nutracort",
+        "Penecort",
+        "Permicort",
+        "Polcort H",
+        "Preparation H Hydrocortisone Cream",
+        "Prevex HC",
+        "Proctocream",
+        "Remederm HC",
+        "Sanatison",
+        "Scalpicin Capilar",
+        "Schericur",
+        "Sigmacort",
+        "Synacort",
+        "Systral Hydrocort",
+        "Timocort"
+    ],
+    "description": "Hydrocortisone, or cortisol, is a glucocorticoid secreted by the adrenal cortex.[A188387] Hydrocortisone is used to treat immune, inflammatory, and neoplastic conditions.[L10529,L10532,L10535,L10538,L7772,L7321] It was discovered in the 1930s by Edward Kendall and named Compound F, or 17-hydroxycorticosterone.[A188420]\r\n\r\nHydrocortisone was granted FDA approval on 5 August 1952.[L10574]",
+    "indication": "Otic solutions are indicated for infections of the external auditory canal caused by susceptible organisms and with inflammation.[L10529,L10532] Hydrocortisone tablets are indicated for certain endocrine, rheumatic, collagen, allergic, ophthalmic, respiratory, hematologic, neoplastic, edematous, gastrointestinal, and other conditions.[L10535] A hydrocortisone enema is indicated for ulcerative colitis,[L10538] a topical ointment with antibiotics is indicated for corticosteroid responsive dermatoses with infections,[L7772] and a topical cream with [acyclovir] is indicated to treat cold sores.[L7321] Oral granules of hydrocortisone are used as a replacement therapy for Adrenocortical Insufficiency (AI) in children under 17 years of age.[L16533]",
+    "pharmacodynamics": "Hydrocortisone binds to the glucocorticoid receptor leading to downstream effects such as inhibition of phospholipase A2, NF-kappa B, other inflammatory transcription factors, and the promotion of anti-inflammatory genes.[A187463] Hydrocortisone has a wide therapeutic index[A188405] and a moderate duration of action.[A188354,A188381] Patients should stop taking the medication if irritation or sensitization occurs.[L10529,L10532,L10535,L10538,L7772,L7321]",
+    "mechanism-of-action": "The short term effects of corticosteroids are decreased vasodilation and permeability of capillaries, as well as decreased leukocyte migration to sites of inflammation.[A187463] Corticosteroids binding to the glucocorticoid receptor mediates changes in gene expression that lead to multiple downstream effects over hours to days.[A187463]\r\n\r\nGlucocorticoids inhibit neutrophil apoptosis and demargination; they inhibit phospholipase A2, which decreases the formation of arachidonic acid derivatives; they inhibit NF-Kappa B and other inflammatory transcription factors; they promote anti-inflammatory genes like interleukin-10.[A187463]\r\n\r\nLower doses of corticosteroids provide an anti-inflammatory effect, while higher doses are immunosuppressive.[A187463] High doses of glucocorticoids for an extended period bind to the mineralocorticoid receptor, raising sodium levels and decreasing potassium levels.[A187463]",
+    "absorption": "Oral hydrocortisone at a dose of 0.2-0.3mg/kg/day reached a mean C<sub>max</sub> of 32.69nmol/L with a mean AUC of 90.63h\\*nmol/L[A188354] A 0.4-0.6mg/kg/day dose reached a mean C<sub>max</sub> of 70.81nmol/L with a mean AUC of 199.11h\\*nmol/L.[A188354] However, the pharmacokinetics of hydrocortisone can vary by 10 times from patient to patient.[A188354]\r\n\r\nTopical hydrocortisone cream is 4-19% bioavailable[A188375] with a T<sub>max</sub> of 24h.[A188372]\r\n\r\nHydrocortisone retention enemas are have a bioavailability of 0.810 for slow absorbers and 0.502 in rapid absorbers.[A188378] Slow absorbers take up hydrocortisone at a rate of 0.361\u00b10.255/h while fast absorbers take up hydrocortisone at a rate of 1.05\u00b10.255/h.[A188378]\r\n\r\nA 20mg IV dose of hydrocortisone has an AUC of 1163\u00b1277ng\\*h/mL.[A188381]",
+    "metabolism": "Hydrocortisone is metabolised to 6-beta hydrocortisol via CYP3A, 5-beta tetrahydrocortisol via 3-oxo-5-beta-steroid 4-dehydrogenase, 5-alpha tetrahydrocortisol via 3-oxo-5-alpha-steroid 4-dehydrogenase 2, cortisone via Corticosteroid 11-beta-dehydrogenase isozyme 1 and Corticosteroid 11-beta-dehydrogenase isozyme 2, and glucuronide products.[A188321,A188318] Cortisone is further metabolized to tetrahydrocortisone and dihydrocortisol.[A188321,A188318]",
+    "toxicity": "Data regarding acute overdoses of glucocorticoids are rare.[L10529,L10532,L10535,L10538,L7772,L7321] Chronic high doses of glucocorticoids can lead to the development of cataract, glaucoma, hypertension, water retention, hyperlipidemia, peptic ulcer, pancreatitis, myopathy, osteoporosis, mood changes, psychosis, dermal atrophy, allergy, acne, hypertrichosis, immune suppression, decreased resistance to infection, moon face, hyperglycemia, hypocalcemia, hypophosphatemia, metabolic acidosis, growth suppression, and secondary adrenal insufficiency.[A188405] Overdose may be treated by adjusting the dose or stopping the corticosteroid as well as initiating symptomatic and supportive treatment.[A188405]",
+    "targets": [
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ],
+        [
+            "ANXA1",
+            "Annexin A1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP11B1",
+            "Cytochrome P450 11B1, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CYP11B2",
+            "Cytochrome P450 11B2, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "AKR1D1",
+            "3-oxo-5-beta-steroid 4-dehydrogenase",
+            "Humans"
+        ],
+        [
+            "SRD5A2",
+            "3-oxo-5-alpha-steroid 4-dehydrogenase 2",
+            "Humans"
+        ],
+        [
+            "HSD11B2",
+            "Corticosteroid 11-beta-dehydrogenase isozyme 2",
+            "Humans"
+        ],
+        [
+            "HSD11B1",
+            "Corticosteroid 11-beta-dehydrogenase isozyme 1",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "SHBG",
+            "Sex hormone-binding globulin",
+            "Humans"
+        ],
+        [
+            "SERPINA6",
+            "Corticosteroid-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

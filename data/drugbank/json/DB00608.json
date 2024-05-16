@@ -1,0 +1,106 @@
+{
+    "pharmgkb_id": "PA448948",
+    "drugbank_id": "DB00608",
+    "names": [
+        "Chloroquine",
+        "Artrichin",
+        "Bemaphate",
+        "Capquin",
+        "Malarex",
+        "Nivaquine B",
+        "Resoquine",
+        "Reumachlor",
+        "Sanoquin"
+    ],
+    "description": "Chloroquine is an aminoquinolone derivative first developed in the 1940s for the treatment of malaria.[A191655] It was the drug of choice to treat malaria until the development of newer antimalarials such as [pyrimethamine], [artemisinin], and [mefloquine].[A191787] Chloroquine and its derivative [hydroxychloroquine] have since been repurposed for the treatment of a number of other conditions including HIV, systemic lupus erythematosus, and rheumatoid arthritis.[A192432]\r\n\r\n**The FDA emergency use authorization for [hydroxychloroquine] and chloroquine in the treatment of COVID-19 was revoked on 15 June 2020.[L14312]**\r\n\r\nChloroquine was granted FDA Approval on 31 October 1949.[L12054]",
+    "indication": "Chloroquine is indicated to treat infections of _P. vivax_, _P. malariae_, _P. ovale_, and susceptible strains of _P. falciparum_.[L12051] It is also used to treat extraintestinal amebiasis.[L12051]\r\n\r\nChloroquine is also used off label for the treatment of rheumatic diseases,[A191655] as well as treatment and prophylaxis of Zika virus.[A191649,A191652] Chloroquine is currently undergoing clinical trials for the treatment of COVID-19.[A191631]",
+    "pharmacodynamics": "Chloroquine inhibits the action of heme polymerase, which causes the buildup of toxic heme in _Plasmodium_ species.[A191700] It has a long duration of action as the half life is 20-60 days.[A191676] Patients should be counselled regarding the risk of retinopathy with long term usage or high dosage, muscle weakness, and toxicity in children.[L12051]",
+    "mechanism-of-action": "Chloroquine inhibits the action of heme polymerase in malarial trophozoites, preventing the conversion of heme to hemazoin.[A191700,A183080,A191781] _Plasmodium_ species continue to accumulate toxic heme, killing the parasite.[A191700]\r\n\r\nChloroquine passively diffuses through cell membranes and into endosomes, lysosomes, and Golgi vesicles; where it becomes protonated, trapping the chloroquine in the organelle and raising the surrounding pH.[A191676,A191628] The raised pH in endosomes, prevent virus particles from utilizing their activity for fusion and entry into the cell.[A191625]\r\n\r\nChloroquine does not affect the level of ACE2 expression on cell surfaces, but inhibits terminal glycosylation of ACE2, the receptor that SARS-CoV and SARS-CoV-2 target for cell entry.[A191628,A191625] ACE2 that is not in the glycosylated state may less efficiently interact with the SARS-CoV-2 spike protein, further inhibiting viral entry.[A191625]",
+    "absorption": "Chloroquine oral solution has a bioavailability of 52-102% and oral tablets have a bioavailability of 67-114%.[A191676] Intravenous chloroquine reaches a C<sub>max</sub> of 650-1300\u00b5g/L and oral chloroquine reaches a C<sub>max</sub> of 65-128\u00b5g/L with a T<sub>max</sub> of 0.5h.[A191676]",
+    "metabolism": "Chloroquine is N-dealkylated primarily by CYP2C8 and CYP3A4 to N-desethylchloroquine.[A38847,A191661,A39300,A191676] It is N-dealkylated to a lesser extent by CYP3A5, CYP2D6, and to an ever lesser extent by CYP1A1.[A38847,A191661,A39300,A191676] N-desethylchloroquine can be further N-dealkylated to N-bidesethylchloroquine, which is further N-dealkylated to 7-chloro-4-aminoquinoline.[A191676]",
+    "toxicity": "Patients experiencing an overdose may present with headache, drowsiness, visual disturbances, nausea, vomiting, cardiovascular collapse, shock, convulsions, respiratory arrest, cardiac arrest, and hypokalemia.[L12051] Overdose should be managed with symptomatic and supportive treatment which may include prompt emesis, gastric lavage, and activated charcoal.[L12051]",
+    "targets": [
+        [
+            "GSTA2",
+            "Glutathione S-transferase A2",
+            "Humans"
+        ],
+        [
+            "TNF",
+            "Tumor necrosis factor",
+            "Humans"
+        ],
+        [
+            "TLR9",
+            "Toll-like receptor 9",
+            "Humans"
+        ],
+        [
+            "GST",
+            "Glutathione S-transferase",
+            "Plasmodium falciparum"
+        ],
+        [
+            "HMGB1",
+            "High mobility group protein B1",
+            "Humans"
+        ],
+        [
+            "GSTM1",
+            "Glutathione S-transferase Mu 1",
+            "Humans"
+        ],
+        [
+            "ACE2",
+            "Angiotensin-converting enzyme 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

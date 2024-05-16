@@ -1,0 +1,121 @@
+{
+    "pharmgkb_id": "PA448852",
+    "drugbank_id": "DB00493",
+    "names": [
+        "Cefotaxime",
+        "Rantaksym",
+        "Raxim",
+        "Spinocef",
+        "Sporim",
+        "Talcef"
+    ],
+    "description": "Cefotaxime is a third-generation cephalosporin antibiotic. Like other third-generation cephalosporins, it has broad spectrum activity against Gram positive and Gram negative bacteria. In most cases, it is considered to be equivalent to ceftriaxone in terms of safety and efficacy. Cefotaxime sodium is marketed under various trade names including Claforan (Sanofi-Aventis).",
+    "indication": "Used to treat gonorrhoea, meningitis, and severe infections including infections of the kidney (pyelonephritis) and urinary system. Also used before an operation to prevent infection after surgery.",
+    "pharmacodynamics": "Cefotaxime is a third generation intravenous cephalosporin antibiotic. It has broad spectrum activity against Gram positive and Gram negative bacteria. It does not have activity against <i>Pseudomonas aeruginosa</i>. Cefotaxime works by inhibiting bacterial cell wall biosynthesis. A positive feature of cefotaxime is that it display a resistance to penicillinases and is useful to treat infections that are resistant to penicillin derivatives.",
+    "mechanism-of-action": "The bactericidal activity of cefotaxime results from the inhibition of cell wall synthesis via affinity for penicillin-binding proteins (PBPs). Cefotaxime shows high affinity for penicillin-binding proteins in the cell wall including PBP Ib and PBP III.",
+    "absorption": "Rapidly absorbed following intramuscular injection.",
+    "metabolism": "Approximately 20-36% of an intravenously administered dose of 14C-cefotaxime is excreted by the kidney as unchanged cefotaxime and 15-25% as the desacetyl derivative, the major metabolite. The desacetyl metabolite has been shown to contribute to the bactericidal activity. Two other urinary metabolites (M2 and M3) account for about 20-25%. They lack bactericidal activity.",
+    "toxicity": "Adverse effects following overdosage include nausea, vomiting, epigastric distress, diarrhea, and convulsions. Oral rat LD<sub>50</sub> is over 20,000 mg/kg while intravenous rat LD<sub>50</sub> is over 7,000 mg/kg.",
+    "targets": [
+        [
+            "pbp1b",
+            "Penicillin-binding protein 1b",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "pbp2a",
+            "Penicillin-binding protein 2a",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "pbpC",
+            "Penicillin-binding protein 3",
+            "Bacillus subtilis (strain 168)"
+        ],
+        [
+            "pbpA",
+            "Penicillin-binding protein 1A",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "penA",
+            "Penicillin-binding protein 2B",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            null,
+            "Beta-lactamase",
+            "Acinetobacter baumannii"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

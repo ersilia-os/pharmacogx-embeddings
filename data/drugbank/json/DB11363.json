@@ -1,0 +1,37 @@
+{
+    "pharmgkb_id": "PA166160050",
+    "drugbank_id": "DB11363",
+    "names": [
+        "Alectinib",
+        "Alecensa"
+    ],
+    "description": "Alectinib is a second generation oral drug that selectively inhibits the activity of anaplastic lymphoma kinase (ALK) tyrosine kinase. It is specifically used in the treatment of non-small cell lung cancer (NSCLC) expressing the ALK-EML4 (echinoderm microtubule-associated protein-like 4) fusion protein that causes proliferation of NSCLC cells. Inhibition of ALK prevents phosphorylation and subsequent downstream activation of STAT3 and AKT resulting in reduced tumour cell viability. \r\n\r\nApproved under accelerated approval in 2015, alectinib is indicated for use in patients who have progressed on or were not tolerant of crizotinib, which is associated with the development of resistance.",
+    "indication": "Alectinib is a kinase inhibitor indicated for the treatment of patients with anaplastic lymphoma kinase (ALK)-positive, metastatic non-small cell lung cancer (NSCLC) who have progressed on or are intolerant to crizotinib. This indication is approved under accelerated approval based on tumor response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Alectinib is a second generation oral drug that selectively inhibits the activity of anaplastic lymphoma kinase (ALK) tyrosine kinase. It is specifically used in the treatment of non-small cell lung cancer (NSCLC) expressing the ALK-EML4 (echinoderm microtubule-associated protein-like 4) fusion protein that causes proliferation of NSCLC cells. Inhibition of ALK prevents phosphorylation and subsequent downstream activation of STAT3 and AKT resulting in reduced tumour cell viability. Both alectinib and its major active metabolite M4 demonstrate similar in vivo and in vitro activity against multiple mutant forms of ALK. ",
+    "absorption": "Alectinib reached maximal concentrations at 4 hours following administration of 600 mg twice daily under fed conditions in patients with ALK-positive NSCLC. The absolute bioavailability was 37% in the fed state. A high-fat, high-calorie meal increased the combined exposure of alectinib and its major metabolite M4 by 3.1-fold following oral administration of a single 600 mg dose. ",
+    "metabolism": "Alectinib is metabolized by CYP3A4 to its major active metabolite M4. M4 is then further metabolized by CYP3A4. Both alectinib and M4 demonstrate similar in vivo and in vitro activity. In vitro studies suggest that alectinib is not a substrate for P-gp while M4 is. ",
+    "toxicity": "The most common adverse reactions (>5%) associated with alectinib use were fatigue, constipation, edema, and myalgia. Less common effects associated with use were hepatotoxicity, interstitial lung disease (ILD)/pneumonitis, bradycardia, severe myalgia and creatine phosphokinase (CPK) elevation, and embryo-fetal toxicity. Females of reproductive potential are advised to use effective contraception during treatment with alectinib and for 1 week following the final dose. ",
+    "targets": [
+        [
+            "ALK",
+            "ALK tyrosine kinase receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

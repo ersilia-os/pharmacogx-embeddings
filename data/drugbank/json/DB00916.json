@@ -1,0 +1,95 @@
+{
+    "pharmgkb_id": "PA450484",
+    "drugbank_id": "DB00916",
+    "names": [
+        "Metronidazole",
+        "Anabact",
+        "Arilin",
+        "Clont",
+        "Deflamon",
+        "Efloran",
+        "Elyzol",
+        "Entizol",
+        "Fossyol",
+        "Klion",
+        "Klont",
+        "Metrolyl",
+        "Metrotop",
+        "Nalox",
+        "Nidagel",
+        "Novonidazol",
+        "Orvagil",
+        "Protostat",
+        "Takimetol",
+        "Trichazole",
+        "Trichex",
+        "Trichopol",
+        "Tricowas B",
+        "Trikacide",
+        "Trikozol",
+        "Vagilen",
+        "Vagimid",
+        "Vertisal",
+        "Zadstat"
+    ],
+    "description": "Metronidazole is a commonly used antibiotic, belonging to the nitroimidazole class of antibiotics.[L3754] It is frequently used to treat gastrointestinal infections as well as trichomoniasis and giardiasis, and amebiasis which are parasitic infections.[A181036,A181039] Metronidazole has been used as an antibiotic for several decades[L7429], with added antiparasitic properties that set it apart from many other antibacterial drugs, allowing it to treat a wide variety of infections. It is available in capsule form, tablet form, and topical form, and suppository preparations for the treatment of various infections.",
+    "indication": "Metronidazole is indicated for the treatment of confirmed trichomoniasis caused by Trichomonas vaginalis (except for in the first trimester of pregnancy) and the patient's sexual partners, bacterial vaginosis,[L7432, L49811] certain types of amebiasis, and various anaerobic infections.[A181057, L49811] The above anaerobic infections may occur on the skin and skin structures, the abdomen, the heart, reproductive organs, central nervous system, and the respiratory system. Some may also be present in the bloodstream in cases of septicemia. Common infections treated by metronidazole are Bacteroides species infections, Clostridium infections, and Fusobacterium infections, as well as Peptococcus and Peptostreptococcus infections.[L3754] Topical formulations of metronidazole are indicated for the treatment of inflammatory lesions of rosacea.[L45166]\r\n\r\nIt is also used off-label in the treatment of Crohn's disease, as a prophylactic agent after surgery[A181039], and in the treatment of Helicobacter pylori infection.[A181045] It has also been studied in the prevention of preterm births and to treat periodontal disease.[A1391,A181078]",
+    "pharmacodynamics": "Metronidazole treats amebiasis, trichomoniasis, and giardiasis, exerting both antibacterial and antiprotozoal activities.[L7432] Metronidazole is an effective treatment for some anaerobic bacterial infections.[A181057] Metronidazole has shown antibacterial activity against the majority of obligate anaerobes, however, during in vitro studies, it does not demonstrate significant action against facultative anaerobes or obligate aerobes.[L3754] The nitro group reduction of metronidazole by anaerobic organisms is likely responsible for the drug's antimicrobial cytotoxic effects, causing DNA strand damage to microbes.[A181039,A181045]\r\n\r\nA note on convulsions and neuropathy and carcinogenesis\r\n\r\nIt is important to be aware of the risk of peripheral neuropathy and convulsions associated with metronidazole, especially at higher doses. If convulsions or numbness of an extremity occur, discontinue the drug immediately.[L3754] Metronidazole has been found to be carcinogenic in mice and rats. The relevance to this effect in humans is unknown. It is advisable to only administer metronidazole when clinically necessary and only for its approved indications.[L7474]",
+    "mechanism-of-action": "The exact mechanism of action of metronidazole has not been fully established, however, it is possible that an intermediate in the reduction of metronidazole which is only made by anaerobic bacteria and protozoa, binds deoxyribonucleic acid and electron-transport proteins of organisms, blocking nucleic acid synthesis.[L3754]\r\nAfter administration, metronidazole enters cells by passive diffusion. Following this, ferredoxin or flavodoxin reduce its nitro group to nitro radicals.\r\nThe redox potential of the electron transport portions of anaerobic or microaerophilic microorganisms renders metronidazole selective to these organisms, which cause nitro group reduction, leading to the production of toxic metabolites. These include N-(2-hydroxyethyl) oxamic acid and acetamide, which may damage DNA of replicating organisms.[A181039]",
+    "absorption": "After the intravenous infusion of a 1.5g dose, peak concentration was reached within 1 hour and was peak level of 30-40 mg/L.[L7432] When a multiple-dose regimen of 500mg three times a day administered intravenously, steady-state concentrations were achieved within about 3 days and peak concentration was measured at 26 mg/L.[L7432]\r\nWhen administered orally in the tablet form, metronidazole is absorbed entirely absorbed, showing a bioavailability of greater than 90%.[A181045] One resource indicates that Cmax after a single oral dose of 500mg metronidazole ranges from 8 to 13 mg/L, with a Tmax of 25 minutes to 4 hours. The AUC following a single 500mg oral dose of metronidazole was 122 \u00b1 10.3 mg/L \u2022 h.[A181045]\r\n\r\nA note on the absorption of topical preparations\r\n\r\nInsignificant percutaneous absorption of metronidazole occurs after the application of 1% metronidazole cream topically. Healthy volunteers applied one 100 mg dose of 14C-labelled metronidazole 2% cream to unbroken skin. After 12 hours, metronidazole was not detected in the plasma. Approximately 0.1% to 1% of the administered metronidazole was measured in the urine and feces.[L7432]",
+    "metabolism": "Metronidazole undergoes hepatic metabolism via hydroxylation, oxidation, and glucuronidation. The metabolism of metronidazole yields 5 metabolites. The hydroxy metabolite, 1-(2-hydroxy-ethyl)-2-hydroxy methyl-5-nitroimidazole, is considered the major active metabolite.[A181045,A181144] Unchanged metronidazole is found in the plasma along with small amounts of its 2- hydroxymethyl metabolite. Several metabolites of metronidazole are found in the urine. They are primarily a product of side-chain oxidation in addition to glucuronide conjugation. Only 20% of the dose found in the urine is accounted for by unchanged metronidazole.[L7432] The two main oxidative metabolites of metronidazole are hydroxy and acetic acid metabolites.[A181042,A181051]",
+    "toxicity": "LD50 information\r\n\r\nThe oral LD50 of metronidazole in rats is 5000 mg/kg [L7432]\r\n\r\nOverdose information \r\n\r\nAdverse effects that may be exaggerated with an overdose include peripheral neuropathy, central nervous system toxicity, seizures, disulfiram-like effect (if combined with alcohol) dark urine, a metallic taste in the mouth, nausea, epigastric discomfort, and vertigo, in addition to neutropenia.[A181054,L7432]  There is no specific antidote for metronidazole overdose. Symptomatic and supportive treatment should be employed in addition to the administration of activated charcoal to remove the unabsorbed drug from the gastrointestinal tract. In addition to the above measures, contact the local poison control center for updated information on the management of a metronidazole overdose.[L7432]",
+    "targets": [
+        [
+            "rdxA",
+            "Oxygen-insensitive NADPH nitroreductase",
+            "Helicobacter pylori (strain ATCC 700392 / 26695)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

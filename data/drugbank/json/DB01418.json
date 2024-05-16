@@ -1,0 +1,101 @@
+{
+    "pharmgkb_id": "PA452632",
+    "drugbank_id": "DB01418",
+    "names": [
+        "Acenocoumarol",
+        "Ascumar",
+        "Mini-sintrom"
+    ],
+    "description": "Acenocoumarol is a coumarin derivative used as an anticoagulant. Coumarin derivatives inhibit the reduction of vitamin K by vitamin K reductase. This prevents carboxylation of vitamin K-dependent clotting factors, II, VII, IX and X, and interferes with coagulation.[A188739] Hematocrit, hemoglobin, international normalized ratio and liver panel should be monitored. Patients on acenocoumarol are prohibited from giving blood.",
+    "indication": "For the treatment and prevention of thromboembolic diseases. More specifically, it is indicated for the prevention of cerebral embolism, deep vein thrombosis, pulmonary embolism, thromboembolism in infarction and transient ischemic attacks. It is used for the treatment of deep vein thrombosis and myocardial infarction.",
+    "pharmacodynamics": "Acenocoumarol inhibits the reduction of vitamin K by vitamin K reductase. This prevents carboxylation of certain glutamic acid residues near the N-terminals of clotting factors II, VII, IX and X, the vitamin K-dependent clotting factors. Glutamic acid carboxylation is important for the interaction between these clotting factors and calcium. Without this interaction, clotting cannot occur. Both the extrinsic (via factors VII, X and II) and intrinsic (via factors IX, X and II) are affected by acenocoumarol.",
+    "mechanism-of-action": "Acenocoumarol inhibits vitamin K reductase, resulting in depletion of the reduced form of vitamin K (vitamin KH2). As vitamin K is a cofactor for the carboxylation of glutamate residues on the N-terminal regions of vitamin K-dependent clotting factors, this limits the gamma-carboxylation and subsequent activation of the vitamin K-dependent coagulant proteins. The synthesis of vitamin K-dependent coagulation factors II, VII, IX, and X and anticoagulant proteins C and S is inhibited resulting in decreased prothrombin levels and a decrease in the amount of thrombin generated and bound to fibrin. This reduces the thrombogenicity of clots.",
+    "absorption": "Rapidly absorbed orally with greater than 60% bioavailability. Peak plasma levels are attained 1 to 3 hours following oral administration. ",
+    "metabolism": "Extensively metabolized in the liver via oxidation forming two hydroxy metabolites and keto reduction producing two alcohol metabolites. Reduction of the nitro group produces an amino metabolite which is further transformed to an acetoamido metabolite. Metabolites do not appear to be pharmacologically active. ",
+    "toxicity": "The onset and severity of the symptoms are dependent on the individual's sensitivity to oral anticoagulants, the severity of the overdosage, and the duration of treatment. Bleeding is the major sign of toxicity with oral anticoagulant drugs. The most frequent symptoms observed are: cutaneous bleeding (80%), haematuria (with renal colic) (52%), haematomas, gastrointestinal bleeding, haematemesis, uterine bleeding, epistaxis, gingival bleeding and bleeding into the joints. Further symptoms include tachycardia, hypotension, peripheral circulatory disorders due to loss of blood, nausea, vomiting, diarrhoea and abdominal pains.",
+    "targets": [
+        [
+            "VKORC1",
+            "Vitamin K epoxide reductase complex subunit 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01418",
+            "Drug Name": "Acenocoumarol",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1799853",
+            "Effect Description": "The presence of this polymorphism in CYP2C9 is associated with reduction in acenocoumarol metabolism."
+        },
+        {
+            "DrugBank ID": "DB01418",
+            "Drug Name": "Acenocoumarol",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1057910",
+            "Effect Description": "The presence of this polymorphism in CYP2C9 is associated with reduction in acenocoumarol metabolism."
+        },
+        {
+            "DrugBank ID": "DB01418",
+            "Drug Name": "Acenocoumarol",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1799853",
+            "Effect Description": "Patients with this polymorphism in CYP2C9 may be at a higher risk of developing drug-related hemorrhage or thrombosis when treated with acenocoumarol."
+        },
+        {
+            "DrugBank ID": "DB01418",
+            "Drug Name": "Acenocoumarol",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1057910",
+            "Effect Description": "Patients with this polymorphism in CYP2C9 may be at a higher risk of developing drug-related hemorrhage or thrombosis when treated with acenocoumarol."
+        },
+        {
+            "DrugBank ID": "DB01418",
+            "Drug Name": "Acenocoumarol",
+            "Gene Symbol": "VKORC1",
+            "RS ID (Genotype)": "rs9934438",
+            "Adverse Reaction Description": "The presence of this single nucleotide polymorphism in VKORC1 is associated with reduction in acenocoumarol metabolism and increased risk of drug-related hemorrhage."
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "pharmgkb_id": "PA451688",
+    "drugbank_id": "DB01133",
+    "names": [
+        "Tiludronic acid"
+    ],
+    "description": "Tiludronate, or (4-chlorophenyl)thio-methylene-1,1-bisphosphonate, is a first generation bisphosphonate similar to [etidronic acid] and [clodronic acid].[A1923,A203111] These drugs were developed to mimic the action of pyrophosphate, a regulator of calcification and decalcification.[A1923] Tiludronic acid was first described in the literature in 1988 as a potential treatment for Paget's disease of bone.[A202235]\r\n\r\nTiludronic acid was granted FDA approval on 7 March 1997.[L4763]",
+    "indication": "Tiludronic acid is indicated to treat Paget's disease of bone in patients with serum alkaline phosphatase levels \u22652 times the upper limit of normal, with symptoms, or with risk of future complications.[L4763]",
+    "pharmacodynamics": "Tiludronic acid is a bisphosphonate that prevents osteoclasts from resorbing bone.[L4763] The duration of action is quite long due to the slow clearance from the bone, and the therapeutic window is wide.[L4763] Patients should be counselled regarding the risk of upper GI mucosal irritation as well as gastric and duodenal ulcers.[L4763]",
+    "mechanism-of-action": "Bisphosphonates are taken into the bone where they bind to hydroxyapatite.[L4763] Bone resorption by osteoclasts causes local acidification, releasing the bisphosphonate, which is taken into the osteoclast by fluid-phase endocytosis.[A959] Endocytic vesicles become acidified, releasing bisphosphonates into the cytosol of osteoclasts where they act.[A959]\r\n\r\nOsteoclasts mediate resorption of bone.[A6366] When osteoclasts bind to bone they form podosomes, ring structures of F-actin.[A6366] Tiludronate inhibits protein-tyrosine-phosphatase, which increases tyrosine phosphorylation, and disrupts podosome formation.[A6366,L4763] Tiludronic acid also inhibits V-ATPases in the osteoclast, though the exact subunits are unknown, preventing F-actin from forming podosomes.[A202229,A202247] Disruption of the podosomes causes osteoclasts to detach from bones, preventing bone resorption.[A6366]",
+    "absorption": "A single 400mg dose of tiludronic acid reaches a C<sub>max</sub> of 3.35\u00b11.07mg/L, with a T<sub>max</sub> of 1.7\u20140.9h, and and AUC of 27.2\u00b19.0mg\\*h/L.[A1923] Tiludronic acid has an oral bioavailability of 2-11% with an average of 6%.[A1923]",
+    "metabolism": "Tiludronic acid is not metabolized _in vitro_ in human liver microsomes.[L4763]",
+    "toxicity": "Patients experiencing an overdose may present with hypocalcemia.[L4763] Patients given doses of 6mg/kg/day for 2 days have experienced acute renal failure and death.[L4763] Treat overdose with symptomatic and supportive care.[L4763] Dialysis will not be useful for removal of the drug from serum.[L4763]",
+    "targets": [
+        [
+            "PTPN12",
+            "Tyrosine-protein phosphatase non-receptor type 12",
+            "Humans"
+        ],
+        [
+            "PTPN6",
+            "Tyrosine-protein phosphatase non-receptor type 6",
+            "Humans"
+        ],
+        [
+            "PTPRE",
+            "Receptor-type tyrosine-protein phosphatase epsilon",
+            "Humans"
+        ],
+        [
+            "ATP6V0A1",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V0A2",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "TCIRG1",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V0A4",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V0C",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V0B",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1A",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1B2",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1B1",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1C1",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1C2",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1D",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V0D1",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V0D2",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V0E1",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1E1",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1E2",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V0E2",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1F",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1G1",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1G2",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1G3",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6V1H",
+            "V-ATPase Subunits",
+            "Humans"
+        ],
+        [
+            "ATP6AP1",
+            "V-ATPase Subunits",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

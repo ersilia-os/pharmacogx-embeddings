@@ -1,0 +1,30 @@
+{
+    "pharmgkb_id": "PA166152838",
+    "drugbank_id": "DB08908",
+    "names": [
+        "Dimethyl fumarate"
+    ],
+    "description": "Dimethyl fumarate is an agent indicated for the treatment of relapsing forms of multiple sclerosis.[A253942,L43752] The mechanism of action of dimethyl fumarate in multiple sclerosis is not well understood. It is thought to involve dimethyl fumarate degradation to its active metabolite monomethyl fumarate (MMF) then MMF up-regulates the Nuclear factor (erythroid-derived 2)-like 2 (Nrf2) pathway that is activated in response to oxidative stress.[L43752] Dimethyl fumarate is marketed under the brand name Tecfidera, and it was the third oral disease-modifying agent for multiple sclerosis approved by the FDA, following [fingolimod] and [teriflunomide].[A253917] Prior to its FDA approval, dimethyl fumarate had been used in Germany for treatment of psoriasis.[A253917]",
+    "indication": "Dimethyl fumarate is indicated for the treatment of relapsing forms of multiple sclerosis (MS), including clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults.[L43752,L45668,L49831]",
+    "pharmacodynamics": "The physiological effects of dimethyl fumarate on the body are not well understood. It has anti-inflammatory and cytoprotective effects, likely involved in its actions in multiple sclerosis (MS) patients.[A253942] Dimethyl fumarate does not cause clinically significant QT interval prolongation. However, cases of progressive multifocal leukoencephalopathy, serious opportunistic infections, lymphopenia and liver injury have been reported in MS patients treated with this drug. Dimethyl fumarate may also cause anaphylaxis and angioedema.[L43752]",
+    "mechanism-of-action": "The mechanism of action of dimethyl fumarate in multiple sclerosis is not well understood. It is thought to involve dimethyl fumarate degradation to its active metabolite, monomethyl fumarate (MMF). Both dimethyl fumarate and MMF up-regulate the Nuclear factor (erythroid-derived 2)-like 2 (Nrf2) pathway that is activated in response to oxidative stress. Dimethyl fumarate also suppresses pro-inflammatory genes through nuclear factor kappa B inhibition. Additionally, MMF acts as an agonist at the nicotinic acid receptor, but the relevance of this is unknown.[A253917,L43752]\r\n\r\nIt has been suggested that dimethyl fumarate exerts its immunomodulatory effects through changes in the composition and phenotype of immune cells. It reduces CNS infiltration and alters the composition of all lymphocyte subpopulations, especially for cytotoxic and effector T cells. This causes a shift from a mainly pro-inflammatory phenotype to an anti-inflammatory one.[A253942]",
+    "absorption": "Once ingested, dimethyl fumarate is rapidly hydrolyzed by esterases to form monomethyl fumarate (MMF). Therefore, there is a negligible amount of dimethyl fumarate in the body, and all pharmacokinetic information is quantified with MMF.[L43752] The time to maximum concentration (t<sub>max</sub>) of MMF ranges between 2 and 2.5 hours. In patients with multiple sclerosis given 240 mg of dimethyl fumarate two times a day with food, the C<sub>max</sub> and AUC were 1.87 mg/L and 8.21 mg\u22c5hr/L, respectively. High-fat, high-calorie meals decrease the C<sub>max</sub> of MMF by 40% and cause a t<sub>max</sub> delay from 2 hours to 5.5 hours; however, these changes are not considered clinically significant.[L43752]",
+    "metabolism": "Dimethyl fumarate is quickly hydrolyzed by esterases in the gastrointestinal tract, tissues, and blood to form monomethyl fumarate (MMF), its active metabolite. MMF then undergoes subsequent metabolism through the tricarboxylic acid (TCA) cycle. The main metabolites of dimethyl fumarate are MMF, glucose, citric, and fumaric acid. Cytochrome P450 (CYP) enzymes do not participate in the metabolism of dimethyl fumarate.[L43757]",
+    "toxicity": "Cases of overdose with dimethyl fumarate have been reported, and symptoms were consistent with its adverse event profile. There are no known therapeutic interventions to enhance dimethyl fumarate elimination nor an antidote. The product label of dimethyl fumarate recommends initiating symptomatic supportive treatment as clinically indicated in case of overdose.[L43752] _In vivo_ carcinogenicity studies found that at doses ranging between 200 and 400 mg/kg/day, mice had a higher incidence of non-glandular stomach and kidney tumors. The highest dose not associated with tumors in mice (75 mg/kg/day) is equivalent to the recommended human dose (RHD) of 480 mg/day.[L43752] Dimethyl fumarate did not show evidence of mutagenicity in the _in vitro_ bacterial reverse mutation (Ames) assay. Dimethyl fumarate was clastogenic in the _in vitro_ chromosomal aberration assay in human peripheral blood lymphocytes in the absence of metabolic activation, but not clastogenic in the _in vivo_ micronucleus assay in the rat.[L43752]",
+    "targets": [
+        [
+            "KEAP1",
+            "Kelch-like ECH-associated protein 1",
+            "Humans"
+        ],
+        [
+            "RELA",
+            "Transcription factor p65",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

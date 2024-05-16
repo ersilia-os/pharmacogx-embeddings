@@ -1,0 +1,58 @@
+{
+    "pharmgkb_id": "PA165958354",
+    "drugbank_id": "DB05521",
+    "names": [
+        "Telaprevir"
+    ],
+    "description": "Telaprevir is a direct acting antiviral medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as Telaprevir. Telaprevir is an inhibitor of NS3/4A, a serine protease enzyme, encoded by HCV genotype 1 [FDA Label]. These enzymes are essential for viral replication and serve to cleave the virally encoded polyprotein into mature proteins like NS4A, NS4B, NS5A and NS5B. The barrier for develoment of resistance to NS3/4A inhibitors is lower than that of NS5B inhibitors, another class of DAAs [A19593]. Subtitutions at amino acid positions 155, 156, or 168 are known to confer resistance. The substitutions of the enzyme's catalytic triad consisting of H58, D82, and S139 are also likely to alter the affinity of the drug for NS3/4A or the activity of the enzyme itself. Despite this disadvantage Telaprevir is still effective against HCV when paired with [DB00811], [DB00008], and [DB00022].\r\n\r\nTelaprevir, [DB00811], [DB00008], and [DB00022] were used with the intent to cure, or achieve a sustained virologic response (SVR), after 12 weeks of daily administration of the combination therapy followed by 12 or 36 weeks of therapy with [DB00811], [DB00008], and [DB00022]. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [A19626].\r\n\r\nTelaprevir was available as a fixed dose product (tradename Incivek) used for the treatment of chronic Hepatitis C. Approved in May 2011 by the FDA, Incivek was indicated for the treatment of HCV genotype 1 in combination with [DB00811], [DB00008], and [DB00022] [FDA Label]. Incivek has since been withdrawn from the market.",
+    "indication": "Telaprevir, when used in combination with [DB00811], [DB00008], and [DB00022] is indicated for use in the treatment of chronic HCV genotype 1 infection in adults [FDA Label].",
+    "pharmacodynamics": "Telaprevir is classified as a direct-acting antiviral (DAA) and prevents viral replication in HCV genotype 1 [FDA Label]. ",
+    "mechanism-of-action": "Telaprevir is a NS3/4a protease inhibitor used to inhibit viral HCV replication [FDA Label]. NS3/4a protease is an integral part of viral replication and mediates the cleavage the virally encoded polyprotein to mature proteins (NS4A, NS4B, NS5A and NS5B) [FDA Label]. Telaprevir inhibits NS3/4A with an IC50 of 10nM.",
+    "absorption": "Telaprevir reaches peak plasma concentration 4-5hours after administration [FDA Label]. Absolute bioavailability has not been determined. When taken with a normal fat meal (21g of fat), exposure increases by 235% compared to fasting conditions. With low (3.6g of fat) and high fat (56g of fat) meals, exposure increased 117% and 330% respectively.",
+    "metabolism": "Telaprevir is extensively metabolized via hydrolysis, oxidation, and reduction. The major metabolites of Telaprevir are pyrazinoic acid, a metabolite that underwent reduction at the \u03b1-ketoamide bond, and the R-diastereomer of telaprevir which is 30-fold less active than the parent compound were found to be the predominant metabolites. The primary enzyme involved in the metabolism of Telaprevir is CYP3A4. Some metabolism is performed by aldo-keto reductases and other reductases.",
+    "toxicity": "Serious skin reactions, including Stevens Johnson Syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms, and Toxic Epidermal Necrolysis, have been reported in patients treated with telaprevir combination treatment. Use of [DB00811], [DB00008], [DB00022] and Telaprevir is associated with a further increase in anemia frequency than in [DB00811], [DB00008], and [DB00022] without telaprevir.",
+    "targets": [
+        [
+            "NS3/4A",
+            "NS3/4A protein",
+            "Hepatitis C Virus"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

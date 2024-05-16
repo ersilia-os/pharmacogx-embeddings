@@ -1,0 +1,29 @@
+{
+    "pharmgkb_id": "PA451101",
+    "drugbank_id": "DB00750",
+    "names": [
+        "Prilocaine",
+        "Citanest",
+        "Prilotekal",
+        "Takipril",
+        "Xylonest"
+    ],
+    "description": "A local anesthetic that is similar pharmacologically to lidocaine. Currently, it is used most often for infiltration anesthesia in dentistry. (From AMA Drug Evaluations Annual, 1992, p165)",
+    "indication": "Used as a local anaesthetic and is often used in dentistry.",
+    "pharmacodynamics": "Prilocaine binds to the intracellular surface of sodium channels which blocks the subsequent influx of sodium into the cell. Action potential propagation and never function is, therefore, prevented. This block is reversible and when the drug diffuses away from the cell, sodium channel function is restored and nerve propagation returns.",
+    "mechanism-of-action": "Prilocaine acts on sodium channels on the neuronal cell membrane, limiting the spread of seizure activity and reducing seizure propagation. The antiarrhythmic actions are mediated through effects on sodium channels in Purkinje fibers.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

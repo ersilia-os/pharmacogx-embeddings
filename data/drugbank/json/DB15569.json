@@ -1,0 +1,73 @@
+{
+    "pharmgkb_id": "PA166246441",
+    "drugbank_id": "DB15569",
+    "names": [
+        "Sotorasib",
+        "Lumakras"
+    ],
+    "description": "Sotorasib, also known as AMG-510, is an acrylamide-derived KRAS inhibitor developed by Amgen.[A187547,A187556] It is indicated in the treatment of adult patients with KRAS G12C mutant non-small cell lung cancer.[L34288] This mutation makes up >50% of all KRAS mutations.[A187550] Mutant KRAS discovered in 1982 but was not considered a druggable target until the mid-2010s.[A235168] It is the first experimental KRAS inhibitor.[A187547] The drug [MRTX849] is also currently being developed and has the same target.[A187547]\r\n\r\nSotorasib was granted FDA approval on May 28, 2021,[L34288] followed by the European Commission's approval on January 10, 2022.[L39675]",
+    "indication": "Sotorasib is indicated in the treatment of KRAS G12C-mutated locally advanced or metastatic non-small cell lung cancer (NSCLC) in adults who have received at least one prior systemic therapy.[L34288]",
+    "pharmacodynamics": "Sotorasib is indicated in the treatment of adults with KRAS G12C mutant non small cell lung cancer.[L34288] It has a moderate duration of action as it is given daily.[L34288] Patients should be counselled regarding the risks of hepatotoxicity, interstitial lung disease and pneumonitis; and to avoid breastfeeding during treatment and up to 1 week after the last dose.[L34288]",
+    "mechanism-of-action": "Normally GTP binds to KRAS, activating the protein and promoting effectors to the MAP kinase pathway.[A187556] GTP is hydrolyzed to GDP, and KRAS is inactivated.[A187559] KRAS G12C mutations impair hydrolysis of GTP, leaving it in the active form.[A187559]\r\n\r\nSotorasib binds to the cysteine residue in KRAS G12C mutations, holding the protein in its inactive form.[A187547] The cysteine residue that sotorasib targets is not present in the wild type KRAS, which prevents off-target effects.[L34288] This mutation is present in 13% of non small cell lung cancer, 3% of colorectal and appendix cancer, and 1-3% of solid tumors.[A187547]",
+    "absorption": "A 960 mg once daily dose of sotorasib reaches a C<sub>max</sub> of 7.50 \u00b5g/mL, with a median T<sub>max</sub> of 2.0 hours, and an AUC<sub>0-24h</sub> of 65.3 h\\*\u00b5g/mL.[A235168]",
+    "metabolism": "Sotorasib is predominantly metabolized through conjugation or by CYP3As.[L34288]",
+    "toxicity": "Data regarding overdoses of sotorasib are not readily available. However, in clinical trials, signs of dose limiting toxicity were not found.[A235168] Patients experiencing an overdose may experience and increased risk and severity of adverse effects such as diarrhea, nausea, vomiting, fatigue, and elevated aminotransferase.[A235168]",
+    "targets": [
+        [
+            "KRAS",
+            "GTPase KRas",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

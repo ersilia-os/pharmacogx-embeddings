@@ -1,0 +1,154 @@
+{
+    "pharmgkb_id": "PA450344",
+    "drugbank_id": "DB00603",
+    "names": [
+        "Medroxyprogesterone acetate",
+        "Depo-subq provera 104"
+    ],
+    "description": "Medroxyprogesterone acetate (MPA) is a [progesterone] derivative that is more resistant to metabolism for improved pharmacokinetic properties.[A14848] MPA can be use to treat secondary amenorrhea, endometrial hyperplasia, abnormal uterine bleeding, osteoporosis, vasomotor symptoms in menopause, vulvar and vaginal atrophy, prevent pregnancy, manage pain in endometriosis, prevent pregnancy, and is also used in palliative care for endometrial and renal carcinoma.[L8657,L8660,L8663,L8666,L8669]\r\n\r\nMedroxyprogesterone acetate was granted FDA approval on 18 June 1959.[L8657]",
+    "indication": "Medroxyprogesterone acetate (MPA) oral tablets are indicated to treat secondary amenorrhea, reduce the incidence of endometrial hyperplasia in postmenopausal women, and to treat abnormal uterine bleeding due to hormonal imbalance, not organic pathology.[L8657] Oral tablets containing MPA and conjugated estrogens are indicated to prevent postmenopausal osteoporosis and to treat moderate to severe menopausal symptoms such as vasomotor symptoms, vulvar atrophy, and vaginal atrophy.[L8660] Subcutaneous MPA is indicated to prevent pregnancy and manage pain associated with endometriosis.[L8663] Intramuscular MPA is indicated to prevent pregnancy,[L8666] and at higher concentrations for palliative treatment of endometrial or renal carcinoma.[L8669]",
+    "pharmacodynamics": "Medroxyprogesterone acetate (MPA) inhibits gonadotropin production, reduces nuclear estrogen receptors and DNA synthesis in epithelial cells of the endometrium, and induces p53 dependant apoptosis in cancer cell lines.[L8660,A186134] MPA oral tablets have a half life of 40-60 hours and other formulations can have half lives that are considerably longer, so the duration of action is long.[A186086,A186095] The therapeutic window is wide as patients may take doses ranging from 5mg orally daily to 1000mg as a depo injection weekly.[L8657,L8660,L8663,L8666,L8669] Long term use of MPA is associated with a reduction in bone density and patients who taking MPA during adolescence may have lower peak bone mass than untreated patients, which can also increase the risk of osteoporosis and fractures in the future.[L8657,L8660,L8663,L8666,L8669]",
+    "mechanism-of-action": "Medroxyprogesterone acetate (MPA) inhibits the production of gonadotropin, preventing follicular maturation and ovulation, which is responsible for it\u2019s ability to prevent pregnancy.[L8660] This action also thins the endometrium.[L8660] MPA reduces nuclear estrogen receptors and DNA synthesis in epithelial cells of the endometrium.[L8660] MPA can also induce p53 dependant apoptosis in certain cancer cell lines,[A186134] and inhibit GABA-A receptors.[A186140]",
+    "absorption": "Absorption of oral medroxyprogesterone acetate (MPA) varies considerably between formulations.[A186086] A 1000mg oral dose reaches an average C<sub>max</sub> of 145-315nmol/L while a 500mg oral dose reaches an average C<sub>max</sub> of 33-178nmol/L with a T<sub>max</sub> of 1-3 hours and a lag time of half an hour.[A186086] The AUC of a 500mg oral dose of MPA was 543.4-1981.1nmol\\*L/h depending on formulation.[A186086]\r\n\r\nIntramuscular MPA reaches a C<sub>max</sub> of 4.69\u00b11.52nmol/L with a T<sub>max</sub> of 4.75\u00b12.09 days and an AUC of 81.58\u00b127.64days\\*nmol/L.[A186095] Subcutaneous MPA reaches a C<sub>max</sub> of 3.83\u00b11.56nmol/L with a T\u00b1max of 6.52\u00b12.07 days and an AUC of 72.26\u00b138.73days\\*nmol/L.[A186095] However, the pharmacokinetics of MPA may also vary depending on injection site.[A186098]",
+    "metabolism": "Medroxyprogesterone acetate undergoes beta hydroxylation to form the metabolites 6-beta (M-2), 2-beta (M-4), and 1-beta-hydroxymedroxyprogesterone acetate (M-3).[A14848] M-2 and M-4 are further metabolized to 2-beta,6-beta-dihydroxymedroxyprogesterone (M-1).[A14848] M-3 is further metabolized to 1,2-dehydromedroxyprogesterone acetate (M-5).[A14848]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is >6400mg/kg and in mice is >16g/kg.[L8738] The intraperitoneal LD<sub>50</sub> in rats is >900mg/kg and in mice is >1500mg/kg.[L8738] The subcutaneous LD<sub>50</sub> in rats is >900mg/kg and in mice is>1500mg/kg.[L8738]\r\n\r\nPatients experiencing and overdose or oral medroxyprogesterone acetate (MPA) may present with nausea, vomiting, breast tenderness, dizziness, abdominal pain, drowsiness, fatigue, and withdrawal bleeding.[L8657,L8660] Treat patients by stopping MPA and beginning symptomatic treatment.[L8657,L8660] Patients who have been given too much of a MPA depo injection should contact a healthcare professional, hospital emergency department, or local poison control immediately.[L8696]",
+    "targets": [
+        [
+            "PGR",
+            "Progesterone receptor",
+            "Humans"
+        ],
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "HSD3B2",
+            "3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "Cyp3a1",
+            "Cytochrome P450 3A1",
+            "Rat"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

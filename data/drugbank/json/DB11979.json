@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA166182348",
+    "drugbank_id": "DB11979",
+    "names": [
+        "Elagolix"
+    ],
+    "description": "Elagolix has been used in trials studying the basic science and treatment of Endometriosis, Folliculogenesis, Uterine Fibroids, Heavy Uterine Bleeding, and Heavy Menstrual Bleeding. As of 24 July 2018, however, the U.S. Food and Drug Administration (FDA) approved AbbVie's elagolix under the brand name Orilissa as the first and only oral gonadotropin-releasing hormone (GnRH) antagonist specifically developed for women with moderate to severe endometriosis pain [F815].\r\n\r\nIt has been determined that endometriosis is one of the most common gynecologic disorders in the United States [A35868, A35869, F801]. In particular, estimates suggest that one in ten women of reproductive age is affected by endometriosis and experience debilitating pain symptoms [A35868, A35869, F801]. Moreover, women who are affected by this condition can suffer for up to six to ten years and visit multiple physicians before receiving a proper diagnosis [A35868, A35869, F801]. Subsequently, as Orilissa (elagolix) was approved by the FDA under priority review [F815], this expedited new approval gives healthcare professionals another valuable option for treating the potentially unmet needs of women who are affected by endometriosis, depending on their specific type and severity of endometriosis pain.",
+    "indication": "Elagolix is a gonadotropin-releasing hormone (GnRH) receptor antagonist indicated for the management of moderate to severe pain associated with endometriosis [FDA Label].",
+    "pharmacodynamics": "During a three menstrual cycle study in healthy women, an elagolix 150 mg once daily regimen and a 200 mg twice daily regimen resulted in an ovulation rate of about 50% and 32%, respectively [FDA Label]. In Phase 3 trials in women with endometriosis, elagolix caused a dose-dependent reduction in median estradiol concentrations to approximately 42 pg/mL for the 150 mg once daily regimen and 12 pg/mL for the 200 mg twice daily regimen [FDA Label].\r\n\r\nFurthermore, the effect of elagolix on the QTc interval was investigated in a randomized, placebo- and positive-controlled, open-label, single-dose, crossover thorough QTc study in 48 healthy adult premenopausal women [FDA Label]. Elagolix concentrations in subjects administered a single dose of 1200 mg was seventeen times higher than the concentration in subjects given elagolix 200 mg twice daily. Nevertheless, there was no clinically relevant prolongation of the QTc interval [FDA Label]. ",
+    "mechanism-of-action": "Endometriosis develops when tissue that is similar to the kind that is normally located in the uterus starts to grow outside of the uterus [A35868, F801]. Such growth leads to various symptoms like pain during periods, pelvic pain between periods, and pain during sexual intercourse [A35868, F801]. The growths themselves are referred to as lesions and frequently develop on the ovaries, fallopian tubes, and other areas around the uterus, including the bowel or bladder [A35868, F801]. The growth of these lesions is dependent upon the estrogen hormone [A35868].\r\n\r\nElagolix is an orally-administered, nonpeptide small molecule gonadotropin-releasing hormone (GnRH) receptor antagonist that inhibits endogenous GnRH signaling by binding competitively to GnRH receptors in the pituitary gland [FDA Label, A35855, A35856, A35857]. Administration of elagolix results in dose-dependent suppression of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), leading to decreased blood concentrations of the ovarian sex hormones, estradiol and progesterone. ",
+    "absorption": "The Tmax of elagolix is reported as being 1.0 hours [FDA Label]. The effect of a high-fat meal (relative to fasting) can result in a reduction of the AUC and Cmax by as much as 24% and 36%, respectively [FDA Label].",
+    "metabolism": "Elagolix is predominantly metabolized by the CYP3A family of isoenzymes despite participating in minor metabolic pathways with the CYP2D6, CYP2C8, and uridine glucuronosyl transferases (UGTs) enzymes as well [FDA Label]. The primary metabolite of elagolix, referred to as NBI-61962 (R-(+)-4-{2-[5-(2-fluoro-3-hydroxy-phenyl)-3-(2-fluoro-6-trifluoromethyl-benzyl)-4-methyl-2,6-dioxo-3,6-dihydro-2H-pyrimidin-1-yl]-1-phenyl-ethylamino}-butyrate) [A35856], is not believed to possess any significant biologic activity due to its low plasma exposure and an observed potency that is exceptionally less than the parent elagolix compound (Ki value of 3.5 compared to 0.9 nM) [A35855].",
+    "toxicity": "In case of overdose, monitor the patient for any signs or symptoms of adverse reactions and initiate appropriate symptomatic treatment, as needed [FDA Label]. Common adverse reactions of elagolix include hot flush, headache, nausea, insomnia, mood alterations, amenorrhea, depression, anxiety, arthralgia, bone loss, changes in menstrual bleeding patterns, suicidal ideation and behavior, exacerbation of existing mood disorders, and/or hepatic transaminase elevations [FDA Label].\r\n\r\nThe recommended duration of use for elagolix is up to 24 months for the 150 mg once daily dose and up to six months for the 200 mg twice daily dose, as it causes a dose-dependent decrease in bone mineral density (BMD) [FDA Label]. BMD loss is greater with increasing duration of use and may not be completely reversible after stopping treatment [FDA Label]. For women with moderate hepatic impairment, the recommended dosage is 150 mg once daily for up to six months [FDA Label].",
+    "targets": [
+        [
+            "GNRHR",
+            "Gonadotropin-releasing hormone receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

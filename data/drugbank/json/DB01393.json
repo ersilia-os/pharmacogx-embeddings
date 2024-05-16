@@ -1,0 +1,83 @@
+{
+    "pharmgkb_id": "PA162364313",
+    "drugbank_id": "DB01393",
+    "names": [
+        "Bezafibrate",
+        "Befizal",
+        "Bezalip",
+        "Bezalip retard",
+        "Bezatol",
+        "Bezatol SR",
+        "Cedur"
+    ],
+    "description": "Antilipemic agent that lowers cholesterol and triglycerides. It decreases low density lipoproteins and increases high density lipoproteins.",
+    "indication": "For the treatment of primary hyperlipidaemia types IIa, IIb, III, IV and V (Fredrickson classification) corresponding to groups I, II and III of the European Atherosclerosis Society guidelines - when diet alone or improvements in lifestyle such as increased exercise or weight reduction do not lead to an adequate response. Also for the treatment of secondary hyperlipidaemias, e.g. severe hypertriglyceridemias, when sufficient improvement does not occur after correction of the underlying disorder (e.g. diabetes mellitus).",
+    "pharmacodynamics": "Bezafibrate is an antilipemic agent that lowers cholesterol and triglycerides. It decreases low density lipoproteins and increases high density lipoproteins. Bezafibrate lowers elevated blood lipids (triglycerides and cholesterol). Elevated VLDL and LDL are reduced by treatment with bezafibrate, whilst HDL-levels are increased. The activity of triglyceride lipases (lipoprotein lipase and hepatic lipoproteinlipase) involved in the catabolism of triglyceride-rich lipoproteins is increased by bezafibrate. In the course of the intensified degradation of triglyceride-rich lipoproteins (chylomicrons, VLDL) precursors for the formation of HDL are formed which explains an increase in HDL. Furthermore, cholesterol biosynthesis is reduced by bezafibrate, which is accompanied by a stimulation of the LDL-receptor-mediated lipoprotein catabolism. Elevated fibrinogen appears to be an important risk-factor, alongside the lipids, smoking and hypertension, in the development of atheroma. Fibrinogen plays an important role in viscosity, and therefore blood flow, and also appears to play an important role in thrombus development and lysability. Bezafibrate exerts an effect on thrombogenic factors. A significant decrease in elevated plasma fibrinogen levels can be achieved. This may lead, amongst other things, to a reduction in both blood and plasma viscosity. Inhibition of platelet aggregation has also been observed. A reduction in blood glucose concentration due to an increase in glucose tolerance has been reported in diabetic patients. In the same patients, the concentration of fasting and postprandial free fatty acids was reduced by bezafibrate.",
+    "mechanism-of-action": "It is generally accepted that bezafibrate is likely an agonist of PPAR-alpha. However, certain other investigations have also suggested that the substance might also elicit some effects on PPAR-gamma and PPAR-delta too.",
+    "absorption": "Bezafibrate is almost completely absorbed after oral administration. The relative bioavailability of bezafibrate retard compared to the standard form is about 70%.",
+    "metabolism": "Hepatic.",
+    "toxicity": null,
+    "targets": [
+        [
+            "PPARD",
+            "Peroxisome proliferator-activated receptor delta",
+            "Humans"
+        ],
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ],
+        [
+            "PPARA",
+            "Peroxisome proliferator-activated receptor alpha",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ],
+        [
+            "RXRA",
+            "Retinoic acid receptor RXR-alpha",
+            "Humans"
+        ],
+        [
+            "RXRB",
+            "Retinoic acid receptor RXR-beta",
+            "Humans"
+        ],
+        [
+            "RXRG",
+            "Retinoic acid receptor RXR-gamma",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

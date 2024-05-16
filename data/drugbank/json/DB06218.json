@@ -1,0 +1,51 @@
+{
+    "pharmgkb_id": "PA166160048",
+    "drugbank_id": "DB06218",
+    "names": [
+        "Lacosamide"
+    ],
+    "description": "Lacosamide is an antiepileptic drug used to treat seizures. As a chiral functionalized amino acid, it works by blocking slowly inactivating components of voltage-gated sodium currents. Lacosamide exhibits a stereoselective mode of interaction with sodium channels.[A262681] Lacosamide was first approved by the European Commission in August 2008 and was later approved by the FDA in October 2008.[A262681] It was granted approval by Health Canada in September 2010.[L49206]",
+    "indication": "In the US and Europe, lacosamide is indicated for the treatment of partial-onset seizures in children and adults.[L49191, L49196, L49201] In Canada, it is reserved for use in adults.[L49206]\r\n\r\nIt is also used as an adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in patients four years of age and older.[L49191, L49201]\r\n\r\nThe extended-release capsules of lacosamide are indicated for the treatment of partial-onset seizures in adults and in pediatric patients weighing at least 50 kg.[L49196]",
+    "pharmacodynamics": "Lacosamide is an antiepileptic drug with high oral potency, stereoselectivity,[A262686] and anticonvulsant effects.[A262616] By blocking sensory neuronal voltage-gated sodium channels that mediate neuropathic pain responses, lacosamide was shown to possess analgesic activity.[A4071, A262616] Lacosamide is a chiral functionalized amino acid. The S-stereoisomer does not exhibit antiepileptic activity.[A262616]",
+    "mechanism-of-action": "Caused by neuronal hyperexcitability, seizures in epilepsy involve sustained firing of sodium-dependent action potentials. The slow inactivation process, intrinsic to voltage-gated sodium channel functioning, has been implicated in the paroxysmal depolarizing shifts associated with epileptic activity.[A262616] The exact mechanism of action of lacosamide is not fully known; however, in vitro electrophysiological studies have shown that lacosamide selectively enhances the slow inactivation of voltage-gated sodium channels, shifting the slow inactivation curve to more hyperpolarized potentials and augmenting the maximal fraction of channels in the slow inactivated state.[A262686] This results in the stabilization of hyperexcitable neuronal membranes and inhibition of repetitive neuronal firing.[A262616, L49191] Lacosamide does not affect the fast component of voltage-gated sodium currents, unlike traditional sodium channel blockers.[A262616]",
+    "absorption": "Lacosamide is completely absorbed after oral administration with negligible first-pass effect. It has a high absolute bioavailability of approximately 100%. Food does not affect the rate and extent of absorption. The T<sub>max</sub> ranges from one to four hours. Steady-state plasma concentrations are achieved after three days of twice-daily repeated administration. The pharmacokinetics of lacosamide are dose-proportional over the dose range between 100 and 800 mg, and time-invariant, with low inter- and intra-subject variability. The major O-desmethyl metabolite of lacosamide has a longer T<sub>max</sub> that ranges from 0.5 to 12 hours.[L49191]\r\n\r\nAfter intravenous administration, C<sub>max</sub> is reached at the end of infusion. The 30- and 60-minute intravenous infusions are bioequivalent to the oral tablet. For the 15-minute intravenous infusion, bioequivalence was met for AUC<sub>0-tz</sub> but not for C<sub>max</sub>. The point estimate of C<sub>max</sub> was 20% higher than C<sub>max</sub> for oral tablet and the 90% CI for C<sub>max</sub> exceeded the upper boundary of the bioequivalence range. In a trial comparing the oral tablet with an oral solution containing 10 mg/mL lacosamide, bioequivalence between both formulations was shown. A single loading dose of 200 mg approximates steady-state concentrations comparable to the 100 mg twice-daily oral administration.[L49191]",
+    "metabolism": "Lacosamide is metabolized by CYP3A4, CYP2C9, and CYP2C19 to form O-desmethyl lacosamide, which is a major, pharmacologically inactive metabolite in humans. There is no enantiomeric interconversion of lacosamide.[L49191]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is 253 mg/kg.[L49171] \r\n\r\nDizziness, nausea, and seizures (generalized tonic-clonic seizures, status epilepticus) were observed at doses greater than 800 mg, which is twice the maximum recommended daily dose. Cardiac conduction disorders, confusion, decreased level of consciousness, cardiogenic shock, cardiac arrest, and coma have also been observed.[L49191]\r\n\r\nFatal overdoses have occurred with lacosamide. As there is no specific antidote for overdose with lacosamide, standard decontamination procedures should be followed. General supportive care of the patient is indicated including monitoring of vital signs and observation of the clinical status of patient. Standard hemodialysis procedures result in significant clearance of lacosamide (reduction of systemic exposure by 50% in four hours). Hemodialysis may be indicated based on the patient's clinical state or in patients with significant renal impairment.[L49191]",
+    "targets": [
+        [
+            "SCN9A",
+            "Sodium channel protein type 9 subunit alpha",
+            "Humans"
+        ],
+        [
+            "SCN3A",
+            "Sodium channel protein type 3 subunit alpha",
+            "Humans"
+        ],
+        [
+            "SCN10A",
+            "Sodium channel protein type 10 subunit alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

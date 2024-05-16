@@ -1,0 +1,47 @@
+{
+    "pharmgkb_id": "PA450877",
+    "drugbank_id": "DB00790",
+    "names": [
+        "Perindopril"
+    ],
+    "description": "Perindopril is a nonsulfhydryl prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is rapidly metabolized in the liver to perindoprilat, its active metabolite, following oral administration. Perindoprilat is a potent, competitive inhibitor of ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Perindopril may be used to treat mild to moderate essential hypertension, mild to moderate congestive heart failure, and to reduce the cardiovascular risk of individuals with hypertension or post-myocardial infarction and stable coronary disease.",
+    "indication": "For the treatment of mild to moderate essential hypertension, mild to moderate congestive heart failure, and to reduce the cardiovascular risk of individuals with hypertension or post-myocardial infarction and stable coronary disease. ",
+    "pharmacodynamics": "Perindopril is a nonsulfhydryl prodrug that is metabolized via first pass effect (62%) and systemic hydrolysis (38%) to perindoprilat, its active metabolite, following oral administration. Perindoprilat lowers blood pressure by antagonizing the effect of the RAAS. The RAAS is a homeostatic mechanism for regulating hemodynamics, water and electrolyte balance. During sympathetic stimulation or when renal blood pressure or blood flow is reduced, renin is released from the granular cells of the juxtaglomerular apparatus in the kidneys. In the blood stream, renin cleaves circulating angiotensinogen to ATI, which is subsequently cleaved to ATII by ACE. ATII increases blood pressure using a number of mechanisms. First, it stimulates the secretion of aldosterone from the adrenal cortex. Aldosterone travels to the distal convoluted tubule (DCT) and collecting tubule of nephrons where it increases sodium and water reabsorption by increasing the number of sodium channels and sodium-potassium ATPases on cell membranes. Second, ATII stimulates the secretion of vasopressin (also known as antidiuretic hormone or ADH) from the posterior pituitary gland. ADH stimulates further water reabsorption from the kidneys via insertion of aquaporin-2 channels on the apical surface of cells of the DCT and collecting tubules. Third, ATII increases blood pressure through direct arterial vasoconstriction. Stimulation of the Type 1 ATII receptor on vascular smooth muscle cells leads to a cascade of events resulting in myocyte contraction and vasoconstriction. In addition to these major effects, ATII induces the thirst response via stimulation of hypothalamic neurons. ACE inhibitors inhibit the rapid conversion of ATI to ATII and antagonize RAAS-induced increases in blood pressure. ACE (also known as kininase II) is also involved in the enzymatic deactivation of bradykinin, a vasodilator. Inhibiting the deactivation of bradykinin increases bradykinin levels and may sustain the effects of perindoprilat by causing increased vasodilation and decreased blood pressure.",
+    "mechanism-of-action": "There are two isoforms of ACE: the somatic isoform, which exists as a glycoprotein comprised of a single polypeptide chain of 1277; and the testicular isoform, which has a lower molecular mass and is thought to play a role in sperm maturation and binding of sperm to the oviduct epithelium. Somatic ACE has two functionally active domains, N and C, which arise from tandem gene duplication. Although the two domains have high sequence similarity, they play distinct physiological roles. The C-domain is predominantly involved in blood pressure regulation while the N-domain plays a role in hematopoietic stem cell differentiation and proliferation. ACE inhibitors bind to and inhibit the activity of both domains, but have much greater affinity for and inhibitory activity against the C-domain. Perindoprilat, the active metabolite of perindopril, competes with ATI for binding to ACE and inhibits and enzymatic proteolysis of ATI to ATII. Decreasing ATII levels in the body decreases blood pressure by inhibiting the pressor effects of ATII as described in the Pharmacology section above. Perindopril also causes an increase in plasma renin activity likely due to a loss of feedback inhibition mediated by ATII on the release of renin and/or stimulation of reflex mechanisms via baroreceptors. ",
+    "absorption": "Rapidly absorbed with peak plasma concentrations occurring approximately 1 hour after oral administration. Bioavailability is 65-75%. Following absorption, perindopril is hydrolyzed to perindoprilat, which has an average bioavailability of 20%. The rate and extent of absorption is unaffected by food. However, food decreases the extent of biotransformation to peridoprilat and reduces its bioavailability by 35%. ",
+    "metabolism": "Extensively metabolized, with only 4-12% of the dose recovered in urine following oral administration. Six metabolites have been identified: perindoprilat, perindopril glucuronide, perindoprilat glucuronide, a perindopril lactam, and two perindoprilat lactams. Only perindoprilat is pharmacologically active. Peridoprilat and perindoprilat glucuronide are the two main circulating metabolites. ",
+    "toxicity": "The most likely symptom of overdose is severe hypotension. The most common adverse effects observed in controlled clinical trials include cough, digestive symptoms, fatigue, headache, and dizziness. ",
+    "targets": [
+        [
+            "ACE",
+            "Angiotensin-converting enzyme",
+            "Humans"
+        ],
+        [
+            "SFRP4",
+            "Secreted frizzled-related protein 4",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

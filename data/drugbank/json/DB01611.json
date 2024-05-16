@@ -1,0 +1,77 @@
+{
+    "pharmgkb_id": "PA164777036",
+    "drugbank_id": "DB01611",
+    "names": [
+        "Hydroxychloroquine",
+        "Dolquine",
+        "HCQS",
+        "Polirreumin",
+        "Quensyl"
+    ],
+    "description": "Hydroxychloroquine is a racemic mixture consisting of an R and S enantiomer.[A183047] Hydroxychloroquine is an aminoquinoline like [chloroquine].[L8072] It is a commonly prescribed medication in the treatment of uncomplicated malaria, rheumatoid arthritis, chronic discoid lupus erythematosus, and systemic lupus erythematosus.[L8072] Hydroxychloroquine is also used for the prophylaxis of malaria in regions where chloroquine resistance is unlikely.[L8072] It was developed during World War II as a derivative of [quinacrine] with less severe side effects.[A183092] Chloroquine and hydroxychloroquine are both being investigated for the treatment of SARS-CoV-2.[A192132]\r\n\r\n**The FDA emergency use authorization for hydroxychloroquine and [chloroquine] in the treatment of COVID-19 was revoked on 15 June 2020.[L14312]**\r\n\r\nHydroxychloroquine was granted FDA approval on 18 April 1955.[L8072]\r\n\r\nA recent study reported a fatality in the group being treated with hydroxychloroquine for COVID-19.[A192546]",
+    "indication": "Hydroxychloroquine is indicated for the prophylaxis of malaria where chloroquine resistance is not reported, treatment of uncomplicated malaria (caused by _P. falciparum_, _P. malariae_, _P. ovale_, or _P. vivax_), chronic discoid lupus erythematosus, systemic lupus erythematosus, acute rheumatoid arthritis, and chronic rheumatoid arthritis.[L8072]",
+    "pharmacodynamics": "Hydroxychloroquine affects the function of lysosomes in humans as well as plasmodia.[A183074] Altering the pH of the lysosomes reduces low-affinity self-antigen presentation in autoimmune diseases and interferes with the ability of plasmodia to proteolyze hemoglobin for their energy requirements.[A183074] Hydroxychloroquine has a long duration of action as it may be taken on a weekly basis for some indications.[L8072] Hydroxychloroquine may lead to severe hypoglycemia and so diabetic patients are advised to monitor their blood glucose levels.[L8072] \r\n\r\nHydroxychloroquine is active against the erythrocytic forms of chloroquine-sensitive strains of P. falciparum, P. malariae, P. vivax, and P. ovale. Hydroxychloroquine is not active against the gametocytes and exoerythrocytic forms including the hypnozoite liver stage forms of P. vivax and P. ovale.[L47576] Hydroxychloroquine is not effective against malaria in areas where chloroquine resistance has been reported.[L8072]",
+    "mechanism-of-action": "The exact mechanisms of hydroxychloroquine are unknown. It has been shown that hydroxychloroquine accumulates in the lysosomes of the malaria parasite, raising the pH of the vacuole.[A183074] This activity interferes with the parasite's ability to proteolyse hemoglobin, preventing the normal growth and replication of the parasite.[A183074] Hydroxychloroquine can also interfere with the action of parasitic heme polymerase, an enzyme that uses ferriprotoporphyrin IX (FP) released from hemoglobin as a substrate to form beta-hematin. By reducing the activity of heme polymerase without inhibiting the release of FP, hydroxychloroquine leads to the accumulation of FP in a toxic form.[A183080]\r\n\r\nHydroxychloroquine accumulation in human organelles also raise their pH, which inhibits antigen processing, prevents the alpha and beta chains of the major histocompatibility complex (MHC) class II from dimerizing, inhibits antigen presentation of the cell, and reduces the inflammatory response.[A183074] Elevated pH in the vesicles may alter the recycling of MHC complexes so that only the high affinity complexes are presented on the cell surface.[A183074] Self peptides bind to MHC complexes with low affinity and so they will be less likely to be presented to autoimmune T cells.[A183074] Hydroxychloroquine also reduces the release of cytokines like interleukin-1 and tumor necrosis factor, possibly through inhibition of Toll-like receptors.[A183074,A198852]\r\n\r\nThe raised pH in endosomes, prevent virus particles (such as SARS-CoV and SARS-CoV-2) from utilizing their activity for fusion and entry into the cell.[A191625]\r\n\r\nHydroxychloroquine inhibits terminal glycosylation of ACE2, the receptor that SARS-CoV and SARS-CoV-2 target for cell entry.[A191628,A191625] ACE2 that is not in the glycosylated state may less efficiently interact with the SARS-CoV-2 spike protein, further inhibiting viral entry.[A191625]",
+    "absorption": "Hydroxychloroquine is 67-74% bioavailable.[A183047] Bioavailability of the R and S enantiomers were not significantly different.[A183047]\r\n\r\nFollowing a single 200 mg oral dose of hydroxychloroquine to healthy male volunteers, whole blood hydroxychloroquine C<sub>max</sub> was 129.6 ng/mL (plasma C<sub>max</sub> was 50.3 ng/mL) with T<sub>max</sub> of 3.3 hours (plasma T<sub>max</sub> 3.7 hours). Following a single oral hydroxychloroquine dose of 200 mg, the\r\nmean fraction of the dose absorbed was 0.74 (compared to the administration of 155 mg of hydroxychloroquine intravenous infusion). Peak blood concentrations of metabolites were observed at the same time as peak levels of hydroxychloroquine.[L47576]\r\n\r\nAfter administration of single 155 mg and 310 mg intravenous doses, peak blood concentrations ranged from 1161 ng/mL to 2436 ng/mL (mean 1918 ng/mL) following the 155 mg infusion and 6 months following the 310 mg infusion. Pharmacokinetic parameters were not significantly different over the therapeutic dose range of 155 mg and 310 mg indicating linear kinetics.[L47576]\r\n\r\nIn patients with rheumatoid arthritis, there was large variability as to the fraction of the dose absorbed (i.e. 30 to 100%), and mean hydroxychloroquine levels were significantly higher in patients with less disease activity.[L47576] ",
+    "metabolism": "Hydroxychloroquine is N-dealkylated by CYP3A4 to the active metabolite desethylhydroxychloroquine, as well as the inactive metabolites desethylchloroquine and bidesethylchloroquine.[A183056,A183059] Desethylhydroxychloroquine is the major metabolite.[L8072]",
+    "toxicity": "Patients experiencing an overdose may present with headache, drowsiness, visual disturbances, cardiovascular collapse, convulsions, hypokalemia, rhythm and conduction disorders including QT prolongation, torsades de pointes, ventricular tachycardia, and ventricular fibrillation.[L8072] This may progress to sudden respiratory and cardiac arrest.[L8072] Overdose should be treated with immediate gastric lavage and activated charcoal at a dose of at least 5 times the hydroxychloroquine dose within 30 minutes.[A183047,L8072] Parenteral diazepam may be given to treat cardiotoxicity, transfusion may reduce serum concentrations of drug, patients should be monitored for at least 6 hours, fluids should be given, and ammonium chloride should be given to acidify urine and promote urinary excretion.[L8072] Patients may also be given epinephrine.[A198852]",
+    "targets": [
+        [
+            "TLR7",
+            "Toll-like receptor 7",
+            "Humans"
+        ],
+        [
+            "TLR9",
+            "Toll-like receptor 9",
+            "Humans"
+        ],
+        [
+            "ACE2",
+            "Angiotensin-converting enzyme 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

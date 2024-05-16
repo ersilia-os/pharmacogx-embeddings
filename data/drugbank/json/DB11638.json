@@ -1,0 +1,996 @@
+{
+    "pharmgkb_id": "nan-9f9d5b8c-2995-4fc5-8010-386955dfc597",
+    "drugbank_id": "DB11638",
+    "names": [
+        "Artenimol"
+    ],
+    "description": "Artenimol is an artemisinin derivative and antimalarial agent used in the treatment of uncomplicated *Plasmodium falciparum* infections [FDA Label]. It was first authorized for market by the European Medicines Agency in October 2011 in combination with [DB13941] as the product Eurartesim. Artemisinin combination therapy is highly effective against malaria and stongly recommended by the World Health Organization [L1156].",
+    "indication": "For the treatment of uncomplicated *Plasmodium falciparum* infection in adults, children, and infants aged 6 months and up weighing over 5 kg [FDA Label]. Used in combination with [DB13941].",
+    "pharmacodynamics": "Artenimol is thought to form a reactive carbon radical intermediate which kills *P. falciparum* through alkylation of a wide array of proteins.",
+    "mechanism-of-action": "Artemisinins, including Artenimol which is a major active metabolite of many artemisinins, are thought to act via a common mechanism [A31589]. While the exact mechanism of action is not certain, theories exist as to how artemisinins produce their antimalarial effect.\r\n\r\nArtemisinins are believed to bind to haem within the *P. falciparum* parasite [A31564, A31588]. The source of this haem varies with the life stage of the parasite. When the parasite is in the early ring stage artemisinins are believed to bind haem produced by the parasite's haem biosynthesis pathway. In later stages artemisinins likely bind to haem released by haemoglobin digestion. Once bound to haem, artemisinins are thought to undergo activation involving ferrous iron via reductive scission which splits the endoperoxide bridge to produce a reactive oxygen [A31587, A31596]. This reactive oxygen is thought to undergo a subsequent intramolecular hydrogen abstraction to produce a reactive carbon radical [A31596]. The carbon radical is believed to be the source of the drugs potent activity against *P. falciparum* by alkylating a wide array of protein targets [A20257, A31564, A31596]. The nature and magnitude of the effect on specific protein function as a result of this alkylation is unknown.\r\n\r\nOne target which has been the focus of research is the sarco/endoplasmic reticulum Ca2+ ATPase pump of *P. falciparum* [A31594]. Artemisinins have been found to irreversably bind to and inhibit this protein at a binding site similar to that of Thapsigargin. The mechanism is likely the same as for other proteins, namely alkylation via the carbon radical intermediate.\r\n\r\nArtemisinins appear to preferentially collect in infected erythrocytes, concentrating the drug by several hundred-fold compared to uninfected cells [A31597]. This may play a role in why little alkylation is seen in uninfected erythrocytes [A31595].",
+    "absorption": "The reported oral bioavailability of Artenimol was reported to be 45% in healthy adults [L1149]. The observed Tmax was 1-2 h This is known to increase in malaria infected patients which could be attributed to reduced metabolism by the liver or the drug's collection in infected erythrocytes. Artenimol was obeserved to have flip-flop kinetics with an overall absorption half-life of 1.04 h. When administered with food the AUC for Artenimol increases by 144%. Cmax was observed to increase by 129% but was not found to be statistically significant. Food was observed to delay Tmax by 1 h.",
+    "metabolism": "The primary metabolite of Artenimol is the glucuronide conjugate, \u03b1-artenimol-\u03b2-glucuronide [FDA Label]. It is largely metabolized by UGT1A9 with some contribution by UGT2B7 [L1149].",
+    "toxicity": "In single dose studies in CD-1 male mice, Artenimol did not show signs of toxicity up to 1200 mg/kg [L1149].\r\n\r\nIn repeated dose studies in CD-1 mice, the NOAEL for Artenimol was determined to be 200 mg/kg/day [L1149]. This value was determined to be 90 mg/kg/day in beagle dogs. The maximum tolerable dose in rats was observed to be 270 mg/kg/day. Doses of 540 mg/kg/day resulted in acute toxicity progressing to lethal effects. Toxicity was characterized by infiltration of macrophages and intracytoplasmic deposition of basophilic granular materials in macrophages consistent with phospholipidosis. Toxicity at high doses were accompanied by decreases in reticulocytes, and increases in AST and ALT.",
+    "targets": [
+        [
+            "ACTG1",
+            "Actin, cytoplasmic 2",
+            "Humans"
+        ],
+        [
+            "ALDH7A1",
+            "Alpha-aminoadipic semialdehyde dehydrogenase",
+            "Humans"
+        ],
+        [
+            "ANXA2",
+            "Annexin A2",
+            "Humans"
+        ],
+        [
+            "ATP5A1",
+            "ATP synthase subunit alpha, mitochondrial",
+            "Humans"
+        ],
+        [
+            "ATP5L",
+            "ATP synthase subunit g, mitochondrial",
+            "Humans"
+        ],
+        [
+            "ATP5O",
+            "ATP synthase subunit O, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CAST",
+            "Calpastatin",
+            "Humans"
+        ],
+        [
+            "CCT3",
+            "T-complex protein 1 subunit gamma",
+            "Humans"
+        ],
+        [
+            "CFL1",
+            "Cofilin-1",
+            "Humans"
+        ],
+        [
+            "CLIC1",
+            "Chloride intracellular channel protein 1",
+            "Humans"
+        ],
+        [
+            "CSRP1",
+            "Cysteine and glycine-rich protein 1",
+            "Humans"
+        ],
+        [
+            "DPYSL2",
+            "Dihydropyrimidinase-related protein 2",
+            "Humans"
+        ],
+        [
+            "DSP",
+            "Desmoplakin",
+            "Humans"
+        ],
+        [
+            "EEF1A1",
+            "Elongation factor 1-alpha 1",
+            "Humans"
+        ],
+        [
+            "ENO1",
+            "Alpha-enolase",
+            "Humans"
+        ],
+        [
+            "FLNA",
+            "Filamin-A",
+            "Humans"
+        ],
+        [
+            "FTO",
+            "Alpha-ketoglutarate-dependent dioxygenase FTO",
+            "Humans"
+        ],
+        [
+            "G6PD",
+            "Glucose-6-phosphate 1-dehydrogenase",
+            "Humans"
+        ],
+        [
+            "GAPDHS",
+            "Glyceraldehyde-3-phosphate dehydrogenase, testis-specific",
+            "Humans"
+        ],
+        [
+            "GPI",
+            "Glucose-6-phosphate isomerase",
+            "Humans"
+        ],
+        [
+            "HNRNPA2B1",
+            "Heterogeneous nuclear ribonucleoproteins A2/B1",
+            "Humans"
+        ],
+        [
+            "HNRNPD",
+            "Heterogeneous nuclear ribonucleoprotein D0",
+            "Humans"
+        ],
+        [
+            "HNRNPK",
+            "Heterogeneous nuclear ribonucleoprotein K",
+            "Humans"
+        ],
+        [
+            "HP1BP3",
+            "Heterochromatin protein 1-binding protein 3",
+            "Humans"
+        ],
+        [
+            "HSPB1",
+            "Heat shock protein beta-1",
+            "Humans"
+        ],
+        [
+            "IQGAP1",
+            "Ras GTPase-activating-like protein IQGAP1",
+            "Humans"
+        ],
+        [
+            "KHSRP",
+            "Far upstream element-binding protein 2",
+            "Humans"
+        ],
+        [
+            "LDHA",
+            "L-lactate dehydrogenase A chain",
+            "Humans"
+        ],
+        [
+            "LDHB",
+            "L-lactate dehydrogenase B chain",
+            "Humans"
+        ],
+        [
+            "LGALS1",
+            "Galectin-1",
+            "Humans"
+        ],
+        [
+            "MAP4",
+            "Microtubule-associated protein 4",
+            "Humans"
+        ],
+        [
+            "MDH1",
+            "Malate dehydrogenase, cytoplasmic",
+            "Humans"
+        ],
+        [
+            "NPEPPS",
+            "Puromycin-sensitive aminopeptidase",
+            "Humans"
+        ],
+        [
+            "PFN1",
+            "Profilin-1",
+            "Humans"
+        ],
+        [
+            "PGK1",
+            "Phosphoglycerate kinase 1",
+            "Humans"
+        ],
+        [
+            "PKM",
+            "Pyruvate kinase PKM",
+            "Humans"
+        ],
+        [
+            "PPIA",
+            "Peptidyl-prolyl cis-trans isomerase A",
+            "Humans"
+        ],
+        [
+            "PRDX1",
+            "Peroxiredoxin-1",
+            "Humans"
+        ],
+        [
+            "RPL10",
+            "60S ribosomal protein L10",
+            "Humans"
+        ],
+        [
+            "RPL14",
+            "60S ribosomal protein L14",
+            "Humans"
+        ],
+        [
+            "RPL18",
+            "60S ribosomal protein L18",
+            "Humans"
+        ],
+        [
+            "RPL23A",
+            "60S ribosomal protein L23a",
+            "Humans"
+        ],
+        [
+            "RPL35",
+            "60S ribosomal protein L35",
+            "Humans"
+        ],
+        [
+            "RPL4",
+            "60S ribosomal protein L4",
+            "Humans"
+        ],
+        [
+            "RPS13",
+            "40S ribosomal protein S13",
+            "Humans"
+        ],
+        [
+            "RPS17",
+            "40S ribosomal protein S17",
+            "Humans"
+        ],
+        [
+            "RPS18",
+            "40S ribosomal protein S18",
+            "Humans"
+        ],
+        [
+            "RPS19",
+            "40S ribosomal protein S19",
+            "Humans"
+        ],
+        [
+            "RPS28",
+            "40S ribosomal protein S28",
+            "Humans"
+        ],
+        [
+            "RPS5",
+            "40S ribosomal protein S5",
+            "Humans"
+        ],
+        [
+            "RPS6",
+            "40S ribosomal protein S6",
+            "Humans"
+        ],
+        [
+            "RPS8",
+            "40S ribosomal protein S8",
+            "Humans"
+        ],
+        [
+            "RPS9",
+            "40S ribosomal protein S9",
+            "Humans"
+        ],
+        [
+            "SF1",
+            "Splicing factor 1",
+            "Humans"
+        ],
+        [
+            "SFPQ",
+            "Splicing factor, proline- and glutamine-rich",
+            "Humans"
+        ],
+        [
+            "SNRPD2",
+            "Small nuclear ribonucleoprotein Sm D2",
+            "Humans"
+        ],
+        [
+            "SRP14",
+            "Signal recognition particle 14 kDa protein",
+            "Humans"
+        ],
+        [
+            "SRSF4",
+            "Serine/arginine-rich splicing factor 4",
+            "Humans"
+        ],
+        [
+            "TAGLN",
+            "Transgelin",
+            "Humans"
+        ],
+        [
+            "TAGLN2",
+            "Transgelin-2",
+            "Humans"
+        ],
+        [
+            "TPI1",
+            "Triosephosphate isomerase",
+            "Humans"
+        ],
+        [
+            "TPM1",
+            "Tropomyosin alpha-1 chain",
+            "Humans"
+        ],
+        [
+            "TUBA1A",
+            "Tubulin alpha-1A chain",
+            "Humans"
+        ],
+        [
+            "VIM",
+            "Vimentin",
+            "Humans"
+        ],
+        [
+            "ZYX",
+            "Zyxin",
+            "Humans"
+        ],
+        [
+            "HSPA8",
+            "Heat shock cognate 71 kDa protein",
+            "Humans"
+        ],
+        [
+            "TUBB6",
+            "Tubulin beta-6 chain",
+            "Humans"
+        ],
+        [
+            "TUBB4A",
+            "Tubulin beta-4A chain",
+            "Humans"
+        ],
+        [
+            "TUBB",
+            "Tubulin beta chain",
+            "Humans"
+        ],
+        [
+            "ALDOA",
+            "Fructose-bisphosphate aldolase A",
+            "Humans"
+        ],
+        [
+            "GAPDH",
+            "Glyceraldehyde-3-phosphate dehydrogenase",
+            "Humans"
+        ],
+        [
+            "CYCS",
+            "Cytochrome c",
+            "Humans"
+        ],
+        [
+            "PGAM1",
+            "Phosphoglycerate mutase 1",
+            "Humans"
+        ],
+        [
+            "MYH9",
+            "Myosin-9",
+            "Humans"
+        ],
+        [
+            "P4HB",
+            "Protein disulfide-isomerase",
+            "Humans"
+        ],
+        [
+            "DDX5",
+            "Probable ATP-dependent RNA helicase DDX5",
+            "Humans"
+        ],
+        [
+            "SHMT2",
+            "Serine hydroxymethyltransferase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "DDX39B",
+            "Spliceosome RNA helicase DDX39B",
+            "Humans"
+        ],
+        [
+            "NPM1",
+            "Nucleophosmin",
+            "Humans"
+        ],
+        [
+            "TCTP",
+            "Translationally-controlled tumor protein homolog",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "serca",
+            "P-type Ca2+-transporting ATPase",
+            "Plasmodium falciparum"
+        ],
+        [
+            "OAT",
+            "Ornithine aminotransferase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "MEF-1",
+            "Elongation factor 1-alpha",
+            "Plasmodium falciparum (isolate K1 / Thailand)"
+        ],
+        [
+            "MDR1",
+            "Multidrug resistance protein",
+            "Plasmodium falciparum (isolate FC27 / Papua New Guinea)"
+        ],
+        [
+            null,
+            "Elongation factor 2",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Actin-1",
+            "Plasmodium falciparum (isolate HB3)"
+        ],
+        [
+            "GAPDH",
+            "Glyceraldehyde-3-phosphate dehydrogenase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Fructose-bisphosphate aldolase",
+            "Plasmodium falciparum"
+        ],
+        [
+            null,
+            "Cell division cycle protein 48 homologue,putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Heat shock protein 90",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "H45",
+            "Eukaryotic initiation factor 4A",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Pyruvate kinase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "L-lactate dehydrogenase",
+            "Plasmodium falciparum (isolate CDC / Honduras)"
+        ],
+        [
+            null,
+            "Protein disulfide-isomerase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Thioredoxin-related protein, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Spermidine synthase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Probable ATP-dependent 6-phosphofructokinase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Glutamate dehydrogenase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Endoplasmin homolog, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "LACZ",
+            "Hypoxanthine-guanine-xanthine phosphoribosyltransferase",
+            "Plasmodium falciparum (isolate FCR-3 / Gambia)"
+        ],
+        [
+            "ENO",
+            "Enolase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "40S ribosomal protein S3",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Non-SERCA-type Ca2+-transporting P-ATPase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Tubulin alpha chain",
+            "Plasmodium falciparum (isolate K1 / Thailand)"
+        ],
+        [
+            null,
+            "Knob-associated histidine-rich protein",
+            "Plasmodium falciparum"
+        ],
+        [
+            null,
+            "S-adenosylmethionine synthase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "V-type H(+)-translocating pyrophosphatase, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "60S ribosomal protein L4",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Phosphoethanolamine N-methyltransferase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "40S ribosomal protein S3a",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Conserved Plasmodium membrane protein",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "60S ribosomal protein L3",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "High molecular weight rhoptry protein 2",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "SERA5",
+            "Serine repeat antigen 5",
+            "Plasmodium falciparum"
+        ],
+        [
+            null,
+            "40S ribosomal protein S19",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "GBP",
+            "Glycophorin-binding protein",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "ATP6",
+            "Calcium-transporting ATPase",
+            "Plasmodium falciparum (isolate K1 / Thailand)"
+        ],
+        [
+            "vapA",
+            "V-type proton ATPase catalytic subunit A",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "60S ribosomal protein L2",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "ACS3",
+            "Acyl-CoA synthetase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Plasmepsin IV",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Plasmepsin-1",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "CRT",
+            "Chloroquine resistance transporter",
+            "Plasmodium falciparum"
+        ],
+        [
+            null,
+            "14-3-3 protein",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Isoleucine--tRNA ligase, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Plasmodium exported protein",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Tubulin beta chain",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "60S ribosomal protein L27",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Sec62, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Autophagy-related protein 18, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Mature parasite-infected erythrocyte surface antigen",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Importin-7, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Importin subunit alpha",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Peptidyl-prolyl cis-trans isomerase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "DnaJ protein, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "MSP-1",
+            "Merozoite surface protein 1",
+            "Plasmodium falciparum (isolate CDC / Honduras)"
+        ],
+        [
+            null,
+            "Glutamate--tRNA ligase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "T-complex protein 1 subunit eta",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Plasmepsin-2",
+            "Plasmodium falciparum"
+        ],
+        [
+            null,
+            "Chaperone, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Rhoptry neck protein 3",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "40S ribosomal protein S5, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Skeleton-binding protein 1",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Purine nucleotide phosphorylase, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Adenosylhomocysteinase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Adenosine deaminase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Methionine--tRNA ligase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Carbamoyl phosphate synthetase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Aspartate carbamoyltransferase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Signal recognition particle receptor, beta subunit",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Parasite-infected erythrocyte surface protein",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Coatomer alpha subunit, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "HK",
+            "Hexokinase",
+            "Plasmodium falciparum"
+        ],
+        [
+            null,
+            "Proteasome subunit alpha type",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Haloacid dehalogenase-like hydrolase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Insulinase, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "40S ribosomal protein S21",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Ubiquitin-conjugating enzyme E2",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Eukaryotic translation initiation factor 3 subunit C",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "60S ribosomal protein L24, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "60S ribosomal protein L23",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "60S ribosomal protein L17, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "HAP protein",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Heat shock protein 110, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "60S ribosomal protein L10, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Lysophospholipase, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Polyadenylate-binding protein",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Ubiquitin-60S ribosomal protein L40",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Phosphoribosylpyrophosphate synthetase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "TPx1",
+            "Thioredoxin peroxidase 1",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "Sec31p",
+            "Protein transport protein SEC31",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Dipeptidyl aminopeptidase 1",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "RESA",
+            "Ring-infected erythrocyte surface antigen",
+            "Plasmodium falciparum (isolate FC27 / Papua New Guinea)"
+        ],
+        [
+            "UAP56",
+            "ATP-dependent RNA helicase UAP56",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "CPK4",
+            "Calcium-dependent protein kinase 4",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "GTP-binding nuclear protein Ran",
+            "Plasmodium falciparum"
+        ],
+        [
+            null,
+            "Nucleoside transporter 2",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Anamorsin homolog",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Glutamine synthetase, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "60S ribosomal protein L30e, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Casein kinase 2, alpha subunit",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Threonine--tRNA ligase",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "PKAr",
+            "cAMP-dependent protein kinase regulatory subunit",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Elongation factor 1-gamma, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "tlp1",
+            "Thioredoxin-like protein",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "60S ribosomal protein L21",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "60S ribosomal protein L14, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "Inner membrane complex sub-compartment protein 3",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            null,
+            "HSP40, subfamily A, putative",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "pdx1",
+            "Pyridoxal 5'-phosphate synthase subunit Pdx1",
+            "Plasmodium falciparum (isolate 3D7)"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

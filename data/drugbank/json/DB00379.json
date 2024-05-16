@@ -1,0 +1,73 @@
+{
+    "pharmgkb_id": "PA450488",
+    "drugbank_id": "DB00379",
+    "names": [
+        "Mexiletine",
+        "Cirumimeru",
+        "Mekiratin",
+        "Melate",
+        "Meldest",
+        "Meletin",
+        "Mequitolide",
+        "Metorekicin",
+        "Mexicord",
+        "Mexitilen",
+        "Minsetil",
+        "Mobalen",
+        "Mugadine",
+        "Olzoron",
+        "Poeruten",
+        "Ritalmex",
+        "Toi",
+        "Tumetil"
+    ],
+    "description": "Antiarrhythmic agent pharmacologically similar to lidocaine. It may have some anticonvulsant properties.",
+    "indication": "For the treatment of ventricular tachycardia and symptomatic premature ventricular beats, and prevention of ventricular fibrillation.",
+    "pharmacodynamics": "Mexiletine is a local anesthetic, antiarrhythmic agent (Class Ib), structurally similar to lidocaine, but orally active. Mexiletine has fast onset and offset kinetics, meaning that they have little or no effect at slower heart rates, and more effects at faster heart rates. It shortens the action potential duration, reduces refractoriness, and decreases Vmax in partially depolarized cells with fast response action potentials. Mexiletine either does not change the action potential duration, or decreases the action potential duration.",
+    "mechanism-of-action": "Mexiletine, like lidocaine, inhibits the inward sodium current required for the initiation and conduction of impulses, thus reducing the rate of rise of the action potential, Phase 0. It achieves this reduced sodium current by inhibiting sodium channels. Mexiletine decreases the effective refractory period (ERP) in Purkinje fibers in the heart. The decrease in ERP is of lesser magnitude than the decrease in action potential duration (APD), which results in an increase in the ERP/APD ratio. It does not significantly affect resting membrane potential or sinus node automaticity, left ventricular function, systolic arterial blood pressure, atrioventricular (AV) conduction velocity, or QRS or QT intervals",
+    "absorption": "Well absorbed (bioavailability 90%) from the gastrointenstinal tract.",
+    "metabolism": "Primarily hepatic (85%) via CYP2D6 and CYP1A2 (primarily CYP2D6).",
+    "toxicity": "Symptoms of overdose include nausea, hypotension, sinus bradycardia, paresthesia, seizures, bundle branch block, AV heart block, asystole, ventricular tachyarrythmia, including ventricular fibrillation, cardiovascular collapse, and coma.",
+    "targets": [
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ],
+        [
+            "AHR",
+            "Aryl hydrocarbon receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,148 @@
+{
+    "pharmgkb_id": "PA166182767",
+    "drugbank_id": "DB12141",
+    "names": [
+        "Gilteritinib"
+    ],
+    "description": "Gilteritinib, also known as ASP2215, is a small molecule part of the FLT3 tyrosine kinase inhibitors that presented a greater selectivity and potency when compared with other agents from this group.[A40036] It is a pyrazinecarboxamide derivative that showed high selectivity to FLT3 preventing the c-Kit -driven myelosuppression observed in other therapies.[A40044] Gilteritinib was developed by Astellas Pharma and FDA approved on November 28, 2018. This drug was approved after being designed as an orphan drug with a fast track and priority review status.[L4830]",
+    "indication": "Gilteritinib is indicated for the treatment of adult patients who have relapsed or refractory acute myeloid leukemia with an FLT3 mutation detected by an FDA-approved test. This indication was expanded for a companion diagnostic to include use with gilteritinib such as the LeukoStrat CDx FLT3 Mutation Assay.[L4830]\r\n\r\nAcute myeloid leukemia is cancer that impacts the blood and bone marrow with a rapid progression. This condition produces low numbers of normal blood cells and the requirement of continuous need for transfusions.[L4832] ",
+    "pharmacodynamics": "In preclinical trials, gilteritinib demonstrate an IC50 for the wild-type receptor of 5 nM, 0.7-1.8 nM for ITD-mutated and comparable inhibition to other therapies in the TKD-mutated. As well, data showed a gilteritinib-driven inhibition of the receptor tyrosine kinase AXL which is known to modulate the activity of FLT3 in acute myeloid leukemia.[A40044] Another important result _in vivo_ was the localization in high levels in xenografted tumors which indicated high selectivity.[A40048]\r\n\r\nIn phase 1/2 clinical trials, gilteritinib was shown to present a composite complete response of 41%, an overall response rate of 52%, a median duration of response of 20 weeks with a median overall survival of 31 weeks.[A40036]\r\n\r\nIn phase III clinical trials, gilteritinib reported a complete remission or complete remission with partial hematologic recovery in 21% of the patients.[L4830]",
+    "mechanism-of-action": "Gilteritinib is a potent selective inhibitor of both of the mutations, internal tandem duplication (ITD) and tyrosine kinase domain (TKD), of the FLT3 receptor.[A40039] In the same note, gilteritinib also inhibits AXL and ALK tyrosine kinases.[A40040] FLT3 and AXL are molecules involved in the growth of cancer cells.[A40043] The activity of gilteritinib permits an inhibition of the phosphorylation of FLT3 and its downstream targets such as STAT5, ERK and AKT.[A40048]\r\n\r\nThe interest in FLT3 transmembrane tyrosine kinases was raised when studies reported that approximately 30% of the patients with acute myeloid leukemia presented a mutationally activated isoform.[A40036] As well, the mutation ITD is associated with poor patient outcomes while the mutation TKD produces a resistance mechanism to FLT3 tyrosine kinase inhibitors and the AXL tyrosine kinase tends to produce a resistance mechanism to chemotherapies.[A40043]",
+    "absorption": "In preclinical trials, the maximal plasma concentration of gilteritinib was observed 2 hours after oral administration and followed by a maximal intratumor concentration after 4-8 hours. The maximum concentration, as well as the AUC, were modified correspondingly with the dose and were reported to be 374 ng/ml and 6943 ng.h/ml, respectively.[A40048] The steady-state plasma level is reached within 15 days of dosing with an approximate 10-fold bioaccumulation.[L4833]\r\n\r\nIn a fasted state in humans, the tmax is reported to be of 4-6 hours. The Cmax and AUC were decreased by 26% and 10% respectively by the co-ingestion of a high-fat meal with a tmax delay of 2 hours.[L4834]",
+    "metabolism": "Gilteritinib is primarily metabolized in the liver by the activity of CYP3A4. Its metabolism is driven by reactions of N-dealkylation and oxidation which forms the metabolite M17, M16 and M10. From the plasma concentration, the major form is the unchanged drug.[L4835]",
+    "toxicity": "Gilteritinib is not reported to be mutagenic in bacterial mutagenesis assays nor clastogenic in aberration test assays in Chinese hamster lung cells. However, it resulted positive for the induction of micronuclei in mouse bone marrow and for the degeneration and necrosis of germ cells and spermatid giant cell formation in testis as well as single cell necrosis of the epididymal duct epithelia.[FDA label]",
+    "targets": [
+        [
+            "FLT3",
+            "Receptor-type tyrosine-protein kinase FLT3",
+            "Humans"
+        ],
+        [
+            "AXL",
+            "Tyrosine-protein kinase receptor UFO",
+            "Humans"
+        ],
+        [
+            "ALK",
+            "ALK tyrosine kinase receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR1E",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR1F",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR3B",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR3C",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR3D",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR3E",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR4",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "Serotonin Receptors",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

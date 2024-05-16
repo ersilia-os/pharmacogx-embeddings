@@ -1,0 +1,80 @@
+{
+    "pharmgkb_id": "PA451249",
+    "drugbank_id": "DB00615",
+    "names": [
+        "Rifabutin",
+        "Ansatipin",
+        "Ansatipine",
+        "Ributin"
+    ],
+    "description": "A broad-spectrum antibiotic that is being used as prophylaxis against disseminated Mycobacterium avium complex infection in HIV-positive patients.",
+    "indication": "For the prevention of disseminated <i>Mycobacterium avium</i> complex (MAC) disease in patients with advanced HIV infection.",
+    "pharmacodynamics": "Rifabutin is an antibiotic that inhibits DNA-dependent RNA polymerase activity in susceptible cells. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme. It is bactericidal and has a very broad spectrum of activity against most gram-positive and gram-negative organisms (including <i>Pseudomonas aeruginosa</i>) and specifically <i>Mycobacterium tuberculosis</i>. Because of rapid emergence of resistant bacteria, use is restricted to treatment of mycobacterial infections and a few other indications. Rifabutin is well absorbed when taken orally and is distributed widely in body tissues and fluids, including the CSF. It is metabolized in the liver and eliminated in bile and, to a much lesser extent, in urine, but dose adjustments are unnecessary with renal insufficiency.",
+    "mechanism-of-action": "Rifabutin acts via the inhibition of DNA-dependent RNA polymerase in gram-positive and some gram-negative bacteria, leading to a suppression of RNA synthesis and cell death.",
+    "absorption": "Rifabutin is readily absorbed from the gastrointestinal tract, with an absolute bioavailability averaging 20%.",
+    "metabolism": "Hepatic. Of the five metabolites that have been identified, 25-O-desacetyl and 31-hydroxy are the most predominant. The former metabolite has an activity equal to the parent drug and contributes up to 10% to the total antimicrobial activity.",
+    "toxicity": "LD<sub>50</sub> = 4.8 g/kg (mouse, male)",
+    "targets": [
+        [
+            "rpoA",
+            "DNA-directed RNA polymerase subunit alpha",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "rpoB",
+            "DNA-directed RNA polymerase subunit beta",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "rpoC",
+            "DNA-directed RNA polymerase subunit beta'",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "HSP90AA1",
+            "Heat shock protein HSP 90-alpha",
+            "Humans"
+        ],
+        [
+            "HSP90B1",
+            "Endoplasmin",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

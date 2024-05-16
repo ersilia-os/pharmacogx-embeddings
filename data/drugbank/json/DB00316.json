@@ -1,0 +1,172 @@
+{
+    "pharmgkb_id": "PA448015",
+    "drugbank_id": "DB00316",
+    "names": [
+        "Acetaminophen",
+        "Acamol",
+        "Aceta Elixir",
+        "Aceta Tablets",
+        "Acetalgin",
+        "Actamin",
+        "Actimol",
+        "Algotropyl",
+        "Alvedon",
+        "Aminofen",
+        "Anacin-3",
+        "Anhiba",
+        "Apacet",
+        "Banesin",
+        "Calpol",
+        "Conacetol",
+        "Dafalgan",
+        "Dapa X-S",
+        "Disprol",
+        "Dolprone",
+        "Dymadon",
+        "Dypap",
+        "Enelfa",
+        "Febridol",
+        "Febrilix",
+        "Finimal",
+        "Gelocatil",
+        "Genapap",
+        "Genebs",
+        "Injectapap",
+        "Liquiprin",
+        "Napafen",
+        "Oraphen-PD",
+        "Paldesic",
+        "Panofen",
+        "Paraspen",
+        "Parmol",
+        "Redutemp",
+        "Rounox",
+        "Salzone",
+        "Snaplets-FR",
+        "St. Joseph Fever Reducer",
+        "Suppap",
+        "Tapanol",
+        "Valorin"
+    ],
+    "description": "Acetaminophen (paracetamol), also commonly known as _Tylenol_, is the most commonly taken analgesic worldwide and is recommended as first-line therapy in pain conditions by the World Health Organization (WHO).[A176318] It is also used for its antipyretic effects, helping to reduce fever.[F4124] This drug was initially approved by the U.S. FDA in 1951 and is available in a variety of forms including syrup form, regular tablets, effervescent tablets, injection, suppository, and other forms.[L5756,L5774,F4124,Label]\r\n\r\nAcetaminophen is often found combined with other drugs in more than 600 over the counter (OTC) allergy medications, cold medications, sleep medications, pain relievers, and other products.[L5783] Confusion about dosing of this drug may be caused by the availability of different formulas, strengths, and dosage instructions for children of different ages.[L5783] Due to the possibility of fatal overdose and liver failure associated with the incorrect use of acetaminophen, it is important to follow current and available national and manufacturer dosing guidelines while this drug is taken or prescribed.[L5786,L5789,Label]",
+    "indication": "In general, acetaminophen is used for the treatment of mild to moderate pain and reduction of fever.[F4124] It is available over the counter in various forms, the most common being oral forms.\r\n\r\nAcetaminophen _injection_ is indicated for the management of mild to moderate pain, the management of moderate to severe pain with adjunctive opioid analgesics, and the reduction of fever.[Label]\r\n\r\nBecause of its low risk of causing allergic reactions, this drug can be administered in patients who are intolerant to salicylates and those with allergic tendencies, including bronchial asthmatics.[F4124] Specific dosing guidelines should be followed when administering acetaminophen to children.[L5780]",
+    "pharmacodynamics": "Animal and clinical studies have determined that acetaminophen has both antipyretic and analgesic effects. This drug has been shown to lack anti-inflammatory effects. As opposed to the _salicylate_ drug class, acetaminophen does not disrupt tubular secretion of uric acid and does not affect acid-base balance if taken at the recommended doses.[F4124] Acetaminophen does not disrupt hemostasis and does not have inhibitory activities against platelet aggregation.[Label,F4124] Allergic reactions are rare occurrences following acetaminophen use.[F4124] ",
+    "mechanism-of-action": "According to its FDA labeling, acetaminophen's exact mechanism of action has not been fully established[Label] - despite this, it is often categorized alongside NSAIDs (nonsteroidal anti-inflammatory drugs) due to its ability to inhibit the cyclooxygenase (COX) pathways.[T518] It is thought to exert central actions which ultimately lead to the alleviation of pain symptoms.[T518]\r\n\r\nOne theory is that acetaminophen increases the pain threshold by inhibiting two isoforms of cyclooxygenase, COX-1 and COX-2, which are involved in prostaglandin (PG) synthesis. Prostaglandins are responsible for eliciting pain sensations.[A176366] Acetaminophen does not inhibit cyclooxygenase in peripheral tissues and, therefore, has no peripheral anti-inflammatory effects. Though acetylsalicylic acid (aspirin) is an irreversible inhibitor of COX and directly blocks the active site of this enzyme, studies have shown that acetaminophen (paracetamol) blocks COX indirectly.[F4133] Studies also suggest that acetaminophen selectively blocks a variant type of the COX enzyme that is unique from the known variants COX-1 and COX-2.[A468] This enzyme has been referred to as _COX-3_. The antipyretic actions of acetaminophen are likely attributed to direct action on heat-regulating centers in the brain, resulting in peripheral vasodilation, sweating, and loss of body heat.[F4133] The exact mechanism of action of this drug is not fully understood at this time, but future research may contribute to deeper knowledge.[F4133] ",
+    "absorption": "Acetaminophen has 88% oral bioavailability and reaches its highest plasma concentration 90 minutes after ingestion.[A35815]\r\nPeak blood levels of free acetaminophen are not reached until 3 hours after rectal administration of the suppository form of acetaminophen and the peak blood concentration is approximately 50% of the observed concentration after the ingestion of an equivalent oral dose (10-20 mcg/mL).[F4124]\r\n\r\nThe percentage of a systemically absorbed rectal dose of acetaminophen is inconsistent, demonstrated by major differences in the bioavailability of acetaminophen after a dose administered rectally. Higher rectal doses or an increased frequency of administration may be used to attain blood concentrations of acetaminophen similar to those attained after oral acetaminophen administration.[Label] ",
+    "metabolism": "Acetaminophen is the major metabolite of _phenacetin_ and _acetanilid_.[F4124] Acetaminophen is mainly metabolized in the liver by first-order kinetics and its metabolism of comprised of 3 pathways: conjugation with glucuronide, conjugation with sulfate, and oxidation through the cytochrome P450 enzyme pathway, mainly CYP2E1, to produce a reactive metabolite (N-acetyl-p-benzoquinone imine or NAPQI). At normal therapeutic doses, NAPQI undergoes fast conjugation with glutathione and is subsequently metabolized to produce both cysteine and mercapturic acid conjugates.[Label]\r\n\r\nHigh doses of acetaminophen (overdoses) can lead to hepatic necrosis due to the depletion of glutathione and of binding of high levels of reactive metabolite (NAPQI) to important parts of liver cells. The abovementioned damage to the liver can be prevented by the early administration of sulfhydryl compounds, for example, methionine and N-acetylcysteine.[A35814]",
+    "toxicity": "LD50 = 338 mg/kg (oral, mouse); LD50 = 1944 mg/kg (oral, rat)[F4133]\r\n\r\n**Overdose and liver toxicity** \r\n\r\nAcetaminophen overdose may be manifested by renal tubular necrosis, hypoglycemic coma, and thrombocytopenia. Sometimes, liver necrosis can occur as well as liver failure. Death and the requirement of a liver transplant may also occur.[Label] Metabolism by the CYP2E1 pathway releases a toxic acetaminophen metabolite known as _N-acetyl-p-benzoquinoneimine_(NAPQI). The toxic effects caused by this drug are attributed to NAPQI, not acetaminophen alone.[F4133]\r\n\r\n**Carcinogenesis**\r\n\r\nLong-term studies in mice and rats have been completed by the National Toxicology Program to study the carcinogenic risk of acetaminophen. In 2-year feeding studies, F344/N rats and B6C3F1 mice consumed a diet containing acetaminophen up to 6,000 ppm. Female rats showed evidence of carcinogenic activity demonstrated by a higher incidence of mononuclear cell leukemia at doses 0.8 times the maximum human daily dose (MHDD). No evidence of carcinogenesis in male rats (0.7 times) or mice (1.2 to 1.4 times the MHDD) was noted.[Label] The clinical relevance of this finding in humans is unknown.\r\n\r\n**Mutagenesis**\r\n\r\nAcetaminophen was not found to be mutagenic in the bacterial reverse mutation assay (Ames test). Despite this finding, acetaminophen tested positive in the in vitro mouse lymphoma assay as well as the in vitro chromosomal aberration assay using human lymphocytes. In published studies, acetaminophen has been reported to be clastogenic (disrupting chromosomes) when given a high dose of 1,500 mg/kg/day to the rat model (3.6 times the MHDD). No clastogenicity was observed at a dose of 750 mg/kg/day (1.8 times the MHDD), indicating that this drug has a threshold before it may cause mutagenesis.[Label] The clinical relevance of this finding in humans is unknown.\r\n\r\n**Impairment of Fertility**\r\n\r\nIn studies conducted by the National Toxicology Program, fertility assessments have been performed in Swiss mice in a continuous breeding study. No effects on fertility were seen.[Label] \r\n\r\n**Use in pregnancy and nursing**\r\n\r\nThe FDA label for acetaminophen considers it a pregnancy category C drug, meaning this drug has demonstrated adverse effects in animal studies. No human clinical studies in pregnancy have been done to this date for intravenous acetaminophen.[Label] Use acetaminophen only when necessary during pregnancy.[Label] Epidemiological data on oral acetaminophen use in pregnant women demonstrate no increase in the risk of major congenital malformations.[Label] While prospective clinical studies examining the results of nursing with acetaminophen use have not been conducted, acetaminophen is found secreted in human milk at low concentrations after oral administration. Data from more than 15 nursing mothers taking acetaminophen was obtained, and the calculated daily dose of acetaminophen that reaches the infant is about 1 to 2% of the maternal dose. Caution should be observed when acetaminophen is taken by a nursing woman.[Label]",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "PTGES3",
+            "Prostaglandin E synthase 3",
+            "Humans"
+        ],
+        [
+            "TRPV1",
+            "Transient receptor potential cation channel subfamily V member 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferase 1-6",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ],
+        [
+            "SULT1A1",
+            "Sulfotransferase 1A1",
+            "Humans"
+        ],
+        [
+            "SULT1A3",
+            "Sulfotransferase 1A3/1A4",
+            "Humans"
+        ],
+        [
+            "NAT2",
+            "Arylamine N-acetyltransferase 2",
+            "Humans"
+        ],
+        [
+            "FAAH",
+            "Fatty-acid amide hydrolase 1",
+            "Humans"
+        ],
+        [
+            "GSTP1",
+            "Glutathione S-transferase P",
+            "Humans"
+        ],
+        [
+            "GSTM1",
+            "Glutathione S-transferase Mu 1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,96 @@
+{
+    "pharmgkb_id": "PA448419",
+    "drugbank_id": "DB00415",
+    "names": [
+        "Ampicillin",
+        "Austrapen",
+        "Binotal",
+        "Penbritin",
+        "Principen",
+        "Redicilin",
+        "Semicillin",
+        "Tokiocillin",
+        "Ultrabion",
+        "Viccillin"
+    ],
+    "description": "Ampicillin is a semi-synthetic derivative of penicillin that functions as an orally active broad-spectrum antibiotic.",
+    "indication": "For treatment of infection (Respiratory, GI, UTI and meningitis) due to E. coli, P. mirabilis, enterococci, Shigella, S. typhosa and other Salmonella, nonpenicillinase-producing N. gononhoeae, H. influenzae, staphylococci, streptococci including streptoc",
+    "pharmacodynamics": "Ampicillin is a penicillin beta-lactam antibiotic used in the treatment of bacterial infections caused by susceptible, usually gram-positive, organisms. The name \"penicillin\" can either refer to several variants of penicillin available, or to the group of antibiotics derived from the penicillins. Ampicillin has <i>in vitro</i> activity against gram-positive and gram-negative aerobic and anaerobic bacteria. The bactericidal activity of Ampicillin results from the inhibition of cell wall synthesis and is mediated through Ampicillin binding to penicillin binding proteins (PBPs). Ampicillin is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended spectrum beta-lactamases.",
+    "mechanism-of-action": "By binding to specific penicillin-binding proteins (PBPs) located inside the bacterial cell wall, Ampicillin inhibits the third and last stage of bacterial cell wall synthesis. Cell lysis is then mediated by bacterial cell wall autolytic enzymes such as autolysins; it is possible that Ampicillin interferes with an autolysin inhibitor.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "pbp2a",
+            "Penicillin-binding protein 2a",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "pbp1b",
+            "Penicillin-binding protein 1b",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "pbp3",
+            "Penicillin-binding protein 3",
+            "Streptococcus pneumoniae"
+        ],
+        [
+            "pbpA",
+            "Penicillin-binding protein 1A",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "penA",
+            "Penicillin-binding protein 2B",
+            "Streptococcus pneumoniae (strain ATCC BAA-255 / R6)"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "TEK",
+            "Angiopoietin-1 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLC16A1",
+            "Monocarboxylate transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

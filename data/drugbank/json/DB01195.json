@@ -1,0 +1,80 @@
+{
+    "pharmgkb_id": "PA449646",
+    "drugbank_id": "DB01195",
+    "names": [
+        "Flecainide",
+        "Almarytm",
+        "Apocard"
+    ],
+    "description": "Flecainide is a Class I anti-arrhythmic agent like [encainide] and [propafenone].[A186880] Flecainide\u2019s development began in 1966 and was first synthesized in 1972 as an attempt to generate new anesthetics.[A186931] It is used to prevent supraventricular and ventricular arrhythmias, as well as paroxysmal atrial fibrillation and flutter.[L8878,L5056]\r\n\r\nFlecainide was granted FDA approval on 31 October 1985.[L8875]",
+    "indication": "In New Zealand and America, flecainide is indicated to prevent supraventricular arrhythmias and ventricular arrhythmias.[L8878] In the United States, it is also indicated to prevent paroxysmal atrial fibrillation and flutter.[A186886,L5056]",
+    "pharmacodynamics": "Flecainide inhibits the action of sodium and potassium ion channels in the heart, raising the threshold for depolarization and correcting arrhythmias.[A186931] Flecainide has a long duration of action, allowing for once daily dosing.[L8878] The therapeutic index is narrow.[A37372] Patients should not take this medication if there is already structural heart disease or left ventricular systolic dysfunction.[L8878]",
+    "mechanism-of-action": "Flecainide blocks fast inward sodium channels and slowly unbinds during diastole, prolonging the refractory period of the heart.[A186931] This blockade also shortens the duration of action potentials through the Purkinjie fibers.[A186931] Flecainide also prevents delayed rectifier potassium channels from opening, lengthening the action potential through ventricular and atrial muscle fibers.[A186931] Finally, flecainide also blocks ryanodine receptor opening, reducing calcium release from sarcoplasmic reticulum, which reduces depolarization of cells.[A186931]",
+    "absorption": "Oral flecainide has a T<sub>max</sub> of 3-4h and a bioavialability of 90%.[A186853,A186931] Taking flecainide with food or aluminum hydroxide antacids do not significantly affect the absorption of flecainide.[A186853,L8878,L5056]",
+    "metabolism": "Flecainide is mainly metabolized to meta-O-dealkylated flecainide or the meta-O-dealkylated lactam of flecainide.[A186853] Meta-O-dealkylated flecainide has 20% the activity of flecainide.[A186853] Both of these metabolites are generally detected as glucuronide or sulfate conjugates.[A186853] Flecainide\u2019s metabolism involves the action of CYP2D6 and CYP1A2.[L5056,A186931]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is 1346mg/kg and in mice is 170mg/kg.[L8923] The subcutaneous LD<sub>50</sub> in rats is 215mg/kg and in mice is 188mg/kg.[L8923] The oral TDLO in women is 20mg/kg and in men is 40mg/kg/2W.[L8923]\r\n\r\nPatients experiencing an overdose may present with ECG abnormalities such as a lengthened PR interval, increased QRS duration, prolonged QT interval, increased amplitude of the T wave, reduced myocardial rate and contractility, hypotension, or death.[L8878,L5056] Treat patients with symptomatic and supportive treatment which may involve administration of inotropic agents, assisted respiration, circulatory assistance, and acidification of the urine.[L8878,L5056] Hemodialysis is not expected to be useful in the removal of flecainide from serum.[A186853,L5056]",
+    "targets": [
+        [
+            "SCN4A",
+            "Sodium channel protein type 4 subunit alpha",
+            "Humans"
+        ],
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "RYR2",
+            "Ryanodine receptor 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

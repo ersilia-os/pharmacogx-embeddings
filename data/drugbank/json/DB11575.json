@@ -1,0 +1,58 @@
+{
+    "pharmgkb_id": "PA166163437",
+    "drugbank_id": "DB11575",
+    "names": [
+        "Grazoprevir"
+    ],
+    "description": "Grazoprevir is a direct acting antiviral medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as Grazoprevir. Grazoprevir is an inhibitor of NS3/4A, a serine protease enzyme, encoded by HCV genotypes 1 and 4 [synthesis]. These enzymes are essential for viral replication and serve to cleave the virally encoded polyprotein into mature proteins like NS3, NS4A, NS4B, NS5A and NS5B [FDA Label]. The barrier for develoment of resistance to NS3/4A inhibitors is lower than that of NS5B inhibitors, another class of DAAs [A19593]. Subtitutions at amino acid positions 155, 156, or 168 are known to confer resistance. The substitutions of the enzyme's catalytic triad consisting of H58, D82, and S139 are also likely to alter the affinity of the drug for NS3/4A or the activity of the enzyme itself. Despite this disadvantage Grazoprevir is still effective against HCV particularly when paired with [DB11574].\r\n\r\nIn a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) recommend Grazoprevir as first line therapy in combination with [DB11574] for genotypes 1a, 1b, and 4 of Hepatitis C [A19593]. Grazoprevir and [DB11574] are used with or without [DB00811] with the intent to cure, or achieve a sustained virologic response (SVR), after 12 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [A19626].\r\n\r\nGrazoprevir is available as a fixed dose combination product with [DB11574] (tradename Zepatier) used for the treatment of chronic Hepatitis C. Approved in January 2016 by the FDA, Zepatier is indicated for the treatment of HCV genotypes 1 and 4 with or without [DB00811] depending on the the presence of resistance associated amino acid substitutions in the NS5A protein and previous treatment failure with [DB00811], [DB00008], [DB00022], or other NS3/4A inhibitors like [DB08873], [DB06290], or [DB05521] [FDA Label]. When combined together, Grazoprevir and [DB11574] as the combination product Zepatier have been shown to achieve a SVR between 94% and 97% for genotype 1 and 97% and 100% for genotype 4 after 12 weeks of treatment [L852]. It can be used in patients with compensated cirrhosis, human immunodeficiency virus co-infection, or severe kidney disease.",
+    "indication": "Grazoprevir is indicated in combination with [DB11574] (as the fixed dose combination product Zepatier) with or without [DB00811] for treatment of chronic HCV genotypes 1a, 1b, or 4 infection in adults. ",
+    "pharmacodynamics": "Grazoprevir is classified as a direct-acting antiviral (DAA) and prevents viral replication in HCV genotypes 1a, 1b, and 4 [FDA Label].",
+    "mechanism-of-action": "Grazoprevir is a second generation NS3/4a protease inhibitor used to inhibit viral HCV replication. NS3/4a protease is an integral part of viral replication and mediates the cleavage the virally encoded polyprotein to mature proteins (NS3, NS4A, NS4B, NS5A and NS5B) [FDA Label]. Grazoprevir inhibits the NS3/4protease enzymes of HCV genotype 1a, 1B, and 4 with IC50 values of 7pM, 4pM, and 62pM, respectively.",
+    "absorption": "Grazoprevir reaches peak plasma concentration 0.5-3 hours after administration [FDA Label]. Grazoprevir has an absolute bioavailability of 27%. When taken with food the peak concentration of Grazoprevir increases 2.8 fold but this increase in exposure has not been deemed clinically relevant.",
+    "metabolism": "Grazoprevir is partially eliminated by oxidative metabolism meditated by CYP3A [FDA Label]. No circulating metabolites of have been detected in human plasma.\r\n",
+    "toxicity": "The most commonly reported adverse reactions of all intensity (greater than or equal to 5% in placebo-controlled trials) were fatigue, headache, and nausea [FDA Label].",
+    "targets": [
+        [
+            "NS3/4A",
+            "NS3/4A protein",
+            "Hepatitis C Virus"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

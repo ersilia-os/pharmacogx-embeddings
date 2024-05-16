@@ -1,0 +1,231 @@
+{
+    "pharmgkb_id": "PA451791",
+    "drugbank_id": "DB00726",
+    "names": [
+        "Trimipramine",
+        "Herphonal",
+        "Sapilent",
+        "Stangyl",
+        "Trimidura",
+        "Trimineurin",
+        "Tripress",
+        "Tydamine"
+    ],
+    "description": "Tricyclic antidepressant similar to imipramine, but with more antihistaminic and sedative properties.",
+    "indication": "For the treatment of depression and depression accompanied by anxiety, agitation or sleep disturbance",
+    "pharmacodynamics": "Trimipramine is a tricyclic antidepressant. It was thought that tricyclic antidepressants work by inhibiting the re-uptake of the neurotransmitters norepinephrine and serotonin by nerve cells. However, this response occurs immediately, yet mood does not lift for around two weeks. It is now thought that changes occur in receptor sensitivity in the cerebral cortex and hippocampus. The hippocampus is part of the limbic system, a part of the brain involved in emotions. Presynaptic receptors are affected: a1 and b1 receptors are sensitized, a2 receptors are desensitised (leading to increased noradrenaline production). Tricyclics are also known as effective analgesics for different types of pain, especially neuropathic or neuralgic pain. A precise mechanism for their analgesic action is unknown, but it is thought that they modulate anti-pain opioid systems in the CNS via an indirect serotonergic route. They are also effective in migraine prophylaxis, but not in abortion of acute migraine attack. The mechanism of their anti-migraine action is also thought to be serotonergic.",
+    "mechanism-of-action": "Trimipramine's mechanism of action differs from other tricyclic antidepressants. Trimipramine acts by decreasing the reuptake of norepinephrine and serotonin (5-HT).",
+    "absorption": "Rapid absorption",
+    "metabolism": "Hepatic",
+    "toxicity": "Side effects include agitation, coma, confusion, convulsions, dilated pupils, disturbed concentration, drowsiness, hallucinations, high fever, irregular heart rate, low body temperature, muscle rigidity, overactive reflexes, severely low blood pressure, stupor, vomiting",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1D",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "D(1) dopamine receptor",
+            "Humans"
+        ],
+        [
+            "DRD5",
+            "D(1) dopamine receptor",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "Htr2c",
+            "5-hydroxytryptamine receptor 1C",
+            "Rat"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00726",
+            "Drug Name": "Trimipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs35742686",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with poor metabolism of trimipramine."
+        },
+        {
+            "DrugBank ID": "DB00726",
+            "Drug Name": "Trimipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with poor metabolism of trimipramine."
+        },
+        {
+            "DrugBank ID": "DB00726",
+            "Drug Name": "Trimipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with poor metabolism of trimipramine."
+        },
+        {
+            "DrugBank ID": "DB00726",
+            "Drug Name": "Trimipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with poor metabolism of trimipramine."
+        },
+        {
+            "DrugBank ID": "DB00726",
+            "Drug Name": "Trimipramine",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with poor metabolism of trimipramine."
+        },
+        {
+            "DrugBank ID": "DB00726",
+            "Drug Name": "Trimipramine",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with reduced or poor metabolism of trimipramine."
+        },
+        {
+            "DrugBank ID": "DB00726",
+            "Drug Name": "Trimipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1135824",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with poor metabolism of trimipramine."
+        },
+        {
+            "DrugBank ID": "DB00726",
+            "Drug Name": "Trimipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs28371733",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with poor metabolism of trimipramine."
+        }
+    ]
+}

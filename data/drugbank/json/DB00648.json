@@ -1,0 +1,85 @@
+{
+    "pharmgkb_id": "PA164746157",
+    "drugbank_id": "DB00648",
+    "names": [
+        "Mitotane",
+        "Lisodren",
+        "Opeprim"
+    ],
+    "description": "Mitotane is an adrenolytic isomer of the insecticide dichlorodiphenyldichloroethane (DDD) - itself a metabolite of dichlorodiphenyltrichloroethane (DDT) - that inhibits cells of the adrenal cortex and their production of hormones. It has been in use since 1959 for the treatment of inoperable adrenocortical carcinoma[A263010] and is used off-label for the management of Cushing's syndrome.[A263016]",
+    "indication": "Mitotane is indicated for the treatment of inoperable, functional or nonfunctional, adrenocortical carcinoma.[L49570]",
+    "pharmacodynamics": "The administration of mitotane alters the peripheral metabolism of steroids, leading to a reduction in plasma 17-hydroxycorticosteroids and an increase in 6-\u03b2-hydroxycortisol in addition to normal corticosteroid levels.[L49570]",
+    "mechanism-of-action": "The mechanism of action of mitotane is unknown, although data are available to suggest that the drug modifies the peripheral metabolism of steroids as well as directly suppressing the adrenal cortex.[L49570] The specificity of mitotane towards the adrenal cortex may derive from the metabolic transformation to its active form via an enzyme system unique to the adrenal cortex tissue.[A263010]",
+    "absorption": "The bioavailability of mitotane following oral administration is 40%.[L49570]",
+    "metabolism": "Mitotane undergoes extensive metabolism - both hepatic and extrahepatic - and no unchanged parent drug is excreted in the bile or urine.[L49570] The major circulating metabolite of mitotane is 1,1-(o,p'-dichlorodiphenyl) acetic acid (o,p\u2019-DDA).[L49570]",
+    "toxicity": "Overdosage with mitotane can occur when plasma levels are above 20 mg/L.[L49570] Symptoms can include central nervous system toxicity, including sedation, lethargy, and vertigo, as well as muscular weakness and gait disturbance.[L49570] Mitotane is lipophilic and may therefore take weeks to adequately clear from a patient. It is unlikely to be dialyzable. In the event of a suspected overdose, consider increasing the frequency of mitotane plasma level monitoring. Withhold mitotane as clinically indicated for signs or symptoms of toxicity.[L49570]",
+    "targets": [
+        [
+            "CYP11B1",
+            "Cytochrome P450 11B1, mitochondrial",
+            "Humans"
+        ],
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ],
+        [
+            "PGR",
+            "Progesterone receptor",
+            "Humans"
+        ],
+        [
+            "AR",
+            "Androgen receptor",
+            "Humans"
+        ],
+        [
+            "FDX1",
+            "Adrenodoxin, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "SERPINA7",
+            "Thyroxine-binding globulin",
+            "Humans"
+        ],
+        [
+            "SHBG",
+            "Sex hormone-binding globulin",
+            "Humans"
+        ],
+        [
+            "SERPINA6",
+            "Corticosteroid-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

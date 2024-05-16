@@ -1,0 +1,83 @@
+{
+    "pharmgkb_id": "PA166268841",
+    "drugbank_id": "DB12597",
+    "names": [
+        "Asciminib",
+        "Scemblix"
+    ],
+    "description": "Asciminib is a tyrosine kinase inhibitor (TKI) used in the treatment of chronic-phase Philadelphia chromosome-positive chronic myeloid leukemia (Ph+ CML). More specifically, it is an inhibitor of the ABL1 kinase activity of the BCR-ABL1 fusion protein[L38995] which serves as a driver of CML proliferation in most patients with the disease.[L39005] It has also shown benefit in Ph+ CML with the T315I mutation, which produces a mutant BCR-ABL1 which is typically treatment-resistant as compared to wild-type BCR-ABL1.\r\n\r\nExisting inhibitors of ABL compete at the ATP binding sites of these proteins and can be classified into those that target the active conformation of the kinase domain ([dasatinib], [bosutinib]) and those that target the inactive kinase domain ([imatinib], [nilotinib], [ponatinib]).[A241065] Asciminib is unique in that it acts as an allosteric inhibitor, binding at the myristoyl pocket of the BCR-ABL1 protein and locking it into an inactive conformation.[L38995,A241055]\r\n\r\nAsciminib received FDA approval on October 29, 2021 (Scemblix, Novartis AG).[L39000]",
+    "indication": "Asciminib is indicated for the treatment of adult patients with Philadelphia chromosome-positive chronic myeloid leukemia (Ph+ CML) in chronic phase who have been previously treated with \u22652 tyrosine kinase inhibitors.[L38995,L43493] It is also indicated in the treatment of Ph+ CML in adult patients with the T315I mutation.[L38995]",
+    "pharmacodynamics": "Asciminib exerts its therapeutic activity by inhibiting an oncogenic protein responsible for the proliferation of CML. It may be administered orally once or twice a day depending on the condition being treated. By increasing the total daily dose 5-fold as compared to standard therapy (80mg daily vs. 400mg daily), it can be used to treat Ph+ CML with the T315I mutation, a typically treatment-resistant variant of the disease.[L38995]\r\n\r\nAs with many other chemotherapeutic agents, asciminib treatment can result in various forms of myelosuppression, including thrombocytopenia and neutropenia.[L38995] Patients should receive frequent laboratory monitoring throughout therapy and dose adjustments may be required based on the severity of observed effects. Patients may also experience pancreatic and/or cardiovascular toxicity, both of which require frequent monitoring and may require dose adjustments as per prescribing information.[L38995]",
+    "mechanism-of-action": "In most patients with chronic myeloid leukemia (CML),[L39005] progression of the disease is driven primarily by a translocation of the Philadelphia chromosome that creates an oncogenic fusion gene, _BCR-ABL1_, between the _BCR_ and _ABL1_ genes.[A241060] This fusion gene produces a resultant fusion protein, BCR-ABL1, which exhibits elevated tyrosine kinase and transforming activities that contribute to CML proliferation.[A241065]\r\n\r\nAsciminib is an allosteric inhibitor of the BCR-ABL1 tyrosine kinase.[L38995] It binds to the myristoyl pocket of the ABL1 portion of the fusion protein and locks it into an inactive conformation, preventing its oncogenic activity.[L38995,A241055]",
+    "absorption": "The median T<sub>max</sub> of asciminib following oral administration is 2.5 hours.[L38995] At a dose of 80mg once daily, the steady-state C<sub>max</sub> and AUC<sub>tau</sub> were 1781 ng/mL and 15112 ng.h/mL, respectively. At a dose of 40mg twice daily, the steady-state C<sub>max</sub> and AUC<sub>tau</sub> were 793 ng/mL and 5262 ng.h/mL, respectively. At a dose of 200mg twice daily (for treatment of T315I mutants), the steady-state C<sub>max</sub> and AUC<sub>tau</sub> were 5642 ng/mL and 37547 ng.h/mL, respectively.[L38995]\r\n\r\nAs compared to the fasted state, the co-administration of asciminib with a high-fat meal decreased the AUC and C<sub>max</sub> by 62% and 68%, respectively, and its co-administration with a low-fat meal decreased the AUC and C<sub>max</sub> by 30% and 35%, respectively.[L38995]",
+    "metabolism": "Asciminib is negligibly metabolized, with unchanged parent drug comprising the main drug component in plasma (~93%) and following excretion (~57% in feces).[L38995] The main circulating metabolites are M30.5, M44, and M29.5, accounting for approximately 5%, 2%, and 0.4% of the total administered dose, respectively.[A241035] The oxidative metabolism of asciminib is mediated by CYP3A4, and the glucuronidation of asciminib is mediated by UGT2B7 and UGT2B17.[L38995]",
+    "toxicity": "There are no data regarding overdosage with asciminib. The effects associated with overdosage are likely to be consistent with the adverse effect profile of asciminib, and may therefore include significant hematological abnormalities and/or gastrointestinal effects, amongst others.[L38995]",
+    "targets": [
+        [
+            "ABL1",
+            "Tyrosine-protein kinase ABL1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT2B17",
+            "UDP-glucuronosyltransferase 2B17",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

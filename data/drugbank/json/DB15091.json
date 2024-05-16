@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA166189803",
+    "drugbank_id": "DB15091",
+    "names": [
+        "Upadacitinib"
+    ],
+    "description": "Upadacitinib is an oral Janus kinase (JAK)1-selective inhibitor and a disease-modifying antirheumatic drug (DMARD) used in the treatment of rheumatoid arthritis to slow down disease progression. Rheumatoid arthritis is a chronic autoimmune inflammatory disease affecting the peripheral joints. It is characterized by synovial inflammation and hyperplasia, autoantibody production, cartilage damage and bone destruction, leading to co-morbidities.[A189165] Despite a variety of therapeutic agents available for treatment, up to 40% of the patients do not respond to current therapies, including biological therapies.[A189171] The etiology of the disease is mostly unknown; however, the role of JAK as a driver of immune-mediated conditions was discovered, leading to the use of JAK as therapeutic targets for rheumatoid arthritis.[A189168] To reduce dose-related toxicity (as seen with some pan-JAK inhibitors) without significantly affecting efficacy, more selective JAK1 inhibitors, upadacitinib and [filgotinib], were developed.[A189165]\r\n\r\nThe FDA approved upadacitinib in August 2019 and it is used for the treatment of active rheumatoid arthritis, psoriatic arthritis, atopic dermatitis, ulcerative colitis, and ankylosing spondylitis.[L10896] In December 2019, it was additionally approved by the European Commission and Health Canada.[L10899,L42540] Upadacitinib is marketed under the brand name RINVOQ for oral administration.[L10896]",
+    "indication": "Upadacitinib is indicated for the treatment of moderately to severely active **rheumatoid arthritis** or active **psoriatic arthritis** in adult patients who have had an inadequate response or intolerance to one or more disease-modifying anti-rheumatic drugs (DMARDs), such as TNF blockers.[L10896, L39474] In Europe, upadacitinib may be used as monotherapy or in combination with [methotrexate] for rheumatoid or psoriatic arthritis.[L39474] \r\n\r\nUpadacitinib is indicated for use in patients 12 years of age and older with refractory, moderate-to-severe **atopic dermatitis** whose disease is inadequately controlled with other systemic therapies or when other therapies are inadvisable.[L10896,L39474]\r\n\r\nUpadacitinib is indicated for the treatment of active **ankylosing spondylitis** or radiographic axial spondyloarthritis in adult patients who have an inadequate response to conventional therapy.[L10896,L39474] It is also indicated to treat non-radiographic axial spondyloarthritis with objective signs of inflammation in adults who have had an inadequate response or intolerance to TNF blocker therapy.[L10896]\r\n\r\nUpadacitinib is also indicated to treat moderately to severely active **ulcerative colitis** in adults who have had an inadequate response or intolerance to either conventional therapy or a biologic agent,[L39474] such as to one or more TNF blockers.[L10896]\r\n\r\nUpadacitinib is indicated to treat moderately to severely active Crohn\u2019s disease in adults who have had an inadequate response or intolerance to one or more TNF blockers.[L46486,L39474]\r\n\r\nCombining upadacitinib with other JAK inhibitors, biologic DMARDs, or other potent immunosuppressive agents is not recommended.[L10896]",
+    "pharmacodynamics": "Upadacitinib is a DMARD that works by inhibiting the Janus Kinases (JAKs), which are essential downstream cell signalling mediators of pro-inflammatory cytokines. It is believed that these pro-inflammatory cytokines play a role in many autoimmune inflammatory conditions, such as rheumatoid arthritis.[A189171] In clinical trials, upadacitinib decreased the activity of pro-inflammatory interleukins, transiently increased the levels of lymphocytes, and insignificantly decreased the levels of immunoglobulins from the baseline.[L10896]",
+    "mechanism-of-action": "Rheumatoid arthritis (RA) is a chronic autoimmune inflammatory disease that involves the interplay of several mediators, including the immune cells (mainly T- and B-lymphocytes) and pro-inflammatory cytokines, such as the tumour necrosis factor (TNF), transforming growth factor (TGF), and interleukin 6 (IL-6).[A189165] The Janus Kinase (JAK) family plays an essential role in the normal physiological functions (such as erythropoiesis), but also the signalling of pro-inflammatory cytokines that are implicated in many immune-mediated diseases.[A189168] The JAK family consists of four isoforms (JAK1, JAK2, JAK3, and Tyrosine Kinase 2) that each interacts with different cytokine receptors and uniquely associates with the intracellular domains of Type I/II cytokine receptors.[A189168] JAK1 is primarily involved in the signalling transduction pathways of IL-6, IFN and the common \u03b3 -chain cytokines, including IL-2 and IL-15.[A189180] IL-6 has been closely studied in particular, as it is a major cytokine involved in B- and T-cell differentiation and the acute phase response in inflammation.[A189177]\r\n\r\nUpon interaction of cytokines with their cytokine receptors, the JAKs mediate the JAK-STAT signal transduction pathway in response to receptor activation. JAKs are tyrosine kinases that cause phosphorylation of several proteins, including cytokine receptors and JAKs themselves. Phosphorylation of JAKs promotes the phosphorylation and activation of the signalling molecules called STATs, leading to their nuclear translocation, binding to DNA promoters, and target gene transcription. JAK1-mediated signalling pathways ultimately promote pro-inflammatory events, such as increased proliferation and survival of immune cells, T cell differentiation, and macrophage activation.[A189168] Upadacitinib is a selective JAK1 inhibitor that has a negligible effect on JAK3, leading to an improved drug safety profile.[A189165] Upadacitinib blocks the cellular processes that contribute to the inflammatory conditions in rheumatoid arthritis. In human leukocytes cellular assays, upadacitinib inhibited JAK1/3-induced phosphorylation of STAT3/5 mediated by IL-6/7.[L10896]",
+    "absorption": "Upadacitinib displays a dose-proportional pharmacokinetic profile over the therapeutic dose range. Following oral administration, the median time to reach Cmax (Tmax) ranges from 2 to 4 hours. The steady-state plasma concentrations of upadacitinib are reached within 4 days following multiple once-daily administrations, with minimal accumulation.[L10896] Food intake has no clinically relevant effect on the AUC, Cmax, and Cmin of upadacitinib from the extended-release formulation.[A189162]",
+    "metabolism": "Upadacitinib predominantly undergoes CYP3A4-mediated metabolism;[L10896] however, upadacitinib is a nonsensitive substrate of CYP3A4.[A189162] It is also metabolized by CYP2D6 to a lesser extent.[L10896] \r\nIn a human radio-labelled study, about 79% of the total plasma radioactivity accounted for the parent drug, and about 13% of the total plasma radioactivity accounted for the main metabolite produced from mono-oxidation, followed by glucuronidation.[L10896] There are no known active metabolites of upadacitinib.[L10905]",
+    "toxicity": "There is limited clinical information on the overdose from upacitinib: in clinical trials, once-daily administration of 60 mg in extended-release formulations were well tolerated. In case of an overdose, it is recommended that the patient is monitored for signs and symptoms of adverse reactions and treated with appropriate symptomatic treatment.[L10896]\r\n\r\nThe oral LD<sub>50</sub> in rats is 14500 mg/kg.[L10911]",
+    "targets": [
+        [
+            "JAK1",
+            "Tyrosine-protein kinase JAK1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

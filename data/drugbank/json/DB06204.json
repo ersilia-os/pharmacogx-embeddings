@@ -1,0 +1,73 @@
+{
+    "pharmgkb_id": "PA166179720",
+    "drugbank_id": "DB06204",
+    "names": [
+        "Tapentadol",
+        "Palexia",
+        "TAPAL "
+    ],
+    "description": "Tapentadol is a centrally-acting synthetic analgesic with a dual mechanism of action. It is a mu-opioid receptor agonist that also inhibits norepinephrine reuptake.[A260721, A36596]\r\n\r\nTapentadol was first approved by the FDA on November 20, 2008. The extended-release formulation of tapentadol was also approved by the FDA on August 26, 2011.[L47291] Used in the management of pain, tapentadol is typically reserved for patients who have limited alternative treatment options.",
+    "indication": "Tapentadol is indicated for the management of acute pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate. Due to the risks of addiction, drug abuse, and drug misuse, tapentadol is reserved for patients for whom alternative treatment options are unavailable.[L47286, L47516, L47521]\r\n\r\nThe immediate-release tapentadol oral tablets are approved for use in patients six years and older with a body weight of at least 40 kg.[L47286] Tapentadol oral solution is used in patients aged six years and older with a body weight of at least 16 kg.[L47521] These formulations are not intended for long-term use unless the pain remains severe enough to require an opioid analgesic, for which alternative treatment options remain inadequate.\r\n\r\nThe extended-release tablets of tapentadol are indicated for the management of pain severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate. They are also indicated for the management of neuropathic pain associated with diabetic peripheral neuropathy (DPN) in adults severe enough to require daily, around-the-clock, long-term opioid treatment and for which alternative treatment options are inadequate. This formulation is not indicated as an as-needed (prn) analgesic.[L47516]",
+    "pharmacodynamics": "Tapentadol is an opioid agonist that exerts physiological effects commonly caused by the opioid drug class. These effects include miosis, reduced gastrointestinal motility, and peripheral vasodilation. Tapentadol produces respiratory depression by reducing the responsiveness of the brain stem respiratory centers to both increases in carbon dioxide tension and electrical stimulation.[L47286]\r\n\r\nTapentadol has a high potential for misuse and abuse, which can lead to the development of substance use disorder. Abuse of tapentadol poses a risk of overdose and death, which increases with alcohol or other central nervous system depressants.[L47286]",
+    "mechanism-of-action": "Tapentadol is a centrally-acting synthetic analgesic. Although their clinical relevance is unclear, tapentadol is believed to have two main mechanisms of action.[L47286] Tapentadol is a selective mu-opioid receptor (MOR) agonist: it binds to MOR with an affinity greater than or equal to ten-fold affinity compared to delta- and kappa-opioid receptors.[A36596] Tapentadol also inhibits noradrenaline reuptake, thereby increasing noradrenaline levels and activating alpha-2 receptors to promote analgesia.[A36596, A260731] Tapentadol is a weak serotonin reuptake inhibitor; however, this action does not contribute to its analgesic effect.[A36596]",
+    "absorption": "The mean absolute bioavailability after single-dose administration of tapentadol in a fasted state is approximately 32% due to extensive first-pass metabolism. Maximum serum concentrations of tapentadol are typically observed at around 1.25 hours after dosing. Dose-proportional increases in the Cmax and AUC values of tapentadol have been observed over the 50 to 150 mg dose range. A multiple (every 6 hours) dose study with doses ranging from 75 to 175 mg tapentadol showed a mean accumulation factor of 1.6 for the parent drug and 1.8 for the major metabolite tapentadol- O-glucuronide, which are primarily determined by the dosing interval and apparent half-life of tapentadol and its metabolite.[L47286]\r\n\r\nThe AUC and Cmax increased by 25% and 16%, respectively, when tapentadol was administered after a high-fat, high-calorie breakfast. Tapentadol may be given with or without food.[L47286]",
+    "metabolism": "In humans, about 97% of the parent compound is metabolized. Tapentadol is mainly metabolized by Phase II pathways, and only a small amount is metabolized by Phase I oxidative pathways; thus, drug metabolism mediated by cytochrome P450 system is of less importance than phase II conjugation.[L47286] The major pathway of tapentadol metabolism is conjugation with glucuronic acid to produce glucuronides.[A260716, L47286] After oral administration, approximately 70% of the drug, of which 55% is the O-glucuronide metabolite and 15% is the sulfate metabolite, is excreted in urine. About 3% of the dose was excreted in urine as the unchanged parent drug.[L47286]\r\n\r\nTapentadol can also undergo CYP2C9- and CYP2C19-mediated demethylation to form N-desmethyl tapentadol, which accounts for 13% of the dose. About 2% of tapentadol can also undergo CYP2D6-mediated hydroxylation to form Hydroxy tapentadol. N-desmethyl tapentadol and Hydroxy tapentadol can further be glucuronidated. Metabolites of tapentadol do not contribute to the pharmacological activity of tapentadol.[A260716, L47286]",
+    "toxicity": "Intraperitoneal lowest published toxic dose (TDLO) is 10 mg/kg in rats.[L47531]\r\n\r\nAcute overdosage with tapentadol is characterized by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death. Marked mydriasis rather than miosis may be seen due to severe hypoxia in overdose situations.[L47286]\r\n\r\nTapentadol overdose is managed by reestablishing a patent and protected airway and using assisted or controlled ventilation if needed. Other supportive measures can manage circulatory shock and pulmonary edema. Cardiac arrest or arrhythmias will require advanced life-support measures.[L47286]\r\n\r\nOpioid antagonists, such as [naloxone], are specific antidotes to respiratory depression resulting from opioid overdose. They should be administered, in multiple doses, depending on patient response. As administration of the recommended usual dosage of the opioid antagonist will precipitate an acute withdrawal syndrome in individuals with physical dependence on opioids, administration of the opioid antagonist should be initiated with care and by titration with smaller than usual doses.[L47286]",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

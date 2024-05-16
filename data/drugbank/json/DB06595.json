@@ -1,0 +1,126 @@
+{
+    "pharmgkb_id": "PA166169917",
+    "drugbank_id": "DB06595",
+    "names": [
+        "Midostaurin"
+    ],
+    "description": "Midostaurin (as Rydapt) is a multitarget kinase inhibitor for the treatment for adult patients with newly diagnosed acute myeloid leukemia (AML) who have a specific genetic mutation called FLT3. It was initially characterized as a potential broad-spectrum antineoplastic agent, with activity toward diverse solid and hematopoietic tumors [A19108]. It was approved on April 28, 2017 and has shown to increase the overall survival rate in patients with AML as an adjunct therapy along with chemotherapeutic agents.",
+    "indication": "Investigated for use/treatment in adult patients with high-risk acute myeloid leukemia (AML) who are FLT3 mutation-positive, agressive systemic mastocytosis (ASM), systemic mastocytosis with associated hematological neoplasm (SM-AHN), or mast cell leukemia (MCL). ",
+    "pharmacodynamics": "It targets multiple WT and mutated kinases that, when activated, constitutively stimulate aberrant signalling cascades that lead to malignancies such as AML and ASM.  Alternative pharmacodynamic effect of midostaurin in prolonging QTc intervals was not clinically significant in patients with advanced SM or AML when compared to placebo. Midostaurin is therapeutically beneficial as a combination therapy for patients undergoing chemotherapy. ",
+    "mechanism-of-action": "It potently inhibits multiple receptor tyrosine kinases. Midostaurin and its major active metabolites CGP62221 and CGP52421 inhibit the activity of protein kinase C alpha (PKCalpha), VEGFR2, KIT, PDGFR and WT and/or mutant FLT3 tyrosine kinases. Inhibition of FLT3 receptor signalling cascades induces apoptosis of target leukemia cells expressing target receptors and mast cells, in addition to its antiproliferative activity toward multiple cancer cell lines [A19108]. \r\nMidostaurin also interacts with organic anion transporter (OATP) 1A1 and multidrug resistance protein (MRP)-2 according to preliminary in vitro studies.",
+    "absorption": "The time to reach maximum concentration ranges from 1-3 hrs in fasting patients. The maximum concentration and the time it takes to reach this concentration is reduced up to 20% in presence of a standard meal. ",
+    "metabolism": "Midostaurin is primarily metabolized into CGP62221 and CGP52421 via hepatic CYP3A4 enzymatic activity. The metabolism of CGP62221 takes place initially in a linear relationship whereas CGP52421 formation is an inducible process [A19109]. ",
+    "toxicity": "In a fertility study involving female and male rats, there is evidence of reproductive toxicity including reduced sperm count and decline pregnancy rates when administering 0.01 to 0.1 times the recommended dose in humans. LD50 for oral midostaurin for mouse, rat and rabbit are 300mg/kg, 980mg/kg and 3200mg/kg, respectively [L744]. Incidences of pulmonary toxicities including interstitial lung disease and pneumonitis have occured in few patients undergoing midostaurin monotherapy or combination therapy. ",
+    "targets": [
+        [
+            "PRKCA",
+            "Protein kinase C alpha type",
+            "Humans"
+        ],
+        [
+            "KDR",
+            "Vascular endothelial growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "PDGFRA",
+            "Platelet-derived growth factor receptor alpha",
+            "Humans"
+        ],
+        [
+            "PDGFRB",
+            "Platelet-derived growth factor receptor beta",
+            "Humans"
+        ],
+        [
+            "FLT3",
+            "Receptor-type tyrosine-protein kinase FLT3",
+            "Humans"
+        ],
+        [
+            "KIT",
+            "Mast/stem cell growth factor receptor Kit",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A43",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,278 @@
+{
+    "pharmgkb_id": "PA448710",
+    "drugbank_id": "DB00201",
+    "names": [
+        "Caffeine",
+        "Caffedrine",
+        "Dexitac",
+        "Durvitan",
+        "Enerjets",
+        "No-Doz",
+        "Pep-Back",
+        "Quick Pep",
+        "Wake-Up"
+    ],
+    "description": "Caffeine is a drug of the methylxanthine class used for a variety of purposes, including certain respiratory conditions of the premature newborn, pain relief, and to combat drowsiness. Caffeine is similar in chemical structure to [Theophylline] and [Theobromine].[A187691,L9851] It can be sourced from coffee beans, but also occurs naturally in various teas and cacao beans, which are different than coffee beans.[T716] Caffeine is also used in a variety of cosmetic products and can be administered topically, orally, by inhalation, or by injection.[T716]\r\n\r\nThe caffeine citrate injection, used for apnea of the premature newborn, was initially approved by the FDA in 1999.[L9863] According to an article from 2017, more than 15 million babies are born prematurely worldwide. This correlates to about 1 in 10 births. Premature birth can lead to apnea and bronchopulmonary dysplasia, a condition that interferes with lung development and may eventually cause asthma or early onset emphysema in those born prematurely.[A187694] Caffeine is beneficial in preventing and treating apnea and bronchopulmonary dysplasia in newborns, improving the quality of life of premature infants.[T716]",
+    "indication": "Caffeine is indicated for the short term treatment of apnea of prematurity in infants and off label for the prevention and treatment of bronchopulmonary dysplasia caused by premature birth.[T716,L9851] In addition, it is indicated in combination with sodium benzoate to treat respiratory depression resulting from an overdose with CNS depressant drugs.[L9899] Caffeine has a broad range of over the counter uses, and is found in energy supplements, athletic enhancement products, pain relief products, as well as cosmetic products.[T716,L9854,L9872]",
+    "pharmacodynamics": "Caffeine stimulates the central nervous system (CNS), heightening alertness, and sometimes causing restlessness and agitation. It relaxes smooth muscle, stimulates the contraction of cardiac muscle, and enhances athletic performance.[A298,T716,L9857] Caffeine promotes gastric acid secretion and increases gastrointestinal motility. It is often combined in products with analgesics and ergot alkaloids, relieving the symptoms of migraine and other types of headaches. Finally, caffeine acts as a mild diuretic.[T716]",
+    "mechanism-of-action": "The mechanism of action of caffeine is complex, as it impacts several body systems, which are listed below. The effects as they relate to various body systems are described as follows:\r\n\r\n**General and cellular actions**\r\n\r\nCaffeine exerts several actions on cells, but the clinical relevance is poorly understood. One probable mechanism is the inhibition of nucleotide phosphodiesterase enzymes, adenosine receptors, regulation of calcium handling in cells, and participates in adenosine receptor antagonism.[A187721,L9857] Phosphodiesterase enzymes regulate cell function via actions on second messengers cAMP and cGMP.[A187724] This causes lipolysis through activation of hormone-sensitive lipases, releasing fatty acids and glycerol.[T722]\r\n\r\n**Respiratory**\r\n\r\nThe exact mechanism of action of caffeine in treating apnea related to prematurity is unknown, however, there are several proposed mechanisms, including respiratory center stimulation in the central nervous system, a reduced threshold to hypercapnia with increased response, and increased consumption of oxygen, among others.[L9851] The blocking of the adenosine receptors enhances respiratory drive via an increase in brain medullary response to carbon dioxide, stimulating ventilation and respiratory drive, while increasing contractility of the diaphragm.[T716]\r\n\r\n**Central nervous system**\r\n\r\nCaffeine demonstrates antagonism of all 4 adenosine receptor subtypes (A1, A2a, A2b, A3) in the central nervous system.[T716,L9851] Caffeine's effects on alertness and combatting drowsiness are specifically related to the antagonism of the A2a receptor.[T716]\r\n\r\n**Renal system**\r\n\r\nCaffeine has diuretic effects due to is stimulatory effects on renal blood flow, increase in glomerular filtration, and increase in sodium excretion.[T716]\r\n\r\n**Cardiovascular system**\r\n\r\nAdenosine receptor antagonism at the A1 receptor by caffeine stimulates inotropic effects in the heart. Blocking of adenosine receptors promotes catecholamine release, leading to stimulatory effects occurring in the heart and the rest of the body.  In the blood vessels, caffeine exerts direct antagonism of adenosine receptors, causing vasodilation. It stimulates the endothelial cells in the blood vessel wall to release nitric oxide, potentiating blood vessel relaxation. Catecholamine release, however, antagonizes this and exerts inotropic and chronotropic effects on the heart, ultimately leading to vasoconstriction. Finally, caffeine is shown to raise systolic blood pressure measurements by 5 to 10 mmHg when it is not taken regularly, versus no effect in those who consume it regularly.[T716] The vasoconstricting effects of caffeine are beneficial in migraines and other types of headache, which are normally caused by vasodilation in the brain.[A187709,L9872]",
+    "absorption": "Caffeine is rapidly absorbed after oral or parenteral administration, reaching peak plasma concentration within 30 minutes to 2 hours after administration.[A187730] After oral administration, onset of action takes place within 45 to 1 hour.[L9827] Food may delay caffeine absorption. The peak plasma level for caffeine ranges from 6-10mg/L.[L9851] The absolute bioavailability is unavailable in neonates[L9851], but reaches about 100% in adults.[T716]",
+    "metabolism": "Caffeine metabolism occurs mainly in the liver via the cytochrome CYP1A2 enzyme.[A187730] The products of caffeine metabolism include paraxanthine, theobromine, and theophylline. The first step of caffeine metabolism is demethylation, yielding paraxanthine (a major metabolite), followed by theobromine, and theophylline, which are both minor metabolites. They are then excreted in urine as urates after additional metabolism.[A187730,T716,L9851] The enzymes xanthine oxidase and N-acetyltransferase 2 (NAT2) also participate in the metabolism of caffeine.[A187730]",
+    "toxicity": "The oral LD50 of caffeine in rats is 192 mg/kg.[MSDS] An acute fatal overdose of caffeine in humans is about 10\u201314 grams (equivalent to 150\u2013200 mg/kg of body weight).[T722]\r\n\r\n**Caffeine overdose**\r\n\r\nIn the case of caffeine overdose, seizures may occur, as caffeine is a central nervous system stimulant. It should be used with extreme caution in those with epilepsy or other seizure disorders.[L9851] Symptoms of overdose may include nausea, vomiting, diarrhea, and gastrointestinal upset. Intoxication with caffeine is included in the World Health Organization\u2019s International Classification of Diseases (ICD-10).  Agitation, anxiety, restlessness, insomnia, tachycardia, tremors, tachycardia, psychomotor agitation, and, in some cases, death can occur, depending on the amount of caffeine consumed.  Overdose is more likely to occur in individuals who do not consume caffeine regularly but consume energy drinks.[A187721]\r\n\r\n**Overdose management**\r\n\r\nFor a mild caffeine overdose, offer symptomatic treatment. In the case of a severe overdose, intubation for airway protection from changes in mental status or vomiting may be needed. Activated charcoal and hemodialysis can prevent further complications of an overdose and prevent absorption and metabolism. Benzodiazepine drugs can be administered to prevent or treat seizures.  IV fluids and vasopressors may be necessary to combat hypotension associated with caffeine overdose. In addition, magnesium and beta blocking drugs can be used to treat arrhythmias that may occur, with defibrillation and resuscitation if the arrhythmias are lethal. Follow local ACLS protocols.[T716]",
+    "targets": [
+        [
+            "ADORA1",
+            "Adenosine receptor A1",
+            "Humans"
+        ],
+        [
+            "ADORA2A",
+            "Adenosine receptor A2a",
+            "Humans"
+        ],
+        [
+            "ADORA2B",
+            "Adenosine receptor A2b",
+            "Humans"
+        ],
+        [
+            "ADORA3",
+            "Adenosine receptor A3",
+            "Humans"
+        ],
+        [
+            "PDE1B",
+            "Phosphodiesterase enzymes",
+            "Humans"
+        ],
+        [
+            "PDE4D",
+            "Phosphodiesterase enzymes",
+            "Humans"
+        ],
+        [
+            "PDE3B",
+            "Phosphodiesterase enzymes",
+            "Humans"
+        ],
+        [
+            "PDE5A",
+            "Phosphodiesterase enzymes",
+            "Humans"
+        ],
+        [
+            "PDE4B",
+            "cAMP-specific 3',5'-cyclic phosphodiesterase 4B",
+            "Humans"
+        ],
+        [
+            "RYR1",
+            "Ryanodine receptor 1",
+            "Humans"
+        ],
+        [
+            "PDE1A",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE1B",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE1C",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE10A",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE4A",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE4B",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE4C",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE4D",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE7B",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE2A",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE3A",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE3B",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE5A",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE6C",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE11A",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE7A",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE8A",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE8B",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE9A",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE6A",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE6B",
+            "Cyclic nucleotide phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PRKDC",
+            "DNA-dependent protein kinase catalytic subunit",
+            "Humans"
+        ],
+        [
+            "PIK3CD",
+            "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",
+            "Humans"
+        ],
+        [
+            "PIK3CA",
+            "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+            "Humans"
+        ],
+        [
+            "PIK3CB",
+            "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform",
+            "Humans"
+        ],
+        [
+            "ITPR1",
+            "Inositol 1,4,5-trisphosphate receptor",
+            "Humans"
+        ],
+        [
+            "ITPR2",
+            "Inositol 1,4,5-trisphosphate receptor",
+            "Humans"
+        ],
+        [
+            "ITPR3",
+            "Inositol 1,4,5-trisphosphate receptor",
+            "Humans"
+        ],
+        [
+            "ATM",
+            "Serine-protein kinase ATM",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00201",
+            "Drug Name": "Caffeine",
+            "Gene Symbol": "CYP1A2",
+            "RS ID (Genotype)": "rs762551",
+            "Adverse Reaction Description": "Patients with this genotype have increased risk of a non-fatal myocardial infarction with caffeine"
+        }
+    ]
+}

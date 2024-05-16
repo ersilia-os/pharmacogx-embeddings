@@ -1,0 +1,66 @@
+{
+    "pharmgkb_id": "PA165950341",
+    "drugbank_id": "DB08820",
+    "names": [
+        "Ivacaftor"
+    ],
+    "description": "Ivacaftor (also known as Kalydeco or VX-770) is a drug used for the management of Cystic Fibrosis (CF). It is manufactured and distributed by Vertex Pharmaceuticals. It was approved by the Food and Drug Administration on January 31, 2012[L768], and by Health Canada in late 2012.[L6841]  Ivacaftor is administered as a monotherapy and also administered in combination with other drugs for the management of CF.[L6814,L6979,L6847]\r\n\r\nCystic Fibrosis is an autosomal recessive disorder caused by one of several different mutations in the gene for the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) protein, an ion channel involved in the transport of chloride and sodium ions across cell membranes. CFTR is active in epithelial cells of organs such as of the lungs, pancreas, liver, digestive system, and reproductive tract. Alterations in the CFTR gene result in altered production, misfolding, or function of the protein and consequently abnormal fluid and ion transport across cell membranes.[A20298, A20299] As a result, CF patients produce thick, sticky mucus that clogs the ducts of organs where it is produced making patients more susceptible to complications such as infections, lung damage, pancreatic insufficiency, and malnutrition.[A20302]\r\n\r\nPrior to the development of ivacaftor, management of CF primarily involved therapies for the control of infections, nutritional support, clearance of mucus, and management of symptoms rather than improvements in the underlying disease process or lung function (FEV1). Notably, ivacaftor was the first medication approved for the management of the underlying causes of CF (abnormalities in CFTR protein function) rather than control of symptoms.[A20297]",
+    "indication": "When used as monotherapy as the product Kalydeco, ivacaftor is indicated for the treatment of cystic fibrosis (CF) in patients aged one month and older who have one mutation in the CFTR gene that is responsive to ivacaftor potentiation based on clinical and/or _in vitro_ assay data.[L41320, L46337]\r\n\r\nWhen used in combination with the drug [lumacaftor] as the product Orkambi, ivacaftor is indicated for the management of CF in patients aged one year and older who are homozygous for the _F508del_ mutation in the CFTR gene. If the patient\u2019s genotype is unknown, an FDA-cleared CF mutation test should be used to detect the presence of the _F508del_ mutation on both alleles of the CFTR gene.[L43060]\r\n\r\nWhen used in combination with [tezacaftor] in the product Symdeko, it is used to manage CF in patients 12 years and older who have at least one mutation in the CFTR gene or patients aged 12 or older who are shown to be homozygous for the F508del mutation.[L6814]\r\n\r\nWhen used in combination with tezacaftor and [elexacaftor] in the product Trikafta, it is indicated for the treatment of cystic fibrosis in patients 12 years of age and older who have at least one _F508del_ mutation in the CFTR gene.[L9395]",
+    "pharmacodynamics": "The use of Ivacaftor has been shown to both improve CF symptoms and modulate underlying disease pathology. This is achieved by potentiating the channel opening probability (or gating) of CFTR protein in patients with impaired gating mechanisms. This is in contrast to [DB09280], another CF medication, that functions by preventing misfolding of the CFTR protein and thereby results in increased processing and trafficking of mature protein to the cell surface. \r\n\r\nResults from clinical trials indicated that treatment with ivacaftor results in improved lung function, reduced chance of experiencing a pulmonary exacerbation, reduced sweat chloride, increased weight gain, and improvements in CF symptoms and quality of life.[L6979] When combined with tezacaftor, significant improvements in lung function have been observed in clinical studies.[L6814] Ivacaftor was not found to increase the QTc interval in a clinically significant manner.[L6979]\r\n\r\nAlthough ivacaftor given alone has not shown any significant improvements in patients with the delta-F508 mutation, it has shown significant improvements (>10% increase in FEV1 from baseline) in lung function for the following mutations: E56K, P67L, R74W, D110E, D110H, R117C, R117H, G178R, E193K, L206W, R347H, R352Q, A455E, S549N, S549R, G551D, G551S, D579G, S945L, S977F, F1052V, K1060T, A1067T, G1069R, R1070Q, R1070W, F1074L, D1152H, G1244E, S1251N, S1255P, D1270N, and G1349.[L6979] This list was expanded by the FDA in May 2017 from 10 to 33 to accommodate more rare mutations.[L768]\r\n\r\nIt is important to note that this drug may cause an increase in liver transaminases (ALT, AST).  Ensure to assess liver transaminases before the initiation of treatment, every 3 months during the first year of administration, followed by every year thereafter.[L6979]",
+    "mechanism-of-action": "A wide variety of CFTR mutations correlate to the Cystic Fibrosis phenotype and are associated with differing levels of disease severity. The most common mutation, affecting approximately 70% of patients with CF worldwide, is known as F508del-CFTR or delta-F508 (\u0394F508), in which a deletion in the amino acid phenylalanine at position 508 results in impaired production of the CFTR protein, thereby causing a significant reduction in the amount of ion transporter present on cell membranes.[A20301] Ivacaftor as monotherapy has failed to show a benefit for patients with delta-F508 mutations, most likely due to an insufficient amount of protein available at the cell membrane for interaction and potentiation by the drug.[A20305] The next most common mutation, G551D, affecting 4-5% of CF patients worldwide is characterized as a missense mutation, whereby there is sufficient amount of protein at the cell surface, but opening and closing mechanisms of the channel are altered.[A17564] Ivacaftor is indicated for the management of CF in patients with this second type of mutation, as it binds to and potentiates the channel opening ability of CFTR proteins on the cell membrane.[A17564]\r\n\r\nIvacaftor exerts its effect by acting as a potentiator of the CFTR protein, an ion channel involved in the transport of chloride and sodium ions across cell membranes of the lungs, pancreas, and other organs. Alterations in the CFTR gene result in altered production, misfolding, or function of the protein and consequently abnormal fluid and ion transport across cell membranes [A20298, A20299]. Ivacaftor improves CF symptoms and underlying disease pathology by potentiating the channel open probability (or gating) of CFTR protein in patients with impaired CFTR gating mechanisms. The overall level of ivacaftor-mediated CFTR chloride transport is dependent on the amount of CFTR protein at the cell surface and how responsive a particular mutant CFTR protein is to ivacaftor potentiation [L6979].",
+    "absorption": "Ivacaftor is well absorbed in the gastrointestinal tract.[A179674] Following administration of ivacaftor with fat-containing foods, peak plasma concentrations were reached at 4 hours (Tmax) with a maximum concentration (Cmax) of 768 ng/mL and AUC of 10600 ng * hr/mL. It is recommended that ivacaftor is taken with fat-containing foods as they increase absorption by approximately 2.5- to 4-fold.[L6979]",
+    "metabolism": "Ivacaftor is extensively metabolized in humans. In vitro and clinical studies indicate that ivacaftor is primarily metabolized by CYP3A. From this metabolism, the major formed metabolites are M1 and M6. M1 is considered pharmacologically active even though it just presents approximately one-sixth the effect of the parent compound ivacaftor. On the other hand, M6 is not considered pharmacologically active as it represents less than one-fiftieth of the effect of the parent compound.[A179674,L6979]",
+    "toxicity": "LD50 information is not readily available. There have been no reports of overdose with ivacaftor, but when given with tezacaftor, the highest clinical dose lead to diarrhea and dizziness. Provide supportive measures in cases of a suspected overdose. No antidote is available at this time.[L6814]",
+    "targets": [
+        [
+            "CFTR",
+            "Cystic fibrosis transmembrane conductance regulator",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB08820",
+            "Drug Name": "Ivacaftor",
+            "Gene Symbol": "CFTR",
+            "RS ID (Genotype)": "rs75527207",
+            "Effect Description": "Patients who carry this polymorphism in CFTR will respond to ivacaftor therapy."
+        }
+    ]
+}

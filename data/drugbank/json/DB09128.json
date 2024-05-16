@@ -1,0 +1,108 @@
+{
+    "pharmgkb_id": "PA166160053",
+    "drugbank_id": "DB09128",
+    "names": [
+        "Brexpiprazole"
+    ],
+    "description": "Brexpiprazole is an atypical antipsychotic and a novel D2 dopamine and serotonin 1A partial agonist called serotonin-dopamine activity modulator (SDAM). It has a high affinity for serotonin, dopamine and alpha (\u03b1)-adrenergic receptors.[L46417] Although it is structurally similar to [aripiprazole], brexpiprazole has different binding affinities for dopamine and serotonin receptors. Compared to aripiprazole, brexpiprazole has less potential for partial agonist-mediated adverse effects such as extrapyramidal symptoms, which is attributed to lower intrinsic activity at the D2 receptor. It also displays stronger antagonism at the 5-HT1A and 5-HT2A receptors.[A182186, A38385, A259661]\r\n\r\nBrexpiprazole was first approved by the FDA on July 10, 2015.[A182186] Currently approved for the treatment of depression, schizophrenia, and agitation associated with dementia due to Alzheimer\u2019s disease, brexpiprazole has also been investigated in other psychiatric disorders, such as post-traumatic stress disorder.[A7782]",
+    "indication": "Brexpiprazole is indicated as adjunctive therapy to antidepressants for the treatment of major depressive disorder in adults.[L39568] It is also indicated for the treatment of schizophrenia in patients 13 years of age and older.[L39568]\r\n\r\nBrexpiprazole is also indicated for the treatment of agitation associated with dementia due to Alzheimer\u2019s disease; however, it is not indicated as an as-needed (\u201cprn\u201d) treatment for this condition.[L46417]",
+    "pharmacodynamics": "Brexpiprazole is an atypical antipsychotic agent used to ameliorate the symptoms of psychiatric conditions, such as cognitive deficits and affective symptoms.[A182186] Brexpiprazole has affinity (expressed as Ki) for multiple monoaminergic receptors including serotonin 5-HT<sub>1A</sub> (0.12 nM), 5-HT<sub>2A</sub> (0.47 nM), 5-HT<sub>2B</sub> (1.9 nM), 5-HT<sub>7</sub> (3.7 nM), dopamine D2 (0.30 nM), D3 (1.1 nM), and noradrenergic \u03b1<sub>1A</sub> (3.8 nM), \u03b1<sub>1B</sub> (0.17 nM), \u03b1<sub>1D</sub> (2.6 nM), and \u03b1<sub>2C</sub> (0.59 nM) receptors. Brexpiprazole acts as a partial agonist at the 5-HT<sub>1A</sub>, D2, and D3 receptors and as an antagonist at 5-HT<sub>2A</sub>, 5-HT<sub>2B</sub>, 5-HT<sub>7</sub>, \u03b1<sub>1A</sub>, \u03b1<sub>1B</sub>, \u03b1<sub>1D</sub>, and \u03b1<sub>2C</sub> receptors. Brexpiprazole also exhibits affinity for histamine H1 receptor (19 nM) and for muscarinic M1 receptor (67% inhibition at 10 \u00b5M).[L46417]",
+    "mechanism-of-action": "Although the exact mechanism of action of brexpiprazole in psychiatric disorders has not been fully elucidated, the efficacy of brexpiprazole may be attributed to combined partial agonist activity at 5-HT<sub>1A</sub> and dopamine D2 receptors, and antagonist activity at 5-HT<sub>2A</sub> receptors. Brexpiprazole binds to these receptors with subnanomolar affinities.[A7782, A259626, L46417] These therapeutic targets have been implicated in psychiatric conditions such as schizophrenia and depression. Partial D2 receptor agonism allows the drug to stimulate D2 receptors under low dopamine conditions, while attenuating their activation when dopamine levels are high. Partial agonism at 5-HT<sub>1A</sub> receptors may be tied to improved memory function and cognitive performance. Antagonism at \u03b1-adrenergic receptors has also been implicated in schizophrenia and depression.[A182186, A259641]",
+    "absorption": "After a single-dose administration, the T<sub>max</sub> was four hours and the absolute oral bioavailability was 95%. Brexpiprazole steady-state concentrations were attained within 10 to 12 days of dosing. After single and multiple once-daily dose administration, the C<sub>max</sub> and AUC increased dose-proportionally.[L46417] \r\n\r\nA high-fat meal did not significantly affect the C<sub>max</sub> or AUC of brexpiprazole.[L46417]",
+    "metabolism": "According to _in vitro_ studies, brexpiprazole is mainly metabolized by CYP3A4 and CYP2D6. Brexpiprazole and its major metabolite, DM-3411, were the predominant drug moieties in the systemic circulation following single and multiple dose administration. At steady-state, DM-3411 represented 23% to 48% of brexpiprazole exposure (AUC) in plasma. DM-3411 is considered not to be pharmacologically active.[L46417]",
+    "toxicity": "There is limited information regarding acute toxicity and human overdosage with brexpiprazole. Management of overdose should concentrate on supportive therapy, maintaining an adequate airway, oxygenation and ventilation, and management of symptoms. Close medical supervision and monitoring should continue until the patient recovers. Oral activated charcoal and sorbitol (50 g/240 mL), administered one hour after ingesting oral brexpiprazole, decreased brexpiprazole C<sub>max</sub> and area under the curve (AUC) by approximately 5% to 23% and 31% to 39% respectively; however, there is insufficient information available on the therapeutic potential of activated charcoal in treating an overdose with brexpiprazole. There is no information on the effect of hemodialysis in treating an overdose with brexpiprazole; hemodialysis is unlikely to be useful because brexpiprazole is highly bound to plasma proteins.[L46417]",
+    "targets": [
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine receptor 2B",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

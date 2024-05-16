@@ -1,0 +1,146 @@
+{
+    "pharmgkb_id": "PA134688071",
+    "drugbank_id": "DB00289",
+    "names": [
+        "Atomoxetine",
+        "Tomoxetin"
+    ],
+    "description": "Atomoxetine is a selective norepinephrine (NE) reuptake inhibitor used for the treatment of attention deficit hyperactivity disorder (ADHD). Also known as the marketed product Strattera, atomoxetine is used with other treatment modalities (psychological, educational, cognitive behaviour therapy, etc) to improve developmentally inappropriate symptoms associated with ADHD including distractibility, short attention span, hyperactivity, emotional lability, and impulsivity. Although the underlying pathophysiology that causes ADHD remains unclear, evidence suggests that dysregulation in noradrenergic and dopaminergic pathways plays a critical role in suboptimal executive functioning within prefrontal regions of the brain, which are involved in attention and memory.[A178090] Atomoxetine has been shown to specifically increase NA and DA within the prefrontal cortex, but not in the nucleus accumbens (NA) or striatum.[A18262] This is beneficial in the treatment of ADHD as DA activation in the subcortical NA and striatum is associated with many stimulant-associated side effects and an increase in abuse potential, which is a limiting factor associated with the use of stimulant medications such as [DB00422], [DB01576], and [DB01255].[A18262] Use of non-stimulant medications such as atomoxetine is therefore thought to offer a clinical advantage over the use of traditional medications for the management of ADHD. More recently, positron emission tomography (PET) imaging studies in rhesus monkeys have shown that atomoxetine also binds to the serotonin transporter (SERT),[A178111] and blocks the N-methyl-d-aspartate (NMDA) receptor,[A18263] indicating a role for the glutamatergic system in the pathophysiology of ADHD. \r\n\r\nLong-acting formulations of psychostimulants (such as [DB00422], [DB01576], and [DB01255]) are typically considered the most effective and first-line treatment for ADHD in adults and children as recommended by CADDRA (Canadian ADHD Resource Alliance).[L6037] However, these stimulant medications are limited by dose-related side effects and concerns of abuse. Many contain a blackbox warning stating that CNS stimulants, including methylphenidate-containing products and amphetamines, have a high potential for abuse and dependence. In particular, increased dopamine in key areas caused by these stimulant medications is associated with their reinforcing and addictive properties, and even amplifies the potency and reinforcing effects of other drugs of abuse such as amphetamines, making ADHD sufferers more susceptible to their addictive effects.[A177556] Concerns about abuse potential have spurred research into medications with fewer effects on DA and the use of non-stimulant ADHD medications including atomoxetine, [DB00745] and [DB01018]. The non-stimulant norepinephrine/dopamine reuptake inhibitor [DB01156] (commonly used for the treatment of depression and for smoking cessation) has also been shown to be effective in the treatment of ADHD.[A178099]",
+    "indication": "Atomoxetine is indicated for the treatment of attention deficit hyperactivity disorder (ADHD) in children and adults.",
+    "pharmacodynamics": "Atomoxetine is a selective norepinephrine (NE) reuptake inhibitor used for the treatment of attention deficit hyperactivity disorder (ADHD). Atomoxetine has been shown to specifically increase norepinephrine and dopamine within the prefrontal cortex, which results in improved ADHD symptoms.[A18262, A18262, F4639]\r\n\r\nDue to atomoxetine's noradrenergic activity, it also has effects on the cardiovascular system such as increased blood pressure and tachycardia.[T244] Sudden deaths, stroke, and myocardial infarction have been reported in patients taking atomoxetine at usual doses for ADHD. Atomoxetine should be used with caution in patients whose underlying medical conditions could be worsened by increases in blood pressure or heart rate such as certain patients with hypertension, tachycardia, or cardiovascular or cerebrovascular disease. It should not be used in patients with severe cardiac or vascular disorders whose condition would be expected to deteriorate if they experienced clinically important increases in blood pressure or heart rate. Although the role of atomoxetine in these cases is unknown, consideration should be given to not treating patients with clinically significant cardiac abnormalities. Patients who develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease during atomoxetine treatment should undergo a prompt cardiac evaluation.[F4639]\r\n\r\nIn general, particular care should be taken in treating ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in patients at risk for bipolar disorder. Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by atomoxetine at usual doses. If such symptoms occur, consideration should be given to a possible causal role of atomoxetine, and discontinuation of treatment should be considered.[F4639]\r\n\r\nAtomoxetine capsules increased the risk of suicidal ideation in short-term studies in children and adolescents with Attention-Deficit/Hyperactivity Disorder (ADHD). All pediatric patients being treated with atomoxetine  should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.[F4639]\r\n\r\nPostmarketing reports indicate that atomoxetine can cause severe liver injury. Although no evidence of liver injury was detected in clinical trials of about 6000 patients, there have been rare cases of clinically significant liver injury that were considered probably or possibly related to atomoxetine use in postmarketing experience. Rare cases of liver failure have also been reported, including a case that resulted in a liver transplant. Atomoxetine should be discontinued in patients with jaundice or laboratory evidence of liver injury, and should not be restarted. Laboratory testing to determine liver enzyme levels should be done upon the first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained \u201cflu like\u201d symptoms).[F4639]",
+    "mechanism-of-action": "Atomoxetine is known to be a potent and selective inhibitor of the norepinephrine transporter (NET),[A175723] which prevents cellular reuptake of norepinephrine throughout the brain, which is thought to improve the symptoms of ADHD. More recently, positron emission tomography (PET) imaging studies in rhesus monkeys have shown that atomoxetine also binds to the serotonin transporter (SERT),[A178111] and blocks the N-methyl-d-aspartate (NMDA) receptor,[A18263] indicating a role for the glutamatergic system in the pathophysiology of ADHD. ",
+    "absorption": "The pharmacokinetic profile of atomoxetine is highly dependent on cytochrome P450 2D6 genetic polymorphisms of the individual.[A175669] A large fraction of the population (up to 10% of Caucasians and 2% of people of African descent and 1% of Asians) are poor metabolizers (PMs) of CYP2D6 metabolized drugs. These individuals have reduced activity in this pathway resulting in 10-fold higher AUCs, 5-fold higher peak plasma concentrations, and slower elimination (plasma half-life of 21.6 hours) of atomoxetine compared with people with normal CYP2D6 activity.\r\n\r\nAtomoxetine is rapidly absorbed after oral administration, with absolute bioavailability of about 63% in extensive metabolizers (EMs) and 94% in poor metabolizers (PMs). Mean maximal plasma concentrations (Cmax) are reached approximately 1 to 2 hours after dosing with a maximal concentration of 350 ng/ml with an AUC of 2 mcg.h/ml.[A175669]\r\n",
+    "metabolism": "Atomoxetine undergoes biotransformation primarily through the cytochrome P450 2D6 (CYP2D6) enzymatic pathway. People with reduced activity in the CYP2D6 pathway (also known as poor metabolizers or PMs) have higher plasma concentrations of atomoxetine compared with people with normal activity (also known as extensive metabolizers, or EMs). For PMs, the AUC of atomoxetine at steady-state is approximately 10-fold higher and Cmax is about 5-fold greater than for EMs. \r\n\r\nThe major oxidative metabolite formed regardless of CYP2D6 status is 4-hydroxy-atomoxetine, which is rapidly glucuronidated. 4-Hydroxyatomoxetine is equipotent to atomoxetine as an inhibitor of the norepinephrine transporter, but circulates in plasma at much lower concentrations (1% of atomoxetine concentration in EMs and 0.1% of atomoxetine concentration in PMs). \r\n\r\nIn individuals that lack CYP2D6 activity, 4-hydroxyatomoxetine is still the primary metabolite, but is formed by several other cytochrome P450 enzymes and at a slower rate. Another minor metabolite, N-Desmethyl-atomoxetine is formed by CYP2C19 and other cytochrome P450 enzymes, but has much less pharmacological activity than atomoxetine and lower plasma concentrations (5% of atomoxetine concentration in EMs and 45% of atomoxetine concentration in PMs).[F4639]",
+    "toxicity": "There is limited clinical trial experience with atomoxetine overdose. During postmarketing, there have been fatalities reported involving a mixed ingestion overdose of atomoxetine capsules and at least one other drug. There have been no reports of death involving overdose of atomoxetine capsules alone, including intentional overdoses at amounts up to 1400 mg. In some cases of overdose involving atomoxetine, seizures have been reported. The most commonly reported symptoms accompanying acute and chronic overdoses of atomoxetine capsules were gastrointestinal symptoms, somnolence, dizziness, tremor, and abnormal behavior. Hyperactivity and agitation have also been reported. Signs and symptoms consistent with mild to moderate sympathetic nervous system activation (e.g., tachycardia, blood pressure increased, mydriasis, dry mouth) have also been observed. Most events were mild to moderate. Less commonly, there have been reports of QT prolongation and mental changes, including disorientation and hallucinations. If symptoms of overdose are suspected, a Certified Poison Control Center should be consulted for up to date guidance and advice. Because atomoxetine is highly protein-bound, dialysis is not likely to be useful in the treatment of overdose.[F4639]",
+    "targets": [
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "GRIN1",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2A",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2B",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2C",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2D",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3A",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3B",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "KCNJ3",
+            "G protein-activated inward rectifier potassium channel 1",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ],
+        [
+            "FCGR1A",
+            "High affinity immunoglobulin gamma Fc receptor I",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00289",
+            "Drug Name": "Atomoxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs35742686",
+            "Effect Description": "The presence of this genotype in CYP2D6 may be associated with reduced metabolism of atomoxetine and more frequent occurrence of adverse events."
+        },
+        {
+            "DrugBank ID": "DB00289",
+            "Drug Name": "Atomoxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "The presence of this genotype in CYP2D6 is associated with poor metabolism of atomoxetine and more frequent occurrence of adverse events."
+        },
+        {
+            "DrugBank ID": "DB00289",
+            "Drug Name": "Atomoxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "The presence of this genotype in CYP2D6 is associated with poor metabolism of atomoxetine and more frequent occurrence of adverse events."
+        },
+        {
+            "DrugBank ID": "DB00289",
+            "Drug Name": "Atomoxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "The presence of this genotype in CYP2D6 is associated with poor metabolism of atomoxetine and more frequent occurrence of adverse events."
+        },
+        {
+            "DrugBank ID": "DB00289",
+            "Drug Name": "Atomoxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1135824",
+            "Effect Description": "The presence of this genotype in CYP2D6 may be associated with reduced metabolism of atomoxetine and more frequent occurrence of adverse events."
+        },
+        {
+            "DrugBank ID": "DB00289",
+            "Drug Name": "Atomoxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs28371733",
+            "Effect Description": "The presence of this genotype in CYP2D6 may be associated with reduced metabolism of atomoxetine and more frequent occurrence of adverse events."
+        }
+    ]
+}

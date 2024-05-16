@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA450413",
+    "drugbank_id": "DB00703",
+    "names": [
+        "Methazolamide",
+        "Naptazane"
+    ],
+    "description": "A carbonic anhydrase inhibitor that is used as a diuretic and in the treatment of glaucoma.",
+    "indication": "For treatment of chronic open-angle glaucoma and acute angle-closure glaucoma",
+    "pharmacodynamics": "Methazolamide is topical carbonic anhydrase inhibitor. Methazolamide is indicated for the reduction of elevated intraocular pressure in patients with open-angle glaucoma or ocular hypertension who are insufficiently responsive to beta-blockers. Methazolamide is a sulfonamide derivative; however, it does not have any clinically significant antimicrobial properties. Although methazolamide achieves a high concentration in the cerebrospinal fluid, it is not-considered an effective anticonvulsant. Methazolamide has a weak and transient diuretic effect, therefore use results in an increase in urinary volume, with excretion of sodium, potassium and chloride.",
+    "mechanism-of-action": "Methazolamide is a potent inhibitor of carbonic anhydrase. Inhibition of carbonic anhydrase in the ciliary processes of the eye decreases aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport.",
+    "absorption": "Methazolamide is well absorbed from the gastrointestinal tract.",
+    "metabolism": null,
+    "toxicity": "Electrolyte imbalance, development of an acidotic state, and central nervous system effects might be expected to occur in the case of an overdose.",
+    "targets": [
+        [
+            "CA1",
+            "Carbonic anhydrase 1",
+            "Humans"
+        ],
+        [
+            "CA4",
+            "Carbonic anhydrase 4",
+            "Humans"
+        ],
+        [
+            "CA2",
+            "Carbonic anhydrase 2",
+            "Humans"
+        ],
+        [
+            "CA7",
+            "Carbonic anhydrase 7",
+            "Humans"
+        ],
+        [
+            "CA3",
+            "Carbonic anhydrase 3",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

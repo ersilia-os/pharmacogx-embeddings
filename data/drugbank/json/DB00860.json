@@ -1,0 +1,70 @@
+{
+    "pharmgkb_id": "PA451096",
+    "drugbank_id": "DB00860",
+    "names": [
+        "Prednisolone",
+        "Ak-Pred",
+        "Decortin H",
+        "Delta-Cortef",
+        "Deltacortril",
+        "Hydeltra",
+        "Hydeltra-TBA",
+        "Hydeltrasol",
+        "Inflamase",
+        "Key-Pred",
+        "Klismacort",
+        "Meticortelone",
+        "Panafcortelone",
+        "Predonine",
+        "Prelone",
+        "Solone",
+        "Sterolone",
+        "Ultracortenol"
+    ],
+    "description": "Prednisolone is a glucocorticoid similar to [cortisol] used for its anti-inflammatory, immunosuppressive, anti-neoplastic, and vasoconstrictive effects.[A187463]\r\n\r\nPrednisolone was granted FDA approval on 21 June 1955.[L9431]",
+    "indication": "Prednisolone is indicated to treat endocrine, rheumatic, and hematologic disorders; collagen, dermatologic, ophthalmic, respiratory, and gastrointestinal diseases; allergic and edematous states; and other conditions like tuberculous meningitis.[L9542]",
+    "pharmacodynamics": "Corticosteroids bind to the glucocorticoid receptor, inhibiting pro-inflammatory signals, and promoting anti-inflammatory signals.[A187463] Prednisolone has a short duration of action as the half life is 2.1-3.5 hours.[A187394] Corticosteroids have a wide therapeutic window as patients make require doses that are multiples of what the body naturally produces.[A187463] Patients taking corticosteroids should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections.[A187463]",
+    "mechanism-of-action": "The short term effects of corticosteroids are decreased vasodilation and permeability of capillaries, as well as decreased leukocyte migration to sites of inflammation.[A187463] Corticosteroids binding to the glucocorticoid receptor mediates changes in gene expression that lead to multiple downstream effects over hours to days.[A187463]\r\n\r\nGlucocorticoids inhibit neutrophil apoptosis and demargination; they inhibit phospholipase A2, which decreases the formation of arachidonic acid derivatives; they inhibit NF-Kappa B and other inflammatory transcription factors; they promote anti-inflammatory genes like interleukin-10.[A187463]\r\n\r\nLower doses of corticosteroids provide an anti-inflammatory effect, while higher doses are immunosuppressive.[A187463] High doses of glucocorticoids for an extended period bind to the mineralocorticoid receptor, raising sodium levels and decreasing potassium levels.[A187463]",
+    "absorption": "Oral prednisolone reaches a C<sub>max</sub> of 113-1343ng/mL with a T<sub>max</sub> of 1.0-2.6 hours.[A187394] Oral prednisolone is approximately 70% bioavailable.[A187400]",
+    "metabolism": "Prednisolone can be reversibly metabolized to [prednisone] which is then metabolized to 17\u03b1,21-dihydroxy-pregnan-1,4,6-trien-3,11,30-trione (M-XVII), 20\u03b1-dihydro-prednisone (M-V), 6\u03b2hydroxy-prednisone (M-XII), 6\u03b1-hydroxy-prednisone (M-XIII), or 20\u03b2-dihydro-prednisone (M-IV).[A187403] 20\u03b2-dihydro-prednisone is metabolized to 17\u03b1,20\u03be,21-trihydroxy-5\u03be-pregn-1-en-3,11-dione(M-XVIII).[A187403] Prednisolone is metabolized to \u03946-prednisolone (M-XI), 20\u03b1-dihydro-prednisolone (M-III), 20\u03b2-dihydro-prednisolone (M-II), 6\u03b1hydroxy-prednisolone (M-VII), or 6\u03b2hydroxy-prednisolone(M-VI).[A187403] 6\u03b1hydroxy-prednisolone is metabolized to 6\u03b1,11\u03b2,17\u03b1,20\u03b2,21-pentahydroxypregnan-1,4-diene-3-one (M-X).[A187403] 6\u03b2hydroxy-prednisolone is metabolized to 6\u03b2,11\u03b2,17\u03b1,20\u03b2,21-pentahydroxypregnan-1,4-diene-3-one (M-VIII), 6\u03b2,11\u03b2,17\u03b1,20\u03b1,21-pentahydroxypregnan-1,4-diene-3-one (M-IX), and 6\u03b2,11\u03b2,17\u03b1,21-tetrahydroxy-5\u03be-pregn-1-en-3,20-dione (M-XIV).[A187403] MVIII is metabolized to 6\u03b2,11\u03b2,17\u03b1,20\u03b2,21-pentahydroxy-5\u03be-pregn-1-en-3-one (M-XV) and then to MXIV, while MIX is metabolized to 6\u03b2,11\u03b2,17\u03b1,20\u03b1,21-pentahydroxy-5\u03be-pregn-1-en-3-one (M-XVI) and then to MXIV.[A187403] These metabolites and their glucuronide conjugates are excreted predominantly in the urine.[A187403]",
+    "toxicity": "The intraperitoneal LD<sub>50</sub> in rats is 2g/kg and 65mg/kg in mice.[L9545] The subcutaneous LD<sub>50</sub> in rats is 147mg/kg and >3500mg/kg in mice.[L9545] The oral LD<sub>50</sub> in mice is 1680mg/kg.[L9545] In humans, the oral TDLO in men is 9mg/kg/2W and in women is 14mg/kg/13D.[L9545]\r\n\r\nPatients experiencing an overdose of prednisolone may present with gastrointestinal disturbances, insomnia, and restlessness.[A187511] Overdose of oral prednisolone may be treated by gastric lavage or inducing vomiting if the overdose was recent, as well as supportive and symptomatic therapy.[L9449] Chronic overdosage may be treated by dose reduction or treating patients on alternate days.[L9449] An overdose by the ophthalmic route is not expected to cause problems.[L9449]",
+    "targets": [
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "SERPINA6",
+            "Corticosteroid-binding globulin",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

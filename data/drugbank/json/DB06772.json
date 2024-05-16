@@ -1,0 +1,83 @@
+{
+    "pharmgkb_id": "PA165958401",
+    "drugbank_id": "DB06772",
+    "names": [
+        "Cabazitaxel"
+    ],
+    "description": "Cabazitaxel is a taxoid synthesized from 10-deacetylbaccatin III, a compound isolated from the yew tree.[A260621] As a second-generation semisynthetic microtubule inhibitor, cabazitaxel stabilizes microtubules and induces tumour cell death.[A7056] Due to its low affinity for the P-glycoprotein (P-gp) efflux pump, cabazitaxel can more readily penetrate the blood\u2013brain barrier compared to other taxanes like [paclitaxel] and [docetaxel].[A7056, A260421, A260621]\r\n\r\nCabazitaxel is used to treat metastatic castration-resistant prostate cancer. It was first approved by the FDA on June 17, 2010.[A260421] It was also approved by the EMA on March 17, 2011 [L47381] and Health Canada on December 17, 2019.[L47376]",
+    "indication": "Cabazitaxel is indicated, in combination with [prednisone], for the treatment of patients with metastatic castration-resistant prostate cancer previously treated with a [docetaxel]-containing treatment regimen.[L47366] In Europe and Canada, it can also be used in combination with [prednisolone].[L47376, L47381]",
+    "pharmacodynamics": "Cabazitaxel demonstrates a broad spectrum of antitumour activity against advanced human tumours xenografted in mice, including intracranial human glioblastomas.[L47376] Cabazitaxel has a low affinity to P-glycoprotein, allowing it to penetrate the blood-brain barrier without being subject to extensive P-gp-mediated active efflux.[A260421, A260621] Cabazitaxel works against docetaxel-sensitive tumours and tumour models resistant to docetaxel and other chemotherapy drugs.[A260621, L47376]",
+    "mechanism-of-action": "Microtubules are cytoskeletal polymers that regulate cell shape, vesicle transport, cell signalling, and cell division. They are made up of alpha-tubulin and beta-tubulin heterodimers. Microtubules extend toward the mitotic spindle during mitosis to allow the separation and distribution of chromosomes during cell division.[A7056] Cabazitaxel binds to the N-terminal amino acids of the beta-tubulin subunit and promotes microtubule polymerization while simultaneously inhibiting disassembly: this results in the stabilization of microtubules, preventing microtubule cell division. Cabazitaxel ultimately blocks mitotic and interphase cellular functions and tumour proliferation.[A7056, L47366]",
+    "absorption": "Based on the population pharmacokinetic analysis, after an intravenous dose of cabazitaxel 25 mg/m<sup>2</sup> every three weeks, the mean C<sub>max</sub> in patients with metastatic prostate cancer was 226 ng/mL (CV 107%) and was reached at the end of the one-hour infusion (T<sub>max</sub>). The mean AUC in patients with metastatic prostate cancer was 991 ng x h/mL (CV 34%). No major deviation from the dose proportionality was observed from 10 to 30 mg/m<sup>2</sup> in patients with advanced solid tumours.[L47366]",
+    "metabolism": "More than 95% of cabazitaxel is extensively metabolized in the liver. CYP3A4 and CYP3A5 are responsible for 80% to 90% of drug metabolism, while CYP2C8 is involved to a lesser extent. While cabazitaxel is the main circulating moiety in human plasma, seven metabolites have been detected in plasma, including three active metabolites arising from O-demethylation [L47366] - [docetaxel], RPR112698, and RPR123142.[A7055] The main metabolite accounts for 5% of total cabazitaxel exposure.[L47366]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is 500 mg/kg.[L47421]",
+    "targets": [
+        [
+            "TUBB1",
+            "Tubulin beta-1 chain",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "LDLR",
+            "Low-density lipoprotein receptor",
+            "Humans"
+        ],
+        [
+            "VLDLR",
+            "Very low-density lipoprotein receptor",
+            "Humans"
+        ],
+        [
+            "GPIHBP1",
+            "Glycosylphosphatidylinositol-anchored high density lipoprotein-binding protein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

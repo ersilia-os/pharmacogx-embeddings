@@ -1,0 +1,116 @@
+{
+    "pharmgkb_id": "PA451100",
+    "drugbank_id": "DB00635",
+    "names": [
+        "Prednisone",
+        "Delta-Cortef",
+        "Meticorten",
+        "Orasone"
+    ],
+    "description": "A synthetic anti-inflammatory glucocorticoid derived from [cortisone].[A187463] It is biologically inert and converted to [prednisolone] in the liver.[L10502]\r\n\r\nPrednisone was granted FDA approval on 21 February 1955.[L10496]",
+    "indication": "Prednisone is indicated as an anti-inflammatory or immunosuppressive drug for allergic, dermatologic, gastrointestinal, hematologic, ophthalmologic, nervous system, renal, respiratory, rheumatologic, infectious, endocrine, or neoplastic conditions as well as in organ transplant.[L10502]",
+    "pharmacodynamics": "Corticosteroids bind to the glucocorticoid receptor, inhibiting pro-inflammatory signals, and promoting anti-inflammatory signals.[A187463] Prednisone has a short duration of action as the half life is 2-3 hours.[L10502] Corticosteroids have a wide therapeutic window as patients make require doses that are multiples of what the body naturally produces.[A187463] Patients taking corticosteroids should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections.[A187463]",
+    "mechanism-of-action": "Prednisone is first metabolized in the liver to its active form, prednisolone, a glucocorticoid agonist corticosteroid.[L10502]\r\n\r\nThe short term effects of corticosteroids are decreased vasodilation and permeability of capillaries, as well as decreased leukocyte migration to sites of inflammation.[A187463] Corticosteroids binding to the glucocorticoid receptor mediates changes in gene expression that lead to multiple downstream effects over hours to days.[A187463]\r\n\r\nGlucocorticoids inhibit neutrophil apoptosis and demargination; they inhibit phospholipase A2, which decreases the formation of arachidonic acid derivatives; they inhibit NF-Kappa B and other inflammatory transcription factors; they promote anti-inflammatory genes like interleukin-10.[A187463]\r\n\r\nLower doses of corticosteroids provide an anti-inflammatory effect, while higher doses are immunosuppressive.[A187463] High doses of glucocorticoids for an extended period bind to the mineralocorticoid receptor, raising sodium levels and decreasing potassium levels.[A187463]",
+    "absorption": "Oral prednisone has a T<sub>max</sub> of 2 hours, while the delayed-release formulation has a T<sub>max</sub> of 6-6.5 hours.[L10502] A 5mg dose of prednisone has an AUC of 572mL/min/1.73m<sup>2</sup>, a 20mg dose of prednisone has an AUC of 1034mL/min/1.73m<sup>2</sup>, and a 50mg dose of prednisone has an AUC of 2271mL/min/1.73m<sup>2</sup>.[A188300] Data regarding the C<sub>max</sub> of prednisone is not readily available.[L10502]",
+    "metabolism": "Prednisone\u00a0is metabolized to 17\u03b1,21-dihydroxy-pregnan-1,4,6-trien-3,11,30-trione (M-XVII), 20\u03b1-dihydro-prednisone (M-V), 6\u03b2hydroxy-prednisone (M-XII), 6\u03b1-hydroxy-prednisone (M-XIII), or 20\u03b2-dihydro-prednisone (M-IV).[A187403]\u00a020\u03b2-dihydro-prednisone is metabolized to 17\u03b1,20\u03be,21-trihydroxy-5\u03be-pregn-1-en-3,11-dione(M-XVIII).[A187403] Prednison is reversibly metabolized to [prednisolone].[A187403]\u00a0Prednisolone is metabolized to \u03946-prednisolone (M-XI), 20\u03b1-dihydro-prednisolone (M-III), 20\u03b2-dihydro-prednisolone (M-II), 6\u03b1hydroxy-prednisolone (M-VII), or 6\u03b2hydroxy-prednisolone(M-VI).[A187403]\u00a06\u03b1hydroxy-prednisolone is metabolized to 6\u03b1,11\u03b2,17\u03b1,20\u03b2,21-pentahydroxypregnan-1,4-diene-3-one (M-X).[A187403]\u00a06\u03b2hydroxy-prednisolone is metabolized to 6\u03b2,11\u03b2,17\u03b1,20\u03b2,21-pentahydroxypregnan-1,4-diene-3-one (M-VIII), 6\u03b2,11\u03b2,17\u03b1,20\u03b1,21-pentahydroxypregnan-1,4-diene-3-one (M-IX), and 6\u03b2,11\u03b2,17\u03b1,21-tetrahydroxy-5\u03be-pregn-1-en-3,20-dione (M-XIV).[A187403]\u00a0MVIII is metabolized to 6\u03b2,11\u03b2,17\u03b1,20\u03b2,21-pentahydroxy-5\u03be-pregn-1-en-3-one (M-XV) and then to MXIV, while MIX is metabolized to 6\u03b2,11\u03b2,17\u03b1,20\u03b1,21-pentahydroxy-5\u03be-pregn-1-en-3-one (M-XVI) and then to MXIV.[A187403]\u00a0These metabolites and their glucuronide conjugates are excreted predominantly in the urine.[A187403]",
+    "toxicity": "Data regarding acute overdoses of prednisone are rare but prolonged high doses of prednisone can lead to a higher incidence and severity of adverse effects such as mental symptoms, moon face, abnormal fat deposits, fluid retention, excessive appetite, weight gain, hypertrichosis, acne, striae, ecchymosis, increased sweating, pigmentation, dry scaly skin, thinning scalp hair, increased blood pressure, tachycardia, thrombophlebitis, decreased resistance to infection, negative nitrogen balance with delayed bone and wound healing, headache, weakness, menstrual disorders, accentuated menopausal symptoms, neuropathy, fractures, osteoporosis, peptic ulcer, decreased glucose tolerance, hypokalemia, and adrenal insufficiency.[L10502]",
+    "targets": [
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "HSD11B1",
+            "Corticosteroid 11-beta-dehydrogenase isozyme 1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "SERPINA6",
+            "Corticosteroid-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

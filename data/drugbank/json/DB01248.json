@@ -1,0 +1,115 @@
+{
+    "pharmgkb_id": "PA449383",
+    "drugbank_id": "DB01248",
+    "names": [
+        "Docetaxel"
+    ],
+    "description": "Docetaxel is a clinically well established anti-mitotic chemotherapy medication used for the treatment of different types of cancer, including breast, ovarian, and non-small cell lung cancer. Docetaxel is a complex diterpenoid molecule and a semisynthetic analogue of [paclitaxel].[A259676,L46466] Docetaxel reversibly binds to microtubulin with high affinity in a 1:1 stoichiometric ratio, allowing it to prevent cell division and promote to cell death.[A259676] Compared to paclitaxel, docetaxel is two times more potent as an inhibitor of microtubule depolymerization. Docetaxel binds to microtubules but does not interact with dimeric tubulin.[A259671]\r\n\r\nThe use of docetaxel may lead to udesired outcomes such as hepatic impairment, hematologic effects, enterocolitis and neutropenic colitis, hypersensitivity reactions, fluid retention, second primary malignancies, embryo-fetal toxicity, and tumor lysis syndrome.[L46466] Docetaxel was approved by the FDA in 1996 and is available in solution for injection for intravenous or parenteral administration.[A259676]",
+    "indication": "Docetaxel is indicated as a single agent for the treatment of locally advanced or metastatic breast cancer after chemotherapy failure; and with doxorubicin and cyclophosphamide as adjuvant treatment of operable node-positive BC. It is also indicated as a single agent for locally advanced or metastatic non-small cell lung cancer (NSCLC) after platinum therapy failure; and with cisplatin for unresectable, locally advanced or metastatic untreated NSCLC. For the treatment of metastatic castration-resistant prostate cancer, docetaxel is indicated with prednisone. Docetaxel is also indicated with cisplatin and fluorouracil for untreated, advanced gastric adenocarcinoma, including the gastroesophageal junction, and with cisplatin and fluorouracil for induction treatment of locally advanced squamous cell carcinoma of the head and neck (SCCHN).[L46466]",
+    "pharmacodynamics": "Docetaxel is a taxoid antineoplastic agent. It promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network which is essential for vital interphase and mitotic cellular functions. In addition, docetaxel induces abnormal arrays or \"bundles\" of microtubules throughout the cell cycle and multiple asters of microtubules during mitosis.[A259666,A259671]\r\n\r\nThe use of docetaxel may lead to treatment-related deaths in breast cancer and non-small cell lung cancer patients, hepatic impairment, hematologic effects, enterocolitis and neutropenic colitis, hypersensitivity reactions, fluid retention, second primary malignancies, cutaneous reactions, neurologic reactions, eye disorders, asthenia, embryo-fetal toxicity, and tumor lysis syndrome.[L46466]",
+    "mechanism-of-action": "Docetaxel interferes with the normal function of microtubule growth. Whereas drugs like [colchicine] cause the depolymerization of microtubules in vivo, docetaxel arrests their function by having the opposite effect; it hyper-stabilizes their structure. This destroys the cell's ability to use its cytoskeleton in a flexible manner. Specifically, docetaxel binds to the &beta;-subunit of tubulin. Tubulin is the \"building block\" of microtubules, and the binding of docetaxel locks these building blocks in place. The resulting microtubule/docetaxel complex does not have the ability to disassemble. This adversely affects cell function because the shortening and lengthening of microtubules (termed dynamic instability) is necessary for their function as a transportation highway for the cell. Chromosomes, for example, rely upon this property of microtubules during mitosis. Further research has indicated that docetaxel induces programmed cell death (apoptosis) in cancer cells by binding to an apoptosis-stopping protein called Bcl-2 (B-cell leukemia 2), thus arresting its function.[A259666,A259671,L46466]",
+    "absorption": "The pharmacokinetic profile of docetaxel is consistent with a three-compartment model. The initial rapid decline represents the distribution to the peripheral compartments, and the late (terminal) phase is partly due to a relatively slow efflux of docetaxel from the peripheral compartment. The area under the curve (AUC) was dose proportional at doses between 70 mg/m<sup>2</sup> and 115 mg/m<sup>2</sup> with infusion times of 1 to 2 hours.[L46466,L46476] In a group of patients with solid tumors given 100 mg/m<sup>2</sup> of docetaxel intravenously, the Cmax and AUC were 2.41 \u03bcg/mL and 5.93 \u03bcg\u22c5h/mL, respectively.[A259646,A259656]",
+    "metabolism": "Docetaxel undergoes hepatic metabolism. _In vitro_ drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme.[L46466,L46476] CYP3A5 also plays a role in the metabolism of this drug.[A259646] In humans, docetaxel is metabolized by CYP3A4/5 into four metabolites: M1, M2, M3 and M4. Docetaxel undergoes hydroxylation of the synthetic isobutoxy side chain, forming metabolite M2. The oxidation of M2 forms an unstable aldehyde that is immediately cyclised into the stereoisomers M1 and M3. M4 is then formed by the oxidation of M1/M3.[A259651]",
+    "toxicity": "There is no known antidote for an overdose of docetaxel injection. In case of overdose, patients should be closely monitored in specialized units. Some of the anticipated complications of overdosage include: bone marrow suppression, peripheral neurotoxicity, and mucositis. After an overdose is discovered, patients should receive granulocyte colony-stimulating factor (G-CSF) as soon as possible. Other appropriate symptomatic measures should be taken as needed.[L46466]\r\n\r\nIn two reports of overdose, one patient received 150 mg/m<sup>2</sup>, and the other received 200 mg/m<sup>2</sup> as 1-hour infusions. Both patients experienced severe neutropenia, mild asthenia, cutaneous reactions, and mild paresthesia, and recovered without incident.[L46466] In rats, the oral LD<sub>50</sub> of docetaxel is >2000 mg/kg. The intravenous LD<sub>50</sub> in mice is 138 mg/kg.[L46471]",
+    "targets": [
+        [
+            "TUBB1",
+            "Tubulin beta-1 chain",
+            "Humans"
+        ],
+        [
+            "MAP2",
+            "Microtubule-associated protein 2",
+            "Humans"
+        ],
+        [
+            "MAP4",
+            "Microtubule-associated protein 4",
+            "Humans"
+        ],
+        [
+            "MAPT",
+            "Microtubule-associated protein tau",
+            "Humans"
+        ],
+        [
+            "BCL2",
+            "Apoptosis regulator Bcl-2",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC10",
+            "Multidrug resistance-associated protein 7",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01248",
+            "Drug Name": "Docetaxel",
+            "Gene Symbol": "ABCC2",
+            "RS ID (Genotype)": "rs12762549",
+            "Adverse Reaction Description": "Patients with this polymorphism in ABCC2 are at a higher risk of experiencing drug-induced leukopenia and drug-induced neutropenia when treated with docetaxel."
+        }
+    ]
+}

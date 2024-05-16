@@ -1,0 +1,93 @@
+{
+    "pharmgkb_id": "PA165946122",
+    "drugbank_id": "DB08865",
+    "names": [
+        "Crizotinib"
+    ],
+    "description": "Crizotinib is a tyrosine kinase receptor inhibitor used for the treatment of anaplastic lymphoma kinase (ALK) or ROS1-positive non-small cell lung cancer (NSCLC) tumors, as well as ALK-positive anaplastic large cell lymphoma (ALCL) and inflammatory myofibroblastic tumor (IMT).[L42460] By targeting the echinoderm microtubule-associated protein-like 4 (EML4)-ALK fusion protein, crizotinib offers robust effectiveness in treating NSCLC in patients with this type of rearrangement.[A250785] Crizotinib was the first-in-class drug used to treat ALK-positive tumors. Second- and third-generation ALK-tyrosine kinase-inhibitors have overcome many of the pharmacodynamic and genetic resistance mechanisms crizotinib is prone to.[A250785] Crizotinib was approved by the FDA in 2011, and its use is accompanied by FDA-approved tests used to detect ALK and ROS1 rearrangements.[L42460]",
+    "indication": "Crizotinib is a kinase inhibitor indicated for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors are anaplastic lymphoma kinase (ALK) or ROS1-positive as detected by an FDA-approved test.[L42460] Crizotinib is also indicated for the treatment of relapsed or refractory, systemic anaplastic large cell lymphoma (ALCL) that is ALK-positive in pediatric patients 1 year of age and older and young adults. The safety and efficacy of crizotinib have not been established in older adults with relapsed or refractory, systemic ALK-positive ALCL.[L42460] Additionally, crizotinib is indicated for the treatment of adult and pediatric patients 1 year of age and older with unresectable, recurrent, or refractory inflammatory myofibroblastic tumor (IMT) that is ALK-positive.[L42460]",
+    "pharmacodynamics": "In a phase I study, 37 patients with a variety of solid-tumor cancers refractory to therapy received 50 to 300 mg of crizotinib daily or twice daily. In this group, two patients with non-small cell lung cancer (NSCLC) exhibiting echinoderm microtubule-associated protein-like 4 (EML4)-anaplastic lymphoma kinase (ALK) mutations responded to therapy; therefore, following studies focused on patients with advanced ALK-positive disease.[A7418] In this group of patients, the 6-month progression-free survival among crizotinib users was approximately 72%. When compared to ALK mutation-positive patients that did not receive crizotinib, ALK mutation-positive patients treated with crizotinib had a higher two-year overall survival rate (54% vs 36%).[A7418]\r\n\r\nThe use of crizotinib may lead to hepatotoxicity, interstitial lung disease (ILD), pneumonitis, QT interval prolongation, bradycardia, severe visual loss, \u200b\u200bembryo-fetal toxicity and gastrointestinal toxicity in pediatric and young adult patients with anaplastic large cell lymphoma (ALCL) or pediatric patients with inflammatory myofibroblastic tumor (IMT).[L42460]",
+    "mechanism-of-action": "Crizotinib is a tyrosine kinase receptor inhibitor that targets anaplastic lymphoma kinase (ALK), hepatocyte growth factor receptor (HGFR, c-MET), ROS1 (c-ros), and Recepteur d'Origine Nantais (RON).[L42460] When activated, ALK inhibits apoptosis and promotes cell proliferation, and ALK-gene translocations can lead to the expression of oncogenic fusion proteins. A small portion of non-small cell lung cancer (NSCLC) patients have ALK-positive tumors. Most of these cases are characterized by the fusion of ALK with the chimeric protein echinoderm microtubule-associated protein-like 4 (EML4), resulting in increased kinase activity.[A7418,L42460] Crizotinib inhibits ALK by inhibiting its phosphorylation and creating an inactive protein conformation.[A250785] This ultimately lowers the proliferation of cells carrying this genetic mutation and tumour survivability.[L42460] \r\n\r\n_In vitro_ assays on tumor cell lines demonstrated that crizotinib inhibits ALK, ROS1, and c-Met phosphorylation in a concentration-dependent manner. _In vivo_ studies in mice with tumor xenografts that expressed EML4- or nucleophosmin (NPM)-ALK fusion proteins or c-Met showed that crizotinib has antitumor activity.[L42460]",
+    "absorption": "In patients with pancreatic, colorectal, sarcoma, anaplastic large-cell lymphoma and non-small cell lung cancer (NSCLC) treated with crizotinib doses ranging from 100 mg once a day to 300 mg twice a day, the mean AUC and C<sub>max</sub> increased in a dose-proportional manner.[A7419] A single crizotinib dose of crizotinib is absorbed with a median t<sub>max</sub> 4 to 6 hours.[L42460] In patients receiving multiple doses of crizotinib 250 mg twice daily (n=167), the mean AUC was is 2321.00 ng\u22c5hr/mL, the mean C<sub>max</sub> was 99.60 ng/mL, and the median t<sub>max</sub> was 5.0 hours.[A7418] The mean absolute bioavailability of crizotinib is 43%, ranging from 32% to 66%. High-fat meals reduce the AUC<sub>0-INF</sub> and C<sub>max</sub> of crizotinib by approximately 14%.[L42460] Age, sex at birth, and ethnicity (Asian vs non-Asian patients) did not have a clinically significant effect on crizotinib pharmacokinetics. In patients less than 18 years old, higher body weight was associated with a lower crizotinib exposure.[L42460]",
+    "metabolism": "Crizotinib is mainly metabolized in the liver by CYP3A4 and CYP3A5, and undergoes an O-dealkylation, with subsequent phase 2 conjugation.[A7418] Non-metabolic elimination, such as biliary excretion, can not be excluded.[L42465] PF-06260182 (with two constituent diastereomers, PF-06270079 and PF-06270080) is the only active metabolite of crizotinib that has been identified. _In vitro_ studies suggest that, compared to crizotinib, PF-06270079 and PF-06270080 are approximately 3- to 8-fold less potent against anaplastic lymphoma kinase (ALK) and 2.5- to 4-fold less potent against Hepatocyte Growth Factor Receptor (HGFR, c-Met).[L42465]",
+    "toxicity": "The maximum tolerated dose of crizotinib is the same as the recommended dosing regimen (250 mg twice daily). This was defined based on a phase 1 dose-escalation study in patients with advanced solid tumors. The treatment of crizotinib overdoses should consist of symptomatic treatment and other supportive measures. There is no antidote for crizotinib.[L42485]  _In vitro_ and _in vivo_ studies have shown that crizotinib is genotoxic, and the Ames test showed that crizotinib was not mutagenic. Carcinogenicity studies with crizotinib have not been performed.[L42460] \r\n\r\nIn female rats, 500 mg/kg/day (approximately 10 times the recommended human dose based on body surface area) of crizotinib for 3 days induced single-cell necrosis of ovarian follicles. In male rats, 50 mg/kg/day of crizotinib (greater than 1.7 times the recommended human dose) for 28 days induced testicular pachytene spermatocyte degeneration.[L42460]",
+    "targets": [
+        [
+            "ALK",
+            "ALK tyrosine kinase receptor",
+            "Humans"
+        ],
+        [
+            "MET",
+            "Hepatocyte growth factor receptor",
+            "Humans"
+        ],
+        [
+            "ROS1",
+            "Proto-oncogene tyrosine-protein kinase ROS",
+            "Humans"
+        ],
+        [
+            "MST1R",
+            "Macrophage-stimulating protein receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,182 @@
+{
+    "pharmgkb_id": "PA451201",
+    "drugbank_id": "DB01224",
+    "names": [
+        "Quetiapine"
+    ],
+    "description": "Initially approved by the FDA in 1997, quetiapine is a second-generation atypical antipsychotic used in schizophrenia, major depression, and bipolar disorder.[L8546] Quetiapine demonstrates a high level of therapeutic efficacy and low risk of adverse effects during long-term treatment. It is well-tolerated and a suitable option for some patients with high sensitivity to other drugs, such as [clozapine] and [olanzapine].[A2189]",
+    "indication": "Quetiapine is used in the symptomatic treatment of schizophrenia.  In addition, it may be used for the management of acute manic or mixed episodes in patients with bipolar I disorder, as a monotherapy or combined with other drugs. It may be used to manage depressive episodes in bipolar disorder. In addition to the above indications, quetiapine is used in combination with antidepressant drugs for the treatment of major depression.[L8546]\r\n\r\nSome off-label uses for this drug include the management of post-traumatic stress disorder (PTSD), generalized anxiety disorder, and psychosis associated with Parkinson's disease.[A185438,A185447,T685]\r\n",
+    "pharmacodynamics": "Quetiapine improves the positive and negative symptoms of schizophrenia and major depression by acting on various neurotransmitter receptors, such as the serotonin and dopamine receptors. In bipolar disorder, it improves both depressive and manic symptoms.[A2189,A185441,A185444]\r\n\r\n**A note on suicidality in young patients and administration in the elderly**\r\n\r\nQuetiapine can cause suicidal thinking or behavior in children and adolescents and should not be given to children under 10 years of age. It is important to monitor for suicidality if this drug is given to younger patients. In addition, this drug is not indicated for the treatment of psychosis related to dementia due to an increased death rate in elderly patients taking this drug.[L8546]",
+    "mechanism-of-action": "Although the mechanism of action of quetiapine is not fully understood, several proposed mechanisms exist. In schizophrenia, its actions could occur from the antagonism of dopamine type 2 (D2) and serotonin 2A (5HT2A) receptors. In bipolar depression and major depression, quetiapine's actions may be attributed to the binding of this drug or its metabolite to the norepinephrine transporter. Additional effects of quetiapine, including somnolence, orthostatic hypotension, and anticholinergic effects, may result from the antagonism of H1 receptors, adrenergic \u03b11 receptors, and muscarinic M1 receptors, respectively.[A2189,A185438,L8546]",
+    "absorption": "Quetiapine is rapidly and well absorbed after administration of an oral dose. Steady-state is achieved within 48 hours[A185840] Peak plasma concentrations are achieved within 1.5 hours. The bioavailability of a tablet is 100%. The steady-state Cmax of quetiapine in Han Chinese patients with schizophrenia after a 300 mg oral dose of the extended released formulation was approximately 467 ng/mL and the AUC at steady-state was 5094 ng\u00b7h/mL.[A185858] Absorption of quetiapine is affected by food, with Cmax increased by 25% and AUC increased by 15%.[L8546]",
+    "metabolism": "The metabolism of quetiapine occurs mainly in the liver. Sulfoxidation and oxidation are the main metabolic pathways of this drug. According to in vitro studies, cytochrome P450 3A4 metabolizes quetiapine to an inactive sulfoxide metabolite and also participates in the metabolism of its active metabolite, N-desalkyl quetiapine. CYP2D6 also regulates the metabolism of quetiapine. In one study, three metabolites of N-desalkylquetiapine were identified. Two of the metabolites were identified as N-desalkylquetiapine sulfoxide and 7-hydroxy-N-desalkylquetiapine. CYP2D6 has been found to be responsible for metabolism of quetiapine to 7-hydroxy-N-desalkylquetiapine, a pharmacologically active metabolite. Individual differences in CYP2D6 metabolism may be present, which may affect the concentrations of the active metabolite.[A1118,A183863,L8546]",
+    "toxicity": "The oral LD50 if quetiapine in rats is 2000 mg/kg.[L8594]\r\n\r\n**Overdose information**\r\n\r\nSome signs and symptoms of a quetiapine overdose include sedation, drowsiness, tachycardia, and hypotension. Clinical trials demonstrate that overdoses of up to 30 grams of quetiapine did not result in death. A lethal outcome was reported in a clinical trial after an overdose of 13.6 grams of quetiapine.  In the case of an acute overdose, ensure to maintain an airway and provide adequate ventilation and oxygenation. Gastric lavage following intubation (if necessary) along with activated charcoal and a laxative may be considered. The possibility of obtundation, seizure or dystonic reaction of the head and neck following overdose may create a risk of aspiration with induced emesis. Cardiac monitoring should also take place.[L8546]\r\n\r\n**A note on QT-interval prolongation in an overdose**\r\n\r\nPostmarketing reports reveal increases in the cardiac QT interval in cases of quetiapine overdose, concomitant illness, and in those taking drugs that increase QT interval or affect electrolyte levels.[L8546]  Note that disopyramide, procainamide, and quinidine may exert additive QT-prolonging effects when administered in patients who have overdosed with quetiapine, and should be avoided.[A185834,A185837,L8546]",
+    "targets": [
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1B",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1D",
+            "Humans"
+        ],
+        [
+            "HTR1E",
+            "5-hydroxytryptamine receptor 1E",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "5-hydroxytryptamine receptor 6",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "DRD5",
+            "Dopamine D5 receptor",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "DRD4",
+            "Dopamine D4 receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,387 @@
+{
+    "pharmgkb_id": "PA166175791",
+    "drugbank_id": "DB09061",
+    "names": [
+        "Cannabidiol"
+    ],
+    "description": "Cannabidiol, or CBD, is one of at least 85 active cannabinoids identified within the Cannabis plant. It is a major phytocannabinoid, accounting for up to 40% of the Cannabis plant's extract, that binds to a wide variety of physiological targets of the endocannabinoid system within the body. Although the exact medical implications are currently being investigated, CBD has shown promise as a therapeutic and pharmaceutical drug target. In particular, CBD has shown promise as an analgesic, anticonvulsant, muscle relaxant, anxiolytic, antipsychotic and has shown neuroprotective, anti-inflammatory, and antioxidant activity, among other currently investigated uses [A32477, A32469]. CBD's exact place within medical practice is still currently hotly debated, however as the body of evidence grows and legislation changes to reflect its wide-spread use, public and medical opinion have changed significantly with regards to its usefulness in a number of medical conditions ranging from anxiety to epilepsy.\r\n\r\nFrom a pharmacological perspective, Cannabis' (and CBD's) diverse receptor profile explains its potential application for such a wide variety of medical conditions. Cannabis contains more than 400 different chemical compounds, of which 61 are considered cannabinoids, a class of compounds that act upon endogenous cannabinoid receptors of the body [A32584]. Cannabinoid receptors are utilized endogenously by the body through the endocannabinoid system, which includes a group of lipid proteins, enzymes, and receptors that are involved in many physiological processes. Through its modulation of neurotransmitter release, the endocannabinoid system regulates cognition, pain sensation, appetite, memory, sleep, immune function, and mood among many other bodily systems. These effects are largely mediated through two members of the G-protein coupled receptor family, cannabinoid receptors 1 and 2 (CB1 and CB2)[A32585,A32824]. CB1 receptors are found in both the central and peripheral nervous systems, with the majority of receptors localized to the hippocampus and amygdala of the brain. Physiological effects of using cannabis make sense in the context of its receptor activity as the hippocampus and amygdala are primarily involved with regulation of memory, fear, and emotion. In contrast, CB2 receptors are mainly found peripherally in immune cells, lymphoid tissue, and peripheral nerve terminals [A32676].\r\n\r\nTetrahydrocannabinol (THC) and cannabidiol (CBD) are two types of cannabinoids found naturally in the resin of the marijuana plant, both of which interact with the cannabinoid receptors that are found throughout the body. Although THC and CBD have been the most studied cannabinoids, there are many others identified to date including cannabinol (CBN), cannabigerol (CBG), [DB14050] (CBDV), and [DB11755] (THCV) that can be found within the medical cannabis [A32830]. While both CBD and THC are used for medicinal purposes, they have different receptor activity, function, and physiological effects. If not provided in their activated form (such as through synthetic forms of THC like [DB00470] or [DB00486]), THC and CBD are obtained through conversion from their precursors, tetrahydrocannabinolic acid-A (THCA-A) and cannabidiolic acid (CBDA), through decarboxylation reactions. This can be achieved through heating, smoking, vaporization, or baking of dried unfertilized female cannabis flowers.\r\n\r\nThe primary psychoactive component of Cannabis, delta 9-tetrahydrocannabinol (\u03949-THC), demonstrates its effects through weak partial agonist activity at Cannabinoid-1 (CB1R) and Cannabinoid-2 (CB2R) receptors. This activity results in the well-known effects of smoking cannabis such as increased appetite, reduced pain, and changes in emotional and cognitive processes. In contrast to THC's weak agonist activity, CBD has been shown to act as a negative allosteric modulator of the cannabinoid CB1 receptor, the most abundant G-Protein Coupled Receptor (GPCR) in the body [A32469]. Allosteric regulation is achieved through the modulation of receptor activity on a functionally distinct site from the agonist or antagonist binding site which is clinically significant as direct agonists (such as THC) are limited by their psychomimetic effects such as changes to mood, memory, and anxiety[A32469]. \r\n\r\nIn addition to the well-known activity on CB1 and CB2 receptors, there is further evidence that CBD also activates 5-HT1A/2A/3A serotonergic and TRPV1\u20132 vanilloid receptors, antagonizes alpha-1 adrenergic and \u00b5-opioid receptors, inhibits synaptosomal uptake of noradrenaline, dopamine, serotonin and gamma-aminobutyric acid (GABA), and cellular uptake of anandamide, acts on mitochondria Ca2+ stores, blocks low-voltage-activated (T-type) Ca2+ channels, stimulates activity of the inhibitory glycine-receptor, and inhibits activity of fatty amide hydrolase (FAAH) [A31555, A31574].\r\n\r\nCBD is currently available in Canada within a 1:1 formulation with tetrahydrocannbinol (THC) (as the formulation known as \"nabiximols\") as the brand name product Sativex. It is approved for use as adjunctive treatment for symptomatic relief of spasticity in adult patients with multiple sclerosis (MS). Sativex was also given a conditional Notice of Compliance (NOC/c) for use as adjunctive treatment for the symptomatic relief of neuropathic pain in adult patients with multiple sclerosis and as adjunctive analgesic treatment for moderate to severe pain in adult patients with advanced cancer [L886].\r\n\r\nIn April 2018, a Food and Drug Administration advisory panel unanimously recommended approval of Epidiolex (cannabidiol oral solution) for the treatment of two rare forms of epilepsy - Lennox-Gastaut syndrome and Dravet syndrome, which are among the two most difficult types of epilepsy to treat [L2721, L2719]. Epidiolex was granted Orphan Drug designation as well as Fast Track Approval from the FDA for further study in these hard to treat conditions. Notably, phase 3 clinical trials of Epidiolex have demonstrated clinically significant improvement in Lennox-Gastaut syndrome and Dravet syndrome [L2720]. On June 25th, 2018, Epidiolex was approved by the FDA to be the first CBD-based product available on the US market.",
+    "indication": "When used in combination with delta-9-tetrahydrocannabinol as the product Sativex, cannabidiol was given a standard marketing authorization (ie. a Notice of Compliance (NOC)) by Health Canada for the following indications: \r\n1) as adjunctive treatment for symptomatic relief of spasticity in adult patients with multiple sclerosis (MS) who have not responded adequately to other therapy and who demonstrate meaningful improvement during an initial trial of therapy [L886];\r\n\r\nDue to the need for confirmatory studies to verify the clinical benefit coupled with the promising nature of the clinical evidence, Sativex was also given a Notice of Compliance with Conditions (NOC/c) by Health Canada for the following indications: \r\n1) as adjunctive treatment for the symptomatic relief of neuropathic pain in adult patients with multiple sclerosis; \r\n2) as adjunctive analgesic treatment in adult patients with advanced cancer who experience moderate to severe pain during the highest tolerated dose of strong opioid therapy for persistent background pain [L886].",
+    "pharmacodynamics": "Although the exact mechanism and magnitude of effects of THC and CBD are not fully understood, CBD has been shown to have analgesic, anticonvulsant, muscle relaxant, anxiolytic, neuroprotective, anti-oxidant, and anti-psychotic activity. This wide variety of effects is likely due to it's complex pharmacological mechanisms. In addition to binding to CB1 and CB2 receptors of the endocannabinoid system, there is evidence that CBD activates 5-HT1A serotonergic and TRPV1\u20132 vanilloid receptors, antagonizes alpha-1 adrenergic and \u00b5-opioid receptors, inhibits synaptosomal uptake of noradrenaline, dopamine, serotonin and gaminobutyric acid and cellular uptake of anandamide, acts on mitochondria Ca2 stores, blocks low-voltage-activated (T-type) Ca2 channels, stimulates activity of the inhibitory glycine-receptor, and inhibits activity of fatty amide hydrolase (FAAH) [A31555, A31574].",
+    "mechanism-of-action": "The exact mechanism of action of CBD and THC is not currently fully understood. However, it is known that CBD acts on cannabinoid (CB) receptors of the endocannabinoid system, which are found in numerous areas of the body, including the peripheral and central nervous systems, including the brain. The endocannabinoid system regulates many physiological responses of the body including pain, memory, appetite, and mood. More specifically, CB1 receptors can be found within the pain pathways of the brain and spinal cord where they may affect CBD-induced analgesia and anxiolysis, and CB2 receptors have an effect on immune cells, where they may affect CBD-induced anti-inflammatory processes. \r\n\r\nCBD has been shown to act as a negative allosteric modulator of the cannabinoid CB1 receptor, the most abundant G-Protein Coupled Receptor (GPCR) in the body [A32469]. Allosteric regulation of a receptor is achieved through the modulation of the activity of a receptor on a functionally distinct site from the agonist or antagonist binding site. The negative allosteric modulatory effects of CBD are therapeutically important as direct agonists are limited by their psychomimetic effects while direct antagonists are limited by their depressant effects [A32469]. ",
+    "absorption": "Following a single buccal administration, maximum plasma concentrations of both CBD and THC typically occur within two to four hours. When administered buccally,\r\nblood levels of THC and other cannabinoids are lower compared with inhalation of smoked cannabis. The resultant concentrations in the blood are lower than those obtained by inhaling the same dose because absorption is slower, redistribution into fatty tissues is rapid and additionally some of the THC undergoes hepatic first pass metabolism to 11-OH-THC, a psycho-active metabolite. \r\n\r\nThe CBD component of sublingual Sativex was found to have a Tmax of 1.63hr and a Cmax of 2.50ng/mL, while buccal Sativex was found to have a Tmax of 2.80hr and a Cmax of 3.02ng/mL.",
+    "metabolism": "THC and CBD are metabolized in the liver by a number of cytochrome P450 isoenzymes, including CYP2C9, CYP2C19, CYP2D6 and CYP3A4. They may be stored for as long as four weeks in the fatty tissues from which they are slowly released at sub-therapeutic levels back into the blood stream and metabolized via the renal and biliary systems. The main primary metabolite of CBD is 7-hydroxy-cannabidiol. ",
+    "toxicity": null,
+    "targets": [
+        [
+            "CNR1",
+            "Cannabinoid receptor 1",
+            "Humans"
+        ],
+        [
+            "CNR2",
+            "Cannabinoid receptor 2",
+            "Humans"
+        ],
+        [
+            "GPR12",
+            "G-protein coupled receptor 12",
+            "Humans"
+        ],
+        [
+            "GLRA1",
+            "Glycine receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "GLRA1",
+            "Glycine receptor (alpha-1/beta)",
+            "Humans"
+        ],
+        [
+            "GLRB",
+            "Glycine receptor (alpha-1/beta)",
+            "Humans"
+        ],
+        [
+            "GLRA3",
+            "Glycine receptor subunit alpha-3",
+            "Humans"
+        ],
+        [
+            "GPR18",
+            "N-arachidonyl glycine receptor",
+            "Humans"
+        ],
+        [
+            "GPR55",
+            "G-protein coupled receptor 55",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ],
+        [
+            "TRPV1",
+            "Transient receptor potential cation channel subfamily V member 1",
+            "Humans"
+        ],
+        [
+            "CACNA1G",
+            "Voltage-dependent T-type calcium channel subunit alpha-1G",
+            "Humans"
+        ],
+        [
+            "CACNA1H",
+            "Voltage-dependent T-type calcium channel subunit alpha-1H",
+            "Humans"
+        ],
+        [
+            "CACNA1I",
+            "Voltage-dependent T-type calcium channel subunit alpha-1I",
+            "Humans"
+        ],
+        [
+            "TRPA1",
+            "Transient receptor potential cation channel subfamily A member 1",
+            "Humans"
+        ],
+        [
+            "TRPM8",
+            "Transient receptor potential cation channel subfamily M member 8",
+            "Humans"
+        ],
+        [
+            "TRPV2",
+            "Transient receptor potential cation channel subfamily V member 2",
+            "Humans"
+        ],
+        [
+            "TRPV3",
+            "Transient receptor potential cation channel subfamily V member 3",
+            "Humans"
+        ],
+        [
+            "TRPV4",
+            "Transient receptor potential cation channel subfamily V member 4",
+            "Humans"
+        ],
+        [
+            "VDAC1",
+            "Voltage-dependent anion-selective channel protein 1",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "ADORA1",
+            "Adenosine receptor A1",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "ACAT1",
+            "Acetyl-CoA acetyltransferase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CYP17A1",
+            "Steroid 17-alpha-hydroxylase/17,20 lyase",
+            "Humans"
+        ],
+        [
+            "HMGCR",
+            "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+            "Humans"
+        ],
+        [
+            "GSR",
+            "Glutathione reductase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "GPX1",
+            "Glutathione peroxidase 1",
+            "Humans"
+        ],
+        [
+            "IDO1",
+            "Indoleamine 2,3-dioxygenase 1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "NQO1",
+            "NAD(P)H dehydrogenase [quinone] 1",
+            "Humans"
+        ],
+        [
+            "CAT",
+            "Catalase",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "SOD1",
+            "Superoxide dismutase [Cu-Zn]",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "AANAT",
+            "Serotonin N-acetyltransferase",
+            "Humans"
+        ],
+        [
+            "NAAA",
+            "N-acylethanolamine-hydrolyzing acid amidase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "UGT2B17",
+            "UDP-glucuronosyltransferase 2B17",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2J2",
+            "Cytochrome P450 2J2",
+            "Humans"
+        ],
+        [
+            "UGT1A7",
+            "UDP-glucuronosyltransferase 1-7",
+            "Humans"
+        ],
+        [
+            "AANAT",
+            "Serotonin N-acetyltransferase",
+            "Humans"
+        ],
+        [
+            "FAAH",
+            "Fatty-acid amide hydrolase 1",
+            "Humans"
+        ],
+        [
+            "ALOX5",
+            "Arachidonate 5-lipoxygenase",
+            "Humans"
+        ],
+        [
+            "ALOX15",
+            "Arachidonate 15-lipoxygenase",
+            "Humans"
+        ],
+        [
+            "CRYZ",
+            "Quinone oxidoreductase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,76 @@
+{
+    "pharmgkb_id": "PA166182743",
+    "drugbank_id": "DB12130",
+    "names": [
+        "Lorlatinib"
+    ],
+    "description": "Lorlatinib is a third-generation ALK tyrosine kinase inhibitor (TKI) for patients with ALK-positive metastatic non-small cell lung cancer[L39905] which was first approved by the US FDA in November of 2018. It was subsequently approved by the EMA in 2019 for the treatment of select patients with previously treated advanced ALK-positive non-small cell lung cancer, followed by an expanded approval in 2022 to include lorlatinib as a first-line treatment option in advanced ALK-positive NSCLC. [L13580]",
+    "indication": "Lorlatinib is indicated for the treatment of adult patients with ALK-positive metastatic non-small cell lung cancer (NSCLC).[L39905] In the EU, it is indicated for the treatment of adult patients with ALK-positive advanced NSCLC not previously treated with an ALK inhibitor, or whose disease has progressed after using either [alectinib] or [ceritinib], or [crizotinib] and at least one other ALK inhibitor.[L13580]",
+    "pharmacodynamics": "Based on data from Study B7461001, exposure-response relationships for Grade 3 or 4 hypercholesterolemia and for any Grade 3 or 4 adverse reaction were observed at steady-state exposures achieved at the recommended dosage, with higher probability of the occurrence of adverse reactions with increasing lorlatinib exposure [FDA Label].\r\n\r\nIn 295 patients who received lorlatinib at the recommended dosage of 100 mg once daily and had an ECG measurement in the same Study B7461001, the maximum mean change from baseline for their PR interval was 16.4 ms (2-sided 90% upper confidence interval [CI] 19.4 ms) [FDA Label]. Among the 284 patients with PR interval <200 ms at baseline, 14% had PR interval prolongation \u2265200 ms after starting use with lorlatinib [FDA Label]. The prolongation of PR interval occurred in a concentration-dependent manner and atrioventricular block occurred in 1% of patients [FDA Label].\r\n\r\nFinally, in 275 patients who received lorlatinib at the recommended dosage in the activity-estimating portion of Study B7461001, no large mean increases from baseline in the QTcF interval (i.e., >20 ms) were detected [FDA Label].  ",
+    "mechanism-of-action": "Non-small cell lung cancer (NSCLC) accounts for up to 85% of lung cancer cases worldwide and remains a particularly difficult to treat condition [L4848]. The gene rearrangement of anaplastic lymphoma kinase (ALK) is a genetic alteration that drives the development of NSCLC in a number of patients [A40079, A40080]. Ordinarily, ALK is a natural endogenous tyrosine kinase receptor that plays an important role in the development of the brain and elicits activity on various specific neurons in the nervous system [A40075, A40078, A40079].\r\n\r\nSubsequnetly, lorlatinib is a kinase inhibitor with in vitro activity against ALK and number of other tyrosine kinase receptor related targets including ROS1, TYK1, FER, FPS, TRKA, TRKB, TRKC, FAK, FAK2, and ACK [FDA Label]. Lorlatinib demonstrated in vitro activity against multiple mutant forms of the ALK enzyme, including some mutations detected in tumors at the time of disease progression on crizotinib and other ALK inhibitors [FDA Label]. Moreover, lorlatinib possesses the capability to cross the blood-brain barrier, allowing it to reach and treat progressive or worsening brain metastases as well [L4848, A40078]. The overall antitumor activity of lorlatinib in in-vivo models appears to be dose-dependent and correlated with the inhibition of ALK phosphorylation [FDA Label].\r\n\r\nAlthough many ALK-positive metastatic NSCLC patients respond to initial tyrosine kinase therapies, such patients also often experience tumor progression [A40081]. Various clinical trials performed with lorlatinib, however, have demonstrated its utility  to effect tumor regression in ALK-positive metastatic NSCLC patients who experience tumor progression despite current use or having already used various first and second-generation tyrosine kinase inhibitors like crizotinib, alectinib, or ceritinib [A40086].",
+    "absorption": "The median lorlatinib Tmax was 1.2 hours (0.5 to 4 hours) following a single oral 100 mg dose and 2 hours (0.5 to 23 hours) following 100 mg orally once daily at steady state [FDA Label].\r\n\r\nThe mean absolute bioavailability is 81% (90% CI 75.7%, 86.2%) after oral administration compared to intravenous administration [FDA Label].\r\n\r\nAdministration of lorlatinib with a high fat, high-calorie meal (approximately 1000 calories with 150 calories from protein, 250 calories from carbohydrate, and 500 to 600 calories from fat) had no clinically meaningful effect on lorlatinib pharmacokinetics [FDA Label].  ",
+    "metabolism": "In vitro, lorlatinib is metabolized primarily by CYP3A4 and UGT1A4, with minor contribution from CYP2C8, CYP2C19, CYP3A5, and UGT1A3 [FDA Label]. In plasma, a benzoic acid metabolite (M8) of lorlatinib resulting from the oxidative cleavage of the amide and aromatic ether bonds of lorlatinib accounted for 21% of the circulating radioactivity in a human [14C] mass balance study [FDA Label]. The oxidative cleavage metabolite, M8, is pharmacologically inactive [FDA Label].",
+    "toxicity": "Although there is no formal data available on the use of lorlatinib in pregnant women, based on findings from animal studies and its mechanism of action, it is believed that lorlatinib can cause embryo-fetal harm when administered to a pregnant woman [FDA Label].\r\n\r\nThere are no data on the presence of lorlatinib or its metabolites in either human or animal milk or its effects on the breastfed infant or on milk production [FDA Label]. Because of the potential for serious adverse reactions in breastfed infants, instruct women not to breastfeed during treatment with lorlatinib and for 7 days after the final dose [FDA Label].\r\n\r\nAdvise female patients of reproductive potential to use effective non-hormonal contraception during treatment with lorlatinib and for at least 6 months after the final dose [FDA Label]. Advise females of reproductive potential to use a non-hormonal method of contraception, because lorlatinib can render hormonal contraceptives ineffective [FDA Label].\r\n\r\nBased on genotoxicity findings, advise males with female partners of reproductive potential to use effective contraception during treatment with lorlatinib and for at least 3 months after the final dose [FDA Label].\r\n\r\nBased on findings from animal studies, use of lorlatinib may transiently impair male fertility [FDA Label].\r\n\r\nThe safety and effectiveness of lorlatinib in pediatric patients have not been established [FDA Label].\r\n\r\nOf the 295 patients in Study B7461001 who received 100 mg lorlatinib orally once daily, 18% of patients were aged 65 years or older [FDA Label]. Although data are limited, no clinically important differences in safety or efficacy were observed between patients aged 65 years or older and younger patients [FDA Label].\r\n\r\nNo dose adjustment is recommended for patients with mild hepatic impairment (total bilirubin \u2264 upper limit of normal [ULN] with AST > ULN or total bilirubin >1 to 1.5 \u00d7 ULN with any AST) [FDA Label]. The recommended dose of lorlatinib has not been established for patients with moderate or severe hepatic impairment [FDA Label]. \r\n\r\nNo dose adjustment is recommended for patients with mild or moderate renal impairment (creatinine clearance [CLcr] 30 to 89 mL/min estimated by Cockcroft-Gault) [FDA Label]. The recommended dose of lorlatinib has not been established for patients with severe renal impairment [FDA Label].\r\n\r\nCarcinogenicity studies have not been conducted with lorlatinib [FDA Label]. Lorlatinib was aneugenic in an in vitro assay in human lymphoblastoid TK6 cells and positive for micronuclei formation in vivo in the bone marrow of rats. Lorlatinib was not mutagenic in an in vitro bacterial reverse mutation (Ames) assay [FDA Label].\r\n\r\nDedicated fertility studies were not conducted with lorlatinib [FDA Label]. Findings in male reproductive organs occurred in repeat-dose toxicity studies and included lower testicular, epididymal, and prostate weights; testicular tubular degeneration/atrophy; prostatic atrophy; and/or epididymal inflammation at 15 mg/kg/day and 7 mg/kg/day in rats and dogs, respectively (approximately 8 and 2 times, respectively, the human exposure at the recommended dose of 100 mg based on AUC) [FDA Label]. The effects on male reproductive organs were reversible [FDA Label].\r\n\r\nDistended abdomen, skin rash, and increased cholesterol and triglycerides occurred in animals [FDA Label]. These findings were accompanied by hyperplasia and dilation of the bile ducts in the liver and acinar atrophy of the pancreas in rats at 15 mg/kg/day and in dogs at 2 mg/kg/day (approximately 8 and 0.5 times, respectively, the human exposure at the recommended dose of 100 mg based on AUC) [FDA Label]. All effects were reversible within the recovery period [FDA Label]. ",
+    "targets": [
+        [
+            "ALK",
+            "ALK tyrosine kinase receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,63 @@
+{
+    "pharmgkb_id": "PA450196",
+    "drugbank_id": "DB01006",
+    "names": [
+        "Letrozole"
+    ],
+    "description": "Letrozole, or CGS 20267, is an oral non-steroidal type II aromatase inhibitor first described in the literature in 1990.[A190543,A1559,L11623,L11626] It is a third generation aromatase inhibitor like [exemestane] and [anastrozole], meaning it does not significantly affect cortisol, aldosterone, and thyroxine.[A190546]\r\n\r\nLetrozole was granted FDA approval on 25 July 1997.[L11623]",
+    "indication": "Letrozole is indicated to treat postmenopausal women with hormone receptor (HR) positive early breast cancer, postmenopausal women with early breast cancer who have periviously been treated with tamoxifen, and postmenopausal women with HR+ or unknown advanced breast cancer.[L11623] Letrozole, given with ribociclib, is indicated to treat pre, peri, and postmenopausal women with HR+ and human epidermal growth factor 2 (HER2) negative advanced or metastatic breast cancer.[L11626]",
+    "pharmacodynamics": "Letrozole is an aromatase inhibitor used in the treatment of breast cancer. Aromatase inhibitors work by inhibiting the action of the enzyme aromatase, which converts androgens into estrogens by a process called aromatization. As breast tissue is stimulated by estrogens, decreasing their production is a way of suppressing recurrence of the breast tumor tissue.\r\n\r\nLetrozole is a third generation type II aromatase inhibitor used to treat estrogen dependant breast cancers.[L11623] It has a long duration of action as it has a half life of over 42 hours in breast cancer patients.[A190546,A190555,L11623] Patients should be counselled regarding the risk of interstitial lung disease, pneumonitis, QT prolongation, elevated transaminase levels, neutropenia, and embryo-fetal toxicity.[L11623]",
+    "mechanism-of-action": "Letrozole is a non-steroidal type II aromatase inhibitor.[A1559] It blocks the active site, and therefore the electron transfer chain of CYP19A1.[A1559] This competitive inhibition prevents the conversion of androgens to estrogen.[A1559] This action leads to a reduction in uterine weight and elevated leuteinizing hormone.[L11623] In postmenopausal women, the action of aromatase is responsible for the majority of estrogen production.[L11623] With reduced availability of estrogen, estrogen-dependant tumors regress.[L11623] Third generation aromatase inhibitors do not significantly affect cortisol, aldosterone, and thyroxine levels.[A190546]",
+    "absorption": "Letrozole is 99.9% orally bioavailable.[A190546] A 2.5mg oral dose reaches a C<sub>max</sub> of 104nmol/L with a T<sub>max</sub> of 8.10h, and an AUC of 7387nmol\\*h/L.[A190555]",
+    "metabolism": "Letrozole is metabolized by CYP2A6 to a ketone analog metabolite, which is further metabolized by CYP3A4 and CYP2A6 to 4,4'-(hydroxymethylene)dibenzonitrile.[A33288] 4,4'-(hydroxymethylene)dibenzonitrile is glucuronidated by UGT2B7.[A190549]",
+    "toxicity": "Overdose data in humans is not readily available, however 1 reported case was not associated with serious adverse reactions.[L11623] Animal studies do not report serious adverse effects with high dose treatment.[A190564] Patients experiencing and overdose should be treated with symptomatic and supportive measures.[L11623]\r\n\r\nOral doses over 2000mg/kg were associated with reduced motor activity, ataxia, dyspnea, and death in mice and rats.[L11623]",
+    "targets": [
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

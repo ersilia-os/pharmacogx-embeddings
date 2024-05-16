@@ -1,0 +1,96 @@
+{
+    "pharmgkb_id": "PA451744",
+    "drugbank_id": "DB00656",
+    "names": [
+        "Trazodone",
+        "Beneficat",
+        "Deprax",
+        "Desirel",
+        "Desyrel Dividose",
+        "Mesyrel",
+        "Molipaxin",
+        "Thombran",
+        "Trialodine",
+        "Trittico"
+    ],
+    "description": "Trazodone is triazolopyridine derivative from the serotonin receptor antagonists and reuptake inhibitors (SARIs) class of antidepressants.[A181180] It is used in adults and has been shown to be comparable in efficacy to other drugs such as tricyclic antidepressants (TCAs), selective serotonin reuptake inhibitors (SSRIs), and serotonin-norepinephrine receptor inhibitor (SNRIs) in the treatment of depression.[T646] A unique feature of this drug is that it does not promote the anxiety symptoms, sexual symptoms, or insomnia, which are commonly associated with SSRI and SNRI therapy.[T646] Trazodone acts on various receptors, including certain histamine, serotonin, and adrenergic receptors, distinguishing it from other antidepressants that cover a narrow range of neurotransmitters.[T646] It was initially granted FDA approval in 1981.[L3484]",
+    "indication": "Trazodone is indicated for the treatment of major depressive disorder (MDD).[L3484] It has been used off-label for adjunct therapy in alcohol dependence, and off-label to treat anxiety and insomnia.[L3484] It may also be used off-label to treat symptoms of dementia, Alzheimer\u2019s disease, schizophrenia, eating disorders, and fibromyalgia due to its effects on various neurotransmitter receptors.[A31634]",
+    "pharmacodynamics": "Trazodone treats depressed mood and other depression-related symptoms and shows benefit in the treatment of insomnia due to its sedating effects.[T646] It is known to prolong the cardiac QT-interval.[L3484] Memory, alertness, and cognition may be decreased by trazodone, especially in elderly patients due to its central nervous system depressant effects.[A181177]\r\n\r\nA note on priapism\r\n\r\nTrazodone has been associated with the occurrence of priapism, a painful and persistent incidence of penile tissue erection that is unrelievable and can cause permanent neurological damage if left untreated. Patients must be advised to seek immediate medical attention if priapism is suspected.[A181198,L3484]",
+    "mechanism-of-action": "The mechanism of action of trazodone is not fully understood, however, it is known to inhibit the reuptake of serotonin and block both histamine and alpha-1-adrenergic receptors.[T646]  Despite the fact that trazodone is frequently considered a selective serotonin reuptake inhibitor, several reports have shown that other mechanisms including antagonism at serotonin 5-HT1a, 5-HT1c, and 5-HT2 receptor subtypes may occur.[A181177,T646] The strongest antagonism of trazodone is reported to occur at the serotonin \r\n5-HT21c receptors, preventing serotonin uptake.[A985] In addition to acting on serotonin receptors, trazodone has been shown to inhibit serotonin transporters.[A4334,A181457]  The antidepressant effects of trazodone result from the inhibition of receptor uptake, which normally decreases circulating neurotransmitters, contributing to depressive symptoms.[A181186,A175840] ",
+    "absorption": "Trazodone is rapidly absorbed in the gastrointestinal tract after oral administration, with a bioavailability ranging from 63-91% [A181177] and an AUC0\u2212t of 18193.0 ng\u00b7h/mL.[A181204] Food may impact absorption in a variable fashion, and may sometimes lead to decreases in the Cmax of trazodone.[A181177,A181201] In the fed state in 8 healthy volunteers, the Cmax was measured to be 1.47 +/- 0.16 micrograms/mL, and in the fasted state, was measured at 1.88 +/- 0.42 micrograms/mL. The average Tmax after a single dose of 300 mg was 8 hours. Food may increase absorption by up to 20%.[L7547]",
+    "metabolism": "Trazodone is heavily metabolized and activated in the liver by CYP3A4 enzyme to the active metabolite, m-chlorophenylpiperazine (mCPP).[A987,A988] The full metabolism of trazodone has not been well characterized.[L7483] Some other metabolites that have been identified are a dihydrodiol metabolite and carboxylic acid.[A986]",
+    "toxicity": "The oral LD50 of trazodone is 690 mg/kg in rats.[L7483]\r\n\r\nAn overdose of trazodone may result in central nervous system, cardiac, respiratory effects. Signs and symptoms may include dyspnea, bradycardia, hypotension, mental status changes, lack of coordination, and coma, among others.[L7486]  In addition, an overdose may result in priapism, a persistent unrelievable penile tissue erection that may cause permanent damage if not treated promptly.[A181198] No specific antidote exists for a trazodone overdose. If an overdose occurs, consider the possibility that trazodone may have been combined with other drugs. Contact a poison control center in case of overdose for the most current management guidelines.[L3484] Dialysis does not accelerate trazodone clearance.[A181177]",
+    "targets": [
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "Htr2c",
+            "5-hydroxytryptamine receptor 1C",
+            "Rat"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

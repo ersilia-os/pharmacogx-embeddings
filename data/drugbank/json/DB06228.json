@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA165958360",
+    "drugbank_id": "DB06228",
+    "names": [
+        "Rivaroxaban"
+    ],
+    "description": "Rivaroxaban is an anticoagulant and the first orally active direct factor Xa inhibitor. Unlike warfarin, routine lab monitoring of INR is not necessary. However there is no antidote available in the event of a major bleed. Only the 10 mg tablet can be taken without regard to food. The 15 mg and 20 mg tablet should be taken with food. FDA approved on July 1, 2011.",
+    "indication": "Rivaroxaban is indicated for the prevention of venous thromboembolic events (VTE) in patients who have undergone total hips replacements and total knee replacement surgery; prevention of stroke and systemic embolism in patients with nonvalvular atrial fibrillation; treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE); to reduce risk of recurrent DVT and/or PE. Rivaroxaban is also indicated, in combination with aspirin, for reducing the risk of major cardiovascular events in patients with chronic coronary artery disease or peripheral artery disease. Its use is also not recommended in those with severe renal impairment (<30mL/min).[L12819]\r\n\r\nRivaroxaban is also indicated for the treatment and prevention of VTE in pediatric patients (from birth to 18 years of age) and for thromboprophylaxis in pediatric patients \u22652 years old with congenital heart disease following the Fontan procedure.[L12819]\r\n",
+    "pharmacodynamics": "Rivaroxaban is an anticoagulant which binds directly to factor Xa. Thereafter, it effectively blocks the amplification of the coagulation cascade, preventing the formation of thrombus. Rivaroxaban is a unqiue anticoagulant for two reasons. First of all, it is does not involve antithrombin III (ATIII) to exert its anticoagulant effects. Secondly, it is an oral agent whereas the widely used unfractionated heparin and low molecular weight heparins are for parenteral use only. Although the activated partial thromboplastin time (aPTT) and HepTest (a test developed to assay low molecular weight heparins) are prolonged in a dose-dependant manner, neither test is recommended for the assessment of the pharmacodynamic effects of rivaroxaban. Anti-Xa activity and inhibition of anti-Xa activity monitoring is also not recommended despite being influenced by rivaroxaban.",
+    "mechanism-of-action": "Rivaroxaban competitively inhibits free and clot bound factor Xa. Factor Xa is needed to activate prothrombin (factor II) to thrombin (factor IIa). Thrombin is a serine protease that is required to activate fibrinogen to fibrin, which is the loose meshwork that completes the clotting process. Since one molecule of factor Xa can generate more than 1000 molecules of thrombin, selective inhibitors of factor Xa are profoundly useful in terminating the amplification of thrombin generation. The action of rivaroxaban is irreversible.\r\n \r\n",
+    "absorption": "Following oral administration, rivaroxaban is rapidly absorbed and reaches peak plasma concentration in 2-4 hours. Bioavailability of the 10 mg dose is >80%. However, the 15-20 mg dose have a lower bioavailability if taken in the fasted state and consequently should be taken with food. \r\n",
+    "metabolism": "Approximately two-thirds of the dose is metabolized. It is metabolized by CYP3A4, CYP3A5, CYP2J2 and CYP-independant mechanisms",
+    "toxicity": "Excessive bleeding. Overdosages should be treated using activated charcoal and supportive measures such as mechanical compression and hemodynamic support. If bleeding is not controlled, the following procoagulants can be administered: activated prothrombin complex concentrate, prothrombin complex concentrate and recombinant factor VIIa. There is also a higher chance of post procedural hemorrhage compared to enoxaparin (1.55% vs. 1.39% respectively). ",
+    "targets": [
+        [
+            "F10",
+            "Coagulation factor X",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2J2",
+            "Cytochrome P450 2J2",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

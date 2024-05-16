@@ -1,0 +1,182 @@
+{
+    "pharmgkb_id": "PA448333",
+    "drugbank_id": "DB00404",
+    "names": [
+        "Alprazolam",
+        "Alplax",
+        "Alprazolan",
+        "Alpronax",
+        "Alprox",
+        "Alviz",
+        "Cassadan",
+        "Esparon",
+        "Ralozam",
+        "Restyl",
+        "Solanax",
+        "Staccato alprazolam",
+        "Tafil",
+        "Trankimazin",
+        "Tranquinal",
+        "Xanor"
+    ],
+    "description": "Alprazolam is a triazolobenzodiazepine indicated for the treatment of anxiety and panic disorders.[L34783, L34788] It is mainly metabolized by CYP3As and so is contraindicated with CYP3A inhibitors like ketoconazole and itraconazole.[L34783, L34788] Benzodiazepine treatment should be stopped gradually by tapering down a patient's dose to avoid withdrawal symptoms.[A18125] Alprazolam's adverse effects are generally related to the sedation it can cause.[A18125] Alprazolam has been mixed with alcohol as a drug of abuse to potentiate the sedative effects of the drug which may lead to coma and death.[A18125] Alprazolam was given FDA approval on October 16, 1981.[L6148]",
+    "indication": "Alprazolam is indicated for the acute treatment of generalized anxiety disorder in adults.[L34783] Alprazolam is also indicated, either as a standard or extended-release formulation, for the treatment of panic disorder with or without agoraphobia in adults.[L34783, L34788]\r\n\r\nAlprazolam may also be prescribed off-label for insomnia, premenstrual syndrome, and depression.[A177973]",
+    "pharmacodynamics": "Alprazolam is a benzodiazepine that binds \u03b3-aminobutyric acid (GABA) type-A receptors (GABA<sub>A</sub>Rs) to enhance their inhibitory effect on neurotransmission, specifically in the brain.[L34783, L34788] Concomitant use with opioids may result in profound sedation, respiratory depression, coma, and death; patients taking benzodiazepines and opioids concurrently may require lower doses of one or both medications, depending on their clinical situation. Patients with pre-existing impaired respiratory function are at increased risk of adverse effects including death during treatment with benzodiazepines. In addition, due to its CNS depressant effects, patients taking alprazolam should avoid operating heavy machinery or driving and should avoid other CNS depressants such as alcohol. As with other benzodiazepines, alprazolam carries a risk of abuse, misuse, and addiction, which is higher in predisposed individuals and may require strict monitoring. Cessation of therapy may result in acute or protracted withdrawal symptoms, which may be life-threatening; the patient dose should be gradually tapered whenever discontinuation or reduced dosage are necessary. Newborns born to mothers using alprazolam later in pregnancy may suffer from sedation and withdrawal symptoms. As CYP3A is required for the initial step in alprazolam metabolism, alprazolam is contraindicated in patients taking strong CYP3A inhibitors, such as ketoconazole and itraconazole; milder CYP3A inhibitors still necessitate alprazolam dosage adjustments. Lastly, benzodiazepines may have negative effects, such as panic disorders, increased suicide incidence, and episodes of mania/hypomania, in patients suffering from depression.[A18125, A236788, L34783, L34788]",
+    "mechanism-of-action": "Neurotransmission relies on excitatory and inhibitory signalling. \u03b3-aminobutyric acid (GABA) type-A receptors (GABA<sub>A</sub>Rs) are members of the pentameric ligand-gated ion channel (PLGIC) superfamily located synaptically and perisynaptically to mediate phasic inhibition and extrasynaptically to mediate tonic inhibition. GABA<sub>A</sub>Rs comprise a variety of subunits from a homologous family whose members are named based on sequence identity as one of \u03b11-6, \u03b21-3, \u03b31-3, \u03b4, \u03b5, \u03b8, \u03c0, and \u03c11-3. Each subunit possesses an extracellular (ECD), transmembrane (TMD), and intracellular (ICD) domain; inter-subunit interfaces are the primary points of neurotransmitter and modulator binding, described by coordination of the principal (+) and complementary (-) sites in each subunit. Binding of GABA to GABA<sub>A</sub>Rs induces pore opening, rapid flow of chloride ions, and synaptic hyperpolarization, which in turn manifests as an inhibitory signal.[A236793, A236798]\r\n\r\nThe most prevalent GABA<sub>A</sub>Rs _in vivo_ are the \u03b11\u03b22\u03b32 receptors, which contain both GABA (\u03b2+/\u03b1-) and benzodiazepine (BZD, \u03b1+/\u03b3-) binding sites in the intersubunit interfaces of the relevant subunits.[A236793, A236798, A236828] In general, any receptors containing an \u03b1<sub>x</sub>/\u03b3<sub>z</sub> interface, where x = 1-3,5 and z = 1-3, have potential high-affinity BZD binding sites, although small sequence differences between subunits may alter binding affinity to individual molecules. The \u03b14 and \u03b16 subunits, in which an otherwise conserved histidine is replaced by arginine, do not bind traditional BZD ligands such as diazepam and hence are considered \"diazepam-insensitive\".[A236793, A236798, A236828] GABA binding results in a series of conformational changes in the ECDs of GABA<sub>A</sub>R \u03b2 subunits, \"locking\" each to its neighbouring \u03b1- interface. The binding of alprazolam in the high-affinity BZD site stabilizes the \u03b1+/\u03b3- interface and facilitates the conformational changes that lead to pore opening, hence functioning as a positive allosteric modulator.[A236833]\r\n\r\nThe exact manner in which GABA<sub>A</sub>R allosteric modulation mediates the therapeutic and unwanted effects of benzodiazepines remains unclear.[A177973, A18125] Earlier studies suggested that the primary factor was the \u03b1 subunit composition, with \u03b11-containing receptors mediating the sedative effects, \u03b12/3-containing receptors the anxiolytic effects, and \u03b15-containing receptors the memory effects of benzodiazepines.[A236838] More recent studies suggest a more complex set of factors including subunit composition, physiological location, neuronal circuit, and nerve cell type.[A236843] To further complicate matters, there may be up to five distinct BZD binding sites on GABA<sub>A</sub>Rs, with site 1 corresponding to the classical high-affinity \u03b1+/\u03b3- interface. The effects of binding at sites 2-4 are not fully understood and likely impart greater complexity to benzodiazepine pharmacological action.[A236798, A236828]",
+    "absorption": "Alprazolam administered orally is rapidly absorbed in the gastrointestinal tract, reaching C<sub>max</sub> in about 1.8 (1-2) hours. Absorption is high, resulting in an oral bioavailability of 84-91%. A 1 mg oral dose results in a C<sub>max</sub> of 12-22 \u03bcg/L.[A177925, L34783]\r\n\r\nThe extended-release formulation of alprazolam (XANAX XR) has similar absorption, bioavailability, and pharmacokinetics as the standard release, with the exception that the T<sub>max</sub> is ~10 hours compared to 1-2 hours. Temporal dosing alters these parameters, with C<sub>max</sub> increasing by 30% and T<sub>max</sub> decreasing by one hour when dosed at night as opposed to in the morning.[L34788]\r\n\r\nFood has an effect on alprazolam absorption; a high-fat meal up to two hours before dosing increases the C<sub>max</sub> by ~25% and either a reduction (food consumed immediately prior to dosing) or increase (food consumed after dosing) of ~1/3 in T<sub>max</sub>. Neither the AUC nor half-life are appreciably affected by eating.[L34788]",
+    "metabolism": "Alprazolam is metabolized to less effective metabolites by various CYPs including CYP3A4, CYP3A5, CYP3A7, and CYP2C9.[A415, A14775, L162, L34783, L34788] The majority of alprazolam metabolism is mediated by hydroxylation via CYP3As.[A415, A14775, A177925, L162, L34783, L34788] 4-hydroxyalprazolam has 20% the binding affinity of the parent drug, alpha-hydroxyalprazolam has 66% the affinity, and the benzophenone metabolite has <1% the affinity.[A177925, L34783, L34788]",
+    "toxicity": "Alprazolam overdose can present as sleepiness, confusion, poor coordination, slow reflexes, coma, and death.[L34783, L34788] Taking alprazolam with alcohol lowers the threshold for overdose.[L34783, L34788] Patients should have their respiration, pulse, and blood pressure monitored.[L34783, L34788] Patients can be treated by gastric lavage and intravenous fluids.[L34783, L34788]. If hypotension occurs, patients may be treated with vasopressors.[L34783, L34788] In known, or suspected overdoses, patients can be given the benzodiazepine receptor antagonist [flumazenil] in addition to other methods of management.[L34783, L34788]\r\n\r\nOral LD50 in rats is 331-2171mg/kg.[Label]",
+    "targets": [
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,162 @@
+{
+    "pharmgkb_id": "PA134687937",
+    "drugbank_id": "DB06148",
+    "names": [
+        "Mianserin",
+        "Bolvidon",
+        "Depnon",
+        "Lantanon",
+        "Lumin",
+        "Norval",
+        "Tolvon"
+    ],
+    "description": "A tetracyclic compound with antidepressant effects. Mianserin was previously available internationally, however in most markets it has been phased out in favour of [mirtazapine].",
+    "indication": "For the treatment of depression.",
+    "pharmacodynamics": "Mianserin is a tetracyclic antidepressant that has antihistaminic and hypnosedative, but almost no anticholinergic, effect. It is a weak inhibitor of norepinephrine reuptake and strongly stimulates the release of norepinephrine. Interactions with serotonin receptors in the central nervous system have also been found. Its effect is usually noticeable after one to three weeks. Mianserin may cause drowsiness and hematological problems.",
+    "mechanism-of-action": "Mianserin's mechanism of therapeutic action is not well understood, although it apparently blocks alpha-adrenergic, histamine H1, and some types of serotonin receptors.",
+    "absorption": "Absorbed following oral administration.",
+    "metabolism": "Hepatic.",
+    "toxicity": "Oral rat LD<sub>50</sub>: 780mg/kg",
+    "targets": [
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "HRH4",
+            "Histamine H4 receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine receptor 2B",
+            "Humans"
+        ],
+        [
+            "HTR1F",
+            "5-hydroxytryptamine receptor 1F",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "5-hydroxytryptamine receptor 6",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "D(1) dopamine receptor",
+            "Humans"
+        ],
+        [
+            "DRD5",
+            "D(1) dopamine receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

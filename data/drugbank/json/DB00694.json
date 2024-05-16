@@ -1,0 +1,148 @@
+{
+    "pharmgkb_id": "PA449212",
+    "drugbank_id": "DB00694",
+    "names": [
+        "Daunorubicin",
+        "Cerubidin",
+        "C\u00e9rubidine",
+        "Daunoblastin",
+        "Daunoblastina",
+        "Daunorrubicina",
+        "Maxidauno"
+    ],
+    "description": "A very toxic anthracycline aminoglycoside antineoplastic isolated from Streptomyces peucetius and others, used in treatment of leukemia and other neoplasms.",
+    "indication": "For remission induction in acute nonlymphocytic leukemia (myelogenous, monocytic, erythroid) of adults and for remission induction in acute lymphocytic leukemia of children and adults.\r\n\r\nDaunorubicin is indicated in combination with [cytarabine] for the treatment of newly-diagnosed therapy-related acute myeloid leukemia (t-AML) or AML with myelodysplasia-related changes (AML-MRC) in adults and pediatric patients 1 year and older.[L32843]",
+    "pharmacodynamics": "Daunorubicin is an anthracycline antibiotic and antineoplastic agent.[L32843] It acts by inhibiting cellular reproduction through interference with DNA replication although it may contribute to the induction of cell death by increasing oxidative stress through the generation of reactive oxygen species and free radicals. As an antineoplastic agent, daunorubicin carries significant toxicities including cytopenias, hepatotoxicity, and extravasation reactions. Like other anthracyclines, daunorubicin also exhibits cardiotoxicity in proportion with the cumulative dose received over time.",
+    "mechanism-of-action": "Daunorubicin has antimitotic and cytotoxic activity through a number of proposed mechanisms of action: Daunorubicin forms complexes with DNA by intercalation between base pairs, and it inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes.",
+    "absorption": "Daunorubicin was found to have a tmax of 2 h and a cmax of 24.8 \u03bcg/mL after a 90 min infusion of the liposomal formulation at a dose of 44 mg/m<sup>2</sup>. [A237405]",
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "TOP2A",
+            "DNA topoisomerase 2-alpha",
+            "Humans"
+        ],
+        [
+            "TOP2B",
+            "DNA topoisomerase 2-beta",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "POR",
+            "NADPH--cytochrome P450 reductase",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "AKR1B1",
+            "Aldose reductase",
+            "Humans"
+        ],
+        [
+            "CBR1",
+            "Carbonyl reductase [NADPH] 1",
+            "Humans"
+        ],
+        [
+            "CBR3",
+            "Carbonyl reductase [NADPH] 3",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCC10",
+            "Multidrug resistance-associated protein 7",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC6",
+            "Multidrug resistance-associated protein 6",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00694",
+            "Drug Name": "Daunorubicin",
+            "Gene Symbol": "CYP1B1",
+            "RS ID (Genotype)": "rs10932125",
+            "Adverse Reaction Description": "The presence of this genotype in CYP1B1 may be associated with an increased risk of drug-induced cytotoxicity from daunorubicin therapy."
+        },
+        {
+            "DrugBank ID": "DB00694",
+            "Drug Name": "Daunorubicin",
+            "Gene Symbol": "HNRNPD",
+            "RS ID (Genotype)": "rs3750518",
+            "Adverse Reaction Description": "The presence of this genotype in HNRNPD may be associated with an increased risk of drug-induced cytotoxicity from daunorubicin therapy."
+        },
+        {
+            "DrugBank ID": "DB00694",
+            "Drug Name": "Daunorubicin",
+            "Gene Symbol": "SEC14L3",
+            "RS ID (Genotype)": "rs6603859",
+            "Adverse Reaction Description": "The presence of this genotype in SEC14L3 may be associated with an increased risk of drug-induced cytotoxicity from daunorubicin therapy."
+        },
+        {
+            "DrugBank ID": "DB00694",
+            "Drug Name": "Daunorubicin",
+            "Gene Symbol": "IKBKE",
+            "RS ID (Genotype)": "rs7929521",
+            "Adverse Reaction Description": "The presence of this genotype in IKBKE may be associated with an increased risk of drug-induced cytotoxicity from daunorubicin therapy."
+        },
+        {
+            "DrugBank ID": "DB00694",
+            "Drug Name": "Daunorubicin",
+            "Gene Symbol": "RARG",
+            "RS ID (Genotype)": "rs2229774",
+            "Adverse Reaction Description": "Pediatric patients who carry this genotype may be at a higher risk of experiencing anthracycline-induced cardiotoxicity when treated with daunorubicin."
+        },
+        {
+            "DrugBank ID": "DB00694",
+            "Drug Name": "Daunorubicin",
+            "Gene Symbol": "SLC28A3",
+            "RS ID (Genotype)": "rs7853758",
+            "Adverse Reaction Description": "Pediatric patients who carry this genotype may be at a higher risk of experiencing anthracycline-induced cardiotoxicity when treated with daunorubicin."
+        },
+        {
+            "DrugBank ID": "DB00694",
+            "Drug Name": "Daunorubicin",
+            "Gene Symbol": "UGT1A6",
+            "RS ID (Genotype)": "rs17863783",
+            "Adverse Reaction Description": "Pediatric patients who carry this genotype may be at a higher risk of experiencing anthracycline-induced cardiotoxicity when treated with daunorubicin."
+        }
+    ]
+}

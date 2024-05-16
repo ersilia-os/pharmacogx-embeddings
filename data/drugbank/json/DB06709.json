@@ -1,0 +1,51 @@
+{
+    "pharmgkb_id": "PA165958382",
+    "drugbank_id": "DB06709",
+    "names": [
+        "Methacholine"
+    ],
+    "description": "Asthma is a complex condition associated with phenomena such as airway hyperresponsiveness (AHR), in which the smooth muscle in the airways (ASM) excessively contracts in response to stimuli, reducing pulmonary function and causing symptoms such as difficulty breathing.[A229598, A229603] Although the underlying pathology of AHR is complex, ASM contraction can be stimulated by cholinergic agonists that activate M<sub>3</sub> muscarinic receptors that stimulate ASM contraction.[A229603, A229618, A229643] Methacholine is a non-specific cholinergic agonist (parasympathomimetic) that acts through muscarinic receptors in the lungs to induce bronchoconstriction.[L31763] In patients with AHR, a lower dose of methacholine is required to induce bronchoconstriction, which forms the basis for the methacholine challenge test to diagnose AHR.[A229648, L31763]\r\n\r\nMethacholine was granted FDA approval on October 31, 1986, and is marketed under the trademark PROVOCHOLINE\u00ae by Methapharm Inc.[L31763]",
+    "indication": "Methacholine is indicated in adult and pediatric patients aged five years and older without clinically apparent asthma for the diagnosis of bronchial airway hyperactivity via the methacholine challenge test.[L31763]",
+    "pharmacodynamics": "Methacholine is a non-specific cholinergic agonist (parasympathomimetic) that acts through muscarinic receptors in the lungs to induce bronchoconstriction, which is more significant in patients with asthma than those without. Therefore, methacholine carries a risk of severe bronchoconstriction, especially in patients with pre-existing reduced pulmonary function (typically baseline FEV<sub>1</sub> < 60% or < 1.5 L, at least in adults), clinically apparent asthma or wheezing, or other health conditions such as uncontrolled hypertension, aortic aneurysm, or history of myocardial infarction or stroke. Use in patients with epilepsy, vagotonia, peptic ulcer disease, thyroid disease, urinary tract obstruction or other conditions that could be adversely affected by a cholinergic agent is not recommended. Also, there is a potential risk to healthcare workers administering the methacholine challenge test; proper precautions and protective equipment should be used as needed.[L31763]",
+    "mechanism-of-action": "Asthma is a complicated condition associated with airway remodelling, including the proliferation of airway smooth muscle (ASM) and altered extracellular matrix, aberrant pro-inflammatory immune responses, and excessive ASM contraction leading to decreased lung function.[A229598, A229603] Excessive ASM contraction in response to contractile agonists, a phenomenon termed airway hyperresponsiveness (AHR), is a physical manifestation of the altered pulmonary physiology in asthma.[A229603] Although numerous factors, such as increased ASM levels, pro-contractile molecules, pro-inflammatory cytokines, and growth factors, contribute to AHR, one of the key factors in determining ASM tone is regulated by vagal parasympathetic nerve innervation.[A229598, A229603, A229613] The response to acetylcholine and other cholinergic agonists at these neuromuscular junctions is predominantly controlled by inhibitory G<sub>i</sub>-coupled M<sub>2</sub> and excitatory G<sub>q</sub>-coupled M<sub>3</sub> muscarinic acetylcholine receptors (mAChRs). Activation of M<sub>3</sub> receptors results in ASM contraction and resulting bronchoconstriction through downstream calcium-dependent signalling pathways, while M<sub>2</sub> activation inhibits neuronal acetylcholine release.[A229603, A229613, A229618]\r\n\r\nMethacholine is a non-specific mAChR agonist, capable of acting on all mAChR subtypes.[A229623, A229628, A229633] However, in the context of AHR, methacholine's ability to induce bronchoconstriction through M<sub>3</sub> receptors is clinically relevant.[A229603, A229618, A229643] In addition, M<sub>3</sub> agonism may increase the release of pro-inflammatory cytokines, further contributing to AHR.[A17070] The inhibitory effect of M<sub>2</sub> agonism by methacholine is likely also important, as shown by animal studies using mice with impaired M<sub>2</sub> function, and by observations that eosinophilic inflammation, such as occurs in asthma, negatively impacts M<sub>2</sub> function.[A229613] Hence, asthmatic patients are more sensitive to inhaled cholinergic agonists such as methacholine; this forms the basis for the methacholine challenge test, which diagnoses AHR through an increased methacholine-induced response.[A229648, L31763]",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

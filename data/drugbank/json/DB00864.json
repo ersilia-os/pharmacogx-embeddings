@@ -1,0 +1,78 @@
+{
+    "pharmgkb_id": "PA451578",
+    "drugbank_id": "DB00864",
+    "names": [
+        "Tacrolimus"
+    ],
+    "description": "Tacrolimus (also FK-506 or Fujimycin) is an immunosuppressive drug whose main use is after organ transplant to reduce the activity of the patient's immune system and so the risk of organ rejection. It is also used in a topical preparation in the treatment of severe atopic dermatitis, severe refractory uveitis after bone marrow transplants, and the skin condition vitiligo. It was discovered in 1984 from the fermentation broth of a Japanese soil sample that contained the bacteria Streptomyces tsukubaensis. Tacrolimus is chemically known as a macrolide. It reduces peptidyl-prolyl isomerase activity by binding to the immunophilin FKBP-12 (FK506 binding protein) creating a new complex. This FKBP12-FK506 complex inhibits calcineurin which inhibits T-lymphocyte signal transduction and IL-2 transcription.",
+    "indication": "Immediate-release formulations of tacrolimus are indicated for the prophylaxis of organ rejection in adult and pediatric patients receiving allogeneic liver, kidney, heart, or lung transplants, in combination with other immunosuppressants.[L8162] Extended-release formulations of tacrolimus are indicated for the prophylaxis of organ rejection in adult and pediatric patients receiving kidney transplants, in combination with other immunosuppressants,[L20034,L41005] and may be used in patients converted from immediate-release formulations.[L41005]\r\n\r\nTopical tacrolimus ointment is indicated as second-line therapy for short-term and non-continuous treatment of moderate-to-severe atopic dermatitis in non-immunocompromised adults and children who have failed to respond adequately to other topical treatments or for whom alternative treatments are not advisable.[L3935] Both available strengths are indicated in adult patients, while only the lower strength (0.03%) formulation is indicated in pediatric patients between 2 and 15 years of age.[L3935]",
+    "pharmacodynamics": "Tacrolimus acts by reducing peptidyl-prolyl isomerase activity by binding to the immunophilin FKBP-12 (FK506 binding protein) creating a new complex. This inhibits both T-lymphocyte signal transduction and IL-2 transcription. Tacrolimus has similar activity to cyclosporine but rates of rejection are lower with tacrolimus. Tacrolimus has also been shown to be effective in the topical treatment of eczema, particularly atopic eczema. It suppresses inflammation in a similar way to steroids, but is not as powerful. An important dermatological advantage of tacrolimus is that it can be used directly on the face; topical steroids cannot be used on the face, as they thin the skin dramatically there. On other parts of the body, topical steroid are generally a better treatment.",
+    "mechanism-of-action": "The mechanism of action of tacrolimus in atopic dermatitis is not known. While the following have been observed, the clinical significance of these observations in atopic dermatitis is not known. It has been demonstrated that tacrolimus inhibits T-lymphocyte activation by first binding to an intracellular protein, FKBP-12. A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin is then formed and the phosphatase activity of calcineurin is inhibited. This prevents the dephosphorylation and translocation of nuclear factor of activated T-cells (NF-AT), a nuclear component thought to initiate gene transcription for the formation of lymphokines. Tacrolimus also inhibits the transcription for genes which encode IL-3, IL-4, IL-5, GM-CSF, and TNF-, all of which are involved in the early stages of T-cell activation. Additionally, tacrolimus has been shown to inhibit the release of pre-formed mediators from skin mast cells and basophils, and to downregulate the expression of FceRI on Langerhans cells.",
+    "absorption": "Absorption of tacrolimus from the gastrointestinal tract after oral administration is incomplete and variable. The absolute bioavailability in adult kidney transplant patients is 17\u00b110%; in adults liver transplant patients is 22\u00b16%; in healthy subjects is 18\u00b15%. The absolute bioavailability in pediatric liver transplant patients was 31\u00b124%. Tacrolimus maximum blood concentrations (Cmax) and area under the curve (AUC) appeared to increase in a dose-proportional fashion in 18 fasted healthy volunteers receiving a single oral dose of 3, 7, and 10 mg. When given without food, the rate and extent of absorption were the greatest. The time of the meal also affected bioavailability. When given immediately after a meal, mean Cmax was reduced 71%, and mean AUC was reduced 39%, relative to the fasted condition. When administered 1.5 hours following the meal, mean Cmax was reduced 63%, and mean AUC was reduced 39%, relative to the fasted condition.",
+    "metabolism": "The metabolism of tacrolimus is predominantly mediated by CYP3A4 and secondarily by CYP3A5.[A38786,L8162] Tacrolimus is metabolized into 8 metabolites: 13-demethyl tacrolimus, 31-demethyl tacrolimus, 15-demethyl tacrolimus, 12-hydroxy tacrolimus, 15,31-didemethyl tacrolimus, 13,31-didemethyl tacrolimus, 13,15-didemethyl tacrolimus, and a final metabolite involving O-demethylation and the formation of a fused ring.[A38786] The major metabolite identified in incubations with human liver microsomes is 13-demethyl tacrolimus.[L8162] In in vitro studies, a 31-demethyl metabolite has been reported to have the same activity as tacrolimus.[L8162]",
+    "toxicity": "Side effects can be severe and include blurred vision, liver and kidney problems (it is nephrotoxic), seizures, tremors, hypertension, hypomagnesemia, diabetes mellitus, hyperkalemia, itching, insomnia, confusion. LD<sub>50</sub>=134-194 mg/kg (rat).",
+    "targets": [
+        [
+            "FKBP1A",
+            "Peptidyl-prolyl cis-trans isomerase FKBP1A",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCA5",
+            "ATP-binding cassette sub-family A member 5",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00864",
+            "Drug Name": "Tacrolimus",
+            "Gene Symbol": "CYP3A5",
+            "RS ID (Genotype)": null,
+            "Effect Description": "Patients with this genotype in CYP3A5 are extensive metabolizers and require higer doses of tacrolimus to attain the therapeutic effect."
+        },
+        {
+            "DrugBank ID": "DB00864",
+            "Drug Name": "Tacrolimus",
+            "Gene Symbol": "ABCB1",
+            "RS ID (Genotype)": "rs2032582",
+            "Adverse Reaction Description": "The presence of this genotype in ABCB1 may indicate an increased risk of drug-induced neurotoxicity when treated with tacrolimus."
+        }
+    ]
+}

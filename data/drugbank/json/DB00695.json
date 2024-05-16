@@ -1,0 +1,97 @@
+{
+    "pharmgkb_id": "PA449719",
+    "drugbank_id": "DB00695",
+    "names": [
+        "Furosemide",
+        "Diurapid",
+        "Diurin",
+        "Diurmessel",
+        "Eutensin",
+        "Frumex",
+        "Frusenex",
+        "Frusol",
+        "Furo-Puren",
+        "Seguril"
+    ],
+    "description": "Furosemide is a potent loop diuretic that acts on the kidneys to ultimately increase water loss from the body. It is an anthranilic acid derivative.[L7958] Furosemide is used for edema secondary to various clinical conditions, such as congestive heart failure exacerbation, liver failure, renal failure, and high blood pressure.[L7961] It mainly works by inhibiting electrolyte reabsorption from the kidneys and enhancing the excretion of water from the body. Furosemide has a fast onset and short duration of action and has been used safely and effectively in both pediatric and adult patients.[A182495] The use of furosemide is particularly beneficial in clinical settings that require a drug with a higher diuretic potential. In addition to oral formulations, the solution for intravenous and intramuscular administration is also available, which is typically limited to patients who are unable to take oral medication or for patients in emergency clinical situations.[L7958]",
+    "indication": "Furosemide is indicated for the treatment of edema associated with congestive heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome, in adults and pediatric patients.[L7958] \r\n\r\nOral furosemide is indicated alone for the management of mild to moderate hypertension or severe hypertension in combination with other antihypertensive medications.[L9659]\r\n\r\nIntravenous furosemide is indicated as adjunctive therapy in acute pulmonary edema when a rapid onset of diuresis is desired.[L7958]\r\n\r\nSubcutaneous furosemide is indicated for the treatment of congestion due to fluid overload in adults with NYHA Class II/III chronic heart failure. This drug formulation is not indicated for emergency situations or in patients with acute pulmonary edema.[L43408]",
+    "pharmacodynamics": "Furosemide manages hypertension and edema associated with congestive heart failure, cirrhosis, and renal disease, including the nephrotic syndrome. Furosemide is a potent loop diuretic that works to increase the excretion of Na+ and water by the kidneys by inhibiting their reabsorption from the proximal and distal tubules, as well as the loop of Henle.[L7958] It works directly acts on the cells of the nephron and indirectly modifies the content of the renal filtrate.[T28] Ultimately, furosemide increases the urine output by the kidney. Protein-bound furosemide is delivered to its site of action in the kidneys and secreted via active secretion by nonspecific organic transporters expressed at the luminal site of action.[A31831,L7958] \r\n\r\nFollowing oral administration, the onset of the diuretic effect is about 1 and 1.5 hours [L7958], and the peak effect is reached within the first 2 hours.[L7961] The duration of effect following oral administration is about 4-6 hours but may last up to 8 hours.[L9659] Following intravenous administration, the onset of effect is within 5 minutes, and the peak effect is reached within 30 minutes. The duration of action following intravenous administration is approximately 2 hours. Following intramuscular administration, the onset of action is somewhat delayed.[L7958]",
+    "mechanism-of-action": "Furosemide promotes diuresis by blocking tubular reabsorption of sodium and chloride in the proximal and distal tubules, as well as in the thick ascending loop of Henle. This diuretic effect is achieved through the competitive inhibition of sodium-potassium-chloride cotransporters (NKCC2) expressed along these tubules in the nephron, preventing the transport of sodium ions from the lumenal side into the basolateral side for reabsorption. This inhibition results in increased excretion of water along with sodium, chloride, magnesium, calcium, hydrogen, and potassium ions.[L7961] As with other loop diuretics, furosemide decreases the excretion of uric acid.[T28] \r\n\r\nFurosemide exerts direct vasodilatory effects, which results in its therapeutic effectiveness in the treatment of acute pulmonary edema. Vasodilation leads to reduced responsiveness to vasoconstrictors, such as angiotensin II and noradrenaline, and decreased production of endogenous natriuretic hormones with vasoconstricting properties. It also leads to increased production of prostaglandins with vasodilating properties. Furosemide may also open potassium channels in resistance arteries.[T28] The main mechanism of action of furosemide is independent of its inhibitory effect on carbonic anhydrase and aldosterone.[L7958] ",
+    "absorption": "Following oral administration, furosemide is absorbed from the gastrointestinal tract.[L9659] It displays variable bioavailability from oral dosage forms, ranging from 10 to 90%.[A31831] The oral bioavailability of furosemide from oral tablets or oral solution is about 64% and 60%, respectively, of that from an intravenous injection of the drug.[L7958]",
+    "metabolism": "The metabolism of furosemide occurs mainly in the kidneys and the liver, to a smaller extent. The kidneys are responsible for about 85% of total furosemide total clearance, where about 40% involves biotransformation.[A183563] Two major metabolites of furosemide are furosemide glucuronide, which is pharmacologically active, and saluamine (CSA) or 4-chloro-5-sulfamoylanthranilic acid.[A183281]",
+    "toxicity": "Clinical consequences from overdose depend on the extent of electrolyte and fluid loss and include dehydration, blood volume reduction, hypotension, electrolyte imbalance, hypokalemia, hypochloremic alkalosis,[L7958] hemoconcentration, cardiac arrhythmias (including A-V block and ventricular fibrillation).[L9659] Symptoms of overdose include acute renal failure, thrombosis, delirious states, flaccid paralysis, apathy and confusion. In cirrhotic patients, overdosage might precipitate hepatic coma.[L9659]\r\n\r\nIn rats, the oral LD<sub>50</sub>, intraperitoneal LD<sub>50</sub>, and subcutaneous LD<sub>50</sub> is 2600 mg/kg, 800 mg/kg, and 4600 mg/kg, respectively. The Lowest published toxic dose (TDLo) in a female is 6250 \u03bcg/kg.[L7964]",
+    "targets": [
+        [
+            "SLC12A1",
+            "Solute carrier family 12 member 1",
+            "Humans"
+        ],
+        [
+            "CA2",
+            "Carbonic anhydrase 2",
+            "Humans"
+        ],
+        [
+            "GPR35",
+            "G-protein coupled receptor 35",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "PGD",
+            "6-phosphogluconate dehydrogenase, decarboxylating",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "SLCO2A1",
+            "Solute carrier organic anion transporter family member 2A1",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "SERPINA7",
+            "Thyroxine-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

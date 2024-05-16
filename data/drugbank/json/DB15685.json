@@ -1,0 +1,98 @@
+{
+    "pharmgkb_id": "PA166225084",
+    "drugbank_id": "DB15685",
+    "names": [
+        "Selpercatinib",
+        "Retevmo"
+    ],
+    "description": "Selpercatinib is a kinase inhibitor with enhanced specificity for RET tyrosine kinase receptors (RTKs) over other RTK classes.[A202055, A202052, L13604] Enhanced RET (Rearranged during transfection) oncogene expression is a hallmark of many cancers. Although multikinase inhibitors, including [cabozantinib], [ponatinib], [sorafenib], [sunitinib], and [vandetanib], have shown efficacy in RET-driven cancers, their lack of specificity is generally associated with substantial toxicity. Selpercatinib (LOXO-292) and pralsetinib (BLU-667) represent the first generation of specific RET RTK inhibitors for the treatment of RET-driven cancers.[A202049, A202055, A202052, L13604]\r\n\r\nAlthough selpercatinib is currently still under investigation in clinical trial NCT04211337, it was granted accelerated FDA approval on May 8, 2020, for specific RET-driven cancer indications. It is currently marketed under the brand name RETEVMO\u2122 by Loxo Oncology Inc.[L13604] Selpercatinib is also approved by the European Commission.",
+    "indication": "Selpercatinib is approved to treat: \r\n\r\n- adult with locally advanced or metastatic non-small cell lung cancer (NSCLC) with a rearranged during transfection (RET) gene fusion.[L43267] In Europe, patients should require systemic therapy following prior treatment with immunotherapy and/or platinum-based chemotherapy.[L41895] \r\n- adults and children 12 years of age and older with advanced or metastatic medullary thyroid cancer (MTC) with a RET mutation who require systemic therapy [L43267] In Europe, patients should have been previously treated with [sorafenib] and/or [lenvatinib].[L41895]\r\n- adults and children 12 years and older with advanced RET-mutant medullary thyroid cancer (MTC) who require systemic therapy following prior treatment with [cabozantinib] and/or [vandetanib] [L41895]\r\n- adults and children 12 years of age and older with advanced or metastatic thyroid cancer with a RET gene fusion who require systemic therapy and who are radioactive iodine-refractory (if radioactive iodine is appropriate) [L43267]\r\n- adults with locally advanced or metastatic solid tumors with a RET gene fusion that have progressed on or following prior systemic treatment or who have no satisfactory alternative treatment options [L43267]\r\n\r\nSelpercatinib is currently approved for these indications under an accelerated approval scheme and continued approval may be contingent on future confirmatory trials.[L13604]",
+    "pharmacodynamics": "Selpercatinib exerts anti-tumour activity in specific cancers through inhibition of mutated forms of RET tyrosine kinases.[A202046, A202055, L13604] Due to its increased specificity for RET over other tyrosine kinases, selpercatinib is thought to have an improved safety profile compared to other multi-kinase inhibitors.[A202049] Despite this, selpercatinib treatment is associated with hepatotoxicity, hypertension, QT interval prolongation, hemorrhagic events, risk of impaired wound healing, and embryo-fetal toxicity; some patients may also exhibit hypersensitivity to selpercatinib.[L13604]",
+    "mechanism-of-action": "Rearranged during transfection (RET) is a transmembrane receptor tyrosine kinase containing extracellular, transmembrane, and intracellular domains whose activity is required for normal kidney and nervous system development.[A202061, A202055] Constitutive RET activation is primarily achieved through chromosomal rearrangements producing 5' fusions of dimerizable domains to the 3' _RET_ tyrosine kinase domain, such as _KIF5B-RET_ and _CCDC6-RET_, resulting in constitutive dimerization and subsequent autophosphorylation.[A202055, A202049, A202073] Constitutive activation leads to increased downstream signalling and is associated with tumour invasion, migration, and proliferation.[A202046]\r\n\r\nSelpercatinib is a direct RET kinase inhibitor, exhibiting IC<sub>50</sub> values between 0.92 and 67.8 nM depending on the exact _RET_ genotype.[L13604] Information based on natural as well as induced resistance mutations and molecular modelling suggests that selpercatinib directly inhibits RET autophosphorylation by competing with ATP for binding. Various single amino acid mutations at position 810 inhibit selpercatinib binding without significantly altering ATP binding, potentially leading to treatment failures.[A202052]\r\n\r\nSelpercatinib is also reported to inhibit other tyrosine kinase receptors, including VEGFR1, VEGFR3, FGFR1, FGFR2, and FGFR3, at clinically relevant concentrations. The significance of these effects is not well studied.[L13604]",
+    "absorption": "In patients with locally advanced or metastatic solid tumours receiving 160 mg of selpercatinib twice daily, steady-state was achieved after approximately 7 days, with a C<sub>max</sub> of 2,980 (CV 53%) and AUC<sub>0-24h</sub> of 51,600 (CV 58%). The absolute bioavailability is between 60 and 82% (mean 73%), and the median t<sub>max</sub> is two hours. Food has no apparent effect on the AUC or C<sub>max</sub> of selpercatinib. Patients with hepatic impairment display a concomitant increase in AUC<sub>0-INF</sub> for mild (7%), moderate (32%), and severe (77%) impairment.[L13604]",
+    "metabolism": "Selpercatinib is predominantly metabolized in the liver by CYP3A4.[L13604]",
+    "toxicity": "Toxicity information regarding selpercatinib is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as hepatotoxicity, hypertension, prolonged QT interval, and hemorrhaging. Symptomatic and supportive measures are recommended.[L13604]",
+    "targets": [
+        [
+            "RET",
+            "Proto-oncogene tyrosine-protein kinase receptor Ret",
+            "Humans"
+        ],
+        [
+            "FLT1",
+            "Vascular endothelial growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "FLT4",
+            "Vascular endothelial growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "FGFR1",
+            "Fibroblast growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "FGFR2",
+            "Fibroblast growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FGFR3",
+            "Fibroblast growth factor receptor 3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

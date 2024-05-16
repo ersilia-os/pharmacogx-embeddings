@@ -1,0 +1,42 @@
+{
+    "pharmgkb_id": "PA166252761",
+    "drugbank_id": "DB16628",
+    "names": [
+        "Fosdenopterin",
+        "Nulibry"
+    ],
+    "description": "Molybdenum cofactor deficiency (MoCD) is an exceptionally rare autosomal recessive disorder resulting in a deficiency of three molybdenum-dependent enzymes: sulfite oxidase (SOX), xanthine dehydrogenase, and aldehyde oxidase.[A230088] Signs and symptoms begin shortly after birth and are caused by a build-up of toxic sulfites resulting from a lack of SOX activity.[A230088,L32163] Patients with MoCD may present with metabolic acidosis, intracranial hemorrhage, feeding difficulties, and significant neurological symptoms such as muscle hyper- and hypotonia, intractable seizures, spastic paraplegia, myoclonus, and opisthotonus. In addition, patients with MoCD are often born with morphologic evidence of the disorder such as microcephaly, cerebral atrophy/hypodensity, dilated ventricles, and ocular abnormalities.[A230088] MoCD is incurable and median survival in untreated patients is approximately 36 months[A230088] - treatment, then, is focused on improving survival and maintaining neurological function.\r\n\r\nThe most common subtype of MoCD, type A, involves mutations in _MOCS1_ wherein the first step of molybdenum cofactor synthesis - the conversion of guanosine triphosphate into cyclic pyranopterin monophosphate (cPMP) - is interrupted.[A230088,A230593] In the past, management strategies for this disorder involved symptomatic and supportive treatment,[L32163] though efforts were made to develop a suitable exogenous replacement for the missing cPMP. In 2009 a recombinant, E. coli-produced cPMP was granted orphan drug designation by the FDA, becoming the first therapeutic option for patients with MoCD type A.[A230088]\r\n\r\nFosdenopterin was approved by the FDA on Februrary 26, 2021, for the reduction of mortality in patients with MoCD type A,[L32163] becoming the first and only therapy approved for the treatment of MoCD. By improving the three-year survival rate from 55% to 84%,[L32288] and considering the lack of alternative therapies available, fosdenopterin appears poised to become a standard of therapy in the management of this debilitating disorder.\r\n\r\nIn July 2022, the EMA's Committee for Medicinal Products for Human Use (CHMP) recommended fosdenopterin be granted marketing authorization under exceptional circumstances for the treatment of patients with molybdenum cofactor deficiency (MoCD) Type A.[L43075] In September 2022, the EMA approved the use of fosdenopterin.[L43372,L43433]",
+    "indication": "Fosdenopterin is indicated to reduce the risk of mortality in patients with molybdenum cofactor deficiency (MoCD) type A.[L32288]",
+    "pharmacodynamics": "Fosdenopterin replaces an intermediate substrate in the synthesis of molybdenum cofactor, a compound necessary for the activation of several molybdenum-dependent enzymes including sulfite oxidase (SOX).[A230088] Given that SOX is responsible for detoxifying sulfur-containing acids and sulfites such as S-sulfocysteine (SSC), urinary levels of SSC can be used as a surrogate marker of efficacy for fosdenopterin.[L32288] Long-term therapy with fosdenopterin has been shown to result in a sustained reduction in urinary SSC normalized to creatinine.[L32288]\r\n\r\nAnimal studies have identified a potential risk of phototoxicity in patients receiving fosdenopterin - these patients should avoid or minimize exposure to sunlight and/or artificial UV light.[L32288] If sun exposure is necessary, use protective clothing, hats, and sunglasses,[L32288] in addition to seeking shade whenever practical. Consider the use of a broad-spectrum sunscreen in patients 6 months of age or older.[L32293]",
+    "mechanism-of-action": "Molybdenum cofactor deficiency (MoCD) is a rare autosomal-recessive disorder in which patients are deficient in three molybdenum-dependent enzymes: sulfite oxidase (SOX), xanthine dehydrogenase, and aldehyde dehydrogenase.[A230088] The loss of SOX activity appears to be the main driver of MoCD morbidity and mortality, as the build-up of neurotoxic sulfites typically processed by SOX results in rapid and progressive neurological damage. In MoCD type A, the disorder results from a mutation in the _MOCS1_ gene leading to deficient production of MOCS1A/B,[L32288] a protein that is responsible for the first step in the synthesis of molybdenum cofactor: the conversion of guanosine triphosphate into cyclic pyranopterin monophosphate (cPMP).[A230088,A230618]\r\n\r\nFosdenopterin is an exogenous form of cPMP, replacing endogenous production and allowing for the synthesis of molybdenum cofactor to proceed.[L32288]  ",
+    "absorption": "In healthy adult subjects, the observed C<sub>max</sub> and AUC<sub>0-inf</sub> following the intravenous administration of 0.68 mg/kg (0.76x the maximum recommended dose) were 2800 ng/mL and 5960 ng*h/mL, respectively.[L32288] Both C<sub>max</sub> and AUC<sub>0-inf</sub> appear to increase proportionally with increasing doses.",
+    "metabolism": "Fosdenopterin metabolism occurs mainly via non-enzymatic degradation into Compound Z, which is a pharmacologically inactive product of endogenous cyclic pyranopterin monophosphate.[L32288]",
+    "toxicity": "There are no data regarding overdosage of fosdenopterin.",
+    "targets": [
+        [
+            "MOCS2",
+            "Molybdopterin synthase catalytic subunit",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

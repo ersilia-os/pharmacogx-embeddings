@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA448765",
+    "drugbank_id": "DB13919",
+    "names": [
+        "Candesartan"
+    ],
+    "description": "Candesartan is an angiotensin-receptor blocker (ARB) that may be used alone or with other agents to treat hypertension. It is available as a prodrug in the form of [candesartan cilexetil].",
+    "indication": null,
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "AGTR1",
+            "Type-1 angiotensin II receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

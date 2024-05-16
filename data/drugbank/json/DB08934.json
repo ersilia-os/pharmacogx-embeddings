@@ -1,0 +1,66 @@
+{
+    "pharmgkb_id": "PA166122593",
+    "drugbank_id": "DB08934",
+    "names": [
+        "Sofosbuvir",
+        "Hepcinat",
+        "Hepcvir",
+        "Resof",
+        "SoviHep"
+    ],
+    "description": "Sofosbuvir (tradename Sovaldi) is a direct acting antiviral medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as sofosbuvir. As a prodrug nucleotide analog, Sofosbuvir is metabolized into its active form as the antiviral agent 2'-deoxy-2'-\u03b1-fluoro-\u03b2-C-methyluridine-5'-triphosphate (also known as GS-461203), which acts as a defective substrate for NS5B (non-structural protein 5B) [synthesis]. NS5B, an RNA-dependent RNA polymerase, is essential for the transcription of Hepatitis C viral RNA and for its high replicative rate and genetic diversity [A19594]. Sofosbuvir and other direct acting antivirals are therefore very potent options for the treatment of Hepatitis C, as they exhibit a high barrier to the development of resistance [A19593]. This is an important advantage relative to HCV drugs that target other viral enzymes such as the protease, for which rapid development of resistance has proven to be an important cause of therapeutic failure.  \r\n\r\nIn a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) recommend Sofosbuvir as first line therapy in combination with other antivirals for all six genotypes of Hepatitis C [L852]. Depending on the genotype, sofosbuvir is often used in combination with other antivirals such as [DB09027], [DB11613], [DB09102], [DB06290], [DB11574], [DB11575], [DB00811], [DB00008], or [DB00022] with the intent to cure, or achieve a sustained virologic response (SVR), after 12 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [A19626]. Treatment with direct acting antivirals such as sofosbuvir is associated with very minimal side effects, with the most common being headache and fatigue [FDA Label]. Lack of significant side effects and short duration of therapy is a considerable advantage over older interferon- and ribavirin-based regimens, which were limited by infusion site reactions, reduced blood count, and neuropsychiatric effects [A19635]. \r\n\r\nSince 2014, sofosbuvir has been available as a fixed dose combination product with [DB09027] (tradename Harvoni) used for the treatment of chronic Hepatitis C. Approved in October 2014 by the FDA, Harvoni is indicated for the treatment of HCV genotypes 1, 4, 5, and 6 with or without [DB00811] depending on the level of liver damage or cirrhosis [FDA Label].  When combined together, ledipasvir and sofosbuvir as the combination product Harvoni has been shown to achieve a SVR between 93 and 99% after 12 weeks of treatment [A7535]. Its use has also proven successful in the treatment of HCV in patients co-infected with HIV [A19627].\r\n\r\nSofosbuvir is also available as a fixed dose combination product with [DB11613] as the commercially available product Epclusa. First approved in June 2016, Epclusa is the first combination HCV product indicated for the treatment of all genotypes of Hepatitis C with or without cirrhosis. Epclusa is also currently the most potent HCV antiviral medication on the market with a sustained virologic response (SVR) after 12 weeks of therapy of 93-99% depending on genotype and level of cirrhosis [L852]. Both Canadian and American guidelines list Epclusa as a first line recommendation for all genotypes of HCV [L852, A19626].\r\n\r\nNotably, sofosbuvir has come under intense scrutiny since its release to market in 2013. With the price per pill set at $1000, a 12-week treatment can cost upwards of $84,000 per patient [A19636].",
+    "indication": "Sofosbuvir is used in combination therapy with other antiviral medications to treat chronic hepatitis C virus (HCV) infected patients with HCV genoptypes 1-6, and to treat HCV and HIV co-infected patients. Depending on the level of cirrhosis or decompensation, combination therapy can also include either ribavirin alone or ribavirin and peg-interferon alfa.\r\n\r\nWhen used in combination with [DB09027], sofosbuvir has the following indications: treatment of genotypes 1, 4, 5, or 6 infection without cirrhosis or with compensated cirrhosis; in combination with [DB00811] for genotype 1 infection with decompensated cirrhosis; or in combination with [DB00811] for the treatment of genotype 1 or 4 infection who are liver transplant recipients without cirrhosis or with compensated cirrhosis.\r\n\r\nWhen used in combination with [DB11613] as the combination product Epclusa, sofosbuvir is indicated for the treatment of adult patients with chronic hepatitis C virus (HCV) genotypes 1, 2, 3, 4, 5, or 6 infection without cirrhosis or with compensated cirrhosis, or in combination with [DB00811] if associated with decompensated cirrhosis.\r\n\r\nResistance: Reduced susceptibility to sofosbuvir has been associated with the NS5B substitution mutation S282T [A19634].",
+    "pharmacodynamics": "Sofosbuvir acts against HCV and is categorized as a direct-acting antiviral agent (DAA).\r\n\r\nAt a dose 3 times the recommended dose, sofosbuvir does not prolong QTc to any clinically relevant extent [FDA Label].",
+    "mechanism-of-action": "Sofosbuvir is nucleotide analog inhibitor, which specifically inhibits HCV NS5B (non-structural protein 5B) RNA-dependent RNA polymerase. Following intracellular metabolism to form the pharmacologically active uridine analog triphosphate (GS-461203), sofosbuvir incorporates into HCV RNA by the NS5B polymerase and acts as a chain terminator [synthesis, A7533]. More specifically, Sofosbuvir prevents HCV viral replication by binding to the two Mg2+ ions present in HCV NS5B polymerase's GDD active site motif and preventing further replication of HCV genetic material [A19638, FDA Label].\r\n\r\n",
+    "absorption": "When given orally, sofosbuvir reaches its maximum plasma concentration in about 0.5 to 2 hours with a maximal concentration (Cmax) of 567 ng/mL [FDA Label].",
+    "metabolism": "In vitro studies in human liver microsomes showed that sofosbuvir was an efficient substrate for Cathepsin A (Cat A) and carboxyl esterase 1 (CES1). Sofosbuvir was cleaved by CatA and CES1 and subsequent activation steps included amino acid removal by histidine triad nucleotide-binding protein 1 (HINT1) and phosphorylation by uridine monophosphate-cytidine monophosphate (UMP-CMP) kinase and nucleoside diphosphate (NDP) kinase. In vitro data indicated that Cat A preferentially hydrolysed sofosbuvir (the S-diastereomer) while CES1 did not exhibit stereoselectivity [A19628, A19631].",
+    "toxicity": "Sofosbuvir, as a single agent, has very mild toxicity. The most common adverse reactions are headache and fatigue. The FDA Label currently warns of a risk of symptomatic bradycardia when Epclusa is used in combination with amiodarone [FDA Label]. ",
+    "targets": [
+        [
+            "NS5b",
+            "RNA-dependent RNA-polymerase",
+            "Hepatitis C Virus"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CTSA",
+            "Lysosomal protective protein",
+            null
+        ],
+        [
+            "CES1A1a",
+            "Carboxylesterase",
+            "Humans"
+        ],
+        [
+            "HINT1",
+            "Histidine triad nucleotide-binding protein 1",
+            "Humans"
+        ],
+        [
+            "CMPK1",
+            "UMP-CMP kinase",
+            "Humans"
+        ],
+        [
+            "NME1",
+            "Nucleoside diphosphate kinase A",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,30 @@
+{
+    "pharmgkb_id": "PA451540",
+    "drugbank_id": "DB01299",
+    "names": [
+        "Sulfadoxine"
+    ],
+    "description": "A long acting sulfonamide that is used, usually in combination with other drugs, for respiratory, urinary tract, and malarial infections.",
+    "indication": "Sulfadoxine is used in combination with pyrimethamine for the treatment or prevention of malaria. It can also be used to treat various infections in livestock as well.\r\nSulfadoxine and pyrimethamine is indicated for the treatment of Plasmodium falciparum malaria in those patients in whom chloroquine resistance is suspected. ",
+    "pharmacodynamics": "Sulfadoxine helps inhibit the enzyme dihydropteroate synthetase which is an enzyme necessary in the conversion of PABA to folic acid. As folic acid is vital to the synthesis, repair, and methylation of DNA which is vital to cell growth in Plasmodium falciparum. With this vital nutrient lacking, the parasite has difficulty in reproducing.",
+    "mechanism-of-action": "Sulfadoxine is a sulfa drug, often used in combination with pyrimethamine  to treat malaria. This medicine may also be used to prevent malaria in people who are living in, or will be traveling to, an area where there is a chance of getting malaria. Sulfadoxine targets Plasmodium dihydropteroate synthase and dihydrofolate reductase.  Sulfa drugs or Sulfonamides are antimetabolites.  They compete with para-aminobenzoic acid (PABA) for incorporation into folic acid. The action of sulfonamides exploits the difference between mammal cells and other kinds of cells in their folic acid metabolism. All cells require folic acid for growth. Folic acid (as a vitamin) diffuses or is transported into human cells. However, folic acid cannot cross bacterial (and certain protozoan) cell walls by diffusion or active transport. For this reason bacteria must synthesize folic acid from p-aminobenzoic acid.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            null,
+            "Dihydropteroate synthetase",
+            "Plasmodium falciparum"
+        ],
+        [
+            null,
+            "Bifunctional dihydrofolate reductase-thymidylate synthase",
+            "Plasmodium falciparum (isolate K1 / Thailand)"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

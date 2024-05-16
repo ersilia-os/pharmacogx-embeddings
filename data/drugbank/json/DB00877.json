@@ -1,0 +1,73 @@
+{
+    "pharmgkb_id": "PA451365",
+    "drugbank_id": "DB00877",
+    "names": [
+        "Sirolimus"
+    ],
+    "description": "Sirolimus, also known as rapamycin, is a macrocyclic lactone antibiotic produced by bacteria _Streptomyces hygroscopicus_, which was isolated from the soil of the Vai Atari region of Rapa Nui (Easter Island).[A242412] It was first isolated and identified as an antifungal agent with potent anticandida activity; however, after its potent antitumor and immunosuppressive activities were later discovered, it was extensively investigated as an immunosuppressive and antitumour agent.[A13448] Its primary mechanism of action is the inhibition of the mammalian target of rapamycin (mTOR), which is a serine/threonine-specific protein kinase that regulates cell growth, proliferation, and survival. mTOR is an important therapeutic target for various diseases, as it was shown to regulate longevity and maintain normal glucose homeostasis.[A242417] Targeting mTOR received more attention especially in cancer, as mTOR signalling pathways are constitutively activated in many types of human cancer.[A1320]\r\n\r\nSirolimus was first approved by the FDA in 1999 for the prophylaxis of organ rejection in patients aged 13 years and older receiving renal transplants.[A242372] In November 2000, the drug was recognized by the European Agency as an alternative to calcineurin antagonists for maintenance therapy with corticosteroids.[A242412] In May 2015, the FDA approved sirolimus for the treatment of patients with lymphangioleiomyomatosis.[L39292] In November 2021, albumin-bound sirolimus for intravenous injection was approved by the FDA for the treatment of adults with locally advanced unresectable or metastatic malignant perivascular epithelioid cell tumour (PEComa).[L39267] Sirolimus was also investigated in other cancers such as skin cancer, Kaposi\u2019s Sarcoma, cutaneous T-cell lymphomas, and tuberous sclerosis.[A242372] The topical formulation of sirolimus, marketed as HYFTOR, was approved by the FDA in April 2022: this marks the first topical treatment approved in the US for facial angiofibroma associated with tuberous sclerosis complex.[L41494]",
+    "indication": "Sirolimus is indicated for the prophylaxis of organ rejection in patients aged 13 years or older receiving renal transplants. In patients at low-to moderate-immunologic risk, it is recommended that sirolimus be used initially in a regimen with [cyclosporine] and corticosteroids; cyclosporine should be withdrawn two to four months after transplantation. In patients at high-immunologic risk (defined as Black recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reason and/or patients with high panel-reactive antibodies [PRA; peak PRA level > 80%]), it is recommended that sirolimus be used in combination with cyclosporine and corticosteroids for the first year following transplantation.[L19809]\r\n\r\nIt is also used to treat lymphangioleiomyomatosis.[L19809] \r\n\r\nIn the US, albumin-bound sirolimus for intravenous injection is indicated for the treatment of adult patients with locally advanced unresectable or metastatic malignant perivascular epithelioid cell tumour (PEComa).[L39267]\r\n\r\nIn Europe, it is recommended that sirolimus for the prophylaxis of organ rejection in renal transplants is used in combination with cyclosporin microemulsion and corticosteroids for two to three months. Sirolimus may be continued as maintenance therapy with corticosteroids only if cyclosporin microemulsion can be progressively discontinued.[L7021]\r\n\r\nTopical sirolimus is indicated for the treatment of facial angiofibroma associated with tuberous sclerosis in adults and pediatric patients six years of age and older.[L41489]",
+    "pharmacodynamics": "Sirolimus is an immunosuppressant drug with antifungal and antitumour effects.[A1321] In animal models, sirolimus prolonged allograft survival following various organ transplants and reversed an acute rejection of heart and kidney allografts in rats. Upon oral administration of 2 mg/day and 5 mg/day, sirolimus significantly reduced the incidence of organ rejection in low- to moderate-immunologic risk renal transplant patients at six months following transplantation compared with either azathioprine or placebo. In some studies, the immunosuppressive effect of sirolimus lasted up to six months after discontinuation of therapy: this tolerization effect is alloantigen-specific.[L19809] Sirolimus potently inhibits antigen-induced proliferation of T cells, B cells, and antibody production.[A13448]\r\n\r\nIn rodent models of autoimmune disease, sirolimus suppressed immune-mediated events associated with systemic lupus erythematosus, collagen-induced arthritis, autoimmune type I diabetes, autoimmune myocarditis, experimental allergic encephalomyelitis, graft-versus-host disease, and autoimmune uveoretinitis.[L19809]",
+    "mechanism-of-action": "Sirolimus works by inhibiting T-lymphocyte activation and proliferation stimulated by antigens and cytokines such as interleukin (IL)-2, IL-4, and IL-15. In target cells, sirolimus binds to the cytoplasmic receptor FK506-binding protein-12 (FKBP12), an immunophilin, to form an immunosuppressive complex. FKBP12-sirolimus complex binds to and inhibits the activation of the mammalian target of rapamycin (mTOR),[A1321, L19809] which is a serine/threonine-specific protein kinase that regulates cell growth, proliferation, survival, mobility, and angiogenesis.[A1320, A1321] mTOR regulates the downstream signalling pathways involved in cell survival, such as the phosphatidylinositol-3 kinase (PI3K)/Akt signalling pathway.[A1320] Inhibition of mTOR leads to the suppression of cytokine-driven T-cell proliferation, thus the progression from the G1 to the S phase of the cell cycle is inhibited. Sirolimus also inhibits antibody production. _In vitro_, sirolimus and other mTOR inhibitors inhibit the production of certain growth factors that may affect angiogenesis, fibroblast proliferation, and vascular permeability.[L19809] \r\n\r\nLymphangioleiomyomatosis is a disorder that primarily affects the lungs. It is characterized by lung tissue infiltration, unregulated alveolar smooth muscle proliferation, and cystic destruction of parenchyma. Although infrequent, it occurs as a symptomatic pulmonary complication in tuberous sclerosis complex (TSC), which is an inherited disorder caused by mutations in TSC genes.[A242437] Loss of functional TSC gene leads to the aberrant activation of the mTOR signalling pathway, resulting in cellular proliferation and release of lymphangiogenic growth factors. Sirolimus inhibits the activated mTOR pathway and proliferation of alveolar smooth muscle cell proliferation.[L19809]",
+    "absorption": "In adult renal transplant patients with low- to moderate-immunologic risk, oral administration of 2 mg sirolimus led to a C<sub>max</sub> of 14.4 \u00b1 5.3 ng/mL for oral solution and 15.0 \u00b1 4.9 ng/mL for oral tablets. The t<sub>max</sub> was 2.1 \u00b1 0.8 hours for oral solution and 3.5 \u00b1 2.4 hours for oral tablets. In healthy subjects, the t<sub>max</sub> is one hour. In a multi-dose study, steady-state was reached six days following repeated twice-daily administration without an initial loading dose, with the average trough concentration of sirolimus increased approximately 2- to 3-fold. It is suspected that a loading dose of three times the maintenance dose will provide near steady-state concentrations within one day in most patients.[L19809]\r\n\r\nThe systemic availability of sirolimus is approximately 14%. In healthy subjects, the mean bioavailability of sirolimus after administration of the tablet is approximately 27% higher relative to the solution. Sirolimus tablets are not bioequivalent to the solution; however, clinical equivalence has been demonstrated at the 2 mg dose level. Sirolimus concentrations, following the administration of Rapamune Oral Solution to stable renal transplant patients, are dose-proportional between 3 and 12 mg/m<sup>2</sup>.[L19809]",
+    "metabolism": "Sirolimus undergoes extensive metabolism in the intestinal wall and liver. Sirolimus is primarily metabolized by O-demethylation and/or hydroxylation via CYP3A4 to form seven major metabolites, including hydroxy, demethyl, and hydroxydemethyl metabolites, which are pharmacologically inactive. Sirolimus also undergoes counter-transport from enterocytes of the small intestine into the gut lumen.[L19809]",
+    "toxicity": "Oral LD<sub>50</sub> of sirolimus is 800 mg/kg in rats and 2500 mg/kg in mouse.[L39302]\r\n\r\nSirolimus is a narrow therapeutic index drug.[A242412] Although there are reports of overdose with sirolimus, there is limited information on overdose in the clinical setting. Symptoms of overdose are consistent with the adverse effects of sirolimus. General supportive measures are recommended in the event of an overdose. Because sirolimus has low aqueous solubility and high erythrocyte and plasma protein binding, it is not expected to be dialyzable to any significant extent.[L19809]",
+    "targets": [
+        [
+            "MTOR",
+            "Serine/threonine-protein kinase mTOR",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "LPA",
+            "Apolipoproteins",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

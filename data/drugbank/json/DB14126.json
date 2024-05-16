@@ -1,0 +1,83 @@
+{
+    "pharmgkb_id": "PA10204",
+    "drugbank_id": "DB14126",
+    "names": [
+        "Tenofovir"
+    ],
+    "description": "Tenofovir is an acyclic nucleotide diester analog of adenosine monophosphate.[A37693] In the most strict sense and due to the fact that it presents a phosphate group bound to the nitrogenous base, it is determined as an actual nucleotide analog.[A37693] The antiviral activities of tenofovir were first reported in 1993 and this agent was commercially available since 2008 in the form of [tenofovir disoproxil] and [tenofovir alafenamide] in order to obtain oral bioavailability.[A18473, A178360]",
+    "indication": "Tenofovir has been shown to be effective against HIV, herpes simplex virus-2, and hepatitis B virus.[A178330]\r\n\r\nTo know more about the specific product indications, please visit the information in the orally available forms of tenofovir, [tenofovir alafenamide] and [tenofovir disoproxil].",
+    "pharmacodynamics": "Tenofovir has been shown to be highly effective in patients that have never had an antiretroviral therapy and it seemed to have lower toxicity than other antivirals such as [stavudine]. In phase 3 clinical trials, tenofovir presented a similar efficacy than [efavirenz] in treatment-naive HIV patients.[A178330] In hepatitis B infected patients, after one year of tenofovir treatment, the viral DNA levels were undetectable.[A178360]",
+    "mechanism-of-action": "Once tenofovir is activated by a bi-phosphorylation it acts as an antiviral acyclic nucleoside phosphonate. It is a potent inhibitor of the viral reverse transcriptase with an inhibitory constant of approximately 0.022 micromolar.[A18473] \r\n\r\nOnce activated, tenofovir acts with different mechanisms including the inhibition of viral polymerase causing chain termination and the inhibition of viral synthesis.[L6241] All these activities are attained by its competition with deoxyadenosine 5'-triphosphate in the generation of new viral DNA. Once tenofovir is incorporated in the chain, it induces a chain termination which in order inhibits viral replication.[A178330] The safety of tenofovir relies on its low affinity towards the cellular DNA polymerase including the mitochondrial DNA polymerase gamma.[T324]",
+    "absorption": "Tenofovir as the active moiety presents a very low bioavailability when orally administered. Hence, the administration of this active agent is required to be under its two prodrug forms, [tenofovir disoproxil] and [tenofovir alafenamide]. This reduced absorption is suggested to be related to the presence of two negative charges among its structure. This negative charge limits its cellular penetration, and its passive diffusion across cellular membranes and intestinal mucosa hindering its availability for oral administration.[A178060]\r\n\r\nIntravenous tenofovir has been shown to produce a maximum plasma concentration of 2500 ng/ml with an AUC of 4800 ng.h/ml.[A18473]",
+    "metabolism": "Tenofovir activation is performed by a bi-phosphorylation which in order forms the biologically active compound, tenofovir biphosphate.[A178060] This metabolic activation has been shown to be performed in hepG2 cells and human hepatocytes.[A174640]",
+    "toxicity": "There haven't been reports regarding the LD50 of the parent compound nor the effects of an overdose. However, based on the reports with the derivative that most rapidly transforms into tenofovir, tenofovir disoproxil, it is recommended to monitor overdose patients. As well, it is widely known that tenofovir is efficiently removed by hemodialysis.[A178528]\r\n\r\nAdministration of high doses of tenofovir has been reported to produce bone toxicity reported as osteomalacia and reduced bone mineral density and to produce some degree of renal toxicity.[L6346]\r\n\r\nTo know more about the carcinogenicity and mutagenic potential of tenofovir, as well as the effect on fertility, please visit the drug entries for the derivatives [tenofovir disoproxil] and [tenofovir alafenamide].",
+    "targets": [
+        [
+            "pol",
+            "Reverse transcriptase/RNaseH",
+            "Human immunodeficiency virus 1"
+        ],
+        [
+            "rt",
+            "Reverse transcriptase",
+            "HBV"
+        ],
+        [
+            null,
+            "DNA polymerase",
+            "Human herpesvirus 2 (strain 186)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "NME1",
+            "Nucleoside diphosphate kinase A",
+            "Humans"
+        ],
+        [
+            "NME2",
+            "Nucleoside diphosphate kinase B",
+            "Humans"
+        ],
+        [
+            "AK1",
+            "Adenylate kinase isoenzyme 1",
+            "Humans"
+        ],
+        [
+            "AK2",
+            "Adenylate kinase 2, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,30 @@
+{
+    "pharmgkb_id": "PA165860812",
+    "drugbank_id": "DB04115",
+    "names": [
+        "Berberine"
+    ],
+    "description": "An alkaloid from Hydrastis canadensis L., Berberidaceae. It is also found in many other plants. It is relatively toxic parenterally, but has been used orally for various parasitic and fungal infections and as antidiarrheal.",
+    "indication": null,
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "BIRC5",
+            "Baculoviral IAP repeat-containing protein 5",
+            "Humans"
+        ],
+        [
+            "qacR",
+            "HTH-type transcriptional regulator QacR",
+            "Staphylococcus haemolyticus"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

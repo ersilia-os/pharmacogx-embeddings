@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA451663",
+    "drugbank_id": "DB00352",
+    "names": [
+        "Tioguanine",
+        "Tioguanina",
+        "Tioguanine"
+    ],
+    "description": "An antineoplastic compound which also has antimetabolite action. The drug is used in the therapy of acute leukemia.",
+    "indication": "For remission induction and remission consolidation treatment of acute nonlymphocytic leukemias.",
+    "pharmacodynamics": "Thioguanine is an antineoplastic anti-metabolite used in the treatment of several forms of leukemia including acute nonlymphocytic leukemia. Anti-metabolites masquerade as purine or pyrimidine - which become the building blocks of DNA. They prevent these substances becoming incorporated in to DNA during the \"S\" phase (of the cell cycle), stopping normal development and division. Thioguanine was first synthesized and entered into clinical trial more than 30 years ago. It is a 6-thiopurine analogue of the naturally occurring purine bases hypoxanthine and guanine. Intracellular activation results in incorporation into DNA as a false purine base. An additional cytotoxic effect is related to its incorporation into RNA. Thioguanine is cross-resistant with mercaptopurine. Cytotoxicity is cell cycle phase-specific (S-phase).",
+    "mechanism-of-action": "Thioguanine competes with hypoxanthine and guanine for the enzyme hypoxanthine-guanine phosphoribosyltransferase (HGPRTase) and is itself converted to 6-thioguanilyic acid (TGMP), which reaches high intracellular concentrations at therapeutic doses. TGMP interferes with the synthesis of guanine nucleotides by its inhibition of purine biosynthesis by pseudofeedback inhibition of glutamine-5-phosphoribosylpyrophosphate amidotransferase, the first enzyme unique to the de novo pathway of purine ribonucleotide synthesis. TGMP also inhibits the conversion of inosinic acid (IMP) to xanthylic acid (XMP) by competition for the enzyme IMP dehydrogenase. Thioguanine nucleotides are incorporated into both the DNA and the RNA by phosphodiester linkages, and some studies have shown that incorporation of such false bases contributes to the cytotoxicity of thioguanine. Its tumor inhibitory properties may be due to one or more of its effects on feedback inhibition of de novo purine synthesis; inhibition of purine nucleotide interconversions; or incorporation into the DNA and RNA. The overall result of its action is a sequential blockade of the utilization and synthesis of the purine nucleotides.",
+    "absorption": "Absorption of an oral dose is incomplete and variable, averaging approximately 30% of the administered dose (range: 14% to 46%)",
+    "metabolism": "Hepatic. First converted to 6-thioguanilyic acid (TGMP). TGMP is further converted to the di- and tri-phosphates, thioguanosine diphosphate (TGDP) and thioguanosine triphosphate (TGTP) by the same enzymes that metabolize guanine nucleotides.",
+    "toxicity": "Oral, mouse: LD<sub>50</sub> = 160 mg/kg. Symptoms of overdose include nausea, vomiting, malaise, hypotension, and diaphoresis.",
+    "targets": null,
+    "enzymes": [
+        [
+            "HPRT1",
+            "Hypoxanthine-guanine phosphoribosyltransferase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00352",
+            "Drug Name": "Tioguanine",
+            "Gene Symbol": "TPMT",
+            "RS ID (Genotype)": "rs1800462",
+            "Adverse Reaction Description": "The presence of this polymorphism in TPMT may be associated with an increased risk of developing rapid bone marrow suppression when treated with tioguanine."
+        },
+        {
+            "DrugBank ID": "DB00352",
+            "Drug Name": "Tioguanine",
+            "Gene Symbol": "TPMT",
+            "RS ID (Genotype)": "rs1800460",
+            "Adverse Reaction Description": "The presence of this polymorphism in TPMT may be associated with an increased risk of developing rapid bone marrow suppression when treated with tioguanine."
+        },
+        {
+            "DrugBank ID": "DB00352",
+            "Drug Name": "Tioguanine",
+            "Gene Symbol": "TPMT",
+            "RS ID (Genotype)": "rs1142345",
+            "Adverse Reaction Description": "The presence of this polymorphism in TPMT may be associated with an increased risk of developing rapid bone marrow suppression when treated with tioguanine."
+        },
+        {
+            "DrugBank ID": "DB00352",
+            "Drug Name": "Tioguanine",
+            "Gene Symbol": "TPMT",
+            "RS ID (Genotype)": "rs1800584",
+            "Adverse Reaction Description": "The presence of this polymorphism in TPMT may be associated with an increased risk of developing rapid bone marrow suppression when treated with tioguanine."
+        }
+    ]
+}

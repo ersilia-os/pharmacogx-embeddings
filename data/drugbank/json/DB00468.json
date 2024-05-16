@@ -1,0 +1,123 @@
+{
+    "pharmgkb_id": "PA451213",
+    "drugbank_id": "DB00468",
+    "names": [
+        "Quinine",
+        "Cinkona",
+        "Jasoquin",
+        "QSM",
+        "Quinlup",
+        "Qutil",
+        "Sulquin"
+    ],
+    "description": "An alkaloid derived from the bark of the cinchona tree. It is used as an antimalarial drug, and is the active ingredient in extracts of the cinchona that have been used for that purpose since before 1633. Quinine is also a mild antipyretic and analgesic and has been used in common cold preparations for that purpose. It was used commonly and as a bitter and flavoring agent, and is still useful for the treatment of babesiosis. Quinine is also useful in some muscular disorders, especially nocturnal leg cramps and myotonia congenita, because of its direct effects on muscle membrane and sodium channels. The mechanisms of its antimalarial effects are not well understood.",
+    "indication": "For the treatment of malaria and leg cramps",
+    "pharmacodynamics": "Quinine is used parenterally to treat life-threatening infections caused by chloroquine-resistant Plasmodium falciparum malaria. Quinine acts as a blood schizonticide although it also has gametocytocidal activity against P. vivax and P. malariae. Because it is a weak base, it is concentrated in the food vacuoles of P. falciparum. It is thought to act by inhibiting heme polymerase, thereby allowing accumulation of its cytotoxic substrate, heme. As a schizonticidal drug, it is less effective and more toxic than chloroquine. However, it has a special place in the management of severe falciparum malaria in areas with known resistance to chloroquine.",
+    "mechanism-of-action": "The theorized mechanism of action for quinine and related anti-malarial drugs is that these drugs are toxic to the malaria parasite. Specifically, the drugs interfere with the parasite's ability to break down and digest hemoglobin. Consequently, the parasite starves and/or builds up toxic levels of partially degraded hemoglobin in itself. ",
+    "absorption": "76 - 88%",
+    "metabolism": "Hepatic, over 80% metabolized by the liver.",
+    "toxicity": "Quinine is a documented causative agent of drug induced thrombocytopenia (DIT). Thrombocytopenia is a low amount of platelets in the blood. Quinine induces production of antibodies against glycoprotein (GP) Ib-IX complex in the majority of cases of DIT, or more rarely, the platelet-glycoprotein complex GPIIb-IIIa. Increased antibodies against these complexes increases platelet clearance, leading to the observed thrombocytopenia. ",
+    "targets": [
+        [
+            "GP9",
+            "Platelet glycoprotein IX",
+            "Humans"
+        ],
+        [
+            "KCNN4",
+            "Intermediate conductance calcium-activated potassium channel protein 4",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

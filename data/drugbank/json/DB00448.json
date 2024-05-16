@@ -1,0 +1,141 @@
+{
+    "pharmgkb_id": "PA450180",
+    "drugbank_id": "DB00448",
+    "names": [
+        "Lansoprazole",
+        "Agopton",
+        "Bamalite",
+        "Lansoloc",
+        "Lanzol",
+        "Lanzopral",
+        "Lanzopran",
+        "Limpidex",
+        "Monolitum",
+        "Ogast",
+        "Ogastro",
+        "Opiren",
+        "Prevacid 24HR",
+        "Prosogan",
+        "Takepron",
+        "Ulpax",
+        "Zoprol",
+        "Zoton"
+    ],
+    "description": "Lansoprazole marketed under the brand Prevacid, is a proton pump inhibitor (PPI) and is structurally classified as a substituted benzimidazole.[A177065] It reduces gastric acid secretion by targeting gastric H,K-ATPase pumps and is thus effective at promoting healing in ulcerative diseases, and treating gastroesophageal reflux disease (GERD) along with other pathologies caused by excessive acid secretion.[A177053]",
+    "indication": "Lansoprazole is used to reduce gastric acid secretion and is approved for short term treatment of active gastric ulcers, active duodenal ulcers, erosive reflux oesophagitis, symptomatic gastroesophageal reflux disease, and non-steroidal anti-inflammatory drug (NSAID) induced gastric and duodenal ulcers. [A4892][A177065][FDA Label]  It may be used in the maintenance and healing of several gastric conditions including duodenal ulcers, NSAID related gastric ulcers, and erosive esophagitis.[FDA Label] Lansoprazole prevents recurrence of gastric ulcers in patients who have a documented history of gastric ulcers who also use NSAIDs chronically. [FDA Label]  Predictably, it is also useful in the management of hypersecretory conditions including Zollinger-Ellison syndrome. [FDA Label]  Lansoprazole is effective at eradicating H. pylori when used in conjunction with amoxicillin and clarithromycin (triple therapy) or with amoxicillin alone (dual therapy). [FDA Label]",
+    "pharmacodynamics": "Lansoprazole decreases gastric acid secretion by targeting H+,K+-ATPase, which is the enzyme that catalyzes the final step in the acid secretion pathway in parietal cells. [A177080]  Conveniently, lansoprazole administered any time of day is able to inhibit both daytime and nocturnal acid secretion.[A177080]  The result is that lansoprazole is effective at healing duodenal ulcers, reduces ulcer-related pain, and offers relief from symptoms of heartburn [A177080]  Lansoprazole also reduces pepsin secretion, making it a useful treatment option for hypersecretory conditions such as Zollinger-Ellison syndrome.[A177089][A177080]",
+    "mechanism-of-action": "As a PPI, lansoprazole is a prodrug and requires protonation via an acidic environment to become activated. [A174244]  Once protonated, lansoprazole is able to react with cysteine residues, specifically Cys813 and Cys321, on parietal H+,K+-ATPase resulting in stable disulfides.[A174244][A177077]  PPI's in general are able to provide prolonged inhibition of acid secretion due to their ability to bind covalently to their targets.[A174244]   ",
+    "absorption": "The oral bioavailability of lansoprazole is reported to be 80-90%[A177053] and the peak plasma concentration(Cmax) is achieved about 1.7 hours after oral dosing.[FDA Label] Food reduces the absorption of lansoprazole (both Cmax and AUC are reduced by 50-70%); therefore, patients should be instructed to take lansoprazole before meals.[FDA Label]",
+    "metabolism": "Lansoprazole is predominantly metabolized in the liver by CYP3A4 and CYP2C19. [A174244]  The resulting major metabolites are 5-hydroxy lansoprazole and the sulfone derivative of lansoprazole. [A174244][FDA Label]",
+    "toxicity": "The most commonly reported adverse events occurring more frequently in lansoprazole treated patients compared to placebo include abdominal pain, constipation, diarrhea, and nausea.[FDA Label] There is a case report of toxic epidermal necrolysis (TEN), which is a rare but very serious cutaneous reaction, caused by lansoprazole.[A177190]  The previously healthy patient presented with symptoms of TEN 15 days after starting lansoprazole to manage peptic disease.[A177190]  Although the use of PPI's is rarely associated with TEN, causation should be considered if a patient presents with TEN shortly after newly commencing a PPI.[A177190]  \r\n\r\nIn a single case report, a patient ingested 600 mg of lansoprazole and did not experience any adverse effects or symptoms of overdose.[FDA Label] Overall, lansoprazole is well tolerated with relatively few adverse effects.   \r\n\r\nLansoprazole is classified as Pregnancy Category B.[FDA Label] Although there are animal studies that suggest lansoprazole does not cause harm to the fetus, there is still a paucity of human data.  Hence, lansoprazole should only be administered to pregnant women if other options with more safety data have been exhausted.\r\n\r\nIt is unknown if lansoprazole is excreted in human breast milk.[FDA Label] It is worth mentioning that lansoprazole has been used safely in infants, and is therefore likely safe to use during breastfeeding.[L6340]",
+    "targets": [
+        [
+            "ATP4A",
+            "Potassium-transporting ATPase alpha chain 1",
+            "Humans"
+        ],
+        [
+            "MAPT",
+            "Microtubule-associated protein tau",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00448",
+            "Drug Name": "Lansoprazole",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "Patients with this genotype have reduced metabolism of lansoprazole."
+        },
+        {
+            "DrugBank ID": "DB00448",
+            "Drug Name": "Lansoprazole",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "Patients with this genotype have reduced metabolism of lansoprazole."
+        },
+        {
+            "DrugBank ID": "DB00448",
+            "Drug Name": "Lansoprazole",
+            "Gene Symbol": "ABCB1",
+            "RS ID (Genotype)": "rs1045642",
+            "Effect Description": "Patients with this genotype have increased plasma concentration of lansoprazole."
+        }
+    ]
+}

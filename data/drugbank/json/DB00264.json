@@ -1,0 +1,94 @@
+{
+    "pharmgkb_id": "PA450480",
+    "drugbank_id": "DB00264",
+    "names": [
+        "Metoprolol",
+        "Corvitol",
+        "Minax",
+        "Selokeen",
+        "TOPROL-XL"
+    ],
+    "description": "Metoprolol is a selective beta-1 blocker commonly employed as the succinate and tartrate derivatives depending if the formulation is designed to be of immediate release or extended release.[A175159, L5530] The possibility of the generation of these formulations comes from the lower systemic bioavailability of the succinate derivative.[T274] To this date, it is one of the preferred beta-blockers in general clinical guidelines and it is widely prescribed in the Netherlands, New Zealand, and the US.[A175162] Metoprolol was developed since 1969 by US Pharmaceutical Holdings I and FDA approved in 1978.[L5527]",
+    "indication": "Metoprolol is indicated for the treatment of angina, heart failure, myocardial infarction, atrial fibrillation, atrial flutter and hypertension.[A175141,L36065,L45553]\r\n\r\nSome off-label uses of metoprolol include supraventricular tachycardia and thyroid storm.[A175141]\r\n\r\nAll the indications of metoprolol are part of cardiovascular diseases. These conditions correspond to a number of diseases that involve the function of the heart and blood vessels. The underlying causes of these conditions are variable and can be due to genetic disposition, lifestyle decisions such as smoking, obesity, diet, and lack of exercise, and comorbidity with other conditions such as diabetes. The cardiovascular diseases are the leading cause of death on a global scale.[L5533]",
+    "pharmacodynamics": "Administration of metoprolol in normal subjects is widely reported to produce a dose-dependent reduction on heart rate and cardiac output.[A175141] This effect is generated due to a decreased cardiac excitability, cardiac output, and myocardial oxygen demand.[T76] In the case of arrhythmias, metoprolol produces its effect by reducing the slope of the pacemaker potential as well as suppressing the rate of atrioventricular conduction.[T451]\r\n\r\nThe Metoprolol Atherosclerosis Prevention in Hypertensives (MAPHY) trial showed a significant improvement in sudden cardiac death and myocardial infarction when patients were given with metoprolol as compared with diuretics. As well, in clinical trials performed in 1990, metoprolol reduces mortality and re-infarction in 17% of the individuals when administered chronically after an episode of myocardial infarction.[A175141]",
+    "mechanism-of-action": "Metoprolol is a beta-1-adrenergic receptor inhibitor specific to cardiac cells with negligible effect on beta-2 receptors. This inhibition decreases cardiac output by producing negative chronotropic and inotropic effects without presenting activity towards membrane stabilization nor intrinsic sympathomimetics.[A175141]",
+    "absorption": "When metoprolol is administered orally, it is almost completely absorbed in the gastrointestinal tract.[A175141] The maximum serum concentration is achieved 20 min after intravenous administration and 1-2 hours after oral administration. The bioavailability of metoprolol is of 100% when administered intravenously and when administered orally it presents about 50% for the tartrate derivative and 40% for the succinate derivative.[T274]\r\n\r\nThe absorption of metoprolol in the form of the tartrate derivative is increased by the concomitant administration of food.[T274]",
+    "metabolism": "Metoprolol goes through significant first-pass hepatic metabolism which covers around 50% of the administered dose.[A175141] The metabolism of metoprolol is mainly driven by the activity of CYP2D6[A175162] and to a lesser extent due to the activity of CYP3A4. The metabolism of metoprolol is mainly represented by reactions of hydroxylation and O-demethylation.[L5530]",
+    "toxicity": "Oral administration of metoprolol to rats presents an LD50 in the range of 3090 to 4670 mg/kg. Cases of overdose have reported bradycardia, hypotension, bronchospasm, and cardiac failure. In the case of an overdose, gastric lavage is recommended followed by specific treatment according to symptoms.[FDA label]\r\n\r\nMetoprolol is not reported to be carcinogenic nor mutagenic nor to impair fertility. The only event registered is the increase of macrophages in pulmonary alveoli and slight biliary hyperplasia. When metoprolol was given for long periods of time on the highest dose, there was evidence of small benign lung tumors.[FDA label]",
+    "targets": [
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00264",
+            "Drug Name": "Metoprolol",
+            "Gene Symbol": "ADRB1",
+            "RS ID (Genotype)": "rs1801252",
+            "Effect Description": "Patients with this genotype have a greater reduction in blood pressure with metoprolol."
+        },
+        {
+            "DrugBank ID": "DB00264",
+            "Drug Name": "Metoprolol",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "Patients with this genotype have reduced metabolism of metoprolol."
+        },
+        {
+            "DrugBank ID": "DB00264",
+            "Drug Name": "Metoprolol",
+            "Gene Symbol": "ADRB1",
+            "RS ID (Genotype)": "rs1801253",
+            "Effect Description": "Patients with this genotype have a greater reduction in blood pressure with metoprolol."
+        }
+    ]
+}

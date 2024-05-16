@@ -1,0 +1,73 @@
+{
+    "pharmgkb_id": "PA448320",
+    "drugbank_id": "DB00437",
+    "names": [
+        "Allopurinol",
+        "Adenock",
+        "Allohexal",
+        "Alloril",
+        "Aluron",
+        "Milurit",
+        "Progout",
+        "Zyloric",
+        "Zyrik"
+    ],
+    "description": "Gout is a disease that occurs by the deposition of monosodium urate crystals (MSU) in body tissues, especially around joints [A175942].  This disease has been well-documented in historical medical records and appears in the biographies of several prominent, historically recognized individuals [A175942].\r\n\r\nAllopurinol is a xanthine oxidase enzyme inhibitor that is considered to be one of the most effective drugs used to decrease urate levels and is frequently used in the treatment of chronic gout [A36705]. It was initially approved by the FDA in 1966 [L5674] and is now formulated by several manufacturers [L5677].",
+    "indication": "Allopurinol is indicated in [FDA label]:\r\n\r\n1) the management of patients with signs and symptoms of primary or secondary gout (acute attacks, tophi, joint destruction, uric acid lithiasis, and/or nephropathy).\r\n\r\n2) the management of patients with leukemia, lymphoma and malignancies who are receiving cancer therapy which causes elevations of serum and urinary uric acid levels. Treatment with allopurinol should be discontinued when the potential for overproduction of uric acid is no longer present.\r\n\r\n3) the management of patients with recurrent calcium oxalate calculi whose daily uric acid excretion exceeds 800 mg/day in male patients and 750 mg/day in female patients. Therapy in such patients should be carefully assessed initially and reassessed periodically to determine in each case that treatment is beneficial and that the benefits outweigh the risks.",
+    "pharmacodynamics": "\r\nAllopurinol decreases the production of uric acid by stopping the biochemical reactions that precede its formation [FDA label].  This process decreases urate and relieves the symptoms of gout, which may include painful tophi, joint pain, inflammation, redness, decreased range of motion, and swelling [A665].\r\n\r\n",
+    "mechanism-of-action": "Allopurinol is a structural analog of the natural purine base, hypoxanthine.  After ingestion, allopurinol is metabolized to its active metabolite, oxypurinol (_alloxanthine_) in the liver [T508], which acts as an inhibitor of xanthine oxidase enzyme [FDA label]. \r\n\r\nAllopurinol and its active metabolite inhibit xanthine oxidase, the enzyme that converts hypoxanthine to xanthine and xanthine to uric acid. Inhibition of this enzyme is responsible for the effects of allopurinol. This drug increases the reutilization of hypoxanthine and xanthine for nucleotide and nucleic acid synthesis by a process that involves the enzyme hypoxanthine-guanine phosphoribosyltransferase (HGPRTase).  This process results in an increased nucleotide concentration, which causes feedback inhibition of de novo purine synthesis. The end result is decreased urine and serum uric acid concentrations [F3988], which decreases the incidence of gout symptoms. \r\n\r\nAccompanying the reduction of serum uric acid by allopurinol is an increase in the serum and urine concentrations of hypoxanthine and xanthine (due to inhibition of xanthine oxidase).  In the absence of allopurinol, regular urinary excretion of oxypurines almost entirely occurs in the form of uric acid. After the ingestion of allopurinol, the contents of excreted urine are hypoxanthine, xanthine, and uric acid. Because each substance has its own individual solubility, the concentration of uric acid in plasma is decreased without exposing the renal tissues to a high load of uric acid, thereby decreasing the risk of crystalluria. By lowering the uric acid concentration in the plasma below its limits of solubility, allopurinol encourages the dissolution of gout tophi. Although the levels of hypoxanthine and xanthine are found to be increased after allopurinol ingestion, the risk of deposition in renal tissues is less than that of uric acid, as they become more soluble and are rapidly excreted by the kidney [F3988]. ",
+    "absorption": "This drug is about 90% absorbed from the gastrointestinal tract. Peak plasma levels normally occur at 1.5 hours and 4.5 hours post-dose for allopurinol and oxipurinol respectively. Following one oral dose of 300 mg of allopurinol, maximum plasma levels of about 3 mcg/mL of allopurinol and 6.5 mcg/mL of oxipurinol were measured [FDA label].",
+    "metabolism": "Allopurinol is rapidly metabolized to the corresponding xanthine analog, oxipurinol (alloxanthine), which is also an inhibitor of xanthine oxidase enzyme [FDA label]. \r\nBoth allopurinol and oxypurinol inhibit the action of this enzyme. Allopurinol and oxypurinol are also converted by the purine salvage pathway to their respective ribonucleotides. The effect of these ribonucleotides related to the hypouricemic action of allopurinol in humans is not fully elucidated to this date. These metabolites may act to inhibit de novo purine biosynthesis by inhibiting the enzyme, _amidophosphoribosyltransferase_. The ribonucleotides have not been found to be incorporated in DNA [A175945].\r\n",
+    "toxicity": "**Oral TDLO** (rat): 10 mg/kg; **Oral LD50** (mouse): 78 mg/kg; **Oral TDLO (mouse)**: 100 mg/kg [F3985] \r\n\r\n**Use in pregnancy**\r\n\r\nReproductive studies have been completed using rats and rabbit models at doses up to twenty times the normal human dose ( about 5 mg/kg per day), and it was concluded that fertility was not impaired and there was no fetal harm. There is a published report of a study in pregnant mice administered 50 or 100 mg/kg allopurinol intraperitoneally on gestation days 10 or 13. There were increased numbers of dead fetuses in dams administered 100 mg/kg allopurinol, however, death did not occur in those given 50 mg/kg. There were higher numbers of external malformations in fetuses at both doses of allopurinol on gestation day 10 and higher numbers of skeletal malformations in fetuses at both doses on gestation day 13. Despite the above findings, there are no adequate or well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if it is absolutely required [FDA label]. \r\n\r\n**Use in nursing**\r\n\r\nBoth allopurinol and the metabolite oxipurinol have been found in the milk of a mother who was receiving allopurinol. Since the effect of allopurinol on the nursing infant is unknown, it is advisable to exercise caution when allopurinol is taken by a nursing woman [FDA label]. \r\n\r\n**Mutagenicity and carcinogenicity**\r\n\r\nCytogenic studies demonstrate that allopurinol does not induce chromosomal abnormalities in human blood cells in vitro at concentrations up to 100 g/mL and in vivo at doses up to 60 mg/day for an average duration of 40 months. Allopurinol does not form nitroso compounds (which may be carcinogenic) or affect lymphocyte transformation in vitro. Evidence suggests that allopurinol does not have deleterious effects on DNA at any stage of the cell cycle and was not found to be mutagenic. No evidence of carcinogenicity has been observed in mice treated with allopurinol for up to a 2 year period [F3988]. ",
+    "targets": [
+        [
+            "XDH",
+            "Xanthine dehydrogenase/oxidase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "AOX1",
+            "Aldehyde oxidase",
+            "Humans"
+        ],
+        [
+            "XDH",
+            "Xanthine dehydrogenase/oxidase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00437",
+            "Drug Name": "Allopurinol",
+            "Gene Symbol": "HCP5",
+            "RS ID (Genotype)": "rs2395029",
+            "Adverse Reaction Description": "Patients who carry this allele are at a higher risk of experiencing severe cutaneous adverse reactions when treated with allopurinol."
+        }
+    ]
+}

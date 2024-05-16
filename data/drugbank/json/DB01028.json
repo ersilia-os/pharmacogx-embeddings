@@ -1,0 +1,167 @@
+{
+    "pharmgkb_id": "PA450434",
+    "drugbank_id": "DB01028",
+    "names": [
+        "Methoxyflurane",
+        "Penthrane"
+    ],
+    "description": "An inhalation anesthetic. Currently, methoxyflurane is rarely used for surgical, obstetric, or dental anesthesia. If so employed, it should be administered with nitrous oxide to achieve a relatively light level of anesthesia, and a neuromuscular blocking agent given concurrently to obtain the desired degree of muscular relaxation. (From AMA Drug Evaluations Annual, 1994, p180)\r\n\r\nIn the US, methoxyflurane is one of the products that have been withdrawn or removed from the market for reasons of safety or effectiveness.[L43942]",
+    "indication": "For use in the induction and maintenance of general anesthesia",
+    "pharmacodynamics": "Methoxyflurane is a general inhalation anesthetic used for induction and maintenance of general anesthesia. It induces muscle relaxation and reduces pains sensitivity by altering tissue excitability. It does so by decreasing the extent of gap junction mediated cell-cell coupling and altering the activity of the channels that underlie the action potential.",
+    "mechanism-of-action": "Methoxyflurane induces a reduction in junctional conductance by decreasing gap junction channel opening times and increasing gap junction channel closing times. Methoxyflurane also activates calcium dependent ATPase in the sarcoplasmic reticulum by increasing the fluidity of the lipid membrane. It also appears to bind the D subunit of ATP synthase and NADH dehydogenase. Methoxyflurane also binds to the GABA receptor, the large conductance Ca<sup>2+</sup> activated potassium channel, the glutamate receptor and the glycine receptor.",
+    "absorption": null,
+    "metabolism": "Hepatic.",
+    "toxicity": "LD<sub>50</sub>=3600 mg/kg (Orally in rats). Symptoms of overexposure include eye irritation, CNS depression, analgesia, anesthesia, seizures, respiratory depression, and liver and kidney damage.",
+    "targets": [
+        [
+            "GABRA1",
+            "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "GRIA1",
+            "Glutamate receptor 1",
+            "Humans"
+        ],
+        [
+            "GLRA1",
+            "Glycine receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "KCNA1",
+            "Potassium voltage-gated channel subfamily A member 1",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "ATP2C1",
+            "Calcium-transporting ATPase type 2C member 1",
+            "Humans"
+        ],
+        [
+            "MT-ND1",
+            "NADH-ubiquinone oxidoreductase chain 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,170 @@
+{
+    "pharmgkb_id": "PA451209",
+    "drugbank_id": "DB00908",
+    "names": [
+        "Quinidine",
+        "Cardioquin",
+        "Kinidin",
+        "Quin-Release",
+        "Quinaglute",
+        "Quinalan",
+        "Quinicardine",
+        "Quinidex"
+    ],
+    "description": "Quinidine is a D-isomer of [quinine] present in the bark of the Cinchona tree and similar plant species. This alkaloid was first described in 1848 and has a long history as an antiarrhythmic medication.[A38016,A250050] Quinidine is considered the first antiarrhythmic drug (class Ia) and is moderately efficacious in the acute conversion of atrial fibrillation to normal sinus rhythm.[A38016] It prolongs cellular action potential by blocking sodium and potassium currents. A phenomenon known as \u201cquinidine syncope\u201d was first described in the 1950s, characterized by syncopal attacks and ventricular fibrillation in patients treated with this drug.[A38016] Due to its side effects and increased risk of mortality, the use of quinidine was reduced over the next few decades. However, it continues to be used in the treatment of Brugada syndrome, short QT syndrome and idiopathic ventricular fibrillation.[A250050]",
+    "indication": "Quinidine is indicated for the management and prophylactic therapy of atrial fibrillation/flutter, as well as the suppression of recurrent documented ventricular arrhythmias.[L42420,L3719] It is also used in the treatment of Brugada syndrome, short QT syndrome and idiopathic ventricular fibrillation.[A250050,A250055].",
+    "pharmacodynamics": "Quinidine is an antimalarial schizonticide, and a class Ia antiarrhythmic agent used to interrupt or prevent reentrant arrhythmias and arrhythmias due to increased automaticity, such as atrial flutter, atrial fibrillation, and paroxysmal supraventricular tachycardia.[L3719] In most patients, quinidine can lead to an increase in the sinus rate. Quinidine also causes a marked prolongation of the QT interval in a dose-related manner,[A38016,L42420] acts peripherally as an \u03b1-adrenergic antagonist, and has anticholinergic and negative inotropic activity.[L3719]\r\n\r\nThe QT interval prolongation caused by quinidine can lead to increased ventricular automaticity and polymorphic ventricular tachycardias, such as _torsades de pointes_. The risk of _torsades_ is increased by bradycardia, hypokalemia, hypomagnesemia or high serum levels of quinidine. However, this type of rhythm disturbance may appear in the absence of any of them.[L42420,L3719] Patients treated with quinidine may also be at risk of a paradoxical increase in ventricular rate in atrial flutter/fibrillation, and patients with sick sinus syndrome treated with quinidine may develop marked sinus node depression and bradycardia.[L42420,L3719]",
+    "mechanism-of-action": "Quinidine has a complex electrophysiological profile that has not been fully elucidated. The antiarrhythmic actions of this drug are mediated through effects on sodium channels in Purkinje fibers. Quinidine blocks the rapid sodium channel (I<sub>Na</sub>), decreasing the phase zero of rapid depolarization of the action potential.[A250050] Quinidine also reduces repolarizing K<sup>+</sup> currents (I<sub>Kr</sub>, I<sub>Ks</sub>), the inward rectifier potassium current (I<sub>K1</sub>), and the transient outward potassium current I<sub>to</sub>, as well as the L-type calcium current I<sub>Ca</sub> and the late I<sub>Na</sub> inward current.[A250050] The reduction of these currents leads to the prolongation of the action potential duration. By shortening the plateau but prolonging late depolarization, quinidine facilitates the formation of early afterdepolarisation (EAD).[A250050] Additionally, in patients with malaria, quinidine acts primarily as an intra-erythrocytic schizonticide, and is gametocidal to _Plasmodium vivax_ and _P. malariae_, but not to _P. falciparum_.[L42420,L3719]",
+    "absorption": "The absolute bioavailability of quinidine sulfate is approximately 70%, but it ranges from 45% to 100%. The less-than-complete quinidine sulfate bioavailability is a result of first-pass metabolism in the liver.[L42420]  In contrast, the absolute bioavailability of quinidine gluconate ranges from 70% to 80%, and relative to quinidine sulfate, quinidine from quinidine gluconate has a bioavailability of 1.03.[L3719] The t<sub>max</sub> of quinidine sulfate extended-release tablets is approximately 6 h[L42420], while the t<sub>max</sub> of quinidine gluconate goes from 3 to 5 h.[L3719] The peak serum concentration reached with immediate-release quinidine sulfate is delayed for about an hour when taken with food. Furthermore, the ingestion of grapefruit juice may decrease the rate of absorption of quinidine.[L42420,L3719]",
+    "metabolism": "Quinidine is mainly metabolized in the liver by cytochrome P450 enzymes, specifically CYP3A4. The major metabolite of quinidine is 3-hydroxy-quinidine, which has a volume of distribution larger than quinidine and an elimination half-life of about 12 hours.[L42420,L3719] Non-clinical and clinical studies suggest that 3-hydroxy-quinidine has approximately half the antiarrhythmic activity of quinidine; therefore, this metabolite is partly responsible for the effects detected with the chronic use of quinidine.[L42420,L3719]",
+    "toxicity": "Quinidine overdoses have been well described. The ingestion of 5 g of quinidine resulted in the death of a toddler, while an adolescent was reported to survive after ingesting 8 g of quinidine.[L42420,L3719] A 16-month that ingested quinidine tablets developed a concretion of bezoar in the stomach, which led to non-declining toxic levels of quinidine. A gastric aspirate revealed that quinidine levels were 50 times higher than the ones detected in plasma. In cases of massive overdose, it may be appropriate to perform an endoscopy.[L42420] Acute quinidine overdoses are characterized by ventricular arrhythmias and hypotension. Other signs and symptoms of quinidine overdose may include vomiting, diarrhea, tinnitus, high-frequency hearing loss, vertigo, blurred vision, diplopia, photophobia, headache, confusion and delirium.[L42420,L3719] ",
+    "targets": [
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ],
+        [
+            "KCNK1",
+            "Potassium channel subfamily K member 1",
+            "Humans"
+        ],
+        [
+            "KCNK6",
+            "Potassium channel subfamily K member 6",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

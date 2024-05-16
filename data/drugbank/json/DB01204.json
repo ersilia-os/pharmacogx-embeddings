@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA450526",
+    "drugbank_id": "DB01204",
+    "names": [
+        "Mitoxantrone"
+    ],
+    "description": "An anthracenedione-derived antineoplastic agent.",
+    "indication": "For the treatment of secondary (chronic) progressive, progressive relapsing, or worsening relapsing-remitting multiple sclerosis",
+    "pharmacodynamics": "Mitoxantrone has been shown in vitro to inhibit B cell, T cell, and macrophage proliferation and impair antigen presentation, as well as the secretion of interferon gamma, TNFa, and IL-2.",
+    "mechanism-of-action": "Mitoxantrone, a DNA-reactive agent that intercalates into deoxyribonucleic acid (DNA) through hydrogen bonding, causes crosslinks and strand breaks. Mitoxantrone also interferes with ribonucleic acid (RNA) and is a potent inhibitor of topoisomerase II, an enzyme responsible for uncoiling and repairing damaged DNA. It has a cytocidal effect on both proliferating and nonproliferating cultured human cells, suggesting lack of cell cycle phase specificity.",
+    "absorption": "Poorly absorbed following oral administration",
+    "metabolism": "Hepatic",
+    "toxicity": "Severe leukopenia with infection.",
+    "targets": [
+        [
+            "TOP2A",
+            "DNA topoisomerase 2-alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

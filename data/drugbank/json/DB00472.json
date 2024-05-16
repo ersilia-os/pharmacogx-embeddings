@@ -1,0 +1,118 @@
+{
+    "pharmgkb_id": "PA449673",
+    "drugbank_id": "DB00472",
+    "names": [
+        "Fluoxetine",
+        "Adofen",
+        "Animex-On",
+        "Fluoxeren",
+        "Fontex",
+        "Ladose"
+    ],
+    "description": "Fluoxetine is a 2nd generation antidepressant categorized as a selective serotonin reuptake inhibitor (SSRI).[A181673] It gained FDA approval in 1987 and although it was initially intended for the treatment of depression, today it is commonly prescribed to manage depression in addition to various other pathologies.[L7721]",
+    "indication": "Fluoxetine is indicated for both acute and maintenance treatment of major depressive disorder, obsessive compulsive disorder, and bulimia nervosa; however, it is only indicated for acute treatment of panic disorder independent of whether agoraphobia is present.[L7664] Fluoxetine may also be used in combination with olanzapine to treat depression related to Bipolar I Disorder, and treatment resistant depression.[L7664] Fluoxetine is additionally indicated for the treatment of female patients with premenstrual dysphoric disorder (PMDD).[L40833]",
+    "pharmacodynamics": "Fluoxetine blocks the serotonin reuptake transporter in the presynaptic terminal, which ultimately results in sustained levels of 5-hydroxytryptamine (5-HT) in certain brain areas.[L7721] However, fluoxetine binds with relatively poor affinity to 5-HT, dopaminergic, adrenergic, cholinergic, muscarinic, and histamine receptors which explains why it has a far more desirable adverse effect profile compared to earlier developed classes of antidepressants such as tricyclic antidepressants.[L7721][A181673] ",
+    "mechanism-of-action": "The monoaminergic hypothesis of depression emerged in 1965 and linked depression with dysfunction of neurotransmitters such as noradrenaline and serotonin.[L7721] Indeed, low levels of serotonin have been observed in the cerebrospinal fluid of patients diagnosed with depression.[A181793] As a result of this hypothesis, drugs that modulate levels of serotonin such as fluoxetine were developed.[L7721]\r\n\r\nFluoxetine is a selective serotonin reuptake inhibitor (SSRI) and as the name suggests, it exerts it's therapeutic effect by inhibiting the presynaptic reuptake of the neurotransmitter serotonin.[A181673] As a result, levels of 5-hydroxytryptamine (5-HT) are increased in various parts of the brain.[L7721] Further, fluoxetine has high affinity for 5-HT transporters, weak affinity for noradrenaline transporters and no affinity for dopamine transporters indicating that it is 5-HT selective.[L7721]\r\n\r\nFluoxetine interacts to a degree with the 5-HT<sub>2C</sub> receptor and it has been suggested that through this mechanism, it is able to increase noradrenaline and dopamine levels in the prefrontal cortex.[L7721]",
+    "absorption": "The oral bioavailability of fluoxetine is <90% as a result of hepatic first pass metabolism.[L7721]\r\n\r\nIn a bioequivalence study, the Cmax of fluoxetine 20 mg for the established reference formulation was 11.754 ng/mL while the Cmax for the proposed generic formulation was 11.786 ng/ml.[A185285]\r\n\r\nFluoxetine is very lipophilic and highly plasma protein bound, allowing the drug and it's active metabolite, norfluoxetine, to be distributed to the brain.[L7721]",
+    "metabolism": "Fluoxetine is metabolized to norfluoxetine by CYP1A2, CYP2B6, CYP2C9, CYP2C19, CYP2D6, CYP3A4, and CYP3A5 upon ingestion.[L7721][A16881] Although all of the mentioned enzymes contribute to N-demethylation of fluoxetine, CYP2D6, CYP2C9 and CYP3A4 appear to be the major contributing enzymes for phase I metabolism.[A16881] In addition, there is evidence to suggest that CYP2C19 and CYP3A4 mediate O-dealkylation of fluoxetine and norfluoxetine to produce para-trifluoromethylphenol which is subsequently metabolized to hippuric acid.[A185246][A185255] Both fluoxetine and norfluoxetine undergo glucuronidation to facilitate excretion.[L7721] \r\n\r\nNotably, both the parent drug and active metabolite inhibit CYP2D6 isozymes, and as a result patients who are being treated with fluoxetine are susceptible to drug interactions.[L7721][L162]",
+    "toxicity": "In a report that included 234 fluoxetine overdose cases, it was concluded that symptoms resulting from fluoxetine overdose were generally minor and short in duration.[A181898] The most common overdose adverse effects included drowsiness, tremor, tachycardia, nausea and vomiting, and providing the patient with aggressive supportive care was the recommended intervention.[A181892][A181898]\r\n\r\nDespite this evidence, more severe adverse effects have been linked to fluoxetine ingestion although most of these reports involved co-ingestion with other substances or drugs as well as other factors.[A181892] For example, there is a case report that details a patient who ingested 1400 mg of fluoxetine in a suicide attempt and as a result, experienced a generalized seizure three hours later.[A181892] In a separate case, a 14 year old patient ingested 1.2 g of fluoxetine and subsequently experienced tonic/clonic seizures, symptoms consistent with serotonin syndrome, and rhabdomyolysis, although the patient did not experience sustained renal injury.[A182216]",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "CHRNA2",
+            "Neuronal acetylcholine receptor subunit alpha-2",
+            "Humans"
+        ],
+        [
+            "CHRNA3",
+            "Neuronal acetylcholine receptor subunit alpha-3",
+            "Humans"
+        ],
+        [
+            "CHRNB4",
+            "Neuronal acetylcholine receptor subunit beta-4",
+            "Humans"
+        ],
+        [
+            "CKS1B",
+            "Cyclin-dependent kinases regulatory subunit 1",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2B",
+            "CYP2B protein",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

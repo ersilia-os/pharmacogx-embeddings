@@ -1,0 +1,65 @@
+{
+    "pharmgkb_id": "PA448082",
+    "drugbank_id": "DB00630",
+    "names": [
+        "Alendronic acid",
+        "Alenotop",
+        "Alned",
+        "Arendal",
+        "Beenos",
+        "Berlex",
+        "Denfos",
+        "Densidron",
+        "Dronat",
+        "Durost",
+        "Fixopan",
+        "Forosa",
+        "Fosagen",
+        "Fosalen",
+        "Fosmin",
+        "Fostolin",
+        "Fosval",
+        "Huesobone",
+        "Lendrate",
+        "Oseolen",
+        "Ostemax"
+    ],
+    "description": "Alendronic acid is a second generation bisphosphonate that is used for the treatment of some forms of osteoperosis and Paget's disease[FDA Label][A959,A203111]. It functions by preventing resorption of bone[FDA Label][A959].",
+    "indication": "Alendronic acid is indicated for the treatment and prevention of osteoporosis in men and postmenopausal women, treatment of glucocorticoid-induced osteoporosis, and Paget's disease of bone[FDA Label][A959,A176750]. However, alendronic acid is not indicated for use in pediatric populations or patients with a creatinine clearance <35mL/min[FDA Label].",
+    "pharmacodynamics": "Alendronic acid tablets have a very low oral bioavialability[FDA Label][A176750]. After administration it distributes into soft tissue and bone or is excreted in the urine[FDA Label]. Alendronic acid does not undergo metabolism[FDA Label].",
+    "mechanism-of-action": "Alendronic acid binds to bone hydroxyapatite[FDA Label]. Bone resorption causes local acidification, releasing alendronic acid which is that taken into osteoclasts by fluid-phase endocytosis[A959]. Endocytic vesicles are acidified, releasing alendronic acid to the cytosol of osteoclasts where they induce apoptosis[A959]. Inhibition of osteoclasts results in decreased bone resorption which is shown through decreased urinary calcium, deoxypyridinoline and cross-linked N-telopeptidases of type I collagen[FDA Label].",
+    "absorption": "Mean oral bioavailability of alendronic acid in women is 0.64% and in men is 0.59%[FDA Label][A176750]. Bioavailability of alendronic acid decreases by up to 40% if it is taken within an hour of a meal[FDA Label].",
+    "metabolism": "Urinary excretion is the sole method of elimination of alendronic acid and no metabolites are detected upon urine collection[A176750].",
+    "toxicity": "In clinical studies, \u22653% of patients experience abdominal pain, acid regurgitation, constipation, diarrhea, dyspepsia, musculoskeletal pain, and nausea[FDA Label].\r\n\r\nNo information for treatment of overdose is available, however patients should be given milk or antacids to bind alendronic acid and vomiting should not be induced[FDA Label]. Patients may experience hypocalcemia, hypophosphatemia, and upper gastrointestinal events.[FDA Label].\r\n\r\nThere are currently no studies for safety and efficacy in pregnancy, though studies in pregnant rats show fetal and maternal complications at 4 times the clinical dose and pregnant rabbits do not show complications at as high as 10 times the clincal dose[FDA Label].\r\n\r\nExcretion in breast milk, and therefore safety in lactation, is unknown[FDA Label].\r\n\r\nAlendronic acid has been studied for use in pediatric patients[FDA Label]. The oral bioavailability is similar to that in adult patients, but an increase in the portion of patients experiencing vomiting[FDA Label].\r\n\r\nThere is no significant difference in efficacy or safety of alendronic acid in geriatric populations, though there is potential for even greater sensitivity in patients at a further advanced age than those in the study[FDA Label].\r\n\r\nAlendronic acid is not recommended for patients with creatinine clearance <35mL/min, but no dosage adjustment is necessary in hepatic impairment[FDA Label].",
+    "targets": [
+        [
+            "FDPS",
+            "Farnesyl pyrophosphate synthase",
+            "Humans"
+        ],
+        [
+            "PTPN4",
+            "Tyrosine-protein phosphatase non-receptor type 4",
+            "Humans"
+        ],
+        [
+            "PTPRS",
+            "Receptor-type tyrosine-protein phosphatase S",
+            "Humans"
+        ],
+        [
+            "PTPRE",
+            "Receptor-type tyrosine-protein phosphatase epsilon",
+            "Humans"
+        ],
+        [
+            "ATP6V1A",
+            "V-type proton ATPase catalytic subunit A",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

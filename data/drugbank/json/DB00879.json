@@ -1,0 +1,44 @@
+{
+    "pharmgkb_id": "PA10069",
+    "drugbank_id": "DB00879",
+    "names": [
+        "Emtricitabine",
+        "Coviracil"
+    ],
+    "description": "Emtricitabine is a nucleoside reverse transcriptase inhibitor (NRTI) indicated for the treatment of HIV infection in adults[L9019] or combined with [tenofovir alafenamide] for the prevention of HIV-1 infection in high risk adolescents and adults.[L9010] Emtricitabine is a cytidine analogue.[L9019] The drug works by inhibiting HIV reverse transcriptase, preventing transcription of HIV RNA to DNA.[L9019]\r\n\r\nEmtricitabine was granted FDA approval on 2 July 2003.[L9019]",
+    "indication": "Emtricitabine is indicated in combination with other medications for the treatment of HIV-1 infections;[L9019,L9836,L44226] treatment of HIV-1 infections in pediatric patients 25-35kg, treatment of HIV-1 infections in adult patients \u226535kg, for pre exposure prophylaxis of HIV-1 in adolescent and adult patients excluding those who have receptive vaginal sex;[L4388,L9010] treatment of HIV-1 infections in pediatric and adult patients \u226517kg, pre exposure prophylaxis in adolescents and adults \u226535kg;[L9833] treatment of HIV-1 in patients \u226512 years and \u226535kg;[L9587] treatment of HIV-1 in patients weighing \u226535kg;[L9839,L9842] treatment of HIV-1 in patients weighing \u226525kg;[L9647,L9845] and treatment of HIV-1 in patients weighing \u226540kg.[L9848]",
+    "pharmacodynamics": "Emtricitabine is a cytidine analog that competes with the natural substrate of HIV-1 reverse transcriptase to be incorporated into newly formed DNA, terminating its transcription.[L9019] It is administered once daily so it has a long duration of action. Patients should be counselled regarding the risk of  lactic acidosis and hepatomegaly with steatosis.[L9019]",
+    "mechanism-of-action": "Emtricitabine is a cytidine analog which, when phosphorylated to emtricitabine 5'-triphosphate, competes with deoxycytidine 5'-triphosphate for HIV-1 reverse transcriptase.[L9019] As HIV-1 reverse transcriptase incorporates emtricitabine into forming DNA strands, new nucleotides are unable to be incorporated, leading to  viral DNA chain termination.[L9019] Inhibition of reverse transcriptase prevents transcription of viral RNA into DNA, therefore the virus is unable to incorporate its DNA into host DNA and replicate using host cell machinery. This reduces viral load.[A187688]",
+    "absorption": "Emtricitabine reaches a C<sub>max</sub> of 1.8\u00b10.7\u00b5g/mL with a T<sub>max</sub> of 1-2 hours, and has an AUC of 10\u00b13.1\u00b5g\\*hr/mL.[L9019] The bioavailability of emtricitabine capsules is 93% and the bioavailability of the oral solution is 75%.[L9019] Taking emtricitabine with food decreases the C<sub>max</sub> by 29%.[L9019",
+    "metabolism": "Emtricitabine is approximately 86% unmetabolized.[L9019] Approximately 9% of a dose is metabolized to 3'-sulfoxide diastereomers, 4% to the 2'-O-glucuronide, and a minor amount is converted to 5-fluorocytosine.[A187643,L9019]",
+    "toxicity": "The LD<sub>50</sub> of emtricitabine is not readily available.[9019,L9818]\r\n\r\nSymptoms of emtricitabine toxicity include hepatotoxicity with steatosis, as well as lactic acidosis.[L9019] Treat overdose with symptomatic and supportive measures, including hemodialysis.[L9019]",
+    "targets": [
+        [
+            "pol",
+            "Reverse transcriptase/RNaseH",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "DCK",
+            "Deoxycytidine kinase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

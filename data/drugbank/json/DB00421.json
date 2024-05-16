@@ -1,0 +1,155 @@
+{
+    "pharmgkb_id": "PA451483",
+    "drugbank_id": "DB00421",
+    "names": [
+        "Spironolactone",
+        "Osyrol",
+        "Spiresis",
+        "Spiretic",
+        "Spiroctan",
+        "Uractone",
+        "Verospiron",
+        "Xenalon"
+    ],
+    "description": "Spironolactone is a potassium-sparing diuretic. It binds to mineralocorticoid receptors and functions as aldosterone antagonists.[A178192] It promotes sodium and water excretion and potassium retention.[A11837] Spironolactone was originally developed purely for this ability before other pharmacodynamic properties of the drug were discovered.[A11837, A178246] It is indicated to treat several conditions, including heart failure, edema, hyperaldosteronism, and hypertension.[L44602] Off-label uses of spironolactone include hirsutism, female pattern hair loss, and adult acne vulgaris.[A178135, A261025] \r\n\r\nSpironolactone was developed in 1957, marketed in 1959, and approved by the FDA on January 21, 1960.[A178243, L6187]",
+    "indication": "Spironolactone is indicated for the treatment of the following conditions:\r\n\r\n- NYHA Class III-IV heart failure and reduced ejection fraction to increase survival, manage edema, and reduce the need for hospitalization for heart failure. Spironolactone is usually administered in conjunction with other heart failure therapies.[L44602]\r\n- Hypertension, as add-on therapy, in patients not adequately controlled by other agents.[L44602, L47810]\r\n- Edema associated with hepatic cirrhosis when edema is not responsive to fluid and sodium restriction.[L44602, L47810]\r\n- Edema associated with nephrotic syndrome when treatment of the underlying disease, restriction of fluid and sodium intake, and the use of other diuretics produce an inadequate response.[L44602]\r\n- Refractory edema associated with congestive cardiac failure, malignant ascites, hepatic cirrhosis with ascites, and essential hypertension.[L47810]\r\n- Short-term preoperative treatment of patients with primary hyperaldosteronism.[L44602, L47810]\r\n- Diagnosis of primary aldosteronism.[L47810]\r\n- Long-term maintenance therapy for patients with discrete aldosterone-producing adrenal adenomas who are not candidates for surgery.[L44602]\r\n- Long-term maintenance therapy for patients with bilateral micro or macronodular adrenal hyperplasia (idiopathic hyperaldosteronism).[L44602]\r\n\r\nAs spironolactone has antiandrogenic activity, its off-label uses include the treatment of hirsutism, female pattern hair loss, and adult acne vulgaris.[A178135, A261025]",
+    "pharmacodynamics": "Spironolactone has a potassium-sparing diuretic effect. It promotes sodium and water excretion and potassium retention. It increases renin and aldosterone levels.[A11837] Spironolactone is a mineralocorticoid receptor antagonist and has a low affinity for the glucocorticoid receptor.[A11834] It also exhibits progestogenic and anti-androgenic actions as it binds to the androgen receptor and, to a lesser extent, estrogen and progesterone receptors.[A11837, A178192, A261025] Spironolactone exhibits anti-inflammatory effects.[A178192]",
+    "mechanism-of-action": "Aldosterone is a key hormone in the renin-angiotensin-aldosterone system. By binding to the mineralocorticoid receptor at the distal tubules and collecting duct, it causes sodium reabsorption and potassium secretion, increases vascular stiffness and remodelling, and activates pro-inflammatory pathways.[A178192, A261025]\r\n\r\nSpironolactone and its active metabolites are aldosterone antagonists that produce a potassium-sparing diuretic effect. They competitively bind to receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule. Spironolactone causes increased amounts of sodium and water to be excreted while potassium is retained. Spironolactone acts both as a diuretic and as an antihypertensive drug by this mechanism. It may be given alone or with other diuretic agents that act more proximally in the renal tubule.[A178192, L44602]",
+    "absorption": "The mean time to reach peak plasma concentration of spironolactone and the active metabolite, canrenone, in healthy volunteers is 2.6 and 4.3 hours, respectively. Food increased the bioavailability of spironolactone (as measured by AUC) by approximately 95.4%.[L44602]",
+    "metabolism": "Spironolactone is rapidly and extensively metabolized to form different metabolites. A group of metabolites are formed when sulfur of spironolactone is removed, such as [canrenone]. Sulfur is retained in another group of metabolites, including 7-alpha (\u03b1)-thiomethylspironolactone (TMS) and 6-beta (\u00df)-hydroxy-7-alpha (\u03b1)-thiomethylspirolactone (HTMS).[L44602] \r\n\r\nSpironolactone is firstly deacetylated to 7-\u03b1-thiospironolactone.[A178069, A178072, A178165] 7-\u03b1-thiospironolactone is S-methylated to TMS, which is the primary metabolite,[A11837, A178207, A261030] or dethioacetylated to canrenone.[A178069, A178072, A261030] TMS and HTMS can be further metabolized.[A178069, A178072, A261030]\r\n\r\nIn humans, the potencies of TMS and 7-\u03b1-thiospirolactone in reversing the effects of the synthetic mineralocorticoid, fludrocortisone, on urinary electrolyte composition were approximately a third relative to spironolactone. However, since the serum concentrations of these steroids were not determined, their incomplete absorption and/or first-pass metabolism could not be ruled out as a reason for their reduced _in vivo_ activities.[L44602]",
+    "toxicity": "The oral LD<sub>50</sub> of spironolactone is greater than 1000 mg/kg in mice, rats, and rabbits.[L44602]\r\n\r\nAcute overdosage of ALDACTONE may be manifested by drowsiness, mental confusion, maculopapular or erythematous rash, nausea, vomiting, dizziness, or diarrhea. Rarely, instances of hyponatremia, hyperkalemia,or hepatic coma may occur in patients with severe liver disease, but these are unlikely due to acute overdosage. Hyperkalemia may occur, especially in patients with impaired renal function. In case of an overdose, vomiting may be induced and gastric lavage may be instituted. As there is no specific antidote, treatment is supportive to maintain hydration, electrolyte balance, and vital functions. Patients who have renal impairment may develop hyperkalemia. In such cases, discontinue spironolactone.[L44602]",
+    "targets": [
+        [
+            "NR3C2",
+            "Mineralocorticoid receptor",
+            "Humans"
+        ],
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ],
+        [
+            "AR",
+            "Androgen receptor",
+            "Humans"
+        ],
+        [
+            "PGR",
+            "Progesterone receptor",
+            "Humans"
+        ],
+        [
+            "ESR1",
+            "Estrogen receptor",
+            "Humans"
+        ],
+        [
+            "ESR2",
+            "Estrogen receptor",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ],
+        [
+            "CACNA1C",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1F",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB1",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB3",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB4",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1A",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP11B1",
+            "Cytochrome P450 11B1, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP11B2",
+            "Cytochrome P450 11B2, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

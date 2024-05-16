@@ -1,0 +1,70 @@
+{
+    "pharmgkb_id": "PA449958",
+    "drugbank_id": "DB00308",
+    "names": [
+        "Ibutilide"
+    ],
+    "description": "Ibutilide is a Class III antiarrhythmic agent available in intravenous formulations. It is indicated for the conversion of acute atrial flutter and recent onset atrial fibrillation to normal sinus rhythm (NSR).",
+    "indication": "Indicated for the rapid conversion of atrial fibrillation or atrial flutter of recent onset to sinus rhythm.",
+    "pharmacodynamics": "Ibutilide prolongs the action potential duration and increases both atrial and ventricular refractoriness in vivo, i.e., class III electrophysiologic effects. Voltage clamp studies indicate that ibutilide, at nanomolar concentrations, delays repolarization by activation of a slow, inward current (predominantly sodium), rather than by blocking outward potassium currents, which is the mechanism by which most other class III antiarrhythmics act.",
+    "mechanism-of-action": "Ibutilide is a 'pure' class III antiarrhythmic drug, used intravenously against atrial flutter and fibrillation. At a cellular level it exerts two main actions: induction of a persistent Na+ current sensitive to dihydropyridine Ca<sup>2+</sup> channel blockers and potent inhibition of the cardiac rapid delayed rectifier K<sup>+</sup> current, by binding within potassium channel pores. In other words, Ibutilide binds to and alters the activity of hERG potassium channels, delayed inward rectifier potassium (IKr) channels and L-type (dihydropyridine sensitive) calcium channels",
+    "absorption": "Rapid after intravenous injection",
+    "metabolism": "Primarily hepatic. Eight metabolites of ibutilide were detected in metabolic profiling of urine. These metabolites are thought to be formed primarily by o-oxidation followed by sequential b-oxidation of the heptyl side chain of ibutilide. Of the eight metabolites, only the o-hydroxy metabolite possesses class III electrophysiologic properties similar to that of ibutilide in an in vitro isolated rabbit myocardium model.",
+    "toxicity": "Acute overdose in animals results in CNS toxicity; notably, CNS depression, rapid gasping breathing, and convulsions. The intravenous median lethal dose in the rat was more than 50 mg/kg which is, on a mg/m<sup>2</sup> basis, at least 250 times the maximum recommended human dose.",
+    "targets": [
+        [
+            "CACNA1C",
+            "Voltage-dependent L-type calcium channel subunit alpha-1C",
+            "Humans"
+        ],
+        [
+            "CACNB1",
+            "Voltage-dependent L-type calcium channel subunit beta-1",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "CACNA2D1",
+            "Voltage-dependent calcium channel subunit alpha-2/delta-1",
+            "Humans"
+        ],
+        [
+            "CACNG1",
+            "Voltage-dependent calcium channel gamma-1 subunit",
+            "Humans"
+        ],
+        [
+            "KCNK1",
+            "Potassium channel subfamily K member 1",
+            "Humans"
+        ],
+        [
+            "KCNK6",
+            "Potassium channel subfamily K member 6",
+            "Humans"
+        ],
+        [
+            "KCNH6",
+            "Potassium voltage-gated channel subfamily H member 6",
+            "Humans"
+        ],
+        [
+            "KCNH7",
+            "Potassium voltage-gated channel subfamily H member 7",
+            "Humans"
+        ],
+        [
+            "KCNJ11",
+            "ATP-sensitive inward rectifier potassium channel 11",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

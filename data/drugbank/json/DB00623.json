@@ -1,0 +1,81 @@
+{
+    "pharmgkb_id": "PA449676",
+    "drugbank_id": "DB00623",
+    "names": [
+        "Fluphenazine",
+        "Anatensol",
+        "Dapotum D",
+        "Fludecasin",
+        "Fludecate",
+        "Flumezin",
+        "Funazine",
+        "Lyogen",
+        "Lyogen Depot",
+        "Lyogen Retard",
+        "Metoten",
+        "Modecate",
+        "Moditen",
+        "Moditen Depo",
+        "Permitil"
+    ],
+    "description": "A phenothiazine used in the treatment of psychoses. Its properties and uses are generally similar to those of chlorpromazine.",
+    "indication": "For management of manifestations of psychotic disorders.",
+    "pharmacodynamics": "Fluphenazine is a trifluoro-methyl phenothiazine derivative intended for the management of schizophrenia and other psychotic disorders. Fluphenazine has not been shown effective in the management of behaviorial complications in patients with mental retardation.",
+    "mechanism-of-action": "Fluphenazine blocks postsynaptic mesolimbic dopaminergic D1 and D2 receptors in the brain; depresses the release of hypothalamic and hypophyseal hormones and is believed to depress the reticular activating system thus affecting basal metabolism, body temperature, wakefulness, vasomotor tone, and emesis.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "CALM1",
+            "Calmodulin",
+            "Humans"
+        ],
+        [
+            "AR",
+            "Androgen receptor",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,197 @@
+{
+    "pharmgkb_id": "PA448817",
+    "drugbank_id": "DB01136",
+    "names": [
+        "Carvedilol",
+        "COREGCR"
+    ],
+    "description": "Carvedilol is a racemic mixture where the S(-) enantiomer is both a beta and alpha-1 adrenoceptor blocker, and the R(+) enantiomer is an alpha-1 adrenoceptor blocker.[L7889,L7892] It is currently used to treat heart failure, left ventricular dysfunction, and hypertension.[L7889,L7892] The dual action of carvedilol is advantageous in combination therapies as moderate doses of 2 drugs have a decreased incidence of adverse effects compared to high dose monotherapy in the treatment of moderate hypertension.[A182306]\r\n\r\nCarvedilol was granted FDA approval on 14 September 1995.[L7889]",
+    "indication": "Carvedilol is indicated to treat mild to severe heart failure, left ventricular dysfunction after myocardial infarction with ventricular ejection fraction \u226440%, or hypertension.[L7889,L7892]",
+    "pharmacodynamics": "Carvedilol reduces tachycardia through beta adrenergic antagonism and lowers blood pressure through alpha-1 adrenergic antagonism.[L7889,L7892] It has a long duration of action as it is generally taken once daily and has a broad therapeutic index as patients generally take 10-80mg daily.[L7889,L7892] Patients taking carvedilol should not abruptly stop taking this medication as this may exacerbate coronary artery disease.[L7889,L7892]",
+    "mechanism-of-action": "Carvedilol inhibits exercise induce tachycardia through its inhibition of beta adrenoceptors.[A182306] Carvedilol's action on alpha-1 adrenergic receptors relaxes smooth muscle in vasculature, leading to reduced peripheral vascular resistance and an overall reduction in blood pressure.[A1929,A182306] At higher doses, calcium channel blocking and antioxidant activity can also be seen.[A1929] The antioxidant activity of carvedilol prevents oxidation of low density lipoprotein and its uptake into coronary circulation.[A1929]",
+    "absorption": "Carvedilol has a bioavailability of 25-35%.[A182306,L7889,L7892] Carvedilol has a T<sub>max</sub> of 1 to 2 hours.[A182306] Taking carvedilol with a meal increases T<sub>max</sub> without increasing AUC.[A182306] Carvedilol doses of 50mg lead to a C<sub>max</sub> of 122-262\u00b5g/L and an AUC of 717-1600\u00b5g/L\\*h.[A182306] Carvedilol doses of 25mg lead to a C<sub>max</sub> of 24-151\u00b5g/L and an AUC of 272-947\u00b5g/L\\*h.[A182306] Carvedilol doses of 12.5mg lead to a C<sub>max</sub> of 58-69\u00b5g/L and an AUC of 208-225\u00b5g/L\\*h.[A182306]",
+    "metabolism": "Carvedilol can be hydroxlated at the 1 position by CYP2D6, CYP1A2, or CYP1A1 to form 1-hydroxypheylcarvedilol; at the 4 position by CYP2D6, CYP2E1, CYP2C9, or CYP3A4 to form 4'-hydroxyphenylcarvedilol; at the 5 position by CYP2D6, CYP2C9, or CYP3A4 to form 5'-hydroxyphenylcarvedilol; and at the 8 position by CYP1A2, CYP3A4, and CYP1A1 to form 8-hydroxycarbazolylcarvedilol.[A39000] Carvedilol can also be demethylated by CYP2C9, CYP2D6, CYP1A2, or CYP2E1 to form O-desmethylcarvedilol.[A39000] Carvedilol and its metabolites may undergo further sulfate conjugation or glucuronidation before elimination.[A39000] Carvedilol can be O-glucuronidated by UGT1A1, UGT2B4, and UGT2B7 to form carvedilol glucuronide.[A182303]",
+    "toxicity": "Patients experiencing an overdose may present with hypotension, bradycardia, cardiac insufficiency, cardiogenic shock, and cardiac arrest.[L7889,L7892] Patients should remain in a supine position and may be given atropine for bradycardia and glucagon followed by sympathomimetics to support cardiovascular function.[L7889,L7892]",
+    "targets": [
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "NDUFC2",
+            "NADH dehydrogenase [ubiquinone] 1 subunit C2",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "VEGFA",
+            "Vascular endothelial growth factor A",
+            "Humans"
+        ],
+        [
+            "NPPB",
+            "Natriuretic peptides B",
+            "Humans"
+        ],
+        [
+            "GJA1",
+            "Gap junction alpha-1 protein",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "VCAM1",
+            "Vascular cell adhesion protein 1",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "SELE",
+            "E-selectin",
+            "Humans"
+        ],
+        [
+            "HIF1A",
+            "Hypoxia-inducible factor 1-alpha",
+            "Humans"
+        ],
+        [
+            "KCNJ4",
+            "Inward rectifier potassium channel 4",
+            "Humans"
+        ],
+        [
+            "KCNJ2",
+            "Inward rectifier potassium channel 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferase 2B4",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "XDH",
+            "Xanthine dehydrogenase/oxidase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01136",
+            "Drug Name": "Carvedilol",
+            "Gene Symbol": "ADRB1",
+            "RS ID (Genotype)": "rs1801253",
+            "Effect Description": "Patients with this genotype in ADRB1 have an increased likelihood of responding to carvedilol for the treatment of increased blood pressure."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "pharmgkb_id": "PA451737",
+    "drugbank_id": "DB00519",
+    "names": [
+        "Trandolapril"
+    ],
+    "description": "Trandolapril is a non-sulhydryl prodrug that belongs to the angiotensin-converting enzyme (ACE) inhibitor class of medications. It is metabolized to its biologically active diacid form, trandolaprilat, in the liver. Trandolaprilat inhibits ACE, the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Trandolapril may be used to treat mild to moderate hypertension, to improve survival following myocardial infarction in clinically stable patients with left ventricular dysfunction, as an adjunct treatment for congestive heart failure, and to slow the rate of progression of renal disease in hypertensive individuals with diabetes mellitus and microalbuminuria or overt nephropathy.",
+    "indication": "For the treatment of mild to moderate hypertension, as an adjunct in the treatment of congestive heart failure (CHF), to improve survival following myocardial infarction (MI) in individuals who are hemodynamically stable and demonstrate symptoms of left ventricular systolic dysfunction or signs of CHF within a few days following acute MI, and to slow progression of renal disease in hypertensive patients with diabetes mellitus and microalbuminuria or overt nephropathy. ",
+    "pharmacodynamics": "Trandolapril is the ethyl ester prodrug of a nonsulfhydryl ACE inhibitor, trandolaprilat. Trandolapril is deesterified in the liver to the diacid metabolite, trandolaprilat, which is approximately eight times more active as an inhibitor of ACE than its parent compound. ACE is a peptidyl dipeptidase that is part of the RAAS. The RAAS is a homeostatic mechanism for regulating hemodynamics, water and electrolyte balance. During sympathetic stimulation or when renal blood pressure or blood flow is reduced, renin is released from the granular cells of the juxtaglomerular apparatus in the kidneys. In the blood stream, renin cleaves circulating angiotensinogen to ATI, which is subsequently cleaved to ATII by ACE. ATII increases blood pressure via a number of mechanisms. First, it stimulates the secretion of aldosterone from the adrenal cortex. Aldosterone travels to the distal convoluted tubule (DCT) and collecting tubule of nephrons where it increases sodium and water reabsorption by increasing the number of sodium channels and sodium-potassium ATPases on cell membranes. Second, ATII stimulates the secretion of vasopressin (also known as antidiuretic hormone or ADH) from the posterior pituitary gland. ADH stimulates further water reabsorption from the kidneys via insertion of aquaporin-2 channels on the apical surface of cells of the DCT and collecting tubules. Third, ATII increases blood pressure through direct arterial vasoconstriction. Stimulation of the Type 1 ATII receptor on vascular smooth muscle cells leads to a cascade of events resulting in myocyte contraction and vasoconstriction. In addition to these major effects, ATII induces the thirst response via stimulation of hypothalamic neurons. ACE inhibitors inhibit the rapid conversion of ATI to ATII and antagonize RAAS-induced increases in blood pressure. ACE (also known as kininase II) is also involved in the enzymatic deactivation of bradykinin, a vasodilator. Inhibiting the deactivation of bradykinin increases bradykinin levels and may further sustain the effects of trandolaprilat by causing increased vasodilation and decreased blood pressure. The blood pressure lowering effect of trandolaprilat is due to a decrease in peripheral vascular resistance, which is not accompanied by significant changes in urinary excretion of chloride or potassium or water or sodium retention. ",
+    "mechanism-of-action": "There are two isoforms of ACE: the somatic isoform, which exists as a glycoprotein comprised of a single polypeptide chain of 1277; and the testicular isoform, which has a lower molecular mass and is thought to play a role in sperm maturation and binding of sperm to the oviduct epithelium. Somatic ACE has two functionally active domains, N and C, which arise from tandem gene duplication. Although the two domains have high sequence similarity, they play distinct physiological roles. The C-domain is predominantly involved in blood pressure regulation while the N-domain plays a role in hematopoietic stem cell differentiation and proliferation. ACE inhibitors bind to and inhibit the activity of both domains, but have much greater affinity for and inhibitory activity against the C-domain. Trandolaprilat, the active metabolite of trandolapril, competes with ATI for binding to ACE and inhibits and enzymatic proteolysis of ATI to ATII. Decreasing ATII levels in the body decreases blood pressure by inhibiting the pressor effects of ATII as described in the Pharmacology section above. Trandolaprilat also causes an increase in plasma renin activity likely due to a loss of feedback inhibition mediated by ATII on the release of renin and/or stimulation of reflex mechanisms via baroreceptors. ",
+    "absorption": "~ 40-60% absorbed; extensive first pass metabolism results in a low bioavailability of 4-14%",
+    "metabolism": "Cleavage of the ester group of trandolapril, primarily in the liver, is responsible for conversion to trandolaprilat, the active metabolite. Seven other metabolites, including diketopiperazine and glucuronide conjugated derivatives of trandolapril and trandolaprilat, have been identified. ",
+    "toxicity": "Most likely clinical manifestations of overdose are symptoms of severe hypotension. Most common adverse effects include cough, headache and dizziness. The oral LD<sub>50</sub> of trandolapril in mice was 4875 mg/kg in males and 3990 mg/kg in females. In rats, an oral dose of 5000 mg/kg caused low mortality (1 male out of 5; 0 females). In dogs, an oral dose of 1000 mg/kg did not cause mortality and abnormal clinical signs were not observed.",
+    "targets": [
+        [
+            "ACE",
+            "Angiotensin-converting enzyme",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

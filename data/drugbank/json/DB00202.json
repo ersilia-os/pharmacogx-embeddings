@@ -1,0 +1,93 @@
+{
+    "pharmgkb_id": "PA451522",
+    "drugbank_id": "DB00202",
+    "names": [
+        "Succinylcholine",
+        "Scoline",
+        "Sucostrin"
+    ],
+    "description": "Succinylcholine is a depolarizing skeletal muscle relaxant consisting of two molecules of the endogenous neurotransmitter [acetylcholine] (ACh) linked by their acetyl groups.[A19054] It has been widely used for over 50 years,[A299] most commonly in its chloride salt form, as a means of neuromuscular blockade during intubation and surgical procedures. Its rapid onset and offset, with effects beginning within 60 seconds of intravenous administration and lasting between four to six minutes, make succinylcholine particularly useful in the setting of short medical procedures requiring brief periods of muscle relaxation.[L9004]",
+    "indication": "Succinylcholine is indicated as an adjunct to general anesthesia, to facilitate tracheal intubation, and to provide skeletal muscle relaxation during surgery or mechanical ventilation.[L9004]",
+    "pharmacodynamics": "Succinylcholine's neuromuscular blockade takes effect within 60 seconds of intravenous administration and lasts between four to six minutes.[A19054] Similar to acetylcholine, it binds to cholinergic receptors of the motor endplate to induce membrane depolarization and, eventually, muscle paralysis, which may be maintained for as long as an adequate concentration of succinylcholine remains at the receptor site.[L32828] Succinylcholine has no direct action on smooth or cardiac muscle, nor does it appear to act on pre-synaptic or ganglionic acetylcholine receptors.[A34369] The paralysis induced by succinylcholine has been described as \"progressive\", first involving the muscles of the face and glottis, then the intercostals and diaphragm, then followed by other skeletal muscles.[L32828]\r\n\r\nSuccinylcholine has no effect on consciousness or pain threshold, and must therefore be used in conjunction with adequate anesthesia.[L9004] There have been rare reports of the development of acute rhabdomyolysis with hyperkalemia - resulting in ventricular dysrhythmias, cardiac arrest, and death - after the intravenous administration of succinylcholine to apparently healthy pediatric patients who were subsequently found to have undiagnosed skeletal myopathy (most frequently Duchenne's muscular dystrophy).[L9004] Infants or children experiencing seemingly idiopathic cardiac arrest soon after the administration of succinylcholine should therefore be treated immediately for hyperkalemia. Given that patients may not present with any apparent risk factors, the use of succinylcholine in pediatric patients should be restricted to emergency intubation or other situations in which a suitable alternative is unavailable.[L9004]",
+    "mechanism-of-action": "Succinylcholine is a depolarizing neuromuscular blocker, meaning it causes a prolonged period of membrane depolarization in order to exert its therapeutic effects. It binds to the post-synaptic cholinergic receptors found on motor endplates, thereby inducing first transient fasciculations followed by skeletal muscle paralysis.[A233250]",
+    "absorption": null,
+    "metabolism": "Succinylcholine is rapidly metabolized by plasma cholinesterase in the bloodstream to succinylmonocholine, which is then further hydrolyzed (albeit more slowly) to succinic acid and choline.[L32828]",
+    "toxicity": "Overdosage of succinylcholine is likely to extend the neuromuscular blockade beyond the time needed for surgery. Symptoms are likely to be consistent with its therapeutic effects, although more pronounced, and may therefore include skeletal muscle weakness, decreased respiratory reserve, low tidal volume, or apnea. Treatment of succinylcholine overdose involves airway and respiratory support until recovery of normal respiration is assured.[L9004]\r\n\r\nDepending on the extent of the overdose, the characteristic depolarizing (i.e. Phase I) neuromuscular blockade may switch to resemble more closely a non-depolarizing (i.e. Phase II) neuromuscular blockade.[L9004] This occurs primarily when succinylcholine is given over a prolonged period of time or with particularly large doses, and may result in significant respiratory muscle paralysis or weakness.",
+    "targets": [
+        [
+            "CHRNA10",
+            "Neuronal Acetylcholine (nACh) Receptor Subunits",
+            "Humans"
+        ],
+        [
+            "CHRNA2",
+            "Neuronal Acetylcholine (nACh) Receptor Subunits",
+            "Humans"
+        ],
+        [
+            "CHRNA3",
+            "Neuronal Acetylcholine (nACh) Receptor Subunits",
+            "Humans"
+        ],
+        [
+            "CHRNA4",
+            "Neuronal Acetylcholine (nACh) Receptor Subunits",
+            "Humans"
+        ],
+        [
+            "CHRNA5",
+            "Neuronal Acetylcholine (nACh) Receptor Subunits",
+            "Humans"
+        ],
+        [
+            "CHRNA6",
+            "Neuronal Acetylcholine (nACh) Receptor Subunits",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal Acetylcholine (nACh) Receptor Subunits",
+            "Humans"
+        ],
+        [
+            "CHRNA9",
+            "Neuronal Acetylcholine (nACh) Receptor Subunits",
+            "Humans"
+        ],
+        [
+            "CHRNB2",
+            "Neuronal Acetylcholine (nACh) Receptor Subunits",
+            "Humans"
+        ],
+        [
+            "CHRNB3",
+            "Neuronal Acetylcholine (nACh) Receptor Subunits",
+            "Humans"
+        ],
+        [
+            "CHRNB4",
+            "Neuronal Acetylcholine (nACh) Receptor Subunits",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

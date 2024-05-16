@@ -1,0 +1,85 @@
+{
+    "pharmgkb_id": "PA10066",
+    "drugbank_id": "DB00476",
+    "names": [
+        "Duloxetine",
+        "Dulane",
+        "Duzela"
+    ],
+    "description": "Duloxetine is a dual serotonin and norepinephrine reuptake inhibitor.[label] It was originally discovered in 1993 and developed by Eli Lilly and Company as LY248686.[A178741] Duloxetine first received approval from the FDA in August, 2004 as Cymbalta for the treatment of Major Depressive Disorder.[L6454] It has since received approval for a variety of indications including the treatment of neuropathic pain, Generalized Anxiety disorder, osteoarthritis, and stress incontinence. Duloxetine continues to be investigated for the treatment of pain in cancer, surgery, and more.",
+    "indication": "**Indicated** for:\r\n\r\n1) Management of Major Depressive Disorder.[label]\r\n\r\n2) Management of Generalized Anxiety Disorder.[label]\r\n\r\n3) Management of diabetic peripheral neuropathy.[label]\r\n\r\n4) Management of fibromyalgia.[label]\r\n\r\n5) Management of chronic musculoskeletal pain.[label]\r\n\r\n6) Management of osteoarthritis of the knee in adults.[L6364]\r\n\r\n7) Management of chronic lower back pain in adults.[L6364]\r\n\r\n8) Management of stress urinary incontinence in adult women.[L6367]\r\n\r\n**Off-label** uses include:\r\n\r\n1) Management of chemotherapy-induced peripheral neuropathy.[A178603]\r\n\r\n2) Management of stress urinary incontinence in adult men after prostatectomy until recovery is complete.[L6370]",
+    "pharmacodynamics": "Duloxetine, through increasing serotonin and norepinephrine concentrations in Onuf's nucleus, enhances glutamatergic activation of the pudendal motor nerve which innervates the external urethral sphinter.[A178663,A178666] This enhanced signaling allows for stronger contraction. Increased contraction of this sphincter increases the pressure needed to produce an incontinence episode in stress urinary incontinence. Duloxetine has been shown to improve Patient Global Impression of Improvement and Incontinence Quality of Life scores.[A178669] It has also been shown to reduce the median incontinence episode frequency at doses of 40 and 80 mg.\r\n\r\nAction at the dorsal horn of the spinal cord allows duloxetine to strengthen the the serotonergic and adrenergic pathways involved in descending inhibition of pain.[A178666,A178705] This results in an increased threshold of activation necessary to transmit painful stimuli to the brain and effective relief of pain, particularly in neuropathic pain. Pain relief has been noted in a variety of painful conditions including diabetic peripheral neuropathy, fibromyalgia, and osteoarthritis using a range of pain assessment surveys.[A178711]\r\n\r\nWhile duloxetine has been shown to be effective in both animal models of mood disorders and in clinical trials for the treatment of these disorders in humans, the broad scope of its pharmacodynamic effects on mood regulation in the brain has yet to be explained.[A178714]\r\n\r\nIncreased blood pressure is a common side effect with duloxetine due to vasoconstriction mediated by the intended increase in norepinephrine signaling.[label,T116]",
+    "mechanism-of-action": "Duloxetine is a potent inhibitor of neuronal serotonin and norepinephrine reuptake and a less potent inhibitor of dopamine reuptake.[A178714] Duloxetine has no significant affinity for dopaminergic, adrenergic, cholinergic, histaminergic, opioid, glutamate, and GABA receptors.\r\n\r\nAction on the external urinary sphincter is mediated via duloxetine's CNS effects. Increased serotonin and norepinephrine concentrations in Onuf's nucleus leads to increased activation of 5-HT<sub>2</sub>, 5-HT<sub>3</sub>, and \u03b1<sub>1</sub> adrenergic receptors.[A178663,A178666] 5-HT<sub>2</sub> and \u03b1<sub>1</sub> are both G<sub>q</sub> coupled and their activation increases the activity of the inositol trisphosphate/phospholipase C (IP<sub>3</sub>/PLC) pathway.[T116] This pathway leads to release of intracellular calcium stores, increasing intracellular calcium concentrations, and facilitating neuronal excitability. 5-HT<sub>3</sub> functions as a ligand-gated sodium channel which allows sodium to flow into the neuron when activated. Increased flow of sodium into the neuron contributes to depolarization and activation of voltage gated channels involved in action potential generation. The combined action of these three receptors contributes to increased excitability of the pudendal motor nerve in response to glutamate.\r\n\r\nAlso related to duloxetine's action at the spinal cord is its modulation of pain. Increasing the concentration of serotonin and norepinephrine in the dorsal horn of the spinal cord increases descending inhibition of pain through activation of 5-HT<sub>1A</sub>, 5-HT<sub>1B</sub>, 5-HT<sub>1D</sub>, 5-HT<sub>2</sub>, 5-HT<sub>3</sub>, \u03b1<sub>1</sub>-adrenergic, and \u03b1<sub>2</sub>-adrenergic receptors.[A178705] 5-HT<sub>2</sub>, 5-HT<sub>3</sub>, and \u03b1<sub>1</sub>-adrenergic mediate neuronal activation as described above. The activated neuron in this case is the GABAergic inhibitory interneuron which synapses onto the nociceptive projection neuron to inhibit the transmission of painful stimuli to the brain. The 5-HT<sub>1</sub> and \u03b1<sub>2</sub> receptors are G<sub>i</sub>/G<sub>o</sub> coupled and their activation leads to increased potassium current through inward rectifier channels and decreased adenylyl cyclase/protein kinase A signaling which contributes to neuronal inhibition.[A178705,T116] These inhibitory receptors are present on the projection neuron itself as well as the dorsal root ganglion which precedes it and serves to directly suppress the transmission of painful stimuli.\r\n\r\nThe mechanisms involved in duloxetine's benefits in depression and anxiety have not been fully elucidated. Dysfunctional serotonin and norepinephrine signaling are thought to be involved and increases in the availability of these neurotransmitters at the synaptic cleft thought to mediate a therapeutic effect.[A178666] It is postulated that the involvement of serotonin and norepinephrine in area responsible for emotional modulation such as the limbic system contributes to the effects in mood disorders specifically but this has yet to be confirmed.\r\n\r\nDuloxetine's hypertensive effect is related to its intended pharmacological effect. Increased availability of norepinephrine leads to activation of adrenergic receptors on the vascular endothelium. Since the action of \u03b1<sub>1</sub> receptors predominates, vasoconstriction results as the G<sub>q</sub> coupled receptor mediates calcium release from the sarcoplasmic reticulum to facilitate smooth muscle contraction.[T116]",
+    "absorption": "Duloxetine is incompletely absorbed with a mean bioavailability of 50% although there is wide variability in the range of 30-80%.[A14807] The population absorption constant (ka) is 0.168 h<sup>-1</sup>.The molecule is susceptible to hydrolysis in acidic environments necessitating the use of an enteric coating to protect it during transit through the stomach. This creates a 2 hour lag time from administration to the start of absorption. The Tmax is 6 hours including the lag time.[label] Administering duloxetine with food 3 hour delay in Tmax along with an 10% decrease in AUC. Similarly, administering the dose at bedtime produces a 4 hour delay and 18% decrease in AUC with a 29% reduction in Cmax.[A14807] These are attributed to delayed gastric emptying in both cases but are not expected to impact therapy to a clinically significant degree.",
+    "metabolism": "Duloxetine is extensively metabolized primarily by CYP1A2 and CYP2D6 with the former being the greater contributor.[label,A14807] It is hydroxylated at the 4, 5, or 6 positions on the naphthalene ring with the 4-hydroxy metabolite proceeding directly to a glucuronide conjugate while the 5 and 6-hydroxy metabolites proceed through a catechol and a 5-hydroxy, 6-methoxy intermediate before undergoing glucuronide or sulfate conjugation. CYP2C9 is known to be a minor contributor to the 5-hydroxy metabolite. Another uncharacterized metabolite is known to be excreted in the feces but comprises <5% of the total excreted drug. Many other metabolites exist but have not been identified due their low contribution to the overall profile of duloxetine and lack of clinical significance.",
+    "toxicity": "**Overdose**\r\n\r\nFatalities have been reported with doses of 1000mg involving both mixed drugs as well as duloxetine alone.[label] Signs and symptoms of overdose include: somnolence, coma, serotonin syndrome, seizure, syncope, hypo- or hypertension, tachycardia, and vomiting. No antidote exists and the drug is unlikely to be cleared by hemodialysis. Supportive care is recommended along with activated charcoal and gastric lavage to reduce absorption. If serotonin syndrome occurs specific treatment such as temperature control or cyproheptadine may be initiated.\r\n\r\n**Carcinogenicity & Mutagenicity**\r\n\r\nIncreased incidence of hepatocellular carcinomas and adenomas were reported in female mice fed 140 mg/kg/day duloxetine for 2 years, equivalent to 6 times the maximum recommended human dose (MRHD).[label] No effect was reported with doses of 50mg/kg/day (2 time MRHD) in females or 100 mg/kg/day in males (4 times MRHD). Similar investigation in rats produced no carcinogenicity at doses of 27 mg/kg/day (2 times MRHD)in females and 36 mg/kg/day in males (4 times MRHD).\r\n\r\nNo mutagenicity, clastogenicity, induction of sister chromatid exchange, or genotoxicity has been observed in toxicology investigations.\r\n\r\n**Reproductive Toxicity**\r\n\r\nNeither male or female rats displayed adverse reproductive effects at doses up to 45 mg/kg/day (4 times MRHD).[label]\r\n\r\n**Lactation**\r\n\r\nAn estimated 25% of plasma duloxetine appears in breast milk with the estimated daily infant dose being 0.14% of the maternal dose.[label] Breast milk concentrations have been observed to peak 3 hours after administration.",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

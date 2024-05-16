@@ -1,0 +1,74 @@
+{
+    "pharmgkb_id": "PA10229",
+    "drugbank_id": "DB00862",
+    "names": [
+        "Vardenafil",
+        "Levitra",
+        "Staxyn"
+    ],
+    "description": "Vardenafil is a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5) and an oral therapy for the treatment of erectile dysfunction.[L45563,L45568] During sexual stimulation, nitric oxide (NO) is released from nerve endings and endothelial cells in the corpus cavernosum, activating the enzyme guanylate cyclase and increasing the synthesis of cGMP in the smooth muscle cells of the corpus cavernosum. PDE5 inhibitors, such as vardenafil, inhibit the degradation of cGMP and allow increased blood flow into the penis, resulting in an erection.[A258303,L45563,L45568]. Compared to [sildenafil] and [tadalafil], vardenafil is a more potent inhibitor of PDE5; however, its selectivity for other PDE isoforms is lower than the one detected for tadalafil.[A258318]\r\n\r\nThe FDA approved the use of vardenafil for the treatment of erectile dysfunction in 2003. Although other PDE5 inhibitors such as [sildenafil] and [tadalafil] have been associated with rare cases of acute liver injury, the use of vardenafil has not been linked to hepatotoxic effects.[A258313] The use of vardenafil as a monotherapy for the treatment of pulmonary arterial hypertension has also been evaluated.[A258308]",
+    "indication": "Vardenafil is indicated for the treatment of erectile dysfunction.[L45563,L45568,L45573]",
+    "pharmacodynamics": "Vardenafil is a potent and selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5), an enzyme responsible for the degradation of cGMP in the corpus cavernosum. The presence of cGMP in the corpus cavernosum leads to smooth muscle relaxation, an increased inflow of blood and an erection. Therefore, in patients with erectile dysfunction given vardenafil, normal sexual stimulation will increase cGMP levels in the corpus cavernosum. Without sexual stimulation and no cGMP production, vardenafil should not cause an erection.[L45563,L45568] \r\n\r\nVardenafil should not be used in men for whom sexual activity is not recommended due to their underlying cardiovascular status. There is also a risk of developing prolonged erections that last longer than 4 hours, as well as priapism. In the event of a sudden loss of vision in one or both eyes, patients should stop using vardenafil. Patients taking PDE5 inhibitors, such as vardenafil, may also develop sudden hearing loss and experience a prolonged QT interval.[L45563,L45568]",
+    "mechanism-of-action": "Vardenafil inhibits cyclic guanosine monophosphate (GMP) specific phosphodiesterase type 5 (PDE5), which is responsible for the degradation of cyclic GMP in the corpus cavernosum located around the penis. Penile erection during sexual stimulation is caused by increased penile blood flow resulting from the relaxation of penile arteries and corpus cavernosal smooth muscle. This response is mediated by the release of nitric oxide (NO) from nerve terminals and endothelial cells, which stimulates the synthesis of cyclic GMP in smooth muscle cells. Cyclic GMP causes smooth muscle relaxation and increased blood flow into the corpus cavernosum. The tissue concentration of cyclic GMP is regulated by both the rates of synthesis and degradation via phosphodiesterases (PDEs), and the most abundant PDE in the human corpus cavernosum is PDE5. Therefore, the inhibition of PDE5 by vardenafil enhances erectile function by increasing the amount of cyclic GMP.[L45563]",
+    "absorption": "Over the recommended dose range, vardenafil has a dose-proportional pharmacokinetics profile. In healthy male volunteers given a single oral dose of 20 mg of vardenafil, maximum plasma concentrations were reached between 30 minutes and 2 hours (median 60 minutes) after oral dosing in the fasted state, and 0.00018% of the dose was detected in semen 1.5 hours after dosing. Vardenafil has a bioavailability of approximately 15%.[L45563] High-fat meals cause a C<sub>max</sub> reduction of 18%-50%; however, no changes were detected in AUC or T<sub>max</sub>.[L45563,L45568]",
+    "metabolism": "Vardenafil is mainly metabolized by CYP3A4 in the liver, although CYP3A5 and CYP2C isoforms also contribute to its metabolism. The major circulating metabolite, M1 (N-desethylvardenafil), results from desethylation at the piperazine moiety of vardenafil, and has a plasma concentration of approximately 26% of that of the parent compound. M1 has a phosphodiesterase selectivity profile similar to that of vardenafil and an _in vitro_ inhibitory potency for PDE5 28% of that of vardenafil.[L45563]",
+    "toxicity": "Healthy male volunteers given a single dose of 120 mg of vardenafil experienced reversible back pain, myalgia and abnormal vision. Patients given vardenafil once daily over 4 weeks in single doses up to 80 mg and multiple doses up to 40 mg did not present serious adverse side effects. Cases of severe back pain were observed when 40 mg of vardenafil was administered twice daily; however patients did not present muscle or neurological toxicity. In cases of overdose, standard supportive measures should be taken as required. Renal dialysis is not expected to accelerate clearance as vardenafil is highly bound to plasma proteins and not significantly eliminated in the urine.[L45563,L45568]\r\n\r\nNo carcinogenic effects were detected in rats and mice given vardenafil daily for 24 months. Vardenafil was not mutagenic or clastogenic, and did not have an effect in fertility in male and female rats given up to 100 mg/kg/day for 28 days prior to mating in males, and for 14 days prior to mating and through day 7 of gestation in females.[L45563,L45568]",
+    "targets": [
+        [
+            "PDE5A",
+            "cGMP-specific 3',5'-cyclic phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE6G",
+            "Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma",
+            "Humans"
+        ],
+        [
+            "PDE6H",
+            "Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

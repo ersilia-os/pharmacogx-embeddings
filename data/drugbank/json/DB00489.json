@@ -1,0 +1,55 @@
+{
+    "pharmgkb_id": "PA451457",
+    "drugbank_id": "DB00489",
+    "names": [
+        "Sotalol",
+        "Biosotal",
+        "Cardol",
+        "Darob",
+        "Darob mite",
+        "Hipecor",
+        "Loritmik",
+        "Rytmobeta",
+        "Sotacor",
+        "Sotagard",
+        "Sotalex",
+        "Sotapor",
+        "Talozin",
+        "Tan Shi",
+        "Xi An Lin"
+    ],
+    "description": "Sotalol is a methanesulfonanilide developed in 1960.[A178579] It was the first of the class III anti arrhythmic drugs.[A178579] Sotalol was first approved as an oral tablet on 30 October 1992.[L6334] A racemic mixture of sotalol is currently formulated as a tablet, oral solution, and intravenous injection indicated for life threatening ventricular arrhythmias and maintaining normal sinus rhythm in atrial fibrillation or flutter.[Label,L6373,L6376]",
+    "indication": "Sotalol is indicated to treat life threatening ventricular arrhytmias and maintain normal sinus rhythm in patients with atrial fibrillation or flutter.[Label] There are also oral solutions and intravenous injections indicated for patients requiring sotalol, but for whom a tablet would not be appropriate.[Label,L6373,L6376]",
+    "pharmacodynamics": "Sotalol is a competitive inhibitor of the rapid potassium channel.[A178522] This inhibition lengthens the duration of action potentials and the refractory period in the atria and ventricles.[A178540,A178561] The inhibition of rapid potassium channels is increases as heart rate decreases, which is why adverse effects like torsades de points is more likely to be seen at lower heart rates.[A178579] L-sotalol also has beta adrenergic receptor blocking activity seen above plasma concentrations of 800ng/L.[A178579] The beta blocking ability of sotalol further prolongs action potentials.[A178579] D-sotalol does not have beta blocking activity but also reduces a patient's heart rate while standing or exercising.[A178579] These actions combine to produce a negative inotropic effect that reduces the strength of contractility of muscle cells in the heart.[A178522] Extension of the QT interval is also adversely associated with the induction of arrhythmia in patients.[A178561]\r\n\r\nHyperglycemia is a greater risk for non insulin dependant diabetics than insulin dependant diabetics.[A33725] Beta blockers inhibit insulin secretion which may cause hyperglycemia in type II diabetes mellitus.[A33725] The risk of hypoglycemia is higher in insulin dependant diabetes than non insulin dependant diabetics.[A33725] Beta blockers decrease secretion of insulin, which may mask hypoglycemia in an insulin dependant patient.[A33725] Beta blockers also increase glucose uptake into cells which may prolong or potentiate hypoglycemia.[A33725]\r\n\r\nFurther information regarding adverse reactions can be found here.[L6379]",
+    "mechanism-of-action": "Sotalol inhibits beta-1 adrenoceptors in the myocardium as well as rapid potassium channels to slow repolarization, lengthen the QT interval, and slow and shorten conduction of action potentials through the atria.[A178522,A178540,A178561,A34177] The action of sotalol on beta adrenergic receptors lengthens the sinus node cycle, conduction time through the atrioventricular node, refractory period, and duration of action potentials.[A178579]",
+    "absorption": "Sotalol is 90-100% bioavailable.[Label,A178483] When taken with a meal, adsorption is lowered by 18%.[Label,A178483]\r\nIn patients with a creatinine clearance >80mL/min, the maximum concentration is 6.25\u00b12.19.[A178483]",
+    "metabolism": "Sotalol is not metabolized.[Label,A178483]",
+    "toxicity": "Patients experiencing an overdose may present with bradycardia, congestive heart failure, hypotension, bronchospasm, and hypoglycemia.[Label] Larger intentional overdoses may present as hypotension, bradycardia, cardiac asystole, prolonged QT interval, torsade de pointes, ventricular tachycardia, and premature ventricular complexes.[Label] Stop administering sotalol and observe the patient until the QT interval returns to normal and the heart rate rises above 50 beats per minute.[Label] Hemodialysis may help lower plasma concentrations of sotalol as it is not bound to plasma proteins.[Label] Bradycardia and cardiac asystole may be treated with [atropine], other anticholinergic drugs, beta adrenergic agonists, or transvenous cardiac pacing.[Label]. Second or third degree heart block may be treated with a transvenous cardiac pacemaker.[Label] Hypotension may be treated with [epinephrine] or [norepinephrine].[Label] Bronchospasm may be treated with [aminophylline] or a beta-2 agonist, possibly at higher than normal doses.[Label] Torsade de pointes may be treated with DC cardioversion, transvenous cardiac pacing, epinephrine, or [magnesium sulfate].[Label]\r\n\r\nThe oral LD50 for rats is 3450mg/kg, intraperitoneal LD50 for rats is 680mg/kg, oral LD50 for mice is 2600mg/kg, and intraperitoneal LD50 for mice is 670mg/kg.[MSDS]\r\n\r\nPregnant rabbits given 6 times the maximum recommended human dose showed an increase in fetal death and maternal toxicity, while rats given 18 times the maximum recommended human dose had an increased number of fetal resorptions.[Label] Sotalol is present in human breast milk so patients taking sotalol should not breast feed.[Label]\r\n\r\nSotalol has not been found to be carcinogenic.[Label] No studies have been performed regarding mutagenicity or clastogenicity.[Label] In animal studies, sotalol was not associated with a reduction in fertility aside from smaller litter sizes.[Label]\r\n\r\nFurther information regarding adverse reactions can be found here.[L6379]",
+    "targets": [
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

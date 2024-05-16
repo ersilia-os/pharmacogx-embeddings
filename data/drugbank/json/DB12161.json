@@ -1,0 +1,56 @@
+{
+    "pharmgkb_id": "PA166169881",
+    "drugbank_id": "DB12161",
+    "names": [
+        "Deutetrabenazine"
+    ],
+    "description": "Deutetrabenazine is a novel, highly selective vesicular monoamine transporter 2 (VMAT2) inhibitor indicated for the management of chorea associated with Huntington\u2019s disease. It is a hexahydro-dimethoxybenzoquinolizine derivative and a deuterated [DB04844] [A32046]. The presence of deuterium in deutetrabenazine increases the half-lives of the active metabolite and prolongs their pharmacological activity by attenuating CYP2D6 metabolism of the compound [A32046]. This allows less frequent dosing and a lower daily dose with improvement in tolerability [A32043]. Decreased plasma fluctuations of deutetrabenazine due to attenuated metabolism may explain a lower incidence of adverse reactions associated with deutetrabenazine [A32042]. Deutetrabenazine is a racemic mixture containing  RR-Deutetrabenazine and SS-Deutetrabenazine [FDA Label]. \r\n\r\nHuntington's disease (HD) is a hereditary, progressive neurodegenerative disorder characterized by motor dysfunction, cognitive decline, and neuropsychiatric disturbances [A32043] that interfere with daily functioning and significantly reduce the quality of life. The most prominent physical symptom of HD that may increase the risk of injury is chorea, which is an involuntary, sudden movement that can affect any muscle and flow randomly across body regions [A32046]. Psychomotor symptoms of HD, such as chorea, are related to hyperactive dopaminergic neurotransmission [A14081]. Deutetrabenazine depletes the levels of presynaptic dopamine by blocking VMAT2, which is responsible for the uptake of dopamine into synaptic vesicles in monoaminergic neurons and exocytotic release [A14081]. As with other agents for the treatment of neurodegenerative diseases, deutetrabenazine is a drug to alleviate the motor symptoms of HD and is not proposed to halt the progression of the disease [T28]. In clinical trials of patients with HD, 12 weeks of treatment of deutetrabenazine resulted in overall improvement in mean total maximal chorea scores and motor signs than placebo [A32046]. It was approved by FDA in April 2017 and is marketed under the trade name Austedo as oral tablets.",
+    "indication": "Deutetrabenazine is indicated in adults patients for the treatment of tardive dyskinesia and for chorea associated with Huntington's disease.[L36778]",
+    "pharmacodynamics": "In clinical trials, there was an evidence of clinical effectiveness of deutetrabenazine in improving the symptoms of involuntary movements in patient with tardive dyskinesia by reducing the mean Abnormal Involuntary Movement Scale (AIMS) score [A32044, A32045].  In a randomized, double-blind, placebo-controlled crossover study in healthy male and female subjects, single dose administration of 24 mg deutetrabenazine results in an approximately 4.5 msec mean increase in QTc [FDA Label]. Effects at higher exposures to deutetrabenazine or its metabolites have not been evaluated [FDA Label]. Deutetrabenazine and its metabolites were shown to bind to melanin-containing tissues including eyes, skin and fur in pigmented rats. After a single oral dose of radiolabeled deutetrabenazine, radioactivity was still detected in eye and fur at 35 days following dosing [FDA Label]. ",
+    "mechanism-of-action": "The precise mechanism of action of deutetrabenazine in mediating its anti-chorea effects is not fully elucidated. Deutetrabenazine reversibly depletes the levels of monoamines, such as dopamine, serotonin, norepinephrine, and histamine, from nerve terminals via its active metabolites. The major circulating metabolites are \u03b1-dihydrotetrabenazine [HTBZ] and \u03b2-HTBZ that act as reversible inhibitors of VMAT2. Inhibition of VMAT2 results in decreased uptake of monoamines into synaptic terminal and depletion of monoamine stores from nerve terminals [FDA Label]. \r\n\r\nDeutetrabenazine contains the molecule deuterium, which is a naturally-occurring, nontoxic hydrogen isotope but with an increased mass relative to hydrogen [A32046]. Placed at key positions, deuterium forms a stronger hydrogen bond with carbon that requires more energy for cleavage, thus attenuating CYP2D6-mediated metabolism without having any effect on the therapeutic target [A32046]. ",
+    "absorption": "The extent of absorption is 80% with oral deutetrabenazine. As deutetrabenazine is extensively metabolized to its main active metabolites following administration, linear dose dependence of peak plasma concentrations (Cmax) and AUC was observed for the metabolites after single or multiple doses of deutetrabenazine (6 mg to 24 mg and 7.5 mg twice daily to 22.5 mg twice daily) [FDA Label]. Cmax of deuterated \u03b1-HTBZ and \u03b2-HTBZ are reached within 3-4 hours post-dosing [FDA Label]. Food may increase the Cmax of \u03b1-HTBZ or \u03b2-HTBZ by approximately 50%, but is unlikely to have an effect on the AUC [FDA Label].",
+    "metabolism": "Deutetrabenazine undergoes extensive hepatic biotransformation mediated by carbonyl reductase to form its major active metabolites, \u03b1-HTBZ and \u03b2\u00ad-HTBZ. These metabolites may subsequently metabolized to form several minor metabolites, with major contribution of CYP2D6 and minor contributions of CYP1A2 and CYP3A4/5 [FDA Label].",
+    "toxicity": "Adverse reactions associated with overdosage include acute dystonia, oculogyric crisis, nausea and vomiting, sweating, sedation, hypotension, confusion, diarrhea, hallucinations, rubor, and tremor [FDA Label]. In case of an overdose, general supportive and symptomatic measures are recommended while monitoring cardiac rhythm and vital signs. In managing overdosage, the possibility of multiple drug involvement should always be considered [FDA Label]. \r\n\r\nNo carcinogenicity studies were performed with deutetrabenazine. In p53+/\u2013 transgenic mice, there were no detectable tumors following oral administration of deutetrabenazine at doses of 0, 5, 15, and 30 mg/kg/day for 26 weeks [FDA Label]. Findings from in vitro assays and in vivo mice micronucleus assay suggest that deutetrabenazine and its metabolites are unlikely to be mutagenic [FDA Label]. The effects of deutetrabenazine on fertility have not been evaluated. Oral administration of tetrabenazine had no effects on mating and reproductive systems of male and female rats [FDA Label].",
+    "targets": [
+        [
+            "SLC18A2",
+            "Synaptic vesicular amine transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CBR1",
+            "Carbonyl reductase [NADPH] 1",
+            "Humans"
+        ],
+        [
+            "CBR3",
+            "Carbonyl reductase [NADPH] 3",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

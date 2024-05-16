@@ -1,0 +1,113 @@
+{
+    "pharmgkb_id": "PA166258723",
+    "drugbank_id": "DB09299",
+    "names": [
+        "Tenofovir alafenamide"
+    ],
+    "description": "Tenofovir alafenamide is a novel [tenofovir] prodrug developed in order to improve renal safety when compared to the counterpart [tenofovir disoproxil].[A178060] Both of these prodrugs were first created to cover the polar phosphonic acid group on tenofovir by using a novel oxycarbonyloxymethyl linkers to improve the oral bioavailability and intestinal diffusion.[T239] Tenofovir alafenamide is an alanine ester form characterized for presenting low systemic levels but high intracellular concentration.[A178219] It has been reported to produce a large antiviral efficacy at doses ten times lower than tenofovir disoproxil.[A178327] Tenofovir alafenamide is indicated to treat chronic hepatitis B,[L6241] treat HIV-1,[L4388,L6277,L6280,L6283] and prevent HIV-1 infections.[L4388,L9010]\r\n\r\nTenofovir alafenamide was developed by Gilead Sciences Inc and granted FDA approval on 5 November 2015.[L6271]",
+    "indication": "Tenofovir alafenamide is indicated for the treatment of hepatitis B virus infection in adults and pediatric patients 12 years of age and older with compensated liver disease.[L43582]\r\n\r\nIn combination with [emtricitabine] and other antiretrovirals, it is indicated for the treatment of HIV-1 infection in adolescent and adult patients with a weight higher than 35 kg.[L4388] This combination is also indicated to prevent HIV-1 infections in high risk adolescent and adult patients, excluding patients at risk from receptive vaginal sex.[L4388,L9010] When combined with antiretrovirals other than protease inhibitors that require a CYP3A inhibitor, it can be used to treat pediatric patients weighing 25-35 kg.[L4388]\r\n\r\nIn the combination product with emtricitabine and [bictegravir], tenofovir alafenamide is considered a complete treatment regimen for HIV-1 infections for treatment-naive patients or patients virologically suppressed for at least three months with no history of treatment failure.[L6277,L38944,L44226] \r\n\r\nAdditionally, the combination product including [elvitegravir], [cobicistat], emtricitabine and tenofovir alafenamide and the combination product including emtricitabine, [rilpivirine] and tenofovir alafenamide can be used in the treatment of HIV-1 infection in patients older than 12 years with no previous antiretroviral therapy history or who are virologically suppressed for at least 6 months with no history of treatment failure.[L6280]\r\n\r\nThe combination product including [darunavir], cobicistat, emtricitabine, and tenofovir alafenamide is indicated for the treatment of HIV-1 infection in adults without prior antiretroviral therapy or in patients virologically suppressed for 6 months and no reported resistance to darunavir or tenofovir.[L6283]",
+    "pharmacodynamics": "Tenofovir alafenamide has been shown to be a potent inhibitor of hepatitis B viral replication.[A178249]\r\n\r\nTenofovir alafenamide presents a better renal tolerance when compared with the counterpart [tenofovir disoproxil]. This improved safety profile seems to be related to a lower plasma concentration of tenofovir.[A178060]\r\n\r\nIn clinical trials, tenofovir alafenamide was shown to present 5-fold more potent antiviral activity against HIV-1 when compared to tenofovir disoproxil.[A178060]",
+    "mechanism-of-action": "Tenofovir alafenamide presents 91% lower plasma concentration with an intracellular presence of about 20-fold higher when compared to [tenofovir disoproxil].[A178219] This is due to its prolonged systemic exposure and its higher intracellular accumulation of the active metabolite tenofovir diphosphate.[A18473]\r\n\r\nTenofovir alafenamide accumulates more in peripheral blood mononuclear cells compared to red blood cells.[A18473]\r\n\r\nOnce activated, tenofovir acts with different mechanisms including the inhibition of viral polymerase, causing chain termination and the inhibition of viral synthesis.[L6241] To know more about the specific mechanism of action of the active form, please visit the drug entry of [tenofovir].",
+    "absorption": "As compared to the parent molecule, [tenofovir], tenofovir alafenamide presents a lipophilic group that masks the negative charge of the parent moiety which improves its oral bioavailability.[A178060]\r\n\r\nTenofovir alafenamide is highly stable in plasma and, after administration of this prodrug, there is a low concentration of tenofovir in plasma. After oral administration, tenofovir alafenamide is rapidly absorbed by the gut. When a single dose is administered, a peak concentration of 16 ng/ml of the parent compound, corresponding to about 73% of the dose, is observed after 2 hours with an AUC of 270 ng\\*h/mL.[A178060, A18473] Once inside the body, tenofovir alafenamide enters hepatocytes by passive diffusion regulated by the organic anion transporters 1B1 and 1B3 for its activation.[A178249]\r\n\r\nAdministration of tenofovir alafenamide concomitantly with a high-fat meal results in an increase of about 65% in its internal exposure.[L6286]",
+    "metabolism": "To be activated, tenofovir alafenamide is required to be hydrolyzed to the parent compound [tenofovir] by the activity of cathepsin A or carboxylesterase 1. Tenofovir alafenamide presents significant plasma stability and hence, its activation is performed inside the target cells.[A178060]\r\n\r\nAfter activation, tenofovir is further processed and after 1-2 days, it is detected in plasma almost completely transformed to uric acid.[A178060]",
+    "toxicity": "The LD<sub>50</sub> of tenofovir alafenamide has not been reported. In cases of overdose, continuous monitoring of vital signs is required as the adverse effects in high doses has not been evaluated. However, in case of overdose, tenofovir is efficiently removed by hemodialysis with an extraction coefficient of 54%.[L6286]\r\n\r\nCarcinogenic reports have only been performed with [tenofovir disoproxil] and it is important to consider that tenofovir alafenamide does not present a high systemic exposure. However, long-term exposure with 10-fold dosages of tenofovir disoproxil was reported to produce liver adenomas in females. Tenofovir alafenamide was not reported to present mutagenic potential and it did not present effects on fertility.[L6286]",
+    "targets": [
+        [
+            "pol",
+            "Reverse transcriptase/RNaseH",
+            "Human immunodeficiency virus 1"
+        ],
+        [
+            "rt",
+            "Reverse transcriptase",
+            "HBV"
+        ],
+        [
+            null,
+            "DNA polymerase",
+            "Human herpesvirus 2 (strain 186)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CTSA",
+            "Lysosomal protective protein",
+            null
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "AK1",
+            "Adenylate kinase isoenzyme 1",
+            "Humans"
+        ],
+        [
+            "AK2",
+            "Adenylate kinase 2, mitochondrial",
+            "Humans"
+        ],
+        [
+            "NME1",
+            "Nucleoside diphosphate kinase A",
+            "Humans"
+        ],
+        [
+            "NME2",
+            "Nucleoside diphosphate kinase B",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,26 @@
+{
+    "pharmgkb_id": "PA450524",
+    "drugbank_id": "DB00305",
+    "names": [
+        "Mitomycin",
+        "Mitozytrex"
+    ],
+    "description": "Mitomycin is an antineoplastic antibiotic first isolated by Japanese microbiologists in the 1950s from cultures of _Streptomyces caespitosus_.[L12867,A193419] It is an alkylating agent that inhibits DNA synthesis (and, at higher concentrations, RNA and protein synthesis) by cross-linking the complementary strands of the DNA double helix.[A193419] Few other antibiotics have been discovered that work via this alkylating mechanism, making mitomycin relatively unique in the space of microbiota-derived therapies.[A193419]\r\n\r\nMitomycin's cross-linking activity has resulted in its approval for the treatment of a variety of cancers - the most recent of which is an April 2020 approval for its use in low-grade Upper Tract Urothelial Cancer (LG-UTUC)[L12867] - as well as adjunctly to _ab externo_ glaucoma surgeries.",
+    "indication": "For treatment of malignant neoplasm of lip, oral cavity, pharynx, digestive organs, peritoneum, female breast, and urinary bladder. Also used as an adjunct to ab externo glaucoma surgery. Mitomycin is also indicated as a pyelocalyceal solution for the treatment of adults with low-grade upper tract urothelial cancer (LG-UTUC).[L12867]",
+    "pharmacodynamics": "Mitomycin is one of the older chemotherapy drugs, which has been around and in use for decades. It is an antibiotic which has been shown to have antitumor activity. Mitomycin selectively inhibits the synthesis of deoxyribonucleic acid (DNA). The guanine and cytosine content correlates with the degree of mitomycin-induced cross-linking. At high concentrations of the drug, cellular RNA and protein synthesis are also suppressed. Mitomycin has been shown <i>in vitro</i> to inhibit B cell, T cell, and macrophage proliferation and impair antigen presentation, as well as the secretion of interferon gamma, TNFa, and IL-2.",
+    "mechanism-of-action": "Mitomycin is activated in vivo to a bifunctional and trifunctional alkylating agent. Binding to DNA leads to cross-linking and inhibition of DNA synthesis and function. Mitomycin is cell cycle phase-nonspecific.",
+    "absorption": "Erratic.",
+    "metabolism": "Primarily hepatic, some in various other tissues.",
+    "toxicity": "Oral, mouse: LD<sub>50</sub> = 23 mg/kg; Oral, rat: LD<sub>50</sub> = 30 mg/kg. Symptoms of overdose include nausea and vomiting.",
+    "targets": null,
+    "enzymes": [
+        [
+            "POR",
+            "NADPH--cytochrome P450 reductase",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

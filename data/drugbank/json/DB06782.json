@@ -1,0 +1,29 @@
+{
+    "pharmgkb_id": "PA165958406",
+    "drugbank_id": "DB06782",
+    "names": [
+        "Dimercaprol",
+        "Bal In Oil Injection",
+        "Dimaval",
+        "Dimercaprol",
+        "TechneScan DMSA"
+    ],
+    "description": "Dimercaprol is a traditional chelating agent developed by British biochemists at Oxford University during World War II. It was developed as an experimental antidote against the arsenic-based poison gas Lewisite. It has been used clinically since 1949 in arsenic, cadmium and mercury poisoning. In addition, it has in the past been used for the treatment of Wilson's disease, a genetic disorder in which the body tends to retain copper. Dimercaprol has toxic potential, and its use may be followed by a variety of adverse effects.",
+    "indication": "For the treatment of arsenic, gold and mercury poisoning. Indicated in acute lead poisoning when used concomitantly with edetate calcium disodium (DB00974).",
+    "pharmacodynamics": "Due to its oily nature, dimercaprol is not absorbed orally and its administration requires a deep intra-muscular injection that is extremely painful and allergenic. It was found to mobilize and relocate lead to the brain, increasing its neurotoxic effects. Despite that fact that dimercaprol increases cadmium excretion, there is an associated increase in kidney cadmium concentration. Because of this, dimercaprol must be avoided in patients with cadmium toxicity.",
+    "mechanism-of-action": "The sulfhydryl groups of dimercaprol form complexes with certain heavy metals thus preventing or reversing the metallic binding of sulfhydryl-containing enzymes. The complex is excreted in the urine.",
+    "absorption": "After intra-muscular injection.",
+    "metabolism": null,
+    "toxicity": "The intramuscular LD50 in rats is approximately 105 mg/kg; intraperitoneally 140 mg/kg. The intraperitoneal LD80 in mice is approximately 125 mg/kg. Dimercaprol has been shown in animal experiments to increase brain deposition of arsenite, organic mercury compounds and increase the toxicity of cadmium and lead. Dimercaprol has been shown to induce seizure in animal studies and also is nephrotoxic. ",
+    "targets": [
+        [
+            "APP",
+            "Amyloid beta A4 protein",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

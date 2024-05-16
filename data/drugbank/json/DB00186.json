@@ -1,0 +1,154 @@
+{
+    "pharmgkb_id": "PA450267",
+    "drugbank_id": "DB00186",
+    "names": [
+        "Lorazepam",
+        "Almazine",
+        "Anxiedin",
+        "Idalprem",
+        "Lorabenz",
+        "Lorsilan",
+        "Somagerol",
+        "Temesta",
+        "Wypax"
+    ],
+    "description": "Lorazepam is a short-acting and rapidly cleared benzodiazepine used commonly as a sedative and anxiolytic.[A957] It was developed by DJ Richards, presented and marketed initially by Wyeth Pharmaceuticals in the USA in 1977. The first historic FDA label approval is reported in 1985 by the company Mutual Pharm.[L5095]",
+    "indication": "Lorazepam is FDA-approved for the short-term relief of anxiety symptoms related to anxiety disorders and anxiety associated with depressive symptoms such as anxiety-associated insomnia. It is as well used as an anesthesia premedication in adults to relieve anxiety or to produce sedation/amnesia and for the treatment of status epilepticus.[T385]\r\n\r\nSome off-label indications of lorazepam include rapid tranquilization of an agitated patient, alcohol withdrawal delirium, alcohol withdrawal syndrome, muscle spasms, insomnia, panic disorder, delirium, chemotherapy-associated anticipatory nausea and vomiting, and psychogenic catatonia.[T385]",
+    "pharmacodynamics": "The effect of lorazepam in GABA-A receptors produces an increase in the frequency of opening of the chloride ion channel. However, for its effect to generate, the neurotransmitter is required.[A5415] The anticonvulsant properties of lorazepam are thought to be related to the binding to voltage-dependent sodium channels in which the sustained repetitive firing gets limited by the slow recovery of sodium channels due to the benzodiazepine effect.[A1240]\r\n\r\nThe effect of lorazepam seems to be very compartmental which was observed with a different generation of sleepiness and a dizziness effect.[A173920]",
+    "mechanism-of-action": "Lorazepam allosterically binds on the benzodiazepine receptors in the post-synaptic GABA-A ligand-gated chloride channel in different sites of the central nervous system (CNS). This binding will result in an increase on the GABA inhibitory effects which is translated as an increase in the flow of chloride ions into the cell causing hyperpolarization and stabilization of the cellular plasma membrane.[T385]\r\n\r\nAccording to the binding site of lorazepam, we can observe different activities as the binding in the amygdala is known to help mainly in anxiety disorders while the binding in the cerebral cortex helps in seizure disorders.[T385]",
+    "absorption": "Readily absorbed with an absolute bioavailability of 90% when given orally. When intramuscularly administered a dose of 4 mg, lorazepam is completely and rapidly absorbed and achieves a maximal serum concentration of 48 ng/ml in 15-30 minutes. When administered orally, the time to attained maximum concentration is observed to be of 2 hours.[T385]",
+    "metabolism": "Lorazepam is hepatically metabolized by CYP450 isoenzymes and extensively conjugated to the 3-0-phenolic glucuronide.[T385] This is an inactive metabolite and is eliminated mainly by the kidneys. ",
+    "toxicity": "The LD50 observed by oral administration in a mouse is of 1850 mg/kg.[L6403] When an overdose administration is registered, signs of CNS and respiratory depression are rapidly observed. An overdose stage can result in profound sedation, deep respiratory depression, coma, and death.[T385] When overdose is observed, it is recommended to administer emergency symptomatic medical support with attention to produce an increase in lorazepam elimination.[T388]\r\n\r\nThere is no evidence of carcinogenicity nor mutagenicity. At doses higher than 40 mg/kg there is evidence of fetal resorption and increase in fetal loss.[FDA label]",
+    "targets": [
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

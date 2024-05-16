@@ -1,0 +1,55 @@
+{
+    "pharmgkb_id": "PA451251",
+    "drugbank_id": "DB00740",
+    "names": [
+        "Riluzole",
+        "Fanizan",
+        "Laidec",
+        "Lizolorol",
+        "Lizorolol",
+        "Rilustad",
+        "Sclefic",
+        "Xie Yi Li",
+        "Zolerilis"
+    ],
+    "description": "A glutamate antagonist (receptors, glutamate) used as an anticonvulsant (anticonvulsants) and to prolong the survival of patients with amyotrophic lateral sclerosis. Riluzole is marketed as Rilutek by Sanofi.",
+    "indication": "For the treatment of amyotrophic lateral sclerosis (ALS, Lou Gehrig's Disease)",
+    "pharmacodynamics": "Riluzole, a member of the benzothiazole class, is indicated for the treatment of patients with amyotrophic lateral sclerosis (ALS). Riluzole extends survival and/or time to tracheostomy. It is also neuroprotective in various <i>in vivo</i> experimental models of neuronal injury involving excitotoxic mechanisms. The etiology and pathogenesis of amyotrophic lateral sclerosis (ALS) are not known, although a number of hypotheses have been advanced. One hypothesis is that motor neurons, made vulnerable through either genetic predisposition or environmental factors, are injured by glutamate. In some cases of familial ALS the enzyme superoxide dismutase has been found to be defective.",
+    "mechanism-of-action": "The mode of action of riluzole is unknown. Its pharmacological properties include the following, some of which may be related to its effect: 1) an inhibitory effect on glutamate release (activation of glutamate reuptake), 2) inactivation of voltage-dependent sodium channels, and 3) ability to interfere with intracellular events that follow transmitter binding at excitatory amino acid receptors.",
+    "absorption": "Riluzole is well-absorbed (approximately 90%), with average absolute oral bioavailability of about 60% (CV=30%). A high fat meal decreases absorption, reducing AUC by about 20% and peak blood levels by about 45%.",
+    "metabolism": "Riluzole is extensively metabolized to six major and a number of minor metabolites, which have not all been identified to date. Metabolism is mostly hepatic, consisting of cytochrome P450&ndash;dependent hydroxylation and glucuronidation. CYP1A2 is the primary isozyme involved in N-hydroxylation; CYP2D6, CYP2C19, CYP3A4, and CYP2E1 are considered unlikely to contribute significantly to riluzole metabolism in humans.",
+    "toxicity": null,
+    "targets": [
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ],
+        [
+            "SLC7A11",
+            "Cystine/glutamate transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

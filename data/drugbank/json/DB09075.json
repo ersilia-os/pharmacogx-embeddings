@@ -1,0 +1,31 @@
+{
+    "pharmgkb_id": "PA166128806",
+    "drugbank_id": "DB09075",
+    "names": [
+        "Edoxaban"
+    ],
+    "description": "Edoxaban is a member of the Novel Oral Anti-Coagulants (NOACs) class of drugs, and is a rapidly acting, oral, selective factor Xa inhibitor. By inhibiting factor Xa, a key protein in the coagulation cascade, edoxaban prevents the stepwise amplification of protein factors needed to form blood clots. It is indicated to reduce the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF) and for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant. Traditionally, warfarin, a vitamin K antagonist, was used for stroke prevention in these individuals but effective use of this drug is limited by it's delayed onset, narrow therapeutic window, need for regular monitoring and INR testing, and numerous drug-drug and drug-food interactions. This has prompted enthusiasm for newer agents such as dabigatran, apixaban, and rivaroxaban for effective clot prevention. In addition to once daily dosing, the benefits over warfarin also include significant reductions in hemorrhagic stroke and GI bleeding, and improved compliance, which is beneficial as many patients will be on lifelong therapy.",
+    "indication": "Edoxaban is indicated for reducing the risk of stroke and systemic embolism (SE) in patients with nonvalvular atrial fibrillation (NVAF). However, it should not be used in patients with creatinine clearance (CrCL) > 95 mL/min because of increased risk of ischemic stroke compared to warfarin at the highest dose studied (60 mg). It is also indicated for the treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE) following 5-10 days of initial therapy with a parenteral anticoagulant.",
+    "pharmacodynamics": "Administration of edoxaban results in prolongation of clotting time tests such as aPTT (activated partial thromboplastin time), PT (prothrombin time), and INR (international normalized ratio).",
+    "mechanism-of-action": "Edoxaban is a selective inhibitor of factor Xa, a serine endopeptidase of the clotting cascade required for cleavage of prothrombin into thrombin.",
+    "absorption": "Following oral administration, peak plasma edoxaban concentrations are observed within 1-2 hours. Absolute bioavailability is 62%. ",
+    "metabolism": "Edoxaban is not extensively metabolized by CYP3A4 resulting in minimal drug-drug interactions. However, it does interact with drugs that inhibit p-gp (p-glycoprotein), which is used to transport edoxaban across the intestinal wall. Unchanged edoxaban is the predominant form in plasma. There is minimal metabolism via hydrolysis (mediated by carboxylesterase 1), conjugation, and oxidation by CYP3A4. The predominant metabolite M-4, formed by hydrolysis, is human-specific and active and reaches less than 10% of the exposure of the parent compound in healthy subjects. Exposure to the other metabolites is less than 5% of exposure to edoxaban.",
+    "toxicity": "Premature discontinuation of any oral anticoagulant, including edoxaban, in the absence of adequate alternative anticoagulation increases the risk of ischemic events. If edoxaban is discontinued for reasons other than pathological bleeding or completion of a course of therapy, consider the use of another anticoagulant. Edoxaban increases the risk of potentially fatal major bleeding such as intracranial hemorrhage and gastrointestinal bleeding. Patients should be educated on how to watch for signs of major and minor bleeding and when to seek medical help. Co-administration of other anti-coagulants, anti-platelets, or thrombolytics may increase the risk of bleeding and should therefore be avoided.",
+    "targets": [
+        [
+            "F10",
+            "Coagulation factor X",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

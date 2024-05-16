@@ -1,0 +1,167 @@
+{
+    "pharmgkb_id": "PA449782",
+    "drugbank_id": "DB01016",
+    "names": [
+        "Glyburide",
+        "Daonil",
+        "Delmide",
+        "Novo-Glyburide",
+        "Semi-Daonil"
+    ],
+    "description": "Glyburide is a second generation sulfonylurea used to treat patients with diabetes mellitus type II.[L8123] It is typically given to patients who cannot be managed with the standard first line therapy, [metformin].[L8123] Glyburide stimulates insulin secretion through the closure of ATP-sensitive potassium channels on beta cells, raising intracellular potassium and calcium ion concentrations.[A183617]\r\n\r\nGlyburide was granted FDA approval on 1 May 1984.[L8117] A formulation with metformin was granted FDA approval on on 31 July 2000.[L8120]",
+    "indication": "Glyburide is indicated alone or as part of combination product with metformin, as an adjunct to diet and exercise, to improve glycemic control in adults with type 2 diabetes mellitus.[L8120,L8123]",
+    "pharmacodynamics": "Glyburide is a second generation sulfonylurea[A183722] that stimulates insulin secretion through the closure of ATP-sensitive potassium channels on beta cells, raising intracellular potassium and calcium ion concentrations.[A183617] Glibenclamide has a long duration of action as it is given once daily, and a wide therapeutic index as patients are started at doses as low as 0.75mg but that can increase as high as 10mg or more.[A183725,L8123] Patients taking glyburide should be cautioned regarding an increased risk of cardiovascular mortality as seen with tolbutamide, another sulfonylurea.[L8123]",
+    "mechanism-of-action": "Glyburide belongs to a class of drugs known as sulfonylureas.[A183617]  These drugs act by closing ATP-sensitive potassium channels on pancreatic beta cells.[A183617] The ATP-sensitive potassium channels on beta cells are known as sulfonylurea receptor 1 (SUR1).[A183617]\r\n\r\nUnder low glucose concentrations, SUR1 remains open, allowing for potassium ion efflux to create a -70mV membrane potential.[A183617]\r\n\r\nNormally SUR1 closes in response to high glucose concentrations, the membrane potential of the cells becomes less negative, the cell depolarizes, voltage gated calcium channels open, calcium ions enter the cell, and the increased intracellular calcium concentration stimulates the release of insulin containing granules.[A183617]\r\n\r\nGlyburide bypasses this process by forcing SUR1 closed and stimulating increased insulin secretion.[A183617]",
+    "absorption": "Elderly patients taking glyburide reached a C<sub>max</sub> of 211-315ng/mL with a T<sub>max</sub> of 0.9-1.0h, while younger patients reached a C<sub>max</sub> of 144-302ng/mL with a T<sub>max</sub> of 1.3-3.0h.[A183554] Patients taking glyburide have and AUC of 348ng*h/mL.[A183593]",
+    "metabolism": "Glyburide is metabolized mainly by CYP3A4, followed by CYP2C9, CYP2C19, CYP3A7, and CYP3A5.[A183560,A183569] These enzymes metabolize glyburide to 4-trans-hydroxycyclohexyl glyburide (M1), 4-cis-hydroxycyclohexyl glyburide (M2a), 3-cis-hydroxycyclohexyl glyburide (M2b), 3-trans-hydroxycyclohexyl glyburide (M3), 2-trans-hydroxycyclohexyl glyburide (M4), and ethylhydroxycyclohexyl glyburide (M5).[A183569] The M1 and M2b metabolites are considered active, along with the parent molecule.[A183569]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is >3200mg/kg, in mice is >1500mg/kg, in rabbits is >10,000mg/kg, and in guinea pigs is >1500mg/kg.[L8135]\r\n\r\nPatients experiencing an overdose may present with hypoglycemia.[L8123] Mild hypoglycemia should be treated with oral glucose and adjustments to drug doses or meal schedules.[L8123] Severe hypoglycemia may present with coma, seizure, and neurological impairment.[L8123] This should be treated immediately in hospital with intravenous glucose and monitoring for 24-48 hours.[L8123]",
+    "targets": [
+        [
+            "ABCC8",
+            "Sulfonylurea receptor 1, Kir6.2",
+            "Humans"
+        ],
+        [
+            "KCNJ11",
+            "Sulfonylurea receptor 1, Kir6.2",
+            "Humans"
+        ],
+        [
+            "ABCC9",
+            "ATP-binding cassette sub-family C member 9",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCA1",
+            "ATP-binding cassette sub-family A member 1",
+            "Humans"
+        ],
+        [
+            "KCNJ11",
+            "Mitochondrial ATP-sensitive potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNJ8",
+            "Mitochondrial ATP-sensitive potassium channel",
+            "Humans"
+        ],
+        [
+            "CPT1A",
+            "Carnitine O-palmitoyltransferase 1, liver isoform",
+            "Humans"
+        ],
+        [
+            "CFTR",
+            "Cystic fibrosis transmembrane conductance regulator",
+            "Humans"
+        ],
+        [
+            "TRPM4",
+            "Transient receptor potential cation channel subfamily M member 4",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

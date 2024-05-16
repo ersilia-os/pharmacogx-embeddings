@@ -1,0 +1,195 @@
+{
+    "pharmgkb_id": "PA449273",
+    "drugbank_id": "DB00514",
+    "names": [
+        "Dextromethorphan",
+        "Benylin DM",
+        "Romilar",
+        "Triaminic",
+        "Vicks Formula 44"
+    ],
+    "description": "Dextromethorphan is a levorphanol derivative and codeine analog commonly used as a cough suppressant and also a drug of abuse.[A215412] Although similar in structure to other opioids, it has minimal interaction with opioid receptors.[A215412]\r\n\r\nDextromethorphan was granted FDA approval before 3 December 1957.[A215412,L14997]",
+    "indication": "Dextromethorphan is indicated in combination with [brompheniramine] and [pseudoephedrine] in the treatment of coughs and upper respiratory symptoms associated with allergies or the common cold.[L14366] Dextromethorphan is also used in combination with [guaifenesin] as an over-the-counter product to relieve a cough.[L14369] Dextromethorphan in combination with [quinidine] is indicated in the treatment of pseudobulbar affect.[L14363]",
+    "pharmacodynamics": "Dextromethorphan is an opioid-like molecule indicated in combination with other medication in the treatment of coughs and pseudobulbar affect.[L14366,L14369,L14363] It has a moderate therapeutic window, as intoxication can occur at higher doses.[A215402] Dextromethorphan has a moderate duration of action.[L14363] Patients should be counselled regarding the risk of intoxication.[A215402]",
+    "mechanism-of-action": "Dextromethorphan is an agonist of NMDA and sigma-1 receptors.[L14363] It is also an antagonist of \u03b13/\u03b24 nicotinic receptors.[A10589] However, the mechanism by which dextromethorphan's receptor agonism and antagonism translates to a clinical effect is not well understood.[A215397]",
+    "absorption": "A 30mg oral dose of dextromethorphan  reaches a C<sub>max</sub> of 2.9 ng/mL, with a T<sub>max</sub> of 2.86 h, and an AUC of 17.8 ng\\*h/mL.[A34933]",
+    "metabolism": "Dextromethorphan can be N-demethylated to 3-methoxymorphinan by CYP3A4, CYP2D6, and CYP2C9 or O-demethylated to dextrorphan by CYP2D6 and CYP2C9.[A415] Dextrorphan is N-demethylated by CYP3A4 and CYP2D6, while 3-methoxymorphinan is O-demethylated by CYP2D6.[A415] Both are metabolized to form 3-hydroxymorphinan.[A415] Dextrorphan and 3-hydroxymorphinan are both O-glucuronidated or O-sulfated.[A415]",
+    "toxicity": "A dextromethorphan overdose may present as nausea, vomiting, stupor, coma, respiratory depression, seizures, tachycardia, hyperexcitability, toxic psychosis, ataxia, nystagmus, dystonia, blurred vision, changes in muscle reflexes, and serotonin syndrome.[L14363] Overdose should be managed through symptomatic and supportive measures.[L14363]",
+    "targets": [
+        [
+            "SIGMAR1",
+            "Sigma non-opioid intracellular receptor 1",
+            "Humans"
+        ],
+        [
+            "GRIN3A",
+            "Glutamate receptor ionotropic, NMDA 3A",
+            "Humans"
+        ],
+        [
+            "CHRNA2",
+            "Neuronal acetylcholine receptor subunit alpha-2",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "PGRMC1",
+            "Membrane-associated progesterone receptor component 1",
+            "Humans"
+        ],
+        [
+            "CHRNA3",
+            "Neuronal acetylcholine receptor subunit alpha-3",
+            "Humans"
+        ],
+        [
+            "CHRNA4",
+            "Neuronal acetylcholine receptor subunit alpha-4",
+            "Humans"
+        ],
+        [
+            "CHRNB4",
+            "Neuronal acetylcholine receptor subunit beta-4",
+            "Humans"
+        ],
+        [
+            "CHRNB2",
+            "Neuronal acetylcholine receptor subunit beta-2",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ],
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "CYBB",
+            "NADPH oxidase",
+            "Humans"
+        ],
+        [
+            "CYBA",
+            "NADPH oxidase",
+            "Humans"
+        ],
+        [
+            "NCF1",
+            "NADPH oxidase",
+            "Humans"
+        ],
+        [
+            "NCF2",
+            "NADPH oxidase",
+            "Humans"
+        ],
+        [
+            "NCF4",
+            "NADPH oxidase",
+            "Humans"
+        ],
+        [
+            "RAC1",
+            "NADPH oxidase",
+            "Humans"
+        ],
+        [
+            "RAC2",
+            "NADPH oxidase",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferase 2B4",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ],
+        [
+            "UGT2B17",
+            "UDP-glucuronosyltransferase 2B17",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00514",
+            "Drug Name": "Dextromethorphan",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "Patients with this genotype have reduced metabolism of dextromethorphan."
+        },
+        {
+            "DrugBank ID": "DB00514",
+            "Drug Name": "Dextromethorphan",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "Patients with this genotype have reduced metabolism of dextromethorphan."
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA165958403",
+    "drugbank_id": "DB06777",
+    "names": [
+        "Chenodeoxycholic acid",
+        "Chenix"
+    ],
+    "description": "Chenodeoxycholic acid (or Chenodiol) is an epimer of ursodeoxycholic acid (DB01586). Chenodeoxycholic acid is a bile acid naturally found in the body. It works by dissolving the cholesterol that makes gallstones and inhibiting production of cholesterol in the liver and absorption in the intestines, which helps to decrease the formation of gallstones. It can also reduce the amount of other bile acids that can be harmful to liver cells when levels are elevated.",
+    "indication": "Chenodiol is indicated for patients with radiolucent stones in well-opacifying gallbladders, in whom selective surgery would be undertaken except for the presence of increased surgical risk due to systemic disease or age. Chenodiol will not dissolve calcified (radiopaque) or radiolucent bile pigment stones.",
+    "pharmacodynamics": "It acts by reducing levels of cholesterol in the bile, helping gallstones that are made predominantly of cholesterol to dissolve. Chenodeoxycholic acid is ineffective with stones of a high calcium or bile acid content.",
+    "mechanism-of-action": "Chenodiol suppresses hepatic synthesis of both cholesterol and cholic acid, gradually replacing the latter and its metabolite, deoxycholic acid in an expanded bile acid pool. These actions contribute to biliary cholesterol desaturation and gradual dissolution of radiolucent cholesterol gallstones in the presence of a gall-bladder visualized by oral cholecystography. Bile acids may also bind the the bile acid receptor (FXR) which regulates the synthesis and transport of bile acids. ",
+    "absorption": "Chenodiol is well absorbed from the small intestine.",
+    "metabolism": "Chenodiol is well absorbed from the small intestine and taken up by the liver where it is converted to its taurine and glycine conjugates and secreted in bile. At steady-state, an amount of chenodiol near the daily dose escapes to the colon and is converted by bacterial action to lithocholic acid. About 80% of the lithocholate is excreted in the feces; the remainder is absorbed and converted in the liver to its poorly absorbed sulfolithocholyl conjugates. During chenodiol therapy there is only a minor increase in biliary lithocholate, while fecal bile acids are increased three- to fourfold.",
+    "toxicity": "Hepatotoxic.",
+    "targets": [
+        [
+            "NR1H4",
+            "Bile acid receptor",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ],
+        [
+            "GPBAR1",
+            "G-protein coupled bile acid receptor 1",
+            "Humans"
+        ],
+        [
+            "AKR1C2",
+            "Aldo-keto reductase family 1 member C2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP27A1",
+            "Sterol 26-hydroxylase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

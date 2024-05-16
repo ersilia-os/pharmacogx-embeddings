@@ -1,0 +1,30 @@
+{
+    "pharmgkb_id": "PA166182723",
+    "drugbank_id": "DB08871",
+    "names": [
+        "Eribulin"
+    ],
+    "description": "Eribulin is a microtubule inhibitor indicated for the treatment of patients with metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic disease. Eribulin was isolated from the marine sponge Halichondria okadai. Eribulin is also being investigated for use in the treatment of advanced solid tumors [A7439].",
+    "indication": "For the treatment of patients with metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic cancer. ",
+    "pharmacodynamics": "Linear",
+    "mechanism-of-action": "Eribulin inhibits the growth phase of microtubules without affecting the shortening phase and sequesters tubulin into nonproductive aggregates. Eribulin exerts its effects via a tubulin-based antimitotic mechanism leading to G2/M cell-cycle block, disruption of mitotic spindles, and, ultimately, apoptotic cell death after prolonged mitotic blockage. [FDA]",
+    "absorption": null,
+    "metabolism": "There are no major human metabolites of eribulin, CYP3A4 negligibly metabolizes eribulin in vitro.",
+    "toxicity": "Peripheral neuropathy was the most common toxicity leading to discontinuation of eribulin (5 percent). [Richard Pazdur, M.D., director of the FDA's Division of Oncology Drug Products.]\r\nSingle doses of 0.75 mg/kg were lethal to rats and two doses of 0.075 mg/kg were lethal to dogs. The no-observed-adverse-effect level (NOAEL) in rats and dogs were 0.015 and 0.0045 mg/kg/day, respectively.",
+    "targets": [
+        [
+            "BCL2",
+            "Apoptosis regulator Bcl-2",
+            "Humans"
+        ],
+        [
+            "TUBB1",
+            "Tubulin beta-1 chain",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

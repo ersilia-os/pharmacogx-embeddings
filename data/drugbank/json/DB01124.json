@@ -1,0 +1,98 @@
+{
+    "pharmgkb_id": "PA451718",
+    "drugbank_id": "DB01124",
+    "names": [
+        "Tolbutamide",
+        "Artosin",
+        "Butamide",
+        "Diabetol",
+        "Dirastan",
+        "Glyconon",
+        "Orinase",
+        "Rastinon"
+    ],
+    "description": "Tolbutamide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It is structurally similar to acetohexamide, chlorpropamide and tolazamide and belongs to the sulfonylurea class of insulin secretagogues, which act by stimulating \u03b2 cells of the pancreas to release insulin. Sulfonylureas increase both basal insulin secretion and meal-stimulated insulin release. Medications in this class differ in their dose, rate of absorption, duration of action, route of elimination and binding site on their target pancreatic \u03b2 cell receptor. Sulfonylureas also increase peripheral glucose utilization, decrease hepatic gluconeogenesis and may increase the number and sensitivity of insulin receptors. Sulfonylureas are associated with weight gain, though less so than insulin. Due to their mechanism of action, sulfonylureas may cause hypoglycemia and require consistent food intake to decrease this risk. The risk of hypoglycemia is increased in elderly, debilitated and malnourished individuals. Tolbutamide appears to be metabolized in the liver. Tolbutamide and its metabolites are excreted in urine (75-85%) and feces.",
+    "indication": "For treatment of NIDDM (non-insulin-dependent diabetes mellitus) in conjunction with diet and exercise.",
+    "pharmacodynamics": "Tolbutamide, a first-generation sulfonylurea antidiabetic agent, is used with diet to lower blood glucose levels in patients with diabetes mellitus type II. Tolbutamide is twice as potent as the related second-generation agent glipizide. Tolbutamide lowers blood sugar by stimulating the pancreas to secrete insulin and helping the body use insulin efficiently. The pancreas must be able to produce insulin for this drug to work.",
+    "mechanism-of-action": "Sulfonylureas lower blood glucose in patients with NIDDM by directly stimulating the acute release of insulin from functioning beta cells of pancreatic islet tissue by an unknown process that involves a sulfonylurea receptor (receptor 1) on the beta cell. Sulfonylureas inhibit the ATP-potassium channels on the beta cell membrane and potassium efflux, which results in depolarization and calcium influx, calcium-calmodulin binding, kinase activation, and release of insulin-containing granules by exocytosis, an effect similar to that of glucose.",
+    "absorption": "Readily absorbed following oral administration. Tolbutamide is detectable in plasma 30-60 minutes following oral administration of a single dose with peak plasma concentrations occurring within 3-5 hours. \r\n\r\nAbsorption is unaltered if taken with food but is increased with high pH.",
+    "metabolism": "Metabolized in the liver principally via oxidation of the p-methyl group producing the carboxyl metabolite, 1-butyl-3-p-carboxyphenylsulfonylurea. May also be metabolized to hydroxytolbutamide. Tolbutamide does not undergo acetylation like antibacterial sulfonamides as it does not have a p-amino group. ",
+    "toxicity": "Oral, mouse: LD<sub>50</sub> = 2600 mg/kg",
+    "targets": [
+        [
+            "ABCC8",
+            "ATP-binding cassette sub-family C member 8",
+            "Humans"
+        ],
+        [
+            "KCNJ1",
+            "ATP-sensitive inward rectifier potassium channel 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01124",
+            "Drug Name": "Tolbutamide",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1057910",
+            "Effect Description": "Patients with this genotype have reduced metabolism of tolbutamide."
+        }
+    ]
+}

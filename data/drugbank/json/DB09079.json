@@ -1,0 +1,129 @@
+{
+    "pharmgkb_id": "PA166249521",
+    "drugbank_id": "DB09079",
+    "names": [
+        "Nintedanib",
+        "Vargatef"
+    ],
+    "description": "Nintedanib is a small molecule kinase inhibitor used in the treatment of pulmonary fibrosis, systemic sclerosis-associated interstitial lung disease, and non-small cell lung cancer (NSCLC).[L8453,L8459] It was first approved for use in the United States in 2014.[L8453] Within the spectrum of idiopathic pulmonary fibrosis treatment options, nintedanib is currently one of only two disease-modifying therapies available and indicated for the condition (the other being [Pirfenidone]) and as such is  used as a first-line treatment following diagnosis to slow down the progressive loss of lung function.[A185237] As a chemotherapeutic agent for NSCLC, nintedanib, in combination with [Docetaxel], is reserved for patients who have tried and failed first-line chemotherapeutic options.[L8459]",
+    "indication": "Nintedanib is indicated for the treatment of idiopathic pulmonary fibrosis (IPF)[L8453] and to slow declining pulmonary function in patients with systemic sclerosis-associated interstitial lung disease.[L8462] It is also indicated for the treatment of chronic fibrosing interstitial lung diseases with a progressive phenotype.[L8462] \r\n\r\nIn the EU, under the brand name Vargatef, nintedanib is indicated in combination with docetaxel for the treatment of adult patients with metastatic, locally advanced, or locally recurrent non-small cell lung cancer of adenocarcinoma histology who have already tried first-line therapy.[L8459]",
+    "pharmacodynamics": "Nintedanib is a small molecule kinase inhibitor that inhibits upstream kinase activity to ultimately inhibit lung fibroblast proliferation and migration, as well as signalling pathways that promote the proliferation and survival of endothelial and perivascular cells in tumour tissues.[L8453,L8459,A185123]\r\n\r\nNintedanib poses a risk of drug-induced liver injury, especially within the first three months of therapy.[L8453,L8459] Liver function tests should be conducted at baseline prior to beginning therapy, at regular intervals for the first three months of therapy, and as indicated thereafter in patients exhibiting symptoms of hepatic injury such as jaundice or right upper quadrant pain. It is not recommended to be used in patients with pre-existing moderate to severe hepatic impairment (Child Pugh class B or C).",
+    "mechanism-of-action": "Nintedanib is a small molecule, competitive, triple angiokinase inhibitor that targets multiple receptor tyrosine kinases (RTKs) and non-receptor tyrosine kinases (nRTKs). Many of these RTKs are implicated in lung fibrosis and tumour angiogenesis, so nintedanib is therefore used in the treatment of proliferative diseases such as idiopathic pulmonary fibrosis, non-small cell lung cancer, and systemic sclerosis-associated interstitial lung disease.[L8453,L8459] The specific RTKs that nintedanib inhibits are platelet-derived growth factor (PDGFR) \u03b1 and \u03b2, fibroblast growth factor receptor (FGFR) 1-3, vascular endothelial growth factor receptor (VEGFR) 1-3, and Fns-Like tyrosine kinase-3 (FLT3).[L8453,L8459,A185123] Nintedanib binds to the ATP-binding pocket of these receptors and inhibits their activity, thereby blocking signalling cascades that result in the proliferation and migration of lung fibroblasts. Nintedanib also inhibits kinase signalling pathways in various cells within tumour tissues, including endothelial cells, pericytes, smooth muscle cells, and cells contributing to angiogenesis, culminating in an inhibition of cell proliferation and apoptosis of affected tumour cells.[A185123]\r\n\r\nIn addition to RTK inhibition, nintedanib also prevents the actions of the nRTKs Lck, Lyn, and Src.[L8453,L8459,A185123] The contribution of the inhibition of Lck and Lyn towards the therapeutic efficacy of nintedanib is unclear, but inhibition of the Src pathway by nintedanib has been shown to reduce lung fibrosis.[A185123,A185249]",
+    "absorption": "The absolute bioavailability of nintedanib is low at approximately 4.7%, likely owing to substantial first-pass metabolism and the effects of p-glycoprotein (P-gp) transporters.[L8453,L8459,A185123] T<sub>max</sub> following oral administration is reached after approximately 2 hours in fasted patients and approximately 4 hours in fed patients, regardless of the food consumed.[L8453,L8459] Administration of nintedanib following a high-fat, high-calorie meal resulted in an increase in C<sub>max</sub> by approximately 15% and an increase in AUC by approximately 20%.[A185123] Age, body weight, and smoking status have been found to alter exposure to nintedanib, but these effects are not significant enough to warrant dose alterations.[L8453,A185123]",
+    "metabolism": "Nintedanib is predominantly metabolized via hydrolytic cleavage by esterases to its principle metabolite, BIBF 1202, which then undergoes glucuronidation via UGT enzymes in the intestines and liver (specifically UGT 1A1, UGT 1A7, UGT 1A8, and UGT 1A10) to form BIBF 1202 glucuronide.[L8453,L8459,A185123] The CYP450 enzyme system plays a minor role in nintedanib metabolism, with CYP3A4 believed to be the main contributor - the major CYP-dependent metabolite of nintedanib, a demethylated metabolite termed BIBF 1053, could not be detected in plasma during pharmacokinetic studies and was found only in small quantities in the feces (approximately 4% of total dose).[A185123] CYP-dependent metabolism of nintedanib accounts for roughly 5% of total drug metabolism, as opposed to 25% for esterase cleavage.[L8453,L8459] Other minor metabolites, M7 and M8, are found in very small quantities in the urine (0.03% and 0.01%, respectively), though their origin and relevance is currently unclear.[A185123]",
+    "toxicity": "Experience with nintedanib overdose is limited, but patients who inadvertently received higher-than-intended doses during initial trials experienced adverse effects consistent with the known safety profile of nintedanib, for example elevated liver enzymes and significant gastrointestinal effects.[L8453,L8459]\r\n\r\nThere are no specific guidelines for the treatment of nintedanib overdose - in this case, therapy should be interrupted and general supportive measures employed as indicated.[L8453,L8459]",
+    "targets": [
+        [
+            "FLT1",
+            "Vascular endothelial growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "KDR",
+            "Vascular endothelial growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FLT4",
+            "Vascular endothelial growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "PDGFRA",
+            "Platelet-derived growth factor receptor alpha",
+            "Humans"
+        ],
+        [
+            "PDGFRB",
+            "Platelet-derived growth factor receptor beta",
+            "Humans"
+        ],
+        [
+            "FGFR1",
+            "Fibroblast growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "FGFR2",
+            "Fibroblast growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FGFR3",
+            "Fibroblast growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "FLT3",
+            "Receptor-type tyrosine-protein kinase FLT3",
+            "Humans"
+        ],
+        [
+            "LCK",
+            "Tyrosine-protein kinase Lck",
+            "Humans"
+        ],
+        [
+            "LYN",
+            "Tyrosine-protein kinase Lyn",
+            "Humans"
+        ],
+        [
+            "SRC",
+            "Proto-oncogene tyrosine-protein kinase Src",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A7",
+            "UDP-glucuronosyltransferase 1-7",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferase 1-8",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferase 1-10",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,42 @@
+{
+    "pharmgkb_id": "PA450128",
+    "drugbank_id": "DB00982",
+    "names": [
+        "Isotretinoin"
+    ],
+    "description": "Isotretinoin is a retinoid derivative of vitamin A used in the treatment of severe recalcitrant acne.[Label] It was most widely marketed under the brand name Accutane, which has since been discontinued.[L6574] Isotretinoin is associated with major risks in pregnancy and is therefore only available under the iPLEDGE program in the United States.[L6579] The first isotretinoin-containing product was FDA approved on 7 May 1982.[L6574]",
+    "indication": "Isotretinoin is indicated to treat severe recalcitrant nodular acne and patients \u226512 years enrolled in the iPLEDGE program.[Label,L6579]",
+    "pharmacodynamics": "The pharmacodynamics of isotretinoin are poorly understood.[Label]",
+    "mechanism-of-action": "Isotretinoin produces its effects through altering progress through the cell cycle, cell differentiation, survival, and apoptosis.[A179091] These actions reduce sebum production, preventing the blockage of pores, and growth of acne causing bacteria.[A179091] Isotretinoin and 4-oxo-isotretinoin both significantly reduce the production of sebum.[A179091,Label] Isotretinoin has little to no affinity for retinol binding proteins (RBPs) and retinoic acid nuclear receptors (RARs).[A179091] Tretinoin and 4-oxo-tretinion bind to the RAR-\u03b3 receptor, which is suspected to be part of the action of acne treatment by isotretinoin.[A179091] Isotretinoin induces apoptosis in sebocytes, leading to a decrease in sebum production.[A179091] Isotretinoin also reduces the formation of comedones by reducing hyperkeratinization through an unknown mechanism.[A179091] Isotretinoin does not directly kill bacteria but it does reduce the size of sebum ducts and makes the microenvironment less hospitable to acne causing bacteria.[A179091] It may also increase immune mechanisms and alter chemotaxis of monocytes to reduce inflammation.[A179091]\r\n\r\nThere is preliminary evidence suggesting isotretinoin may interact with FoxO1, which may explain a substantial number of isotretinoin's unexplained actions.[A179122]",
+    "absorption": "Patients reach a maximum concentration of 74-511ng/mL after 1-4 hours following a 100mg oral dose.[A179089] Isotretinoin is better absorbed with a high fat meal and bioavailability may change from one brand to another.[Label]\r\n\r\nFollowing a 40mg oral dose, fasted subjects reached a maximum concentration of 314ng/mL in 2.9 hours with an area under the curve of 4055ng/mL\\*hr.[Label] Subjects given a high fat meal and a 40mg oral doses reached a maximum concentration of 395ng/mL in 6.4 hours with an area under the curve of 6095ng/mL\\*mL.[Label]",
+    "metabolism": "Isotretinoin, or 13-cis-retinoic acid can undergo reversible cis-trans isomerization to all-trans-retinoic acid.[A179116] Isotretinoin undergoes 4-hydroxylation to 4-hydroxy-13-cis-retinoic acid, which is oxidized to the main metabolite 4-oxo-13-cis-retinoic acid.[A179116,A179101]. All-trans-retinoic acid undergoes 4-hydroxylation to 4-hydroxy-all-trans-retinoic acid, which is oxidized to 4-oxo-all-trans-retinoic acid.[A179116] 4-oxo-13-cis-retinoic acid can undergo reversible cis-trans isomerization to 4-oxo-all-trans-retinoic acid.[A179116]",
+    "toxicity": "Patients experiencing an overdose may present with vomiting, facial flushing, cheilosis, abdominal pain, headache, dizziness, and ataxia.[Label] These symptoms may rapidly resolve.[Label] Generally no treatment is required for these overdoses.[A179113]\r\n\r\nThe oral lowest dose causing toxic effect (TDLO) for children is 30mg/kg/21W, oral TDLO for men is 24mg/kg/4W, oral TDLO for women is 56mg/kg/8W.[L6592] The intraperitoneal LD<sub>50</sub> for rats is 901mg/kg, oral LD<sub>50</sub> for mice is 3389mg/kg, oral LD<sub>50</sub> for rats is >4000mg/kg.[L6592]\r\n\r\nIsotretinoin is associated with major congenital malformations, spontaneous abortion, and premature birth.[Label] It is unknown if isotretinoin is expressed in breast milk but due to the associated hazards a decision should be made to either stop nursing or stop taking isotretinoin.[Label]\r\n\r\nIn animal studies, isotretinoin was associated with an increased risk of pheochromocytoma and adrenal medullary hyperplasia at doses above the recommended clinical dose.[Label] Isotretinoin was negative for the Ames test of mutagenicity once and weakly positive a second time.[Label] It has not been shown to be clastogenic.[Label] A study in dogs noted testicular atrophy after doses of 10-30 times the recommended clinical dose for 30 weeks.[Label] In trials with men there were no effects seen on sperm count, motility, morphology, ejaculate volume, and seminal plasma fructose.[Label]",
+    "targets": [
+        [
+            "RARG",
+            "Retinoic acid receptor gamma",
+            "Humans"
+        ],
+        [
+            "RARA",
+            "Retinoic acid receptor alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

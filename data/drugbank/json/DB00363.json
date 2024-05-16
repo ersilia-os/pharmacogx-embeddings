@@ -1,0 +1,305 @@
+{
+    "pharmgkb_id": "PA449061",
+    "drugbank_id": "DB00363",
+    "names": [
+        "Clozapine",
+        "Azaleptine",
+        "Cloment",
+        "Clonex",
+        "Clopin",
+        "Clopine",
+        "Clopsine",
+        "Clorazem",
+        "Lanolept",
+        "Lapenax",
+        "Leponex",
+        "Lodux",
+        "Lozapin",
+        "Luften",
+        "Mezapin",
+        "Refract",
+        "Refraxol",
+        "Sensipin",
+        "Sequax",
+        "Sizopin",
+        "Sizopril",
+        "Syclop",
+        "Syzopin",
+        "Tanyl",
+        "Uspen",
+        "Zapen",
+        "Zapenia",
+        "Zapine",
+        "Ziproc",
+        "Zopin"
+    ],
+    "description": "Clozapine is a tricyclic dibenzodiazepine, classified as an atypical antipsychotic agent.[A256708] Clozapine displays affinity to various neuroreceptors with a particularly low affinity to the dopamine receptors, thus breaking the mold of first-generation antipsychotics and deeming it \"atypical\".[A256723]. This low affinity to dopamine receptors results in fewer extrapyramidal side effects, especially tardive dyskinesia.[A185747] However, its promiscuity toward the muscarinic and adrenergic receptors can result in other side effects, notably gastrointestinal hypomotility and orthostatic hypotension. [L905,A215552]. Despite its effectiveness in treating both positive and negative symptoms of schizophrenia, clozapine was briefly removed from the market in various jurisdictions in 1970 due to severe agranulocytosis.[A256713,A256718] However, continued evidence of its effectiveness led to clozapine's eventual reintroduction, although with a reluctance to prescribe it.[A256718] \r\n\r\nClozapine was approved by the FDA in 1989 for treatment-resistant schizophrenia under the brand CLOZARIL.[L905] Due to its severe adverse effects profile, clozapine is only available through a restricted program under a Risk Evaluation Mitigation Strategy (REMS) called the Clozapine REMS Program.[L905]",
+    "indication": "Clozapine is indicated for the treatment of severely ill patients with schizophrenia who fail to respond adequately to standard antipsychotic treatment. Because of the risks of severe neutropenia and of seizure associated with its use, Clozapine should be used only in patients who have failed to respond adequately to standard antipsychotic treatment.[L905]\r\n\r\nClozapine is also indicated for reducing the risk of recurrent suicidal behavior in patients with schizophrenia or schizoaffective disorder who are judged to be at chronic risk for re-experiencing suicidal behavior, based on history and recent clinical state. Suicidal behavior refers to actions by a patient that put him/herself at risk for death.[L905]",
+    "pharmacodynamics": "Clozapine is a psychotropic agent belonging to the chemical class of benzisoxazole derivatives that is universally regarded as the treatment of choice for treatment-resistant schizophrenia.[A256568] Although it is thought to mediate its pharmacological effect through antagonism of the dopamine type 2 (D<sub>2</sub>) and the serotonin type 2A (5-HT<sub>2A</sub>) receptors, research have shown that clozapine can act on various types of receptors.[A185747]\r\n\r\nPatients should be counseled regarding the risk of hypersensitivity reactions such as agranulocytosis and myocarditis with clozapine use.[L905] Clozapine-induced agranulocytosis, which is a reduction in the absolute neutrophil count or white blood cell count, places the patient at an increased risk for infection.[A215552,L905] Agranulocytosis is most likely to occur in the first 3-6 months of therapy, but it can still occur after years of treatment. The mechanism is thought to be a dose-independent and immune-mediated reaction against neutrophils.[A215557]  Patients are strictly monitored by lab testing (complete blood count with differential) to ensure agranulocytosis is detected and treated if it occurs.[L905] Testing is initially completed at one-week intervals but is expanded to two-week intervals at six months, and then four-week intervals at twelve months if lab results have been within an appropriate range. Monitoring parameters may change if there is any break in therapy. In Canada, the patient's lab values are reported to the manufacturer for hematological monitoring, and in the USA, the patient's lab values are reported to the REMS (Risk Evaluation and Mitigation Strategy) program.[A215562] These programs function to notify the care provider of any significant drop in WBC/neutrophil count, or if there is a drop below a threshold level. Patients who enter the \"Red\" zone (WBC<2x109/L or ANC<1.5x109/L) should normally not be re-challenged.[L905]  \r\n\r\nClozapine-induced myocarditis is a hypersensitivity reaction that usually occurs in the third week of clozapine therapy and about 2% of clozapine patients.[A215547] Monitor the patient's troponin, CRP, and ECG at baseline, and 28 days into treatment. Follow guidelines for appropriate next steps according to the patient's lab results. If myocarditis occurs, the patient should not be re-challenged with clozapine.[L905] ",
+    "mechanism-of-action": "The mechanism of action of clozapine is unknown. However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D<sub>2</sub>) and the serotonin type 2A (5-HT<sub>2A</sub>) receptors. Clozapine also acts as an antagonist at adrenergic, cholinergic, histaminergic, and other dopaminergic and serotonergic receptors.[L905] \r\n\r\nClozapine demonstrated binding affinity to the following receptors: histamine H1 (Ki 1.1 nM), adrenergic \u03b11A (Ki 1.6 nM), serotonin 5-HT6 (Ki 4 nM), serotonin 5-HT2A (Ki 5.4 nM), muscarinic M1 (Ki 6.2 nM), serotonin 5-HT7 (Ki 6.3 nM), serotonin 5-HT2C (Ki 9.4 nM), dopamine D4 (Ki 24 nM), adrenergic \u03b12A (Ki 90 nM), serotonin 5-HT3 (Ki 95 nM), serotonin 5-HT1A (Ki 120 nM), dopamine D2 (Ki 160 nM), dopamine D1 (Ki 270 nM), dopamine D5 (Ki 454 nM), and dopamine D3 (Ki 555 nM).[L905] \r\n\r\nClozapine acts as an antagonist at other receptors, but with lower potency. Antagonism at receptors other than dopamine and 5HT<sub>2</sub> with similar receptor affinities may explain some of the other therapeutic and side effects of clozapine. Clozapine's antagonism of muscarinic M1-5 receptors may explain its anticholinergic effects.[A256553] Clozapine's antagonism of histamine H1 receptors may explain the somnolence observed with this drug.[A256558] Clozapine's antagonism of adrenergic \u03b11 receptors may explain the orthostatic hypotension observed with this drug.[A256563]",
+    "absorption": "In humans, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a CLOZARIL solution. Following oral administration of clozapine 100 mg twice daily, the average steady-state peak plasma concentration was 319 ng/mL (range: 102 to 771 ng/mL), occurring at the average of 2.5 hours (range: 1 to 6 hours) after dosing. The average minimum concentration at steady state was 122 ng/mL (range: 41 to 343 ng/mL), after 100 mg twice daily dosing.[L905]",
+    "metabolism": "Clozapine is almost completely metabolized prior to excretion, and only trace amounts of unchanged drug are detected in the urine and feces. Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2, CYP2D6, and CYP3A4.The unmethylated, hydroxylated, and N-oxide derivatives are components in both urine and feces. Pharmacological testing has shown the desmethyl metabolite (norclozapine) to have only limited activity, while the hydroxylated and N-oxide derivatives were inactive.[L905]",
+    "toxicity": "There are no adequate or well-controlled studies of clozapine in pregnant women. Reproduction studies have been performed in rats and rabbits at doses up to 0.4 and 0.9 times, respectively, the maximum recommended human dose (MRHD) of 900 mg/day on a mg/m2 body surface area basis. The studies revealed no evidence of impaired fertility or harm to the fetus due to clozapine. Because animal reproduction studies are not always predictive of human response, CLOZARIL should be used during pregnancy only if clearly needed.[L905]\r\n\r\nConsider the risk of exacerbation of psychosis when discontinuing or changing treatment with antipsychotic medications\r\nduring pregnancy and postpartum. Consider early screening for gestational diabetes for patients treated with antipsychotic\r\nmedications [see Warnings and Precautions (5.11)]. Neonates exposed to antipsychotic drugs during the third trimester of\r\npregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery. Monitor neonates for symptoms\r\nof agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding difficulties. The severity of\r\ncomplications can vary from self-limited symptoms to some neonates requiring intensive care unit support and prolonged\r\nhospitalization.[L905]\r\n\r\nThe most commonly reported signs and symptoms associated with clozapine overdose are: sedation, delirium, coma,\r\ntachycardia, hypotension, respiratory depression or failure; and hypersalivation. There are reports of aspiration\r\npneumonia, cardiac arrhythmias, and seizure. Fatal overdoses have been reported with clozapine, generally at doses above\r\n2500 mg. There have also been reports of patients recovering from overdoses well in excess of 4 g. There is no available specific antidote to an overdose of CLOZARIL. Establish and maintain an airway; ensure adequate oxygenation and ventilation. Monitor cardiac status and vital signs. Use general symptomatic and supportive measures. Consider the possibility of multiple-drug involvement.[L905]\r\n\r\nNo carcinogenic potential was demonstrated in long-term studies in mice and rats at doses up to 0.3 times and 0.4 times,\r\nrespectively, the maximum recommended human dose (MRHD) of 900 mg/day on an mg/m2 body surface area basis. Clozapine was not genotoxic when tested in the following gene mutation and chromosomal aberration tests: the bacterial Ames test, the in vitro mammalian V79 in Chinese hamster cells, the in vitro unscheduled DNA synthesis in rat hepatocytes or the in vivo micronucleus assay in mice. Clozapine had no effect on any parameters of fertility, pregnancy, fetal weight, or postnatal development when\r\nadministered orally to male rats 70 days before mating and to female rats for 14 days before mating at doses up to 0.4 times the MRHD of 900 mg/day on an mg/m2 body surface area basis.[L905] ",
+    "targets": [
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "DRD4",
+            "Dopamine D4 receptor",
+            "Humans"
+        ],
+        [
+            "DRD5",
+            "Dopamine D5 receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1B",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1D",
+            "Humans"
+        ],
+        [
+            "HTR1E",
+            "5-hydroxytryptamine receptor 1E",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "5-hydroxytryptamine receptor 6",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "HRH4",
+            "Histamine H4 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ],
+        [
+            "CALY",
+            "Neuron-specific vesicular protein calcyon",
+            "Humans"
+        ],
+        [
+            "GSTP1",
+            "Glutathione S-transferase P",
+            "Humans"
+        ],
+        [
+            "GABBR1",
+            "Gamma-aminobutyric acid type B receptor subunit 1",
+            "Humans"
+        ],
+        [
+            "GABBR2",
+            "Gamma-aminobutyric acid type B receptor subunit 2",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "Gamma-aminobutyric acid receptor subunit beta-1",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "Gamma-aminobutyric acid receptor subunit gamma-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "FMO3",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 3",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferase 1-4",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00363",
+            "Drug Name": "Clozapine",
+            "Gene Symbol": "GNB3",
+            "RS ID (Genotype)": "rs5443",
+            "Adverse Reaction Description": "Patients with this genotype have increased weight gain with clozapine."
+        }
+    ]
+}

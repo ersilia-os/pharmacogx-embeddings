@@ -1,0 +1,85 @@
+{
+    "pharmgkb_id": "PA165958345",
+    "drugbank_id": "DB04868",
+    "names": [
+        "Nilotinib"
+    ],
+    "description": "Nilotinib, also known as AMN107, is a tyrosine kinase inhibitor under investigation as a possible treatment for chronic myelogenous leukemia (CML). A Phase I clinical trial in 2006 showed that this drug was relatively safe and offered significant therapeutic benefits in cases of CML which were found to be resistant to treatment with imatinib (Gleevec), another tyrosine kinase inhibitor used as a first-line treatment for CML.",
+    "indication": "For the potential treatment of various leukemias, including chronic myeloid leukemia (CML).",
+    "pharmacodynamics": "Nilotinib is a transduction inhibitor that targets BCR-ABL, c-kit and PDGF, for the potential treatment of various leukemias, including chronic myeloid leukemia (CML).",
+    "mechanism-of-action": "Chronic myelogenous leukaemia (CML) is caused by the BCR-ABL oncogene. Nilotinib inhibits the tyrosine kinase activity of the BCR-ABL protein. Nilotinib fits into the ATP-binding site of the BCR-ABL protein with higher affinity than imatinib, over-riding resistance caused by mutations. The ability of AMN107 to inhibit TEL-platelet-derived growth factor receptor-beta (TEL-PDGFRbeta), which causes chronic myelomonocytic leukaemia, and FIP1-like-1-PDGFRalpha, which causes hypereosinophilic syndrome, suggests potential use of AMN107 for myeloproliferative diseases characterised by these kinase fusions (Stover et al, 2005; Weisberg et al, 2005). AMN107 also inhibits the c-Kit receptor kinase, including the D816V-mutated variant of KIT, at pharmacologically achievable concentrations, supporting potential utility in the treatment of mastocytosis, and gastrointestinal stromal tumours (Weisberg et al, 2005; von Bubnoff et al, 2005; Gleixner et al, 2006).",
+    "absorption": "Orally available",
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "ABL1",
+            "Tyrosine-protein kinase ABL1",
+            "Humans"
+        ],
+        [
+            "KIT",
+            "Mast/stem cell growth factor receptor Kit",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB04868",
+            "Drug Name": "Nilotinib",
+            "Gene Symbol": "UGT1A1",
+            "RS ID (Genotype)": "rs8175347",
+            "Adverse Reaction Description": "Patients who carry this polymorphism in UGT1A1 are at a higer risk of developing hyperbilirubinemia when treated with nilotinib."
+        }
+    ]
+}

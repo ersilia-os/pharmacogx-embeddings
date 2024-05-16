@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA166182707",
+    "drugbank_id": "DB14568",
+    "names": [
+        "Ivosidenib"
+    ],
+    "description": "Ivosidenib is a first-in-class isocitrate dehydrogenase-1 (IDH1) inhibitor. IDH1 is an enzyme that is often mutated and overexpressed in some cancers, leading to aberrant cell growth and proliferation.[A248750] Ivosidenib inhibits mutated IDH1, blocking the enzymatic activity and further differentiation of cancer cells.[A248745]\r\n\r\nIvosidenib was granted accelerated approval by the FDA in July 2018 for the treatment of relapsed of refractory acute myeloid leukemia in adults.[A248745] It is currently approved to also treat newly diagnosed acute myeloid leukemia in older adults in combination [azacitidine] or as monotherapy, as well as locally advanced or metastatic cholangiocarcinoma and relapsed or refractory myelodysplastic syndromes in adults. The drug is only effective in patients with a susceptible IDH1 mutation.[L48781]\r\n\r\nIn February 2023, the EMA's Committee for Medicinal Products for Human Use (CHMP) adopted a positive opinion of ivosidenib and recommended it be granted marketing authorization for the treatment of acute myeloid leukemia and cholangiocarcinoma.[L46287] It was fully approved by the EMA in May 2023.[L46596]",
+    "indication": "Ivosidenib is an isocitrate dehydrogenase-1 (IDH1) inhibitor approved for use in the US and Europe. It is indicated for the treatment of patients with a susceptible IDH1 mutation with:\r\n\r\n- **Newly Diagnosed Acute Myeloid Leukemia (AML)** in combination [azacitidine] or as monotherapy for the treatment of newly diagnosed AML in adults who have comorbidities that preclude the use of intensive induction chemotherapy.[L41870, L46591] this indication is reserved for adults 75 years or older in the US.[L41870]\r\n\r\n- **Relapsed or refractory AML** in adults in the US.[L41870]\r\n\r\n- **Locally Advanced or Metastatic Cholangiocarcinoma** in adults who have been previously treated.[L41870, L46591]\r\n\r\n- **Relapsed or Refractory Myelodysplastic Syndromes** in adults.[L48781]",
+    "pharmacodynamics": "Ivosidenib is an antineoplastic agent that is effective in cancers with a susceptible IDH1 mutation, which indicates increased levels of oncometabolite D-2-hydroxyglutarate (D-2HG) in cancer cells.[A248745] Ivosidenib decreases D-2HG levels in a dose-dependent manner by inhibiting the IDH1 enzyme. Ivosidenib inhibits both the mutant and wild-type IDH1 but does not inhibit IDH2.[A248755]",
+    "mechanism-of-action": "Isocitrate dehydrogenase 1 (IDH1) is a metabolic enzyme in the cytoplasm and peroxisomes that plays a role in many cellular processes, including mitochondrial oxidative phosphorylation, glutamine metabolism, lipogenesis, glucose sensing, and regulation of cellular redox status.[A35629] IDH1 converts isocitrate to \u03b1-ketoglutarate (\u03b1-KG), a normal metabolite in the carboxylic acid cycle.[A35629] Multiple cancers are associated with missense mutations in IDH1, leading to the substitution of the amino acid arginine 132 in the enzyme active site, acquired gain-of-function activity, and increased enzyme activity.[A248745,A248755] IDH1 mutation results in the accumulation of D-2-hydroxyglutarate (D-2HG), an oncometabolite that is structurally similar to \u03b1-KG.[A35629,A35634] D-2HG inhibits \u03b1-KG-dependent dioxygenases, including histone and DNA demethylases, which play a role in histone and DNA demethylation along with other cellular processes.[A35634] Inhibition of these enzymes leads to histone and DNA hypermethylation and a block in cell differentiation,[A35629] including hematopoietic differentiation.[A35632] With histone hypermethylation, methylation-sensitive insulators cannot regulate the activation of oncogenes.[A35630] Excess D-2HG ultimately interferes with cellular metabolism and alters epigenetic regulation towards oncogenesis.[A35629,A35634]\r\n\r\nIvosidenib inhibits the mutant IDH1 at much lower concentrations than the wild-type enzyme.[L41870] It targets gene mutations at position R132, with R132H and R132C being the most common mutations.[A248745] In mouse xenograft models of IDH1-mutated AML, ivosidenib caused a decrease in D-2HG levels in a dose-dependent manner and induced myeloid differentiation _in vitro_ and _in vivo_.[L41870] Ivosidenib works to inhibit histone demethylases and restore normal methylation conditions to promote cell differentiation and oncogene regulation.[A35634]",
+    "absorption": "Following oral administration, ivosidenib is rapidly absorbed.[A248755] The C<sub>max</sub> following a single oral dose is 4503 ng/mL in patients with relapsed or refractory AML, 4820 ng/mL in patients with newly diagnosed AML who were also treated with azacitidine, and 4060 ng/mL in patients with cholangiocarcinoma. The steady-state was reached within 14 days. The steady-state C<sub>max</sub> is 6551 ng/mL in patients with relapsed or refractory AML, 6145 ng/mL in patients with newly diagnosed AML who were also treated with azacitidine, and 4799 ng/mL in patients with cholangiocarcinoma. The T<sub>max</sub> ranges from two to three hours.[L41870]\r\n\r\nA high-fat meal increases ivosidenib exposure.[L41870]",
+    "metabolism": "Ivosidenib is predominantly metabolized by CYP3A4 via oxidation. The exact chemical structures of the metabolites formed from CYP3A4-mediated oxidation have not been fully characterized. Ivosidenib can also undergo N-dealkylation and hydrolysis as minor metabolic pathways.[A248755,A248760,L41870]",
+    "toxicity": "There is limited information regarding the LD<sub>50</sub> or overdose of ivosidenib. \r\n\r\nIvosidenib is associated with a risk of differentiation syndrome, Guillain-Barre syndrome, and embryo-fetal toxicity.[A248750,L41870]",
+    "targets": [
+        [
+            "IDH1",
+            "Isocitrate dehydrogenase [NADP] cytoplasmic",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

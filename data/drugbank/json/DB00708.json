@@ -1,0 +1,48 @@
+{
+    "pharmgkb_id": "PA451527",
+    "drugbank_id": "DB00708",
+    "names": [
+        "Sufentanil",
+        "Chronogesic",
+        "Disufen",
+        "Fastfen",
+        "Sufenta Forte",
+        "Sufenta mite",
+        "Sufentil",
+        "Zuftil"
+    ],
+    "description": "Sufentanil is an opioid analgesic that is used as an adjunct in anesthesia, in balanced anesthesia, and as a primary anesthetic agent.  It is administered by the intravenous, epidural and sublingual routes. \r\n\r\nAlso known as _Dsuvia_, the sublingual form is used for the management of acute pain in adults that is severe to warrant the use of an opioid analgesic in certified medically supervised healthcare settings, including hospitals, surgical centers, and emergency departments [L4717]. Consideration may be made in the future for the use of the sublingual form in the US military in cases where analgesia is required immediately [L4718].\r\n\r\nThe sublingual form, manufactured by AcelRx Pharmaceuticals, Inc. (AcelRx), was approved on November 2, 2018 [L4717].\r\nThis route of administration is intended to be a simple, effective, non-invasive analgesic option to enable healthcare professionals to rapidly manage acute pain without difficult intravenous or epidural administration [L4717], [A39633].",
+    "indication": "The indications for this drug are as follows:\r\n\r\n1. As an analgesic adjunct in the maintenance of balanced general anesthesia in patients who are intubated and ventilated.\r\n\r\n2. As a primary anesthetic agent for the induction and maintenance of anesthesia with 100% oxygen in patients undergoing major surgical procedures, in patients who are intubated and ventilated, such as cardiovascular surgery or neurosurgical procedures in the sitting position, to provide favorable myocardial and cerebral oxygen balance or when extended postoperative ventilation is anticipated.\r\n\r\n3. For epidural administration as an analgesic combined with low dose (usually 12.5 mg per administration) bupivacaine usually during labor and vaginal delivery \r\n\r\n4. The sublingual form is indicated for the management of acute pain in adults that is severe to warrant the use of an opioid analgesic in certified medically supervised healthcare settings, including hospitals, surgical centers, and emergency departments.\r\n\r\n[FDA label]",
+    "pharmacodynamics": "**Effect on the Central Nervous System (CNS)**\r\n\r\n In clinical settings, sufentanil exerts its principal pharmacologic effects on the central nervous system. Its primary therapeutic actions are analgesia and sedation. Sufentanil may increase pain tolerance and decrease the perception of pain. This drug depresses the respiratory centers, depresses the cough reflex, and constricts the pupils [F2009], [A39637]. When used in balanced general anesthesia, sufentanil has been reported to be as much as 10 times as potent as fentanyl. When administered intravenously as a primary anesthetic agent with 100% oxygen, sufentanil is approximately 5 to 7 times as potent as fentanyl [FDA label]. High doses of intravenous sufentanil have been shown to cause muscle rigidity, likely as a result of an effect on the substantia nigra and the striate nucleus in the brain. Sleep-inducing (hypnotic) activity can be demonstrated by EEG alterations [FDA label].\r\n\r\n**Effects on the Respiratory System**\r\n\r\nSufentanil may cause respiratory depression [FDA label].\r\n\r\n**Effects on the Cardiovascular System**\r\n\r\nSufentanil causes peripheral vasodilation which may result in orthostatic hypotension or syncope. Bradycardia may also occur [F2009]. Clinical signs or symptoms of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes and sweating and/or orthostatic hypotension [FDA label].\r\n\r\n**Effects on the Gastrointestinal Tract**\r\n\r\nSufentanil causes a reduction in motility associated with an increase in smooth muscle tone in both the antrum of the stomach and duodenum. Digestion of food in the small intestine may be delayed and propulsive contractions are decreased. Propulsive peristaltic waves in the colon are decreased, while tone may be increased and lead to spasm, resulting in constipation. Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of the sphincter of Oddi, as well as temporary elevations in serum amylase [FDA label].",
+    "mechanism-of-action": "Sufentanil is a synthetic, potent opioid with highly selective binding to \u03bc-opioid receptors [F2009]. These receptors are widely distributed in the human brain, spinal cord, and other tissues [A39636], [A39637].\r\n\r\nIn general, opioids decrease cAMP (affecting neural signaling pathways), decrease neurotransmitter release, and cause membrane hyperpolarization, all of which contribute to the relief of painful symptoms [A39637].\r\n\r\nOpiate receptors are coupled with G-protein receptors and function as both positive and negative regulators of synaptic neural transmission via G-proteins that activate effector proteins. Binding of the opiate receptor leads to the exchange of GTP for GDP on the G-protein complex. As the effector system is adenylate cyclase and cAMP, located at the inner surface of the plasma membrane, opioids decrease intracellular cAMP by inhibiting adenylate cyclase. The release of nociceptive neurotransmitters such as substance P, GABA, dopamine, acetylcholine, and noradrenaline is then inhibited [A39637]. \r\n\r\nOpioids close N-type voltage-operated calcium channels (OP2-receptor agonist), also preventing neurotransmitter release [A39637].\r\n\r\nSufentanil and other opioids open calcium-dependent inwardly rectifying potassium channels, resulting in hyperpolarization and reduced neuronal excitability [A39636], [A39637]. ",
+    "absorption": "Bioavailability of a single sublingual tablet was 52%, decreasing to 35% with repeat dosing [A39629].\r\n\r\nAfter epidural administration of incremental doses totaling 5 to 40 mcg sufentanil during labor and delivery, maternal and neonatal sufentanil plasma concentrations were at or near the 0.05 to 0.1 ng/mL limit of detection, and were slightly higher in mothers than in their infants [FDA label].\r\n",
+    "metabolism": "The liver and small intestine are the major sites of biotransformation [FDA label].\r\nSufentanil is rapidly metabolized to a number of inactive metabolites, with oxidative N- and O-dealkylation being the major routes of elimination [F2009].",
+    "toxicity": "**LD<sub>50</sub>:** 18.7 mg/kg (IV in mice) [MSDS]\r\n\r\n**A Note on Respiratory Depression**\r\n\r\nMajor, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even in cases where it is used as recommended. Respiratory depression may lead to respiratory arrest and death if not diagnosed and treated appropriately. This drug should be administered only by persons specifically trained in the use of anesthetic drugs and the management of the respiratory effects of potent opioids, including respiration and cardiac resuscitation of patients in the age group being treated. This training must include the establishment and maintenance of a patent airway and assisted ventilation [FDA label].\r\n\r\n**Carcinogenesis**\r\nLong-term studies in animals to evaluate the carcinogenic potential of sufentanil have not been conducted [FDA label].\r\n\r\n**Mutagenesis**\r\nSufentanil was not found to be genotoxic in the in vitro bacterial reverse mutation assay (Ames assay) or in the in vivo rat bone marrow micronucleous assay [FDA label].\r\n\r\n**Reproductive Toxicity**\r\n\r\nSufentanil caused embryolethality in rats and rabbits treated for 10-30 days during pregnancy with 2.5 times the maximum human dose by intravenous administration. The embryolethal effect was thought to be secondary to the toxicity for the mother animal model. No negative effects were noted in another study in rats that were treated with 20 times the maximum human dose in the period of organogenesis. The preclinical effects were only seen following administrations of levels significantly above the maximum human dose, which is therefore of minimal relevance for clinical use [F2009].\r\n\r\n**Pregnancy**\r\n\r\nMay cause fetal harm [FDA label]\r\n\r\n**The Use in Lactation**\r\n\r\nInfants exposed to this drug through breast milk should be monitored for excess sedation and respiratory depression [FDA label].",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

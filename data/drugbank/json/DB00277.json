@@ -1,0 +1,145 @@
+{
+    "pharmgkb_id": "PA451647",
+    "drugbank_id": "DB00277",
+    "names": [
+        "Theophylline",
+        "Respbid",
+        "Slo-Bid",
+        "Theo 24",
+        "Theo-Dur",
+        "Theodur G"
+    ],
+    "description": "A methylxanthine derivative from tea with diuretic, smooth muscle relaxant, bronchial dilation, cardiac and central nervous system stimulant activities. Mechanistically, theophylline acts as a phosphodiesterase inhibitor, adenosine receptor blocker, and histone deacetylase activator. Theophylline is marketed under several brand names such as Uniphyl and Theochron, and it is indicated mainly for asthma, bronchospasm, and COPD.",
+    "indication": "For the treatment of the symptoms and reversible airflow obstruction associated with chronic asthma and other chronic lung diseases, such as emphysema and chronic bronchitis.",
+    "pharmacodynamics": "Theophylline, an xanthine derivative chemically similar to caffeine and theobromine, is used to treat asthma and bronchospasm. Theophylline has two distinct actions in the airways of patients with reversible (asthmatic) obstruction; smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., non-bronchodilator prophylactic effects).",
+    "mechanism-of-action": "Theophylline relaxes the smooth muscle of the bronchial airways and pulmonary blood vessels and reduces airway responsiveness to histamine, methacholine, adenosine, and allergen. Theophylline competitively inhibits type III and type IV phosphodiesterase (PDE), the enzyme responsible for breaking down cyclic AMP in smooth muscle cells, possibly resulting in bronchodilation. Theophylline also binds to the adenosine A2B receptor and blocks adenosine mediated bronchoconstriction. In inflammatory states, theophylline activates histone deacetylase to prevent transcription of inflammatory genes that require the acetylation of histones for transcription to begin.",
+    "absorption": "Theophylline is rapidly and completely absorbed after oral administration in solution or immediate-release solid oral dosage form.",
+    "metabolism": "Hepatic. Biotransformation takes place through demethylation to 1-methylxanthine and 3-methylxanthine and hydroxylation to 1,3-dimethyluric acid. 1-methylxanthine is further hydroxylated, by xanthine oxidase, to 1-methyluric acid. About 6% of a theophylline dose is N-methylated to caffeine. Caffeine and 3-methylxanthine are the only theophylline metabolites with pharmacologic activity.",
+    "toxicity": "Symptoms of overdose include seizures, arrhythmias, and GI effects.",
+    "targets": [
+        [
+            "ADORA1",
+            "Adenosine receptor A1",
+            "Humans"
+        ],
+        [
+            "ADORA2A",
+            "Adenosine receptor A2a",
+            "Humans"
+        ],
+        [
+            "ADORA2B",
+            "Adenosine receptor A2b",
+            "Humans"
+        ],
+        [
+            "PDE4B",
+            "cAMP-specific 3',5'-cyclic phosphodiesterase 4B",
+            "Humans"
+        ],
+        [
+            "PDE5A",
+            "cGMP-specific 3',5'-cyclic phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "PDE4A",
+            "cAMP-specific 3',5'-cyclic phosphodiesterase 4A",
+            "Humans"
+        ],
+        [
+            "PDE3A",
+            "cGMP-inhibited 3',5'-cyclic phosphodiesterase A",
+            "Humans"
+        ],
+        [
+            "HDAC2",
+            "Histone deacetylase 2",
+            "Humans"
+        ],
+        [
+            "CPNE1",
+            "Copine-1",
+            "Humans"
+        ],
+        [
+            "HM13",
+            "Minor histocompatibility antigen H13",
+            "Humans"
+        ],
+        [
+            "NOMO1",
+            "Nodal modulator 1",
+            "Humans"
+        ],
+        [
+            "PARP1",
+            "Poly [ADP-ribose] polymerase 1",
+            "Humans"
+        ],
+        [
+            "RIC3",
+            "Protein RIC-3",
+            "Humans"
+        ],
+        [
+            "TTLL3",
+            "Tubulin monoglycylase TTLL3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "ADA",
+            "Adenosine deaminase",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00277",
+            "Drug Name": "Theophylline",
+            "Gene Symbol": "CYP1A2",
+            "RS ID (Genotype)": null,
+            "Effect Description": "Patients with this genotype have reduced metabolism of theophylline."
+        }
+    ]
+}

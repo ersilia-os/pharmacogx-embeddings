@@ -1,0 +1,92 @@
+{
+    "pharmgkb_id": "PA164743150",
+    "drugbank_id": "DB00598",
+    "names": [
+        "Labetalol",
+        "Albetol",
+        "Latol",
+        "Normadate",
+        "Normodyne"
+    ],
+    "description": "Labetalol is a racemic mixture of 2 diastereoisomers where dilevalol, the R,R' stereoisomer, makes up 25% of the mixture.[L7730] Labetalol is formulated as an injection or tablets to treat hypertension.[L7727,L7730]\r\n\r\nLabetalol was granted FDA approval on 1 August 1984.[L7724]",
+    "indication": "Labetalol injections are indicated to control blood pressure in severe hypertension.[L7727] Labetalol tablets are indicated alone or in combination with antihypertensives like thiazides and loop diuretics to manage hypertension.[L7730]",
+    "pharmacodynamics": "Labetalol antagonizes various adrenergic receptors to decrease blood pressure.[A181901,A181907,A181910,L7727] The duration of action is long as it is generally given twice daily, and the therapeutic window is wide as patients usually take 200-400mg twice daily.[L7730] Patients susceptible to bronchospasms should not use labetalol unless they are unresponsive to or intolerant of other antihypertensives.[L7730]",
+    "mechanism-of-action": "Labetalol non-selectively antagonizes beta-adrenergic receptors, and selectively antagonizes alpha-1-adrenergic receptors.[A181901] Following oral administration, labetalol has 3 times the beta-blocking ability than alpha-blocking ability.[A181901] This increases to 6.9 times following intravenous administration.[A181901] Antagonism of alpha-1-adrenergic receptors leads to vasodilation and decreased vascular resistance.[A181907] This leads to a decrease in blood pressure that is most pronounced while standing.[A181910] Antagonism of beta-1-adrenergic receptors leads to a slight decrease in heart rate.[L7727] Antagonism of beta-2-adrenergic receptors leads to some of the side effects of labetalol such as bronchospasms, however this may be slightly attenuated by alpha-1-adrenergic antagonism.[A181910] Labetalol leads to sustained vasodilation over the long term without a significant decrease in cardiac output or stroke volume, and a minimal decrease in heart rate.[A181907,A181910]",
+    "absorption": "100mg and 200mg oral doses of labetalol have a T<sub>max</sub> of 20 minutes to 2 hours.[A181853] Bioavailability may be as low as 11% or as high as 86% and may increase in older patients or when taken with food.[A181853]",
+    "metabolism": "The metabolism of labetalol has not been fully described in the literature but studies in sheep show an N-dealkylation to 3-amino-1-phenyl butane.[A181835] This metabolite may be further metabolized to benzylacetone and 3-amino-(4-hydroxyphenyl)butane.[A181835] Labetalol in humans is mainly metabolized to glucuronide metabolites such as the O-phenyl-glucuronide and the N-glucuronide.[A181853,L7727,L7730]",
+    "toxicity": "The oral LD<sub>50</sub> in mice is 600mg/kg and in rats is >2g/kg.[L7727,L7730] The intravenous LD<sub>50</sub> in mice and rats is 50-60mg/kg.[L7727,L7730]\r\n\r\nPatients experiencing an overdose may present with excessive hypotension and bradycardia.[L7727,L7730] Patients should be placed on their back with their legs raised to maintain perfusion of the brain.[L7727,L7730] Oral overdoses may be treated with gastric lavage or emesis, bradycardia may be treated with atropine or epinephrine, cardiac failure may be treated with digitalis and a diuretic, hypotension may be treated with vasopressors, bronchospasms may be treated with epinephrine or a beta<sub>2</sub> agonist, and seizures may be treated with diazepam.[L7727,L7730]",
+    "targets": [
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB5",
+            "ATP-binding cassette sub-family B member 5",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

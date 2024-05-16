@@ -1,0 +1,66 @@
+{
+    "pharmgkb_id": "PA451686",
+    "drugbank_id": "DB00208",
+    "names": [
+        "Ticlopidine"
+    ],
+    "description": "Ticlopidine is an effective inhibitor of platelet aggregation. It is a prodrug that is metabolised to an active form, which blocks the ADP receptor that is involved in GPIIb/IIIa receptor activation leading to platelet aggregation. Ticlopidine is marketed under the brand name Ticlid and is indicated for patients who cannot take aspirin or in whom aspirin has not worked to prevent a thrombotic stroke. The FDA label includes a black-box warning of neutropenia, aplastic anemia, thrombotic thrombocytopenia purpura, and agranulocytosis, so it is necessary to monitor patients' WBC and platelets when they are taking ticlopidine.",
+    "indication": "Used in patients, who have had a stroke or stroke precursors and who cannot take aspirin or aspirin has not worked, to try to prevent another thrombotic stroke.\r\n",
+    "pharmacodynamics": "Ticlopidine is a prodrug that is metabolised to an as yet undetermined metabolite that acts as a platelet aggregation inhibitor. Inhibition of platelet aggregation causes a prolongation of bleeding time. In its prodrug form, ticlopidine has no significant in vitro activity at the concentrations attained in vivo.",
+    "mechanism-of-action": "The active metabolite of ticlopidine prevents binding of adenosine diphosphate (ADP) to its platelet receptor, impairing the ADP-mediated activation of the glycoprotein GPIIb/IIIa complex. It is proposed that the inhibition involves a defect in the mobilization from the storage sites of the platelet granules to the outer membrane. No direct interference occurs with the GPIIb/IIIa receptor. As the glycoprotein GPIIb/IIIa complex is the major receptor for fibrinogen, its impaired activation prevents fibrinogen binding to platelets and inhibits platelet aggregation. By blocking the amplification of platelet activation by released ADP, platelet aggregation induced by agonists other than ADP is also inhibited by the active metabolite of ticlopidine.",
+    "absorption": "Absorption is greater than 80%. Food increases absorption by approximately 20%.",
+    "metabolism": "Ticlopidine is metabolized extensively by the liver with only trace amounts of intact drug detected. At least 20 metabolites have been identified. ",
+    "toxicity": "Single oral doses of ticlopidine at 1600 mg/kg and 500 mg/kg were lethal to rats and mice, respectively. Symptoms of acute toxicity were GI hemorrhage, convulsions, hypothermia, dyspnea, loss of equilibrium and abnormal gait. The FDA label includes a black-box warning of neutropenia, aplastic anemia, thrombotic thrombocytopenia purpura, and agranulocytosis, so it is necessary to monitor patients' WBC and platelets when they are taking ticlopidine.\r\n",
+    "targets": [
+        [
+            "P2RY12",
+            "P2Y purinoceptor 12",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "MPO",
+            "Myeloperoxidase",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

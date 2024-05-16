@@ -1,0 +1,96 @@
+{
+    "pharmgkb_id": "PA451837",
+    "drugbank_id": "DB01586",
+    "names": [
+        "Ursodeoxycholic acid",
+        "Cholit-ursan",
+        "Delursan",
+        "Destolit",
+        "Deursil",
+        "Litursol",
+        "Solutrat",
+        "Ursacol",
+        "Ursochol",
+        "Ursolvan"
+    ],
+    "description": "Ursodeoxycholic acid (UDCA), also known as ursodiol, is a naturally-occurring bile acid that constitutes a minor fraction of the human bile acid pool.[A256272,A256277] UDCA has been used to treat liver disease for decades: its first use in traditional medicine dates back more than a hundred years.[A256267,A256463] UDCA was first characterized in the bile of the Chinese black bear and is formed by 7b-epimerization of [chenodeoxycholic acid], which is a primary bile acid.[A256272] Due to its hydrophilicity, UDCA is less toxic than [cholic acid] or [chenodeoxycholic acid].[A256272] \r\n\r\nUDCA was first approved by the FDA in 1987 for dissolution of gallstones and for primary biliary cirrhosis in 1996.[A256272] UDCA works by replacing the hydrophobic or more toxic bile acids from the bile acid pool.[A256272]",
+    "indication": "Ursodeoxycholic acid is indicated for the treatment of patients with primary biliary cholangitis.[L44627] \r\n\r\nIt is used for the short-term treatment of radiolucent, noncalcified gallbladder stones in patients selected for elective cholecystectomy. It is also used to prevent gallstone formation in obese patients experiencing rapid weight loss.[L44793]",
+    "pharmacodynamics": "Ursodeoxycholic acid (UDCA) is a secondary bile acid with cytoprotectant, immunomodulating, and choleretic effects. It reduces the cholesterol fraction of biliary lipids.[A256267]\r\n\r\nUDCA inhibits the absorption of cholesterol in the intestine and the secretion of cholesterol into bile, decreasing biliary cholesterol saturation.[A256267] UDCA increases bile acid flow and promotes the secretion of bile acids.[A256267,A256277,A256463]",
+    "mechanism-of-action": "Endogenous hydrophobic bile acids such as deoxycholic acid and chenodeoxycholic acid can exert hepatotoxic effects. Ursodeoxycholic acid is a hydrophilic bile acid that mediates its biological effects via several mechanisms. Ursodeoxycholic acid (UDCA) protects hepatocytes and cholangiocytes from bile acid-induced damage, such as reactive oxygen species (ROS)-induced inflammation and mitochondrial dysfunction.[A256267] UDCA was shown to reserve hepatocyte cell structures and stimulate anti-apoptotic pathways.[A256267,A256272,A256458,A256463] It was also shown to prevent the production of ROS by Kupffer cells and resident macrophages in the liver, thus attenuating oxidative stress in the liver.[A256267] \r\n\r\nUDCA can also change the hydrophobicity index of the bile acid pool: following oral administration, UDCA forms a major fraction of the human bile acid pool and competitively displaces the hydrophobic or more toxic bile acids.[A256272,A256267] It increases the absorption of hydrophilic bile acids.[A256267] There are several proposed mechanisms of choleretic actions of UDCA: UDCA increases intracellular calcium levels, stimulating transport proteins and vesicular exocytosis in cholestatic hepatocytes.[A256267] UDCA may also upregulate the expression of membrane transport proteins like the chloride-bicarbonate anion exchanger (AE2),[A256267,A256458] which is involved in biliary secretion and is often observed to be defective in primary biliary cholangitis.[A256448] In rats, UDCA reduced hepatic expression of major histocompatibility complex (MHC) class I antigens, suggesting immunomodulating effects.[A256267] UDCA acts as a partial agonist at the bile acid receptor, also known as the farnesoid X receptor (FXR), and has negligible effects on cholesterol and lipid synthesis.[A256272]",
+    "absorption": "Normally, endogenous ursodeoxycholic acid constitutes a minor fraction (about 5%) of the total human bile acid pool. Following oral administration, the majority of ursodiol is absorbed by passive diffusion, and its absorption is incomplete. Once absorbed, ursodiol undergoes hepatic extraction to about 50% in the absence of liver disease. As the severity of liver disease increases, the extent of extraction decreases. During chronic administration of ursodiol, it becomes a major biliary and plasma bile acid. At a chronic dose of 13 to 15 mg/kg/day, ursodiol constitutes 30-50% of biliary and plasma bile acids.[L44627]",
+    "metabolism": "Upon administration, ursodeoxycholic acid (UDCA) enters the portal vein and into the liver, where it undergoes conjugation with glycine or taurine.[A256277] UDCA is also decreased into bile. Glycine or taurine conjugates are absorbed in the small intestine via passive and active mechanisms. The conjugates can also be deconjugated in the ileum by intestinal enzymes, leading to the formation of free UDCA that can be reabsorbed and re-conjugated in the liver.[L44627] \r\n\r\nNonabsorbed UDCA passes into the colon, where it undergoes 7-dehydroxylation by intestinal bacteria to lithocholic acid.[A256728] Some UDCA is epimerized to [chenodeoxycholic acid] via a 7-oxo intermediate. Chenodeoxycholic acid also undergoes 7-dehydroxylation to form lithocholic acid. These metabolites are poorly soluble and excreted in the feces. A small portion of lithocholic acid is reabsorbed, conjugated in the liver with glycine or taurine, and sulfated at the 3 position. The resulting sulfated lithocholic acid conjugates are excreted in bile and then lost in feces.[L44627]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is >4600-5000 mg/kg.[L44752,L44793] It is over 7500 mg/kg for mice.[L44793]\r\n\r\nUrsodeoxycholic acid (UDCA) is associated with rare hepatotoxicities, such as jaundice, worsening pre-existing liver diseases, and hepatitis.[A256272,A256277] There have been no reports of accidental or intentional overdosage with UDCA. A single oral dose of UDCA at 1.5 g/kg was lethal in hamsters. Single oral doses of UDCA at 10 g/kg in mice and dogs and 5 g/kg in rats were not lethal. Symptoms of acute toxicity were salivation and vomiting in dogs, while ataxia, dyspnea, ptosis, agonal convulsions and coma were observed in hamsters.[L44627]",
+    "targets": [
+        [
+            "AKR1C2",
+            "Aldo-keto reductase family 1 member C2",
+            "Humans"
+        ],
+        [
+            "NR1H4",
+            "Bile acid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "SLC10A2",
+            "Ileal sodium/bile acid cotransporter",
+            "Humans"
+        ],
+        [
+            "SLC10A1",
+            "Sodium/bile acid cotransporter",
+            "Humans"
+        ],
+        [
+            "SLC26A3",
+            "Chloride anion exchanger",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

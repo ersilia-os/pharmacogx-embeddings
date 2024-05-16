@@ -1,0 +1,69 @@
+{
+    "pharmgkb_id": "PA449177",
+    "drugbank_id": "DB00987",
+    "names": [
+        "Cytarabine",
+        "Ara-C",
+        "Cytosar-U"
+    ],
+    "description": "A pyrimidine nucleoside analog that is used mainly in the treatment of leukemia, especially acute non-lymphoblastic leukemia. Cytarabine is an antimetabolite antineoplastic agent that inhibits the synthesis of DNA. Its actions are specific for the S phase of the cell cycle. It also has antiviral and immunosuppressant properties. (From Martindale, The Extra Pharmacopoeia, 30th ed, p472)",
+    "indication": "For the treatment of acute non-lymphocytic leukemia, acute lymphocytic leukemia and blast phase of chronic myelocytic leukemia.\r\n\r\nCytarabine is indicated in combination with [daunorubicin] for the treatment of newly-diagnosed therapy-related acute myeloid leukemia (t-AML) or AML with myelodysplasia-related changes (AML-MRC) in adults and pediatric patients 1 year and older.[L32843]",
+    "pharmacodynamics": "Cytarabine is an antineoplastic anti-metabolite used in the treatment of several forms of leukemia including acute myelogenous leukemia and meningeal leukemia. Anti-metabolites masquerade as purine or pyrimidine - which become the building blocks of DNA. They prevent these substances becoming incorporated in to DNA during the \"S\" phase (of the cell cycle), stopping normal development and division. Cytarabine is metabolized intracellularly into its active triphosphate form (cytosine arabinoside triphosphate). This metabolite then damages DNA by multiple mechanisms, including the inhibition of alpha-DNA polymerase, inhibition of DNA repair through an effect on beta-DNA polymerase, and incorporation into DNA. The latter mechanism is probably the most important. Cytotoxicity is highly specific for the S phase of the cell cycle.",
+    "mechanism-of-action": "Cytarabine acts through direct DNA damage and incorporation into DNA. Cytarabine is cytotoxic to a wide variety of proliferating mammalian cells in culture. It exhibits cell phase specificity, primarily killing cells undergoing DNA synthesis (S-phase) and under certain conditions blocking the progression of cells from the G1 phase to the S-phase. Although the mechanism of action is not completely understood, it appears that cytarabine acts through the inhibition of DNA polymerase. A limited, but significant, incorporation of cytarabine into both DNA and RNA has also been reported.",
+    "absorption": "Less than 20% of the orally administered dose is absorbed from the gastrointestinal tract.",
+    "metabolism": "Hepatic.",
+    "toxicity": "Cytarabine syndrome may develop - it is characterized by fever, myalgia, bone pain, occasionally chest pain, maculopapular rash, conjunctivitis, and malaise.",
+    "targets": [
+        [
+            "POLB",
+            "DNA polymerase beta",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "DCK",
+            "Deoxycytidine kinase",
+            "Humans"
+        ],
+        [
+            "NT5E",
+            "5'-nucleotidase",
+            "Humans"
+        ],
+        [
+            "DCTD",
+            "Deoxycytidylate deaminase",
+            "Humans"
+        ],
+        [
+            "CDA",
+            "Cytidine deaminase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ],
+        [
+            "ABCC10",
+            "Multidrug resistance-associated protein 7",
+            "Humans"
+        ],
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

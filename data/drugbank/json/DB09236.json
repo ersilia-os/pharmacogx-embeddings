@@ -1,0 +1,86 @@
+{
+    "pharmgkb_id": "PA166187141",
+    "drugbank_id": "DB09236",
+    "names": [
+        "Lacidipine",
+        "Caldine",
+        "Lacimen",
+        "Lacipil",
+        "Motens"
+    ],
+    "description": "Lacidipine is a lipophilic dihydropyridine calcium antagonist with an intrinsically slow onset of activity. Due to its long duration of action, lacidipine does not lead to reflex tachycardia [A31536]. It displays specificity in the vascular smooth muscle, where it acts as an antihypertensive agent to dilate peripheral arterioles and reduce blood pressure. Compared to other dihydropyridine calcium antagonists, lacidipine exhibits a greater antioxidant activity which may confer potentially beneficial antiatherosclerotic effects [A31540]. Lacidipine is a highly lipophilic molecule that interacts with the biological membranes. Through radiotracer analysis, it was determined that lacidipine displays a high membrane partition coefficient leading to accumulation of the drug in the membrane and slow rate of membrane washout [A31539]. When visualized by small-angle X-ray diffraction with angstrom resolution to examine its location within the membranes, lacidipine was found deep within the membrane's hydrocarbon core [A31539]. These results may explain the long clinical half-life of lacidipine [A31539]. \r\n\r\nIn randomised, well-controlled trials, administration of daily single-dose lacidipine ranging from 2-6 mg demonstrated comparable antihypertensive efficacy similar to that of other long-acting dihydropyridine calcium antagonists, thiazide diuretics, atenolol (a beta-blocker) and enalapril (an ACE inhibitor) [A31536]. It is available as once-daily oral tablets containing 2 or 4 mg of the active compound commonly marketed as Lacipil or Motens. It is not currently FDA-approved.",
+    "indication": "Indicated for the treatment of hypertension either alone or in combination with other antihypertensive agents, including \u03b2-adrenoceptor antagonists, diuretics, and ACE-inhibitors [L1126].",
+    "pharmacodynamics": "acidipine is a specific and potent calcium antagonist with a predominant selectivity for calcium channels in the vascular smooth muscle. Its main action is to dilate predominantly peripheral and coronary arteries, reducing peripheral vascular resistance and lowering blood pressure [L1126]. \r\n\r\nFollowing the oral administration of 4 mg lacidipine to volunteer subjects, a minimal prolongation of QTc interval has been observed (mean QTcF increase between 3.44 and 9.60 ms in young and elderly volunteers) [L1126].",
+    "mechanism-of-action": "By blocking the voltage-dependent L-type calcium channels, it prevents the transmembrane calcium influx [A31537]. Normally, calcium ions serve as intracellular messengers or activators in exictable cells including vascular smooth muscles. The influx of calcium ultimately causes the excitation and depolarization of the tissues. Lacidipine inhibits the contractile function in the vascular smooth muscle and reduce blood pressure. Due to its high membrane partition coefficient, some studies suggest that lacidipine may reach the receptor via a two-step process; it first binds and accumulates in the membrane lipid bilayer and then diffuses within the membrane to the calcium channel receptor [A31543]. It is proposed that lacidipine preferentially blocks the inactivated state of the calcium channel [A31543].\r\n\r\nThrough its antioxidant properties shared amongst other dihydropyridine calcium channel blockers, lacidipine demonstrates an additional clinical benefit. Its antiatherosclerotic effects are mediated by suppressing the formation of reactive oxygen species (ROS) and subsequent inflammatory actions by chemokines, cytokines and adhesion molecules, thus reducing atherosclerotic lesion formation [A31540]. Lacidipine may also suppress cell proliferation and migration in smooth muscle cells and suppress the expression of matrix metalloproteinases, which affects the stability of atheromatous plaques [A31540]. ",
+    "absorption": "Since it is a highly lipophilic compound, lacidpine is rapidly absorbed from the gastrointestinal tract following oral administration with the peak plasma concentrations reached between 30 and 150 minutes of dosing [L1126]. The peak plasma concentrations display large interindividual variability, with the values ranging from 1.6 to 5.7 \u03bcg/L following single-dose oral administration of lacidipine 4mg in healthy young volunteers [A31537].\r\n\r\nAbsolute bioavailability is less than 10% due to extensive first-pass metabolism in the liver [L1126].",
+    "metabolism": "Lacidipine undergoes complete CYP3A4-mediated hepatic metabolism, with no parent drug detected in the urine or faeces. The 2 main metabolites have no pharmacological activity [A31537].",
+    "toxicity": "There have been no recorded cases of lacidipine tablets overdosage. Some of the symptoms of overdose include prolonged peripheral vasodilation associated with hypotension and\r\ntachycardia. Bradycardia or prolonged AV conduction could theoretically occur. As there is no known antidote for lacidipine, the use of standard general measures for monitoring cardiac function and appropriate supportive and therapeutic measures is recommended [L1126].\r\n\r\nOral LD50 in mouse, rabbit and rat are 300mg/kg, 3200mg/kg and 980mg/kg, respectively [MSDS].",
+    "targets": [
+        [
+            "CACNA1C",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1F",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB1",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB3",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB4",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1A",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,190 @@
+{
+    "pharmgkb_id": "PA10804",
+    "drugbank_id": "DB00619",
+    "names": [
+        "Imatinib",
+        "Celonib",
+        "Enliven",
+        "Imatib",
+        "Mesylonib",
+        "Mitinab",
+        "Plivatinib",
+        "Shantinib"
+    ],
+    "description": "Imatinib is a small molecule kinase inhibitor that revolutionized the treatment of cancer, particularly chronic myeloid leukemia, in 2001.[A249305] It was deemed a \"miracle drug\" due to its clinical success, as oncologist Dr. Brian noted that \"complete hematologic responses were observed in 53 of 54 patients with CML treated with a daily dosage of 300 mg or more and typically occurred in the first four weeks of therapy\".[A249315]. The discovery of imatinib also established a new group of therapy called \"targeted therapy\", since treatment can be tailored specifically to the unique cancer genetics of each patient.[L42220] \r\n\r\nImatinib was approved on February 1st ,2001 by the FDA and November 7th, 2001 by the EMA; however, its European approval has been withdrawn in October 2023.[A263036,L49746,L49751]",
+    "indication": "Imatinib is indicated for the treatment of adult and pediatric chronic myeloid leukemia with Philadelphia chromosome mutation (Ph+) in blast crisis, accelerated phase, or chronic phase after IFN-alpha therapy failure.[L42080] Additionally, imatinib is also indicated to treat adult and pediatric Ph+ acute lymphoblastic leukemia, adult myelodysplastic/myeloproliferative diseases, adult aggressive systemic mastocytosis, adult hypereosinophilic syndrome and/or chronic eosinophilic leukemia (CEL), adult dermatofibrosarcoma protuberans, and malignant gastrointestinal stromal tumors (GIST).[L42080]\r\n",
+    "pharmacodynamics": "Imatinib is a 2-phenylaminopyrimidine derivative neoplastic agent that belongs to the class of tyrosine kinase inhibitors.[L42080] Although imatinib inhibits a number of tyrosine kinases, it is quite selective toward the BCR-ABL fusion protein that is present in various cancers.[A249305] BCR-ABL pathway controls many downstream pathways that are heavily implicated in neoplastic growth such as the Ras/MapK pathway (cellular proliferation), Src/Pax/Fak/Rac pathway (cellular motility), and PI/PI3K/AKT/BCL-2 pathway (apoptosis pathway).[A249290, A249295, A249300] Therefore, the BCR-ABL pathway is an attractive target for cancer treatment. Although normal cells also depend on these pathways for growth, these cells tend to have redundant tyrosine kinases to continually function in spite of ABL inhibition from imatinib.[A943] Cancer cells, on the other hand, can have a dependence on BCR-ABL, thus more heavily impacted by imatinib.[A943]\r\n ",
+    "mechanism-of-action": "Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the BCR-ABL tyrosine kinase, the constitutively active tyrosine kinase created by the Philadelphia chromosome abnormality in CML.[L42080]Although the function of normal BCR is still unclear, ABL activation is overexpressed in various tumors and is heavily implicated in cancer cells growth and survival.[A249305,A249310] Imatinib inhibits the BCR-ABL protein by binding to the ATP pocket in the active site, thus preventing downstream phosphorylation of target protein.[A249305]\r\n\r\nImatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF) and stem cell factor\r\n(SCF), c-Kit, and inhibits PDGF- and SCF-mediated cellular events. In vitro, imatinib inhibits proliferation and induces\r\napoptosis in GIST cells, which express an activating c-Kit mutation.[L42080]",
+    "absorption": "Imatinib is well absorbed after oral administration with Cmax achieved within 2-4 hours post-dose. Mean absolute bioavailability is 98%.[L42080] Mean imatinib AUC increases proportionally with increasing doses ranging from 25 mg to 1,000 mg.[L42080] There is no significant change in the pharmacokinetics of imatinib on repeated dosing, and accumulation is 1.5- to 2.5-fold at a steady state when Gleevec is dosed once daily.[L42080]",
+    "metabolism": "CYP3A4 is the major enzyme responsible for the metabolism of imatinib. Other cytochrome P450 enzymes, such as CYP1A2, CYP2D6, CYP2C9, and CYP2C19, play a minor role in its metabolism. The main circulating active metabolite in humans is the N-demethylated piperazine derivative, formed predominantly by CYP3A4. It shows in vitro potency similar to the parent imatinib.[L42080]",
+    "toxicity": "The most frequently reported adverse reactions (>30%) were edema, nausea, vomiting, muscle cramps, musculoskeletal pain, diarrhea, rash, fatigue and abdominal pain.[L42080]\r\n\r\nIn the 2-year rat carcinogenicity study administration of imatinib at 15, 30, and 60 mg/kg/day resulted in a statistically significant reduction in the longevity of males at 60 mg/kg/day and females at greater than or equal to 30 mg/kg/day. Target organs for neoplastic changes were the kidneys (renal tubule and renal pelvis), urinary bladder, urethra, preputial and clitoral gland, small intestine, parathyroid glands, adrenal glands, and non-glandular stomach. Neoplastic lesions were not seen at 30 mg/kg/day for the kidneys, urinary bladder, urethra, small intestine, parathyroid glands, adrenal glands, and non-glandular stomach, and 15 mg/kg/day for the preputial and clitoral gland. The papilloma/carcinoma of the preputial/clitoral gland was noted at 30 and 60 mg/kg/day, representing approximately 0.5 to 4 or 0.3 to 2.4 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 0.4 to 3.0 times the daily exposure in children (based on AUC) at 340 mg/m2. The renal tubule adenoma/carcinoma, renal pelvis transitional cell neoplasms, the urinary bladder and urethra transitional cell papillomas, the small intestine adenocarcinomas, the parathyroid glands adenomas, the benign and malignant medullary tumors of the adrenal glands and the non-glandular stomach papillomas/carcinomas were noted at 60 mg/kg/day. The relevance of these findings in the rat carcinogenicity study for humans is not known. Positive genotoxic effects were obtained for imatinib in an in vitro mammalian cell assay (Chinese hamster ovary) for clastogenicity (chromosome aberrations) in the presence of metabolic activation. Two intermediates of the manufacturing process, which are also present in the final product, are positive for mutagenesis in the Ames assay. One of these intermediates was also positive in the mouse lymphoma assay. Imatinib was not genotoxic when tested in an in vitro bacterial cell assay (Ames test), an in vitro mammalian cell assay (mouse lymphoma) and an in vivo rat micronucleus assay.[L42080]\r\n\r\nIn a study of fertility, male rats were dosed for 70 days prior to mating and female rats were dosed 14 days prior to mating and through to gestational Day 6. Testicular and epididymal weights and percent motile sperm were decreased at 60 mg/kg, approximately three-fourths the maximum clinical dose of 800 mg/day based on BSA. This was not seen at doses less than or equal to 20 mg/kg (one-fourth of the maximum human dose of 800 mg). The fertility of male and female rats was not affected.[L42080] \r\n\r\nFertility was not affected in the preclinical fertility and early embryonic development study although lower testes and epididymal weights, as well as a reduced number of motile sperm, were observed in the high-dose male rats. In the preclinical pre-and postnatal study in rats, fertility in the first generation offspring was also not affected by imatinib\r\nmesylate.[L42080]\r\n\r\nIt is important to consider potential toxicities suggested by animal studies, specifically, liver, kidney, and cardiac toxicity and immunosuppression. Severe liver toxicity was observed in dogs treated for 2 weeks, with elevated liver enzymes, hepatocellular necrosis, bile duct necrosis, and bile duct hyperplasia. Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralization and dilation of the renal tubules and tubular nephrosis. Increased blood urea nitrogen (BUN) and creatinine were observed in several of these animals. An increased rate of opportunistic infections was observed with chronic imatinib treatment in laboratory animal studies. In a 39-week monkey study, treatment with imatinib resulted in the worsening of normally suppressed malarial infections in these animals. Lymphopenia was observed in animals (as in humans). Additional long-term toxicities were identified in a 2-year rat study. Histopathological examination of the treated rats that died in the study revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females), and preputial gland papilloma as principal causes of death or reasons for sacrifice. Non-neoplastic lesions seen in this 2-year study that were not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs, and teeth. The most important changes included cardiac hypertrophy and dilatation, leading to signs of cardiac insufficiency in some animals.[L42080]",
+    "targets": [
+        [
+            "BCR",
+            "Breakpoint cluster region protein",
+            "Humans"
+        ],
+        [
+            "KIT",
+            "Mast/stem cell growth factor receptor Kit",
+            "Humans"
+        ],
+        [
+            "RET",
+            "Proto-oncogene tyrosine-protein kinase receptor Ret",
+            "Humans"
+        ],
+        [
+            "NTRK1",
+            "High affinity nerve growth factor receptor",
+            "Humans"
+        ],
+        [
+            "CSF1R",
+            "Macrophage colony-stimulating factor 1 receptor",
+            "Humans"
+        ],
+        [
+            "PDGFRA",
+            "Platelet-derived growth factor receptor alpha",
+            "Humans"
+        ],
+        [
+            "DDR1",
+            "Epithelial discoidin domain-containing receptor 1",
+            "Humans"
+        ],
+        [
+            "ABL1",
+            "Tyrosine-protein kinase ABL1",
+            "Humans"
+        ],
+        [
+            "PDGFRB",
+            "Platelet-derived growth factor receptor beta",
+            "Humans"
+        ],
+        [
+            "DDR2",
+            "Discoidin domain-containing receptor 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCA3",
+            "ATP-binding cassette sub-family A member 3",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

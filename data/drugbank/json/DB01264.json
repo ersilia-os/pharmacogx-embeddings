@@ -1,0 +1,58 @@
+{
+    "pharmgkb_id": "PA163522472",
+    "drugbank_id": "DB01264",
+    "names": [
+        "Darunavir"
+    ],
+    "description": "Darunavir is a protease inhibitor used with other HIV protease inhibitor drugs as well as [ritonavir] for the effective management of HIV-1 infection.[L9227] As a second-generation protease inhibitor, darunavir is designed to combat resistance to standard HIV therapy.[A2278,A2281] It was initially approved by the FDA in 2006.[L9227]\r\n\r\nDarunavir is being studied as a possible treatment for SARS-CoV-2, the coronavirus responsible for COVID-19, due to in vitro evidence supporting its ability to combat this infection.[A191682] Clinical trials are underway and are expected to conclude in August 2020.[L12066]",
+    "indication": "Darunavir, co-administered with ritonavir, and with other antiretroviral agents, is indicated for the treatment of human immunodeficiency virus (HIV) in children age 3 or above and adults with HIV-1 infection.[L9227] ",
+    "pharmacodynamics": "Darunavir is an inhibitor of the human immunodeficiency virus (HIV) protease, which prevents HIV viral replication.[L9227] When administered with ritonavir in combination antiretroviral therapy, darunavir significantly decreases viral load and increases CD4 cell counts, decreasing the morbidity and mortality of HIV infection.[A2278,A2281,A191520]",
+    "mechanism-of-action": "The HIV-1 protease enzyme is necessary for viral precursor protein processing and viral maturation in preparation for infection, and is therefore a target for antiretroviral therapy for HIV.  Protease inhibitors are used as a part of highly active antiretroviral therapy (HAART) in patients diagnosed with HIV infection. It has been shown to effectively suppress the virus, leading to significantly decreased morbidity and mortality rates.[A2281]\r\n\r\nDarunavir, a HIV protease inhibitor, prevents HIV replication through binding to the enzyme, stopping the dimerization and the catalytic activity of HIV-1 protease. In particular, it inhibits the cleavage of HIV encoded Gag-Pol proteins[A191556] in cells that have been infected with the virus, halting the formation of mature virus particles, which spread the infection. The close contact that darunavir makes with the primary chains of the active site amino acids (Asp-29 and Asp-30) on the protease likely contributes to its potency and efficacy against resistant variants of HIV-1.[A2281] \r\n\r\nDarunavir is known to bind to different sites on the enzyme: the active site cavity and the surface of one of the flexible flaps in the protease dimer. Darunavir can adapt to changes in the shape of a protease enzyme due to its molecular flexibility.[A2281,A191526]",
+    "absorption": "The absolute oral bioavailability of one single 600 mg dose of darunavir alone and with 100 mg of ritonavir twice a day was 37% and 82%, respectively.[T762] Exposure to darunavir in boosted patients has been found to be 11 times higher than in unboosted patients.[A191502] Tmax is achieved approximately 2.4 to 4 hours after oral administration.[T762,L9227]\r\n\r\nWhen darunavir is taken with food, the Cmax and AUC of darunavir given with ritonavir increase by 30% when compared to the fasted state.[T762]\r\n\r\n",
+    "metabolism": "Darunavir is heavily oxidized and metabolized by hepatic cytochrome enzymes, mainly CYP3A.[L9227] Darunavir is extensively metabolized in subjects who do not receive a booster, primarily via carbamate hydrolysis, isobutyl aliphatic hydroxylation, and aniline aromatic hydroxylation, as well as both benzylic aromatic hydroxylation and glucuronidation.[A191502]",
+    "toxicity": "LD50 information for darunavir is not readily available in the literature.[A191562]  One-time doses of up to 3,200 mg of darunavir in an oral solution and up to 1,600 mg of the tablet formulation of darunavir with ritonavir have been given volunteers without significant symptoms.[L11988]\r\n\r\nInformation about an overdose with darunavir with ritonavir is limited. No specific antidote exists for this drug. Treatment of In the case of an overdose, employ general supportive measures. Monitor vital signs and clinical status. It is unlikely that darunavir not amenable to removal by dialysis due to its high level of protein binding.[L9227]",
+    "targets": [
+        [
+            "pol",
+            "Human immunodeficiency virus type 1 protease",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

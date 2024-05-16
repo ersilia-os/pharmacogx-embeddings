@@ -1,0 +1,124 @@
+{
+    "pharmgkb_id": "PA451333",
+    "drugbank_id": "DB01104",
+    "names": [
+        "Sertraline",
+        "Lustral"
+    ],
+    "description": "Sertraline is a popular antidepressant medication commonly known as a selective serotonin reuptake inhibitor (SSRI), and is similar to drugs such as [Citalopram] and [Fluoxetine]. Despite marked structural differences between compounds in this drug class, SSRIs exert similar pharmacological effects.\r\n\r\nSeveral weeks of therapy with sertraline may be required before beneficial effects are noticed. Sertraline displays enhanced safety or tolerability than other classes of antidepressants, which frequently cause high levels of drowsiness, dizziness, blurred vision, and other undesirable effects.[A1846,A187075,T28]",
+    "indication": "Sertraline is indicated for the management of major depressive disorder (MDD), post-traumatic stress disorder (PTSD), obsessive-compulsive disorder (OCD), panic disorder (PD), premenstrual dysphoric disorder (PMDD), and social anxiety disorder (SAD).[L9016] Common off-label uses for sertraline include the prevention of post stroke depression[A187078], generalized anxiety disorder (GAD), fibromyalgia, premature ejaculation, migraine prophylaxis, diabetic neuropathy, and neurocardiogenic syncope.[L5227]\r\n",
+    "pharmacodynamics": "Sertraline improves or relieves the symptoms of depression, OCD, post-traumatic stress disorder, obsessive-compulsive disorder, panic disorder, and premenstrual dysphoric disorder via the inhibition of serotonin reuptake.[A187075,L9016] Clinical studies have shown that it improves cognition in depressed patients.[A1846] It has less sedative, anticholinergic, and cardiovascular effects than the tricyclic antidepressant drugs because it does not exert significant anticholinergic, antihistamine, or adrenergic (alpha1, alpha2, beta) blocking activity.[A1844] The onset of action and beneficial effects are usually noticed after 4-6 weeks, for reasons that are not fully understood and currently under investigation.[A188493,L10677]",
+    "mechanism-of-action": "Sertraline selectively inhibits the reuptake of serotonin (5-HT) at the presynaptic neuronal membrane, thereby increasing serotonergic activity. This results in an increased synaptic concentration of serotonin in the CNS, which leads to numerous functional changes associated with enhanced serotonergic neurotransmission.[T28,L9016] These changes are believed to be responsible for the antidepressant action and beneficial effects in obsessive-compulsive (and other anxiety related disorders). It has been hypothesized that obsessive-compulsive disorder, like depression, is also caused by the disregulation of serotonin.[A187165]\r\n\r\nIn animal studies, chronic administration of sertraline results in down-regulation of brain norepinephrine receptors.[L9016] Sertraline displays affinity for sigma-1 and 2 receptor binding sites[A31941], but binds with stronger affinity to sigma-1 binding sites.[A31940] In vitro, sertraline shows little to no affinity for GABA, dopaminergic, serotonergic (5HT1A, 5HT1B, 5HT2), or benzodiazepine receptors.[L9016] It exerts weak inhibitory actions on the neuronal uptake of norepinephrine and dopamine[A1844] and exhibits no inhibitory effects on the monoamine oxidase enzyme.[L9016]",
+    "absorption": "Following once-daily administration of 50 to 200 mg for two weeks, the mean peak plasma concentrations (Cmax) of sertraline occurred between 4.5 to 8.4 hours after administration, and measured at 20 to 55 \u03bcg/L.[A1846,L9016] Steady-state concentrations are reached after 1 week following once-daily administration, and vary greatly depending on the patient.[A187066,L9016] Bioavailability has been estimated to be above 44%. The area under the curve in healthy volunteers after a 100mg dose of sertraline was 456 \u03bcg \u00d7 h/mL in one study.[A187066]\r\n\r\n**Effects of food on absorption** \r\n\r\nThe effects of food on the bioavailability of the sertraline tablet and oral concentrate were studied in subjects given a single dose with and without food. For the tablet, AUC was slightly increased when sertraline was administered with food, the Cmax was 25% greater, and the time to peak plasma concentration was shortened by about 2.5 hours. For the oral concentrate preparation of sertraline, peak concentration was prolonged by approximately 1 hour with the ingestion of food.[L9016] ",
+    "metabolism": "Sertraline is heavily metabolized in the liver and has one major active metabolite. It undergoes N-demethylation to form N-desmethylsertraline, which is much less potent in its pharmacological activity than sertraline.[A187066] In addition to N-demethylation, sertraline metabolism involves N-hydroxylation, oxidative deamination, and finally, glucuronidation.[L9016] The metabolism of sertraline is mainly catalyzed by CYP3A4 and CYP2B6, with some activity accounted for by CYP2C19 and CYP2D6.[A1846,L9022] ",
+    "toxicity": "The LD50 of sertraline is >2000 mg/kg in rats according to the FDA label.[L9061] One other references indicates an oral LD50 of in mice and rats of 419 - 548 mg/kg and 1327 - 1591mg/kg, respectively.[MSDS]\r\n\r\nThe most common signs and symptoms associated with a non-fatal sertraline overdose are somnolence, vomiting, tachycardia, nausea, dizziness, agitation, and tremor.[L9016] No cases of fatal overdose with only sertraline have been reported. Most fatal cases are associated with the ingestion of sertraline with other drugs.[A188499] Consequences of a sertraline overdose may include serotonin syndrome, hypertension, hypotension, syncope, stupor, coma, bradycardia, bundle branch block, QT-prolongation, torsade de pointes, delirium, hallucinations, and pancreatitis.[L9016] \r\n",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ],
+        [
+            "PGRMC1",
+            "Sigma receptor",
+            "Humans"
+        ],
+        [
+            "SIGMAR1",
+            "Sigma receptor",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC29A4",
+            "Equilibrative nucleoside transporter 4",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ],
+        [
+            "CYP2B",
+            "CYP2B protein",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01104",
+            "Drug Name": "Sertraline",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with poor metabolism of sertraline."
+        },
+        {
+            "DrugBank ID": "DB01104",
+            "Drug Name": "Sertraline",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with reduced or poor metabolism of sertraline."
+        }
+    ]
+}

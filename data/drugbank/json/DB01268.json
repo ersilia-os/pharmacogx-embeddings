@@ -1,0 +1,110 @@
+{
+    "pharmgkb_id": "PA162372840",
+    "drugbank_id": "DB01268",
+    "names": [
+        "Sunitinib"
+    ],
+    "description": "Sunitinib is a small-molecule multi-targeted receptor tyrosine kinase (RTK) inhibitor. On January 26, 2006, the agent was formally approved by the US FDA for the indications of treating renal cell carcinoma (RCC) and imatinib-resistant gastrointestinal stromal tumor (GIST). For these purposes, sunitinib is generally available as an orally administered formulation. Sunitinib inhibits cellular signaling by targeting multiple RTKs. These include all platelet-derived growth factor receptors (PDGF-R) and vascular endothelial growth factor receptors (VEGF-R). Sunitinib also inhibits KIT (CD117), the RTK that drives the majority of GISTs. In addition, sunitinib inhibits other RTKs including RET, CSF-1R, and flt3.",
+    "indication": "Sunitinib is indicated for the following conditions:[L4135]\r\n\r\n- Treatment of adult patients with gastrointestinal stromal tumor (GIST) following disease progression on (or intolerance to) [imatinib] mesylate\r\n- Treatment of adult patients with advanced renal cell carcinoma (RCC)\r\n- Adjuvant treatment of adult patients at high risk of recurrent RCC following nephrectomy\r\n- Treatment of progressive, well-differentiated pancreatic neuroendocrine tumors (pNET) in adult patients with unresectable locally advanced or metastatic disease",
+    "pharmacodynamics": "Sunitinib is an oral, small-molecule, multi-targeted receptor tyrosine kinase (RTK) inhibitor that was approved by the FDA on January 26, 2006. ",
+    "mechanism-of-action": "Sunitinib is a small molecule that inhibits multiple RTKs, some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer. Sunitinib was evaluated for its inhibitory activity against a variety of kinases (>80 kinases) and was identified as an inhibitor of platelet-derived growth factor receptors (PDGFRa and PDGFRb), vascular endothelial growth factor receptors (VEGFR1, VEGFR2 and VEGFR3), stem cell factor receptor (KIT), Fms-like tyrosine kinase-3 (FLT3), colony stimulating factor receptor Type 1 (CSF-1R), and the glial cell-line derived neurotrophic factor receptor (RET). Sunitinib inhibition of the activity of these RTKs has been demonstrated in biochemical and cellular assays, and inhibition of function has been demonstrated in cell proliferation assays. The primary metabolite exhibits similar potency compared to sunitinib in biochemical and cellular assays.",
+    "absorption": "Maximum plasma concentrations (Cmax) of sunitinib are generally observed between 6 and 12 hours (Tmax) following oral administration. Food has no effect on the bioavailability of sunitinib. Sunitinib may be taken with or without food. The pharmacokinetics were similar in healthy volunteers and in the solid tumor patient populations tested, including patients with GIST and RCC.",
+    "metabolism": "Sunitinib is metabolized primarily by the cytochrome P450 enzyme, CYP3A4, to produce its primary active metabolite, which is further metabolized by CYP3A4.",
+    "toxicity": "The maximally tolerated dose for rat, mouse, and dog when given orally is greater than 500 mg/kg. The maximally tolerated dose of a non-human primate is greater 1200 mg/kg. ",
+    "targets": [
+        [
+            "PDGFRB",
+            "Platelet-derived growth factor receptor beta",
+            "Humans"
+        ],
+        [
+            "FLT1",
+            "Vascular endothelial growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "KIT",
+            "Mast/stem cell growth factor receptor Kit",
+            "Humans"
+        ],
+        [
+            "KDR",
+            "Vascular endothelial growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FLT4",
+            "Vascular endothelial growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "FLT3",
+            "Receptor-type tyrosine-protein kinase FLT3",
+            "Humans"
+        ],
+        [
+            "CSF1R",
+            "Macrophage colony-stimulating factor 1 receptor",
+            "Humans"
+        ],
+        [
+            "PDGFRA",
+            "Platelet-derived growth factor receptor alpha",
+            "Humans"
+        ],
+        [
+            "MET",
+            "Hepatocyte growth factor receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01268",
+            "Drug Name": "Sunitinib",
+            "Gene Symbol": "CYP3A4",
+            "RS ID (Genotype)": "rs4646437",
+            "Adverse Reaction Description": "Patients with metastatic renal cell carcinoma who carry this polymorphism in CYP3A4 are at a higher risk of experiencing drug-induced hypertension when treated with sunitinib."
+        }
+    ]
+}

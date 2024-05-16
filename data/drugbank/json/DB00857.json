@@ -1,0 +1,84 @@
+{
+    "pharmgkb_id": "PA451614",
+    "drugbank_id": "DB00857",
+    "names": [
+        "Terbinafine",
+        "Lamasil"
+    ],
+    "description": "Terbinafine hydrochloride (Lamisil) is a synthetic allylamine antifungal.[L9065,L9068] It is highly lipophilic in nature and tends to accumulate in skin, nails, and fatty tissues.[A1279] Like other allylamines, terbinafine inhibits ergosterol synthesis by inhibiting the fungal squalene monooxygenase (also called squalene epoxidase), an enzyme that is part of the fungal cell wall synthesis pathway.[A1279,A1281,L9068]\r\n\r\nTerbinafine hydrochloride was granted FDA approval on 30 December 1992.[L9064]",
+    "indication": "Terbinafine hydrochloride is indicated to treat fungal skin and nail infections caused by _Trichophyton_ species, _Microsporum canis_, _Epidermophyton floccosum_,[L9068] and _Tinea_ species.[L9065] Terbinafine hydrochloride also treats yeast infections of the skin caused by _Candida_ species and _Malassezia furfur_.[L9068]",
+    "pharmacodynamics": "Terbinafine is an allylamine antifungal that inhibits squalene epoxidase (also known as squalene monooxygenase) to prevent the formation of ergosterol and cause an accumulation of squalene, weakening the cell wall of fungal cells.[A1279,A1281,L9068] Terbinafine distributes into tissues and has a long terminal elimination half life, so the duration of action is long.[A1279] Overdose with terbinafine is rare, even above the therapeutic dose, so the therapeutic index is wide.[L9065,L9068] Patients taking oral terbinafine should have liver function tests performed prior to treatment to reduce the risk of liver injury.[L9065]",
+    "mechanism-of-action": "Terbinafine inhibits the enzyme squalene monooxygenase (also called squalene epoxidase), preventing the conversion of squalene to 2,3-oxydosqualene, a step in the synthesis of ergosterol.[A1279,A1281,L9068] This inhibition leads to decreased ergosterol, which would normally be incorporated into the cell wall, and accumulation of squalene.[A1281,L9068]\r\n\r\nGeneration of a large number of squalene containing vesicles in the cytoplasm may leach other lipids away from, and further weaken, the cell wall.[A1281]",
+    "absorption": "Oral terbinafine is >70% absorbed but only 40% bioavailable after first pass metabolism, reaching a C<sub>max</sub> of 1\u00b5g/mL with a T<sub>max</sub> of 2 hours an an AUC of 4.56\u00b5g\\*h/mL.[L9065] Over the course of a week, 1% topical terbinafine's C<sub>max</sub> increases from 949-1049ng/cm<sup>2</sup> and the AUC increases from 9694-13,492ng/cm<sup>2</sup>/h.[A188168]",
+    "metabolism": "Terbinafine can be deaminated to 1-naphthaldehyde by CYP2C9, 2B6, 2C8, 1A2, 3A4, and 2C19.[A38984] 1-naphthaldehyde is then oxidized to 1-naphthoic acid or reduced to 1-naphthalenemethanol.[A38984]\r\n\r\nTerbinafine can also be hydroxylated by CYP1A2, 2C9, 2C8, 2B6, and 2C19 to hydroxyterbinafine.[A38984] Hydroxyterbinafine is then oxidized to carboxyterbinafine or N-demethylated by CYP3A4, 2B6, 1A2, 2C9, 2C8, and 2C19 to desmethylhydroxyterbinafine.[A38984]\r\n\r\nTerbinafine can be N-demethylated to desmethylterbinafine.[A38984] Desmethylterbinafine is then dihydroxylated to a desmethyldihydrodiol or hydroxylated to desmethylhydroxyterbinafine.[A38984]\r\n\r\nFinally, terbinafine can be dihydroxylated to a dihydrodiol which is then N-demethylated to a desmethyldihydrodiol.[A38984]",
+    "toxicity": "The subcutaneous LD<sub>50</sub> in rats and mice is >2g/kg.[L10487] The TDLO for women is 210mg/kg/6W.[L10487]\r\n\r\nOverdose data with terbinafine is rare, however symptoms are expected to be nausea, vomiting, abdominal pain, dizziness, rash, frequent urination, and headache.[L9065] Treat overdose with activated charcoal as well as symptomatic and supportive therapy.[L9068]",
+    "targets": [
+        [
+            "ERG1",
+            "Squalene monooxygenase",
+            "Yeast"
+        ],
+        [
+            "SQLE",
+            "Squalene monooxygenase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "MDR2",
+            "ABC multidrug transporter MDR2",
+            "Trichophyton interdigitale (strain MR816)"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

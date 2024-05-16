@@ -1,0 +1,145 @@
+{
+    "pharmgkb_id": "PA449690",
+    "drugbank_id": "DB00176",
+    "names": [
+        "Fluvoxamine",
+        "Dumirox",
+        "Faverin",
+        "Fevarin",
+        "Floxyfral",
+        "Maveral"
+    ],
+    "description": "Fluvoxamine is an antidepressant which functions pharmacologically as a selective serotonin reuptake inhibitor. Though it is in the same class as other SSRI drugs, it is most often used to treat obsessive-compulsive disorder.\r\nFluvoxamine has been in use in clinical practice since 1983 and has a clinical trial database comprised of approximately 35,000 patients. It was launched in the US in December 1994 and in Japan in June 1999. As of the end of 1995, more than 10 million patients worldwide have been treated with fluvoxamine.",
+    "indication": "Indicated predominantly for the management of depression and for Obsessive Compulsive Disorder (OCD) [FDA Label]. Has also been used in the management of bulimia nervosa [A250].",
+    "pharmacodynamics": "Fluvoxamine, an aralkylketone-derivative agent [FDA Label], is one of a class of antidepressants known as selective serotonin reuptake inhibitors (SSRIs) that differs structurally from other SSRIs [A249]. It is used to treat the depression associated with mood disorders. It is also used on occassion in the treatment of body dysmorphic disorder and anxiety [A249]. The antidepressant, antiobsessive-compulsive, and antibulimic actions of Fluvoxamine are presumed to be linked to its inhibition of CNS neuronal uptake of serotonin [FDA Label, A249, A250]. <i>In vitro</i> studies show that Fluvoxamine is a potent and selective inhibitor of neuronal serotonin reuptake and has only very weak effects on norepinephrine and dopamine neuronal reuptake [A250]. Moreover, apart from binding to \u03c31 receptors [A250], fluvoxamine has no significant affinity for adrenergic (alpha1, alpha2, beta), cholinergic, GABA, dopaminergic, histaminergic, serotonergic (5HT<sub>1A</sub>, 5HT<sub>1B</sub>, 5HT<sub>2</sub>), or benzodiazepine receptors; antagonism of such receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular effects for other psychotropic drugs [A249]. Furthermore, some studies have demonstrated that the chronic administration of Fluvoxamine was found to downregulate brain norepinephrine receptors (as has been observed with other drugs effective in the treatment of major depressive disorder), while others suggest the opposite [A31914].",
+    "mechanism-of-action": "The exact mechanism of action of fluvoxamine has not been fully determined, but appears to be linked to its inhibition of CNS neuronal uptake of serotonin [FDA Label, A249, A250]. Fluvoxamine blocks the reuptake of serotonin at the serotonin reuptake pump of the neuronal membrane, enhancing the actions of serotonin on 5HT<sub>1A</sub> autoreceptors [FDA Label, A249, A250]. Studies have also demonstrated that fluvoxamine has virtually no affinity for \u03b1<sub>1</sub>- or \u03b1<sub>2</sub>-adrenergic, \u03b2-adrenergic, muscarinic, dopamine D<sub>2</sub>, histamine H<sub>1</sub>, GABA-benzodiazepine, opiate, 5-HT<sub>1</sub>, or 5-HT<sub>2</sub> receptors, despite having an affinity for binding to \u03c31 receptors [A250].",
+    "absorption": "Well absorbed, bioavailability of fluvoxamine maleate is 53% [FDA Label].",
+    "metabolism": "Fluvoxamine is metabolized extensively by the liver [FDA Label].",
+    "toxicity": "Fluvoxamine is a member of antidepressants that possess an increased risk compared to placebo of suicidal thinking and behaviour (suicidality) in children, adolescents, and young adults (ages including and and below 24) in short-term studies of major depressive disorder and other psychiatric disorders [FDA Label].\r\n\r\nFluvoxamine maleate tablets are not approved for use in pediatric patients except for patients with obsessive compulsive disorder (OCD) [FDA Label].\r\n\r\nSide effects include anorexia, constipation, dry mouth, headache, nausea, nervousness, skin rash, sleep problems, somnolence, liver toxicity, mania, increase urination, seizures, sweating increase, tremors, or Tourette's syndrome [FDA Label].",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00176",
+            "Drug Name": "Fluvoxamine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs35742686",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of fluvoxamine."
+        },
+        {
+            "DrugBank ID": "DB00176",
+            "Drug Name": "Fluvoxamine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of fluvoxamine."
+        },
+        {
+            "DrugBank ID": "DB00176",
+            "Drug Name": "Fluvoxamine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of fluvoxamine."
+        },
+        {
+            "DrugBank ID": "DB00176",
+            "Drug Name": "Fluvoxamine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of fluvoxamine."
+        },
+        {
+            "DrugBank ID": "DB00176",
+            "Drug Name": "Fluvoxamine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1135824",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of fluvoxamine."
+        },
+        {
+            "DrugBank ID": "DB00176",
+            "Drug Name": "Fluvoxamine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs28371733",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of fluvoxamine."
+        }
+    ]
+}

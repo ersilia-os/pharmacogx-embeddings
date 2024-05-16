@@ -1,0 +1,92 @@
+{
+    "pharmgkb_id": "PA449407",
+    "drugbank_id": "DB00590",
+    "names": [
+        "Doxazosin",
+        "Alfadil",
+        "Cardenalin",
+        "Cardular",
+        "Cardura-1",
+        "Cardura-2",
+        "Cardura-4",
+        "Carduran",
+        "Diblocin",
+        "Normothen",
+        "Supressin"
+    ],
+    "description": "Doxazosin is an alpha-1 antagonist used for the treatment of benign prostatic hypertrophy (BPH) symptoms and hypertension. Other members of this drug class include [Prazosin], [Terazosin], [Tamsulosin], and [Alfuzosin].[A180661]  Because of its long-lasting effects, doxazosin can be administered once a day.[A180649] It is marketed by Pfizer and was initially approved by the FDA in 1990.[L7285]",
+    "indication": "Doxazosin is indicated to treat the symptoms of benign prostatic hypertrophy, which may include urinary frequency, urgency, and nocturia, among other symptoms. In addition, doxazosin is indicated alone or in combination with various antihypertensive agents for the management of hypertension.[L7282] Off-label uses of doxazosin include the treatment of pediatric hypertension[A180634] and the treatment of ureteric calculi.[A180637]",
+    "pharmacodynamics": "Doxazosin decreases standing and supine blood pressure[A180649] and relieves the symptoms of benign prostatic hypertrophy through the inhibition of alpha-1 receptors.\r\nDoxazosin may cause hypotension due to its pharmacological actions. This frequently occurs in the upright position, leading to a feeling of dizziness or lightheadedness. The first dose of doxazosin may lead to such effects, however, subsequent doses may also cause them. The risk of these effects is particularly high when dose adjustments occur or there are long intervals between doxazosin doses. Treatment should be started with the 1 mg dose of doxazosin, followed by slow titration to the appropriate dose.[L7282] Patients must be advised of this risk and to avoid situations in which syncope and dizziness could be hazardous following the ingestion of doxazosin.[L7282] Interestingly doxazosin exerts beneficial effects on plasma lipids. It reduces LDL (low-density lipoprotein) cholesterol and triglyceride levels and increases HDL (high-density lipoprotein) cholesterol levels.[A180649]\r\n\r\nA note on priapism risk\r\n\r\nIn rare cases, doxazosin and other alpha-1 blockers may cause priapism, a painful occurrence of persistent and unrelievable penile erection that can lead to impotence if medical attention is not sought as soon as possible. Patients must be advised of the priapism risk associated with doxazosin and to seek medical attention immediately if it is suspected.[A180670,L7282]",
+    "mechanism-of-action": "Doxazosin selectively inhibits the postsynaptic alpha-1 receptors on vascular smooth muscle by nonselectively blocking the alpha-1a, alpha-1b, and alpha-1d subtypes[A180688,A4649]. This action on blood vessels decreases systemic peripheral vascular resistance, reducing blood pressure, exerting minimal effects on the heart rate due to its receptor selectivity.[A180649,A180676] Norepinephrine-activated alpha-1 receptors located on the prostate gland and bladder neck normally cause contraction of regional muscular tissue, obstructing urinary flow and contributing to the symptoms of benign prostatic hypertrophy.  Alpha-1 antagonism causes smooth muscle relaxation in the prostate and bladder, effectively relieving urinary frequency, urgency, weak urinary stream, and other unpleasant effects of BPH.[A180655] Recently, doxazosin was found to cause apoptosis of hERG potassium channels in an in vitro setting, possibly contributing to a risk of heart failure with doxazosin use.[A15296,A180697,A180700] ",
+    "absorption": "Doxazosin is rapidly absorbed in the gastrointestinal tract and peak concentrations are achieved within 2-3 hours after administration.[A180682] The bioavailability is about 60%-70%.[A180658,L7282] The intake of food with doxazosin is not expected to cause clinically significant effects.[L7282]",
+    "metabolism": "Hepatic metabolism of doxazosin produces inactive O-demethylated and C-hydroxylated metabolites. Metabolism occurs via O-demethylation of the quinazoline nucleus of doxazosin or via hydroxylation of its benzodioxan portion.[L7282] The enzymes involved in the metabolism of doxazosin include CYP2C19[L7297], CYP2D6, CYP2C19, and CYP3A4, which is the primary metabolizing enzyme.[L7294] Doxazosin itself is considered to be mainly responsible for its pharmacological action[A180658], however, some active metabolites have been identified whose pharmacokinetics have not been adequately characterized.[L7282]",
+    "toxicity": "LD50 information\r\n\r\nThe oral LD50 of doxazosin in mice is >1000 mg/kg.[L7288]\r\n\r\nOverdose information\r\n\r\nSymptoms of overdose include hypotension, changes in heart rate, and drowsiness.[A180676] Administer supportive treatment in case of an overdose with doxazosin. Remove unabsorbed doxazosin from the gastrointestinal tract, correct hypotension, and closely monitor vital signs.[A180676]\r\n",
+    "targets": [
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "HERG human cardiac K+ channel",
+            "Humans"
+        ],
+        [
+            "KCNH6",
+            "HERG human cardiac K+ channel",
+            "Humans"
+        ],
+        [
+            "KCNH7",
+            "HERG human cardiac K+ channel",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

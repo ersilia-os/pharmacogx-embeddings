@@ -1,0 +1,100 @@
+{
+    "pharmgkb_id": "PA166177513",
+    "drugbank_id": "DB08893",
+    "names": [
+        "Mirabegron",
+        "Betanis",
+        "Metmiga"
+    ],
+    "description": "Mirabegron is a sympathomimetic beta-3 adrenergic receptor agonist used to relax the smooth muscle of the bladder in the treatment of urinary frequency and incontinence. It is unique amongst overactive bladder treatment options in that, unlike other treatments such as [solifenacin] and [darifenacin], it lacks significant antimuscarinic activity,[A232553] which is responsible both for the therapeutic effects of these medications and their broad range of adverse effects. Mirabegron has a comparatively favorable adverse effect profile as compared to other available treatment options, and its complementary mechanism to the antimuscarinics that came before it allows for its use alongside solifenacin in refractory cases.[L32853]\r\n\r\nMirabegron first received FDA approval in 2012, under the brand name Myrbetriq, for the treatment of adults with overactive bladder.[L32853] An extended-release granule formulation was subsequently granted approval in March 2021 for the treatment of pediatric patients with neurogenic detrusor overactivity.[L32853] Mirabegron is also used in other jurisdictions across the globe, including Canada,[L32925] the EU,[L32945] and Japan.[A7469]",
+    "indication": "Mirabegron is indicated for the treatment of overactive bladder (OAB) - with symptoms of urge urinary incontinence, urgency, and urinary frequency - either alone or in combination with [solifenacin].[L32853] It is also indicated for the treatment of neurogenic detrusor overactivity (NDO) in pediatric patients 3 years of age and older and weighing 35kg or more.[L32853]",
+    "pharmacodynamics": "Mirabegron exerts its pharmacologic effects by forcing bladder smooth muscle to relax, thereby expanding its capacity and relieving urgency. Mirabegron does not appear to adversely affect the mean maximum flow rate or mean detrusor pressure at maximum flow rate in patients with lower urinary tract symptoms and bladder outlet obstruction (BOO), but should be used with in patients with BOO due to reports of significant urinary retention. Furthermore, mirabegron increases both blood pressure and heart rate in a dose-dependent manner and should therefore be used with caution in patients with severely uncontrolled hypertension or others for whom these increases may prove dangerous.[L32853]",
+    "mechanism-of-action": "Mirabegron is a potent and selective agonist of beta-3 adrenergic receptors. The activation of beta-3 receptors relaxes detrusor smooth muscle during the storage phase of the urinary bladder fill-void cycle, which increases the bladder's storage capacity thereby alleviating feelings of urgency and frequency.[L32853]",
+    "absorption": "The absolute bioavailability of orally administered mirabegron ranges from 29% at a dose of 25 mg to 35% at a dose of 50 mg.[L32853] The T<sub>max</sub> for the extended-release tablet and suspension formulations are approximately 3.5 hours, while the T<sub>max</sub> for the granule formulation is 4-5 hours.[L32853] Both C<sub>max</sub> and AUC increase more than dose proportionally - an increase in dose from 50mg to 100mg results in a 2.9- and 2.6-fold increase in C<sub>max</sub> and AUC, respectively, whereas an increase from 50mg to 200mg results in a 8.4- and 6.5-fold increase in C<sub>max</sub> and AUC, respectively.[L32853]\r\n\r\nSteady-state concentrations of mirabegron are achieved after approximately 7 days of once-daily administration.[L32853]",
+    "metabolism": "Mirabegron is extensively metabolized via a number of mechanisms, although unchanged parent drug is still the major circulating component following oral administration.[L32853] Presumed metabolic pathways and their resultant metabolites include amide hydrolysis (M5, M16, M17), glucuronidation (mirabegron O-glucuronide, N-glucuronide, N-carbamoylglucuronide, M12), and secondary amine oxidation or dealkylation (M8, M9, M15), amongst others.[A232568] The enzymes responsible for the oxidative metabolism of mirabegron are thought to be CYP3A4 and CYP2D6,[L32853] while the UDP-glucuronosyltransferases responsible for conjugation reactions have been identified as UGT2B7, UGT1A3, and UGT1A8.[A232768] Other enzymes that may be involved in the metabolism of mirabegron include butylcholinesterase and possibly alcohol dehydrogenase.[L32853]",
+    "toxicity": "At doses of up to 400mg in healthy volunteers (~8x the recommended maximum), reported symptoms of overdose included palpitations and increased heart rate. Symptoms of chronic overdosage are similar in presentation and may also include a rise in systolic blood pressure. In cases of overdosage, employ standard symptomatic and supportive measures in addition to ECG monitoring.[L32853]",
+    "targets": [
+        [
+            "ADRB3",
+            "Beta-3 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferase 1-8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

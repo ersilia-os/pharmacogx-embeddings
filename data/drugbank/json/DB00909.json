@@ -1,0 +1,244 @@
+{
+    "pharmgkb_id": "PA451978",
+    "drugbank_id": "DB00909",
+    "names": [
+        "Zonisamide",
+        "Exceglan",
+        "Excegram"
+    ],
+    "description": "Zonisamide is a sulfonamide anticonvulsant used as an adjunctive therapy in adults with partial-onset seizures.[L42530,L42535]  Zonisamide may act by blocking repetitive firing of voltage-gated sodium channels, leading to a reduction of T-type calcium channel currents or by binding allosterically to GABA receptors. This latter action may inhibit the uptake of the inhibitory neurotransmitter GABA while enhancing the uptake of the excitatory neurotransmitter glutamate.[L42530,L42535] Zonisamide represents an alternative for patients that remain refractory to established antiepileptic drugs. In 1989, it was approved for commercial use in Japan. The US and Europe approved it in 2000 and 2005, respectively.[A1379,A1383]",
+    "indication": "Zonisamide capsules are indicated as adjunctive therapy in the treatment of partial seizures in adults with epilepsy.[L42530] Zonisamide oral suspension is indicated as adjunctive therapy for the treatment of partial-onset seizures in adults and pediatric patients 16 years of age and older.[L42535]",
+    "pharmacodynamics": "By stopping the spread of seizure discharges, zonisamide prevents the extensor component of tonic convulsion, restricts the spread of focal seizures and prevents the propagation of seizures from the cortex to subcortical structures.[A1383,A1384] In animal models, zonisamide was effective against tonic extension seizures but ineffective against clonic seizures. It also increased the threshold for generalized seizures and reduced the duration of cortical focal seizures.[L42530] Aside from its antiepileptic effects, zonisamide is capable of activating neuroprotective mechanisms. It inhibits nitric oxide synthase and \u200b\u200breduces ischemia-induced memory impairment and lipid peroxidation.[A1383]\r\n\r\nThe use of zonisamide may lead to potentially fatal reactions. Severe reactions such as Stevens-Johnson syndrome, toxic epidermal necrolysis, fulminant hepatic necrosis, agranulocytosis, and aplastic anemia have been reported in patients treated with sulfonamides such as zonisamide. Zonisamide may also lead to the development of serious hematological events, drug reaction with eosinophilia and systemic symptoms (DRESS) and multi-organ hypersensitivity, acute myopia and secondary angle closure glaucoma, as well as suicidal behaviour and ideation.[L42530,L42535] Zonisamide is a carbonic anhydrase inhibitor, which may lead to metabolic acidosis in patients treated with this drug. Its therapeutic effects due to this pharmacological action are unknown.[L42530]",
+    "mechanism-of-action": "The mechanism of action by which zonisamide controls seizures has not been fully established. However, its antiepileptic properties may be due to its effects on sodium and calcium channels.[L42530,L42535] Zonisamide blocks sodium channels and reduces voltage-dependent, transient inward currents, stabilizing neuronal membranes and suppressing neuronal hypersynchronization.[L42530,L42535] It affects T-type calcium currents, but has no effect on L-type calcium currents.[A1382,A1383,A1385] \r\n\r\nZonisamide suppresses synaptically-driven electrical activity by altering the synthesis, release, and degradation of neurotransmitters, such as glutamate, gamma-aminobutyric acid (GABA), dopamine, serotonin (5-hydroxytryptamine [5-HT]), and acetylcholine.[A1383,A1380] Furthermore, it binds to the GABA/benzodiazepine receptor ionophore complex without producing changes in chloride flux.[L42530,L42535] _In vitro_ studies have suggested that zonisamide does not affect postsynaptic GABA or glutamate responses, nor the neuronal or glial uptake of [<sup>3</sup>H]-GABA.",
+    "absorption": "Between 200 and 400 mg, zonisamide follows a dose-proportional pharmacokinetic profile.[L42530,L42535] At concentrations higher than 800 mg, the C<sub>max</sub> and AUC increase in a disproportional manner, possibly due to zonisamide binding red blood cells. In healthy volunteers given 200 to 400 mg of zonisamide orally, peak plasma concentrations (C<sub>max</sub>) range between 2 and 5 \u00b5g/mL and are reached within 2\u20136 hours (T<sub>max</sub>).[L42530] In healthy volunteers given 100 mg of zonisamide oral suspension, the T<sub>max</sub> ranged from 0.5 to 5 hours.[L42535] Zonisamide has a high oral bioavailability (95%).[A1383] The T<sub>max</sub> of zonisamide was delayed by food intake (4-6 hours); however, food has no effect on its bioavailability. Steady state is achieved 14 days after a stable dose is reached.[L42530,L42535]",
+    "metabolism": "Zonisamide metabolites are generated mainly by principally reductive and conjugative mechanisms. Oxidation reactions play a minor role in the metabolism of zonisamide.[A1383] Zonisamide is metabolized by N-acetyl-transferases to form N-acetyl zonisamide and reduced to form the open ring metabolite, 2\u2013sulfamoylacetylphenol (SMAP). The reduction of zonisamide to SMAP is mediated by CYP3A4.[A1379,A1383,L42530,L42535] Zonisamide does not induce liver enzymes or its own metabolism.[A1379]",
+    "toxicity": "Information on daily doses over 800 mg/day of zonisamide is limited. During clinical development, three patients ingested unknown amounts of zonisamide as suicide attempts, and all of them were hospitalized with central nervous system symptoms. One patient became comatose and developed bradycardia, hypotension, and respiratory depression; 31 hours after zonisamide ingestion, plasma level was 100.1 \u00b5g/mL. Zonisamide plasma levels fell with a half-life of 57 hours, and the patient became alert five days later.[L42530,L42535] There are no specific antidotes for zonisamide overdosage. In case of a suspected recent overdose, emesis should be induced or gastric lavage performed with the usual precautions to protect the airway. General supportive care is indicated, including frequent monitoring of vital signs and close observation.[L42530,L42535] Due to its long half-life and low protein binding, renal dialysis may be effective in treating zonisamide overdose; however, the effectiveness of this procedure has not been formally studied.[L42535] \r\n\r\n_In vivo_ studies found no evidence of carcinogenicity at zonisamide doses equivalent to or higher than the maximum recommended human dose (MRHD). In an _in vitro_ chromosomal aberration assay in CHL cells, zonisamide displayed mutagenicity. Signs of reproductive toxicity were also detected in rats treated with a dose 0.5 times the MRHD.[L42530,L42535]",
+    "targets": [
+        [
+            "SCN1A",
+            "Sodium channel protein type 1 subunit alpha",
+            "Humans"
+        ],
+        [
+            "SCN2A",
+            "Sodium channel protein type 2 subunit alpha",
+            "Humans"
+        ],
+        [
+            "SCN3A",
+            "Sodium channel protein type 3 subunit alpha",
+            "Humans"
+        ],
+        [
+            "SCN4A",
+            "Sodium channel protein type 4 subunit alpha",
+            "Humans"
+        ],
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ],
+        [
+            "SCN9A",
+            "Sodium channel protein type 9 subunit alpha",
+            "Humans"
+        ],
+        [
+            "SCN11A",
+            "Sodium channel protein type 11 subunit alpha",
+            "Humans"
+        ],
+        [
+            "SCN1B",
+            "Sodium channel subunit beta-1",
+            "Humans"
+        ],
+        [
+            "SCN2B",
+            "Sodium channel subunit beta-2",
+            "Humans"
+        ],
+        [
+            "SCN3B",
+            "Sodium channel subunit beta-3",
+            "Humans"
+        ],
+        [
+            "SCN4B",
+            "Sodium channel subunit beta-4",
+            "Humans"
+        ],
+        [
+            "CACNA1G",
+            "Voltage-dependent T-type calcium channel subunit alpha-1G",
+            "Humans"
+        ],
+        [
+            "CACNA1H",
+            "Voltage-dependent T-type calcium channel subunit alpha-1H",
+            "Humans"
+        ],
+        [
+            "CACNA1I",
+            "Voltage-dependent T-type calcium channel subunit alpha-1I",
+            "Humans"
+        ],
+        [
+            "CA1",
+            "Carbonic anhydrase 1",
+            "Humans"
+        ],
+        [
+            "CA2",
+            "Carbonic anhydrase 2",
+            "Humans"
+        ],
+        [
+            "CA3",
+            "Carbonic anhydrase 3",
+            "Humans"
+        ],
+        [
+            "CA4",
+            "Carbonic anhydrase 4",
+            "Humans"
+        ],
+        [
+            "CA5A",
+            "Carbonic anhydrase 5A, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CA5B",
+            "Carbonic anhydrase 5B, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CA6",
+            "Carbonic anhydrase 6",
+            "Humans"
+        ],
+        [
+            "CA7",
+            "Carbonic anhydrase 7",
+            "Humans"
+        ],
+        [
+            "CA8",
+            "Carbonic anhydrase-related protein",
+            "Humans"
+        ],
+        [
+            "CA9",
+            "Carbonic anhydrase 9",
+            "Humans"
+        ],
+        [
+            "CA10",
+            "Carbonic anhydrase-related protein 10",
+            "Humans"
+        ],
+        [
+            "CA11",
+            "Carbonic anhydrase-related protein 11",
+            "Humans"
+        ],
+        [
+            "CA12",
+            "Carbonic anhydrase 12",
+            "Humans"
+        ],
+        [
+            "CA13",
+            "Carbonic anhydrase 13",
+            "Humans"
+        ],
+        [
+            "CA14",
+            "Carbonic anhydrase 14",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "AOX1",
+            "Aldehyde oxidase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

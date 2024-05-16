@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA166184081",
+    "drugbank_id": "DB09220",
+    "names": [
+        "Nicorandil",
+        "Adancor",
+        "Angedil",
+        "Angicor",
+        "Aprior",
+        "Av-Cor",
+        "Corangi",
+        "Cordinik",
+        "Corflo",
+        "Dancor",
+        "Ikorel",
+        "Ikotril",
+        "K-Cor",
+        "Nicodil",
+        "Nicoduce",
+        "Nicolan",
+        "Nicoline",
+        "Nicor",
+        "Nicoral",
+        "Nicostar",
+        "Nidil",
+        "Nikoran",
+        "Nikoranmart",
+        "Nirandil",
+        "Randil",
+        "Sigmart",
+        "Silvinol",
+        "Zynicor"
+    ],
+    "description": "Nicorandil is an orally efficacious vasodilatory drug and antianginal agent marketed in the UK, Australia, most of Europe, India, Philippines, Japan, South Korea, and Taiwan. It is not an approved drug by FDA. It is a niacinamide derivative that induces vasodilation of arterioles and large coronary arteries by activating potassium channels. It is often used for patients with angina who remain symptomatic despite optimal treatment with other antianginal drugs [T28]. Nicorandil is a dual-action potassium channel opener that relaxes vascular smooth muscle through membrane hyperpolarization via increased transmembrane potassium conductance and increased intracellular concentration of cyclic GMP. It is shown to dilate normal and stenotic coronary arteries and reduces both ventricular preload and afterload [A20325].",
+    "indication": "Indicated for the prevention and treatment of chronic stable angina pectoris and reduction in the risk of acute coronary syndromes. ",
+    "pharmacodynamics": "Nicorandil is a potassium channel opener with nitrovasodilator (NO donor) actions, making it both an arterial and a venous dilator [T28]. It causes sustained dilation of both the arterial resistance and conductive vessels that increases coronary blood flow, however the effect of the drug on coronary arteries does not involve the coronary steal phenomenon [L887]. Activation of potassium channels lead to hyperpolarization of the smooth muscle cells, followed by arterial dilation and afterload reduction. Nicorandil is shown to increase pooling in the capacitance vessels with a decrease in preload through relaxing the venous vascular system. Overall, improved blood flow and reduced infarct size are achieved through reduction of end-diastolix pressure and decreased extravascular component of vascular resistance [L887]. Open studies showed the effectiveness of nicorandil treatment on various types of angina pectoris [A20327]. ",
+    "mechanism-of-action": "Nicorandil mediates its therapeutic efficacy via two main mechanisms. Nicorandil is an activator and opener of ATP-sensitive (ATP-dependent) potassium channels (KATP channels) that are composed of Kir6.x-type subunits and sulfonylurea receptor (SUR) subunits. Nicorandil binding sites are located in the sulfonylurea receptor 2 (SUR2) in the ATP-sensitive potassium channel [A20322], which are regulatory subunits of the channel that exhibit an ATPase activitiy [A12436]. There are 2 types of SUR2 subunits (2A/2B) that have identical nucleotide binding domains (NBD), where SUR2A is more predominantly expressed in skeletal and cardiac myocytes and SUR2B in smooth muscle cells [A12436]. Nicorandil more potently activates SUR2B/Kir6.2 than SUR2A/Kir6.2 channels to cause hyperpolarization. ATP-NBD1 interaction influences the channel signalling by nicorandil, and the response of the channel to nicorandil is also facilitated and heightened by the interaction of ATP or ADP with NBD2 [A20321]. Potentiated activity of ATP-sensitive channels have cardioprotective role by limiting the duration of action potentials and preventing intraceullar calcium overload [A20326]. This attenuates cellular injury by preserving cellular energetics and ultimately cell survival [A20324]. KATP channel-dependent membrane hyperpolarization can also lead to vasodilation via reduction in Ca2+ influx through the voltage-gated Ca2+ channels and regulation of intracellular Ca2+ mobilization in smooth muscle cells [A20324]. \r\nNicorandil contain a nitrate moiety in its structure, making it a good dilator of vascular smooth muscle like other nitroglycerin esters [A20323]. Direct relaxation of venous vascular system arises from NO-donor mediated stimulation of guanylyl cyclase and increased levels of intracellular cyclic GMP (cGMP). Elevated levels of cGMP contributes to the total relaxing effect of nicorandil at higher concentrations of the drug [A7839]. ",
+    "absorption": "Following oral administration, nicorandil is well absorbed from the gastrointestinal tract with the oral bioavailability of 75% with the maximum peak plasma concentration (Cmax) reached within 30-60 minutes. The mean Cmax is Cmax then is approximately 300 ng/ml [A20328]. Steady-state plasma concentrations of nicorandil usually are reached within approximately 96-120 h after twice daily dosing (10 or 20mg) [L887]. ",
+    "metabolism": "Nicorandil undergoes extensive hepatic metabolism [L887]. The main biotransformation pathways of nicorandil are denitration, followed by subsequent nicotinamide metabolism. The main pharmacologically inactive denitrated metabolite 2-nicotinamidoethanol can be detected in the urine. The derivatives formed from the nicotinamide metabolism of denitrated products are nicotinuric acid, nicotinamide, N-methylnicotinamide and nicotinic acid [L887]. ",
+    "toxicity": "Common adverse effects include lethargy, back pain, chest pain, infection, feeling of weakness. In the cardiovascular system, hypotension, increased heart rate in higher doses, palpitations, worsened angina pectoris and vasodilation/flush may be observed. Dyspepsia, nausea, and vomiting may occur as gastrointestinal disorders. Headaches may arise from vasodilation. Other common side effects include myalgia, bronchitis, dyspnoea, and respiratory disorder [L887]. Nicorandil does not affect fertility of male or female rats, and shows no potential in carcinogenic, mutagenic or genotoxic studies [L887]. Oral LD50 values in mouse, rat and dog are 626 mg/kg, 1220 mg/kg and 62.5 mg/kg, respectively [MSDS]. ",
+    "targets": [
+        [
+            "ABCC9",
+            "ATP-binding cassette sub-family C member 9",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,65 @@
+{
+    "pharmgkb_id": "PA449533",
+    "drugbank_id": "DB00593",
+    "names": [
+        "Ethosuximide",
+        "Emeside",
+        "Ethymal",
+        "Etoxin",
+        "Petimid",
+        "Petinimid",
+        "Petnidan",
+        "Suxilep",
+        "Suxinutin",
+        "Zarondan"
+    ],
+    "description": "An anticonvulsant especially useful in the treatment of absence seizures unaccompanied by other types of seizures.",
+    "indication": "For the treatment of petit mal epilepsy.",
+    "pharmacodynamics": "Used in the treatment of epilepsy. Ethosuximide suppresses the paroxysmal three cycle per second spike and wave activity associated with lapses of consciousness which is common in absence (petit mal) seizures. The frequency of epileptiform attacks is reduced, apparently by depression of the motor cortex and elevation of the threshold of the central nervous system to convulsive stimuli.",
+    "mechanism-of-action": "Binds to T-type voltage sensitive calcium channels. Voltage-sensitive calcium channels (VSCC) mediate the entry of calcium ions into excitable cells and are also involved in a variety of calcium-dependent processes, including muscle contraction, hormone or neurotransmitter release, gene expression, cell motility, cell division and cell death. The isoform alpha-1G gives rise to T-type calcium currents. T-type calcium channels belong to the \"low-voltage activated (LVA)\" group and are strongly blocked by mibefradil. A particularity of this type of channels is an opening at quite negative potentials and a voltage-dependent inactivation. T-type channels serve pacemaking functions in both central neurons and cardiac nodal cells and support calcium signaling in secretory cells and vascular smooth muscle. They may also be involved in the modulation of firing patterns of neurons which is important for information processing as well as in cell growth processes.",
+    "absorption": "Bioavailability following oral administration is 93%.",
+    "metabolism": "Hepatic, via CYP3A4 and CYP2E1.",
+    "toxicity": "Acute overdoses may produce nausea, vomiting, and CNS depression including coma with respiratory depression.",
+    "targets": [
+        [
+            "CACNA1G",
+            "Voltage-dependent T-type calcium channel subunit alpha-1G",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

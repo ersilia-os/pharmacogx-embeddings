@@ -1,0 +1,83 @@
+{
+    "pharmgkb_id": "PA166272921",
+    "drugbank_id": "DB14973",
+    "names": [
+        "Abrocitinib"
+    ],
+    "description": "Abrocitinib is an oral small-molecule inhibitor of Janus kinase 1 (JAK1). Janus kinases are intracellular enzymes involved in transduction pathways that regulate hematopoiesis and immune cell function.[L39774] The Janus kinase (JAK)\u2013signal transducer and activator of transcription (STAT) signalling pathway plays a central role in the pathogenesis of a variety of autoimmune and inflammatory diseases, including atopic dermatitis, a chronic inflammatory skin disease with complex pathogenesis. Atopic dermatitis is characterized by epidermal hyperplasia, skin barrier dysfunction, and the aberrant activation of immune cells. Patients with moderate-to-severe atopic dermatitis report reduced quality of life and often face limited treatment options. JAK inhibitors recently attracted more attention as potential treatments for inflammatory disorders, as JAK inhibition is associated with rapid and sustained anti-inflammatory efects.[A244549]\r\n\r\nAbrocitinib was approved by the European Commission on December 10, 2021, for the treatment of moderate-to-severe atopic dermatitis (AD) in adults who are candidates for systemic therapy.[L39784] On January 14, 2022, the FDA approved abrocitinib for the treatment of refractory, moderate-to-severe AD in adults whose disease is not adequately controlled with other systemic drug products, including biologics, or when the use of those therapies is inadvisable.[L39779] Health Canada also approved the use of abrocitinib in pediatric patients 12 years and older.[L42395]",
+    "indication": "Abrocitinib is indicated for the treatment of moderate-to-severe atopic dermatitis in adults who are candidates for systemic therapy.[L39774] In the US, it is indicated to treat refractory, moderate-to-severe atopic dermatitis whose disease is not adequately controlled with other systemic drug products, including biologics, or when the use of those therapies is inadvisable.[L39769]\r\n\r\nAbrocitinib is not recommended for use in combination with other JAK inhibitors, biologic immunomodulators, or other immunosuppressants.[L39769]",
+    "pharmacodynamics": "Abrocitinib mediates anti-inflammatory effects by blocking the signalling of pro-inflammatory cytokines implicated in atopic dermatitis.[A244554] It dose-dependently reduces the serum markers of inflammation in atopic dermatitis, including high sensitivity C-reactive protein (hsCRP), interleukin-31 (IL-31), and thymus and activation regulated chemokine (TARC). These changes returned to near baseline within four weeks following drug discontinuation.[L39769] At two weeks of treatment, the mean absolute lymphocyte count increased, which returned to baseline by nine months of treatment. Treatment with abrocitinib was associated with a dose-related increase in B cell counts and a dose-related decrease in NK cell counts: the clinical significance of these changes is unknown.[L39774]\r\n\r\nTreatment with 200 mg abrocitinib once-daily was associated with a transient, dose-dependent decrease in platelet count with the nadir occurring at a median of 24 days. Recovery of platelet count (~40% recovery by 12 weeks) occurred without discontinuation of the treatment.[L39769]",
+    "mechanism-of-action": "Janus kinases (JAKs) are a family consisting of four receptor-associated kinases - JAK1, JAK2, JAK3, and tyrosine kinase 2 (TYK2). Upon ligand binding and subsequent dimerization of cytokine and hormone receptors, receptor-associated JAKs are activated and phosphorylated. This allows the binding of Signal Transducers and Activators of Transcription (STATs), which are transcription factors. STAT binds to the receptor, and JAK phosphorylates and activates STAT to create a STAT dimer. The STAT dimer translocates to the nucleus to upregulate the gene transcription of pro-inflammatory cytokines and growth factors implicated in atopic dermatitis.[A183188,A244549] Blocking the JAK-STAT pathway is advantageous, as it is an intracellular signalling pathway where many pro-inflammatory pathways converge.[A244554]\r\n\r\nEach JAK plays a role in the signalling and regulation of different cytokines and immune cells. In atopic dermatitis, JAK1 is the therapeutic target of focus as it is involved in the signalling of the \u03b3c family of cytokines involved in immune responses and disease pathophysiology, including IL-2, IL-4, IL-7, IL-9, and IL-15.[A244549] Abrocitinib reversibly inhibits JAK1 by blocking the adenosine triphosphate (ATP) binding site. Biochemical assays demonstrate that abrocitinib is selective for JAK1 over JAK2 (28-fold), JAK3 (>340-fold), and tyrosine kinase (TYK) 2 (43-fold), as well as the broader kinome.[L39769] Similarly, in cellular settings, abrocitinib preferentially inhibited cytokine-induced STAT phosphorylation by signalling pairs involving JAK1, while sparing signalling by JAK2/JAK2, or JAK2/TYK2 pairs.[L39774] The relevance of inhibition of specific JAK enzymes to the drug's therapeutic effectiveness is currently unknown.[L39769]",
+    "absorption": "Abrocitinib is absorbed with over 91% extent of oral absorption and absolute oral bioavailability of approximately 60%. The peak plasma concentrations of abrocitinib are reached within one hour. Steady-state plasma concentrations of abrocitinib are achieved within 48 hours after once-daily administration. Both C<sub>max</sub> and AUC of abrocitinib increased dose proportionally up to 200 mg.[L39769]\r\n\r\nA high-fat meal, high-calorie meal increased AUC by 26% and C<sub>max</sub> by 29%, and prolongs T<sub>max</sub> by two hours; however, there are ultimately no clinically relevant effect on abrocitinib exposures.[L39769]",
+    "metabolism": "Abrocitinib undergoes CYP-mediated oxidative metabolism. CYP2C19 is the predominant enzyme, accounting for about 53% of drug metabolism. CYP2C9 is responsible for 30% of drug metabolism. About 11% and 6% of the drug is metabolized by CYP3A4 and CYP2B6, respectively. In a human radiolabeled study, the parent drug was the most prevalent circulating species. Polar mono-hydroxylated metabolites of abrocitinib - M1 (3-hydroxypropyl; PF-06471658), M2 (2-hydroxypropyl; PF-07055087), and M4 (pyrrolidinone pyrimidine; PF-07054874) - were also identified in the systemic circulation.[L39769,L39774] M2 has a chiral center, thus has an enantiomer M3 (PF-07055090).[A244544] At steady state, M2 and M4 are major metabolites and M1 is a minor metabolite.[L39774]\r\n\r\nM2 has a pharmacological activity comparable to abrocitinib while M1 is less pharmacologically active than abrocitinib. M3 and M4 are inactive metabolites. The pharmacologic activity of abrocitinib is attributable to the unbound exposures of the parent molecule (~60%) as well as M1 (~10%) and M2 (~30%) in the systemic circulation. The sum of unbound exposures of abrocitinib, M1 and M2, each expressed in molar units and adjusted for relative potencies, is referred to as the abrocitinib active moiety.[L39774]",
+    "toxicity": "There is no experience regarding human overdosage with abrocitinib.[L39769] In clinical trials, there were no specific toxicities observed when abrocitinib was administered in single oral doses of 800 mg and 400 mg daily for 28 days. An overdose should be responded with symptomatic and supportive treatment, as there is no specific antidote for overdose with abrocitinib.[L39774]",
+    "targets": [
+        [
+            "JAK1",
+            "Tyrosine-protein kinase JAK1",
+            "Humans"
+        ],
+        [
+            "JAK2",
+            "Tyrosine-protein kinase JAK2",
+            "Humans"
+        ],
+        [
+            "JAK3",
+            "Tyrosine-protein kinase JAK3",
+            "Humans"
+        ],
+        [
+            "TYK2",
+            "Non-receptor tyrosine-protein kinase TYK2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

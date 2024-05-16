@@ -1,0 +1,48 @@
+{
+    "pharmgkb_id": "PA162363968",
+    "drugbank_id": "DB00480",
+    "names": [
+        "Lenalidomide",
+        "Ladevina",
+        "Lenangio"
+    ],
+    "description": "Lenalidomide (previously referred to as CC-5013) is an immunomodulatory drug with potent antineoplastic, anti-angiogenic, and anti-inflammatory properties.[A228553] It is a 4-amino-glutamyl analogue of [thalidomide] [A228543] and like thalidomide, lenalidomide exists as a racemic mixture of the active S(-) and R(+) forms.[A228708] However, lenalidomide is much safer and potent than thalidomide, with fewer adverse effects and toxicities.[A714, A228543] Thalidomide and its analogues, including lenalidomide, are referred to as immunomodulatory imide drugs (also known as cereblon modulators), which are a class of immunomodulatory drugs that contain an imide group. Lenalidomide works through various mechanisms of actions that promote malignant cell death and enhance host immunity.[A228708] Available as oral capsules, lenalidomide is approved by the FDA and EU for the treatment of multiple myeloma, myelodysplastic syndromes, mantle cell lymphoma, follicular lymphoma, and marginal zone lymphoma in selected patients.[L16028] Due to severe teratogenicity, pregnancy must be excluded before the start of treatment and patients must enroll in the lenalidomide Risk Evaluation and Mitigation Strategy (REMS) program to ensure contraception adherence.[A228708]",
+    "indication": "Lenalidomide is indicated for the treatment of adult patients with multiple myeloma (MM) in combination with dexamethasone. It is also indicated as maintenance therapy in multiple myeloma following autologous hematopoietic stem cell transplantation (auto-HSCT).\r\n\r\nIt is indicated for the treatment of adult patients with transfusion-dependent anemia due to low- or intermediate-1-risk myelodysplastic syndromes (MDS) associated with a deletion 5q cytogenetic abnormality with or without additional cytogenetic abnormalities.\r\n\r\nLenalidomide is indicated for the treatment of adult patients with mantle cell lymphoma (MCL) whose disease has relapsed or progressed after two prior therapies, one of which included bortezomib.\r\n\r\nIn combination with a rituximab product, lenalidomide is indicated for the treatment of adult patients with previously treated follicular lymphoma (FL) or previously treated marginal zone lymphoma (MZL).[L16028]",
+    "pharmacodynamics": "In hematological malignancies, the immune system is deregulated in the form of altered cytokine networks in the tumour microenvironment, defective T cell regulation of host-tumour immune interactions, and diminished NK cell activity.[A228543] Lenalidomide is an immunomodulatory agent with antineoplastic, antiangiogenic, and anti-inflammatory properties.[A228628] Lenalidomide exerts direct cytotoxicity by increasing apoptosis and inhibiting the proliferation of hematopoietic malignant cells.[A228708] It delays tumour growth in nonclinical hematopoietic tumour models _in vivo_, including multiple myeloma.[L16028] Lenalidomide also works to limit the invasion or metastasis of tumour cells and inhibits angiogenesis.[A228708]\r\n\r\nLenalidomide also mediates indirect antitumour effects via its immunomodulatory actions: it inhibits the production of pro-inflammatory cytokines, which are implicated in various hematologic malignancies. Lenalidomide enhances the host immunity by stimulating T cell proliferation and enhancing the activity of natural killer (NK) cells.[A713, A228703, A228708] Lenalidomide is about 100\u20131000 times more potent in stimulating T cell proliferation than [thalidomide].[A228543] _In vitro_, it enhances antibody-dependent cell-mediated cytotoxicity (ADCC), which is even more pronounced when used in combination with rituximab.[L16028] Due to its anti-inflammatory properties, lenalidomide has been investigated in the context of inflammatory and autoimmune diseases, such as amyotrophic lateral sclerosis.[A229418] ",
+    "mechanism-of-action": "Lenalidomide is a drug with multiple mechanisms of action. Lenalidomide exerts immunomodulating effects by altering cytokine production, regulating T cell co-stimulation, and enhancing the NK cell-mediated cytotoxicity.[A228543] Lenalidomide directly inhibits the cullin ring E3 ubiquitin ligase complex: upon binding to cereblon, a substrate adaptor of the complex, lenalidomide modulates substrate specificity of the complex to recruit substrate proteins of the ligase, including Ikaros (IKZF1), Aiolos (IKZF3), and CK1\u03b1.[L16028] These substrates are then tagged for ubiquitination and subsequent proteasomal degradation. IKZF1 and IKZF3 are B-cell transcription factors that are essential for B-cell differentiation and survival of malignant cells. IKZF3 also regulates the expression of interferon regulatory factor 4 (IRF4), which is a transcription factor that regulates the aberrant myeloma-specific gene. The immunomodulatory actions of lenalidomide can be partly explained by the degradation of IKZF3, since it is a repressor of the interleukin 2 gene (IL2): as lenalidomide decreases the level of IKZF3, the production of IL-2 increases, thereby increasing the proliferation of natural killer (NK), NKT cells, and CD4+ T cells.[A228703] Lenalidomide inhibits the production of pro-inflammatory cytokines TNF-\u03b1, IL-1, IL-6, and IL-12, while elevating the production of anti-inflammatory cytokine IL-10.[A228543] Lenalidomide acts as a T-cell co-stimulatory molecule that promotes CD3 T-cell proliferation and increases the production of IL-2 and IFN-\u03b3 in T lymphocytes, which enhances NK cell cytotoxicity and ADCC. It inhibits the expression and function of T-regulatory cells, which are often overabundant in some hematological malignancies.[A228708] \r\n\r\nLenalidomide directly exerts antitumour effects by inhibiting the proliferation and inducing apoptosis of tumour cells. Lenalidomide triggers the activation of pro-apoptotic caspase-8, enhances tumour cell sensitivity to FAS-induced apoptosis, and downregulates NF-\u03baB, an anti-apoptotic protein.[A228708] Independent of its immunomodulatory effects, lenalidomide mediates anti-angiogenic effects by inhibiting angiogenic growth factors released by tumour cells, such as vascular endothelial growth factor (VEGF), basic fibroblastic-growth factor (BFGF), and hepatocyte-growth factor. _In vitro_, lenalidomide inhibits cell adhesion molecules such as ICAM-1, LFA-1, \u03b22 and \u03b23 integrins, as well as gap-junction function, thereby preventing metastasis of malignant cells.[A228708] ",
+    "absorption": "Following oral administration, lenalidomide is rapidly absorbed with high bioavailability.[A228628] It has a T<sub>max</sub> ranging from 0.5 to six hours. Lenalidomide exhibits a linear pharmacokinetic profile, with its AUC and C<sub>max</sub> increasing proportionally with dose. Multiple dosing does not result in drug accumulation.[L16028] In healthy male subjects, the C<sub>max</sub> was 413 \u00b1 77 ng/ml and the AUC<sub>infinity</sub> was 1319 \u00b1 162 h x ng/ml.[A228628]",
+    "metabolism": "Lenalidomide is not subject to extensive hepatic metabolism involving CYP enzymes and metabolism contributes to a very minor extent to the clearance of lenalidomide in humans. Lenalidomide undergoes hydrolysis in human plasma to form 5-hydroxy-lenalidomide and N-acetyl-lenalidomide.[A228628] Unchanged lenalidomide is the predominant circulating drug form, with metabolites accounting for less than five percent of the parent drug levels in the circulation.[L16028]",
+    "toxicity": "The lowest lethal dose (LDLo) in rats is >2000 mg/kg following oral administration and >40 mg/kg following intravenous administration.[L31613] The oral Lowest published toxic dose (TDLo) in humans is 9 mg/kg/4W (intermittent).[L31623]\r\n\r\nThere is limited clinical experience in managing lenalidomide overdose. In single-dose studies, healthy subjects have been exposed to doses up to 400 mg. In clinical trials, the dose-limiting toxicity was neutropenia and thrombocytopenia. Toxicities associated with lenalidomide, some leading to fatality, include embryo-fetal toxicity, neutropenia, thrombocytopenia, venous (deep vein thrombosis and pulmonary embolism) and arterial thromboembolic events (myocardial infarction and stroke), serious adverse cardiovascular reactions, second primary malignancies, hepatotoxicity, severe cutaneous reactions, tumour lysis syndrome, tumour flare reaction, hypothyroidism, and hyperthyroidism.[L16028]",
+    "targets": [
+        [
+            "CRBN",
+            "Protein cereblon",
+            "Humans"
+        ],
+        [
+            "TNFSF11",
+            "Tumor necrosis factor ligand superfamily member 11",
+            "Humans"
+        ],
+        [
+            "CDH5",
+            "Cadherin-5",
+            "Humans"
+        ],
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

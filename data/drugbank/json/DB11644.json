@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "PA166184562",
+    "drugbank_id": "DB11644",
+    "names": [
+        "Tafamidis"
+    ],
+    "description": "Tafamidis and tafamidis meglumine (FX-1006A) are benzoxazole derivatives[A27206] developed by FoldRX.[A189717] Tafamidis is structurally similar to diflusinal.[A189717]\r\n\r\nTafamidis was granted an EMA market authorisation on 16 November 2011[L6247] and FDA approval on 3 May 2019.[L11280]",
+    "indication": "Tafamidis is indicated to treat cardiomyopathy of wild type or hereditary transthyretin-mediated amyloidosis in adults.[A189708,A189711,L11280]",
+    "pharmacodynamics": "Tafamidis stabilizes transthyretin tetramers, reducing the amount of monomers available for amyloidogenesis.[L11280] It has a long duration of action as it is given once daily, and a wide therapeutic window.[L11280]",
+    "mechanism-of-action": "Genetic mutations or natural misfolding of transthyretin destabalizes transthyretin tetramers, leading to their dissociation and aggregation in tissues, and disrupting the normal function of these tissues.[A189711,A27206] Tafamidis binds to transthyretin tetramers at the thyroxin binding sites, stabilizing the tetramer, reducing the availability of monomers for amyloidogenesis.[A27206,L6247,L11280]",
+    "absorption": "Tafamidis reaches a C<sub>max</sub> of 1430.93ng/mL with a T<sub>max</sub> of 1.75h fasted and 4h fed.[A27206] The AUC of tafamidis is 47,864.31ng\\*h/mL.[A27206]",
+    "metabolism": "Tafamidis is largely not subject to first pass or oxidative metabolism, being 90% unchanged after in in vitro experiments.[A189744] Preclinical data suggest tafamidis is mainly metabolized through glucuronidation and excreted in bile.[L11280]",
+    "toxicity": "Data regarding overdoses of tafamidis are not readily available.[L11280] In a clinical trial, some patients were given up to 6 times the normal dose with one reported case of mild hordeolum.[L11280]",
+    "targets": [
+        [
+            "TTR",
+            "Transthyretin",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

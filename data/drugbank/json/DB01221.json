@@ -1,0 +1,168 @@
+{
+    "pharmgkb_id": "PA450144",
+    "drugbank_id": "DB01221",
+    "names": [
+        "Ketamine",
+        "Ketaject",
+        "Ketanest"
+    ],
+    "description": "Ketamine is an NMDA receptor antagonist with a potent anesthetic effect.[A31869] It was developed in 1963 as a replacement for phencyclidine (PCP) by Calvin Stevens at Parke Davis Laboratories. It started being used for veterinary purposes in Belgium and in 1964 was proven that compared to PCP, it produced minor hallucinogenic effects and shorter psychotomimetic effects. It was FDA approved in 1970, and from there, it has been used as an anesthetic for children or patients undergoing minor surgeries but mainly for veterinary purposes.[L1332]",
+    "indication": "Ketamine is indicated as an anesthetic agent for recommended diagnostic and surgical procedures. If skeletal muscle relaxation is needed, it should be combined with a muscle relaxant. If the surgical procedure involves visceral pain, it should be supplemented with an agent that obtunds visceral pain. Ketamine can be used for induction of anesthesia prior other general anesthetic agents and as a supplement of low potency agents.[L1336, FDA label]\r\n\r\nReports have indicated a potential use of ketamine as a therapeutic tool for the management of depression when administered in lower doses.[A31873] These reports have increased the interest for ketamine in this area and several clinical trials are launched for this indication.[L1337, A31874]",
+    "pharmacodynamics": "Ketamine is a rapid-acting general anesthetic producing an anesthetic state characterized by profound analgesia, normal pharyngeal-laryngeal reflexes, normal or slightly enhanced skeletal muscle tone, cardiovascular and respiratory stimulation, and occasionally a transient and minimal respiratory depression. The anesthetic state produced by Ketamine has been termed as \"dissociative anesthesia\" in that it appears to selectively interrupt association pathways of the brain before producing somesthetic sensory blockade. It may selectively depress the thalamoneocortical system before significantly obtunding the more ancient cerebral centers and pathways (reticular-activating and limbic systems).[A2180]\r\n\r\nKetamine enhances descending inhibiting serotoninergic pathways and can exert antidepressive effects. These effects are seen in concentrations ten times lower than the needed concentration for anesthetic proposes. The effect of ketamine can be described as analgesic by the prevention of central sensitization in dorsal horn neurons as well as by the inhibition on the synthesis of nitric oxide. Ketamine can present cardiovascular changes and bronchodilatation.[A31879]",
+    "mechanism-of-action": "Ketamine interacts with N-methyl-D-aspartate (NMDA) receptors, opioid receptors, monoaminergic receptors, muscarinic receptors and voltage sensitive Ca ion channels. Unlike other general anaesthetic agents, ketamine does not interact with GABA receptors.[A2187]",
+    "absorption": "Ketamine absorption is very rapid and the bioavailability is around 93%. After the first pass metabolism, only 17% of the administered dose is absorbed.[A31883] It distributes very rapidly and presents a distribution half-life of 1.95 min.[A31887] The Cmax levels at peak reach 0.75 mcg/ml in plasma and 0.2 mcg/ml in cerebrospinal fluid.[L1336]",
+    "metabolism": "Ketamine presents a mainly hepatic metabolism and its major metabolite is norketamine. The biotransformation of ketamine corresponds to N-dealkylation, hydroxylation of the cyclohexone ring, conjugation to glucuronic acid and dehydration of the hydroxylated metabolites for the formation of cyclohexene derivatives.[A31883]",
+    "toxicity": "Preclinical studies related to the blocking of NMDA receptors have shown an increase in apoptosis in the developing brain which results in cognitive deficits when used for longer than 3 hours. Toxicity studies regarding carcinogenesis have not been performed. Regarding mutagenesis and fertility, ketamine showed to be clastogenic and to not have effects on fertility.[FDA label]",
+    "targets": [
+        [
+            "GRIN3A",
+            "Glutamate receptor ionotropic, NMDA 3A",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ],
+        [
+            "NOS1",
+            "Nitric oxide synthase, brain",
+            "Humans"
+        ],
+        [
+            "TACR1",
+            "Neurokinin 1 receptor",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine receptor 2",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1",
+            "Humans"
+        ],
+        [
+            "HTR1E",
+            "5-hydroxytryptamine receptor 1",
+            "Humans"
+        ],
+        [
+            "HTR1F",
+            "5-hydroxytryptamine receptor 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

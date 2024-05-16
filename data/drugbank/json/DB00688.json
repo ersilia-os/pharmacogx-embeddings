@@ -1,0 +1,124 @@
+{
+    "pharmgkb_id": "PA450566",
+    "drugbank_id": "DB00688",
+    "names": [
+        "Mycophenolate mofetil",
+        "CellCept  Oral Suspension ",
+        "CellCept Intravenous"
+    ],
+    "description": "Mycophenolate mofetil, also known as MMF or CellCept, is a prodrug of mycophenolic acid, and classified as a reversible inhibitor of inosine monophosphate dehydrogenase (IMPDH).[A180805] This drug is an immunosuppressant combined with drugs such as [Cyclosporine] and corticosteroids to prevent organ rejection after hepatic, renal, and cardiac transplants.[L7363] It is marketed by Roche Pharmaceuticals and was granted FDA approval for the prophylaxis of transplant rejection in 1995.[A180826] In addition to the above uses, mycophenolate mofetil has also been studied for the treatment of nephritis and other complications of autoimmune diseases. Unlike another immunosuppressant class, the calcineurin inhibitors, MMF generally does not cause nephrotoxicity or fibrosis.[A180799,A180805]\r\n\r\nPreviously, mycophenolic acid (MPA) was administered to individuals with autoimmune diseases beginning in the 1970s, but was discontinued due to gastrointestinal effects and concerns over carcinogenicity.[A180826] The new semi-synthetic 2-morpholinoethyl ester of MPA was synthesized to avoid the gastrointestinal effects associated with the administration of MPA. It demonstrates an increased bioavailability, a higher efficacy, and reduced gastrointestinal effects when compared to MPA.[A180826]",
+    "indication": "Mycophenolate mofetil is indicated in combination with other immunosuppressants to prevent the rejection of kidney, heart, or liver transplants in adult and pediatric patients \u22653 months old.[L42020] Mycophenolate mofetil may also be used off-label as a second-line treatment for autoimmune hepatitis that has not responded adequately to first-line therapy.[A180814] Other off-label uses of this drug include lupus-associated nephritis and dermatitis in children.[A180817]",
+    "pharmacodynamics": "Mycophenolate mofetil is a prodrug of mycophenolic acid (MPA). The active form of mycophenolate, MPA, prevents the proliferation of immune cells and the formation of antibodies that cause transplant rejection.[A180805] The above effects lead to higher rates of successful transplantation, avoiding the devastating effects of graft rejection.\r\n\r\n",
+    "mechanism-of-action": "The active metabolite of mycophenolate, mycophenolic acid, prevents T-cell and B-cell proliferation and the production of cytotoxic T-cells and antibodies. Lymphocyte and monocyte adhesion to endothelial cells of blood vessels that normally part of inflammation is prevented via the glycosylation of cell adhesion molecules by MPA.[A180892] MPA inhibits de novo purine biosynthesis (that promotes immune cell proliferation) by inhibiting inosine 5\u2019-monophosphate dehydrogenase enzyme (IMPDH), with a preferential inhibition of IMPDH II.[A180826] IMPDH normally transforms inosine monophosphate (IMP) to xanthine monophosphate (XMP), a metabolite contributing to the production of guanosine triphosphate (GTP).[A180799,A180805,A180817] GTP is an important molecule for the synthesis of ribonucleic acid (RNA), deoxyribonucleic acid (DNA), and protein. As a result of the above cascade of effects, mycophenolate mofetil reduces de-novo production of guanosine nucleotides, interfering with the synthesis of DNA, RNA, and protein required for immune cell production.[A180826] Further contributing to the above anti-inflammatory effects, MMF depletes tetrahydrobiopterin, causing the decreased function of inducible nitric oxide synthase enzyme, in turn decreasing the production of peroxynitrite, a molecule that promotes inflammation.[A180907]",
+    "absorption": "Mycophenolate mofetil is rapidly absorbed in the small intestine.[L7363,A180898] The maximum concentration of its active metabolite, MPA, is attained 60 to 90 minutes following an oral dose.[A180826] The average bioavailability of orally administered mycophenolate mofetil in a pharmacokinetic study of 12 healthy patients was 94%. In healthy volunteers, the Cmax of mycophenolate mofetil was 24.5 (\u00b19.5)\u03bcg/mL.[L7363] In renal transplant patients 5 days post-transplant, Cmax was 12.0 (\u00b13.82) \u03bcg/mL, increasing to 24.1 (\u00b112.1)\u03bcg/mL 3 months after transplantation. AUC values were 63.9 (\u00b116.2) \u03bcg\u2022h/mL in healthy volunteers after one dose, and 40.8 (\u00b111.4) \u03bcg\u2022h/mL, and 65.3 (\u00b135.4)\u03bcg\u2022h/mL 5 days and 3 months after a renal transplant, respectively.[L7363] The absorption of mycophenolate mofetil is not affected by food.[A180826]",
+    "metabolism": "After both oral and intravenous administration mycophenolate mofetil is entirely metabolized by liver carboxylesterases 1 and 2 to mycophenolic acid (MPA), the active parent drug. It is then metabolized by the enzyme glucuronyl transferase, producing the inactive phenolic glucuronide of MPA (MPAG).[L7363]   The glucuronide metabolite is important, as it is then converted to MPA through enterohepatic recirculation. Mycophenolate mofetil that escapes metabolism in the intestine enters the liver via the portal vein and is transformed to pharmacologically active MPA in the liver cells.[A180898]N-(2-carboxymethyl)-morpholine, N-(2-hydroxyethyl)-morpholine, and the N-oxide portion of N-(2-hydroxyethyl)-morpholine are additional metabolites of MMF occurring in the intestine as a result of liver carboxylesterase 2 activity.[A180898,L7363] UGT1A9 and UGT2B7 in the liver are the major enzymes contributing to the metabolism of MPA in addition to other UGT enzymes, which also play a role in MPA metabolism. The four major metabolites of MPA are 7-O-MPA-\u03b2-glucuronide (MPAG, inactive), MPA acyl-glucuronide (AcMPAG), produced by uridine 5\u02b9-diphosphate glucuronosyltransferases (UGT) activities, 7-O-MPA glucoside produced via UGT, and small amounts 6-O-des-methyl-MPA (DM-MPA) via CYP3A4/5 and CYP2C8 enzymes.[A180826] ",
+    "toxicity": "LD50\r\n\r\nThe LD50 of oral mycophenolate mofetil in rats is 250 mg/kg and >4000 mg/kg in mice.[L7366]\r\n\r\n**Overdose information**\r\n\r\n Possible signs and symptoms of acute overdose may consist of hematological abnormalities including leukopenia and neutropenia, and gastrointestinal symptoms.[A180826,A180829,A180832]",
+    "targets": [
+        [
+            "IMPDH1",
+            "Inosine-5'-monophosphate dehydrogenase 1",
+            "Humans"
+        ],
+        [
+            "IMPDH2",
+            "Inosine-5'-monophosphate dehydrogenase 2",
+            "Humans"
+        ],
+        [
+            "PTS",
+            "6-pyruvoyl tetrahydrobiopterin synthase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A7",
+            "UDP-glucuronosyltransferase 1-7",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferase 1-6",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferase 1-8",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferase 1-10",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CES2",
+            "Carboxylic ester hydrolase",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

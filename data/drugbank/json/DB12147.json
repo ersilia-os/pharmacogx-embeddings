@@ -1,0 +1,98 @@
+{
+    "pharmgkb_id": "PA166182720",
+    "drugbank_id": "DB12147",
+    "names": [
+        "Erdafitinib"
+    ],
+    "description": "In early April of 2019, the US FDA approved Janssen Pharmaceutical Companies' brand name Balversa (erdafitinib) as the first-ever fibroblast growth factor receptor (FGFR) kinase inhibitor indicated for patients with locally advanced or metastatic urothelial carcinoma, with susceptible FGFR3 or FGFR2 genetic alterations, that has progressed during or following platinum-containing chemotherapy, including within 12 months of neoadjuvant or adjuvant platinum-containing chemotherapy. [L5956, L5959] At the same time, the FDA also approved the therascreen FGFR RGQ RT-PCR Kit (Qiagen) for utilization as a companion diagnostic with erdafitinib for selecting patients for the indicated therapy [L5956, L5959].\r\n\r\nErdafitinib is the first personalized treatment targeting susceptible FGFR genetic alterations for patients with metastatic bladder cancer, which demonstrates the development of more personalized and precise medicines tailoring to a patient's specific genetic mutation.[L5956, L5959] Considering urothelial cancer is statistically the fourth most common kind of cancer in the world, the introduction of erdafitinib offers a much-needed new option in the ever-expanding therapeutic tool kit to treat such a prevalent medical condition.[F4372]",
+    "indication": "Erdafitinib is a pan-fibroblast growth factor receptor (FGFR) tyrosine kinase inhibitor that is indicated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma that has susceptible FGFR3 or FGFR2 genetic alterations and has progressed during or following at least one line of prior platinum-containing chemotherapy including within 12 months of neoadjuvant or adjuvant platinum-containing chemotherapy.[A177109, A177112, A177115,L45648]\r\n\r\nThe selection of patients for the treatment of locally advanced or metastatic urothelial carcinoma with erdafitinib should be based on the presence of susceptible FGFR genetic alterations in tumor specimens as detected by an FDA-approved companion diagnostic like the FDA-approved therascreen FGFR RGQ RT-PCR Kit as developed by QIAGEN.[L45648]\r\n\r\nThis above indication is approved under accelerated approval by the FDA based on tumor response rate. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.[L45648]",
+    "pharmacodynamics": "Upon administration, it was observed that erdafitinib increased serum phosphate levels as a consequence of FGFR inhibition. Erdafitinib should be increased to the maximum recommended dose to achieve target serum phosphate levels of 5.5\u2013 7.0 mg/dL in early cycles with continuous daily dosing.[A177109,A177115,L45648]\r\n\r\nSubsequently, in erdafitinib clinical trials, the use of drugs that could increase serum phosphate levels, such as potassium phosphate supplements, vitamin D supplements, antacids, phosphate-containing enemas or laxatives, and medications known to have phosphate as an excipient were prohibited unless no alternatives existed.[A177109, A177115,L45648] To manage phosphate elevation, phosphate binders were utilized. Additionally, the concomitant use of agents that can alter serum phosphate levels before the initial erdafitinib dose increase period based on serum phosphate levels was also avoided.[A177109, A177115,L45648]\r\n\r\nFurthermore, based on the evaluation of QTc interval in an open-label, dose escalation, and dose expansion study in 187 patients with cancer, erdafitinib had no large effect (i.e., > 20 ms) on the QTc interval.[L45648] ",
+    "mechanism-of-action": "Fibroblast growth factor receptor (FGFR) is a transmembrane protein that is expressed ubiquitously in normal tissues and is involved in various endogenous bio-physiological processes including the homeostasis of phosphate and vitamin D, cell proliferation, cell anti-apoptotic signaling, and cell migration in a variety of cell types.[A177109] Concurrently, genetic mutations such as gene amplification, point mutations, and chromosomal translocations of all four FGFR genes (FGFR1, FGFR2, FGFR3, and FGFR4) or deregulation of FGFR pathways have been implicated in the pathogenesis of various cancers, including urothelial cancer, as they promote cell proliferation, migration, angiogenesis, and anti-apoptosis.[A177109, L45648]\r\n\r\nErdafitinib is an oral selective pan-FGFR kinase inhibitor that binds to and inhibits the enzymatic activity of expressed FGFR1, FGFR2, FGFR3, and FGFR4 based on in vitro data.[L45648,A177109,A177115] In particular, erdafitinib demonstrates inhibition of FGFR phosphorylation and signaling as well as decreased cell viability in cell lines expressing FGFR genetic alterations.[A177109, A177115,L45648] Erdafitinib demonstrated antitumor activity in FGFR-expressing cell lines and xenograft models derived from tumor types, including bladder cancer.[A177109, A177115,L45648]",
+    "absorption": "Following administration of erdafitinib 8 mg once daily, the mean (coefficient of variation [CV%]) steady-state maximum observed plasma concentration (C<sub>max</sub>), area under the curve (AUC<sub>tau</sub>), and minimum observed plasma concentration (C<sub>min</sub>) were 1,399 ng/mL (51%), 29,268 ng\u00b7h/mL (60%), and 936 ng/mL (65%), respectively.[L45648]\r\n\r\nFollowing single and repeated once-daily dosing, erdafitinib exposure (maximum observed plasma concentration [C<sub>max</sub>] and area under the plasma concentration-time curve [AUC]) increased proportionally across the dose range of 0.5 to 12 mg (0.06 to 1.3 times the maximum approved recommended dose).[L45648] Steady-state was achieved after 2 weeks with once-daily dosing and the mean accumulation ratio was 4-fold.[L45648]\r\n\r\nThe median time to achieve peak plasma concentration (t<sub>max</sub>) was 2.5 hours (range: 2 to 6 hours).[L45648] No clinically meaningful differences with erdafitinib pharmacokinetics were observed following the administration of a high-fat and high-calorie meal (800 calories to 1,000 calories with approximately 50% of the total caloric content of the meal from fat) in healthy subjects.[L45648]  ",
+    "metabolism": "Erdafitinib is primarily metabolized by the cytochrome CYP2C9 and CYP3A4 isoenzymes in humans to form the O-demethylated major metabolite.[L45648, L45653]. The contribution of CYP2C9 and CYP3A4 in the total clearance of erdafitinib is estimated to be 39% and 20% respectively.[L45648] Unchanged erdafitinib was ultimately the predominant drug-related moiety found in the plasma - no circulating metabolites were observed.[L45648]",
+    "toxicity": "Based on the mechanism of action and findings in animal reproduction studies, erdafitinib can cause fetal harm when administered to a pregnant woman. There are no available data on erdafitinib use in pregnant women to inform a drug-associated risk. Oral administration of erdafitinib to pregnant rats during organogenesis caused malformations and embryo- fetal death at maternal exposures that were less than the human exposures at the maximum recommended human dose based on AUC. Advise pregnant women and females of reproductive potential of the potential risk to the fetus.[L49731]\r\n\r\nThere are no data on the presence of erdafitinib in human milk, or the effects of erdafitinib on the breastfed child, or on milk production. Because of the potential for serious adverse reactions from erdafitinib in a breastfed child, advise lactating women not to breastfeed during treatment with erdafitinib and for one month following the last dose.[L49731]\r\n\r\nPregnancy testing is recommended for females of reproductive potential prior to initiating treatment with erdafitinib.[L49731]\r\n\r\nErdafitinib can cause fetal harm when administered to a pregnant woman [FDA Label]. Advise females of reproductive potential to use effective contraception during treatment with erdafitinib and for one month after the last dose.[L49731]\r\n\r\nAdvise male patients with female partners of reproductive potential to use effective contraception during treatment with erdafitinib and for one month after the last dose.[L49731]\r\n\r\nBased on findings from animal studies, erdafitinib may impair fertility in females of reproductive potential.[L49731]\r\n\r\nSafety and effectiveness of erdafitinib in pediatric patients have not been established.[L49731]\r\n\r\nNo overall differences in safety or effectiveness were observed between these patients and younger patients in the use of erdafitinib.[L49731]\r\n\r\nErdafitinib plasma concentrations were predicted to be higher in patients with the CYP2C9*3/*3 genotype. Monitor for increased adverse reactions in patients who are known or suspected to have CYP2C9*3/*3 genotype.[L49731]\r\n\r\nCarcinogenicity studies have not been conducted with erdafitinib.[L49731]\r\n\r\nErdafitinib was not mutagenic in a bacterial reverse mutation (Ames) assay and was not clastogenic in an in vitro micronucleus or an in vivo rat bone marrow micronucleus assay.[L49731]\r\n\r\nFertility studies in animals have not been conducted with erdafitinib. In the 3-month repeat-dose toxicity study, erdafitinib showed effects on female reproductive organs (necrosis of the ovarian corpora lutea) in rats at an exposure less than the human exposure (AUC) at maximum recommended human dose.[L49731]",
+    "targets": [
+        [
+            "FGFR1",
+            "Fibroblast growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "FGFR2",
+            "Fibroblast growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FGFR3",
+            "Fibroblast growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "FGFR4",
+            "Fibroblast growth factor receptor 4",
+            "Humans"
+        ],
+        [
+            "RET",
+            "Proto-oncogene tyrosine-protein kinase receptor Ret",
+            "Humans"
+        ],
+        [
+            "CSF1R",
+            "Macrophage colony-stimulating factor 1 receptor",
+            "Humans"
+        ],
+        [
+            "PDGFRA",
+            "Platelet-derived growth factor receptor alpha",
+            "Humans"
+        ],
+        [
+            "PDGFRB",
+            "Platelet-derived growth factor receptor beta",
+            "Humans"
+        ],
+        [
+            "KIT",
+            "Mast/stem cell growth factor receptor Kit",
+            "Humans"
+        ],
+        [
+            "KDR",
+            "Vascular endothelial growth factor receptor 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

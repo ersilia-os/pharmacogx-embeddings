@@ -1,0 +1,60 @@
+{
+    "pharmgkb_id": "PA448519",
+    "drugbank_id": "DB00207",
+    "names": [
+        "Azithromycin",
+        "Azenil",
+        "Azibiot",
+        "Azifast",
+        "Azigram",
+        "Azimakrol",
+        "Azin",
+        "Azithrocin",
+        "Azitromax",
+        "Azitromin",
+        "Aztrin",
+        "Hemomycin",
+        "Misultina",
+        "Penalox",
+        "Sumamed",
+        "Vinzam",
+        "Zifin",
+        "Zitrocin",
+        "Zitrotek"
+    ],
+    "description": "Azithromycin is a broad-spectrum macrolide antibiotic with a long half-life and a high degree of tissue penetration [A174172]. It was initially approved by the FDA in 1991 [A174175].\r\n\r\nIt is primarily used for the treatment of respiratory, enteric and genitourinary infections and may be used instead of other macrolides for some sexually transmitted and enteric infections. It is structurally related to erythromycin [A174169].\r\n\r\nAzithromycin [9-deoxo-9a-aza-9a-methyl-9a-homoerythromycin] is a part of the _azalide_ subclass of macrolides, and contains a 15-membered ring, with a methyl-substituted nitrogen instead of a carbonyl group at the 9a position on the aglycone ring, which allows for the prevention of its metabolism. This differentiates azithromycin from other types of macrolides [A174175].\r\n\r\nIn March 2020, a small study was funded by the French government to investigate the treatment of COVID-19 with a combination of azithromycin and the anti-malaria drug [hydroxychloroquine]. The results were positive, all patients taking the combination were virologically cured within 6 days of treatment, however, larger studies are required.[A192546]",
+    "indication": "Azithromycin should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria in order to prevent the development antimicrobial resistance and maintain the efficacy of azithromycin [FDA label].\r\n\r\nAzithromycin is indicated for the treatment of patients with mild to moderate infections caused by susceptible strains of the microorganisms listed in the specific conditions below. Recommended dosages, duration of therapy and considerations for various patient populations may vary among these infections. Refer to the FDA label and \"Indications\" section of this drug entry for detailed information [FDA label]. \r\n\r\n**Adults**:\r\n\r\nAcute bacterial exacerbations of chronic obstructive pulmonary disease due to _Haemophilus influenzae_, _Moraxella catarrhalis_ or _Streptococcus pneumoniae_\r\n\r\nAcute bacterial sinusitis due to _Haemophilus influenzae_, _Moraxella catarrhalis_ or _Streptococcus pneumoniae_\r\n\r\nCommunity-acquired pneumonia due to _Chlamydophila pneumoniae_, _Haemophilus influenzae_, _Mycoplasma pneumoniae_ or _Streptococcus pneumoniae_ in patients appropriate for oral therapy\r\n\r\nPharyngitis/tonsillitis caused by _Streptococcus pyogenes_ as an alternative to first-line therapy in individuals who cannot use first-line therapy.\r\nUncomplicated skin and skin structure infections due to _Staphylococcus aureus_, _Streptococcus pyogenes_, or _Streptococcus agalactiae_. Abscesses usually require surgical drainage.\r\n\r\nUrethritis and cervicitis due to _Chlamydia trachomatis_ or _Neisseria gonorrhoeae_.\r\n\r\nGenital ulcer disease in men due to _Haemophilus ducreyi_ (chancroid). Due to the small number of women included in clinical trials, the efficacy of azithromycin in the treatment of chancroid in women has not been established.\r\n\r\n**Pediatric Patients**\r\n\r\nAcute otitis media caused by _Haemophilus influenzae_, _Moraxella catarrhalis_ or _Streptococcus pneumoniae_\r\n\r\nCommunity-acquired pneumonia due to _Chlamydophila pneumoniae_, _Haemophilus influenzae_, _Mycoplasma pneumoniae_ or _Streptococcus pneumoniae_ in patients appropriate for oral therapy.\r\n\r\nPharyngitis/tonsillitis caused by _Streptococcus pyogenes_ as an alternative to first-line therapy in individuals who cannot use first-line therapy.",
+    "pharmacodynamics": "Macrolides stop bacterial growth by inhibiting protein synthesis and translation, treating bacterial infections [A174175].\r\nAzithromycin has additional immunomodulatory effects and has been used in chronic respiratory inflammatory diseases for this purpose [A174172].\r\n\r\n",
+    "mechanism-of-action": "In order to replicate, bacteria require a specific process of protein synthesis, enabled by ribosomal proteins [A6505]. Azithromycin binds to the 23S rRNA of the bacterial 50S ribosomal subunit. It stops bacterial protein synthesis by inhibiting the transpeptidation/translocation step of protein synthesis and by inhibiting the assembly of the 50S ribosomal subunit [FDA label], [A14179]. This results in the control of various bacterial infections [A174193], [FDA label].   The strong affinity of macrolides, including azithromycin, for bacterial ribosomes, is consistent with their broad\u2010spectrum antibacterial activities [A174193].\r\n\r\n\r\nAzithromycin is highly stable at a low pH, giving it a longer serum half-life and increasing its concentrations in tissues compared to erythromycin [A174175]. \r\n\r\n",
+    "absorption": "Bioavailability of azithromycin is 37% following oral administration. Absorption is not affected by food.  Macrolide absorption in the intestines is believed to be mediated by P-glycoprotein (ABCB1) efflux transporters, which are known to be encoded by the _ABCB1_ gene [A174175]. ",
+    "metabolism": "In vitro and in vivo studies to assess the metabolism of azithromycin have not been performed [FDA label], however, this drug is eliminated by the liver [A174202], [FDA label].",
+    "toxicity": "**Rat Oral LD50**: >2000 mk/kg [MSDS]\r\n\r\nPossible major adverse effects include cardiovascular arrhythmias and hearing loss. Macrolide resistance is also an ongoing issue.[A174172] Hepatotoxicity has been observed in rare cases.[A174175]\r\n\r\n**A note on the risk of liver toxicity**:\r\n\r\nDue to the act that  azithromycin is mainly eliminated by the liver, caution should be observed when azithromycin is given to patients with decreased hepatic function [FDA label]. \r\n\r\n**A note on potential renal toxicity**:\r\n\r\nBecause limited data in patients with renal GFR <10 mL/min, caution should be exercised when prescribing azithromycin to these patients [FDA label].\r\n\r\n**Use in Pregnancy**:\r\n\r\nThis drug is categorized as a pregnancy category B drug. Reproduction studies have been done in rats and mice at doses up to moderately maternally toxic doses (for example, 200 mg/kg/day). These doses, based on a mg/m2 basis, are approximately 4 and 2 times, respectively, the human daily dose of 500 mg. In the animal studies, no harmful effects to the fetus due to azithromycin were observed. There are, at this time, no conclusive and well-controlled studies that have been done in pregnant women. Because animal reproduction studies do not always predict human response, azithromycin should be used during pregnancy only if clearly needed [FDA label].\r\n\r\n**Nursing Mothers**: \r\n\r\nIt is unknown at this time whether azithromycin is excreted in human milk. Because many other drugs are excreted in human milk, caution should be observed when azithromycin is given to a nursing woman [FDA label].\r\n\r\n**Carcinogenesis, Mutagenesis, Impairment of Fertility**: \r\n\r\nLong-term studies in animals have not been performed to study carcinogenic potential. Azithromycin has demonstrated no potential to be mutagenic in standard laboratory tests. No evidence of negative effects on fertility due to azithromycin was found [FDA label].",
+    "targets": [
+        [
+            "PADI4",
+            "Protein-arginine deiminase type-4",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

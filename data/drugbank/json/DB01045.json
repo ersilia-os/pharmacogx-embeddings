@@ -1,0 +1,180 @@
+{
+    "pharmgkb_id": "PA451250",
+    "drugbank_id": "DB01045",
+    "names": [
+        "Rifampicin",
+        "Rifadine",
+        "Rifaldin",
+        "Rifoldin",
+        "Rimactan",
+        "Rimactane",
+        "Rofact",
+        "Tubocin"
+    ],
+    "description": "A semisynthetic antibiotic produced from Streptomyces mediterranei. It has a broad antibacterial spectrum, including activity against several forms of Mycobacterium. In susceptible organisms it inhibits DNA-dependent RNA polymerase activity by forming a stable complex with the enzyme. It thus suppresses the initiation of RNA synthesis. Rifampin is bactericidal, and acts on both intracellular and extracellular organisms. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p1160)",
+    "indication": "Rifampin is indicated for the treatment of tuberculosis and tuberculosis-related mycobacterial infections.[L45374] In combination with pyrazinamide and isoniazid, it is used in the initial phase of the short-course treatment of pulmonary tuberculosis.[L45369]",
+    "pharmacodynamics": "Rifampin is an antibiotic that inhibits DNA-dependent RNA polymerase activity in susceptible cells. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme. It is bactericidal and has a very broad spectrum of activity against most gram-positive and gram-negative organisms (including <i>Pseudomonas aeruginosa</i>) and specifically <i>Mycobacterium tuberculosis</i>. Because of rapid emergence of resistant bacteria, use is restricted to treatment of mycobacterial infections and a few other indications. Rifampin is well absorbed when taken orally and is distributed widely in body tissues and fluids, including the CSF. It is metabolized in the liver and eliminated in bile and, to a much lesser extent, in urine, but dose adjustments are unnecessary with renal insufficiency.",
+    "mechanism-of-action": "Rifampin acts via the inhibition of DNA-dependent RNA polymerase, leading to a suppression of RNA synthesis and cell death.",
+    "absorption": "Well absorbed from gastrointestinal tract.",
+    "metabolism": "Primarily hepatic, rapidly deacetylated.",
+    "toxicity": "LD<sub>50</sub>=1570 mg/kg (rat), chronic exposure may cause nausea and vomiting and unconsciousness",
+    "targets": [
+        [
+            "rpoB",
+            "DNA-directed RNA polymerase subunit beta",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A43",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCC5",
+            "Multidrug resistance-associated protein 5",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

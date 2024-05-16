@@ -1,0 +1,164 @@
+{
+    "pharmgkb_id": "PA450519",
+    "drugbank_id": "DB01017",
+    "names": [
+        "Minocycline",
+        "Aknemin",
+        "Apo-Minocycline",
+        "Klinomycin",
+        "Minoderm",
+        "Minopen",
+        "Minox",
+        "Minoz",
+        "Vectrin"
+    ],
+    "description": "Minocycline was first described in the literacture in 1966.[A190681] It is a second generation tetracycline antibiotic that is active against gram-negative and gram-positive bacteria.[A190723] Like other semisynthetic tetracyclines, minocycline has modifications to carbons 7-9 on the D ring to generate higher efficacy than previous tetracyclines.[A190723]\r\n\r\nMinocycline was granted FDA approval on 30 June 1971.[L11695]",
+    "indication": "Oral and topical minocycline are indicated to treat inflammatory lesions of acne vulgaris.[L11701,L11704,L11719] Subgingival microspheres are indicated as an adjunct treatment in the reduction of pocket depth in adults with periodontitis.[L11716] Oral and intravenous formulations are indicated to treat infections of susceptible microorganisms.[L11707,L11710,L11713] These include rickettsiae, _Mycoplasma pneumoniae_, _Chlamydia trachomatis_, _Chlamydophila psittaci_, _Chlamydia trachomatis_, _Ureaplasma urealyticum_, _Borrelia recurrentis_, _Haemophilus ducreyi_, _Yersinia pestis_, _Francisella tularensis_, _Vibrio cholerae_, _Campylobacter fetus_, _Brucella_ species, _Bartonella bacilliformis_, _Klebsiella granulomatis_, _Escherichia coli_, _Enterobacter aerogenes_, _Shigella_ species, _Acinetobacter_ species, _Haemophilus influenzae_, and _Kelbsiella_ species.[L11710]",
+    "pharmacodynamics": "Minocycline is a tetracycline antibiotic that binds to the bacterial 30S ribosomal subunit and interferes with protein synthesis. It is generally given 2-4 times daily, so the duration of action is short.[L11707] Intravenous minocycline should not exceed 400mg in 24 hours.[L11713] Patients should be counselled regarding the risks related to tooth and bone development, pseudomembranous colitis, central nervous system side effects, and pseudotumor cerebri.[L11701]",
+    "mechanism-of-action": "Tetracyclines enter bacterial cells through OmpF and OmpC porins by coordinating with cations like magnesium.[A19429] This allows tetracyclines into the periplasm where they dissociate, allowing the lipophilic tetracycline to diffuse into the bacterial cytoplasm.[A19429] Tetracyclines prevent aminoacyl-tRNA from binding to the 30S ribosome, inhibiting protein synthesis.[A190723,A19429,L11710,L11713] ",
+    "absorption": "100mg of oral minocycline reaches a C<sub>max</sub> of 1.6mg/L, with a T<sub>max</sub> of 1.9h, and an AUC of 31.6mg/L\\*h.[A190708] 200mg of oral minocycline reaches a C<sub>max</sub> of 3.1mg/L, with a T<sub>max</sub> of 2.5h, and an AUC of 48.3mg/L\\*h.[A190708]",
+    "metabolism": "Minocycline is primarily metabolized to 9-hydroxyminocycline.[A190696] It is also metabolized to 2 different N-demethylated metabolites.[A190696]",
+    "toxicity": "The  oral LD<sub>50</sub> in rats is 2380mg/kg and in mice is 3600mg/kg.[L11722] The intraperitoneal LD<sub>50</sub> in rats is 331mg/kg and in mice is 299mg/kg.[L11722] The subcutaneous LD<sub>50</sub> in rats is 1700mg/kg and in mice is 2290mg/kg.[L11722]\r\n\r\nPatients experiencing an overdose may present with dizziness, nausea, and vomiting.[L11710,L11713] In the event of an overdose, discontinue minocycline and treat patients with symptomatic and supportive measures.[L11701,L11704,L11707,L11710,L11713]",
+    "targets": [
+        [
+            "rpsI",
+            "30S ribosomal protein S9",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "rpsD",
+            "30S ribosomal protein S4",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "IL1B",
+            "Interleukin-1 beta",
+            "Humans"
+        ],
+        [
+            "ALOX5",
+            "Arachidonate 5-lipoxygenase",
+            "Humans"
+        ],
+        [
+            "MMP9",
+            "Matrix metalloproteinase-9",
+            "Humans"
+        ],
+        [
+            "VEGFA",
+            "Vascular endothelial growth factor A",
+            "Humans"
+        ],
+        [
+            "CASP1",
+            "Caspase-1",
+            "Humans"
+        ],
+        [
+            "CASP3",
+            "Caspase-3",
+            "Humans"
+        ],
+        [
+            "CYCS",
+            "Cytochrome c",
+            "Humans"
+        ],
+        [
+            "MAPK1",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK10",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK11",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK12",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK13",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK14",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK15",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK3",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK4",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK6",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK7",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK8",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "MAPK9",
+            "Mitogen-activated Protein Kinases",
+            "Humans"
+        ],
+        [
+            "NOS2",
+            "Nitric oxide synthase, inducible",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ompF",
+            "Outer membrane protein F",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "ompC",
+            "Outer membrane porin C",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

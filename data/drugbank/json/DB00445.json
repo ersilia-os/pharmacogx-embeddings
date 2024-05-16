@@ -1,0 +1,44 @@
+{
+    "pharmgkb_id": "PA449476",
+    "drugbank_id": "DB00445",
+    "names": [
+        "Epirubicin",
+        "Epirubicin Ebewe",
+        "Pharmorubicin"
+    ],
+    "description": "An anthracycline which is the 4&#39;-epi-isomer of doxorubicin. The compound exerts its antitumor effects by interference with the synthesis and function of DNA.",
+    "indication": "For use as a component of adjuvant therapy in patients with evidence of axillary node tumor involvement following resection of primary breast cancer.",
+    "pharmacodynamics": "Epirubicin is an antineoplastic in the anthracycline class. General properties of drugs in this class include: interaction with DNA in a variety of different ways including intercalation (squeezing between the base pairs), DNA strand breakage and inhibition with the enzyme topoisomerase II. Most of these compounds have been isolated from natural sources and antibiotics. However, they lack the specificity of the antimicrobial antibiotics and thus produce significant toxicity. The anthracyclines are among the most important antitumor drugs available. Doxorubicin is widely used for the treatment of several solid tumors while daunorubicin and idarubicin are used exclusively for the treatment of leukemia. Epirubicin may also inhibit polymerase activity, affect regulation of gene expression, and produce free radical damage to DNA. Epirubicin possesses an antitumor effect against a wide spectrum of tumors, either grafted or spontaneous. The anthracyclines are cell cycle-nonspecific.",
+    "mechanism-of-action": "Epirubicin has antimitotic and cytotoxic activity. It inhibits nucleic acid (DNA and RNA) and protein synthesis through a number of proposed mechanisms of action: Epirubicin forms complexes with DNA by intercalation between base pairs, and it inhibits topoisomerase II activity by stabilizing the DNA-topoisomerase II complex, preventing the religation portion of the ligation-religation reaction that topoisomerase II catalyzes. It also interferes with DNA replication and transcription by inhibiting DNA helicase activity.",
+    "absorption": "100%",
+    "metabolism": "Extensively and rapidly metabolized in the liver. Epirubicin is also metabolized by other organs and cells, including red blood cells. The four main metabolic routes are: (1) reduction of the C-13 keto-group with the formation of the 13(S)-dihydro derivative, epirubicinol; (2) conjugation of both the unchanged drug and epirubicinol with glucuronic acid; (3) loss of the amino sugar moiety through a hydrolytic process with the formation of the doxorubicin and doxorubicinol aglycones; and (4) loss of the amino sugar moiety through a redox process with the formation of the 7-deoxy-doxorubicin aglycone and 7-deoxy-doxorubicinol aglycone. Epirubicinol exhibits in vitro cytoxic activity (~10% that of epirubicin), but it is unlikely to reach sufficient concentrations in vivo to produce cytotoxic effects. ",
+    "toxicity": "bone marrow aplasia, grade 4 mucositis, and gastrointestinal bleeding",
+    "targets": [
+        [
+            "TOP2A",
+            "DNA topoisomerase 2-alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "PLA2G4A",
+            "Cytosolic phospholipase A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

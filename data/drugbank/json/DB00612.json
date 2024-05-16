@@ -1,0 +1,53 @@
+{
+    "pharmgkb_id": "PA448641",
+    "drugbank_id": "DB00612",
+    "names": [
+        "Bisoprolol",
+        "Bisocor",
+        "Cardicor",
+        "Concor",
+        "Concore",
+        "Detensiel",
+        "Emconcor",
+        "Emcor",
+        "Euradal",
+        "Isoten",
+        "Monocor",
+        "Soprol"
+    ],
+    "description": "Bisoprolol is a cardioselective \u03b21-adrenergic blocking agent used to treat high blood pressure.[A180472,L7219] It is considered a potent drug with a long-half life that can be used once daily to reduce the need for multiple doses of antihypertensive drugs.[A180472] Bisoprolol is generally well tolerated, likely due to its \u03b21-adrenergic receptor selectivity and is a useful alternative to non-selective \u03b2-blocker drugs in the treatment of hypertension such as [Carvedilol] and [Labetalol]. It may be used alone or in combination with other drugs to manage hypertension[L7219] and can be useful in patients with chronic obstructive pulmonary disease (COPD) due to its receptor selectivity.[A180562]",
+    "indication": "Bisoprolol is indicated for the treatment of mild to moderate hypertension.[L7219] It may be used off-label to treat heart failure, atrial fibrillation, and angina pectoris.[A180460,A180463]",
+    "pharmacodynamics": "Bisoprolol decreases heart rate (chronotropy), decreases contractility (inotropy), and reduces blood pressure.[T640,L7219] The results of various clinical studies indicate that bisoprolol reduces cardiovascular mortality and all-cause mortality in patients with heart failure and decreased cardiac ejection fraction (EF).[A180466,A180505] ",
+    "mechanism-of-action": "Though the mechanism of action of bisoprolol has not been fully elucidated in hypertension, it is thought that therapeutic effects are achieved through the antagonism of \u03b2-1adrenoceptors to result in lower cardiac output. Bisoprolol is a competitive, cardioselective \u03b21-adrenergic antagonist. When \u03b21-receptors (located mainly in the heart)[T640] are activated by adrenergic neurotransmitters such as epinephrine, both the blood pressure and heart rate increase, leading to greater cardiovascular work, increasing the demand for oxygen.  Bisoprolol reduces cardiac workload by decreasing contractility and the need for oxygen through competitive inhibition of \u03b21-adrenergic receptors.[A180502,T640]\r\n\r\nBisoprolol is also thought to reduce the output of renin in the kidneys, which normally increases blood pressure. Additionally, some central nervous system effects of bisoprolol may include diminishing sympathetic nervous system output from the brain, decreasing blood pressure and heart rate.[L7219]",
+    "absorption": "Bisoprolol is well absorbed in the gastrointestinal tract.[L7222] The AUC is 642.87 g.hr/mL and bioavailability of bisoprolol is about 90% due to the minimal first pass effects.[A180460] Absorption is unaffected by food intake. Peak plasma concentrations of bisoprolol are attained within 2-4 hours and steady-state concentrations are achieved within 5 days of administration.[L7219] In a pharmacokinetic study, the mean peak concentration of bisoprolol was 52 micrograms/L.[A180475] Cmax at steady state concentrations of bisoprolol is 64\u00b121 ng/ml administered at 10 mg daily.[L7222]",
+    "metabolism": "Approximately 50% of the bisoprolol dose is eliminated by non-renal pathways. Bisoprolol is metabolized through oxidative metabolic pathways with no subsequent conjugation. Bisoprolol metabolites are polar and, therefore, really eliminated. Major metabolites found in plasma and urine are inactive. Bisoprolol is mainly metabolized by CYP3A4 (95%), whereas CYP2D6 plays a minor role. The CYP3A4-mediated metabolism of bisoprolol appears to be non-stereoselective.[A259537,L7219,L46427]",
+    "toxicity": "LD50 information\r\nOral LD50 of bisoprolol in the mouse was 730 mg/kg.[L7234]\r\n\r\nOverdose information\r\n\r\nSigns of a \u03b2-blocker overdose include cardiovascular symptoms such as hypotension, congestive heart failure, and bradycardia. Other symptoms such as bronchospasm, and hypoglycemia may occur. If an overdose occurs with bisoprolol, supportive treatment should be initiated. Glucagon has been shown to be beneficial in bradycardia and hypotension associated with beta-blocker overdosage.[A180550] Hypoglycemia may be managed by administering IV glucose.[L7219] Monitor the patient and administer atropine in cases of bradycardia, pressors and fluids in the case of hypotension, and conventional heart failure therapy if heart failure occurs. If heart block occurs, the patient must be closely monitored and isoproterenol infusion or transvenous cardiac pacemaker insertion should take place.[L7219] For the management of overdose-related bronchospasm, administer bronchodilators with or without IV aminophylline. Limited research suggests that bisoprolol fumarate is not removed adequately by hemodialysis sessions.[A180553,L7219] ",
+    "targets": [
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

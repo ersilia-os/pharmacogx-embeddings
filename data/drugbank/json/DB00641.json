@@ -1,0 +1,176 @@
+{
+    "pharmgkb_id": "PA451363",
+    "drugbank_id": "DB00641",
+    "names": [
+        "Simvastatin",
+        "Cholestat",
+        "Colemin",
+        "Labistatin",
+        "Lipex",
+        "Medipo",
+        "Nivelipol",
+        "Simovil",
+        "Sinvacor",
+        "Sivastin",
+        "Sivatin",
+        "Sivinar",
+        "Sorfox",
+        "Sotovastin",
+        "Starezin",
+        "Starstat",
+        "Starzoko",
+        "Stasiva",
+        "Statex",
+        "Staticor",
+        "Statinal",
+        "Stativer",
+        "Synvinolin"
+    ],
+    "description": "Simvastatin, also known as the brand name product Zocor, is a lipid-lowering drug derived synthetically from a fermentation product of _Aspergillus terreus_. It belongs to the statin class of medications, which are used to lower the risk of cardiovascular disease and manage abnormal lipid levels by inhibiting the endogenous production of cholesterol in the liver. More specifically, statin medications competitively inhibit the enzyme hydroxymethylglutaryl-coenzyme A (HMG-CoA) Reductase,[A181421] which catalyzes the conversion of HMG-CoA to mevalonic acid and is the third step in a sequence of metabolic reactions involved in the production of several compounds involved in lipid metabolism and transport including cholesterol, low-density lipoprotein (LDL) (sometimes referred to as \"bad cholesterol\"), and very low-density lipoprotein (VLDL). Prescribing of statin medications is considered standard practice following any cardiovascular events and for people with a moderate to high risk of development of CVD, such as those with Type 2 Diabetes. The clear evidence of the benefit of statin use coupled with very minimal side effects or long term effects has resulted in this class becoming one of the most widely prescribed medications in North America.[A181087, A181406]\r\n\r\nSimvastatin and other drugs from the statin class of medications including [atorvastatin], [pravastatin], [rosuvastatin], [fluvastatin], and [lovastatin] are considered first-line options for the treatment of dyslipidemia.[A181087, A181406] Increasing use of the statin class of drugs is largely due to the fact that cardiovascular disease (CVD), which includes heart attack, atherosclerosis, angina, peripheral artery disease, and stroke, has become a leading cause of death in high-income countries and a major cause of morbidity around the world.[A181084] Elevated cholesterol levels, and in particular, elevated low-density lipoprotein (LDL) levels, are an important risk factor for the development of CVD.[A181087,A181553] Use of statins to target and reduce LDL levels has been shown in a number of landmark studies to significantly reduce the risk of development of CVD and all-cause mortality.[A181090,A181093,A181096,A181427,A181475,A181538] Statins are considered a cost-effective treatment option for CVD due to their evidence of reducing all-cause mortality including fatal and non-fatal CVD as well as the need for surgical revascularization or angioplasty following a heart attack.[A181087, A181406] Evidence has shown that even for low-risk individuals (with <10% risk of a major vascular event occurring within 5 years) statins cause a 20%-22% relative reduction in major cardiovascular events (heart attack, stroke, coronary revascularization, and coronary death) for every 1 mmol/L reduction in LDL without any significant side effects or risks.[A181397, A181403]\r\n\r\nWhile all statin medications are considered equally effective from a clinical standpoint, [rosuvastatin] is considered the most potent; doses of 10 to 40mg [rosuvastatin] per day were found in clinical studies to result in a 45.8% to 54.6% decrease in LDL cholesterol levels, while simvastatin has been found to have an average decrease in LDL-C of ~35%.[A181409,A181535,A181538,A1793] Potency is thought to correlate to tissue permeability as the more lipophilic statins such as simvastatin are thought to enter endothelial cells by passive diffusion, as opposed to hydrophilic statins such as [pravastatin] and [rosuvastatin] which are taken up into hepatocytes through OATP1B1 (organic anion transporter protein 1B1)-mediated transport.[A181424,A181460] Despite these differences in potency, several trials have demonstrated only minimal differences in terms of clinical outcomes between statins.[A181427]",
+    "indication": "Simvastatin is indicated for the treatment of hyperlipidemia to reduce elevated total cholesterol (total-C), low-density lipoprotein cholesterol (LDL\u2011C), apolipoprotein B (Apo B), and triglycerides (TG), and to increase high-density lipoprotein cholesterol (HDL-C).[F4655, F4658]\r\n\r\nThis includes the treatment of primary hyperlipidemia (Fredrickson type IIa, heterozygous familial and nonfamilial), mixed dyslipidemia (Fredrickson type IIb), hypertriglyceridemia (Fredrickson type IV hyperlipidemia), primary dysbetalipoproteinemia (Fredrickson type III hyperlipidemia), homozygous familial hypercholesterolemia (HoFH) as an adjunct to other lipid-lowering treatments, as well as adolescent patients with Heterozygous Familial Hypercholesterolemia (HeFH).[F4655, F4658]\r\n\r\nSimvastatin is also indicated to reduce the risk of cardiovascular morbidity and mortality including myocardial infarction, stroke, and the need for revascularization procedures. It is primarily used in patients at high risk of coronary events because of existing coronary heart disease, diabetes, peripheral vessel disease, history of stroke or other cerebrovascular disease.[F4655, F4658]\r\n\r\nPrescribing of statin medications is considered standard practice following any cardiovascular events and for people with a moderate to high risk of development of CVD. Statin-indicated conditions include diabetes mellitus, clinical atherosclerosis (including myocardial infarction, acute coronary syndromes, stable angina, documented coronary artery disease, stroke, trans ischemic attack (TIA), documented carotid disease, peripheral artery disease, and claudication), abdominal aortic aneurysm, chronic kidney disease, and severely elevated LDL-C levels.[A181087, A181406]",
+    "pharmacodynamics": "Simvastatin is an oral antilipemic agent which inhibits HMG-CoA reductase. It is used to lower total cholesterol, low density lipoprotein-cholesterol (LDL-C), apolipoprotein B (apoB), non-high density lipoprotein-cholesterol (non-HDL-C), and trigleride (TG) plasma concentrations while increasing HDL-C concentrations. High LDL-C, low HDL-C and high TG concentrations in the plasma are associated with increased risk of atherosclerosis and cardiovascular disease. The total cholesterol to HDL-C ratio is a strong predictor of coronary artery disease and high ratios are associated with higher risk of disease. Increased levels of HDL-C are associated with lower cardiovascular risk. By decreasing LDL-C and TG and increasing HDL-C, rosuvastatin reduces the risk of cardiovascular morbidity and mortality.[A181087, A181406]\r\n\r\nElevated cholesterol levels, and in particular, elevated low-density lipoprotein (LDL) levels, are an important risk factor for the development of CVD.[A181087] Use of statins to target and reduce LDL levels has been shown in a number of landmark studies to significantly reduce the risk of development of CVD and all-cause mortality.[A181090,A181093,A181096,A181427,A181475] Statins are considered a cost-effective treatment option for CVD due to their evidence of reducing all-cause mortality including fatal and non-fatal CVD as well as the need for surgical revascularization or angioplasty following a heart attack.[A181087, A181406] Evidence has shown that even for low-risk individuals (with <10% risk of a major vascular event occurring within 5 years) statins cause a 20%-22% relative reduction in major cardiovascular events (heart attack, stroke, coronary revascularization, and coronary death) for every 1 mmol/L reduction in LDL without any significant side effects or risks.[A181397, A181403]\r\n\r\n**Skeletal Muscle Effects**\r\n\r\nSimvastatin occasionally causes myopathy manifested as muscle pain, tenderness or weakness with creatine kinase (CK) above ten times the upper limit of normal (ULN). Myopathy sometimes takes the form of rhabdomyolysis with or without acute renal failure secondary to myoglobinuria, and rare fatalities have occurred. Predisposing factors for myopathy include advanced age (\u226565 years), female gender, uncontrolled hypothyroidism, and renal impairment. Chinese patients may also be at increased risk for myopathy. In most cases, muscle symptoms and CK increases resolved when treatment was promptly discontinued.[F4655, F4658]\r\n\r\nIn a clinical trial database of 41,413 patients, the incidence of myopathy was approximately 0.03% and 0.08% at 20 and 40 mg/day, respectively, while the risk of myopathy with simvastatin 80 mg (0.61%) was disproportionately higher than that observed at the lower doses. It's therefore recommended that the 80mg dose of simvastatin should be used only in patients who have been taking simvastatin 80 mg chronically (e.g., for 12 months or more) without evidence of muscle toxicity. As well, patients already stabilized on simvastatin 80mg should be monitored closely for evidence of muscle toxicity; if they need to be initiated on an interacting drug that is contraindicated or is associated with a dose cap for simvastatin, that patient should be switched to an alternative statin with less potential for the drug-drug interaction.[F4655, F4658]\r\n\r\nThe risk of myopathy during treatment with simvastatin may be increased with concurrent administration of interacting drugs such as [fenofibrate], [niacin], [gemfibrozil], [cyclosporine], and strong inhibitors of the CYP3A4 enzyme.  Cases of myopathy, including rhabdomyolysis, have been reported with HMG-CoA reductase inhibitors coadministered with [colchicine], and caution should therefore be exercised when prescribing these two medications together.[F4655, F4658]\r\n\r\n**Liver Enzyme Abnormalities**\r\n\r\nPersistent increases (to more than 3X the ULN) in serum transaminases have occurred in approximately 1% of patients who received simvastatin in clinical studies. When drug treatment was interrupted or discontinued in these patients, the transaminase levels usually fell slowly to pretreatment levels. The increases were not associated with jaundice or other clinical signs or symptoms. [F4655, F4658]\r\n\r\nIn the Scandinavian Simvastatin Survival Study (4S),[A181538] the number of patients with more than one transaminase elevation to >3 times the ULN, over the course of the study, was not significantly different between the simvastatin and placebo groups (14 [0.7%] vs. 12 [0.6%]). The frequency of single elevations of ALT to 3 times the ULN was significantly higher in the simvastatin group in the first year of the study (20 vs. 8, p=0.023), but not thereafter. In the HPS (Heart Protection Study),[A181475] in which 20,536 patients were randomized to receive simvastatin 40 mg/day or placebo, the incidences of elevated transaminases (>3X ULN confirmed by repeat test) were 0.21% (n=21) for patients treated with simvastatin and 0.09% (n=9) for patients treated with placebo.[F4655, F4658] \r\n\r\n**Endocrine Effects**\r\n\r\nIncreases in HbA1c and fasting serum glucose levels have been reported with HMG-CoA reductase inhibitors, including simvastatin.[F4655]\r\n\r\nAlthough cholesterol is the precursor of all steroid hormones, studies with simvastatin have suggested that this agent has no clinical effect on steroidogenesis. Simvastatin caused no increase in biliary lithogenicity and, therefore, would not be expected to increase the incidence of gallstones.[F4658]",
+    "mechanism-of-action": "Simvastatin is a prodrug in which the 6-membered lactone ring of simvastatin is hydrolyzed <i>in vivo</i> to generate the beta,delta-dihydroxy acid, an active metabolite structurally similar to HMG-CoA (hydroxymethylglutaryl CoA). Once hydrolyzed, simvastatin competes with HMG-CoA for HMG-CoA reductase, a hepatic microsomal enzyme, which catalyzes the conversion of HMG-CoA to mevalonate, an early rate-limiting step in cholesterol biosynthesis.[A181421] Simvastatin acts primarily in the liver, where decreased hepatic cholesterol concentrations stimulate the upregulation of hepatic low density lipoprotein (LDL) receptors which increases hepatic uptake of LDL. Simvastatin also inhibits hepatic synthesis of very low density lipoprotein (VLDL).[F4655, F4658] The overall effect is a decrease in plasma LDL and VLDL. \r\n\r\nAt therapeutic doses, the HMG-CoA enzyme is not completely blocked by simvastatin activity, thereby allowing biologically necessary amounts of mevalonate to remain available. As mevalonate is an early step in the biosynthetic pathway for cholesterol, therapy with simvastatin would also not be expected to cause any accumulation of potentially toxic sterols. In addition, HMG-CoA is metabolized readily back to acetyl-CoA, which participates in many biosynthetic processes in the body.[F4658]\r\n\r\nIn vitro and in vivo animal studies also demonstrate that simvastatin exerts vasculoprotective effects independent of its lipid-lowering properties, also known as the pleiotropic effects of statins.[A181424] This includes improvement in endothelial function, enhanced stability of atherosclerotic plaques, reduced oxidative stress and inflammation, and inhibition of the thrombogenic response.\r\n\r\nStatins have also been found to bind allosterically to \u03b22 integrin function-associated antigen-1 (LFA-1), which plays an important role in leukocyte trafficking and in T cell activation.[A181559]",
+    "absorption": "Peak plasma concentrations of both active and total inhibitors were attained within 1.3 to 2.4 hours post-dose. While the recommended therapeutic dose range is 10 to 40 mg/day, there was no substantial deviation from linearity of AUC with an increase in dose to as high as 120 mg. Relative to the fasting state, the plasma profile of inhibitors was not affected when simvastatin was administered immediately before a test meal.[F4655,F4658]\r\n\r\nIn a pharmacokinetic study of 17 healthy Chinese volunteers, the major PK parameters were as follows: Tmax 1.44 hours, Cmax 9.83 ug/L, t1/2 4.85 hours, and AUC 40.32ug\u00b7h/L.[A181571]\r\n\r\nSimvastatin undergoes extensive first-pass extraction in the liver, the target organ for the inhibition of HMG-CoA reductase and the primary site of action. This tissue selectivity (and consequent low systemic exposure) of orally administered simvastatin has been shown to be far greater than that observed when the drug is administered as the enzymatically active form, i.e. as the open hydroxyacid.[F4658]\r\n\r\nIn animal studies, after oral dosing, simvastatin achieved substantially higher concentrations in the liver than in non-target tissues. However, because simvastatin undergoes extensive first-pass metabolism, the bioavailability of the drug in the systemic system is low.  In a single-dose study in nine healthy subjects, it was estimated that less than 5% of an oral dose of simvastatin reached the general circulation in the form of active inhibitors.[F4658]\r\n\r\nGenetic differences in the OATP1B1 (Organic-Anion-Transporting Polypeptide 1B1) hepatic transporter encoded by the SCLCO1B1 gene (Solute Carrier Organic Anion Transporter family member 1B1) have been shown to impact simvastatin pharmacokinetics. Evidence from pharmacogenetic studies of the c.521T>C single nucleotide polymorphism (SNP) showed that simvastatin plasma concentrations were increased on average 3.2-fold for individuals homozygous for 521CC compared to homozygous 521TT individuals.[A34995,A181478] The 521CC genotype is also associated with a marked increase in the risk of developing myopathy, likely secondary to increased systemic exposure.[A34994] Other statin drugs impacted by this polymorphism include [rosuvastatin], [pitavastatin], [atorvastatin], [lovastatin], and [pravastatin].[A181460]\r\n\r\nFor patients known to have the above-mentioned c.521CC OATP1B1 genotype, a maximum daily dose of 20mg of simvastatin is recommended to avoid adverse effects from the increased exposure to the drug, such as muscle pain and risk of rhabdomyolysis.[F4658]\r\n\r\nEvidence has also been obtained with other statins such as [rosuvastatin] that concurrent use of statins and inhibitors of Breast Cancer Resistance Protein (BCRP) such as elbasvir and grazoprevir increased the plasma\r\nconcentration of these statins. Further evidence is needed, however a dose adjustment of simvastatin may be necessary. Other statin drugs impacted by this polymorphism include [fluvastatin] and [atorvastatin].[A181478]",
+    "metabolism": "Simvastatin is administered as the inactive lactone derivative that is then metabolically activated to its \u03b2-hydroxyacid form by a combination of spontaneous chemical conversion and enzyme-mediated hydrolysis by nonspecific carboxyesterases in the intestinal wall, liver, and plasma. Oxidative metabolism in the liver is primarily mediated by CYP3A4 and CYP3A5, with the remaining metabolism occurring through CYP2C8 and CYP2C9.[A181580]\r\n\r\nThe major active metabolites of simvastatin are \u03b2-hydroxyacid metabolite and its 6'-hydroxy, 6'-hydroxymethyl, and 6'-exomethylene derivatives.[F4655,F4658]\r\n\r\nPolymorphisms in the CYP3A5 gene have been shown to affect the disposition of simvastatin and may provide a plausible explanation for interindividual variability of simvastatin disposition and pharmacokinetics.[A181577]",
+    "toxicity": null,
+    "targets": [
+        [
+            "HMGCR",
+            "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+            "Humans"
+        ],
+        [
+            "ITGAL",
+            "Integrin alpha-L",
+            "Humans"
+        ],
+        [
+            "HDAC2",
+            "Histone deacetylase 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CES2",
+            "Cocaine esterase",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00641",
+            "Drug Name": "Simvastatin",
+            "Gene Symbol": "KIF6",
+            "RS ID (Genotype)": "rs20455",
+            "Effect Description": "Patients with this genotype have a greater reduction in risk of a major cardiovascular event with high dose simvastatin."
+        },
+        {
+            "DrugBank ID": "DB00641",
+            "Drug Name": "Simvastatin",
+            "Gene Symbol": "HMGCR",
+            "RS ID (Genotype)": "rs17244841",
+            "Effect Description": "Patients with this genotype have a lesser reduction in LDL cholesterol with simvastatin."
+        },
+        {
+            "DrugBank ID": "DB00641",
+            "Drug Name": "Simvastatin",
+            "Gene Symbol": "SLCO1B1",
+            "RS ID (Genotype)": "rs4149056",
+            "Adverse Reaction Description": "The presence of this genotype in SLCO1B1 is associated with an increased risk of myopathy when treated with simvastatin."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA448039",
+    "drugbank_id": "DB00459",
+    "names": [
+        "Acitretin",
+        "Neotigason"
+    ],
+    "description": "An oral retinoid effective in the treatment of psoriasis. It is the major metabolite of etretinate with the advantage of a much shorter half-life when compared with etretinate.",
+    "indication": "For the treatment of severe psoriasis in adults.",
+    "pharmacodynamics": "Acitretin is a retinoid. Retinoids have a structure similar to vitamin A and are involved in the normal growth of skin cells. Acitretin works by inhibiting the excessive cell growth and keratinisation (process by which skin cells become thickened due to the deposition of a protein within them) seen in psoriasis. It therefore reduces the thickening of the skin, plaque formation and scaling.",
+    "mechanism-of-action": "The mechanism of action of acitretin is unknown, however it is believed to work by targeting specific receptors (retinoid receptors such as RXR and RAR) in the skin which help normalize the growth cycle of skin cells.",
+    "absorption": "Oral absorption of acitretin is optimal when given with food, and is linear and proportional with increasing doses from 25 to 100 mg. Approximately 72% (range 47% to 109%) of the administered dose was absorbed after a single 50 mg dose of acitretin was given to 12 healthy subjects.",
+    "metabolism": "Following oral absorption, acitretin undergoes extensive metabolism and interconversion by simple isomerization to its 13-cis form (cis-acitretin). Both parent compound and isomer are further metabolized into chain-shortened breakdown products and conjugates, which are excreted.",
+    "toxicity": "Oral, rat: LD<sub>50</sub> = >4000 mg/kg. Symptoms of overdose include headache and vertigo.",
+    "targets": [
+        [
+            "RXRA",
+            "Retinoic acid receptor RXR-alpha",
+            "Humans"
+        ],
+        [
+            "RARA",
+            "Retinoic acid receptor alpha",
+            "Humans"
+        ],
+        [
+            "RARB",
+            "Retinoic acid receptor beta",
+            "Humans"
+        ],
+        [
+            "RARG",
+            "Retinoic acid receptor gamma",
+            "Humans"
+        ],
+        [
+            "RXRB",
+            "Retinoic acid receptor RXR-beta",
+            "Humans"
+        ],
+        [
+            "RXRG",
+            "Retinoic acid receptor RXR-gamma",
+            "Humans"
+        ],
+        [
+            "RBP1",
+            "Retinol-binding protein 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,64 @@
+{
+    "pharmgkb_id": "PA450741",
+    "drugbank_id": "DB00497",
+    "names": [
+        "Oxycodone",
+        "Oxanest",
+        "OxyIR"
+    ],
+    "description": "Oxycodone is a semisynthetic opioid analgesic derived from thebaine in Germany in 1917.[A178696] It is currently indicated as an immediate release product for moderate to severe pain and as an extended release product for chronic moderate to severe pain requiring continuous opioid analgesics for an extended period.[Label] The first oxycodone containing product, Percodan, was approved by the FDA on April 12, 1950.[L6460]",
+    "indication": "Oxycodone is indicated for the treatment of moderate to severe pain.[Label] There is also an extended release formulation indicated for chronic moderate to severe pain requiring continuous opioid analgesics for an extended period.[Label]",
+    "pharmacodynamics": "Oxycodone acts directly on a number of tissues not related to its analgesic effect. These tissues include the respiratory centre in the brain stem, the cough centre in the medulla, muscles of the pupils, gastrointestinal tract, cardiovascular system, endocrine system, and immune system.[Label] Oxycodone's effect on the respiratory centre is dose dependant respiratory depression.[Label] The action on the cough centre is suppression of the cough reflex.[Label] Pupils become miopic or decrease in size, peristalsis of the gastrointestinal tract slows, and muscle tone in the colon may increase causing constipation.[Label] In the cardiovascular system histamine may be released leading to pruritis, red eyes, flushing, sweating, and decreased blood pressure.[Label] Endocrine effects may include increased prolactin, decreased cortisol, and decreased testosterone.[Label] It is not yet known if the effects of opioids on the immune system are clinically significant.[Label]",
+    "mechanism-of-action": "The full mechanism of oxycodone is not known.[Label] Under conditions of inflammation or hyperalgesia, opioid receptors in the heart, lungs, liver, gastrointestinal tract, and reproductive system are upregulated and transported to nerve terminals.[A178696] Oxycodone and its active metabolites, noroxycodone, oxymorphone, and noroxymorphone are opioid agonists.[A178639] These compounds passively diffuse across the blood brain barrier or may be actively transported across by an unknown mechanism.[A178696] Oxycodone and its active metabolites can selectively bind to the mu opioid receptor, but also the kappa and delta opioid receptors in the central nervous system and periphery, and induce a G protein coupled receptor signalling pathway.[A178696] Activation of mu opioid receptors inhibits N-type voltage operated calcium channels, inhibiting responses to pain.[A178735]",
+    "absorption": "Oxycodone has an oral bioavailability of 60% to 87% that is unaffected by food.[Label]\r\n\r\nThe area under the curve is 135ng/mL\\*hr, maximum plasma concentration is 11.5ng/mL, and time to maximum concentration is 5.11hr in patients given a 10mg oral immediate release dose of oxycodone.[Label]",
+    "metabolism": "Oxycodone's hepatic metabolism is extensive and completed by 4 main reactions. CYP3A4 and 3A5 perform N-demethylation, CYP2D6 performs O-demethylation, unknown enzymes perform 6-keto-reduction, and unknown enzymes perform conjugation.[A178639]\r\n\r\nOxycodone is metabolized by CYP3A4 and CYP3A5 to noroxycodone and then by CYP2D6 to noroxymorphone.[A178639] Noroxycodone and noroxymorphone are the primary circulating metabolites.[Label] Noroxycodone can also be 6-keto-reduced to alpha or beta noroxycodol.[A178639]\r\n\r\nOxycodone can be metabolized by CYP2D6 to oxymorphone and then by CYP3A4 to noroxymorphone.[A178639] Oxymorphone can also be 6-keto-reduced to alpha or beta oxymorphol.[A178639]\r\n\r\nOxycodone can also be 6-keto-reduced to alpha and beta oxycodol.[A178639]\r\n\r\nThe active metabolites noroxycodone, oxymorphone, and noroxymorphone can all be conjugated before elimination.[A178639]",
+    "toxicity": "Patients experiencing an overdose may present with respiratory depression, sleepiness, stupor, coma, skeletal muscle flaccidity, cold sweat, constricted pupils, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.[Label] Overdose should be treated by maintaining  airway, ventilation, and oxygenation.[Label] Oxygen and vasopressor treatment may be necessary to treat circulatory shock and pulmonary edema and defibrillation may be required for cardiac arrest of arrhythmia.[Label] [Naloxone], [nalmefene], or [naltrexone] may be used to counteract the effects of opioids but patients should be monitored in case further doses are required.[Label]\r\n\r\nThe intraperitoneal LD50 in mice is 320mg/kg, the oral LD50 is 426mg/kg.[MSDS] The oral lowest dose causing toxic effects in humans is 0.14mg/kg and subcutaneously in rats it is 1.53mg/kg.[MSDS]\r\n\r\nOxycodone is pregnancy category B according to the FDA.[Label] There is a paucity of data regarding oxycodone use in pregnancy, though animal studies show no teratogenic effects.[Label] Rats given oxycodone during lactation showed smaller offspring, though after lactation, they recovered to normal size.[Label] Oxycodone is excreted in breast milk and so patients should not breastfeed while taking oxycodone due to risk of sedation and respiratory depression in infants.[Label]\r\n\r\nNo studies on the carcinogenicity of oxycodone have been performed.[Label] Oxycodone was genotoxic at 50mcg/mL with metabolic activation and at 400mcg/mL without.[Label] It was also clastogenic with metabolic activation at \u22651250mcg/mL.[Label] Oxycodone was not found to be genotoxic in other tests.[Label] Oxycodone does not affect reproduction and fertility in rats at doses of up to 8mg/kg/day.[Label]",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

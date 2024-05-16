@@ -1,0 +1,74 @@
+{
+    "pharmgkb_id": "PA164752812",
+    "drugbank_id": "DB04896",
+    "names": [
+        "Milnacipran",
+        "Dalcipran",
+        "Ixel",
+        "Toledomin"
+    ],
+    "description": "Milnacipran is a selective serotonin and norepinephrine reuptake inhibitor (SNRI) and like many agents in this category was originally developed for and continues to be approved and indicated for the treatment of depression [F3928, F3934, A175786, A175951]. Furthermore, in 2009 the US FDA approved milnacipran for the additional indication of treating fibromyalgia [F3925], although other regional regulatory authorities like the EMA, among others, have not yet approved the agent for such treatment, citing lack of robust evidence of efficacy, insufficient demonstration of maintenance of effect, and other concerns [F3928, F3934]. Nevertheless, milnacipran demonstrates a somewhat unique characteristic among SNRIs to elicit a relatively balanced reuptake inhibition of both serotonin and noradrenaline, with a somewhat increased preference for noradrenaline reuptake inhibition - which is potentially a point of interest given the plausible proposal that noradrenaline plays an important role in the mitigation of pain signals in the descending inhibitory pain pathways in the brain and spinal cord [A175759, A175843, A175846].\r\n\r\nMoreover, recent research has shown that the levorotatory enantiomer of milnacipran, levomilnacipran, may have the capacity to inhibit the activity of beta-site amyloid precursor protein cleaving enzyme-1 (BACE-1), which has investigationally been associated with \u03b2-amyloid plaque formation - making the agent a possible course of treatment for Alzheimer's disease [A175957].",
+    "indication": "Milnacipran is a selective serotonin and norepinephrine reuptake inhibitor (SNRI) indicated for the management of fibromyalgia in patients that are 18 years old or above [F3925]. \r\n\r\nWhile milnacipran may be used for the treatment of major depressive disorder (MDD), it is only recommended in adult patients who are 18 years old or above [F3922] due to an increased risk for suicidal ideation, thinking, and behavior in children, adolescents, and young adults taking antidepressants for major depressive disorder (MDD) and other psychiatric disorders. Some regional prescribing information notes that the use of the medication is specifically for the short-term symptomatic relief of MDD [F3919]. Nevertheless, it is important to note that the regulatory approval of and/or indications listed here for milnacipran may or may not exist and/or vary greatly between regions and nations [F3928, F3934].",
+    "pharmacodynamics": "When utilized to treat fibromyalgia, the effect of milnacipran on the QTcF interval in patients was measured in a double-blind placebo-and positive-controlled parallel study in 88 healthy subjects using three to six times the recommended therapeutic dose for fibromyalgia at 600 mg/day [F3925]. After baseline and placebo adjustment, the maximum mean QTcF change was 8 ms - an increase that is generally not considered to be clinically significant [F3925].\r\n\r\nConversely, when used for treating major depressive disorder (MDD), non-clinical studies have shown that levomilnacipran binds with high affinity to the norepinephrine (NE) and serotonin (5-HT) transporters (Ki = 71-91 nM and 11 nM respectively at human transporters) [F3919, F3922, F3925]. Levomilnacipran inhibits the uptake of both NE and 5-HT in vitro and in vivo; preferentially inhibiting reuptake of NE over 5-HT by approximately 2-fold [F3919, F3922, F3925]. Levomilnacipran does not directly affect the uptake of dopamine or other neurotransmitters [F3919, F3922, F3925]. Levomilnacipran has no significant affinity for serotonergic (5-HT1-7), \u03b1- and \u03b2-adrenergic, muscarinic (M1-5), histamine (H1-4), dopamine (D1-5), opiate, benzodiazepine, and \u03b3-aminobutyric acid (GABA) receptors in vitro [F3919, F3922]. Levomilnacipran has no significant affinity for Ca++, K+, Na+, and Cl\u2013 channels and does not inhibit the activity of human monoamine oxidases (MAO-A and MAO-B) or acetylcholinesterase [F3919, F3922, F3925].\r\n\r\nMoreover, in ECG studies with levomilnacipran used to treat MDD, although no clinically significant changes in QTcF interval (QTcF=QT/RR0.33) were noted, it appears that the agent can cause increases in heart rate and blood pressure [F3919]. In particular, it appears that the maximum therapeutic dose of levomilnacipran at 120 mg/day is capable of causing a maximum mean difference in heart rate from placebo of 20.2 bpm and a mean difference in systolic and diastolic blood pressure from placebo ranging from 3.8 to 7.2 mmHg and 6.1 to 8.1 mmHg, respectively [F3919]. Alternatively, a supratherapeutic dose of 300 mg/day is capable of causing a maximum mean difference in heart rate from placebo of 22.1 bpm and a mean difference in systolic and diastolic blood pressure from placebo ranging from 5.4 to 7.9 mmHg and 7.9 to 10.6 mmHg, respectively [F3919].",
+    "mechanism-of-action": "The dual ability for milnacipran to inhibit the reuptake of both serotonin (5HT) and norepinephrine (NE) facilitates its treatment of both fibromyalgia and major depressive disorder (MDD).\r\n\r\nIn particular, it is generally believed that 5HT and NE participate in the modulation of endogenous analgesic mechanisms by way of the descending inhibitory pain pathways in the brain and spinal cord [A175759, A175843, A175846]. Although the specific mechanism of action remains unclear, some studies have proposed that low levels of 5HT may be associated with increased sensitivity to pain - a condition that could subsequently be improved by milnacipran's capacity to enhance the presence of 5HT by inhibiting its reuptake via serotonin transporters at synaptic clefts [A175846, F3937, L5659]. Furthermore, in the CNS it is also generally believed that NE released from descending pathways can mitigate pain sensations via eliciting inhibitory effects on alpha-2A-adrenoceptors on central terminals of primary afferent nociceptors, by direct alpha-2-adrenergic action on pain-relay neurons, and by alpha-1-adrenoceptor-mediated activation of inhibitory interneurons [A175843]. Such NE pain mitigation is consequently also enhanced by milnacipran's ability to enhance the presence of NE by inhibiting its reuptake via norepinephrine transporters at synaptic clefts [F3937].\r\n\r\nConcurrently, milnacipran's capacity to inhibit the reuptake of both 5HT and NE also facilitates its treatment of MDD. Given the monoamine hypothesis' assertion that decreased 5HT can be associated with anxiety, obsessions, compulsions, and decreased NE can result in lowered alertness, energy, attention, and general interest in life, it is proposed that milnacipran's basic activities as a serotonin and norepinephrine reuptake inhibitor could assist in treating such symptoms of MDD by increasing the presence of both 5HT and NE in the body by inhibiting their reuptake [A175840]. ",
+    "absorption": "Racemic milnacipram demonstrates an absolute bioavailability of about 85-90% following oral administration [F3925]. Maximum concentrations of the racemic agent are reached within 2-4 hours after oral dosing, and steady-state levels are obtained by 36-48 hours [F3925].\r\n\r\nConversely, the relative bioavailability of levomilnacipram has been documented as 92% [F3919, F3922]. The median time to peak concentration Tmax for levomilnacipram is about 6-8 hours after oral administration [F3919, F3922]. After daily dosing of levomilnacipram 120 mg, the mean Cmax value is 341 ng/mL, and the mean steady-state AUC value is 5196 ng.h/mL.\r\n\r\nIn general, the administration of either racemic milnacipram or levomilnacipram with food does not affect the medication's oral bioavailability [F3925, F3919, F3922]. ",
+    "metabolism": "It has been determined that levomilnacipran undergoes desethylation and hydroxylation to generate desethyl levomilnacipran and p-hydroxy-levomilnacipran, respectively [F3919, F3922, A175897]. Both oxidative metabolites undergo further conjugation with glucuronide to form the conjugate milnacipran carbamoyl-O-glucuronide [F3919, F3922, F3925, A175897]. The desethylation is catalyzed primarily by CYP3A4 with minor contribution by CYP2C8, 2C19, 2D6, and 2J2 [F3919, F3922]. Additionally, it is the general understanding that there is no interconversion between the enantiomers of milnacipran in the body [F3919, F3922, F3925, F3928].",
+    "toxicity": "There is limited clinical experience with milnacipran overdose in humans. In clinical trials, cases of acute ingestions up to 1000 mg daily were reported with none being fatal [F3925]. In postmarketing experience, fatal outcomes have been reported for acute overdoses primarily involving multiple drugs but also with milnacipran only [F3925]. The most common signs and symptoms of overdose included increased blood pressure, cardio-respiratory arrest, changes in the level of consciousness (ranging from somnolence to coma), confusional state, dizziness, and increased hepatic enzymes [F3919, F3922, F3925].\r\n\r\nThere are no adequate and well-controlled studies in pregnant women [F3919, F3922, F3925]. In fact, milnacipram should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [F3919, F3922, F3925].\r\n\r\nNeonates exposed to SSRIs or SNRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding [F3919, F3922, F3925]. Such complications can arise immediately upon delivery. Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying [F3919, F3922, F3925]. These features are consistent with either a direct toxic effect of SNRI class drugs like milnacipran or, possibly, a drug discontinuation syndrome [F3919, F3922, F3925]. It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [F3919, F3922, F3925].\r\n\r\nThe effect of milnacipran on labor and delivery in humans is unknown [F3919, F3922, F3925]. Milnacipran should be used during labor and delivery only if the potential benefits outweigh the potential risks [F3919, F3922, F3925].\r\n\r\nThere are no adequate and well-controlled studies in nursing mothers [F3919, F3922, F3925]. It is not known if milnacipran is excreted in human milk [F3919, F3922, F3925]. Studies have shown that levomilnacipran is excreted into the milk of lactating rats [F3919, F3922, F3925]. Subsequently, possible excretion into human milk possesses the potential for serious adverse reactions in nursing infants [F3919, F3922, F3925]. As a consequence, breastfeeding by women treated with levomilnacipran should be considered only if the potential benefits outweigh the potential risks to the child [F3919, F3922, F3925].\r\n\r\nMilnacipran is not indicated for use in children under 18 years of age due to concerns over the potential for agitation-type emotional and behavioral changes, as well as suicidal ideation and/or behavior [F3919, F3922, F3925].\r\n\r\nSNRIs like milnacipran have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [F3919, F3922, F3925].\r\n\r\nLevomilnacipran was not mutagenic when evaluated in vitro in a bacterial mutagenicity study (Ames test) and not genotoxic in a mouse lymphoma study [F3919, F3922, F3925]. It was not clastogenic in an in vivo micronucleus assay in rats [F3919, F3922, F3925].\r\n\r\nThe potential effects of levomilnacipran on gonadal function, mating behavior, reproductive performance and early pregnancy were evaluated in rats at oral doses of 0, 10, 30, or 100 mg/kg/day [F3919, F3922, F3925]. The NOAEL was 100 mg/kg/day based on reductions in body weight gain and food consumption [F3919, F3922, F3925]. There were no levomilnacipran effects on male and female fertility parameters [F3919, F3922, F3925].\r\n\r\nIn the rat and rabbit embryo/fetal development studies, decreases in maternal body weight gain and food consumption were noted [F3919, F3922, F3925]. In the fetuses, increases in the incidence of ossification anomalies were noted but were of no toxicological significance [F3919, F3922, F3925]. In both species, the NOAEL was determined to be 100 mg/kg/day, a dose which represents a rat or rabbit animal-to-human exposure margin of 9-fold and 4-fold, respectively relative to the human exposure from 120 mg/day of levomilnacipran [F3919, F3922, F3925].    \r\n \r\nMaterial safety data for milnacipran has documented the LD50 oral value in the rat model as being 213 mg/kg [MSDS].",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "GRIN1",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2A",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2B",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2C",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2D",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3A",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3B",
+            "NMDA receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

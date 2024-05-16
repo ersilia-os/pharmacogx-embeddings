@@ -1,0 +1,92 @@
+{
+    "pharmgkb_id": "PA449373",
+    "drugbank_id": "DB00280",
+    "names": [
+        "Disopyramide",
+        "Dicorantil",
+        "Isorythm",
+        "Lispine",
+        "Ritmodan"
+    ],
+    "description": "A class I anti-arrhythmic agent (one that interferes directly with the depolarization of the cardiac membrane and thus serves as a membrane-stabilizing agent) with a depressant action on the heart similar to that of guanidine. It also possesses some anticholinergic and local anesthetic properties.",
+    "indication": "For the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia, ventricular pre-excitation and cardiac dysrhythmias. It is a Class Ia antiarrhythmic drug.",
+    "pharmacodynamics": "Disopyramide is an anti-arrhythmic drug indicated for the treatment of documented ventricular arrhythmias, such as sustained ventricular tachycardia that are life-threatening. At therapeutic plasma levels, disopyramide shortens the sinus node recovery time, lengthens the effective refractory period of the atrium, and has a minimal effect on the effective refractory period of the AV node. Little effect has been shown on AV-nodal and His-Purkinje conduction times or QRS duration. However, prolongation of conduction in accessory pathways occurs.",
+    "mechanism-of-action": "Disopyramide is a Type 1A antiarrhythmic drug (ie, similar to procainamide and quinidine). It inhibits the fast sodium channels. In animal studies Disopyramide decreases the rate of diastolic depolarization (phase 4) in cells with augmented automaticity, decreases the upstroke velocity (phase 0) and increases the action potential duration of normal cardiac cells, decreases the disparity in refractoriness between infarcted and adjacent normally perfused myocardium, and has no effect on alpha- or beta-adrenergic receptors.",
+    "absorption": "Nearly complete",
+    "metabolism": "Hepatic",
+    "toxicity": "LD<sub>50</sub>=580 mg/kg in rats",
+    "targets": [
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "KCND2",
+            "Potassium voltage-gated channel subfamily D member 2",
+            "Humans"
+        ],
+        [
+            "KCND3",
+            "Potassium voltage-gated channel subfamily D member 3",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "Alpha-1-acid glycoprotein 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

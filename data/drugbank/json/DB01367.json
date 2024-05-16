@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA164764584",
+    "drugbank_id": "DB01367",
+    "names": [
+        "Rasagiline"
+    ],
+    "description": "Rasagiline is an irreversible inhibitor of monoamine oxidase and is used as a monotherapy in early Parkinson's disease or as an adjunct therapy in more advanced cases.",
+    "indication": "For the treatment of the signs and symptoms of idiopathic Parkinsons disease as initial monotherapy and as adjunct therapy to levodopa.",
+    "pharmacodynamics": "Rasagiline is a propargylamine and an irreversible inhibitor of monoamine oxidase (MAO). MAO, a flavin-containing enzyme, regulates the metabolic degradation of catecholamines and serotonin in the CNS and peripheral tissues. It is classified into two major molecular species, A and B, and is localized in mitochondrial membranes throughout the body in nerve terminals, brain, liver and intestinal mucosa. MAO-A is found predominantly in the GI tract and liver, and regulates the metabolic degradation of circulating catecholamines and dietary amines. MAO-B is the major form in the human brain and is responsible for the regulation of the metabolic degradation of dopamine and phenylethylamine. In ex vivo animal studies in brain, liver and intestinal tissues rasagiline was shown to be a potent,selective, and irreversible monoamine oxidase type B (MAO-B) inhibitor. At the recommended therapeutic doses, Rasagiline was also shown to be a potent and irreversible inhibitor of MAO-B in platelets. The selectivity of rasagiline for inhibiting only MAO-B (and not MAO-A) in humans and the sensitivity to tyramine during rasagiline treatment at any dose has not been sufficiently characterized to avoid restriction of dietary tyramine and amines contained in medications.",
+    "mechanism-of-action": "The precise mechanisms of action of rasagiline is unknown. One mechanism is believed to be related to its MAO-B inhibitory activity, which causes an increase in extracellular levels of dopamine in the striatum. The elevated dopamine level and subsequent increased dopaminergic activity are likely to mediate rasagiline's beneficial effects seen in models of dopaminergic motor dysfunction.",
+    "absorption": "Rasagiline is rapidly absorbed following oral administration.  The absolute bioavailability of rasagiline is about 36%.",
+    "metabolism": "Rasagiline undergoes almost complete biotransformation in the liver prior to excretion. In vitro experiments indicate that both routes of rasagiline metabolism are dependent on the cytochrome P450 (CYP) system, with CYP 1A2 being the major isoenzyme involved in rasagiline metabolism.",
+    "toxicity": "Signs and symptoms of overdosage may include, alone or in combination, any of the following: drowsiness, dizziness, faintness, irritability, hyperactivity, agitation, severe headache, hallucinations, trismus, opisthotonos, convulsions, and coma; rapid and irregular pulse, hypertension, hypotension and vascular collapse; precordial pain, respiratory depression and failure, hyperpyrexia, diaphoresis, and cool, clammy skin.",
+    "targets": [
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ],
+        [
+            "BCL2",
+            "Apoptosis regulator Bcl-2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

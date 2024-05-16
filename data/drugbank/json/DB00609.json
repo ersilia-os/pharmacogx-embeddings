@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "PA164768738",
+    "drugbank_id": "DB00609",
+    "names": [
+        "Ethionamide",
+        "Ethatyl",
+        "Ethide",
+        "Ethiokox",
+        "Ethomid",
+        "Etionamida",
+        "Etomid",
+        "Eton",
+        "Etyomid",
+        "Myobid",
+        "Trecator-SC",
+        "Tubermin"
+    ],
+    "description": "A second-line antitubercular agent that inhibits mycolic acid synthesis. It also may be used for treatment of leprosy. (From Smith and Reynard, Textbook of Pharmacology, 1992, p868)",
+    "indication": "For use in the treatment of pulmonary and extrapulmonary tuberculosis when other antitubercular drugs have failed.",
+    "pharmacodynamics": "Ethinamate is bacteriostatic against <i>M. tuberculosis</i>. In a study examining ethionamide resistance, ethionamide administered orally initially decreased the number of culturable <i>Mycobacterium tuberculosis</i> organisms from the lungs of H37Rv infected mice. Drug resistance developed with continued ethionamide monotherapy, but did not occur when mice received ethionamide in combination with streptomycin or isoniazid.",
+    "mechanism-of-action": "Ethionamide may be bacteriostatic or bactericidal in action, depending on the concentration of the drug attained at the site of infection and the susceptibility of the infecting organism. Ethionamide, like prothionamide and pyrazinamide, is a nicotinic acid derivative related to isoniazid. It is thought that ethionamide undergoes intracellular modification and acts in a similar fashion to isoniazid. Isoniazid inhibits the synthesis of mycoloic acids, an essential component of the bacterial cell wall. Specifically isoniazid inhibits InhA, the enoyl reductase from <i>Mycobacterium tuberculosis</i>, by forming a covalent adduct with the NAD cofactor. It is the INH-NAD adduct that acts as a slow, tight-binding competitive inhibitor of InhA.",
+    "absorption": "Essentially completely absorbed following oral administration and not subjected to any appreciable first pass metabolism. Bioavailability approximately 100%.",
+    "metabolism": "Hepatic and extensive. Metabolized to the active metabolite sulfoxide, and several inactive metabolites. The sulphoxide metabolite has been demonstrated to have antimicrobial activity against <i>Mycobacterium tuberculosis</i>.",
+    "toxicity": "Symptoms of overdose include convulsions, nausea, and vomiting.",
+    "targets": [
+        [
+            "inhA",
+            "Enoyl-[acyl-carrier-protein] reductase [NADH]",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            "katG",
+            "Catalase-peroxidase",
+            "Mycobacterium tuberculosis"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

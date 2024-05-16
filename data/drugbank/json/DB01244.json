@@ -1,0 +1,90 @@
+{
+    "pharmgkb_id": "PA164754755",
+    "drugbank_id": "DB01244",
+    "names": [
+        "Bepridil",
+        "Angopril",
+        "Cordium",
+        "Vascor"
+    ],
+    "description": "A long-acting, non selective, calcium channel blocker with significant anti-anginal activity. The drug produces significant coronary vasodilation and modest peripheral effects. It has antihypertensive and selective anti-arrhythmia activities and acts as a calmodulin antagonist. It is no longer marketed in the United States, as it has been implicated in causing ventricular arrhythmias (ie. Torsade de pointes).",
+    "indication": "For the treatment of hypertension, and chronic stable angina (classic effort-associated angina).",
+    "pharmacodynamics": "Bepridil is a calcium channel blocker that has well characterized anti-anginal properties and known but poorly characterized type 1 anti-arrhythmic and anti-hypertensive properties. It is not related chemically to other calcium channel blockers such as diltiazem hydrochloride, nifedipine and verapamil hydrochloride.",
+    "mechanism-of-action": "Bepridil has inhibitory effects on both the slow calcium (L-type) and fast sodium inward currents in myocardial and vascular smooth muscle, interferes with calcium binding to calmodulin, and blocks both voltage and receptor operated calcium channels. Bepridil inhibits the transmembrane influx of calcium ions into cardiac and vascular smooth muscle. This has been demonstrated in isolated myocardial and vascular smooth muscle preparations in which both the slope of the calcium dose response curve and the maximum calcium-induced inotropic response were significantly reduced by bepridil. In cardiac myocytes <i>in vitro</i>, bepridil was shown to be tightly bound to actin. Bepridil regularly reduces heart rate and arterial pressure at rest and at a given level of exercise by dilating peripheral arterioles and reducing total peripheral resistance (afterload) against which the heart works.",
+    "absorption": "Rapidly and completely absorbed after oral administration.",
+    "metabolism": "Hepatic.",
+    "toxicity": "There has been one experience with overdosage in which a patient inadvertently took a single dose of 1600 mg of bepridil. The patient was observed for 72 hours in intensive care, but no significant adverse experiences were noted.",
+    "targets": [
+        [
+            "CACNA1A",
+            "Voltage-dependent P/Q-type calcium channel subunit alpha-1A",
+            "Humans"
+        ],
+        [
+            "CACNA1H",
+            "Voltage-dependent T-type calcium channel subunit alpha-1H",
+            "Humans"
+        ],
+        [
+            "CACNA2D2",
+            "Voltage-dependent calcium channel subunit alpha-2/delta-2",
+            "Humans"
+        ],
+        [
+            "ATP1A1",
+            "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "KCNQ1",
+            "Potassium voltage-gated channel subfamily KQT member 1",
+            "Humans"
+        ],
+        [
+            "TNNC1",
+            "Troponin C, slow skeletal and cardiac muscles",
+            "Humans"
+        ],
+        [
+            "CALM1",
+            "Calmodulin",
+            "Humans"
+        ],
+        [
+            "PDE1B",
+            "Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B",
+            "Humans"
+        ],
+        [
+            "PDE1A",
+            "Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

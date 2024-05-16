@@ -1,0 +1,177 @@
+{
+    "pharmgkb_id": "PA164749136",
+    "drugbank_id": "DB01189",
+    "names": [
+        "Desflurane"
+    ],
+    "description": "Desflurane, or I-653, a a volatile anesthetic that is more rapidly cleared and less metabolized than previous inhaled anesthetics such as [methoxyflurane], [sevoflurane], [enflurane], or [isoflurane].[A226390,A39015,A226893]. It was developed in the late 1980s out of a need for a more rapidly acting and rapidly cleared inhaled anesthetic.[A226883,A226888]\r\n\r\nDesflurane was granted FDA approval on 18 September 1992.[L30285]",
+    "indication": "Desflurane is indicated for the induction and maintenance of anesthesia in adults, as well as the maintenance of anesthesia in pediatric patients.[L30285]",
+    "pharmacodynamics": "Desflurane is a general inhalation anesthetic.[L30285] It has a short duration of action as it is rapidly cleared.[L30285] Patients should be counselled regarding the risks of malignant hyperthermia, perioperative hyperkalemia, respiratory adverse reactions in pediatric patients, QTc prolongation, hepatobiliary disorders, pediatric neurotoxicity, and postoperative agitation in children.[L30285]",
+    "mechanism-of-action": "The mechanism of inhalational anesthetics is still not fully understood.[A226490] They can block excitatory ion channels and increase the activity of inhibitory ion channels.[A226490] The most notable agonism is at the GABA<sub>A</sub> channel.[A226520] Desflurane is also an agonist of glycine receptors,[A10308] antagonist of glutamate receptors,[A10309] inducer of potassium voltage gated channels,[A10310] and inhibits both NADH-ubiquinone oxioreductase chain 1[A11113] and calcium transporting ATPases.[A4367]\r\n\r\nAn older school of thought is the unitary theory of general anesthetic action, suggesting that desflurane affects the lipid bilayer of cells.[A226490,A226510] Studies of other halogenated inhalational anesthetics have shown that the lipid bilayer spreads out more thinly as the anesthetic incorporates into the bilayer.[A226495] However, the anesthetic does not bind to lipid heads or acyl chains of hydrocarbons in the bilayer.[A226495] The effect of incorporating into the lipid bilayer is not well described.[A226495,L30285] By incorporating into the lipid bilayer, anesthetics may introduce disorder in the lipids, leading to some indirect effect on ion channels.[A226510] However, this theory remains controversial.[A226515]",
+    "absorption": "Data regarding the C<sub>max</sub>, T<sub>max</sub>, and AUC of desflurane are not readily available.[L30285]",
+    "metabolism": "Desflurane is minimally defluorinated by CYP2E1,[A39015] to the extent that serum fluoride levels do not increase above baseline levels.[A226390]",
+    "toxicity": "Patients experiencing a desflurane overdose may experience deepening anesthesia, cardiac or respiratory depression.[L30285] In the event of an overdose, patients may require symptomatic and supportive treatment to  maintain airway, breathing, and circulation.[L30285] Discontinue desflurane.[L30285]",
+    "targets": [
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GLRA1",
+            "Glycine receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "GRIA1",
+            "Glutamate receptor 1",
+            "Humans"
+        ],
+        [
+            "KCNA1",
+            "Potassium voltage-gated channel subfamily A member 1",
+            "Humans"
+        ],
+        [
+            "MT-ND1",
+            "NADH-ubiquinone oxidoreductase chain 1",
+            "Humans"
+        ],
+        [
+            "ATP2C1",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2C2",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B1",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B2",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B3",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B4",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2A1",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2A2",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP5D",
+            "ATP synthase subunit delta, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

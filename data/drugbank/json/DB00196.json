@@ -1,0 +1,59 @@
+{
+    "pharmgkb_id": "PA449653",
+    "drugbank_id": "DB00196",
+    "names": [
+        "Fluconazole",
+        "Elazor",
+        "Flucazol",
+        "Flucostat",
+        "Flunizol",
+        "Pritenzol",
+        "Trican",
+        "Triflucan"
+    ],
+    "description": "Fluconazole, commonly known as _Diflucan_, is an antifungal drug used for the treatment of both systemic and superficial fungal infections in a variety of tissues.  It was initially approved by the FDA in 1990. This drug is an _azole_ antifungal, in the same drug family as [ketoconazole] and [itraconazole]. Fluconazole has many advantages over the other antifungal drugs including the option of oral administration. The side effect profile of this drug is minimal. It has been demonstrated as an efficacious treatment for vaginal yeast infections in one single dose.[A174325]",
+    "indication": "Fluconazole can be administered in the treatment of the following fungal infections[L11043]:\r\n\r\n 1) Vaginal yeast infections caused by Candida\r\n 2) Systemic Candida infections\r\n 3) Both esophageal and oropharyngeal candidiasis \r\n 4) Cryptococcal meningitis\r\n 5) UTI (urinary tract infection) by Candida\r\n 6) Peritonitis (inflammation of the peritoneum) caused by Candida\r\n\r\n**A note on fungal infection prophylaxis**\r\n\r\nPatients receiving bone marrow transplantation who are treated with cytotoxic chemotherapy and/or radiation therapy may be predisposed to candida infections, and may receive fluconazole as prophylactic therapy.[L11043]\r\n\r\n**A note on laboratory testing**\r\n\r\nObtaining specimens for fungal culture and other important laboratory studies such as serology or pathology is advised before starting fluconazole therapy in order to isolate the organisms to be eliminated through treatment. It is permissible to start therapy before the results are available, however, adjusting the therapy once laboratory results confirm the causative organism may be necessary.[L11043]\r\n",
+    "pharmacodynamics": "Fluconazole has been demonstrated to show fungistatic activity against the majority of strains of the following microorganisms, curing fungal infections[L11043]:\r\n\r\n_Candida albicans, Candida glabrata (Many strains are intermediately susceptible), Candida parapsilosis, Candida tropicalis, Cryptococcus neoformans_\r\n\r\nThis is achieved through steroidal inhibition in fungal cells, interfering with cell wall synthesis and growth as well as cell adhesion, thereby treating fungal infections and their symptoms.[L11043,A174325,A174343]\r\n\r\nThe fungistatic activity of fluconazole has also been shown in normal and immunocompromised animal models with both systemic and intracranial fungal infections caused by _Cryptococcus neoformans_ and for systemic infections caused by Candida albicans.[L11043]  It is important to note that resistant organisms have been found against various strains of organisms treated with fluconazole.[A178759,A178762,A178765] This further substantiates the need to perform susceptibility testing when fluconazole is considered as an antifungal therapy.[A178768,A178786] \r\n\r\n\r\n**A note on steroidal effects of fluconazole**\r\n\r\nThere has been some concern that fluconazole may interfere with and inactivate human steroids/hormones due to the inhibition of hepatic cytochrome enzymes.[L11034]  Fluconazole has demonstrated to be more selective for _fungal_ cytochrome P-450 enzymes than for a variety of mammalian cytochrome P-450 enzymes. Fluconazole 50 mg administered daily for up to 28 days in individuals of reproductive age has been show to have no effect on testosterone plasma concentrations of males and plasma concentrations of steroids in females. A 200-400 mg dose of fluconazole showed no clinically relevant effect on steroid levels or on ACTH-stimulated steroid response in healthy males, in one clinical study mentioned on the European Medicines Agency label.[L11034] Other studies have shown no significant effects of fluconazole on steroid levels, further confirming these data.[A174358,A178780]",
+    "mechanism-of-action": "Fluconazole is a very selective inhibitor of fungal cytochrome P450 dependent enzyme _lanosterol 14-\u03b1-demethylase_. This enzyme normally works to convert _lanosterol_ to _ergosterol_, which is necessary for fungal cell wall synthesis.  The free nitrogen atom located on the azole ring of fluconazole binds with a single iron atom located in the heme group of lanosterol 14-\u03b1-demethylase.[A178774] This prevents oxygen activation and, as a result, inhibits the demethylation of lanosterol, halting the process of ergosterol biosynthesis.[A178777]  Methylated sterols are then found to accumulate in the fungal cellular membrane, leading to an arrest of fungal growth.[A178774] These accumulated sterols negatively affect the structure and function of the fungal cell plasma membrane.[A16632]\r\n\r\nFluconazole resistance may arise from an alteration in the amount or function of the target enzyme (lanosterol 14-\u03b1-demethylase), altered access to this enzyme, or a combination of the above.[A16632] Other mechanisms may also be implicated, and studies are ongoing.[A178783]",
+    "absorption": "The pharmacokinetic properties of fluconazole are comparable after administration by the intravenous (IV) and oral (PO) routes. In healthy volunteers, the bioavailability of orally administered fluconazole is measured to be above 90%.[L11043] It is extensively absorbed in the gastrointestinal tract when an oral dose is taken.[A178813] Oral absorption is not affected by food intake with fluconazole but may increase the time until the maximum concentration is reached.[L11034,A178792]\r\n\r\nTmax (or the time taken to achieve the maximum concentration) in one clinical study of healthy patients receiving 50 mg/kg of fluconazole was 3 hours.[A178792] \r\n\r\nPeak plasma concentrations (Cmax) in fasting and healthy volunteers occur between 1-2 hours post-dose.[L11043] Steady-state concentrations are achieved within 5 to 10 days after oral doses of 50-400 mg administered once daily. Administration of a loading dose on the first day of fluconazole treatment,  or twice the usual daily dose, leads to plasma concentrations close to steady-state by the second day.[L11043] Mean AUC (area under the curve) was 20.3 in healthy volunteers receiving 25 mg of fluconazole.[A178792]\r\n\r\n**A note on the capsule and powder form and malabsorption syndromes**\r\n\r\nThe capsule forms of fluconazole often contain lactose and should not be administered with hereditary galactose intolerance, _Lapp lactase enzyme_ deficiency, or malabsorption of glucose/galactose.[L11043] The powder form, used for the oral suspension, lists sucrose as an ingredient and should not be used in patients who have been diagnosed with fructose, glucose/galactose malabsorption, and _sucrase-isomaltase_ enzyme deficiency.[L11043]",
+    "metabolism": "Fluconazole is metabolized minimally in the liver.  Fluconazole is an inhibitor of CYP2C9, CYP3A4 and CYP2C19.[L11034,L11043] Two metabolites were detected in the urine of healthy volunteers taking a 50 mg radiolabeled dose of fluconazole; a glucuronidated metabolite on the hydroxyl moiety (6.5%) and a fluconazole N-oxide metabolite (2%).[A178813] The same study indicated that no signs of metabolic cleavage of fluconazole were observed, suggesting a difference in metabolism when compared to other agents in the same drug class, which are heavily metabolized in the liver.[A178813,A178834]",
+    "toxicity": "**Acute oral toxicity (LD50)**: 1271 mg/kg (rat) [MSDS]\r\n\r\n**Overdose information**\r\n\r\nFluconazole overdoses have been associated with hallucination and paranoia, sometimes in combination.[L11043] In cases of overdose, employ supportive treatment. Gastric lavage may be necessary.[L11043] Other modalities such as forced diuresis or hemodialysis may also be used.[L11043]\r\n\r\n**A note on liver toxicity**\r\n\r\nThe FDA label warns that this drug carries a risk of hepatotoxicity. Rare but serious cases of serious hepatic toxicity have been reported, especially in patients with serious underlying medical conditions using fluconazole.  This group of patients has an increased risk of fatality when using fluconazole.[L11043]  In patients with existing liver dysfunction, use caution during fluconazole therapy. Those who are found to have abnormal liver function tests during therapy should be carefully monitored for the development of increasingly severe injury to the liver. Fluconazole should be stopped if its use is likely to be the underlying cause of liver injury, and medical attention should be sought.[L11043,L6505] Fluconazole induced hepatotoxicity is usually reversible.[L11043]\r\n\r\n**Carcinogenesis, mutagenesis, and impairment of fertility**\r\n\r\nFluconazole demonstrated no evidence of carcinogenic risk in mice and rats treated orally for 24 months at doses equivalent to approximately 2-7 time the recommended human dose). Male rats given fluconazole at doses equivalent to supratherapeutic human doses showed an increased incidence of hepatocellular adenomas. Cytogenetic studies in vivo and in vitro demonstrated no sign of chromosomal mutation. The significance of these findings for humans is unknown.[L11043]\r\n\r\n**Use in pregnancy**\r\n\r\nThere are no sufficient and well-controlled studies of fluconazole use in pregnant women. Available human data do not show an increased risk of congenital anomalies after pregnant women were treated with standard doses (<200 mg/day) of fluconazole, either in a single dose or multiple doses in the first trimester did not appear to impact the fetus negatively.[L11043] Several case reports describe rare but striking congenital anomalies observed in infants who were exposed to fluconazole at high doses reaching 400-800 mg/day, primarily in the first trimester of pregnancy. Similar findings were observed in animal studies. If this drug is administered during pregnancy, or if the patient becomes pregnant while taking fluconazole, the risk should be discussed thoroughly.[L11043]\r\n\r\n**Use in nursing**\r\n\r\nFluconazole is secreted in breastmilk at high concentrations. Exercise caution if this drug is used during nursing.[L11043]",
+    "targets": [
+        [
+            "ERG11",
+            "Cytochrome P450 51",
+            "Yeast"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,110 @@
+{
+    "pharmgkb_id": "PA450264",
+    "drugbank_id": "DB01601",
+    "names": [
+        "Lopinavir",
+        "Aluviran",
+        "Koletra"
+    ],
+    "description": "Lopinavir is an antiretroviral protease inhibitor used in combination with other antiretrovirals in the treatment of HIV-1 infection.[L11163] Lopinavir is marketed and administered exclusively in combination with [ritonavir] - this combination, first marketed by Abbott under the brand name Kaletra in 2000, is necessary due to lopinavir's poor oral bioavailability and extensive biotransformation. Ritonavir is a potent inhibitor of the enzymes responsible for lopinavir metabolism, and its co-administration \"boosts\" lopinavir exposure and improves antiviral activity.[L11163] Like many other protease inhibitors (e.g. [saquinavir], [nelfinavir]), lopinavir is a peptidomimetic molecule - it contains a hydroxyethylene scaffold that mimics the peptide linkage typically targeted by the HIV-1 protease enzyme but which itself cannot be cleaved, thus preventing the activity of the HIV-1 protease.[A191757]\r\n\r\nLopinavir was previously under investigation in combination with ritonavir for the treatment of COVID-19 caused by SARS-CoV-2.[L12012]",
+    "indication": "The combination product lopinavir/ritonavir, marketed under the brand name Kaletra, is indicated in combination with other antiretrovirals for the treatment of HIV-1 infection in adults and pediatric patients \u226514 days old.[L11163]",
+    "pharmacodynamics": "Lopinavir inhibits the activity of an enzyme critical for the HIV viral lifecycle.[L11163] It has a moderate duration of action necessitating once or twice daily dosing.[L11163] Lopinavir, like other protease inhibitors, has a propensity for participating in drug interactions - use caution when administering lopinavir to patients maintained on other pharmaceutical agents as pharmacodynamic and pharmacokinetic interactions are common. Fatal hepatotoxicity and pancreatitis have been noted in patients undergoing therapy with lopinavir and patients with an increased baseline risk of these events should be monitored closely throughout therapy.[L11163]",
+    "mechanism-of-action": "The HIV lifecycle is comprised of 3 distinct stages: assembly, involving creation and packaging of essential viral components; budding, wherein the viral particle crosses the host cell plasma membrane and forms a lipid envelope; and maturation, wherein the viral particle alters its structure and becomes infectious.[A191712] At the center of this lifecycle is the Gag polyprotein which, along with the products of its proteolysis, coordinate these stages and function as the major structural proteins of the virus. The HIV-1 protease enzyme, a dimeric aspartic protease, is the enzyme responsible for cleaving the Gag polyprotein and thus plays a critical role in many aspects of the HIV viral lifecycle.[A191712]\r\n\r\nLopinavir is an inhibitor of the HIV-1 protease enzyme.[L11163] Its design is based on the \"peptidomimetic\" principle, wherein the molecule contains a hydroxyethylene scaffold which mimics the normal peptide linkage (cleaved by HIV protease) but which itself cannot be cleaved.[A191757] By preventing HIV-1 protease activity, and thus the proteolysis of the Gag polyprotein, lopinavir results in the production of immature, non-infectious viral particles.",
+    "absorption": "When administered alone, lopinavir has exceptionally low oral bioavailability (~25%) - for this reason, it is exclusively co-administered with ritonavir, which dramatically improves bioavailability, hinders drug metabolism, and allows for the attainment of therapeutic lopinavir concentrations.[A191715,A191748] Following oral administration of lopinavir/ritonavir, maximal plasma concentrations are achieved at approximately 4.4 hours (T<sub>max</sub>), and the C<sub>max</sub> and AUC<sub>tau</sub> are 9.8 \u00b1 3.7 - 11.8 \u00b1 3.7 \u00b5g/mL and 92.6 \u00b1 36.7 - 154.1 \u00b1 61.4 \u03bcg\u2022h/mL, respectively.[L11163]\r\n\r\nRelative to administration in the fasted state, administration with a meal increases the AUC of the tablet formulation slightly (~19%) but dramatically increases the AUC of the oral solution formulation (~130%).[L11163]",
+    "metabolism": "Lopinavir undergoes extensive oxidative metabolism, almost exclusively via hepatic CYP3A isozymes.[L12063] Co-administration with ritonavir, a potent inhibitor of CYP3A enzymes, helps to stave off lopinavir's biotransformation and increase plasma levels of active antiviral drug. Twelve metabolites have been identified _in vitro_, with the C-4 oxidation products M1, M3, and M4 being the predominant metabolites found in plasma.[A191919] The structures of these primary metabolites have been identified, but precise structural information regarding the remaining minor metabolites has not been elucidated.",
+    "toxicity": "As lopinavir is only available in combination with ritonavir, experience with acute lopinavir overdose in isolation is limited. The risk related to overdose appears more pronounced in pediatric patients. One case report detailed a fatal cardiogenic shock in a 2.1kg infant following an approximately 10-fold overdose of Kaletra oral solution, while other reported reactions to overdose in infants include complete AV block, cardiomyopathy, lactic acidosis, and acute renal failure. The oral Kaletra solution is highly concentrated, posing a greater risk of overdose, and contains approximately 42% (v/v) ethanol, further increasing risk in children and infants.[L11163]\r\n\r\nThere is no antidote for lopinavir overdose. Treatment of overdose should consist largely of supportive measures and close observation of vital signs and clinical status of the affected patient. Consideration should be given to the removal of unabsorbed drug using gastric lavage or activated charcoal, if clinically indicated. Dialysis is unlikely to be of benefit as lopinavir is highly protein-bound, but may help to remove ethanol and propylene glycol from the circulation in the case of overdose with Kaletra oral solution.[L11163]",
+    "targets": [
+        [
+            "pol",
+            "Human immunodeficiency virus type 1 protease",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

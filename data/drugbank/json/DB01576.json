@@ -1,0 +1,94 @@
+{
+    "pharmgkb_id": "PA449269",
+    "drugbank_id": "DB01576",
+    "names": [
+        "Dextroamphetamine",
+        "Attentin",
+        "Dexamphetamine"
+    ],
+    "description": "Dextroamphetamine is the dextrorotatory enantiomer of amphetamine[A2505]. Dextroamphetamine was approved by the FDA in 2001 for the treatment of attention deficit hyperactivity disorder[L6010,Label].",
+    "indication": "Dextroamphetamine is indicated for the treatment of attention deficit hyperactivity disorder (ADHD).[Label]",
+    "pharmacodynamics": "Dextroamphetamine is a noncatecholamine, sympathomimetic amine that acts as a CNS stimulant.[Label] Dextroamphetamine raises systolic and diastolic blood pressure, acts as a weak bronchodilator, and also acts as a respiratory stimulant.[Label] The general mechanism of action of dextroamphetamine has not been well established.[Label]",
+    "mechanism-of-action": "The exact mechanism of amphetamines as a class is not known. Dextroamphetamine acts by preventing reuptake, increasing release, and stimulating reverse-transport of dopamine in synaptic clefts in the striatum.[A177253] Newer evidence shows amphetamines may also alter the number of dopamine transporters in synaptic clefts.[A177220]",
+    "absorption": "Bioavailability data of dextroamphetamine is not readily available, however there is no difference in bioavailability when taken with or without a meal.[Label]",
+    "metabolism": "Dextroamphetamine is metabolized by cytochrome P-450 2D6 in the liver to 4-hydroxyamphetamine and later conjugated by sulfotransferase or glucoronyltransferase.[A174292]",
+    "toxicity": "Dextroamphetamine has been shown to be teratogenic and embryotoxic in mice at 41 times the maximum human dose.[Label] These effects were not seen in rat or rabbit studies, and the effects on human pregnancy have not been studied.[Label] The risk and benefit of use during pregnancy should be weighed as bone deformities, tracheoesophageal fistula, anal atresia, low birthweight, and withdrawl have been reported in the children of mothers who were taking dextroamphetamine during pregnancy.[Label] Mothers should not take amphetamines while nursing as the drug is excreted in breast milk.[Label] Long term effects of dextroamphetamine have not bee determined in pediatric patients and dextroamphetamine should be avoided in children under 3 years.[Label]",
+    "targets": [
+        [
+            "SLC18A2",
+            "Synaptic vesicular amine transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ],
+        [
+            "TAAR1",
+            "Trace amine-associated receptor 1",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "tynA",
+            "Primary amine oxidase",
+            "Escherichia coli (strain K12)"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

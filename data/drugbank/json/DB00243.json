@@ -1,0 +1,208 @@
+{
+    "pharmgkb_id": "PA164746007",
+    "drugbank_id": "DB00243",
+    "names": [
+        "Ranolazine"
+    ],
+    "description": "Chronic angina is a common cardiovascular condition affecting millions worldwide and causes significant disability while interfering with daily activities.[A189234] Ranolazine is a well-tolerated piperazine derivative used for the management of this condition, offering relief from uncomfortable and debilitating symptoms.[L3580] With a mechanism of action different from drugs used to treat the same condition, ranolazine is a promising anti-anginal therapy. It was originally approved by the FDA in 2006.[L5440]",
+    "indication": "Ranolazine is indicated for the treatment of chronic angina. It can be used alone or in conjunction with nitrates, beta-blockers, angiotensin receptor blockers, anti-platelet drugs, calcium channel blockers, lipid-lowering drugs, and ACE inhibitors.[L3580]\r\n\r\nRanolazine has also been used off-label for the treatment of certain arrhythmias, including ventricular tachycardia, however, this use is not strongly  supported by scientific evidence.[A174940] Ranolazine has also been studied for the treatment of acute coronary syndrome, microvascular coronary dysfunction, arrhythmia, and glycemic control, which are not yet approved indications.[A174898,L3580]",
+    "pharmacodynamics": "Ranolazine exerts both antianginal and ischemic effects independent from lowering heart rate or blood pressure.[A189228,L3580] It blocks IKr, the rapid portion of the delayed rectifier potassium current, and prolongs the QTc interval in a dose-dependent fashion. The Ikr is important for cardiac repolarization.[L3580] Ranolazine exerts its therapeutic effects without negative chronotropic, dromotropic, or inotropic actions neither at rest, nor during exercise.[A174898]",
+    "mechanism-of-action": "Myocardial ischemia exerts effects on adenosine triphosphate flux, leading to a decrease in the energy available for contraction and relaxation of the heart muscle. Electrolyte balance of sodium and potassium is necessary for maintaining normal cardiac contraction and relaxation. Disruption of adequate sodium and potassium electrolyte balance leads to excessively high concentrations of sodium and calcium, which likely interferes with oxygen supply to the heart muscle. This imbalance eventually leads to angina symptoms of chest pain or pressure, nausea, and dizziness, among others.[A189234,L10965]\r\n\r\nThe mechanism of action for ranolazine is not fully understood.  At therapeutic concentrations, it can inhibit the cardiac late sodium\r\n205 current (INa), which may affect the electrolyte balance in the myocardium, relieving angina symptoms. The clinical significance this inhibition in the treatment of angina symptoms is not yet confirmed.[L3580]\r\n\r\nRanolazine inhibits sodium and potassium ion channel currents.[A174898]  It has been shown to  exert weak activity on L-type calcium channels making it a weak direct vasodilator and exerts minimal direct effects on atrioventricular nodal conduction.[A174913] Some additional mechanisms have been elucidated. Ranolazine exerts antagonistic activity towards the alpha 1 and beta 1 adrenergic receptors and inhibition of fatty acid oxidation.[A174898,A189252]",
+    "absorption": "The time to reach peak serum concentration is quite variable but has been observed to be in the range of 2-6 hours, with steady-state within 3 days.[A174898] The FDA indicates a Tmax of 3-5 hours.[L3580] The average steady-state Cmax is about 2600 ng/mL. Absorption of ranolazine is not significantly affected by food consumption.[A174940] The bioavailability of ranolazine taken in the tablet form compared to that from a solution of ranolazine is about 76%.[L3580]",
+    "metabolism": "Ranolazine is rapidly heavily metabolized in the liver an gastrointestinal tract through the activity of the CYP3A4 enzyme with minor contributions from CYP2D6.[A174898,A174913,L3580] More than 40 ranolazine metabolites have been found in plasma and more than 100 metabolites have been identified in the urine.[A174946] \r\n\r\nRanolazine and some of its metabolites are known to weakly inhibit CYP3A4. However, the activity of the metabolites of ranolazine has not been fully elucidated.[L5473]",
+    "toxicity": "The reported LD50 of oral ranolazine in the rat is 980 mg/kg.[MSDS] High oral doses of ranolazine have led to dizziness, nausea, and vomiting. These effects have been shown to be dose related. High intravenous doses can cause diplopia, confusion, paresthesia, in addition to syncope. In\r\nthe case of an overdose, provide supportive therapy accompanied by continuous ECG monitoring for QT interval prolongation.[L3580]\r\n",
+    "targets": [
+        [
+            "SCN1A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN10A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN11A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN2A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN3A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN4A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN5A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN7A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN8A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN9A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN1B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN2B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN3B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN4B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "KCNJ12",
+            "Inward rectifier potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNJ14",
+            "Inward rectifier potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNJ2",
+            "Inward rectifier potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNJ4",
+            "Inward rectifier potassium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1C",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1F",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB1",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB3",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB4",
+            "Voltage gated L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

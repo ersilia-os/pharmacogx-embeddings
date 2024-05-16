@@ -1,0 +1,176 @@
+{
+    "pharmgkb_id": "PA451799",
+    "drugbank_id": "DB00197",
+    "names": [
+        "Troglitazone",
+        "Noscal",
+        "Resulin",
+        "Rezulin",
+        "Romozin"
+    ],
+    "description": "Troglitazone was withdrawn in 2000 due to risk of hepatotoxicity. It was superseded by [pioglitazone] and [rosiglitazone].",
+    "indication": "For the treatment of Type II diabetes mellitus. It is used alone or in combination with a sulfonylurea, metformin, or insulin as an adjunct to diet and exercise.",
+    "pharmacodynamics": "Troglitazone is an oral antihyperglycemic agent which acts primarily by decreasing insulin resistance. Troglitazone is used in the management of type II diabetes (noninsulin-dependent diabetes mellitus (NIDDM) also known as adult-onset diabetes). It improves sensitivity to insulin in muscle and adipose tissue and inhibits hepatic gluconeogenesis. Troglitazone is not chemically or functionally related to either the sulfonylureas, the biguanides, or the g-glucosidase inhibitors. Troglitazone may be used concomitantly with a sulfonylurea or insulin to improve glycemic control.",
+    "mechanism-of-action": "Troglitazone is a thiazolidinedione antidiabetic agent that lowers blood glucose by improving target cell response to insulin. It has a unique mechanism of action that is dependent on the presence of insulin for activity. Troglitazone decreases hepatic glucose output and increases insulin dependent glucose disposal in skeletal muscle. Its mechanism of action is thought to involve binding to nuclear receptors (PPAR) that regulate the transcription of a number of insulin responsive genes critical for the control of glucose and lipid metabolism. Troglitazone is a ligand to both PPAR\u03b1 and PPAR\u03b3, with a highter affinity for PPAR\u03b3. The drug also contains an \u03b1-tocopheroyl moiety, potentially giving it vitamin E-like activity. Troglitazone has been shown to reduce inflammation, and is associated with a decrase in nuclear factor kappa-B (NF-\u03baB) and a concomitant increase in its inhibitor (I\u03baB). Unlike sulfonylureas, troglitazone is not an insulin secretagogue.",
+    "absorption": "Absorbed rapidly. Food increases the extent of absorption by 30% to 85%.",
+    "metabolism": "A sulfate conjugate metabolite (Metabolite 1) and a quinone metabolite (Metabolite 3) have been detected in the plasma of healthy males. A glucuronide conjugate (Metabolite 2) has been detected in the urine and also in negligible amounts in the plasma. In healthy volunteers and in patients with type 2 diabetes, the steady-state concentration of Metabolite 1 is six to seven times that of troglitazone and Metabolite 3. In in vivo drug interaction studies, troglitazone has been shown to induce cytochrome P450 CYP3A4 at clinically relevant doses.",
+    "toxicity": null,
+    "targets": [
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ],
+        [
+            "ESRRG",
+            "Estrogen-related receptor gamma",
+            "Humans"
+        ],
+        [
+            "ESRRA",
+            "Steroid hormone receptor ERR1",
+            "Humans"
+        ],
+        [
+            "PPARD",
+            "Peroxisome proliferator-activated receptor delta",
+            "Humans"
+        ],
+        [
+            "PPARA",
+            "Peroxisome proliferator-activated receptor alpha",
+            "Humans"
+        ],
+        [
+            "GSTP1",
+            "Glutathione S-transferase P",
+            "Humans"
+        ],
+        [
+            "ACSL4",
+            "Long-chain-fatty-acid--CoA ligase 4",
+            "Humans"
+        ],
+        [
+            "SERPINE1",
+            "Plasminogen activator inhibitor 1",
+            "Humans"
+        ],
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferase 1-4",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferase 1-6",
+            "Humans"
+        ],
+        [
+            "UGT1A7",
+            "UDP-glucuronosyltransferase 1-7",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferase 1-8",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferase 1-10",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

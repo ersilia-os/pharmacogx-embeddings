@@ -1,0 +1,60 @@
+{
+    "pharmgkb_id": "PA451733",
+    "drugbank_id": "DB00214",
+    "names": [
+        "Torasemide",
+        "Britomar",
+        "Diuver",
+        "Examide",
+        "Luprac",
+        "Soaanz",
+        "Torem",
+        "Trifas"
+    ],
+    "description": "Torasemide is a high-ceiling loop diuretic.[A174463] Structurally, it is a pyridine-sulfonylurea used as an antihypertensive agent.[A319] Torasemide was first approved for clinical use by the FDA in 1993.[L5257]",
+    "indication": "Torasemide is indicated for the treatment of edema associated with congestive heart failure, renal or hepatic diseases. From this condition, it has been observed that torasemide is very effective in cases of kidney failure.[FDA label]\r\n\r\nAs well, torasemide is approved to be used as an antihypertensive agent either alone or in combination with other antihypertensives.[FDA label]",
+    "pharmacodynamics": "It is widely known that administration of torasemide can attenuate renal injury and reduce the severity of acute renal failure. This effect is obtained by increasing urine output and hence, facilitating fluid, acid-base and potassium control.[A174466] This effect is obtained by the increase in the excretion of urinary sodium and chloride.[A174472]\r\n\r\nSeveral reports have indicated that torasemide presents a long-lasting diuresis and less potassium excretion which can be explained by the effect that torasemide has on the renin-angiotensin-aldosterone system. This effect is very similar to the effect observed with the administration of combination therapy with [furosemide] and [spironolactone] and it is characterized by a decrease in plasma brain natriuretic peptide and improved measurements of left ventricular function.[A174472] \r\n\r\nAbove the aforementioned effect, torasemide presents a dual effect .in which the inhibition of aldosterone which donates torasemide with a potassium-sparing action.[A174466]\r\n\r\nTorasemide has been shown to reduce extracellular fluid volume and blood pressure in hypertensive patients suffering from chronic kidney disease. As well, some reports have indicated that torasemide can reduce myocardial fibrosis by reducing the collagen accumulation. This effect is suggested to be related to the decrease in aldosterone which in order has been shown to reduce the production of the enzyme procollagen type I carboxy-terminal proteinase which is known to be overexpressed in heart failure patients.[A174463]",
+    "mechanism-of-action": "As mentioned above, torasemide is part of the loop diuretics and thus, it acts by reducing the oxygen demand in the medullary thick ascending loop of Henle by inhibiting the Na+/K+/Cl- pump on the luminal cell membrane surface.[A174466] This action is obtained by the binding of torasemide to a chloride ion-binding site of the transport molecule.[L5257]\r\n\r\nTorasemide is known to have an effect in the renin-angiotensin-aldosterone system by inhibiting the downstream cascade after the activation of angiotensin II. This inhibition will produce a secondary effect marked by the reduction of the expression of aldosterone synthase, TGF-B1 and thromboxane A2 and a reduction on the aldosterone receptor binding.[A174466, A174472]",
+    "absorption": "Torasemide is the diuretic with the highest oral bioavailability even in advanced stages of chronic kidney disease.[A174463] This bioavailability tends to be higher than 80% regardless of the patient condition. The maximal serum concentration is reported to be of 1 hour and the absorption parameters are not affected by its use concomitantly with food.[A174472]",
+    "metabolism": "Torasemide is extensively metabolized in the liver and only 20% of the dose remains unchanged and it is recovered in the urine.[A174475] Metabolized via the hepatic CYP2C8 and CYP2C9 mainly by reactions of hydroxylation, oxidation and reduction to 5 metabolites.[A174514] The major metabolite, M5, is pharmacologically inactive. There are 2 minor metabolites, M1, possessing one-tenth the activity of torasemide, and M3, equal in activity to torasemide. Overall, torasemide appears to account for 80% of the total diuretic activity, while metabolites M1 and M3 account for 9% and 11%, respectively.[A174508]",
+    "toxicity": "The oral LD50 of torasemide in the rat is 5 g/kg. When overdose occurs, there is a marked diuresis with the danger of loss of fluid and electrolytes which has been seen to lead to somnolence, confusion, hypotension, hyponatremia, hypokalemia, hypochloremic alkalosis, hemoconcentration dehydration and circulatory collapse. This effects can include some gastrointestinal disturbances.[L5260]\r\n\r\nThere is no increase in tumor incidence with torasemide and it is proven to not be mutagenic, not fetotoxic or teratogenic.[FDA label]",
+    "targets": [
+        [
+            "SLC12A2",
+            "Solute carrier family 12 member 2",
+            "Humans"
+        ],
+        [
+            "SLC12A1",
+            "Solute carrier family 12 member 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

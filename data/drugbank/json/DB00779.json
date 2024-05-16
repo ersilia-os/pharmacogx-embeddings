@@ -1,0 +1,69 @@
+{
+    "pharmgkb_id": "PA164746384",
+    "drugbank_id": "DB00779",
+    "names": [
+        "Nalidixic acid",
+        "Adix",
+        "Curiemylon",
+        "Degram",
+        "Delugi",
+        "Dixicon",
+        "Glanega",
+        "Gramazine",
+        "Gramoneg",
+        "Huei Yi",
+        "Lisalenb",
+        "Litalon",
+        "Nadixin",
+        "Nadon",
+        "Nagomin",
+        "Nal-acid",
+        "Nalic",
+        "Nalicid",
+        "Nalid",
+        "Nalidin",
+        "Nalidix",
+        "Naligram",
+        "Nalitomylon",
+        "Nalix",
+        "Nalixid",
+        "Nalixin",
+        "Nebactil",
+        "Negachine",
+        "Nevigramon",
+        "Unaserus",
+        "Wintomylon",
+        "Wintorin",
+        "Youdix",
+        "Zuno-Nathasid"
+    ],
+    "description": "Nalidixic acid is a synthetic 1,8-naphthyridine antimicrobial agent with a limited bacteriocidal spectrum. It is an inhibitor of the A subunit of bacterial DNA gyrase.",
+    "indication": "For the treatment of urinary tract infections caused by susceptible gram-negative microorganisms, including the majority of <i>E. Coli</i>, <i>Enterobacter</i> species, <i>Klebsiella</i> species, and <i>Proteus</i> species.",
+    "pharmacodynamics": "Nalidixic acid is a quinolone antibacterial agent for oral administration. Nalidixic acid has marked antibacterial activity against gram-negative bacteria including <i>Enterobacter</i> species, <i>Escherichia coli</i>, <i>Morganella Morganii</i>; <i>Proteus Mirabilis</i>, <i>Proteus vulgaris</i>, and <i>Providencia rettgeri</i>. <i>Pseudomonas</i> species are generally resistant to the drug. Nalidixic acid is bactericidal and is effective over the entire urinary pH range. Conventional chromosomal resistance to nalidixic acid taken in full dosage has been reported to emerge in approximately 2 to 14 percent of patients during treatment; however, bacterial resistance to nalidixic acid has not been shown to be transferable via R factor.",
+    "mechanism-of-action": "Evidence exists for Nalidixic acid that its active metabolite, hydroxynalidixic acid, binds strongly, but reversibly, to DNA, interfering with synthesis of RNA and, consequently, with protein synthesis.",
+    "absorption": "Following oral administration, nalidixic acid is rapidly absorbed from the gastrointestinal tract. Bioavailability is approximately 96%. Absorption may be delayed if taken with antacids.",
+    "metabolism": "Hepatic. 30% of administered dose is metabolized to the active metabolite, hydroxynalidixic acid. Rapid conjugation of parent drug and active metabolite to inactive metabolites. Metabolism may vary widely among individuals. In the urine, hydroxynalidixic acid represents 80 to 85% of the antibacterial activity.",
+    "toxicity": "ORAL (LD<sub>50</sub>): Acute: 1160 mg/kg [Rat]. 572 mg/kg [Mouse]. Toxic psychosis, convulsions, increased intracranial pressure, or metabolic acidosis may occur in patients taking more than the recommended dosage. Vomiting, nausea, and lethargy may also occur following overdosage.",
+    "targets": null,
+    "enzymes": [
+        [
+            "TDO2",
+            "Tryptophan 2,3-dioxygenase",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

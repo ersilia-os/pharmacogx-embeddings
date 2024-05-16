@@ -1,0 +1,40 @@
+{
+    "pharmgkb_id": "PA10079",
+    "drugbank_id": "DB01288",
+    "names": [
+        "Fenoterol",
+        "Alveofen",
+        "Berotec",
+        "Berotec N",
+        "Cenfenol",
+        "Partusisten"
+    ],
+    "description": "Fenoterol is an adrenergic beta-2 agonist that is used as a bronchodilator and tocolytic.",
+    "indication": "Fenoterol is used for the treatment of asthma.",
+    "pharmacodynamics": "Fenoterol is a beta agonist designed to open up the airways to the lungs by decreasing bronchconstriction.",
+    "mechanism-of-action": "Beta(2)-receptor stimulation in the lung causes relaxation of bronchial smooth muscle, bronchodilation, and increased bronchial airflow.",
+    "absorption": null,
+    "metabolism": "Hepatic.",
+    "toxicity": "Symptoms of overdose include angina (chest pain), dizziness, dry mouth, fatigue, flu-like symptoms, headache, heart irregularities, high or low blood pressure, high blood sugar, insomnia, muscle cramps, nausea, nervousness, rapid heartbeat, seizures, and tremor.",
+    "targets": [
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta-3 adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

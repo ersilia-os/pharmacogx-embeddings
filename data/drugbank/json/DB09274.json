@@ -1,0 +1,68 @@
+{
+    "pharmgkb_id": "PA165111697",
+    "drugbank_id": "DB09274",
+    "names": [
+        "Artesunate"
+    ],
+    "description": "Artesunate is indicated for the initial treatment of severe malaria.[L14099] The World Health Organization recommends artesunate as first line treatment for severe malaria.[L890] Artesunate was developed out of a need for a more hydrophilic derivative of [artemisinin].[A203948]\r\n\r\nArtesunate was granted FDA approval on 26 May 2020.[L14099]",
+    "indication": "Artesunate is indicated for the initial treatment of severe malaria in adult and pediatric patients.[L14099]",
+    "pharmacodynamics": "Artesunate is an artemisinin derivative that is metabolized to DHA, which generates free radicals to inhibit normal function of _Plasmodium_ parasites.[A18389,L891,L14099] It has a short duration of action due to its short half life, and a moderate therapeutic index.[L891,L14099] Patients should be counselled regarding the risk of post treatment hemolytic anemia and hypersenstivity.[L14099]",
+    "mechanism-of-action": "Artesunate is metabolized to the active DHA.[L14099] the endoperoxide bridge of DHA reacts with heme, generating free radicals which inhibit protein and nucleic acid synthesis of the _Plasmodium_ parasites during all erythrocytic stages.[L14099,L891] Reactions with these free radicals can also lead to alkylation of parasitic proteins such as a calcium adenosine triphosphatase and EXP1, a glutathione S-transferase.[A18389,L891]",
+    "absorption": "The C<sub>max</sub> of artesunate is 3.3\u00b5g/mL while the C<sub>max</sub> of the active metabolite DHA is 3.1\u00b5g/mL.[L14099] The AUC of artesunate is 0.7\u00b5g\\*h/mL while the AUC of DHA is 3.5\u00b5g\\*h/mL.[L14099] After intravenous artesunate, DHA has a T<sub>max</sub> of 0.5-15 minutes in adult patients and 21-64 minutes in pediatric patients.[L891] Intramuscular artesunate has a T<sub>max</sub> of 8-12 minutes.[L891] Infants less than 6 months old will have a higher AUC due to an undeveloped UGT metabolic pathway.[L14099]",
+    "metabolism": "Artesunate is rapidly metabolized to dihydroartemisinin (DHA) by plasma esterases.[L14099] DHA is glucuronidated by UGT1A9 and UGT2B7 to DHA-glucuronide.[A203894,L14099] DHA-glucuronide can undergo a minor metabolic pathway to for a furano acetate derivative of DHA-glucuronide.[A203894] CYP2A6 may minorly contribute to the metabolism of artesunate.[L891]",
+    "toxicity": "Data regarding overdoses of artesunate are rare.[L14099] Patients experiencing an overdose may present with pancytopenia, melena, seizures, multiorgan failure, and death.[L14099] Treat overdose with symptomatic and supportive measures.[L14099]",
+    "targets": [
+        [
+            "EXP-1",
+            "Malaria protein EXP-1",
+            "Plasmodium falciparum"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

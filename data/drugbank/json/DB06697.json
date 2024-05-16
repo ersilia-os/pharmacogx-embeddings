@@ -1,0 +1,45 @@
+{
+    "pharmgkb_id": "PA165111698",
+    "drugbank_id": "DB06697",
+    "names": [
+        "Artemether"
+    ],
+    "description": "Artemether is an antimalarial agent used to treat acute uncomplicated malaria. It is administered in combination with lumefantrine for improved efficacy. This combination therapy exerts its effects against the erythrocytic stages of <i>Plasmodium spp.</i> and may be used to treat infections caused by <i>P. falciparum</i> and unidentified <i>Plasmodium</i> species, including infections acquired in chloroquine-resistant areas.",
+    "indication": "Artemether and lumefantrine combination therapy is indicated for the treatment of acute uncomplicated malaria caused by <i>Plasmodium falciparum</i>, including malaria acquired in chloroquine-resistant areas. May also be used to treat uncomplicated malaria when the <i>Plasmodium</i> species has not been identified. Indicated for use in adults and children greater than 5 kg. ",
+    "pharmacodynamics": "In the body, artemether is metabolized into the active metabolite metabolite dihydroartemisinin. The drug works against the erythrocytic stages of <i>P. falciparum</i> by inhibiting nucleic acid and protein synthesis. Artemether is administered in combination with lumefantrine for improved efficacy. Artemether has a rapid onset of action and is rapidly cleared from the body. It is thought that artemether provides rapid symptomatic relief by reducing the number of malarial parasites. Lumefantrine has a much longer half life and is believed to clear residual parasites. ",
+    "mechanism-of-action": "Involves an interaction with ferriprotoporphyrin IX (\u201cheme\u201d), or ferrous ions, in the acidic parasite food vacuole, which results in the generation of cytotoxic radical species. \r\n\r\nThe generally accepted mechanism of action of peroxide antimalarials involves interaction of the peroxide-containing drug with heme, a hemoglobin degradation byproduct, derived from proteolysis of hemoglobin. This interaction is believed to result in the formation of a range of potentially toxic oxygen and carbon-centered radicals.",
+    "absorption": "Food increases absorption. ",
+    "metabolism": "Rapidly metablized to its active metabolite, dihydroartemisinin. ",
+    "toxicity": "Animal studies on acute toxicity show that the LD50 of Artemether in mice is a single i.g. administration of 895mg/kg and a single i.m. injection of 296mg/kg dose; in rats, the LD50 is a single i.m. injection of 597mg/kg dose.",
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

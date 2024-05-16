@@ -1,0 +1,102 @@
+{
+    "pharmgkb_id": "PA450146",
+    "drugbank_id": "DB05667",
+    "names": [
+        "Levoketoconazole"
+    ],
+    "description": "Cushing's syndrome (CS) is underpinned by chronic hypercortisolism leading to multisystem morbidity, including effects on the cardiovascular and endocrine systems, metabolic syndrome with accompanying changes in body composition, neuropsychiatric effects, changes in blood pressure and chemistry, and opportunistic infections.[A244078, A244083] [Ketoconazole] has been used both on- and off-label to treat CS due to its ability to inhibit cortisol production. Still, toxicity has limited its use, notably hepatic toxicity and a tendency to prolong the QT interval.[A244083] Levoketoconazole is one of two enantiomers present in racemic [ketoconazole]. It possesses most of the inhibitory effect towards steroidogenic enzymes, making it an attractive candidate for CS treatment with a potentially lower toxicity profile than its racemate.[A244083, A29319, L39573]\r\n\r\nLevoketoconazole was approved by the FDA on December 30, 2021, and is currently marketed under the registered trademark RECORLEV by Xeris Pharmaceuticals, Inc.[L39563]",
+    "indication": "Levoketoconazole is indicated for the treatment of endogenous hypercortisolemia in adult patients with Cushing\u2019s syndrome for whom surgery is not an option or has not been curative. Levoketoconazole is not indicated for the treatment of fungal infections.[L39563]",
+    "pharmacodynamics": "Levoketoconazole is a steroidogenic inhibitor that reduces morbidity and mortality due to hypercortisolism associated with Cushing's syndrome.[A244083, L39563, L39573] Due to its mechanism of action, levoketoconazole may cause hypocortisolism and decreased serum testosterone levels in both sexes. Levoketoconazole is known to cause dose-dependent increases in the QTc interval; at dose levels between 150 and 600 mg twice daily, the largest mean increase in the QTc was 24 msec. Hypersensitivity to levoketoconazole has been observed, and anaphylaxis has been reported with the racemic [ketoconazole].[L39563]",
+    "mechanism-of-action": "Cushing's syndrome (CS) is underpinned by chronic hypercortisolism leading to multisystem morbidity, including effects on the cardiovascular and endocrine systems, metabolic syndrome with accompanying changes in body composition, neuropsychiatric effects, changes in blood pressure and chemistry, and opportunistic infections. CS is most commonly caused by an ACTH-producing pituitary adenoma (ACTH-dependent CS) but may also be caused by an adrenal adenoma, adrenal carcinoma, or adrenal hyperplasia (ACTH-independent CS). As hypercortisolism is associated with significant morbidity and increased mortality, the primary goal of therapy is to normalize cortisol levels, either through surgical resection of the associated tumour or, when surgery is unsuccessful or inappropriate, radiological or chemotherapeutic treatment.[A244078, A244083]\r\n\r\nDifferent medications target different axes of the underlying etiology of CS; steroidogenic enzyme inhibitors are effective against all forms of CS. [Ketoconazole], which is indicated for endogenous CS by the EMA and used for the same indication off-label in the US,[A244083] is a racemate of 2S,4R (levoketoconazole) and 2R,4S (dextroketoconazole) _cis_-enantiomers known to inhibit multiple CYP450 enzymes.[A244083] Studies using enantiomerically pure versions deduced that levoketoconazole is between 1.2-2.7 times more potent at inhibiting the key steroidogenic enzymes CYP11A1, CYP11B1, CYP11B2, and CYP17A1 than racemic [ketoconazole], and ~15-25 times more potent than dextroketoconazole, suggesting that the majority of the therapeutic efficacy of [ketoconazole] in CS is due to levoketoconazole.[A244083, A29319, L39573] Hence, levoketoconazole directly inhibits key enzymes in cortisol and testosterone synthesis.[L39563]\r\n\r\nAs levoketoconazole is a more potent steroidogenic inhibitor than [ketoconazole], lower concentrations should achieve the same therapeutic effect and may also decrease the risk of hepatic toxicity.[A244083] In addition to the dose consideration, levoketoconazole is 12 times less potent than dextroketoconazole at inhibiting CYP7A1, a rate-limiting enzyme for bile acid synthesis.[A244083, A29319] However, levoketoconazole is roughly two times more potent at inhibiting CYP3A4 than dextroketoconazole.[A23103, A244088]",
+    "absorption": "Levoketoconazole has a T<sub>max</sub> of ~1.5-2 hours regardless of dose, while the C<sub>max</sub> increases proportionally with the dose. The AUC increases greater than dose proportionally over the recommended range of 150-600 mg. Co-administration of a single 600 mg oral dose with a high-fat meal increased the AUC by 30% with no change in C<sub>max</sub> and a delay in the median T<sub>max</sub> from two to four hours. The pharmacokinetics of racemic [ketoconazole] are not significantly different in patients with renal impairment; given the extensive hepatic metabolism of [ketoconazole], it is expected that hepatic impairment will affect the pharmacokinetics of levoketoconazole.[L39563]",
+    "metabolism": "No _in vitro_ or _in vivo_ studies of levoketoconazole metabolism have been performed. [Ketoconazole] is known to be hepatically metabolized to several inactive metabolites, mainly through oxidation of the imidazole and piperazine rings, together with oxidative O-dealkylation and aromatic hydroxylation.[L39563] Levoketoconazole is known to both induce and strongly inhibit CYP3A4.[A23103, A244088, L39563]",
+    "toxicity": "Toxicity information regarding levoketoconazole is not readily available. Patients experiencing an overdose are at an increased risk of severe adverse effects such as nausea, vomiting, hypokalemia, hemorrhage, systemic hypertension, headache, hepatic injury, abnormal uterine bleeding, erythema, fatigue, abdominal pain/dyspepsia, arthritis, upper respiratory infection, myalgia, arrhythmia, back pain, insomnia/sleep disturbances, and peripheral edema. Symptomatic and supportive measures are recommended; within the first hour following ingestion, activated charcoal may be beneficial.[L39563]",
+    "targets": [
+        [
+            "CYP17A1",
+            "Steroid 17-alpha-hydroxylase/17,20 lyase",
+            "Humans"
+        ],
+        [
+            "CYP11B1",
+            "Cytochrome P450 11B1, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CYP11B2",
+            "Cytochrome P450 11B2, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CYP11A1",
+            "Cholesterol side-chain cleavage enzyme, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CYP51A1",
+            "Lanosterol 14-alpha demethylase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP7A1",
+            "Cytochrome P450 7A1",
+            "Humans"
+        ],
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ],
+        [
+            "CYP21A2",
+            "Steroid 21-hydroxylase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

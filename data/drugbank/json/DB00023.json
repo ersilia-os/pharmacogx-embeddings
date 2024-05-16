@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA448492",
+    "drugbank_id": "DB00023",
+    "names": [
+        "Asparaginase Escherichia coli"
+    ],
+    "description": "Asparaginase derived from _Escherichia coli_ (L-asparagine amidohydrolase, EC 3.5.1.1) is an enzyme responsible for the metabolism of L-asparagine, by catalyzing L-asparagine into L-aspartic acid and ammonia. It also facilitates the production of oxaloacetate which is needed for general cellular metabolism. Asparaginase from _E. coli_ has clinically shown to exhibit antitumor actions in models of leukaemias [A31996, A31997]. L-asparaginase of _E. coli_ is marketed under several different trade names, including Elspar, for the treatment of acute lymphoblastic leukemia (ALL) as part of a multi-agent chemotherapeutic regimen. It is available as intramuscular or intravenous injections. Therapeutic L-asparaginase from _E. coli_ works by depleting the levels of non-essential amino acid, asparagine, in lymphoblastic leukemic cells thus promoting apoptotic cell death [A31999]. For patients who develop hypersensitivity to _E. coli_-derived formulations of L-asparaginase, the use of PEGylated or non-PEGylated [DB08886] is recommended [A31999].",
+    "indication": "Indicated as a component of a multi-agent chemotherapeutic regimen for the treatment of patients with acute lymphoblastic leukemia (ALL).[L39809]",
+    "pharmacodynamics": "In clinical trials of patients with previously untreated, standard-risk ALL, administration of asparaginase resulted in a decrease of plasma asparagine levels from average of 41 \u03bcM to less than 3 \u03bcM [FDA Label]. The native asparaginase in whom plasma enzyme activity before treatment was greater than 0.1 International Units/mL [FDA Label]. In this study, cerebrospinal fluid asparagine levels in patients treated with asparaginase decreased from 2.8 \u03bcM (pretreatment) to 1.0 \u03bcM and 0.3 \u03bcM at day 7 and day 28 of induction, respectively [FDA Label]. Native E. coli asparaginase results in asparagine depletion in 14 to 23 days following administration [A31999].",
+    "mechanism-of-action": "Asparagine is a non-essential amino acid that maintains DNA, RNA and protein synthesis and promotes cell growth. While healthy and normal cells are capable of obtaining asparagine via dietary intake or synthesizing the asparagine from aspartate via asparagine synthetase activity, lymphoblastic leukemic cells lack the asparagine synthetase enzyme and cannot produce asparagine _de novo_ [A31999]. Thus, leukemic cells rely on exogenous source of asparagine for protein synthesis and cell survival [A31999]. L-asparagine from E. coli serves to deplete plasma levels of asparagine in leukemic cells by converting L-asparagine to L-aspartic acid and ammonia [A31999], leading to reduced reduced DNA, RNA and protein synthesis; inhibition of cell growth; and ultimately the activation of apoptotic cell-death mechanisms [A31999]. Normal cells, however, are able to synthesize asparagine and thus are affected less by the rapid depletion produced by treatment with the enzyme asparaginase [FDA Label].",
+    "absorption": "In a study in patients with metastatic cancer and leukemia, daily intravenous administration of L-asparaginase derived from _E. coli_ resulted in a cumulative increase in plasma levels. Following intramuscular injection in patients with metastatic cancer and leukemia, peak plasma levels of asparaginase was achieved 14 to 24 hours post-dosing [FDA Label].\r\n\r\nPeak asparaginase activity of native _E. coli_ asparaginase can be observed in 24 to 48 hours following administration [A31999]. ",
+    "metabolism": null,
+    "toxicity": "No studies assessing the mutagenic or carcinogenic potential of _E. coli_ L-asparagine have been conducted. In the Ames assay, no mutagenic effect was demonstrated when tested against Salmonella typhimurium strains [FDA Label]. No studies have been performed on impairment of fertility [FDA Label]. Following a single, intravenous injection of 12,500 to 50,000 International Units L-asparagine/kg in rabbits, edema and necrosis of pancreatic islets were observed. The clinical relevance of this finding is unclear as it does not indicate pancreatitis [FDA Label].",
+    "targets": null,
+    "enzymes": null,
+    "transporters": null,
+    "carriers": [
+        [
+            "SERPINA7",
+            "Thyroxine-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

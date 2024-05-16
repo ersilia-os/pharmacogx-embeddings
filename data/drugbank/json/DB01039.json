@@ -1,0 +1,107 @@
+{
+    "pharmgkb_id": "PA449594",
+    "drugbank_id": "DB01039",
+    "names": [
+        "Fenofibrate",
+        "Fenogal",
+        "Lipanthyl",
+        "Lipantil",
+        "Lipidil"
+    ],
+    "description": "Fenofibrate is a fibric acid derivative like [clofibrate] and [gemfibrozil].[A185954] Fenofibrate is used to treat primary hypercholesterolemia, mixed dyslipidemia, severe hypertriglyceridemia.[L8588,L8591]\r\n\r\nFenofibrate was granted FDA approval on 31 December 1993.[L8585]",
+    "indication": "Fenofibrate is indicated as adjunctive therapy to diet to reduce elevated LDL-C, Total-C, Triglycerides, and Apo B, and to increase HDL-C adults with primary hypercholesterolemia or mixed dyslipidemia.[L8588,L8591] Fenofibrate is also indicated to treat adults with severe hypertriglyceridemia.[L8588,L8591]",
+    "pharmacodynamics": "Fenofibrate is a fibrate that activates peroxisome proliferator activated receptor alpha (PPAR\u03b1) to alter lipid metabolism and treat primary hypercholesterolemia, mixed dyslipidemia, and severe hypertriglyceridemia.[A186002,L8588,L8591] Fenofibrate requires once daily dosing and has a half life of 19-27 hours so its duration of action is long.[A36366,L8588,L8591] Fenofibrate capsules are given at a dose of 50-150mg daily so the therapeutic index is wide.[L8591] Patients should be counselled about the risk of rhabdomyolysis, myopathy, and cholelithiasis when taking fibrates.[L8588,L8591]",
+    "mechanism-of-action": "Fenofibrate activates peroxisome proliferator activated receptor alpha (PPAR\u03b1), increasing lipolysis, activating lipoprotein lipase, and reducing apoprotein C-III.[A186002,L8588,L8591] PPAR\u03b1 is a nuclear receptor and its activation alters lipid, glucose, and amino acid homeostasis.[A186002] Activation of PPAR\u03b1 activates transcription of gene transcription and translation that generates peroxisomes filled with hydrogen peroxide, reactive oxygen species, and hydroxyl radicals that also participate in lipolysis.[A186005] This mechanism of increased lipid metabolism is also associated with increased oxidative stress on the liver.[A186005] In rare cases this stress can lead to cirrhosis and chronic active hepatitis.[A186002,L8588,L8591]",
+    "absorption": "A single 300mg oral dose of fenofibrate reaches a C<sub>max</sub> of 6-9.5mg/L with a T<sub>max</sub> of 4-6h in healthy, fasting volunteers.[A185954]",
+    "metabolism": "Fenofibrate is completely hydrolyzed by liver carboxylesterase 1 to fenofibric acid.[A185972,L8588,L8591] Fenofibric acid is either glucuronidated or has its carbonyl group reduced to a benzhydrol that is then glucuronidated.[L8588,L8591] Glucuronidation of fenofibrate metabolites is mediated by UGT1A9.[A17495] Reduction of the carbonyl group is primarily mediated by CBR1 and minorly by AKR1C1, AKR1C2, AKR1C3, and AKR1B1.[A185984]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is >2g/kg and in mice is 1600mg/kg.[L8651] The oral TDLO in rats is 9mg/kg.[L8651]\r\n\r\nTreat patients with supportive care including monitoring of vital signs and observing clinical status.[L8588,L8591] Recent overdose may be treated with inducing vomiting or gastric lavage.[L8588,L8591] Due to fenofibrate's extensive protein binding, hemodialysis is not expected to be useful.[A185936,L8588,L8591]",
+    "targets": [
+        [
+            "PPARA",
+            "Peroxisome proliferator-activated receptor alpha",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ],
+        [
+            "MMP25",
+            "Matrix metalloproteinase-25",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ],
+        [
+            "CBR1",
+            "Carbonyl reductase [NADPH] 1",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "AKR1C1",
+            "Aldo-keto reductase family 1 member C1",
+            "Humans"
+        ],
+        [
+            "AKR1C2",
+            "Aldo-keto reductase family 1 member C2",
+            "Humans"
+        ],
+        [
+            "AKR1C3",
+            "Aldo-keto reductase family 1 member C3",
+            "Humans"
+        ],
+        [
+            "AKR1B1",
+            "Aldose reductase",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

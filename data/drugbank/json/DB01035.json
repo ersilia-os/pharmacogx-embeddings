@@ -1,0 +1,85 @@
+{
+    "pharmgkb_id": "PA451108",
+    "drugbank_id": "DB01035",
+    "names": [
+        "Procainamide",
+        "Biocoryl",
+        "Procan",
+        "Procapan"
+    ],
+    "description": "A derivative of procaine with less CNS action.",
+    "indication": "For the treatment of life-threatening ventricular arrhythmias.",
+    "pharmacodynamics": "Procainamide is an agent indicated for production of local or regional anesthesia and in the treatment of ventricular tachycardia occurring during cardiac manipulation, such as surgery or catheterization, or which may occur during acute myocardial infarction, digitalis toxicity, or other cardiac diseases. The mode of action of the antiarrhythmic effect of Procainamide appears to be similar to that of procaine and quinidine. Ventricular excitability is depressed and the stimulation threshold of the ventricle is increased during diastole. The sinoatrial node is, however, unaffected.",
+    "mechanism-of-action": "Procainamide is sodium channel blocker. It stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses thereby effecting local anesthetic action.",
+    "absorption": "75 to 95%",
+    "metabolism": "Hepatic",
+    "toxicity": "LD<sub>50</sub>=95 mg/kg (rat, IV); LD<sub>50</sub>=312 mg/kg (mouse, oral); LD<sub>50</sub>=103 mg/kg (mouse, IV); LD<sub>50</sub>=250 mg/kg (rabbit, IV)",
+    "targets": [
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "SCN5A",
+            "Sodium channel protein type 5 subunit alpha",
+            "Humans"
+        ],
+        [
+            "DNMT1",
+            "DNA (cytosine-5)-methyltransferase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

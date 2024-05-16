@@ -1,0 +1,55 @@
+{
+    "pharmgkb_id": "PA449894",
+    "drugbank_id": "DB01275",
+    "names": [
+        "Hydralazine",
+        "Alphapress",
+        "Aprezin",
+        "Cesoline W",
+        "Cesoline Y",
+        "Diazide",
+        "Hidral",
+        "Pressfall",
+        "Serpathiazide"
+    ],
+    "description": "Originally developed in the 1950s as a malaria treatment, hydralazine showed antihypertensive ability and was soon repurposed.[A186841] Hydralazine is a hydrazine derivative vasodilator used alone or as adjunct therapy in the treatment of hypertension and only as adjunct therapy in the treatment of heart failure.[A186820,L8782,L8785] Hydralazine is no longer a first line therapy for these indications since the development of newer antihypertensive medications.[T691]\r\n\r\nHydralazine hydrochloride was FDA approved on 15 January 1953.[L8779]",
+    "indication": "Hydralazine is indicated alone or adjunct to standard therapy to treat essential hypertension.[L8782] A combination product with isosorbide dinitrate is indicated as an adjunct therapy in the treatment of heart failure.[L8785]",
+    "pharmacodynamics": "Hydralazine interferes with calcium transport to relax arteriolar smooth muscle and lower blood pressure.[L8782] Hydralazine has a short duration of action of 2-6h.[A186820] This drug has a wide therapeutic window, as patients can tolerate doses of up to 300mg.[L8782] Patients should be cautioned regarding the risk of developing systemic lupus erythematosus syndrome.[L8782]",
+    "mechanism-of-action": "Hydralazine may interfere with calcium transport in vascular smooth muscle by an unknown mechanism to relax arteriolar smooth muscle and lower blood pressure.[A186820,A13596] The interference with calcium transport may be by preventing influx of calcium into cells, preventing calcium release from intracellular compartments, directly acting on actin and myosin, or a combination of these actions.[A186829] This decrease in vascular resistance leads to increased heart rate, stroke volume, and cardiac output.[L8782]\r\n\r\nHydralazine also competes with protocollagen prolyl hydroxylase (CPH) for free iron.[A13596] This competition inhibits CPH mediated hydroxylation of HIF-1\u03b1, preventing the degradation of HIF-1\u03b1.[A13596] Induction of HIF-1\u03b1 and VEGF promote proliferation of endothelial cells and angiogenesis.[A13596]",
+    "absorption": "Taking oral hydralazine with food improves the bioavailability of the drug.[A186835] An intravenous dose of 0.3mg/kg leads to an AUC of 17.5-29.4\u00b5M\\*min and a 1mg/kg oral dose leads to an AUC of 4.0-30.4\u00b5M\\*min.[A186838] The C<sub>max</sub> of oral hydralazine is 0.12-1.31\u00b5M depending on the acetylator status of patients.[A186838]",
+    "metabolism": "Acetylation is a minor metabolic pathway for hydralazine; the major pathway is hydroxylation followed by glucuronidation.[A186310] There are 5 identified metabolic pathways for hydralazine.[A186301,A186754,A186316,A186310,A186319,A186769]\r\n\r\nHydralazine can be metabolized to phthalazine or \u03b1-ketoglutarate hydrazone.[A186301,A186310] These metabolites can be further converted to phthalazinone or hydralazine can be metabolized directly to phthalazinone.[A186301,A186310]\r\n\r\nHydralazine can undergo a reversible converstion to the active hydralazine acetone hydrazone.[A186319,A186769]\r\n\r\nHydralazine is spontaneously converted to the active pyruvic acid hydrazone or the pyruvic acid hydrazone tricyclic dehydration product, and these metabolites can convert back and forth between these 2 forms.[A186301,A186316]\r\n\r\nHydralazine can be converted to hydrazinophthalazinone, which is further converted to the active acetylhydrazinophthalazinone.[A186301,A186310]\r\n\r\nThe final metabolic process hydralazine can undergo is the conversion to an unnamed hydralazine metabolite, which is further metabolized to 3-methyl-s-triazolophthalazine (MTP).[A186301] MTP can be metabolized to 9-hydroxy-methyltriazolophthalazine or 3-hydroxy-methyltriazolophthalazine; the latter is converted to triazolophthalazine.[A186301]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is 173-187mg/kg and the highest known dose an adult human has survived is 10g orally.[L8782]\r\n\r\nPatients experiencing an overdose may present with hypotension, tachycardia, headache, flushing, myocardial ischemia, myocardial infarction, cardiac arrhythmia, and shock.[L8782] Overdose can be treated through emptying the gastric contents and administering activated charcoal, though these treatments may cause further arrhythmias and shock.[L8782] Supportive and symptomatic treatment should be administered.[L8782]",
+    "targets": [
+        [
+            "AOC3",
+            "Membrane primary amine oxidase",
+            "Humans"
+        ],
+        [
+            "HIF1A",
+            "Hypoxia-inducible factor 1-alpha",
+            "Humans"
+        ],
+        [
+            "P4HA1",
+            "Prolyl 4-hydroxylase subunit alpha-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

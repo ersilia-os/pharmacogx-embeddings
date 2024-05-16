@@ -1,0 +1,37 @@
+{
+    "pharmgkb_id": "PA449563",
+    "drugbank_id": "DB00990",
+    "names": [
+        "Exemestane",
+        "Exemestance"
+    ],
+    "description": "Exemestane is an oral steroidal aromatase inhibitor used in the adjuvant treatment of hormonally-responsive (also called hormone-receptor-positive, estrogen-responsive) breast cancer in postmenopausal women. It irreversibly binds to the active site of the enzyme resulting in permanent inhibition.",
+    "indication": "For the treatment of advanced breast cancer in postmenopausal women whose disease has progressed following tamoxifen therapy.",
+    "pharmacodynamics": "Aromatase is an enzyme that converts hormones to estrogen in the body's adrenal glands. The aromatase inhibitors (AIs) are drugs that reduce estrogen levels by blocking the action of aromatase in the adrenal glands. The selective AIs (SAIs) selectively reduce levels of estrogen without interfering with levels of other steroid hormones that are produced by the adrenal gland. Drugs in this class include anastrozole (Arimidex &trade;), letrozole (Femara &trade;) and exemestane (Aromasin &trade;).",
+    "mechanism-of-action": "Breast cancer cell growth may be estrogen-dependent. Aromatase (exemestane) is the principal enzyme that converts androgens to estrogens both in pre- and postmenopausal women. While the main source of estrogen (primarily estradiol) is the ovary in premenopausal women, the principal source of circulating estrogens in postmenopausal women is from conversion of adrenal and ovarian androgens (androstenedione and testosterone) to estrogens (estrone and estradiol) by the aromatase enzyme in peripheral tissues. Estrogen deprivation through aromatase inhibition is an effective and selective treatment for some postmenopausal patients with hormone-dependent breast cancer. Exemestane is an irreversible, steroidal aromatase inactivator, structurally related to the natural substrate androstenedione. It irreversibly binds to the active site causing permanent inhibition necessitating de novo synthesis to restore enzymatic function. Exemestane significantly lowers circulating estrogen concentrations in postmenopausal women, but has no detectable effect on the adrenal biosynthesis of corticosteroids or aldosterone. This reduction in serum and tumor concentrations of estrogen delays tumor growth and disease progression. Exemestane has no effect on other enzymes involved in the steroidogenic pathway up to a concentration at least 600 times higher than that inhibiting the aromatase enzyme.",
+    "absorption": "42%",
+    "metabolism": "Hepatic",
+    "toxicity": "Convulsions",
+    "targets": [
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

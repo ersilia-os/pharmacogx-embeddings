@@ -1,0 +1,49 @@
+{
+    "pharmgkb_id": "PA449761",
+    "drugbank_id": "DB00222",
+    "names": [
+        "Glimepiride",
+        "GLIMPID",
+        "GLIMY"
+    ],
+    "description": "First introduced in 1995, glimepiride is a member of the second-generation sulfonylurea (SU) drug class used for the management of type 2 diabetes mellitus (T2DM) to improve glycemic control. Type 2 diabetes is a metabolic disorder with increasing prevalences worldwide; it is characterized by insulin resistance in accordance with progressive \u03b2 cell failure and long-term microvascular and macrovascular complications that lead to co-morbidities and mortalities. Sulfonylureas are one of the insulin secretagogues widely used for the management of type 2 diabetes to lower blood glucose levels. The main effect of SUs is thought to be effective when residual pancreatic \u03b2-cells are present,[A177715] as they work by stimulating the release of insulin from the pancreatic beta cells and they are also thought to exert extra-pancreatic effects, such as increasing the insulin-mediated peripheral glucose uptake.[A177709] \r\n\r\nGlimepiride works by stimulating the secretion of insulin granules from pancreatic islet beta cells by blocking ATP-sensitive potassium channels (K<SUB>ATP</SUB> channels) and causing depolarization of the beta cells. Compared to [glipizide], another second SU drug, glimepiride has a longer duration of action. It is sometimes classified as a third-generation SU because it has larger substitutions than other second-generation SUs.[A177703] Compared to other SUs, glimepiride was associated with a lower risk of developing hypoglycemia and weight gain in clinical trials [A177709] as well as fewer cardiovascular effects than other SUs due to minimal effects on ischemic preconditioning of cardiac myocytes.[A177703] It is effective in reducing fasting plasma glucose, postprandial glucose, and glycosylated hemoglobin levels and is considered to be a useful, cost-effective treatment option for managing type 2 diabetes mellitus.[A177703] Glimepiride was approved by the Food and Drug Administration (FDA) in the United States in 1995 for the treatment of T2DM. It is commonly marketed under the brand name Amaryl as oral tablets and is typically administered once daily.",
+    "indication": "Glimepiride is indicated for the management of type 2 diabetes in adults as an adjunct to diet and exercise to improve glycemic control as monotherapy. \r\n\r\nIt may also be indicated for use in combination with metformin or insulin to lower blood glucose in patients with type 2 diabetes whose high blood sugar levels cannot be controlled by diet and exercise in conjunction with an oral hypoglycemic (a drug used to lower blood sugar levels) agent alone.[L10322]",
+    "pharmacodynamics": "Glimepiride stimulates the secretion of insulin granules from the pancreatic beta cells and improves the sensitivity of peripheral tissues to insulin to increase peripheral glucose uptake, thus reducing plasma blood glucose levels and glycated hemoglobin (HbA1C) levels. A multi-center, randomized, placebo-controlled clinical trial evaluated the efficacy of glimepiride (1\u20138 mg) as monotherapy titrated over 10 weeks compared with placebo in T2DM subjects who were not controlled by diet alone.[A177703] In this study, there was a reduction in fasting plasma glucose (FPG) by 46 mg/dL, post-prandial glucose (PPG) by 72 mg/dL, and HbA1c by 1.4% more than the placebo.[A177703] In another randomized study comprising of patients with T2DM receiving either placebo or one of the three doses (1, 4, or 8 mg) of glimepiride during a 14-week study period, all glimepiride regimens significantly reduced FPG, PPG, and HbA1c values (P < 0.001) compared to placebo by the end of the study period.[A177703] The 4- and 8-mg doses of glimepiride were more effective than the 1-mg dose; however, the 4-mg dose provided a nearly maximal antihyperglycemic effect.[A177703]",
+    "mechanism-of-action": "ATP-sensitive potassium channels on pancreatic beta cells that are gated by intracellular ATP and ADP. The hetero-octomeric complex of the channel is composed of four pore-forming Kir6.2 subunits and four regulatory sulfonylurea receptor (SUR) subunits. Alternative splicing allows the formation of channels composed of varying subunit isoforms expressed at different concentrations in different tissues.[A177730] In pancreatic beta cells, ATP-sensitive potassium channels play a role as essential metabolic sensors and regulators that couple membrane excitability with glucose-stimulated insulin secretion (GSIS).[A177727] When there is a decrease in the ATP:ADP ratio, the channels are activated and open, leading to K+ efflux from the cell, membrane hyperpolarization, and suppression of insulin secretion.[A177727] In contrast, increased uptake of glucose into the cell leads to elevated intracellular ATP:ADP ratio, leading to the closure of channels and membrane depolarization. Depolarization leads to activation and opening of the voltage-dependent Ca2+ channels and consequently an influx of calcium ions into the cell.[A177727] Elevated intracellular calcium levels causes the contraction of the filaments of actomyosin responsible for the exocytosis of insulin granules stored in vesicles.[A177715] Glimepiride blocks the ATP-sensitive potassium channel by binding non-specifically to the B sites of both sulfonylurea receptor-1 (SUR1) and sulfonylurea receptor-2A (SUR2A) subunits as well as the A site of SUR1 subunit of the channel to promote insulin secretion from the beta cell.[A177715] ",
+    "absorption": "Glimepiride is completely absorbed after oral administration within 1 hour of administration with a linear pharmacokinetics profile.[A177703] Following administration of a single oral dose of glimepiride in healthy subjects and with multiple oral doses with type 2 diabetes, the peak plasma concentrations (Cmax) were reached after 2 to 3 hours post-dose.[L10319] Accumulation does not occur after multiple doses.[A177703] When glimepiride was given with meals, the time to reach Cmax was increased by 12% while the mean and AUC (area under the curve) were decreased by 8 to 9%, respectively.[L10322] In a pharmacokinetic study of Japanese patients with T2DM, Cmax value in once-daily dose was higher than those in twice-daily doses.[A177724] The absolute bioavailability of glimepiride is reported to be complete following oral administration.[A177721]",
+    "metabolism": "Glimepiride is reported to undergo hepatic metabolism. Following either an intravenous or oral dose, glimepiride undergoes oxidative biotransformation mediated by CYP2C9 enzyme to form a major metabolite, cyclohexyl hydroxymethyl derivative (M1), that is pharmacologically active. M1 can be further metabolized to the inactive metabolite carboxyl derivative (M2) by one or several cytosolic enzymes. M1 retained approximately one third of the pharmacologic activity of its parent in an animal model, with a half-life of 3-6 hours.[A177715] However, whether the glucose-lowering effect of M1 is clinically significant is not clear.",
+    "toxicity": "The oral LD50 value in rats is > 10000 mg/kg.[MSDS] The intraperitoneal LD50 value in rats is reported to be 3950 mg/kg [MSDS]. Although glimepiride is reported to have fewer risks of hypoglycemia compared to other sulfonylureas such as glyburide, overdosage of glimepiride may result in severe hypoglycemia with coma, seizure, or other neurological impairment may occur. This can be treated with glucagon or intravenous glucose. Continued observation and additional carbohydrate intake may be necessary since hypoglycemia may recur after apparent clinical recovery.[L10319]\r\n\r\nIn a study of rats given doses of up to 5000 parts per million (ppm) in complete feed for 30 months, there were no signs of carcinogenesis. Meanwhile, the administration of glimepiride at a dose much higher than the maximum human recommended dose for 24 months in mice resulted in an increase in benign pancreatic adenoma formation in a dose-related manner, which was thought to be the result of chronic pancreatic stimulation.[L10319] Glimepiride was non-mutagenic in _in vitro_ and _in vivo_ mutagenicity studies. In male and female rat studies, glimepiride was shown to have no effects on fertility.[L10319]",
+    "targets": [
+        [
+            "KCNJ11",
+            "ATP-sensitive inward rectifier potassium channel 11",
+            "Humans"
+        ],
+        [
+            "KCNJ1",
+            "ATP-sensitive inward rectifier potassium channel 1",
+            "Humans"
+        ],
+        [
+            "ABCC8",
+            "ATP-binding cassette sub-family C member 8",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,168 @@
+{
+    "pharmgkb_id": "PA164754789",
+    "drugbank_id": "DB00286",
+    "names": [
+        "Conjugated estrogens"
+    ],
+    "description": "The conjugated estrogens are noncrystalline mixtures of purified female sex hormones obtained either by its isolation from the urine of pregnant mares or by synthetic generation from vegetal material. Both of these products are later conjugated to natrium sulfate by ester bonds in order to make them more water soluble.[L5605, T475] \r\n\r\nThe conjugated estrogen product contains a mix of estrogen from which about 50% is represented by estrone sulfate followed by 25% of equilin sulfate, 15% of 17-alpha-dehydroequilenin sulfate, 3% of equilenin sulfate, 5% of 17-alpha and 17-beta-dihydroequilenin sulfate, 2% of 17-alpha-estradiolsulfate and 3% of 17-beta-estradiolsulfate. It also presents a large number of unidentified molecules with weak estrogenic activity as well as non-human molecules when it is obtained from pregnant mares urine.[T475] \r\n\r\nThe conjugated estrogen mixture was approved for marketing in US in 1942 based on the efficacy against certain conditions. However, until 1986 official clinical trials were performed and this product was determined to be effective for the treatment of osteoporosis.[T484] The currently approved product of conjugated estrogens was developed by Wyeth Ayerst and FDA approved in 2003.[L5608]",
+    "indication": "The conjugated estrogens are indicated for several different conditions including:\r\n\r\n- Treatment of moderate to severe vasomotor symptoms due to menopause.\r\n- Treatment of moderate to severe symptoms of vulvar and vaginal atrophy due to menopause.\r\n- Treatment of hypoestrogenism due to hypogonadism, castration or primary ovarian failure.\r\n- Palliative treatment of breast cancer in appropriately selected patients with metastatic disease.\r\n- Palliative treatment of androgen-dependent carcinoma of the prostate.\r\n- Preventive therapy of postmenopausal osteoporosis.[A38238] ",
+    "pharmacodynamics": "The binding of estrogens to the estrogen receptor produces the activation of nuclear receptors in order to bind to estrogen response elements in certain target genes. This mechanistic cascade results in histone acetylation, alteration of chromatin conformation and the initiation of transcription of certain specific drugs.[L5605]\r\n\r\nIn preclinical studies, the conjugated estrogens are known to have a similar estrogenic potency than estrone and the equilin components of the conjugated estrogens have similar potency in the liver when compared to bioidentical estradiol.[A35765] It has also been tested and confirmed that conjugated estrogens present a selective estrogen receptor modulator profile which allows it to have a large beneficial effect on the bone and cardiovascular system.[A175597]\r\n\r\nClinically, the administration of conjugated estrogens is known to promote vasomotor stability, maintain genitourinary function, and normal growth and development of female sex hormones. It has also been shown to prevent accelerated bone loss by inhibiting bone resorption and restoring the balance of bone resorption. In the hormonal area, it is shown to inhibit luteinizing hormone and decrease the serum concentration of testosterone.[T147]",
+    "mechanism-of-action": "The conjugated estrogens, equally to the normal physiological estrogen, work by agonistically binding to the estrogen receptors alpha and beta. The estrogen receptors vary in quantity and proportion according to the tissues and hence, the activity of this conjugated estrogens is very variable.[A38238]\r\n\r\nThe activity made by the conjugated estrogens is driven by the increase in the synthesis of DNA, RNA and various proteins in responsive tissues which in order will reduce the release of gonadotropin-releasing hormone, follicle-stimulating hormone and leuteinizing hormone.[T147]\r\n\r\nThe specific mechanism of action cannot be described only in terms of total estrogenic action as the pharmacokinetic profile, the tissue specificity and the tissue metabolism is different for each component of the product.[T475] ",
+    "absorption": "The conjugated estrogens are well absorbed in the gastrointestinal tract and the maximum plasma concentration of the conjugated estrogens is reached after 7 hours depending on the estrone component.[A175552] The maximal plasma concentration of conjugated estrogens after multiple doses of 0.45 mg is reported to be of 2.6 ng/ml with an AUC in the steady state of 35 ng.h/ml.[A38238] Unconjugated estrogens are known to be cleared from the circulation at a faster rate than their ester forms.[A175594]",
+    "metabolism": "The conjugated estrogens are metabolized by a number of different pathways. One of the metabolic pathways of the conjugated estrogens is driven by the action of the cytochrome isoenzyme CYP3A4.[A175552] On the other hand, the conjugated estrogens can also be processed by a dynamic equilibrium of metabolic interconversion and sulfate conjugation. Some of the principal metabolic reactions of the conjugated estrogens are driven by the conversion of 17beta-estradiol to estrone and the further change to estriol. A portion of the administered conjugated estrogens will remain in the blood as sulfate conjugates which serve as a circulating reservoir for the generation of new estrogens.[A38238]\r\n\r\nIn the endometrium, equilin is metabolized to 2-hydroxy and 4-hydroxy equilin as well as 2-hydroxy and 4-hydroxy estradiol. This hydroxylation process is very large in various of the components of the conjugated estrogens and hence, the major metabolites in urine are known to be 17-ketosteroid-16-alpha-hydroxy estrone, 16-alpha-hydroxy-17-beta-dihydro equilin and 16-alpha-hydroxy-17-beta-dihydroequilenin.[A175594]",
+    "toxicity": "The reported oral LD50 in the rat is of more than 5000 mg/kg.[F3895] Serious overdosage symptoms have not been reported. There have been only reports of nausea, vomiting, and withdrawal in bleeding in females.[FDA label]\r\n\r\nLong-term continuous administration of estrogens is correlated to increased risk on the incidence of carcinomas of the breast, uterus, cervix, vagina, testis, and liver.[FDA label]",
+    "targets": [
+        [
+            "ESR2",
+            "Estrogen receptor beta",
+            "Humans"
+        ],
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "COMT",
+            "Catechol O-methyltransferase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC10A1",
+            "Sodium/bile acid cotransporter",
+            "Humans"
+        ],
+        [
+            "SLC22A10",
+            "Solute carrier family 22 member 10",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLCO1C1",
+            "Solute carrier organic anion transporter family member 1C1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC51A",
+            "Organic solute transporter subunit alpha",
+            "Humans"
+        ],
+        [
+            "SLC51B",
+            "Organic solute transporter subunit beta",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "SLCO4A1",
+            "Solute carrier organic anion transporter family member 4A1",
+            "Humans"
+        ],
+        [
+            "ABCC11",
+            "ATP-binding cassette sub-family C member 11",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLCO3A1",
+            "Solute carrier organic anion transporter family member 3A1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "SERPINA7",
+            "Thyroxine-binding globulin",
+            "Humans"
+        ],
+        [
+            "SHBG",
+            "Sex hormone-binding globulin",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

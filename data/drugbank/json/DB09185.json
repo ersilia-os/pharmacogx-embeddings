@@ -1,0 +1,128 @@
+{
+    "pharmgkb_id": "PA166251581",
+    "drugbank_id": "DB09185",
+    "names": [
+        "Viloxazine",
+        "Emovit"
+    ],
+    "description": "Viloxazine is a selective norepinephrine reuptake inhibitor.[L41685] For decades, an immediate-release formulation of viloxazine has been used in Europe as an antidepressant. It was first approved in the UK in 1974; however, the immediate-release formulation was discontinued due to business reasons unrelated to drug safety and efficacy. In the US, viloxazine was assigned an orphan drug designation in 1984 under the brand name CATATROL: while this product was intended to treat cataplexy and narcolepsy, the drug was never approved for these therapeutic indications. In April 2021, an extended-release formulation of viloxazine under the brand name QELBREE was approved by the FDA for the treatment of attention deficit hyperactivity disorder (ADHD).[A247985]",
+    "indication": "Viloxazine is a selective norepinephrine reuptake inhibitor indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in adults and pediatric patients 6 years and older.[L41685]",
+    "pharmacodynamics": "Viloxazine is a serotonin-norepinephrine modulating agent that has been used as a treatment for depression and Attention Deficit Hyperactivity Disorder (ADHD).[A247985] Although it is not a stimulant agent, viloxazine produces amphetamine-like CNS stimulant effects without a risk for drug abuse or dependence.[A247115] Viloxazine does not produce sedative anticholinergic or adrenergic effects.[A19781,A247115] ",
+    "mechanism-of-action": "Attention Deficit Hyperactivity Disorder (ADHD) is a common neurodevelopmental disorder in children characterized by inattention and hyperactivity. In current literature, the pathophysiology of ADHD is understood to involve the imbalance of neurotransmitters, especially dopamine (DA) and norepinephrine (NE).[A247115] The mechanism of action of viloxazine has not been fully elucidated; however, viloxazine is believed to work by modulating the monoaminergic neurotransmitter systems. Viloxazine is a selective and moderate norepinephrine reuptake inhibitor that binds to the norepinephrine transporter and inhibits the reuptake of norepinephrine.[A247985,L41685] It thereby increases extracellular norepinephrine levels across several brain regions.[A247985]\r\n\r\nViloxazine potentiates serotonergic effects: it was shown to enhance neuronal sensitivity to serotonin and increase serotonin levels in the brain.[A247645,A247985] _In vitro_, viloxazine is an antagonist at 5-HT<sub>2B</sub> receptors and an agonist 5-HT<sub>2C</sub> receptors.[A247115,A247645] 5-HT<sub>2B</sub> receptors expressed on GABAergic interneurons are involved in tonic inhibitory control of serotonin neurons that innervate the medial prefrontal context; thus, antagonism of 5-HT<sub>2B</sub> receptors may result in disinhibition and enhanced serotonin release in the brain region.[A247985] \r\n\r\nThere is conflicting evidence in the literature that viloxazine increases dopamine levels in the brain via direct or indirect effects. For example, the norepinephrine transporter is also involved in the reuptake of dopamine in the prefrontal cortex [A247985] and stimulation of 5-HT<sub>2C</sub> receptors facilitates DA release and enhances dopaminergic transmission in the brain.[A247645] As dopamine dysregulation in the prefrontal cortex and amygdala is implicated in ADHD pathophysiology, the impact of viloxazine on dopamine levels may contribute to its mechanism of action. However, there is insufficient evidence to conclude this. Viloxazine has a negligible impact on dopamine in the nucleus accumbens and is not associated with an abuse risk.[A247985]",
+    "absorption": "Viloxazine is rapidly absorbed following oral administration.[A19781,A19786] The relative bioavailability of viloxazine extended-release relative to an immediate-release formulation was about 88%.[L41685]\r\n\r\nViloxazine C<sub>max</sub> and AUC increase proportionally over a dosage range from 100 mg to 600 mg once daily.[L41685] The C<sub>max</sub> ranges between 540 and 1600 ng/mL.[A19781] Following administration of a single 200 mg dose, the median T<sub>max</sub> was approximately five hours, with a range of three to nine hours. Steady-state was reached after two days of once-daily administration, and no accumulation was observed. A high-fat meal decreases C<sub>max</sub> and AUC by about 9% and 8%, respectively, and delays T<sub>max</sub> by two hours.[L41685]",
+    "metabolism": "Viloxazine undergoes CYP2D6-mediated 5-hydroxylation to form 5-hydroxyviloxazine. This metabolite can be glucuronidated by UGT1A9 and UGT2B15 to form 5-hydroxyviloxazine glucuronide,[A247110] which is the major metabolite detected in plasma.[L41685] Viloxazine can also be glucuronidated to form Viloxazine N-carbamoyl glucuronide.[A247110]",
+    "toxicity": "The oral LD<sub>50</sub> of viloxazine was 2000 mg/kg in rats.[L41690]\r\n\r\nThere is limited clinical experience with viloxazine overdose. According to case reports in the literature and postmarketing reports, doses ranging from 1000 mg to 6500 mg, which are 1.7 to 10.8 times the maximum recommended daily dose, resulted in overdose with drowsiness as the most reported symptom. Impaired consciousness, diminished reflexes, and increased heart rate have also been reported. There is no specific antidote for viloxazine overdose.[L41685]",
+    "targets": [
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine receptor 2B",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "HRH2",
+            "Histamine H2 receptor",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

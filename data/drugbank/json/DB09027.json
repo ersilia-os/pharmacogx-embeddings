@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA166128166",
+    "drugbank_id": "DB09027",
+    "names": [
+        "Ledipasvir"
+    ],
+    "description": "Ledipasvir is a direct acting antiviral (DAA) medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as ledipasvir. More specifically, ledipasvir is an inhibitor of the Hepatitis C Virus (HCV) Non-Structural Protein 5A (NS5A), which is required for viral RNA replication and assembly of HCV virions. Although its exact mechanism of action is unknown, it is postulated to prevent hyperphosphorylation of NS5A which is required for viral protein production. It is effective against genotypes 1a, 1b, 4a, and 5a and with a lesser activity against genotypes 2a and 3a of HCV. Ledipasvir and other direct acting antivirals are very potent options for the treatment of Hepatitis C, as they exhibit a high barrier to the development of resistance [A19593]. This is an important advantage relative to HCV drugs that target other viral enzymes such as the protease, for which rapid development of resistance has proven to be an important cause of therapeutic failure.  \r\n\r\nIn a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) recommend ledipasvir as a first line therapy option in combination with [sofosbuvir] for the treatment of HCV genotypes 1a, 1b, 4, 5, and 6 [L852]. Treatment with ledipasvir is used with the intent to cure, or achieve a sustained virologic response (SVR), after 12 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [A19626]. Treatment with direct acting antivirals such as ledipasvir is associated with very minimal side effects, with the most common being headache and fatigue [FDA Label]. Lack of significant side effects and short duration of therapy is a considerable advantage over older interferon- and ribavirin-based regimens, which were limited by infusion site reactions, reduced blood count, and neuropsychiatric effects [A19635]. \r\n\r\nSince 2014, ledipasvir has been available as a fixed dose combination product with [sofosbuvir] (tradename Harvoni) used for the treatment of chronic Hepatitis C. Approved in October 2014 by the FDA, Harvoni is indicated for the treatment of HCV genotypes 1, 4, 5, and 6 with or without [ribavirin] depending on the level of liver damage or cirrhosis [FDA Label]. When combined together, ledipasvir and sofosbuvir as the combination product Harvoni has been shown to achieve a SVR between 93 and 99% after 12 weeks of treatment [FDA Label]. Its use has also proven successful in the treatment of HCV in patients co-infected with HIV [A19627].",
+    "indication": "When used in combination with the antiviral medication [sofosbuvir], ledipasvir is indicated for the treatment of treatment of chronic hepatitis C virus (HCV) in adults and pediatric patients 3 years of age and older with the following conditions:[L3547] \r\n\r\n- Genotype 1, 4, 5, or 6 infection without cirrhosis or with compensated cirrhosis.\r\n- Genotype 1 infection with decompensated cirrhosis, in combination with [ribavirin].\r\n- Genotype 1 or 4 infection who are liver transplant recipients without cirrhosis or with compensated cirrhosis, in combination with [ribavirin].\r\n\r\nIts use has also proven successful in the treatment of HCV in patients co-infected with HIV [A19627].",
+    "pharmacodynamics": "Ledipasvir acts against HCV and is categorized as a direct-acting antiviral agent (DAA).\r\n\r\nAt a dose of 120 mg twice daily (2.67 times the maximum recommended dosage), ledipasvir does not prolong QTc interval to any clinically relevant extent [FDA Label].",
+    "mechanism-of-action": "Ledipasvir is an inhibitor of the Hepatitis C Virus (HCV) NS5A protein required for viral RNA replication and assembly of HCV virions. Although its exact mechanism of action is unknown, it is postulated to prevent hyperphosphorylation of NS5A which is required for viral production. ",
+    "absorption": "When given orally, ledipasvir reaches its maximum plasma concentration in about 4 to 4.5 hours with a maximum concentration (Cmax) of 323 ng/mL [FDA Label].",
+    "metabolism": "In vitro, no detectable metabolism of ledipasvir was observed by human CYP1A2, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4. Evidence of slow oxidative metabolism via an unknown mechanism has been observed. Following a single dose of 90 mg [14C]-ledipasvir, systemic exposure was almost exclusively to the parent drug (>98%). Unchanged ledipasvir is the major species present in feces [FDA Label].",
+    "toxicity": "There is very little toxicity associated with the use of ledipasvir in combination products. The most common adverse reactions are headache and fatigue.",
+    "targets": [
+        [
+            "NS5A",
+            "Nonstructural protein 5A",
+            "Hepatitis C Virus"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

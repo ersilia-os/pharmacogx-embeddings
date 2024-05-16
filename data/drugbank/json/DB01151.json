@@ -1,0 +1,240 @@
+{
+    "pharmgkb_id": "PA449233",
+    "drugbank_id": "DB01151",
+    "names": [
+        "Desipramine",
+        "Pertofran",
+        "Pertofrane"
+    ],
+    "description": "Desipramine hydrochloride is a dibenzazepine-derivative tricyclic antidepressant (TCA). TCAs are structurally similar to phenothiazines. They contain a tricyclic ring system with an alkyl amine substituent on the central ring. In non-depressed individuals, desipramine does not affect mood or arousal, but may cause sedation. In depressed individuals, desipramine exerts a positive effect on mood. TCAs are potent inhibitors of serotonin and norepinephrine reuptake. Secondary amine TCAs, such as desipramine and nortriptyline, are more potent inhibitors of norepinephrine reuptake than tertiary amine TCAs, such as amitriptyline and doxepine. TCAs also down-regulate cerebral cortical &beta;-adrenergic receptors and sensitize post-synaptic serotonergic receptors with chronic use. The antidepressant effects of TCAs are thought to be due to an overall increase in serotonergic neurotransmission. TCAs also block histamine-H<sub>1</sub> receptors, &alpha;<sub>1</sub>-adrenergic receptors and muscarinic receptors, which accounts for their sedative, hypotensive and anticholinergic effects (e.g. blurred vision, dry mouth, constipation, urinary retention), respectively. See toxicity section below for a complete listing of side effects. Desipramine exerts less anticholinergic and sedative side effects compared to tertiary amine TCAs, such as amitriptyline and clomipramine. Desipramine may be used to treat depression, neuropathic pain (unlabeled use), agitation and insomnia (unlabeled use) and attention-deficit hyperactivity disorder (unlabeled use).",
+    "indication": "For relief of symptoms in various depressive syndromes, especially endogenous depression. It has also been used to manage chronic peripheral neuropathic pain, as a second line agent for the management of anxiety disorders (e.g. panic disorder, generalized anxiety disorder), and as a second or third line agent in the ADHD management. ",
+    "pharmacodynamics": "Desipramine, a secondary amine tricyclic antidepressant, is structurally related to both the skeletal muscle relaxant cyclobenzaprine and the thioxanthene antipsychotics such as thiothixene. It is the active metabolite of imipramine, a tertiary amine TCA. The acute effects of desipramine include inhibition of noradrenaline re-uptake at noradrenergic nerve endings and inhibition of serotonin (5-hydroxy tryptamine, 5HT) re-uptake at the serotoninergic nerve endings in the central nervous system. Desipramine exhibits greater noradrenergic re-uptake inhibition compared to the tertiary amine TCA imipramine. In addition to inhibiting neurotransmitter re-uptake, desipramine down-regulates beta-adrenergic receptors in the cerebral cortex and sensitizes serotonergic receptors with chronic use. The overall effect is increased serotonergic transmission. Antidepressant effects are typically observed 2 - 4 weeks following the onset of therapy though some patients may require up to 8 weeks of therapy prior to symptom improvement. Patients experiencing more severe depressive episodes may respond quicker than those with mild depressive symptoms.",
+    "mechanism-of-action": "Desipramine is a tricyclic antidepressant (TCA) that selectively blocks reuptake of norepinephrine (noradrenaline) from the neuronal synapse. It also inhibits serotonin reuptake, but to a lesser extent compared to tertiary amine TCAs such as imipramine. Inhibition of neurotransmitter reuptake increases stimulation of the post-synaptic neuron.  Chronic use of desipramine also leads to down-regulation of beta-adrenergic receptors in the cerebral cortex and sensitization of serotonergic receptors. An overall increase in serotonergic transmission likely confers desipramine its antidepressant effects. Desipramine also possesses minor anticholinergic activity, through its affinity for muscarinic receptors. TCAs are believed to act by restoring normal levels of neurotransmitters via synaptic reuptake inhibition and by increasing serotonergic neurotransmission via serotonergic receptor sensitization in the central nervous system.",
+    "absorption": "Desipramine hydrochloride is rapidly and almost completely absorbed from the gastrointestinal tract. It undergoes extensive first-pass metabolism. Peak plasma concentrations are attained 4 - 6 hours following oral administration.  ",
+    "metabolism": "Desipramine is extensively metabolized in the liver by CYP2D6 (major) and CYP1A2 (minor) to 2-hydroxydesipramine, an active metabolite. 2-hydroxydesipramine is thought to retain some amine reuptake inhibition and may possess cardiac depressant activity. The 2-hydroxylation metabolic pathway of desipramine is under genetic control.",
+    "toxicity": "Male mice: LD50 = 290 mg/kg, female rats: LD50 = 320 mg/kg. Antagonism of the histamine H<sub>1</sub> and &alpha;<sub>1</sub> receptors can lead to sedation and hypotension. Antimuscarinic activity confers anticholinergic side effects such as blurred vision, dry mouth, constipation and urine retention may occur. Cardiotoxicity may occur with high doses of desipramine. Cardiovascular side effects in postural hypotension, tachycardia, hypertension, ECG changes and congestive heart failure. Psychotoxic effects include impaired memory and delirium. Induction of hypomanic or manic episodes may occur in patients with a history of bipolar disorder. Withdrawal symptoms include GI disturbances (e.g. nausea, vomiting, abdominal pain, diarrhea), anxiety, insomnia, nervousness, headache and malaise.",
+    "targets": [
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "SMPD1",
+            "Sphingomyelin phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01151",
+            "Drug Name": "Desipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "Patients with this genotype have reduced metabolism of desipramine."
+        },
+        {
+            "DrugBank ID": "DB01151",
+            "Drug Name": "Desipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs35742686",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of desipramine."
+        },
+        {
+            "DrugBank ID": "DB01151",
+            "Drug Name": "Desipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of desipramine."
+        },
+        {
+            "DrugBank ID": "DB01151",
+            "Drug Name": "Desipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of desipramine."
+        },
+        {
+            "DrugBank ID": "DB01151",
+            "Drug Name": "Desipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of desipramine."
+        },
+        {
+            "DrugBank ID": "DB01151",
+            "Drug Name": "Desipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1135824",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of desipramine."
+        },
+        {
+            "DrugBank ID": "DB01151",
+            "Drug Name": "Desipramine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs28371733",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of desipramine."
+        }
+    ]
+}

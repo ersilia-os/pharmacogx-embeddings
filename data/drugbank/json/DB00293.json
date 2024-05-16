@@ -1,0 +1,30 @@
+{
+    "pharmgkb_id": "PA131625240",
+    "drugbank_id": "DB00293",
+    "names": [
+        "Raltitrexed"
+    ],
+    "description": "Raltitrexed (brand name Tomudex&reg;) is a chemotherapy drug manufactured AstraZeneca Company, is an antimetabolite used in chemotherapy. It is an inhibitor of thymidylate synthase.",
+    "indication": "For the treatment of malignant neoplasm of colon and rectum",
+    "pharmacodynamics": "Raltitrexed belongs to a group of medicines known as antimetabolites. It is used to treat cancer of the colon and rectum. It may also be used to treat other kinds of cancer, as determined by your doctor. Raltitrexed blocks an enzyme needed by the cell to live. This interferes with the growth of cancer cells, which are eventually destroyed. Since the growth of normal body cells may also be affected by raltitrexed, other effects will also occur. Some of these may be serious and must be reported to your doctor. Other effects, like hair loss, may not be serious but may cause concern.",
+    "mechanism-of-action": "Raltitrexed is an antineoplastic Agents and folic acid antagonists. Raltitrexed inhibits thymidylate synthase (TS) leading to DNA fragmentation and cell death. It is transported into cells via a reduced folate carrier. Inside the cell Raltitrexed is extensively polyglutamated, which enhances thymidylate synthase inhibitory power and duration. Inhibition of this enzyme results in decreased synthesis of thymidine triphosphate which is required for DNA synthesis. ",
+    "absorption": null,
+    "metabolism": "Raltitrexed is transported into cells via a reduced folate carrier. Inside the cell it is extensively polyglutamated by the enzyme folyl polyglutamate synthetase to polyglutamate forms.",
+    "toxicity": "Side effects include pale skin, troubled breathing, unusual bleeding or bruising, unusual tiredness or weakness, black, tarry stools, chest pain, chills, cough, fever, painful or difficult urination, shortness of breath, sore throat, sores, ulcers, or white spots on lips or in mouth, swollen glands, increase in bowel movements, loose stools, soft stools.",
+    "targets": [
+        [
+            "TYMS",
+            "Thymidylate synthase",
+            "Humans"
+        ],
+        [
+            "FPGS",
+            "Folylpolyglutamate synthase, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

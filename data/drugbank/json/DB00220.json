@@ -1,0 +1,118 @@
+{
+    "pharmgkb_id": "PA450606",
+    "drugbank_id": "DB00220",
+    "names": [
+        "Nelfinavir"
+    ],
+    "description": "Nelfinavir is a potent HIV-1 protease inhibitor. It is used in combination with other antiviral drugs in the treatment of HIV in both adults and children. Nelfinavir inhibits the HIV viral proteinase enzyme which prevents cleavage of the gag-pol polyprotein, resulting in noninfectious, immature viral particles.[L36485]",
+    "indication": "Used in combination with other antiviral drugs in the treatment of HIV in both adults and children.[L36485]",
+    "pharmacodynamics": "Nelfinavir is a protease inhibitor with activity against Human Immunodeficiency Virus Type 1 (HIV-1). Protease inhibitors block the part of HIV called protease. HIV-1 protease is an enzyme required for the proteolytic cleavage of the viral polyprotein precursors into the individual functional proteins found in infectious HIV-1. Nelfinavir binds to the protease active site and inhibits the activity of the enzyme. This inhibition prevents cleavage of the viral polyproteins resulting in the formation of immature non-infectious viral particles. Protease inhibitors are almost always used in combination with at least two other anti-HIV drugs.",
+    "mechanism-of-action": "HIV viral protease is an important enzyme for HIV maturation and pathogenicity since HIV produces its structural and key proteins in the form of a polyprotein that needs to be cleaved by a protease.[A246853] HIV protease is synthesized as part of the Gag-pol polyprotein, where Gag encodes for the capsid and matrix protein to form the outer protein shell, and Pol encodes for the reverse transcriptase and integrase protein to synthesize and incorporate its genome into host cells.[A246853, A246858] The Gag-pol polyprotein undergoes proteolytic cleavage by HIV protease to produce 66 molecular species which will assume conformational changes to become fully active.[A246853] Inhibition of protease, therefore, prevents HIV virion from fully maturing and becoming infective.[A246853]\r\n\r\nNelfinavir is a competitive inhibitor of the HIV protease by reversibly binding to the active site of the enzyme, preventing it from interacting with its substrate to produce mature and infectious viral particles.[L36485, L41608]\r\n\r\n",
+    "absorption": "Well absorbed following oral administration.",
+    "metabolism": "Unchanged nelfinavir comprised 82-86% of the total plasma radioactivity after a single oral 750 mg dose of 14C-nelfinavir. In vitro, multiple cytochrome P-450 enzymes including CYP3A and CYP2C19 are responsible for the metabolism of nelfinavir. One major and several minor oxidative metabolites were found in plasma. The major oxidative metabolite has in vitro antiviral activity comparable to the parent drug.[L36485]",
+    "toxicity": "Carcinogenicity studies in mice and rats were conducted with nelfinavir at oral doses up to 1000 mg/kg/day. No evidence of a\r\ntumorigenic effect was noted in mice at systemic exposures (Cmax) up to 9-fold those measured in humans at the recommended\r\ntherapeutic dose (750 mg TID or 1250 mg BID). In rats, thyroid follicular cell adenomas and carcinomas were increased in males at\r\n300 mg/kg/day and higher and in females at 1000 mg/kg/day. Systemic exposures (Cmax) at 300 and 1000 mg/kg/day were 1- to 3-fold, respectively, those measured in humans at the recommended therapeutic dose. Repeated administration of nelfinavir to rats produced\r\neffects consistent with hepatic microsomal enzyme induction and increased thyroid hormone deposition; these effects predispose rats, but not humans, to thyroid follicular cell neoplasms. Nelfinavir showed no evidence of mutagenic or clastogenic activity in a battery of in vitro and in vivo genetic toxicology assays. These studies included bacterial mutation assays in S. typhimurium and E. coli, a mouse lymphoma tyrosine kinase assay, a chromosomal aberration assay in human lymphocytes, and an in vivo mouse bone marrow micronucleus assay.[L36485]\r\n\r\nNelfinavir produced no effects on either male or female mating and fertility or embryo survival in rats at systemic exposures\r\ncomparable to the human therapeutic exposure.[L36485]\r\n\r\nHuman experience of acute overdose with nelfinavir is limited. There is no specific antidote for overdose with VIRACEPT. If\r\nindicated, elimination of unabsorbed drug should be achieved by emesis or gastric lavage. Administration of activated charcoal may\r\nalso be used to aid the removal of unabsorbed drug. Since nelfinavir is highly protein-bound, dialysis is unlikely to significantly remove the drug from blood.[L36485]",
+    "targets": [
+        [
+            "HIV-1 protease",
+            "HIV-1 protease",
+            "Human Immunodeficiency Virus"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,170 @@
+{
+    "pharmgkb_id": "PA451616",
+    "drugbank_id": "DB00871",
+    "names": [
+        "Terbutaline",
+        "Brethaire",
+        "Brethine",
+        "Bricanyl",
+        "Bricardyl",
+        "Bricasma",
+        "Bricasol",
+        "Dracanyl",
+        "Terbasmin"
+    ],
+    "description": "Terbutaline was first synthesized in 1966[A230333] and described in the literature in the late 1960s and early 1970s.[A230328] It is a selective beta-2 adrenergic agonist used as a bronchodilator in asthmatic patients.[A230333,L32093,L32098]\r\n\r\nTerbutaline was granted FDA approval on 25 March 1974.[L32088]",
+    "indication": "Terbutaline is indicated for prevention and reversal of bronchospasm in patients at least 12 years old, with asthma and reversible bronchospasm associated with bronchitis and emphysema.[L32093,L32098]",
+    "pharmacodynamics": "Terbutaline is a beta-2 adrenergic receptor agonist indicated to treat reversibly bronchospasm in asthmatic patients with bronchitis and emphysema.[L32093,L32098] It has a short duration as the inhaled form is taken up to three times daily, and the therapeutic window is wide.[L32093,L32098]",
+    "mechanism-of-action": "Terbutaline is a selective beta-2 adrenergic receptor agonist.[A230328] Agonism of these receptors in bronchioles activates adenylyl cyclase, increasing intracellular cyclic adenosine monophosphate (cAMP).[A230338] Increased cAMP decreases intracellular calcium, activating protein kinase A, inactivating myosin light-chain kinase, activating myosin light-chain phosphatase, and finally relaxing smooth muscle in the bronchiole.[A230338]",
+    "absorption": "A 0.5 mg subcutaneous dose of terbutaline reaches a mean C<sub>max</sub> of 9.6 \u00b1 ng/mL, with a median T<sub>max</sub> of 0.5 hours, and a mean AUC of 29.4 \u00b1 14.2 h\\*ng/mL.[L32093] A 5 mg oral terbutaline tablet reaches a mean C<sub>max</sub> of 8.3 \u00b1 3.9 ng/mL with a median T<sub>max</sub> of 2 hours, and a mean AUC of 54.6 \u00b1 26.8 h\\*ng/mL.[L32098] A 5 mg oral terbutaline solution reaches a mean C<sub>max</sub> of 8.6 \u00b1 3.6 ng/mL, with a median T<sub>max</sub> of 1.5 hours, and a mean AUC of 53.1 \u00b1 23.5 h\\*ng/mL.[L32098]\r\n\r\nOral terbutaline has an oral bioavailability of 14-15%.[A229983]",
+    "metabolism": "Terbutaline is sulphated or glucuronidated prior to elimination.[A229963,A229968,A229973,A230233]",
+    "toxicity": "Patients experiencing an overdose may present with abdominal pain, agitation, palpitations, seizures, angina, hypertension, hypotension, tachycardia, arrhythmias, nervousness, headache, tremor, dry mouth, nausea, dizziness, fatigue, malaise, insomnia.[A230323,L32093,L32098] Discontinue treatment with terbutaline and initiate symptomatic and supportive therapy.[L32093,L32098]",
+    "targets": [
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta-3 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "SULT2A1",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1A1",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1A2",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1A3",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1A4",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1C2",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1C3",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1C4",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT4A1",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT6B1",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1B1",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

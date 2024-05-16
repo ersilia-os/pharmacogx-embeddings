@@ -1,0 +1,100 @@
+{
+    "pharmgkb_id": "PA10816",
+    "drugbank_id": "DB00973",
+    "names": [
+        "Ezetimibe",
+        "Ezedoc",
+        "Ezetib",
+        "Zient"
+    ],
+    "description": "Ezetimibe is a lipid-lowering compound that inhibits intestinal cholesterol and phytosterol absorption. The discovery and research of this drug began in the early 1990s, after the intravenous administration of radiolabelled ezetimibe in rats revealed that it was being localized within enterocytes of the intestinal villi - this prompted studies investigating the effect of ezetimibe on intestinal cholesterol absorption.[A15202] Ezetimibe is used as an adjunctive therapy to a healthy diet to lower cholesterol levels in primary hyperlipidemia, mixed hyperlipidemia, homozygous familial hypercholesterolemia (HoFH), and homozygous sitosterolemia (phytosterolemia).[L11347]\r\n\r\nUnlike other classes of cholesterol-reducing compounds including statins and bile acid sequestrants, ezetimibe has a distinct mechanism of action involving the sterol transporter Niemann-Pick C1-Like 1 (NPC1L1), and is unique in that it does not affect the absorption of fat-soluble nutrients such as fat-soluble vitamins, triglycerides, or bile acids.[A33313] In genetically NPC1L1-deficient mice, a 70% reduction in intestinal cholesterol absorption was seen, and these mice were insensitive to ezetimibe treatment - it was determined based on these findings that NPC1L1 plays an essential role in promoting intestinal cholesterol uptake via an ezetimibe-sensitive pathway.[A15202] By interfering with the intestinal uptake of cholesterol and phytosterols, ezetimibe reduces the delivery of intestinal cholesterol to the liver.[L11347]",
+    "indication": "Ezetimibe is indicated to reduce elevated total-C, LDL-C, Apo B, and non-HDL-C in patients with primary hyperlipidemia, alone or in combination with an HMG-CoA reductase inhibitor (statin).[L11347,L11401,L11404] It is also indicated to reduce elevated total-C, LDL-C, Apo B, and non-HDL-C in patients with mixed hyperlipidemia in combination with fenofibrate, and to reduce elevated total-C and LDL-C in patients with homozygous familial hypercholesterolemia (HoFH), in combination with atorvastatin or simvastatin.[L11347] Ezetimibe may also be used to reduce elevated sitosterol and campesterol in patients with homozygous sitosterolemia (phytosterolemia).[L11347]",
+    "pharmacodynamics": "Ezetimibe was shown to reduce the levels of total cholesterol (total-C), low-density lipoprotein cholesterol (LDL-C), apoprotein B (Apo B), non-high-density lipoprotein cholesterol (non-HDL-C), and triglycerides (TG), and increase high-density lipoprotein cholesterol (HDL-C) in patients with hyperlipidemia.[L11347] This therapeutic effect was more profound when ezetimibe was co-administered with a statin or fenofibrate compared to either treatment alone.[L11347] In clinical trials involving patients with homozygous and heterozygous familial hypercholesterolemia and in those with sitosterolemia, a recommended therapeutic dose of ezetimibe was effective in reducing the LDL levels by 15-20% while increasing HDL-C by 2.5-5%.[A33313]\r\n\r\nThe effects of increased exposure to ezetimibe secondary to moderate-severe hepatic impairment have not been assessed - patients meeting these criteria should avoid the use of ezetimibe.[L11347] Post-marketing reports indicate the potential for myopathy and rhabdomyolysis in patients taking ezetimibe, and this risk appears to be exacerbated in patients concurrently receiving, or having recently received, statin therapy.[L11347] ",
+    "mechanism-of-action": "Ezetimibe mediates its blood cholesterol-lowering effect via selectively inhibiting the absorption of cholesterol and phytosterol by the small intestine without altering the absorption of fat-soluble vitamins and nutrients.[A15202] The primary target of ezetimibe is the cholesterol transport protein Niemann-Pick C1-Like 1 (NPC1L1) protein. NPC1L1 is expressed on enterocytes/gut lumen (apical) as well as the hepatobiliary (canalicular) interface and plays a role in facilitating internalization of free cholesterol into the enterocyte in conjunction with the adaptor protein 2 (AP2) complex and clathrin.[A33309] Once cholesterol in the gut lumen or bile is incorporated into the cell membrane of enterocytes, it binds to the sterol-sensing domain of NPC1L1 and forms a NPC1L1/cholesterol complex. The complex is then internalized or endocytosed by joining to AP2 clathrin, forming a vesicle complex that is translocated for storage in the endocytic recycling compartment.[A33309]\r\n\r\nEzetimibe does not require exocrine pancreatic function for its pharmacological activity; rather, it localizes and appears to act at the brush border of the small intestine. Ezetimibe selectively blocks the NPC1L1 protein in the jejunal brush border, reducing the uptake of intestinal lumen micelles into the enterocyte.[A33309] Overall, ezetimibe causes a decrease in the delivery of intestinal cholesterol to the liver and reduction of hepatic cholesterol stores and an increase in clearance of cholesterol from the blood. While the full mechanism of action of ezetimibe in reducing the entry of cholesterol into both enterocytes and hepatocytes is not fully understood, one study proposed that ezetimibe prevents the NPC1L1/sterol complex from interacting with AP2 in clathrin coated vesicles and induces a conformational change in NPC1L1, rendering it incapable of binding to sterols.[A33309] Another study suggested that ezetimibe disrupts the function of other protein complexes involved in regulating cholesterol uptake, including the CAV1\u2013annexin 2 heterocomplex.[A33309]",
+    "absorption": "Administration of a single 10-mg dose of ezetimibe in fasted adults resulted in peak plasma concentrations (C<sub>max</sub>) of 3.4-5.5 ng/mL within 4-12 hours (T<sub>max</sub>).[L11347] The C<sub>max</sub> of the major pharmacologically-active metabolite, ezetimibe-glucuronide, was 45-71 ng/mL and its T<sub>max</sub> was 1-2 hours.[L11347] Food consumption has minimal effect on ezetimibe absorption, but the C<sub>max</sub> is increased by 38% when administered alongside a high-fat meal.[L11347] The true bioavailability of ezetimibe cannot be determined, as it is insoluble in aqueous media suitable for intravenous injection.[L11347]",
+    "metabolism": "In humans, ezetimibe is rapidly and extensively metabolized via a phase II glucuronide conjugation reaction in the small intestine and liver to form its main phenolic metabolite, ezetimibe glucuronide. The main human liver and/or intestinal uridine 5\u2032-diphosphate (UDP)-glucuronosyltransferase (UGT) enzymes responsible for the glucuronidation of ezetimibe were shown to be UGT1A1, 1A3, and 2B15 _in vitro_.[A15202] Minimal phase I reaction involving oxidation of ezetimibe also occurs to form SCH 57871, and human jejunum microsomes also produced trace levels of a benzylic glucuronide (SCH 488128).[A15202] Ezetimibe glucuronide accounts for 80-90% of the total circulating compound in plasma, and retains some pharmacological activity in inhibiting intestinal cholesterol uptake.[L11347] In humans, ezetimibe and ezetimibe-glucuronide constitutes approximately 93% of the total drug in plasma.[L11347] Plasma concentration-time profiles exhibit multiple peaks, suggestive of enterohepatic recycling[L11347], and about 20% of the drug distributed is reabsorbed due to enterohepatic recirculation.[F133]",
+    "toxicity": "Oral LD<sub>50</sub> and intraperitoneal LD<sub>50</sub> in rat were >2000 mg/kg.[L11410] Estimated oral LD50 values in mouse and dog are >5000 mg/kg and >3000 mg/kg, respectively.[L11410] One case of accidental overdose occurred in clinical studies in one female patient with homozygous sitosterolemia receiving 120 mg/day for 28 days with no reported clinical or laboratory adverse events.[L11347] In case of overdose, symptomatic treatment is recommended.[L11347]",
+    "targets": [
+        [
+            "NPC1L1",
+            "Niemann-Pick C1-like protein 1",
+            "Humans"
+        ],
+        [
+            "SOAT1",
+            "Sterol O-acyltransferase 1",
+            "Humans"
+        ],
+        [
+            "ANPEP",
+            "Aminopeptidase N",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

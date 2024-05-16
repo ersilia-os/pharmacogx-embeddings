@@ -1,0 +1,32 @@
+{
+    "pharmgkb_id": "PA449654",
+    "drugbank_id": "DB01099",
+    "names": [
+        "Flucytosine",
+        "Ancotil",
+        "Flusine"
+    ],
+    "description": "A fluorinated cytosine analog that is used as an antifungal agent.",
+    "indication": "For the treatment (in combination with amphotericin B) of serious infections caused by susceptible strains of Candida (septicemia, endocarditis and urinary system infections) and/or Cryptococcus (meningitis and pulmonary infections).",
+    "pharmacodynamics": "Flucytosine is an antimetabolite that acts as an antifungal agent with <i>in vitro</i> and <i>in vivo</i> activity against Candida and Cryptococcus. Flucytosine enters the fungal cell via cytosine permease; thus, flucytosine is metabolized to 5-fluorouracil within fungal organisms. The 5-fluorouracil is extensively incorporated into fungal RNA and inhibits synthesis of both DNA and RNA. The result is unbalanced growth and death of the fungal organism. Antifungal synergism between Ancobon and polyene antibiotics, particularly amphotericin B, has been reported.",
+    "mechanism-of-action": "Although the exact mode of action is unknown, it has been proposed that flucytosine acts directly on fungal organisms by competitive inhibition of purine and pyrimidine uptake and indirectly by intracellular metabolism to 5-fluorouracil. Flucytosine enters the fungal cell via cytosine permease; thus, flucytosine is metabolized to 5-fluorouracil within fungal organisms. The 5-fluorouracil is extensively incorporated into fungal RNA and inhibits synthesis of both DNA and RNA. The result is unbalanced growth and death of the fungal organism. It also appears to be an inhibitor of fungal thymidylate synthase.",
+    "absorption": "Rapidly and virtually completely absorbed following oral administration. Bioavailability 78% to 89%.",
+    "metabolism": "Flucytosine is deaminated, possibly by gut bacteria or by the fungal targets, to 5-fluorouracil, the active metabolite.",
+    "toxicity": "Oral, rat: LD<sub>50</sub> = >15 gm/kg.",
+    "targets": [
+        [
+            "DNMT1",
+            "DNA (cytosine-5)-methyltransferase 1",
+            "Humans"
+        ],
+        [
+            "TMP1",
+            "Thymidylate synthase",
+            "Yeast"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,54 @@
+{
+    "pharmgkb_id": "PA448004",
+    "drugbank_id": "DB01048",
+    "names": [
+        "Abacavir"
+    ],
+    "description": "Abacavir (ABC) is a powerful nucleoside analog reverse transcriptase inhibitor (NRTI) used to treat HIV and AIDS. Chemically, it is a synthetic carbocyclic nucleoside and is the enantiomer with 1S, 4R absolute configuration on the cyclopentene ring. In vivo, abacavir sulfate dissociates to its free base, abacavir.",
+    "indication": "Abacavir is indicated in combination with other anti-retroviral agents for the treatment of HIV-1 infection.[L30400] It is available in a combination product alongside [dolutegravir] and [lamivudine] for the treatment of adult and pediatric patients with HIV-1 who weigh \u226510 kg.[L41365]",
+    "pharmacodynamics": "Abacavir is a nucleoside reverse transcriptase inhibitor (NRTI) with activity against Human Immunodeficiency Virus Type 1 (HIV-1). Abacavir is phosphorylated to active metabolites that compete for incorporation into viral DNA. They inhibit the HIV reverse transcriptase enzyme competitively and act as a chain terminator of DNA synthesis. The concentration of drug necessary to effect viral replication by 50 percent (EC50) ranged from 3.7 to 5.8 \u03bcM (1 \u03bcM = 0.28 mcg/mL) and 0.07 to 1.0 \u03bcM against HIV-1IIIB and HIV-1BaL, respectively, and was 0.26 \u00b1 0.18 \u03bcM against 8 clinical isolates.  Abacavir had synergistic activity in cell culture in combination with the nucleoside reverse transcriptase inhibitor (NRTI) zidovudine, the non-nucleoside reverse transcriptase inhibitor (NNRTI) nevirapine, and the protease inhibitor (PI) amprenavir; and additive activity in combination with the NRTIs didanosine, emtricitabine, lamivudine, stavudine, tenofovir, and zalcitabine. ",
+    "mechanism-of-action": "Abacavir is a carbocyclic synthetic nucleoside analogue and an antiviral agent. Intracellularly, abacavir is converted by cellular enzymes to the active metabolite carbovir triphosphate, an analogue of deoxyguanosine-5'-triphosphate (dGTP). Carbovir triphosphate inhibits the activity of HIV-1 reverse transcriptase (RT) both by competing with the natural substrate dGTP and by its incorporation into viral DNA. Viral DNA growth is terminated because the incorporated nucleotide lacks a 3'-OH group, which is needed to form the 5\u2032 to 3\u2032 phosphodiester linkage essential for DNA chain elongation. ",
+    "absorption": "Rapid and extensive after oral administration (83% bioavailability, tablet). When a 300 mg tablet is given twice daily to subjects, the peak plasma concentration (Cmax) was 3.0 \u00b1 0.89 mcg/mL and the area under the curve (AUC 0-12 hours) was 6.02 \u00b1 1.73 mcg\u2022hr/mL. ",
+    "metabolism": "Hepatic, by alcohol dehydrogenase and glucuronosyltransferase to a 5&prime;-carboxylic acid metabolite and 5&prime;-glucuronide metabolite, respectively. These metabolites have no antiviral activity. Abacavir is not significantly metabolized by cytochrome P450 enzymes.",
+    "toxicity": "Some myocardial degeneration has been noticed in rats and mice. The most commonly reported adverse reactions of at least moderate intensity (incidence \u226510%) in adult HIV-1 clinical trials were nausea, headache, malaise and fatigue, nausea and vomiting, and dreams/sleep disorders. Serious hypersensitivity reactions have been associated with abacavir which has been strongly linked to the presence of the HLA-B*57:01 allele. This reaction manifests itself in patients within the first 6 weeks of treatment. Patients should be tested for the presence of this allele as recommended by the U.S Food and Drug Administration (FDA). ",
+    "targets": [
+        [
+            "pol",
+            "Reverse transcriptase/RNaseH",
+            "Human immunodeficiency virus 1"
+        ],
+        [
+            "HLA-B",
+            "HLA class I histocompatibility antigen, B-57 alpha chain",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "ADK",
+            "Adenosine kinase",
+            "Humans"
+        ],
+        [
+            "ADH6",
+            "Alcohol dehydrogenase 6",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01048",
+            "Drug Name": "Abacavir",
+            "Gene Symbol": "HCP5",
+            "RS ID (Genotype)": "rs2395029",
+            "Adverse Reaction Description": "Patients who carry this SNP are at a higher risk of experiencing a hypersensitivity reaction to abacavir."
+        }
+    ]
+}

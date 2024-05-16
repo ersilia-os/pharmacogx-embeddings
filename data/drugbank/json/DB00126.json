@@ -1,0 +1,175 @@
+{
+    "pharmgkb_id": "PA451898",
+    "drugbank_id": "DB00126",
+    "names": [
+        "Ascorbic acid",
+        "Ascoltin",
+        "Ascorbicap"
+    ],
+    "description": "A six carbon compound related to glucose. It is found naturally in citrus fruits and many vegetables. Ascorbic acid is an essential nutrient in human diets, and necessary to maintain connective tissue and bone. Its biologically active form, vitamin C, functions as a reducing agent and coenzyme in several metabolic pathways. Vitamin C is considered an antioxidant.",
+    "indication": "Used to treat vitamin C deficiency, scurvy, delayed wound and bone healing, urine acidification, and in general as an antioxidant. It has also been suggested to be an effective antiviral agent.",
+    "pharmacodynamics": "Ascorbic Acid (vitamin C) is a water-soluble vitamin indicated for the prevention and treatment of scurvy, as ascorbic acid deficiency results in scurvy. Collagenous structures are primarily affected, and lesions develop in bones and blood vessels. Administration of ascorbic acid completely reverses the symptoms of ascorbic acid deficiency.",
+    "mechanism-of-action": "In humans, an exogenous source of ascorbic acid is required for collagen formation and tissue repair by acting as a cofactor in the posttranslational formation of 4-hydroxyproline in -Xaa-Pro-Gly- sequences in collagens and other proteins. Ascorbic acid is reversibly oxidized to dehydroascorbic acid in the body. These two forms of the vitamin are believed to be important in oxidation-reduction reactions. The vitamin is involved in tyrosine metabolism, conversion of folic acid to folinic acid, carbohydrate metabolism, synthesis of lipids and proteins, iron metabolism, resistance to infections, and cellular respiration.",
+    "absorption": "70% to 90%",
+    "metabolism": "Hepatic. Ascorbic acid is reversibly oxidised (by removal of the hydrogen from the enediol group of ascorbic acid) to dehydroascorbic acid. The two forms found in body fluids are physiologically active. Some ascorbic acid is metabolized to inactive compounds including ascorbic acid-2-sulfate and oxalic acid.",
+    "toxicity": null,
+    "targets": [
+        [
+            null,
+            "Hyaluronate lyase",
+            "Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4)"
+        ],
+        [
+            "xylA",
+            "Xylose isomerase",
+            "Streptomyces rubiginosus"
+        ],
+        [
+            "PLOD2",
+            "Procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",
+            "Humans"
+        ],
+        [
+            "PHYH",
+            "Phytanoyl-CoA dioxygenase, peroxisomal",
+            "Humans"
+        ],
+        [
+            "PLOD3",
+            "Procollagen-lysine,2-oxoglutarate 5-dioxygenase 3",
+            "Humans"
+        ],
+        [
+            "BBOX1",
+            "Gamma-butyrobetaine dioxygenase",
+            "Humans"
+        ],
+        [
+            "DBH",
+            "Dopamine beta-hydroxylase",
+            "Humans"
+        ],
+        [
+            "PAM",
+            "Peptidyl-glycine alpha-amidating monooxygenase",
+            "Humans"
+        ],
+        [
+            "P3H1",
+            "Prolyl 3-hydroxylase 1",
+            "Humans"
+        ],
+        [
+            "P3H2",
+            "Prolyl 3-hydroxylase 2",
+            "Humans"
+        ],
+        [
+            "P3H3",
+            "Prolyl 3-hydroxylase 3",
+            "Humans"
+        ],
+        [
+            "P4HA1",
+            "Prolyl 4-hydroxylase subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "OGFOD1",
+            "2-oxoglutarate and iron-dependent oxygenase domain-containing protein 1",
+            "Humans"
+        ],
+        [
+            "OGFOD2",
+            "2-oxoglutarate and iron-dependent oxygenase domain-containing protein 2",
+            "Humans"
+        ],
+        [
+            "ALKBH2",
+            "Alpha-ketoglutarate-dependent dioxygenase alkB homolog 2",
+            "Humans"
+        ],
+        [
+            "ALKBH3",
+            "Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3",
+            "Humans"
+        ],
+        [
+            "KDM5D",
+            "Lysine-specific demethylase 5D",
+            "Humans"
+        ],
+        [
+            "PLOD1",
+            "Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",
+            "Humans"
+        ],
+        [
+            "TMLHE",
+            "Trimethyllysine dioxygenase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "P4HTM",
+            "Transmembrane prolyl 4-hydroxylase",
+            "Humans"
+        ],
+        [
+            "EGLN1",
+            "Egl nine homolog 1",
+            "Humans"
+        ],
+        [
+            "EGLN2",
+            "Egl nine homolog 2",
+            "Humans"
+        ],
+        [
+            "EGLN3",
+            "Egl nine homolog 3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "TXNRD1",
+            "Thioredoxin reductase 1, cytoplasmic",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC23A1",
+            "Solute carrier family 23 member 1",
+            "Humans"
+        ],
+        [
+            "SLC23A2",
+            "Solute carrier family 23 member 2",
+            "Humans"
+        ],
+        [
+            "SLC2A1",
+            "Solute carrier family 2, facilitated glucose transporter member 1",
+            "Humans"
+        ],
+        [
+            "SLC2A3",
+            "Solute carrier family 2, facilitated glucose transporter member 3",
+            "Humans"
+        ],
+        [
+            "SLC2A4",
+            "Solute carrier family 2, facilitated glucose transporter member 4",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

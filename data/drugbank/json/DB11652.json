@@ -1,0 +1,87 @@
+{
+    "pharmgkb_id": "PA166225141",
+    "drugbank_id": "DB11652",
+    "names": [
+        "Tucatinib"
+    ],
+    "description": "Tucatinib is a kinase inhibitor drug used with [trastuzumab] and [capecitabine] in the treatment of unresectable or metastatic HER-2 positive breast cancer. It was developed by Seattle Genetics and approved by the FDA on April 17, 2020.[L12951] Tucatinib is a promising new treatment for patients with metastatic breast cancer who have not responded adequately to other chemotherapy regimens.[L12945]",
+    "indication": "Tucatinib is indicated with [trastuzumab] and [capecitabine] for the treatment of adults diagnosed with advanced unresectable or metastatic HER2-positive breast cancer. This includes patients with brain metastases and those who have received one or more prior anti-HER2-based regimens in the metastatic setting.[L12945] \r\n\r\nIt is also indicated in combination with trastuzumab for the treatment of adult patients with RAS wild-type HER2-positive unresectable or metastatic colorectal cancer that has progressed following treatment with fluoropyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy. This indication is approved under accelerated approval; thus, it is contingent upon verification and description of clinical benefit in confirmatory trials.[L44732]",
+    "pharmacodynamics": "By inhibiting tyrosine kinase, tucatinib exerts anti-tumor activity, reducing the size of HER-2 positive breast cancer tumors. In clinical trials, the regimen of tucatinib and [trastuzumab] showed enhanced activity both in vitro and in vivo when compared to either drug administered by itself.[L12945]",
+    "mechanism-of-action": "Mutations in the HER-2 gene are observed in some types of breast carcinoma. Tucatinib inhibits the tyrosine kinase enzyme of the HER-2 gene.[A193548] Mutations of tyrosine kinase in the HER-2 gene lead to cascade effects of increased cell signaling and proliferation, resulting in malignancy.[A193623] Results of in vitro studies show that tucatinib inhibits the phosphorylation of both HER-2 and HER-3, leading to downstream changes in MAPK and AKT signaling and cell proliferation. Anti-tumor activity occured in the cells that expressed HER-2. In vivo, tucatinib has been shown to inhibit HER-2 expressing tumors, likely by the same mechanism.[A193548,L12945]",
+    "absorption": "The Tmax for tucatinib ranges from 1 to 4 hours.[L12945] One pharmacokinetic study revealed a Cmax of  1120 ng/mL after a dose of 350 mg twice daily with a Tmax ranging from 1 to 3 hours.  The AUCtau was reported to be about 7120 hours\u00d7ng/mL.[A193554]",
+    "metabolism": "Tucatinib is metabolized by CYP2C8 with some contributions from CYP3A.[L12945]",
+    "toxicity": "LD50 information and overdose information for tucatinib are not readily available in the literature.  In the case of an overdose with this drug, increased adverse effects, such as diarrhea, nausea, abdominal pain, vomiting fatigue, hepatotoxicity, vomiting, decreased appetite, anemia, headache, and rash are expected.[A193590,L12945]",
+    "targets": [
+        [
+            "ERBB2",
+            "Receptor tyrosine-protein kinase erbB-2",
+            "Humans"
+        ],
+        [
+            "ERBB3",
+            "Receptor tyrosine-protein kinase erbB-3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "ERBB2",
+            "Receptor tyrosine-protein kinase erbB-2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

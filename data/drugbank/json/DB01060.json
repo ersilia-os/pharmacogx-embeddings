@@ -1,0 +1,80 @@
+{
+    "pharmgkb_id": "PA448406",
+    "drugbank_id": "DB01060",
+    "names": [
+        "Amoxicillin",
+        "Actimoxi",
+        "Amoclen",
+        "Amolin",
+        "Amopen",
+        "Amopenixin",
+        "Amoxibiotic",
+        "AMPC",
+        "Apo-Amoxi",
+        "Clamoxyl",
+        "Efpenix",
+        "Flemoxin",
+        "Hiconcil",
+        "Ibiamox",
+        "Imacillin",
+        "Larotid",
+        "Moxacin",
+        "Moxal",
+        "Ospamox",
+        "Pamoxicillin",
+        "Polymox",
+        "Trimox",
+        "Wymox"
+    ],
+    "description": "Amoxicillin, or BRL-2333, is a penicillin G derivative first described in the literature in 1972.[A190648] Amoxicillin has similar activity to [penicillin] and [ampicillin], but leads to higher serum concentrations than ampicillin.[A190648]\r\n\r\nAmoxicillin was granted FDA approval on 18 January 1974.[L11644]",
+    "indication": "Amoxicillin alone is indicated to treat susceptible bacterial infections of the ear, nose, throat, genitourinary tract, skin, skin structure, and lower respiratory tract.[L11656,L11659] Amoxicillin is given with calvulanic acid to treat acute bacterial sinusitis, community acquired pneumonia, lower respiratory tract infections, acute bacterial otitis media, skin and skin structure infections, and urinary tract infections.[L11650,L7880,L11653] Amoxicillin is given with omeprazole in the treatment of _Helicobacter pylori_ (_H. pylori_) infection.[L9743,L11647]\r\n\r\nAmoxicillin is used in combination with [vonoprazan] and [clarithromycin] as co-packaged triple therapy or in combination with [vonoprazan] as co-packaged dual therapy to treat _H. pylori_ infection in adults.[L41695]",
+    "pharmacodynamics": "Amoxicillin competitively inhibit penicillin binding proteins, leading to upregulation of autolytic enzymes and inhibition of cell wall synthesis.[A6205,A190678,A190642] Amoxicillin has a long duration of action as it is usually given twice daily.[L7880] Amoxicillin has a wide therapeutic range as mild overdoses are not associated with significant toxicity.[L11650] Patients should be counselled regarding the risk of anaphylaxis, _Clostridium difficile_ infections, and bacterial resistance.[L11656]",
+    "mechanism-of-action": "Amoxicillin competitively inhibits penicillin-binding protein 1 and other high molecular weight penicillin binding proteins.[A6205,A190678]  Penicillin bind proteins are responsible for glycosyltransferase and transpeptidase reactions that lead to cross-linking of D-alanine and D-aspartic acid in bacterial cell walls.[A190678] Without the action of penicillin binding proteins, bacteria upregulate autolytic enzymes and are unable to build and repair the cell wall, leading to bacteriocidal action.[A190642,A190678]",
+    "absorption": "Amoxicillin is approximately 60% bioavailable.[A190675] A 250mg dose of oral amoxicillin reaches a C<sub>max</sub> 3.93\u00b11.13mg/L with a T<sub>max</sub> 1.31\u00b10.33h and an AUC of 27.29\u00b14.72mg\\*h/L.[A190630] A 875mg dose of oral amoxicillin reaches a C<sub>max</sub> 11.21\u00b13.42mg/L with a T<sub>max</sub> 1.52\u00b10.40h and an AUC of 55.04\u00b112.68mg\\*h/L.[A190630]",
+    "metabolism": "Incubation with human liver microsomes has lead to the detection of 7 metabolites.[A190618] The M1 metabolite has undergone hydroxylation, M2 has undergone oxidative deamination, M3 to M5 have undergone oxidation of the aliphatic chain, M6 has undergone decarboxylation, and M7 has undergone glucuronidation.[A190618]",
+    "toxicity": "Patients experiencing an overdose may present with hematuria, oliguria, abdominal pain, acute renal failure, vomiting, diarrhea, rash, hyperactivity, and drowsiness.[A190660,L11650] Treat overdose with symptomatic and supportive treatment, which may include emesis or hemodialysis.[L11650]",
+    "targets": [
+        [
+            "PBP1",
+            "Penicillin binding protein",
+            "Helicobacter pylori"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "blm",
+            "Beta-lactamase 2",
+            "Bacillus cereus"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

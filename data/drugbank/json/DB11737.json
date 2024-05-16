@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "PA166114460",
+    "drugbank_id": "DB11737",
+    "names": [
+        "Icotinib"
+    ],
+    "description": "Icotinib is a potent and specific epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI)\r\nIcotinib was approved in China by the SFDA in June, 2011 and in January 2014, Beta Pharma, Inc. was given a \u201cMay Proceed\u201d from the US FDA to conduct a Phase I study for the evaluation of icotinib as a treatment of EGFR+ Non-Small Cell Lung Cancer (NSCLC).",
+    "indication": "Icotinib hydrochloride is a novel epidermal growth factor receptor (EGFR)\u2013tyrosine kinase inhibitor, exhibits encouraging efficacy and tolerability in patients with advanced non-small-cell lung cancer (NSCLC) who failed previous chemotherapy.",
+    "pharmacodynamics": "In vitro: Icotinib inhibits EGFR activity in a dose-dependent manner, with an IC50 value of 5 nM and complete inhibition at 62.5 nM. Icotinib selectively solely inhibits the EGFR members including the wild type and mutants with inhibition efficacies of 61-99%. Icotinib blocks EGFR-mediated intracellular tyrosine phosphorylation in human epidermoid carcinoma A431 cells in a dose-dependent manner. Meanwhile, in the proliferation assay performed on A431, BGC-823, A549, H460, HCT8, KB and Bel-7402 cell lines, it was found that the relative sensitivity of cell lines to Icotinib is A431 > BGC-823 > A549 > H460 > KB > HCT8 and Bel-7402. Icotinib exhibits a broad spectrum of antitumor activity and it is especially effective against tumors expressing higher levels of EGFR.\r\nIn vivo: In vivo studies demonstrated that Icotinib exhibited potent dose-dependent antitumor effects in nude mice carrying a variety of human tumor-derived xenografts. The drug was well tolerated at doses up to 120 mg/kg/day in mice without mortality or significant body weight loss during the treatment. A head to head randomized, double blind phase III trial using Gefitinib as an active control for patients with advanced non-small cell lung cancer (NSCLC) was finished recently (Trial registration ID: NCT01040780).",
+    "mechanism-of-action": "Icotinib is a highly selective, first generation epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI) which binds reversibly to the ATP binding site of the EGFR protein, preventing completion of the signal transduction cascade. EGFR is an oncogenic receptor and patients with activating somatic mutations, such as an exon 19 deletion or exon 21 L858R mutation, within the tyrosine kinase domain display unchecked cell proliferation. ",
+    "absorption": "Bioavailability = 52%",
+    "metabolism": "Hepatic (mainly CYP3A4, less CYP1A2)",
+    "toxicity": "The most common toxicities reported are skin-related events and diarrhea. ",
+    "targets": [
+        [
+            "EGFR",
+            "Epidermal growth factor receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

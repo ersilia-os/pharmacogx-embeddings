@@ -1,0 +1,38 @@
+{
+    "pharmgkb_id": "PA448970",
+    "drugbank_id": "DB00310",
+    "names": [
+        "Chlorthalidone",
+        "Hygroton",
+        "Saluretin"
+    ],
+    "description": "Chlorthalidone is a thiazide-like diuretic used for the treatment of hypertension and for management of edema caused by conditions such as heart failure or renal impairment. Chlorthalidone improves blood pressure and swelling by preventing water absorption from the kidneys through inhibition of the Na+/Cl\u2212 symporter in the distal convoluted tubule cells in the kidney. The exact mechanism of chlorthalidone's anti-hypertensive effect is under debate, however, it is thought that increased diuresis results in decreased plasma and extracellular fluid volume, decreased cardiac output and therefore overall reduction in blood pressure.[A176324]\r\n\r\nChlorthalidone is considered first-line therapy for management of uncomplicated hypertension as there is strong evidence from meta-analyses that thiazide diuretics such as chlorthalidone reduce the risk of stroke, myocardial infarction, heart failure, and cardiovascular all-cause mortality in patients with hypertension.[A173863] In particular, the ALLHAT trial confirmed the role of thiazide diuretics as first-line therapy and demonstrated that chlorthalidone had a statistically significant lower incidence of stroke and heart failure when compared to [DB00722], [DB00381], or [DB00590].[A173884, A173887] Further studies have indicated that low-dose thiazides are as good as, and in some secondary endpoints, better than \u03b2-blockers, ACE inhibitors, Calcium Channel Blockers or ARBs.\r\n\r\nChlorthalidone has been shown to have a number of pleiotropic effects that differentiate it from other diuretics such as [DB00999]. In addition to its antihypertensive effects, chlorthalidone has also been shown to decrease platelet aggregation and vascular permeability, as well as promote angiogenesis in vitro, which is thought to be partly the result of reductions in carbonic anhydrase\u2013dependent pathways. These pathways may play a role in chlorthalidone's cardiovascular risk reduction effects.[A176330]",
+    "indication": "Chlorthalidone is indicated in the management of hypertension either as the sole therapeutic agent or to enhance the effect of other antihypertensive drugs in the more severe forms of hypertension.\r\n\r\nChlorthalidone is indicated as adjunctive therapy in edema associated with congestive heart failure, hepatic cirrhosis, and corticosteroid and estrogen therapy.\r\n\r\nChlorthalidone has also been found useful in edema due to various forms of renal dysfunction, such as nephrotic syndrome, acute glomerulonephritis, and chronic renal failure.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Chlorthalidone prevents reabsorption of sodium and chloride through inhibition of the Na+/Cl- symporter in the cortical diluting segment of the ascending limb of the loop of Henle.[A16730] Reduction of sodium reabsorption subsequently reduces extracellular fluid and plasma volume via an osmotic, sodium-driven diuresis. By increasing the delivery of sodium to the distal renal tubule, Chlorthalidone indirectly increases potassium excretion via the sodium-potassium exchange mechanism. The exact mechanism of chlorthalidone's anti-hypertensive effect is under debate, however, it is thought that increased diuresis results in decreased plasma and extracellular fluid volume which therefore requires decreased cardiac output and overall lowers blood pressure.[A176324] Chlorthalidone has also been shown to decrease platelet aggregation and vascular permeability, as well as promote angiogenesis in vitro, which is thought to be partly the result of reductions in carbonic anhydrase\u2013dependent pathways. These pathways may play a role in chlorthalidone's cardiovascular risk reduction effects.[A176330]",
+    "absorption": null,
+    "metabolism": "Liver",
+    "toxicity": null,
+    "targets": [
+        [
+            "CA1",
+            "Carbonic anhydrase 1",
+            "Humans"
+        ],
+        [
+            "SLC12A1",
+            "Solute carrier family 12 member 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

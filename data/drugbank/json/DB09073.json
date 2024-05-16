@@ -1,0 +1,63 @@
+{
+    "pharmgkb_id": "PA166153469",
+    "drugbank_id": "DB09073",
+    "names": [
+        "Palbociclib"
+    ],
+    "description": "Palbociclib is a piperazine pyridopyrimidine[A176792] that acts in the cell cycle machinery. It is a second generation cyclin-dependent kinase inhibitor[A176798] selected from a group of pyridopyrimidine compounds due to its favorable physical and pharmaceutical properties.[A176810]\r\n\r\nPalbociclib was developed by Pfizer Inc after the discovery that identified the cyclin-dependent kinases as key regulators of cell growth.[L5867] It was originally FDA approved on March 2015 for the treatment of HR-positive, HER2-negative advanced or metastatic breast cancer and its indications were updated in April 2019 to include male patients based on findings from postmarketing reports and electronic health records demonstrating safety and clinical efficacy.[L4894]",
+    "indication": "Palbociclib is indicated in combination with [letrozole] as initial endocrine-based therapy for the treatment of human epidermal growth factor receptor type 2 (HER2)-negative and hormone receptor(HR)-positive tumors in adult patients with advanced/metastatic breast cancer. It is as well approved in combination with [fulvestrant] in patients with disease progression with prior endocrine therapy.[A176783]\r\n\r\nIn the official labeling, the use of palbociclib should be accompanied with either an aromatase inhibition, no restricted to letrozole, as initial endocrine-based therapy in postmenopausal women or in man.[L48076]\r\n\r\nThe breast cancer starts as a group of cancer cells that grow into and destroy the nearby breast tissue. This growth can spread into other parts of the body which is called metastasis. According to the location of the cancer cells, it can be categorized in ductal carcinoma and lobular carcinoma. However, other types of breast cancer include inflammatory breast cancer, Paget disease of the breast, triple negative breast cancer non-Hodgkin lymphoma and soft tissue sarcoma.[L5870] In males, breast cancer is usually treated as the cases of postmenopausal women and almost all the cases are ductal carcinoma.[L5873]",
+    "pharmacodynamics": "Due to its mechanism of action, palbociclib inhibits cell growth and suppresses DNA replication in retinoblastoma tumor suppressor gene (RB) proficient cancer cells. As expected, these RB cells present a significant increase in the proportion of cells in G1 state and the presence of palbociclib produces effective dephosphorylation of RB, reduce proliferation and induce senescence causing cell-cycle arrest.[A176810]\r\n\r\nIn vitro studies showed the potential for palbociclib to reduce cellular proliferation of estrogen receptor-positive breast cancer cell lines through the inhibition of the cell-cycle progression from G1 to S phase. In this study, it was demonstrated that the sensitivity of the cells significantly increased with the expression of _RB1_ and _CCND1_ and low expression of _CDKN2A_. As well, palbociclib, combined with antiestrogens, enhanced _in vivo_ antitumor activity in estrogen receptor-positive breast cancer mouse models.[A176792]\r\n\r\nIn clinical trials, palbociclib, in combination with letrozole, was shown to significantly increase the progression-free survival (PFS) in patients with metastatic breast cancer without prior endocrine treatment. In the results, the PFS increased from 4.5 to 9.5 months with an overall response rate (ORR) of 24.6%.[A176789]",
+    "mechanism-of-action": "Palbociclib is a cyclin-dependent kinase 4/6 (CDK4/6) inhibitor[A176783] that acts by binding to the ATP pocket with an IC50 in the range of 9-15 nmol/L. It is important to consider that it presents low to absent activity against other kinases.[A176798] \r\n\r\nThe CDK4/6 kinase is involved, with coregulatory partner cyclin D, in the G1-S transition. Hence, inhibition of this step prevents cell cycle progression in cells in whose this pathway is functioning. This step includes the pathways of the phosphorylation of retinoblastoma protein and the E2F family of transcription factors.[A176798]",
+    "absorption": "Palbociclib presents a linear pharmacokinetic profile and its peak plasma concentration was observed 6-12 hours after oral administration. The oral bioavailability is reported to be of 46% with a steady-state reached after 8 days and a median accumulation ratio of 2.4.[A176792]\r\n\r\nThe absorption of palbociclib is significantly reduced under fasting conditions and hence, food intake is recommended when this drug is administered.[A176792]",
+    "metabolism": "Palbociclib is mainly hepatically transformed.[A176792] the metabolism is mainly performed by the activities of the cytochrome P450 isoenzyme 3A and the sulfotransferase 2A1.[A176798] The metabolism of palbociclib is represented mainly by reactions of oxidation and sulfonation followed by acylation and glucuronidation as minor reactions. After its metabolism, palbociclib forms mainly inactive glucuronide and sulfamic acid conjugates. The major circulating metabolite, accounting for 1.5% of the dose in excreta is is the glucuronide conjugate.[F4265]",
+    "toxicity": "The reported oral Ld50 is of 100 mg/kg.[MSDS] In cases of overdosage, only supportive measures are considered.[FDA label]\r\n\r\nPalbociclib was showed to present clastogenic activities in _in vitro_ and _in vivo_ assays. As well, it has been reported to produce fetal harm due to its mechanism of action.[A176792] Lastly, it was shown to increase the incidence of microglial cell tumors in the central nervous system at high doses.[FDA label]",
+    "targets": [
+        [
+            "CDK4",
+            "Cyclin-dependent kinase 4",
+            "Humans"
+        ],
+        [
+            "CDK6",
+            "Cyclin-dependent kinase 6",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "SULT2A1",
+            "Bile salt sulfotransferase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

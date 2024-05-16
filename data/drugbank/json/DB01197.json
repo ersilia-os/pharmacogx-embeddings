@@ -1,0 +1,82 @@
+{
+    "pharmgkb_id": "PA448780",
+    "drugbank_id": "DB01197",
+    "names": [
+        "Captopril",
+        "Acepress",
+        "Acepril",
+        "Alopresin",
+        "Apopril",
+        "Captolane",
+        "Captoril",
+        "Cesplon",
+        "Dilabar",
+        "Garranil",
+        "Hipertil",
+        "Hypertil",
+        "Lopirin",
+        "Lopril",
+        "Tenosbon",
+        "Tensoprel"
+    ],
+    "description": "Captopril is a potent, competitive inhibitor of angiotensin-converting enzyme (ACE), the enzyme responsible for the conversion of angiotensin I (ATI) to angiotensin II (ATII). ATII regulates blood pressure and is a key component of the renin-angiotensin-aldosterone system (RAAS). Captopril may be used in the treatment of hypertension.",
+    "indication": "For the treatment of essential or renovascular hypertension (usually administered with other drugs, particularly thiazide diuretics). May be used to treat congestive heart failure in combination with other drugs (e.g. cardiac glycosides, diuretics, &beta;-adrenergic blockers). May improve survival in patients with left ventricular dysfunction following myocardial infarction. May be used to treat nephropathy, including diabetic nephropathy. ",
+    "pharmacodynamics": "Captopril, an ACE inhibitor, antagonizes the effect of the RAAS. The RAAS is a homeostatic mechanism for regulating hemodynamics, water and electrolyte balance. During sympathetic stimulation or when renal blood pressure or blood flow is reduced, renin is released from the granular cells of the juxtaglomerular apparatus in the kidneys. In the blood stream, renin cleaves circulating angiotensinogen to ATI, which is subsequently cleaved to ATII by ACE. ATII increases blood pressure using a number of mechanisms. First, it stimulates the secretion of aldosterone from the adrenal cortex. Aldosterone travels to the distal convoluted tubule (DCT) and collecting tubule of nephrons where it increases sodium and water reabsorption by increasing the number of sodium channels and sodium-potassium ATPases on cell membranes. Second, ATII stimulates the secretion of vasopressin (also known as antidiuretic hormone or ADH) from the posterior pituitary gland. ADH stimulates further water reabsorption from the kidneys via insertion of aquaporin-2 channels on the apical surface of cells of the DCT and collecting tubules. Third, ATII increases blood pressure through direct arterial vasoconstriction. Stimulation of the Type 1 ATII receptor on vascular smooth muscle cells leads to a cascade of events resulting in myocyte contraction and vasoconstriction. In addition to these major effects, ATII induces the thirst response via stimulation of hypothalamic neurons. ACE inhibitors inhibit the rapid conversion of ATI to ATII and antagonize RAAS-induced increases in blood pressure. ACE (also known as kininase II) is also involved in the enzymatic deactivation of bradykinin, a vasodilator. Inhibiting the deactivation of bradykinin increases bradykinin levels and may sustain its effects by causing increased vasodilation and decreased blood pressure.",
+    "mechanism-of-action": "There are two isoforms of ACE: the somatic isoform, which exists as a glycoprotein comprised of a single polypeptide chain of 1277; and the testicular isoform, which has a lower molecular mass and is thought to play a role in sperm maturation and binding of sperm to the oviduct epithelium. Somatic ACE has two functionally active domains, N and C, which arise from tandem gene duplication. Although the two domains have high sequence similarity, they play distinct physiological roles. The C-domain is predominantly involved in blood pressure regulation while the N-domain plays a role in hematopoietic stem cell differentiation and proliferation. ACE inhibitors bind to and inhibit the activity of both domains, but have much greater affinity for and inhibitory activity against the C-domain. Captopril, one of the few ACE inhibitors that is not a prodrug, competes with ATI for binding to ACE and inhibits and enzymatic proteolysis of ATI to ATII. Decreasing ATII levels in the body decreases blood pressure by inhibiting the pressor effects of ATII as described in the Pharmacology section above. Captopril also causes an increase in plasma renin activity likely due to a loss of feedback inhibition mediated by ATII on the release of renin and/or stimulation of reflex mechanisms via baroreceptors. Captopril\u2019s affinity for ACE is approximately 30,000 times greater than that of ATI.",
+    "absorption": "60-75% in fasting individuals; food decreases absorption by 25-40% (some evidence indicates that this is not clinically significant)",
+    "metabolism": "Hepatic. Major metabolites are captopril-cysteine disulfide and the disulfide dimer of captopril. Metabolites may undergo reversible interconversion. ",
+    "toxicity": "Symptoms of overdose include emesis and decreased blood pressure. Side effects include dose-dependent rash (usually maculopapular), taste alterations, hypotension, gastric irritation, cough, and angioedema.",
+    "targets": [
+        [
+            "ACE",
+            "Angiotensin-converting enzyme",
+            "Humans"
+        ],
+        [
+            "MMP2",
+            "72 kDa type IV collagenase",
+            "Humans"
+        ],
+        [
+            "MMP9",
+            "Matrix metalloproteinase-9",
+            "Humans"
+        ],
+        [
+            "LTA4H",
+            "Leukotriene A-4 hydrolase",
+            "Humans"
+        ],
+        [
+            "BDKRB1",
+            "B1 bradykinin receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

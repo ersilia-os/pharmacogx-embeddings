@@ -1,0 +1,32 @@
+{
+    "pharmgkb_id": "PA449259",
+    "drugbank_id": "DB00380",
+    "names": [
+        "Dexrazoxane",
+        "Ao Nuo Xian",
+        "Cardioxane"
+    ],
+    "description": "An antimitotic agent with immunosuppressive properties. Dexrazoxane, the (+)-enantiomorph of razoxane, provides cardioprotection against anthracycline toxicity. It appears to inhibit formation of a toxic iron-anthracycline complex. [PubChem]\r\nThe Food and Drug Administration has designated dexrazoxane as an orphan drug for use in the prevention or reduction in the incidence and severity of anthracycline-induced cardiomyopathy.",
+    "indication": "For reducing the incidence and severity of cardiomyopathy associated with doxorubicin administration in women with metastatic breast cancer who have received a cumulative doxorubicin hydrochloride dose of 300 mg/m^2 and would benefit from continued doxorubicin therapy. Also approved for the treatment of extravasation from intravenous anthracyclines.",
+    "pharmacodynamics": "Dexrazoxane is a cardioprotective agent for use in conjunction with doxorubicin indicated for reducing the incidence and severity of cardiomyopathy associated with doxorubicin administration in women with metastatic breast cancer who have received a cumulative doxorubicin dose. Patients receiving anthracycline-derivative antineoplastic agents may experience three types of cardiotoxicity: acute transient type; chronic, subacute type (related to cumulative dose and has a more indolent onset later on); and a late-onset type that manifests years after therapy, mainly in patients that have been exposed to the drug as a child. Although the exact mechanism of anthracycline-induced cardiotoxicity is not known, it has shown to exert a variety of actions that may result in the development of cardiotoxicity. In animals, anthracyclines cause a selective inhibition of cardiac muscle gene expression for \u03b1-actin, troponin, myosin light-chain 2, and the M isoform of creatine kinase. This may lead to myofibrillar loss associated with anthracycline-induced cardiotoxicity. Anthracyclines may also cause myocyte damage via calcium overload, altered myocardial adrenergic function, release of vasoactive amines, and proinflammatory cytokines. Furthermore, it has been suggested that the main cause of anthracycline-induced cardiotoxicity is associated with free-radical damage to DNA. The drugs intercalate DNA, chelate metal ions to produce drug-metal complexes, and generate superoxide radicals via oxidation-reduction reactions. Anthracyclines also contain a quinone structure that can undergo reduction via NADPH-dependent reactions to produce a semiquinone free radical that initiates a cascade of superoxide and hydroxide radical generation. Chelation of metal ions, particularly iron, by anthracyclines results in an anthracycline-metal complex that catalyzes the generation of reactive oxygen free radicals. This complex is a powerful oxidant that can initiate lipid peroxidation in the absence of oxygen free radicals. The toxicity induced by antrhacyclines may be exacerbated in cardiac cells, as these cells do not possess sufficient amounts of certain enzymes (e.g., superoxide dismutase, catalase, glutathione peroxidase) involved in detoxifying free radicals and protecting the cells from subsequent damage.",
+    "mechanism-of-action": "The mechanism by which dexrazoxane exerts its cardioprotective activity is not fully understood. Dexrazoxane is a cyclic derivative of EDTA that readily penetrates cell membranes. Results of laboratory studies suggest that dexrazoxane (a prodrug) is converted intracellularly to a ring-opened bidentate chelating agent that chelates to free iron and interferes with iron-mediated free radical generation thought to be responsible, in part, for anthracycline-induced cardiomyopathy. It should be noted that dexrazoxane may also be protective through its inhibitory effect on topoisomerase II.",
+    "absorption": "IV administration results in complete bioavailability.",
+    "metabolism": "Dexrazoxane is hydrolysed by the enzyme dihydropyrimidine amidohydrolase in the liver and kidney to active metabolites that are capable of binding to metal ions.",
+    "toxicity": "Intraperitoneal, mouse LD<sub>10</sub> = 500 mg/kg. Intravenous, dog LD<sub>10</sub> = 2 gm/kg.",
+    "targets": [
+        [
+            "TOP2A",
+            "DNA topoisomerase 2-alpha",
+            "Humans"
+        ],
+        [
+            "TOP2B",
+            "DNA topoisomerase 2-beta",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

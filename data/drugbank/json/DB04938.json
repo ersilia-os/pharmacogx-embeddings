@@ -1,0 +1,51 @@
+{
+    "pharmgkb_id": "PA166182883",
+    "drugbank_id": "DB04938",
+    "names": [
+        "Ospemifene"
+    ],
+    "description": "Ospemifene is a new selective non-hormonal estrogen receptor modulator (SERM) that is used for the treatment of moderate to severe dyspareunia, a symptom of vulvar and vaginal atrophy, due to menopause. FDA approved on February 26, 2013.",
+    "indication": "Ospemifene is indicated for the treatment of moderate to severe dyspareunia and vaginal dryness associated with menopause.[L35265]",
+    "pharmacodynamics": "The half maximal inhibitory concentration (IC50) for estrogen receptor (ER) alpha and beta are 0.8 \u03bcM and 1.7 \u03bcM, respectively. Ospemifene has potential uses in the management of osteoporosis in postmenopausal women. It interacts with osteoblasts and osteoclasts in such a way that it reduces bone turnover. It also has potential uses in the prevention of breast cancer. Studies suggest that ospemifene, in a dose-dependent manner, reduces the incidence of tumours. ",
+    "mechanism-of-action": "Ospemifene is a next generation SERM (selective estrogen receptor modulator) that selectively binds to estrogen receptors and either stimulates or blocks estrogen's activity in different tissue types. It has an agonistic effect on the endometrium.",
+    "absorption": "When a single oral dose of ospemifene 60 mg is given to postmenopausal women under fasted conditions, the pharmacokinetic parameters are as follows:\r\nTmax = 2 hours (range of 1 - 8 hours);\r\nCmax = 533 ng/mL;\r\nAUC (0-inf) = 4165 ng\u2022hr/mL. \r\nWhen the same aforementioned dose is given to postmenopausal women under fed conditions, the pharmacokinetic parameters are as follows:\r\nTmax = 2.5 hours (1 - 6 hours); \r\nCmax = 1198 ng/mL;\r\nAUC (0-inf) = 7521 ng\u2022hr/mL. \r\nAccumulation occurs following repeated doses. \r\nTime to steady state = 9 days.   \r\nAlthough the bioavailability of ospemifene has not been formally evaluated, it is expected to have a low bioavailability because of its lipophilic nature. ",
+    "metabolism": "Ospemifene is hepatically metabolized via CYP3A4, CYP2C9, CYP2C19, and CYP2B6. The major metabolite was 4-hydroxyospemifene, 25% of the parent compound will undergo this biotransformation.  Other metabolites include 4'-hydroxy-ospemifene, <7% of the parent compound will undergo this biotransformation. In order of decreasing potency, ospemifene was suggested to be a weak inhibitor for CYP2B6, CYP2C9, CYP2C19, CYP2C8, CYP2D6 and CYP3A4. ",
+    "toxicity": "Adverse reactions (\u22651 percent) include: hot flush, vaginal discharge, muscle spasms, genital discharge, hyperhidrosis.",
+    "targets": [
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

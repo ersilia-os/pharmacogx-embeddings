@@ -1,0 +1,99 @@
+{
+    "pharmgkb_id": "PA164754818",
+    "drugbank_id": "DB00443",
+    "names": [
+        "Betamethasone",
+        "Bentelan",
+        "Betnovate",
+        "Celestamine",
+        "Diprosone",
+        "Procort",
+        "Rinderon"
+    ],
+    "description": "Betamethasone is a long-acting corticosteroid with immunosuppressive and antiinflammatory properties.[A192444] It can be used topically to manage inflammatory skin conditions such as eczema, and parenterally to manage several disease states including autoimmune disorders.[A192444] Betamethasone has potent glucocorticoid activity and negligible mineralocorticoid activity.[A192444]",
+    "indication": "As a member of the corticosteroid family, betamethasone is indicated for the treatment of several inflammatory conditions. As topical monotherapy, betamethasone is indicated to relieve pruritic and inflammatory symptoms of corticosteroid-responsive-dermatoses.[L11991,L10782,L11997] Betamethasone can be used topically in combination with a vitamin D analog such as calcipotriene to treat plaque psoriasis.[L12000] The corticosteroid is also available as an injectable suspension and can be used to manage a range of inflammatory conditions including endocrine disorders, gastrointestinal disorders, and rheumatic disorders among other conditions.[L11994]\r\n",
+    "pharmacodynamics": "Corticosteroids bind to the glucocorticoid receptor inhibiting pro-inflammatory signals, while promoting anti-inflammatory signals.[A187463] Corticosteroids have a wide therapeutic window as patients may require doses that are multiples of what the body naturally produces.[A187463] Patients who require long-term treatment with a corticosteroid should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections.[A187463]",
+    "mechanism-of-action": "Glucocorticoids inhibit neutrophil apoptosis and demargination, and inhibit NF-Kappa B and other inflammatory transcription factors.[A187463] They also inhibit phospholipase A2, leading to decreased formation of arachidonic acid derivatives.[A187463] In addition, glucocorticoids promote anti-inflammatory genes like interleukin-10.[A187463]\r\n\r\nCorticosteroids like betamethasone can act through nongenomic and genomic pathways.[A31458] The genomic pathway is slower and occurs when glucocorticoids activate glucocorticoid receptors and initiate downstream effects that promote transcription of anti-inflammatory genes including phosphoenolpyruvate carboxykinase (PEPCK), IL-1-receptor antagonist, and tyrosine amino transferase (TAT).[A31458] On the other hand, the nongenomic pathway is able to elicit a quicker response by modulating T-cell, platelet and monocyte activity through the use of existing membrane-bound receptors and second messengers.[A31458]",
+    "absorption": "The absorption and potency of any topical corticosteroid including betamethasone depends on the vehicle in which the steroid is delivered. For example, betamethasone dipropionate 0.05% ointment is classified as a highly potent topical steroid, while betamethasone dipropionate 0.05% cream or lotion is considered to be moderately potent.[A192375] \r\n\r\nThere are several structural modifications that can determine the potency of a topical corticosteroid. For example, corticosteroids containing a halogen at specific carbons, or that contain esters are more potent due to enhanced lipophilicity.[A192378] As such, there is a marked difference between topical products containing betamethasone dipropionate vs. betamethasone valerate. Betamethasone dipropionate contains 2 esters which enhances its potency, while betamethasone valerate has only one ester and is less potent.[A192378]\r\n\r\nIt should be noted that the use of occlusive dressings with topical steroids significantly increases the absorption, increasing the risk for adverse effects.[L10782]",
+    "metabolism": "The metabolism of betamethasone yields 6 metabolites.[A192429] The metabolic processes include 6\u03b2 hydroxylation, 11\u03b2-hydroxyl oxidation, and reduction of the C-20 carbonyl group followed by removal of the side chain.[A192429]",
+    "toxicity": "Chronic high doses of glucocorticoids can lead to the development of cataracts, glaucoma, hypertension, water retention, hyperlipidemia, peptic ulcer, pancreatitis, myopathy, osteoporosis, mood changes, psychosis, dermal atrophy, allergy, acne, hypertrichosis, immune suppression, decreased resistance to infection, moon face, hyperglycemia, hypocalcemia, hypophosphatemia, metabolic acidosis, growth suppression, and secondary adrenal insufficiency.[A188405] Overdose may be treated by adjusting the dose or stopping the corticosteroid as well as initiating symptomatic and supportive treatment.[A188405]",
+    "targets": [
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "SERPINA6",
+            "Corticosteroid-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

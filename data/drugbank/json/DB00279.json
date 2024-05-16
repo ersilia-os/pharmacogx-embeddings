@@ -1,0 +1,114 @@
+{
+    "pharmgkb_id": "PA164778866",
+    "drugbank_id": "DB00279",
+    "names": [
+        "Liothyronine",
+        "Tertroxin"
+    ],
+    "description": "Liothyronine is a thyroidal hormone T3 which is normally produced by the thyroid gland in a ratio 4:1 when compared with T4: T3. Liothyronine is the active form of thyroxine which is composed in a basic chemical structure by a tyrosine with bound iodine.[T457] The exogenous liothyronine product was developed by King Pharmaceuticals and FDA approved in 1956.[L5578]",
+    "indication": "Liothyronine is officially approved for the following indications:\r\n\r\n- Replacement therapy in primary (thyroidal), secondary (pituitary) and tertiary (hypothalamic) congenital or acquired hypothyroidism.\r\n\r\n- As an adjunct therapy to surgery and radioiodine in the management of thyroid cancer.\r\n\r\n- As a diagnostic agent in suppression tests for mild hyperthyroidism or thyroid gland autonomy.[FDA label]\r\n\r\nIn general terms, exogenous liothyronine is used to replace insufficient hormonal production and restore T3 plasma levels.[T457]\r\n\r\nThe lack of liothyronine can be presented as a pale and puffy face, coarse,  brittle hair, dry skin, croaky voice and constipation as well as irregular periods, drowsiness, and lethargy.[T457]\r\n\r\nLiothyronine should never be used in the suppression of benign nodules and nontoxic diffuse goiter in iodine-sufficient patients nor in the treatment of hyperthyroidism during the recovery phase of subacute thyroiditis.[FDA label]",
+    "pharmacodynamics": "In hormonal replacement, liothyronine is more potent and present a faster action when compared to levothyroxine but the time of action is significantly shorter. The type of treatment needs to be well evaluated as the fast correction of thyroid hormones in certain diseases presents additional risks such as heart failure.[T457] The onset of activity is observed a few hours after administration and the maximum effect is observed after 2-3 days.[FDA label]\r\n\r\nTreatment with liothyronine has been shown to produce normal plasma levels of T3 hormone but to have no effect on the T4 plasma concentration.[T463]",
+    "mechanism-of-action": "Liothyronine replaces endogenous thyroid hormone and then exerts its physiologic effects by controlling DNA transcription and protein synthesis. This effect on DNA is obtained by the binding of liothyronine to the thyroid receptors attached to DNA. Exogenous liothyronine exerts all the normal effects of the endogenous thyroid T3 hormone. Hence, it increases energy expenditure, accelerates the rate of cellular oxidation stimulating growth, maturation, and metabolism of the body tissues, aids in myelination of nerves and development of synaptic processes in the nervous system and enhances carbohydrate and protein metabolism.[T276]",
+    "absorption": "Thyroid hormones are well absorbed orally. From these hormones, liothyronine is almost completely absorbed and it does not present changes in the absorption rate due to concomitant administration of food.[T322]liothyronin Multiple administration of 50 mcg of liothyronine provided a maximal plasma concentration of total T3 of 346 ng/dL in about 2.5 hours with an AUC of 4740 ng.h/dL.[A175435]",
+    "metabolism": "Liothyronine is mainly metabolized in the liver where it is deiodinated to diiodothyronine and monoiodothyronine followed by conjugation with glucuronides and sulfates.[L5587] One of the formed metabolites formed by the conjugation and decarboxylation is tiratricol. The iodine released by the metabolism of liothyronine is later taken and used within the thyroid cells.[T122]",
+    "toxicity": "The reported oral LD50 of liothyronine in the rat is higher than 4540 mg/kg. When overdosage is registered, symptoms of hyperthyroidism are reported as well as confusion, disorientation, cerebral embolism, seizure, shock, coma, and death. The symptoms of overdose can be presented immediately or several days after overdose ingestion. In an overdose state, reduce the dose of liothyronine and do supportive treatment.[FDA label]\r\n\r\nThere are no reports studying the carcinogenic, and mutagenic potential nor on the effects of liothyronine on fertility.[FDA label]",
+    "targets": [
+        [
+            "THRA",
+            "Thyroid hormone receptor alpha",
+            "Humans"
+        ],
+        [
+            "THRB",
+            "Thyroid hormone receptor beta",
+            "Humans"
+        ],
+        [
+            "PCNA",
+            "Proliferating cell nuclear antigen",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO4C1",
+            "Solute carrier organic anion transporter family member 4C1",
+            "Humans"
+        ],
+        [
+            "SLC10A1",
+            "Sodium/bile acid cotransporter",
+            "Humans"
+        ],
+        [
+            "SLCO1C1",
+            "Solute carrier organic anion transporter family member 1C1",
+            "Humans"
+        ],
+        [
+            "SLCO4A1",
+            "Solute carrier organic anion transporter family member 4A1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC16A10",
+            "Monocarboxylate transporter 10",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC7A5",
+            "Large neutral amino acids transporter small subunit 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "TTR",
+            "Transthyretin",
+            "Humans"
+        ],
+        [
+            "SERPINA7",
+            "Thyroxine-binding globulin",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

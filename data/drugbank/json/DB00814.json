@@ -1,0 +1,98 @@
+{
+    "pharmgkb_id": "PA450353",
+    "drugbank_id": "DB00814",
+    "names": [
+        "Meloxicam",
+        "Achefree",
+        "Acticam",
+        "Aflamid",
+        "Afloxx",
+        "Aglan",
+        "Ainecox",
+        "Aldoron",
+        "Alentum",
+        "Algiflex",
+        "Aliviodol",
+        "Anaxicam",
+        "Anposel",
+        "Antrend",
+        "Aponip",
+        "Areloger",
+        "Aremil",
+        "Armex",
+        "Arrox",
+        "Arsitec",
+        "Artex",
+        "Arthrobic",
+        "Arthrox",
+        "Articam",
+        "Artipro",
+        "Artriclox",
+        "Artrifilm",
+        "Artriflam",
+        "Artrilom",
+        "Artrilox",
+        "Artrox",
+        "Aspicam",
+        "Atiflam",
+        "Atrozan",
+        "Auroxicam",
+        "Axius"
+    ],
+    "description": "Meloxicam is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve various types of pain, including pain caused by musculoskeletal conditions, osteoarthritis, and rheumatoid arthritis.[A190189] With a longer half-life than most other NSAIDS, it is a favorable option for those who require once-daily dosing. Meloxicam is available in oral, transdermal, and intravenous formulations. It is a preferential COX-2 inhibitor, purportedly reducing the risk of adverse gastrointestinal tract effects, however, this is a topic of controversy.[A190198,A190201]",
+    "indication": "Meloxicam is indicated for the symptomatic treatment of arthritis and osteoarthritis.  In addition, it is indicated for the pauciarticular and polyarticular course of Juvenile Rheumatoid Arthritis (JRA) in patients aged 2 years old or above.[L11398] Off-label uses include the treatment of dental or post-surgical pain. In addition to the above, meloxicam has also been studied in the treatment of neuropathic pain. [A190189]\r\n\r\nMeloxicam, in combination with [bupivacaine], is indicated for postsurgical analgesia in adult patients for up to 72 hours following foot and ankle, small-to-medium open abdominal, and lower extremity total joint arthroplasty surgical procedures.[L34100]",
+    "pharmacodynamics": "Meloxicam is an anti-inflammatory, analgesic analgesic with antipyretic effects in fever.[A190189] Prostaglandins are substances that contribute to inflammation.[A176366] This drug also exerts preferential actions against COX-2[A190195], which may reduce the possible gastrointestinal effects of this drug.  \r\n\r\nIn humans, meloxicam has demonstrated the ability to decrease erythrocyte sedimentation rate(ESR) in patients with rheumatoid arthritis, and to decrease ESR, C-reactive protein (CRP), as well as  aquaporin-1 expression.[A190189] As with other NSAIDS, prolonged use of meloxicum can result in renal or cardiovascular impairment or thrombotic cardiovascular events.[L11398]\r\n\r\nA note on gastrointestinal effects\r\n\r\nAs meloxicam preferentially inhibits COX-2, it is thought to cause less gastrointestinal irritation compared to other NSAIDS. Despite this, it still carries a risk of gastric inflammation, bleeding and ulceration.[A190201,L11398]   In one study, patients on meloxicam suffered from gastrointestinal symptoms at a rate of 13% compared to 19% of those on [diclofenac]. GI events were found to be less severe in the meloxicam-treated patients.[A190189]",
+    "mechanism-of-action": "Meloxicam inhibits prostaglandin synthetase (cylooxygenase 1 and 2) enzymes leading to a decreased synthesis of prostaglandins, which normally mediate painful inflammatory symptoms.[A176366] As prostaglandins sensitize neuronal pain receptors, inhibition of their synthesis leads to analgesic and inflammatory effects. Meloxicam preferentially inhibits COX-2, but also exerts some activity against COX-1, causing gastrointestinal irritation.[A190189,L11398]",
+    "absorption": "The absolute bioavailability oral capsules after a dose was 89% in one pharmacokinetic study. Cmax was reached 5\u20136 hours after administration of a single dose given after the first meal of the day. The Cmax doubled when the drug was administered in the fasting state. Despite this, meloxicam can be taken without regard to food, unlike many other NSAIDS.[A190189,L11398]\r\n\r\nMeloxicam formulated for instillation with [bupivacaine] produced varied systemic measures following a single dose of varying strength. In patients undergoing bunionectomy, 1.8 mg of meloxicam produced a C<sub>max</sub> of 26 \u00b1 14 ng/mL, a median T<sub>max</sub> of 18 h, and an AUC<sub>\u221e</sub> of 2079 \u00b1 1631 ng\\*h/mL. For a 9 mg dose used in herniorrhaphy, the corresponding values were 225 \u00b1 96 ng/mL, 54 h, and the AUC<sub>\u221e</sub> was not reported. Lastly, a 12 mg dose used in total knee arthroplasty produced values of 275 \u00b1 134 ng/mL, 36 h, and 25,673 \u00b1 17,666 ng\\*h/mL.[L34100]",
+    "metabolism": "Meloxicam is almost completely metabolized.  CYP2C9 is the main enzyme responsible for the metabolism of meloxicam[A190189,A14902] with minor contributions from CYP3A4.[L11398] Meloxicam has 4 major metabolites with no activity determined. About 60% of the ingested dose is  metabolized to 5'-carboxy meloxicam from hepatic cytochrome enzyme oxidation of an intermediate metabolite, 5\u2019-hydroxymethylmeloxicam.[A14902,A39443] Two other metabolites are likely produced via peroxidation.[A14902,L11398]",
+    "toxicity": "The oral LD50 in rats is 98 mg/kg.[L11470] Signs and symptoms of overdose with meloxicam may include shallow breathing, seizure, decreased urine output, gastrointestinal irritation, nausea, vomiting, gastrointestinal bleeding, and black tarry stools.[L11473] In the case of an overdose, offer supportive treatment and attempt to remove gastrointestinal contents. Cholestyramine has been shown to enhance the elimination of meloxicam.[L11470]",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "PGD",
+            "6-phosphogluconate dehydrogenase, decarboxylating",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

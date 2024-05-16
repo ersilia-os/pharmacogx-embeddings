@@ -1,0 +1,126 @@
+{
+    "pharmgkb_id": "PA166278301",
+    "drugbank_id": "DB05087",
+    "names": [
+        "Ganaxolone"
+    ],
+    "description": "Ganaxolone is the 3\u03b2-methylated synthetic analog of [allopregnanolone],[L41130] a metabolite of [progesterone].[A3197] Ganaxolone belongs to a class of compounds referred to as neurosteroids.[A3197] Endogenous neurosteroids, which comprise certain metabolites of progesterone and deoxycorticosterone, bind potently and specifically to GABA<sub>A</sub> receptors to enhance their inhibitory effects, and are thus known to have anxiolytic, analgesic, anticonvulsant, sedative, hypnotic, and anesthetic properties.[A245995]\r\n\r\nGanaxolone, similar to its endogenous counterparts, is a positive allosteric modulator of GABA<sub>A</sub> receptors.[L41130] It was approved under the brand name ZTALMY by the US FDA in March 2022 for the treatment of seizures associated with CDKL5 deficiency disorder (CDD), becoming the first FDA-approved treatment indicated specifically for CDD.[L41135] In July 2023, ganaxolone was also approved under the same brand name and for the same indication by the EMA.[L47636]",
+    "indication": "Ganaxolone is indicated for the treatment of seizures associated with cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) in patients \u22652 years old by the FDA.[L41130] It is also approved as an adjuvant treatment for the same condition in patients aged 2 to 17, although it may be continued in patients 18 years old or older, by the EMA.[L47631]",
+    "pharmacodynamics": "Ganaxolone - like other neurosteroids - lacks classical hormonal activity, and instead appears to exert its effects directly via modulation of GABA<sub>A</sub> receptors.[A3197] Similar to other antiepileptic drugs, ganaxolone has been associated with significant somnolence and sedation - patients should be instructed to use caution when operating heavy machinery (e.g. driving).[L41130] In addition, antiepileptic drugs may increase the risk of suicidal behaviour and ideation, although this risk has not been documented directly in patients taking ganaxolone.[L41130] When considering ganaxolone therapy, clinicians should balance the risk of suicidal thoughts or behaviours with the risk of untreated illness.\r\n\r\nGanaxolone drug scheduling is currently under review by the US Drug Enforcement Administration (DEA), but it appears to carry some potential for abuse.[L41130] Clinicians should consider assessing for a history of drug abuse when deciding to initiate therapy with ganaxolone. ",
+    "mechanism-of-action": "Ganaxolone belongs to a novel class of neuroactive steroids sometimes referred to as \"epalons\", which are potent and specific positive allosteric modulators of \u03b3-aminobutyric acid type A (GABA<sub>A</sub>) receptors in the central nervous system (CNS).[A245990] It binds GABA<sub>A</sub> at one of several potential binding sites, all of which are distinct from the benzodiazepine binding site.[A3197] By enhancing the inhibitory effects of GABA<sub>A</sub> receptors, endogenous and exogenous neurosteroids have been associated with anxiolytic, sedative, and anticonvulsant effects, amongst others.[A245995]\r\n\r\nWhile the precise mechanism of action of ganaxolone in the treatment of seizures associated with CDD is unknown, its anticonvulsant effects are likely due to positive allosteric GABA<sub>A</sub> modulation[L41130]",
+    "absorption": "Following oral administration, maximum plasma concentrations are reached within 2 to 3 hours.[L41130]",
+    "metabolism": "Ganaxolone is extensively metabolized, primarily by CYP3A4/5 and, to a lesser extent, CYP2B6, CYP2C19, and CYP2D6.[L41130] While data regarding ganaxolone metabolism are lacking, a 16-OH metabolite generated via CYP3A4 metabolism has been identified as one of its major metabolites.[A3197]",
+    "toxicity": "Experience with ganaxolone overdose is limited to a single report of an unintentional overdose in a pediatric patient, in which the patient received ten-fold the prescribed dose. The patient was hospitalized for evaluation and recovered.[L41130] No specific information is available regarding treatment of ganaxolone overdose - patients suspected of overdosage should be closely monitored and receive standard supportive care.[L41130]",
+    "targets": [
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

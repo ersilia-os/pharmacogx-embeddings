@@ -1,0 +1,31 @@
+{
+    "pharmgkb_id": "PA164768835",
+    "drugbank_id": "DB04835",
+    "names": [
+        "Maraviroc"
+    ],
+    "description": "Maraviroc (brand-named Selzentry, or Celsentri outside the U.S.) is a chemokine receptor antagonist drug developed by the drug company Pfizer that is designed to act against HIV by interfering with the interaction between HIV and CCR5. It was originally labelled as UK-427857 during development but was assigned the Maraviroc name as it entered trials. It was approved for use by the FDA in August, 2007.",
+    "indication": "Maraviroc is indicated in combination with other antiretroviral agents for the treatment of CCR5-tropic HIV-1 infection in adults and pediatric patients weighing at least 2kg.[L4109] It is not recommended in patients with dual/mixed- or CXCR4-tropic HIV-1.",
+    "pharmacodynamics": "Maraviroc is a chemokine receptor antagonist drug developed by the drug company Pfizer that is designed to act against HIV by interfering with the interaction between HIV and CCR5.",
+    "mechanism-of-action": "Maraviroc is an entry inhibitor and works by blocking HIV from entering human cells. Specifically maraviroc is a selective, slowly reversible, small molecule antagonist of the interaction between human CCR5 and HIV-1 gp120. Maraviroc selectively binds to the human chemokine receptor CCR5 present on the membrane of CD4 cells (T-cells), preventing the interaction of HIV-1 gp120 and CCR5 necessary for CCR5-tropic HIV-1 to enter cells.",
+    "absorption": "The absolute oral bioavailability of a 100 mg dose is 23% and is predicted to be 33% at 300 mg. Coadministration of a 300mg tablet with a high fat breakfast reduced maraviroc Cmax and AUC by 33% in healthy volunteers.",
+    "metabolism": "In vitro studies indicate that CYP3A is the major enzyme responsible for maraviroc metabolism.",
+    "toxicity": null,
+    "targets": [
+        [
+            "CCR5",
+            "C-C chemokine receptor type 5",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

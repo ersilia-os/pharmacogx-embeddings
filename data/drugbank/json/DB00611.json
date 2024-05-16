@@ -1,0 +1,37 @@
+{
+    "pharmgkb_id": "PA164745398",
+    "drugbank_id": "DB00611",
+    "names": [
+        "Butorphanol",
+        "Butaro",
+        "Butrum"
+    ],
+    "description": "A synthetic morphinan analgesic with narcotic antagonist action. It is used in the management of severe pain.",
+    "indication": "For the relief of moderate to severe pain.",
+    "pharmacodynamics": "Butorphanol is a synthetic opioid agonist-antagonist analgesic with a pharmacological and therapeutic profile that has been well established since its launch as a parenteral formulation in 1978. The introduction of a transnasal formulation of butorphanol represents a new and noninvasive presentation of an analgesic for moderate to severe pain. This route of administration bypasses the gastrointestinal tract, and this is an advantage for a drug such as butorphanol that undergoes significant first-pass metabolism after oral administration. The onset of action and systemic bioavailability of butorphanol following transnasal delivery are similar to those after parenteral administration. Butorphanol blocks pain impulses at specific sites in the brain and spinal cord.",
+    "mechanism-of-action": "The exact mechanism of action is unknown, but is believed to interact with an opiate receptor site in the CNS (probably in or associated with the limbic system). The opiate antagonistic effect may result from competitive inhibition at the opiate receptor, but may also be a result of other mechanisms. Butorphanol is believed to have both partial agonism and partial antagonism at the \u03bc-opioid receptor, as well as partial agonist and antagonist activity at the \u03ba-opioid receptor.",
+    "absorption": "Rapidly absorbed after intramuscular injection and peak plasma levels are reached in 20-40 minutes. The absolute bioavailability is 60-70% and is unchanged in patients with allergic rhinitis. In patients using a nasal vasoconstrictor (oxymetazoline) the fraction of the dose absorbed was unchanged, but the rate of absorption was slowed. Oral bioavailability is only 5-17% because of extensive first-pass metabolism.",
+    "metabolism": "Extensively metabolized in the liver. The pharmacological activity of butorphanol metabolites has not been studied in humans; in animal studies, butorphanol metabolites have demonstrated some analgesic activity.",
+    "toxicity": "The clinical manifestations of butorphanol overdose are those of opioid drugs in general. The most serious symptoms are hypoventilation, cardiovascular insufficiency, coma, and death.",
+    "targets": [
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

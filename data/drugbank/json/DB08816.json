@@ -1,0 +1,60 @@
+{
+    "pharmgkb_id": "PA165374673",
+    "drugbank_id": "DB08816",
+    "names": [
+        "Ticagrelor",
+        "Brilinta",
+        "Possia"
+    ],
+    "description": "Ticagrelor, or AZD6140, was first described in the literature in 2003.[A204170,A2903] Ticagrelor is an ADP derivative developed for its P2Y<sub>12</sub> receptor antagonism.[A2903] Unlike [clopidogrel], ticagrelor is not a prodrug.[A2903] It is marketed by Astra Zeneca as Brilinta in the US[L14201] and Brilique or Possia in the EU,[L14207].\r\n\r\nTicagrelor was granted EMA approval on 3 December 2010.[L14207]\r\nTicagrelor was granted FDA approval on 20 July 2011.[L14201]",
+    "indication": "Ticagrelor is indicated to reduce the risk of cardiovascular death, myocardial infarction, and stroke in patients with acute coronary syndrome or a history of myocardial infarction.[L14201] Ticagrelor is also indicated to reduce the risk of a first myocardial infarction or stroke in high risk patients with coronary artery disease.[L14201]",
+    "pharmacodynamics": "Ticagrelor is a P2Y<sub>12</sub> receptor antagonist that inhibits the formation of thromboses to reduce the risk of myocardial infarction and ischemic stroke.[A17595,A204164] It has a moderate duration of action as it is given twice daily, and a wide therapeutic index as high single doses are well tolerated.[L14201,L14207] Patients should be counselled regarding the risk of bleeding, dyspnea, and bradyarrhythmias.[L14201]",
+    "mechanism-of-action": "Ticagrelor is a P2Y<sub>12</sub> receptor antagonist.[A17595]\r\n\r\nThe P2Y<sub>12</sub> receptor couples with G\u03b1<sub>i2</sub> and other G<sub>i</sub> proteins which inhibit adenylyl cyclase.[A204164] G<sub>i</sub> mediated signalling also activates PI3K, Akt, Rap1b, and potassium channels.[A204164] The downstream effects of these activities mediate hemostasis and lead to platelet aggregation.[A204164]\r\n\r\nAntagonism of the P2Y<sub>12</sub> receptor reduces development of occlusive thromboses, which can reduce the risk of myocardial infarction and ischemic stroke.[A204164]",
+    "absorption": "Ticagrelor is 36% orally bioavailable.[L14201] A single 200mg oral dose of ticagrelor reaches a C<sub>max</sub> of 923ng/mL, with a T<sub>max</sub> of 1.5 hours and an AUC of 6675ng\\*h/mL.[A17595] The active metabolite of ticagrelor reaches a C<sub>max</sub> of 264ng/mL, with a T<sub>max</sub> of 3.0 hours and an AUC of 2538ng\\*h/mL.[A17595]",
+    "metabolism": "The complete structure of all ticagrelor metabolites are not well defined.[A17595] Ticagrelor can be dealkylated at postition 5 of the cyclopentane ring to form the active AR-C124910XX.[A17595] AR-C124910XX's cyclopentane ring can be further glucuronidated or the alkyl chain attached to the sulfur can be hydroxylated.[A17595] Ticagrelor can also be glucuronidated or hydroxylated.[A17595] Ticagrelor can also be N-dealkylated to form AR-C133913XX, which is further glucuronidated or hydroxylated.[A17595]",
+    "toxicity": "Patients experiencing an overdose may present with bleeding, nausea, vomiting, diarrhea, and ventricular pauses.[L14201] Overdose can be managed through symptomatic and supportive treatment, including ECG monitoring.[L14201,L14207] Dialysis is not expected to remove ticagrelor from the blood due to it being highly protein bound.[L14201]",
+    "targets": [
+        [
+            "P2RY12",
+            "P2Y purinoceptor 12",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,53 @@
+{
+    "pharmgkb_id": "PA166186040",
+    "drugbank_id": "DB09289",
+    "names": [
+        "Tianeptine",
+        "Coaxil",
+        "Neptine",
+        "Salymbra",
+        "Stablon",
+        "Tatinol",
+        "Tianeurax",
+        "Zinosal"
+    ],
+    "description": "Tianeptine is a drug used primarily in the treatment of major depressive disorder and has been studied in the treatment of irritable bowel syndrome (IBS) [A31983]. Structurally, it is classified as a tricyclic antidepressant (TCA), however, it possesses different pharmacological properties than typical tricyclic antidepressants [A31969].\r\n\r\nTianeptine was discovered and patented by The French Society of Medical Research in the 1960s [L2946]. Currently, tianeptine is approved in France and manufactured and marketed by Laboratories Servier SA; it is also marketed in several other European countries under the trade name \u201cCoaxil\u201d as well as in Asia (including Singapore) and Latin America as \u201cStablon\u201d and \u201cTatinol\u201d but it is not available in Australia, Canada, New Zealand, the U.K. or the U.S.",
+    "indication": "Used primarily in the treatment of major depressive disorder and anxiety [A31969]. It is currently being studied for fibromyalgia pain treatment [L1426].",
+    "pharmacodynamics": "\r\n\r\nAnalyses in large-scale epidemiologic surveys have shown that the anxiety disorders are widely comorbid with major depression. This makes antidepressant with anxiolytic properties particularly unique and attractive [A31971].\r\n\r\nTianeptine is effective in reducing depressive symptoms in mild to severe major depressive disorder and also alleviates anxious symptoms associated with depression without the need for coadministration of an anti-anxiety medication [A31971].   \r\n\r\nThese findings, however, are met with controversial data.  In a study of healthy volunteers, Tianeptine-treated subjects were less accurate at identifying facial expressions, suggesting a lack of improvement in the psychomotor symptoms of depression. The tianeptine group also showed reduced memory and reduced attentional vigilance to various stimuli [A31987].",
+    "mechanism-of-action": "Recent studies suggest that tianeptine acts as a full agonist at the mu-type opioid receptor (MOR) [A33314], [A33316].   The mu opioid receptors are currently being studied as effective targets for antidepressant therapies [L2947]. It is believed that the clinical effects of tianeptine are owed to its modulation of these receptors  [A33314].  In addition to its actions on the opioid receptor, previous studies have owed its action to its effect on the serotonin receptor [A33317], [A33318], dopamine (D2/3) receptors [A33319], and glutamate receptors [A33315], [F134], as discussed below:\r\n\r\nTianeptine has challenged the monoaminergic hypothesis of depression, as well as the widely supported monoaminergic mechanisms whereby the action of most known antidepressants have been explained [L1414]. Specifically, this drug is thought to persistently alter glutamate receptor bursting of the hippocampal CA3 commissural associational synapse [A31971]. Current research suggests that tianeptine produces its antidepressant effects through the modulation of glutamate receptor activity (for example, AMPA receptors and NMDA receptors) and affect the release of brain-derived neurotrophic factor (BDNF), which impacts neural plasticity [A31986]. More recent studies by support the role of tianeptine in the modulation of glutaminergic activity in the amygdala, the emotional region of the brain associated with memories [A31971]. \r\n\r\n Tianeptine reduces the hypothalamic-pituitary-adrenal response to stress, and thus prevents stress-related behavioral issues [A31986, A24914].  In rodents, the stress of acute restraint increases extracellular levels of glutamate in the basolateral amygdala an effect that was inhibited by tianeptine [A31971]. Interestingly, the SSRI fluoxetine increased extracellular glutamate levels in the basolateral amygdala regardless of stress conditions. These data demonstrate that the mechanism of action of tianeptine is distinct from SSRIs and support the hypothesis that the mechanism of action of tianeptine relates to alteration of glutaminergic activity in the amygdala and the hippocampus [A31971, A31969, A31986].\r\n\r\nIn addition to the above mechanisms, tianeptine is a unique antidepressant and anxiolytic medication that stimulates the uptake of serotonin (5-hydroxytryptamine; 5-HT), and 5-hydroxyindoleacetic acid (5-HIAA) in brain tissue [A31971]. \r\n\r\nAlthough the monoaminergic neurotransmitters serotonin (5-HT), noradrenaline (NA) and dopamine (DA) are proven to be related to the occurrence of depressive disorders, it is now recognized that monoamine deficits are not sufficient to explain the mechanism of action of antidepressant medications [A31971].  \r\n",
+    "absorption": "Well absorbed, approximately 99% bioavailability [A31998].",
+    "metabolism": "Tianeptine is metabolized primarily by beta-oxidation of its heptanoic side chain [A31992].  The metabolism of tianeptine was studied after a one-time oral administration of radioisotopically (14C) labeled compound to healthy male volunteers. After 1 week, approximately 66% of the dose was eliminated by the kidneys (55% elimination during the first 24 hr). After 24h, unchanged drug  3% of the drug was found unchanged in the urine. Three major metabolites result from beta-oxidation of Tianeptine. The metabolite profiles of tianeptine in feces and plasma were found to be qualitatively similar to that in urine [A31993].",
+    "toxicity": "There are several published case reports of tianeptine intoxication and death [L1435]. An overdose of tianeptine can lead to opiod-like effects and lead to respiratory failure and death, due to its direct effect on the _mu_ opioid receptor [L1435].  In addition, cardiotoxicity can result from an overdose of this medication [L1435].",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "GRIA1",
+            "Glutamate receptor 1",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

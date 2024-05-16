@@ -1,0 +1,30 @@
+{
+    "pharmgkb_id": "PA165111722",
+    "drugbank_id": "DB06708",
+    "names": [
+        "Lumefantrine"
+    ],
+    "description": "Lumefantrine is an antimalarial agent used to treat acute uncomplicated malaria. It is administered in combination with artemether for improved efficacy. This combination therapy exerts its effects against the erythrocytic stages of <i>Plasmodium spp.</i> and may be used to treat infections caused by <i>P. falciparum</i> and unidentified <i>Plasmodium</i> species, including infections acquired in chloroquine-resistant areas.",
+    "indication": "Lumefantrine and artemether combination therapy is indicated for the treatment of acute uncomplicated malaria caused by <i>Plasmodium falciparum</i>, including malaria acquired in chloroquine-resistant areas. May also be used to treat uncomplicated malaria when the <i>Plasmodium</i> species has not been identified. Indicated for use in adults and children greater than 5 kg. ",
+    "pharmacodynamics": "Lumefantrine is a blood schizonticide active against erythrocytic stages of <i>Plasmodium falciparum</i>. It is thought that administration of lumefantrine with artemether results in cooperate antimalarial clearing effects. Artemether has a rapid onset of action and is rapidly cleared from the body. It is thus thought to provide rapid symptomatic relief by reducing the number of malarial parasites. Lumefantrine has a much longer half life and is believed to clear residual parasites. ",
+    "mechanism-of-action": "The exact mechanism by which lumefantrine exerts its antimalarial effect is unknown. However, available data suggest that lumefantrine inhibits the formation of &beta;-hematin by forming a complex with hemin and inhibits nucleic acid and protein synthesis. ",
+    "absorption": "Food increases absorption. ",
+    "metabolism": "Extensively metabolized in the liver primarily by cytochrome P450 3A4. The major metabolite found in plasma is desbutyl-lumefantrine.",
+    "toxicity": "Common side effects of combination artemether/lumefantrine therapy  in adults include headache, anorexia, dizziness, and asthenia. Common side effects in children include pyrexia, cough, vomiting, anorexia, and headache. Possible serious adverse effects include QT prolongation, bullous eruption, urticaria, splenomegaly (9%), hepatomegaly (adults, 9%; children, 6%), hypersensitivty reaction, and angioedema.",
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

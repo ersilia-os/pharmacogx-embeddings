@@ -1,0 +1,78 @@
+{
+    "pharmgkb_id": "PA165958374",
+    "drugbank_id": "DB06700",
+    "names": [
+        "Desvenlafaxine",
+        "Khedezla",
+        "Zyven-OD"
+    ],
+    "description": "Desvenlafaxine (O-desmethylvenlafaxine) is the 0-demetyhlated active metabolite of [venlafaxine]. Like its parent drug, desvenlafaxine is also an antidepressant belonging to the class of serotonin-norepinephrine reuptake inhibitor (SNRI) class.[A261266,A261266] It was approved by the FDA in 2008 for the treatment of adults with major depressive disorder (MDD).[L6016,A261271]\r\n\r\nMDD is a highly prevalent psychiatric disorder, with a lifetime prevalence estimate of 16% in the US alone and 12.8% in Europe. Although the exact mechanism of pathophysiology is still unknown, imbalances or deficiencies of monoamines have been heavily implicated, thus the rationale behind the use of SNRI to treat MDD.[A261271] Desvenlafaxine has a very similar pharmacological, efficacy, and safety profile as [venlafaxine]. The major difference is the potential for drug interaction since venlafaxine is mainly metabolized by CYP2D6 while desvenlafaxine is conjugated by UGT; therefore, desvenlafaxine is less likely to cause drug-drug interaction when taken with medications affecting the CYP2D6 pathway.[A261266]",
+    "indication": "Desvenlafaxine is indicated for the treatment of major depressive disorder in adults.[L47936] It has also been used off-label to treat hot flashes in menopausal women.[A261166]",
+    "pharmacodynamics": "Desvenlafaxine is a selective serotonin and norepinephrine reuptake inhibitor.[A6990,A6991,L47936] It lacks significant activity on muscarinic-cholinergic, H<sub>1</sub>-histaminergic, or &alpha;<sub>1</sub>-adrenergic receptors <i>in vitro</i>, or inhibitory activity against monoamine oxidase.[L47936] Desvenlafaxine does not appear to exert activity against calcium, chloride, potassium and sodium ion channels and also lacks monoamine oxidase (MAO) inhibitory activity.[A6991] It was also shown to lack significant activity against the cardiac potassium channel, hERG, <i>in vitro</i>.[A36975]\r\n\r\nElectrocardiograms were obtained from 1,492 desvenlafaxine treated patients with major depressive disorder and 984 placebo-treated patients in clinical studies lasting up to 8 weeks. No clinically relevant differences were observed between desvenlafaxine treated and placebo-treated patients for QT, QTc, PR, and QRS intervals. In a thorough QTc study with prospectively determined criteria, desvenlafaxine did not cause QT prolongation. No difference was observed between placebo and desvenlafaxine treatments for the QRS interval.[L47936] ",
+    "mechanism-of-action": "The exact mechanism of the antidepressant action of desvenlafaxine is unknown but is thought to be related to the potentiation of serotonin and norepinephrine in the central nervous system, through inhibition of their reuptake.[L47936] Particularly, desvenlafaxine has been found to inhibit the serotonin, norepinephrine, and dopamine transporters with varying degrees of affinity. Desvenlafaxine inhibits serotonin transporters with 10 times the affinity of norepinephrine transporters, and dopamine transporters with the lowest affinity.[A6991] ",
+    "absorption": "The absolute oral bioavailability of desvenlafaxine after oral administration is about 80%.[L47936] The time to reach maximal concentration (T<sub>max</sub>) is estimated to be 7.5 hours after oral administration. The AUC in a 24 h dosing interval at steady state with a 100 mg dose was also calculated to be 6747 ng*h/mL, and the C<sub>max</sub> 376 ng/mL.[A261186] Ingestion of a high-fat meal (800 to 1000 calories) increased desvenlafaxine C<sub>max</sub> about 16% and had no effect on AUC.[L47936]",
+    "metabolism": "Desvenlafaxine is primarily metabolized by conjugation (mediated by UGT isoforms) and, to a minor extent, through oxidative metabolism.[L47936] O-glucuronide conjugation is likely be catalyzed by UGT1A1, UGT1A3, UGT2B4, UGT2B15, and UGT2B17.[A261186] CYP3A4 and potentially CYP2C19 mediates the oxidative metabolism (N-demethylation) of desvenlafaxine to N,O-didesmethyl venlafaxine.[L47936,A261186] The CYP2D6 metabolic pathway is not involved. The pharmacokinetics of desvenlafaxine was similar in subjects with CYP2D6 poor and extensive \r\nmetabolizer phenotype.[L47936] ",
+    "toxicity": "Published epidemiological studies of pregnant women exposed to the parent compound venlafaxine have not reported a clear association with major birth defects or miscarriage. Methodological limitations of these observational studies include possible exposure and outcome misclassification, lack of adequate controls, adjustment for confounders, and confirmatory studies; therefore, these studies cannot establish or exclude any drug-associated risk during pregnancy.[L47936] \r\n\r\nRetrospective cohort studies based on claims data have shown an association between venlafaxine use and preeclampsia, compared to depressed women who did not take an antidepressant during pregnancy. One study that assessed venlafaxine exposure in the second trimester or first half of the third trimester and preeclampsia showed an increased risk compared to unexposed depressed women (adjusted (adj) RR 1.57, 95% CI 1.29 to 1.91). Preeclampsia was observed at venlafaxine doses equal to or greater than 75 mg/day and a duration of treatment >30 days. Another study that assessed venlafaxine exposure in gestational weeks 10 to 20 and preeclampsia showed an increased risk at doses equal to or greater than 150 mg/day. Available data are limited by possible outcome misclassification and possible confounding due to depression severity and other confounders.[L47936] \r\n\r\nRetrospective cohort studies based on claims data have suggested an association between venlafaxine use near the time of delivery or through delivery and postpartum hemorrhage. One study showed an increased risk for postpartum hemorrhage when venlafaxine exposure occurred through delivery, compared to unexposed depressed women (adj RR 2.24, 95% CI 1.69 to 2.97). There was no increased risk in women who were exposed to venlafaxine earlier in pregnancy. Limitations of this study include possible confounding due to depression severity and other confounders. Another study showed an increased risk for postpartum hemorrhage when SNRI exposure occurred for at least 15 days in the last month of pregnancy or through delivery, compared to unexposed women (adj RR 1.64 to 1.76). The results of this study may be confounded by the effects of depression. Neonates exposed to SNRIs or SSRIs, late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding. Such complications can arise immediately upon delivery. Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying. These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome. It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome.[L47936]\r\n\r\nAntidepressants, such as desvenlafaxine, increase the risk of suicidal thoughts and behaviors in pediatric patient.[L47936]\r\n\r\nOf the 4,158 patients in pre-marketing clinical studies with desvenlafaxine, 6% were 65 years of age or older. No overall differences in safety or efficacy were observed between these patients and younger patients; however, in the short-term placebo-controlled studies, there was a higher incidence of systolic orthostatic hypotension in patients \u226565 years of age compared to patients <65 years of age treated with desvenlafaxine. For elderly patients, possible reduced renal clearance of desvenlafaxine should be considered when determining dose. SSRIs and SNRIs, including desvenlafaxine, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event.[L47936]\r\n\r\nThere is limited clinical trial experience with desvenlafaxine succinate overdosage in humans. However, desvenlafaxine is the major active metabolite of venlafaxine. Overdose experience reported with venlafaxine (the parent drug of desvenlafaxine) is presented below; the identical information can be found in the Overdosage section of the venlafaxine package insert. In \r\npost-marketing experience, overdose with venlafaxine (the parent drug of desvenlafaxine) has occurred predominantly in combination with alcohol and/or other drugs. The most commonly reported events in overdosage include tachycardia, changes in level of consciousness (ranging from somnolence to coma), mydriasis, seizures, and vomiting. Electrocardiogram changes (e.g., prolongation of QT interval, bundle branch block, QRS prolongation), sinus and ventricular tachycardia, bradycardia, hypotension, rhabdomyolysis, vertigo, liver necrosis, serotonin syndrome, and death have been reported. Published retrospective studies report that venlafaxine overdosage may be associated with an increased risk of fatal outcomes compared to that observed with SSRI antidepressant products, but lower than that for tricyclic antidepressants. Epidemiological studies have shown that venlafaxine-treated patients have a higher pre-existing burden of suicide risk factors than SSRI-treated patients. The extent to which the finding of an increased risk of fatal outcomes can be attributed to the toxicity of venlafaxine in overdosage, as opposed to some characteristic(s) of venlafaxine-treated patients, is not clear.[L47936]\r\n\r\nNo specific antidotes for desvenlafaxine are known. In managing over dosage, consider the possibility of multiple drug involvement. In case of overdose, call Poison Control Center at \r\n1-800-222-1222 for latest recommendations.[L47936] \r\n\r\nDesvenlafaxine succinate administered by oral gavage to mice and rats for 2 years did not increase the incidence of tumors in either study. Mice received desvenlafaxine succinate at dosages up to 500/300 mg/kg/day (dosage lowered after 45 weeks of dosing). The AUC exposure at 300 mg/kg/day dose is estimated at 10 times the AUC exposure at an adult human dose of 100 mg per day. Rats received desvenlafaxine succinate at dosages up to 300 mg/kg/day (males) or 500 mg/kg/day (females). The AUC exposure at the highest dose is estimated at 11 (males) or 26 (females) times the AUC exposure at an adult human dose of 100 mg per day.[L47936]\r\n\r\nDesvenlafaxine was not mutagenic in the in vitro bacterial mutation assay (Ames test) and was not clastogenic in an in vitro chromosome aberration assay in cultured CHO cells, an in \r\nvivo mouse micronucleus assay, or an in vivo chromosome aberration assay in rats. Additionally, desvenlafaxine was not genotoxic in the in vitro CHO mammalian cell forward mutation assay and was negative in the in vitro BALB/c-3T3 mouse embryo cell transformation assay.[L47936]\r\n\r\nWhen desvenlafaxine succinate was administered orally to male and female rats, fertility was reduced at the high dose of 300 mg/kg/day, which is 10 (males) and 19 (females) times the AUC exposure at an adult human dose of 100 mg per day. There was no effect on fertility at 100 mg/kg/day, which is 3 (males) or 5 (females) times the AUC exposure at an adult human dose of 100 mg per day. These studies did not address reversibility of the effect on fertility. The relevance of these findings to humans is not known.[L47936]",
+    "targets": [
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferase 2B4",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ],
+        [
+            "UGT2B17",
+            "UDP-glucuronosyltransferase 2B17",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,227 @@
+{
+    "pharmgkb_id": "PA449412",
+    "drugbank_id": "DB00997",
+    "names": [
+        "Doxorubicin",
+        "Adriablastina",
+        "Adriblastin"
+    ],
+    "description": "Doxorubicin is a cytotoxic anthracycline antibiotic isolated from cultures of Streptomyces peucetius var. caesius along side with daunorubicin, another cytotoxic agent, in 1970.[A1575,A257709,A257614] Although they both have aglyconic and sugar moieties, doxorubicin's side chain terminates with a primary alcohol group compared to the methyl group of daunorubicin.[A257709] Although its detailed molecular mechanisms have yet to be understood, doxorubicin is generally thought to exert its effect through DNA intercalation, which eventually leads to DNA damage and the generation of reactive oxygen species.[A257614] Thanks to its efficacy and broad effect, doxorubicin was approved by the FDA in 1974 to treat a variety of cancer, including but not limited to breast, lung, gastric, ovarian, thyroid, non-Hodgkin\u2019s and Hodgkin\u2019s lymphoma, multiple myeloma, sarcoma, and pediatric cancers.[A1573,A257614,L45231] However, one of the major side effects of doxorubicin is cardiotoxicity, which excludes patients with poor heart function and requires treatment termination once the maximally tolerated cumulative dose is reached.[A257719]",
+    "indication": "Doxorubicin is indicated for the treatment of neoplastic conditions like acute lymphoblastic leukemia, acute myeloblastic leukemia, Hodgkin and non-Hodgkin lymphoma, metastatic breast cancer, metastatic Wilms\u2019 tumor, metastatic neuroblastoma, metastatic soft tissue and bone sarcomas, metastatic ovarian carcinoma, metastatic transitional cell bladder carcinoma, metastatic thyroid carcinoma, metastatic gastric carcinoma, and metastatic bronchogenic carcinoma.[L45231] Doxorubicin is also indicated for use as a component of adjuvant therapy in women with evidence of axillary lymph node involvement following resection of primary breast cancer.[L45231] For the liposomal formulation, doxorubicin is indicated for the treatment of ovarian cancer that has progressed or recurred after platinum-based chemotherapy, AIDS-Related Kaposi's Sarcoma after the failure of prior systemic chemotherapy or intolerance to such therapy, and multiple myeloma in combination with bortezomib in patients who have not previously received bortezomib and have received at least one prior therapy.[L45226]",
+    "pharmacodynamics": "Doxorubicin is a cytotoxic, cell-cycle non-specific anthracycline antibiotic.[A1574,A257674] It is generally thought to exert its antitumor effect by destabilizing DNA structures through intercalation, thus introducing DNA strand breakages and damages.[A257664,A18538,A257674] Not only does it alter the transcriptomes of the cells, failure in repairing DNA structures can also initiate the apoptotic pathways.[A257674,A257679] Additionally, doxorubicin intercalation can also interfere with vital enzyme activity, such as topoisomerase II, DNA polymerase, and RNA polymerase, leading to cell cycle arrests.[A257674] Finally, doxorubicin can also generate cytotoxic reactive oxygen species to exert cellular damages.[A257584]",
+    "mechanism-of-action": "Generally, doxorubicin is thought to exert its antineoplastic activity through 2 primary mechanisms: intercalation into DNA and disrupt topoisomerase-mediated repairs and free radicals-mediated cellular damages.[A257614]\r\n\r\nDoxorubicin can intercalate into DNA through the anthraquinone ring, which stabilizes the complex by forming hydrogen bonds with DNA bases.[A257659] Intercalation of doxorubicin can introduce torsional stress into the polynucleotide structure, thus destabilizing nucleosome structures and leading to nucleosome eviction and replacement.[A257664,A18538] Additionally, the doxorubicin-DNA complex can interfere with topoisomerase II enzyme activity by preventing relegation of topoisomerase-mediated DNA breaks, thus inhibiting replication and transcription and inducing apoptosis.[A257669,A257674] \r\n\r\nMoreover, doxorubicin can be metabolized by microsomal NADPH-cytochrome P-450 reductase into a semiquinone radical, which can be reoxidized in the presence of oxygen to form oxygen radicals.[A1579,A257584] Reactive oxygen species have been known to cause cellular damage through various mechanisms, including lipid peroxidation and membrane damage, DNA damage, oxidative stress, and apoptosis.[A257634] Although free radicals generated from this pathway can be deactivated by catalase and superoxide dismutase, tumor and myocardial cells tend to lack these enzymes, thus explaining doxorubicin's effectiveness against cancer cells and tendency to cause cardiotoxicity.[A1579,A257584,A1578]\r\n",
+    "absorption": "Following a 10 mg/m<sup>2</sup> administration of liposomal doxorubicin in patients with AIDS-related Kaposi's Sarcoma, the C<sub>max</sub> and AUC values were calculated to be 4.12 \u00b1 0.215 \u03bcg/mL and 277 \u00b1 32.9 \u03bcg/mL\u2022h respectively.[L45226]",
+    "metabolism": "Doxorubicin is capable of undergoing 3 metabolic routes: one-electron reduction, two-electron reduction, and deglycosidation. However, approximately half of the dose is eliminated from the body unchanged.[A1578] \r\n\r\nThe two-electron reduction is the major metabolic pathway of doxorubicin.[A1578] In this pathway, doxorubicin is reduced to doxorubicinol, a secondary alcohol, by various enzymes, including Alcohol dehydrogenase [NADP(+)], Carbonyl reductase [NADPH] 1, Carbonyl reductase [NADPH] 3, and Aldo-keto reductase family 1 member C3.[A18032,A257574,A1578,A18033,A18034] \r\n\r\nThe one-electron reduction is facilitated by several oxidoreductase, both cytosolic and mitochondrial, to form a doxirubicin-semiquinone radical.[A1579]  These enzymes include mitochondrial and cystolic NADPH dehydrogenates, xanthine oxidase, and nitric oxide synthases.[A18035,A18042,A18407,A257579,A18037,A18038] This semiquinone metabolite can be re-oxidized to doxorubicin, although with the concurrent formation of reactive oxygen species (ROS) and hydrogen peroxide.[A257584] It is the ROS generating through this pathway that contributes most to the doxorubicin-related adverse effects, particularly cardiotoxicity, rather than through doxorubicin semiquinone formation.[A257589]\r\n\r\nDeglycosidation is a minor metabolic pathway, since it only accounts for 1 to 2% of doxorubicin metabolism.[A1578, A257514] Under the catalysis of cytoplasmic NADPH quinone dehydrogenase, xanthine oxidase, NADPH-cytochrome P450 reductase, doxorubicin can either be reduced to doxorubicin deoxyaglycone or hydrolyzed to doxorubicin hydroxyaglycone.[A257569,A18036,A18043]",
+    "toxicity": "Doxorubicin hydrochloride treatment can increase the risk of secondary malignancies based on postmarketing reports. Doxorubicin hydrochloride was mutagenic in the in vitro Ames assay, and clastogenic in multiple in vitro assays (CHO cell, V79 hamster cell, human lymphoblast, and SCE assays) and the in vivo mouse micronucleus assay.[L45231]\r\n\r\nDoxorubicin hydrochloride decreased fertility in female rats at doses of 0.05 and 0.2 mg/kg/day (approximately 0.005 and 0.02 times the recommended human dose, based on body surface area).[L45231] In females of reproductive potential, Doxorubicin hydrochloride may cause infertility and result in amenorrhea. Premature menopause can occur. Recovery of menses and ovulation is related to age at treatment.[L45231]\r\n\r\nA single intravenous dose of 0.1 mg/kg doxorubicin hydrochloride (approximately 0.01 times the recommended human dose based on body surface area) was toxic to male reproductive organs in animal studies, producing testicular atrophy, diffuse degeneration of the seminiferous tubules, and oligospermia/hypospermia in rats. Doxorubicin hydrochloride induces DNA damage in rabbit spermatozoa and dominant lethal mutations in mice.[L45231]\r\n\r\nBased on findings in animals and its mechanism of action, Doxorubicin Hydrochloride Injection/for Injection can cause fetal harm when administered to a pregnant woman; avoid the use of Doxorubicin Hydrochloride Injection/for Injection during the 1st trimester. Available human data do not establish the presence or absence of major birth defects and miscarriage related to the use of doxorubicin hydrochloride during the 2nd and 3rd trimesters. Doxorubicin hydrochloride was teratogenic and embryotoxic in rats and embryotoxic in rabbits when administered during organogenesis at doses approximately 0.07 times (based on body surface area) the recommended human dose of 60 mg/m2. Advise pregnant women of the potential risk to a fetus.[L45231]\r\n\r\nBased on postmarketing reports, pediatric patients treated with doxorubicin hydrochloride are at risk for developing late cardiovascular dysfunction. Risk factors include young age at treatment (especially < 5 years), high cumulative doses and receipt of combined modality therapy. Long-term periodic cardiovascular monitoring is recommended for all pediatric patients who have received doxorubicin hydrochloride. Doxorubicin hydrochloride, as a component of intensive chemotherapy regimens administered to pediatric patients, may contribute to prepubertal growth failure and may also contribute to gonadal impairment, which is usually\r\ntemporary.[L45231]",
+    "targets": [
+        [
+            "TOP2A",
+            "DNA topoisomerase 2-alpha",
+            "Humans"
+        ],
+        [
+            "NOLC1",
+            "Nucleolar and coiled-body phosphoprotein 1",
+            "Humans"
+        ],
+        [
+            "TOP1",
+            "DNA topoisomerase 1",
+            "Humans"
+        ],
+        [
+            "TOP2B",
+            "DNA topoisomerase 2-beta",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "AKR1A1",
+            "Alcohol dehydrogenase [NADP(+)]",
+            "Humans"
+        ],
+        [
+            "AKR1B1",
+            "Aldose reductase",
+            "Humans"
+        ],
+        [
+            "AKR1C3",
+            "Aldo-keto reductase family 1 member C3",
+            "Humans"
+        ],
+        [
+            "AKR1C4",
+            "Aldo-keto reductase family 1 member C4",
+            "Humans"
+        ],
+        [
+            "AKR1B10",
+            "Aldo-keto reductase family 1 member B10",
+            "Humans"
+        ],
+        [
+            "CBR1",
+            "Carbonyl reductase [NADPH] 1",
+            "Humans"
+        ],
+        [
+            "CBR3",
+            "Carbonyl reductase [NADPH] 3",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "POR",
+            "NADPH--cytochrome P450 reductase",
+            "Humans"
+        ],
+        [
+            "NQO1",
+            "NAD(P)H dehydrogenase [quinone] 1",
+            "Humans"
+        ],
+        [
+            "NDUFS2",
+            "NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",
+            "Humans"
+        ],
+        [
+            "NDUFS3",
+            "NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial",
+            "Humans"
+        ],
+        [
+            "NDUFS7",
+            "NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial",
+            "Humans"
+        ],
+        [
+            "NOS1",
+            "Nitric oxide synthase, brain",
+            "Humans"
+        ],
+        [
+            "NOS3",
+            "Nitric oxide synthase, endothelial",
+            "Humans"
+        ],
+        [
+            "NOS2",
+            "Nitric oxide synthase, inducible",
+            "Humans"
+        ],
+        [
+            "XDH",
+            "Xanthine dehydrogenase/oxidase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCC6",
+            "Multidrug resistance-associated protein 6",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A16",
+            "Solute carrier family 22 member 16",
+            "Humans"
+        ],
+        [
+            "ABCC10",
+            "Multidrug resistance-associated protein 7",
+            "Humans"
+        ],
+        [
+            "ABCB8",
+            "ATP-binding cassette sub-family B member 8, mitochondrial",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "RALBP1",
+            "RalA-binding protein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00997",
+            "Drug Name": "Doxorubicin",
+            "Gene Symbol": "RARG",
+            "RS ID (Genotype)": "rs2229774",
+            "Adverse Reaction Description": "Pediatric patients who carry this genotype may be at a higher risk of experiencing anthracycline-induced cardiotoxicity when treated with doxorubicin."
+        },
+        {
+            "DrugBank ID": "DB00997",
+            "Drug Name": "Doxorubicin",
+            "Gene Symbol": "SLC28A3",
+            "RS ID (Genotype)": "rs7853758",
+            "Adverse Reaction Description": "Pediatric patients who carry this genotype may be at a higher risk of experiencing anthracycline-induced cardiotoxicity when treated with doxorubicin."
+        },
+        {
+            "DrugBank ID": "DB00997",
+            "Drug Name": "Doxorubicin",
+            "Gene Symbol": "UGT1A6",
+            "RS ID (Genotype)": "rs17863783",
+            "Adverse Reaction Description": "Pediatric patients who carry this genotype may be at a higher risk of experiencing anthracycline-induced cardiotoxicity when treated with doxorubicin."
+        }
+    ]
+}

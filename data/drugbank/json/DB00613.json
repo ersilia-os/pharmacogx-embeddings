@@ -1,0 +1,60 @@
+{
+    "pharmgkb_id": "PA448404",
+    "drugbank_id": "DB00613",
+    "names": [
+        "Amodiaquine",
+        "Basoquin",
+        "Camoquin",
+        "Flavoquine"
+    ],
+    "description": "A 4-aminoquinoquinoline compound with anti-inflammatory properties.",
+    "indication": "For treatment of acute malarial attacks in non-immune subjects.",
+    "pharmacodynamics": "Amodiaquine, a 4-aminoquinoline similar to chloroquine in structure and activity, has been used as both an antimalarial and an anti-inflammatory agent for more than 40 years. Amodiaquine is at least as effective as chloroquine, and is effective against some chloroquine-resistant strains, although resistance to amodiaquine has been reported. The mode of action of amodiaquine has not yet been determined. 4-Aminoquinolines depress cardiac muscle, impair cardiac conductivity, and produce vasodilatation with resultant hypotension. They depress respiration and cause diplopia, dizziness and nausea.",
+    "mechanism-of-action": "The mechanism of plasmodicidal action of amodiaquine is not completely certain. Like other quinoline derivatives, it is thought to inhibit heme polymerase activity. This results in accumulation of free heme, which is toxic to the parasites. The drug binds the free heme preventing the parasite from converting it to a form less toxic. This drug-heme complex is toxic and disrupts membrane function.",
+    "absorption": "Rapidly absorbed following oral administration.",
+    "metabolism": "Hepatic biotransformation to desethylamodiaquine (the principal biologically active metabolite) is the predominant route of amodiaquine clearance with such a considerable first pass effect that very little orally administered amodiaquine escapes untransformed into the systemic circulation.",
+    "toxicity": "LD<sub>50</sub> (mouse, intraperitoneal) 225 mg/kg, LD<sub>50</sub> (mouse, oral) 550 mg/kg. Symptoms of overdose include headache, drowsiness, visual disturbances, vomiting, hypokalaemia, cardiovascular collapse and cardiac and respiratory arrest. Hypotension, if not treated, may progress rapidly to shock. Electrocardiograms (ECG) may reveal atrial standstill, nodal rhythm, prolonged intraventricular conduction time, broadening of the QRS complex, and progressive bradycardia leading to ventricular fibrillation and/or arrest.",
+    "targets": [
+        [
+            "HNMT",
+            "Histamine N-methyltransferase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

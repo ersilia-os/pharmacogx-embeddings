@@ -1,0 +1,47 @@
+{
+    "pharmgkb_id": "PA164754992",
+    "drugbank_id": "DB00728",
+    "names": [
+        "Rocuronium",
+        "Esmeron"
+    ],
+    "description": "Rocuronium (rapid onset-curonium) is a desacetoxy analogue of vecuronium with a more rapid onset of action. It is an aminosteroid non-depolarizing neuromuscular blocker or muscle relaxant used in modern anaesthesia, to facilitate endotracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation. Introduced in 1994, rocuronium has rapid onset, and intermediate duration of action. It is commonly marketed under the trade names Zemuron and Esmeron. The drug is associated with the risk of developing allergic reactions in some high-risk patients, such as those with asthma. However, there was a similar incidence of allergic reactions associated with other non-depolarizing neuromuscular blocking agents. [Sugammadex] is a \u03b3-cyclodextrin derivative that has been introduced as a novel agent to reverse the action of rocuronium.",
+    "indication": "For inpatients and outpatients as an adjunct to general anesthesia to facilitate both rapid sequence and routine tracheal intubation, and to provide skeletal muscle relaxation during surgery or mechanical ventilation.",
+    "pharmacodynamics": "Neuromuscular blocking agents are drugs that cause skeletal muscle relaxation primarily by causing a decreased response to the neurotransmitter acetylcholine (ACh) at the myoneural (neuromuscular) junction of skeletal muscle. At that site, ACh normally produces electrical depolarization of the postjunctional membrane of motor end-plate, which leads to conduction of muscle action potential and subsequently induces skeletal muscle contraction. Neuromuscular agents are classified as depolarizing or nondepolarizing. Rocuronium is a nondepolarizing neuromuscular blocking agent with a rapid to intermediate onset depending on dose and intermediate duration. Rocuronium, like vecuronium is longer acting in infants than in children. However, unlike vecuronium, rocuronium retains the characteristics of an intermediate-acting NMBD in infants.",
+    "mechanism-of-action": "Rocuronium acts by competing for cholinergic receptors at the motor end-plate. This action is antagonized by acetylcholinesterase inhibitors, such as neostigmine and edrophonium. Rocuronium acts by competitively binding to nicotinic cholinergic receptors. The binding of vecuronium decreases the opportunity for acetylcholine to bind to the nicotinic receptor at the postjunctional membrane of the myoneural junction. As a result, depolarization is prevented, calcium ions are not released and muscle contraction does not occur. Evidence also suggests that nondepolarizing agents can affect ACh release. It has been hypothesized that nondepolarzing agents bind to postjunctional (\"curare\") receptors and may therefore interfere with the sodium and potassium flux, which is responsible for depolarization and repolarization of the membranes involved in muscle contraction. ",
+    "absorption": "Poorly absorbed from the GI tract.",
+    "metabolism": "Rocuronium is metabolized to a less active metabolite, 17-desacetyl-rocuronium, and is eliminated primarily by the liver.",
+    "toxicity": "No cases of significant accidental or intentional overdose have been reported. Overdosage with neuromuscular blocking agents may result in neuromuscular block beyond the time needed for surgery and anesthesia.",
+    "targets": [
+        [
+            "CHRNA2",
+            "Neuronal acetylcholine receptor subunit alpha-2",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

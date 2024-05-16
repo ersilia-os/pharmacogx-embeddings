@@ -1,0 +1,123 @@
+{
+    "pharmgkb_id": "PA449748",
+    "drugbank_id": "DB00441",
+    "names": [
+        "Gemcitabine",
+        "Abine",
+        "Abingem",
+        "Acytabin",
+        "Celgem",
+        "Celzar",
+        "Cytogem",
+        "Daplax",
+        "Dercin",
+        "Eriogem",
+        "Fotinex",
+        "Gebina",
+        "Gembio",
+        "Gemcired",
+        "Gemita",
+        "Gezt",
+        "Gitrabin",
+        "Gramagen",
+        "Jemta",
+        "Nallian",
+        "Oncogem",
+        "Ribozar",
+        "Tabin",
+        "Xtroz"
+    ],
+    "description": "Gemcitabine is a nucleoside analog and a chemotherapeutic agent. It was originally investigated for its antiviral effects, but it is now used as an anticancer therapy for various cancers.[A233135] Gemcitabine is a cytidine analog with two fluorine atoms replacing the hydroxyl on the ribose.[A233145] As a prodrug, gemcitabine is transformed into its active metabolites that work by replacing the building blocks of nucleic acids during DNA elongation, arresting tumour growth and promoting apoptosis of malignant cells.[L32960] The structure, metabolism, and mechanism of action of gemcitabine are similar to [cytarabine], but gemcitabine has a wider spectrum of antitumour activity.[A233140]\r\n\r\nGemcitabine is marketed as Gemzar and it is available as intravenous injection. It is approved by the FDA to treat advanced ovarian cancer in combination with [carboplatin], metastatic breast cancer in combination with [paclitaxel], non-small cell lung cancer in combination with [cisplatin], and pancreatic cancer as monotherapy.[L32950] It is also being investigated in other cancer and tumour types.",
+    "indication": "Gemcitabine is a chemotherapeutic agent used as monotherapy or in combination with other anticancer agents. \r\n\r\nIn combination with [carboplatin], it is indicated for the treatment of advanced ovarian cancer that has relapsed at least 6 months after completion of platinum-based therapy.[L32950]\r\n\r\nGemcitabine in combination with [paclitaxel] is indicated for the first-line treatment of patients with metastatic breast cancer after failure of prior anthracycline-containing adjuvant chemotherapy, unless anthracyclines were clinically contraindicated.[L32950]\r\n\r\nIn combination with [cisplatin], gemcitabine is indicated for the first-line treatment of patients with inoperable, locally advanced (Stage IIIA or IIIB) or metastatic (Stage IV) non-small cell lung cancer (NSCLC).[L32950] Dual therapy with cisplatin is also used to treat patients with Stage IV (locally advanced or metastatic) transitional cell carcinoma (TCC) of the bladder.[L32955]\r\n\r\nGemcitabine is indicated as first-line treatment for patients with locally advanced (nonresectable Stage II or Stage III) or metastatic (Stage IV) adenocarcinoma of the pancreas. Gemcitabine is indicated for patients previously treated with [fluorouracil].[L32950]",
+    "pharmacodynamics": "Gemcitabine is a nucleoside analog that mediates its antitumour effects by promoting apoptosis of malignant cells undergoing DNA synthesis. More specifically, it blocks the progression of cells through the G1/S-phase boundary.[L32950] Gemcitabine demonstrated cytotoxic effects against a broad range of cancer cell lines _in vitro_. It displayed schedule-dependent antitumour activity in various animal models and xenografts from human non-small cell lung cancer (NSCLC) and pancreatic cancer.[A233140] Therefore, the antineoplastic effects of gemcitabine are enhanced through prolonged infusion time rather than higher dosage.[A233140] Gemcitabine inhibited the growth of human xenografts from carcinoma of the lung, pancreas, ovaries, head and neck, and breast. In mice, gemcitabine inhibited the growth of human tumour xenografts from the breast, colon, lung or pancreas by 69 to 99%. In clinical trials of advanced NSCLC, gemcitabine monotherapy produced objective response rates ranging from 18 to 26%, with a median duration of response ranging from 3.3 to 12.7 months. Overall median survival time was 6.2 to 12.3 months. The combined use of cisplatin and gemcitabine produced better objective response rates compared to monotherapy. In patients with advanced pancreatic cancer, objective response rates in patients ranged from 5.to 12%, with a median survival duration of 3.9 to 6.3 months.[A233145] In Phase II trials involving patients with metastatic breast cancer, treatment with gemcitabine alone or with adjuvant chemotherapies resulted in response rate ranging from 13 to 42% and median survival duration ranging from 11.5 to 17.8 months. In metastatic bladder cancer, gemcitabine has a response rate 20 to 28%. In Phase II trials of advanced ovarian cancer, patients treated with gemcitabine had response rate of 57.1%, with progression free survival of 13.4 months and median survival of 24 months.[A233140]\r\n\r\nGemcitabine causes dose-limiting myelosuppression, such as anemia, leukopenia, neutropenia, and thrombocytopenia; however, events leading to discontinuation tend to occur less than 1% of the patients. Gemcitabine can elevate ALT, AST and alkaline phosphatase levels.[A233145]",
+    "mechanism-of-action": "Gemcitabine is a potent and specific deoxycytidine analog. After uptake into malignant cells, gemcitabine is phosphorylated by deoxycytidine kinase to form gemcitabine monophosphate, which is then converted to the active compounds, gemcitabine diphosphate (dFdCDP) and gemcitabine triphosphate (dFdCTP). These active metabolites are nucleosides that mediate antitumour effects. dFdCTP competes with deoxycytidine triphosphate (dCTP) for incorporation into DNA, thereby competitively inhibiting DNA chain elongation. The non-terminal position of dFdCTP in the DNA chain prevents detection of dFdCTP in the chain and repair by proof-reading 3\u20325\u2032-exonuclease: this process is referred to as \"masked DNA chain termination.\" Incorporation of dFdCTP into the DNA chain ultimately leads to chain termination, DNA fragmentation, and apoptotic cell death of malignant cells.[A233140,A233145,L32950]\r\n\r\nGemcitabine has self-potentiating pharmacological actions that can increase the probability of successful incorporation of gemcitabine triphosphate into the DNA chain: dFdCDP inhibits ribonucleotide reductase, an enzyme responsible for catalyzing the reactions that generate dCTP for DNA synthesis. Since dFdCDP reduces the levels of dCTP, there is less competition for gemcitabine triphosphate for incorporation into DNA.[A233140,L32950] Gemcitabine can also reduce metabolism and elimination of active metabolites from the target ce1l, prolonging high intracellular concentrations of the active metabolites. Such self-potentiating effects are not present with [cytarabine].[A233140]",
+    "absorption": "Peak plasma concentrations of gemcitabine range from 10 to 40 mg/L following a 30-minute intravenous infusion, and are reached at 15 to 30 minutes. One study showed that steady-state concentrations of gemcitabine showed a linear relationship to dose over the dose range 53 to 1000 mg/m<sup>2</sup>. Gemcitabine triphosphate, the active metabolite of gemcitabine, can accumulate in circulating peripheral blood mononuclear cells. In one study, the C<sub>max</sub> of gemcitabine triphosphate in peripheral blood mononuclear cells occurred within 30 minutes of the end of the infusion period and increased increased proportionally with gemcitabine doses of up to 350 mg/m<sup>2</sup>.[A233140]",
+    "metabolism": "Following administration and uptake into cancer cells, gemcitabine is initially phosphorylated by deoxycytidine kinase (dCK), and to a lower extent, the extra-mitochondrial thymidine kinase 2 to form gemcitabine monophosphate (dFdCMP). dFdCMP is subsequently phosphorylated by nucleoside kinases to form active metabolites, gemcitabine diphosphate (dFdCDP) and gemcitabine triphosphate (dFdCTP).[A233145] Gemcitabine is also deaminated intracellularly and extracellularly by cytidine deaminase to its inactive metabolite 2\u2032,2\u2032-difluorodeoxyuridine or 2\u00b4-deoxy-2\u00b4,2\u00b4-difluorouridine (dFdU). Deamination occurs in the blood, liver, kidneys, and other tissues,[A233135] and this metabolic pathway accounts for most of drug clearance.[A233145,L32960]",
+    "toxicity": "The oral LD<sub>50</sub> is 333 mg/kg in mice and >500 mg/kg in rats. The dermal LD<sub>50</sub> in rabbits is >1000 mg/kg.[L33005]\r\n\r\nThere is no known antidote for gemcitabine overdose. In a dose-escalation study, patients were administered a single dose of gemcitabine as high as 5700 mg/m<sup>2</sup> administered by intravenous infusion over 30 minutes every two weeks: main observed toxicities were myelosuppression, paresthesia, and severe rash. In the event of a suspected drug overdose, blood counts should be monitored, and patients should be provided with supportive therapy, as necessary.[L32950]",
+    "targets": [
+        [
+            "RRM1",
+            "Ribonucleoside-diphosphate reductase large subunit",
+            "Humans"
+        ],
+        [
+            "TYMS",
+            "Thymidylate synthase",
+            "Humans"
+        ],
+        [
+            "CMPK1",
+            "UMP-CMP kinase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "TK2",
+            "Thymidine kinase 2, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CMPK1",
+            "UMP-CMP kinase",
+            "Humans"
+        ],
+        [
+            "NME1",
+            "Nucleoside diphosphate kinase A",
+            "Humans"
+        ],
+        [
+            "CDA",
+            "Cytidine deaminase",
+            "Humans"
+        ],
+        [
+            "DCK",
+            "Deoxycytidine kinase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC10",
+            "Multidrug resistance-associated protein 7",
+            "Humans"
+        ],
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC28A1",
+            "Sodium/nucleoside cotransporter 1",
+            "Humans"
+        ],
+        [
+            "SLC29A2",
+            "Equilibrative nucleoside transporter 2",
+            "Humans"
+        ],
+        [
+            "SLC28A3",
+            "Solute carrier family 28 member 3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00441",
+            "Drug Name": "Gemcitabine",
+            "Gene Symbol": "RRM1",
+            "RS ID (Genotype)": "rs9937",
+            "Adverse Reaction Description": "Patients with this genotype have increased risk of neutropenia and neurotoxicity with gemcitabine."
+        }
+    ]
+}

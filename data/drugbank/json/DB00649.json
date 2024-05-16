@@ -1,0 +1,60 @@
+{
+    "pharmgkb_id": "PA451494",
+    "drugbank_id": "DB00649",
+    "names": [
+        "Stavudine",
+        "Actastav",
+        "Ai Fu Ding",
+        "Avostav",
+        "Estavudox",
+        "Exvihr",
+        "Flamistav",
+        "Landstav",
+        "Lion",
+        "Mai Si Ting",
+        "S.T.V.",
+        "Sazi",
+        "Stadine",
+        "Stag",
+        "Stamar",
+        "Stavex",
+        "Stavir",
+        "Stavubergen",
+        "Zerit XR"
+    ],
+    "description": "A dideoxynucleoside analog that inhibits reverse transcriptase and has in vitro activity against HIV.",
+    "indication": "For the treatment of human immunovirus (HIV) infections.",
+    "pharmacodynamics": "Stavudine is a nucleoside reverse transcriptase inhibitor (NRTI) with activity against Human Immunodeficiency Virus Type 1 (HIV-1). Stavudine is phosphorylated to active metabolites that compete for incorporation into viral DNA. They inhibit the HIV reverse transcriptase enzyme competitively and act as a chain terminator of DNA synthesis. The lack of a 3'-OH group in the incorporated nucleoside analogue prevents the formation of the 5' to 3' phosphodiester linkage essential for DNA chain elongation, and therefore, the viral DNA growth is terminated.",
+    "mechanism-of-action": "Stavudine inhibits the activity of HIV-1 reverse transcriptase (RT) both by competing with the natural substrate dGTP and by its incorporation into viral DNA.",
+    "absorption": "Following oral administration, stavudine is rapidly absorbed (bioavailability is 68-104%).",
+    "metabolism": "Phosphorylated intracellularly to stavudine triphosphate, the active substrate for HIV-reverse transcriptase.",
+    "toxicity": "Side effects include peripheral neuropathy tingling, burning, numbness, or pain in the hands or feet), fatal lactic acidosis has been reported in patients treated with stavudine (ZERIT) in combination with other antiretroviral agents, severe liver enlargement, inflammation (pain and swelling) of the liver, and liver failure.",
+    "targets": [
+        [
+            "pol",
+            "Reverse transcriptase/RNaseH",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC28A1",
+            "Sodium/nucleoside cotransporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

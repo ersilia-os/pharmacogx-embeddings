@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA166171182",
+    "drugbank_id": "DB12026",
+    "names": [
+        "Voxilaprevir"
+    ],
+    "description": "Voxilaprevir is a Direct-Acting Antiviral (DAA) medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. \r\n\r\nVoxilaprevir exerts its antiviral action by reversibly binding and inhibiting the NS3/4A serine protease of Hepatitis C Virus (HCV) [FDA Label]. Following viral replication of HCV genetic material and translation into a single polypeptide, Nonstructural Protein 3 (NS3) and its activating cofactor Nonstructural Protein 4A (NS4A) are responsible for cleaving genetic material into the following structural and nonstructural proteins required for assembly into mature virus: NS3, NS4A, NS4B, NS5A, and NS5B [A19643]. By inhibiting viral protease NS3/4A, voxilaprevir therefore prevents viral replication and function. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as voxilaprevir. \r\n\r\nVoxilaprevir has been available since July 2017 in a fixed dose combination product with [sofosbuvir] and [velpatasvir] as the commercially available product Vosevi. Vosevi is approved for the treatment of adult patients with chronic HCV infection with genotype 1, 2, 3, 4, 5, or 6 infection [FDA Label]. Notably, Vosevi is approved for use in patients with genotypes 1-6 who have been previously treated with an NS5A inhibitor, or patients with genotypes 1a or 3 infection and have previously been treated with an HCV regimen containing sofosbuvir without an NS5A inhibitor [L935]. Prior to Vosevi, there were no approved retreatment options for patients who have previously received, and failed, a regimen containing an NS5A inhibitor for treatment of chronic HCV infection.",
+    "indication": "Vosevi (Voxilaprevir/[DB08934]/[DB11613]) is approved for use in patients with genotypes 1-6 who have been previously treated with an NS5A inhibitor, or patients with genotypes 1a or 3 infection who have previously been treated with an HCV regimen containing [DB08934] without an NS5A inhibitor [L935]. ",
+    "pharmacodynamics": "Voxilaprevir is a direct-acting antiviral agent that targets viral NS3/4A protein and causes a decrease in serum HCV RNA levels. It disrupts HCV replication by specifically inhibiting the critical functions of NS3/4A protein in the replication complex. It does not appear to prolong the QT interval even when given at 9 times the maximum recommended dose [FDA Label]. ",
+    "mechanism-of-action": "Voxilaprevir exerts its antiviral action by reversibley binding and inhibiting the NS3/4A serine protease of Hepatitis C Virus (HCV) [FDA Label]. Following viral replication of HCV genetic material and translation into a single polypeptide, Nonstructural Protein 3 (NS3) and its activating cofactor Nonstructural Protein 4A (NS4A) are responsible for cleaving genetic material into the following structural and nonstructural proteins required for assembly into mature virus: NS3, NS4A, NS4B, NS5A, and NS5B [A19643]. By inhibiting viral protease NS3/4A, voxilaprevir therefore prevents viral replication and function. ",
+    "absorption": "When provided as the fixed dose combination product Vosevi with [DB08934] and [DB11613], voxilaprevir reaches a maximum concentration (Cmax) of 192 ng/mL at a maximum time (Tmax) of 4 hours post-dose [FDA Label].",
+    "metabolism": "Voxilaprevir is primarily metabolized by Cytochrome P450 3A4 (CYP3A4) and to a lesser extent by CYP2C8 and CYP1A2[FDA Label].",
+    "toxicity": null,
+    "targets": [
+        [
+            "NS3/4A",
+            "NS3/4A protein",
+            "Hepatitis C Virus"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,60 @@
+{
+    "pharmgkb_id": "PA164745461",
+    "drugbank_id": "DB01602",
+    "names": [
+        "Bacampicillin",
+        "Ambaxin",
+        "BacaciI",
+        "Bamaxin",
+        "Penglobe",
+        "Spectrobid"
+    ],
+    "description": "Bacampicillin is a prodrug of ampicillin and is microbiologically inactive. It is absorbed following oral administration. During absorption from the gastrointestinal tract, bacampicillin is hydrolyzed by esterases present in the intestinal wall. It is microbiologically active as ampicillin, and exerts a bactericidal action through the inhibition of the biosynthesis of cell wall mucopeptides.  It is used to cure infection of upper and lower respiratory tract; skin and soft tissue; urinary tract and acute uncomplicated gonococcal urethritis etc.",
+    "indication": "For infections at the following sites: upper and lower respiratory tract; skin and soft tissue; urinary tract and acute uncomplicated gonococcal urethritis, when due to sensitive strains of the following organisms:  Gram-positive: streptococci (including <i>S. faecalis</i> and <i>S. pneumoniae</i>) and nonpenicillinase-producing staphylococci; Gram-negative: <i>H. influenzae</i>, <i>N. gonorrhoeae</i>, <i>E. coli</i>, <i>P. mirabilis</i>, <i>Salmonellae</i> and <i>Shigellae</i>.",
+    "pharmacodynamics": "Bacampicillin is a prodrug of ampicillin and is microbiologically inactive.",
+    "mechanism-of-action": "During absorption from the gastrointestinal tract, bacampicillin is hydrolyzed by esterases present in the intestinal wall. It is microbiologically active as ampicillin, and exerts a bactericidal action through the inhibition of the biosynthesis of cell wall mucopeptides.",
+    "absorption": "Absorbed following oral administration.",
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "dacA",
+            "Penicillin-binding protein",
+            "Gram positive and gram negative bacteria"
+        ],
+        [
+            "dacB",
+            "Penicillin-binding protein",
+            "Gram positive and gram negative bacteria"
+        ],
+        [
+            "dacC",
+            "Penicillin-binding protein",
+            "Gram positive and gram negative bacteria"
+        ],
+        [
+            "mrcA",
+            "Penicillin-binding protein",
+            "Gram positive and gram negative bacteria"
+        ],
+        [
+            "mrcB",
+            "Penicillin-binding protein",
+            "Gram positive and gram negative bacteria"
+        ],
+        [
+            "mrdA",
+            "Penicillin-binding protein",
+            "Gram positive and gram negative bacteria"
+        ],
+        [
+            "ftsI",
+            "Penicillin-binding protein",
+            "Gram positive and gram negative bacteria"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,122 @@
+{
+    "pharmgkb_id": "PA164749631",
+    "drugbank_id": "DB01262",
+    "names": [
+        "Decitabine"
+    ],
+    "description": "Myelodysplastic syndromes (MDS) are a heterogeneous group of hematopoietic neoplasms with variable underlying etiology and presentation, including neutropenia and thrombocytopenia. Further mutations leading to increased proliferation of cancerous cells can eventually lead to secondary acute myeloid leukemia, which has a poor prognosis.[A215082, A215092] Among treatment options, nucleoside analogues such as decitabine and [azacitidine] integrate into cellular DNA and inhibit the action of DNA methyltransferases, leading to global hypomethylation and related downstream therapeutic benefits.[A2263, A2264, A2265, A215317, L14962]\r\n\r\nDecitabine was developed by MGI Pharma/SuperGen Inc. and was approved by the FDA for the treatment of MDS on February 5, 2006. It was first marketed under the name Dacogen\u00ae.[L14962] It is also available as an oral combination product together with the cytidine deaminase inhibitor [cedazuridine].",
+    "indication": "Decitabine is indicated for the treatment of patients with myelodysplastic syndromes (MDS) including all French-American-British subtypes (refractory anemia, refractory anemia with ringed sideroblasts, refractory anemia with excess blasts, refractory anemia with excess blasts in transformation, and chronic myelomonocytic leukemia), as well as for MDS scored as belonging to the intermediate-1, intermediate-2, or high-risk group in the International Prognostic Scoring System.[L14962]",
+    "pharmacodynamics": "Decitabine is a prodrug analogue of the natural nucleotide 2\u2019-deoxycytidine, which, upon being phosphorylated intracellularly, is incorporated into DNA and exerts numerous effects on gene expression.[A2263, A2264, A2265, A215317, L14962] The use of decitabine is associated with neutropenia and thrombocytopenia. In addition, decitabine can cause fetal harm in pregnant women; effective contraception and avoidance of pregnancy are recommended during treatment with decitabine.[L14962]",
+    "mechanism-of-action": "Myelodysplastic syndromes (MDS) are a group of hematopoietic neoplasms that manifest in peripheral cytopenias and may eventually progress to secondary acute myeloid leukemia (sAML). Included in the over 45 genes commonly mutated in MDS patients are those involved in DNA methylation and histone modification, and it is well-established that alteration of the epigenetic landscape is a feature of myeloid leukemias.[A215082, A215092]\r\n\r\nDecitabine is considered a prodrug, as it requires transport into cells and subsequent phosphorylation by distinct kinases to generate the active molecule 5-aza-2'-deoxycytidine-triphosphate, which is incorporated by DNA polymerase during DNA replication.[A2263, A2265, A2266, A2267, A215317, L14962] Once incorporated into DNA, decitabine is recognized as a substrate by DNA methyltransferase enzymes (DNMTs), specifically DNMT1, but due to the presence of an N5 rather than C5 atom, traps the DNMT through the irreversible formation of a covalent bond.[A2266, A2267] At low concentrations, this mode of action depletes DNMTs and results in global DNA hypomethylation while at high concentrations, it additionally results in double-strand breaks and cell death.[A2264, A2267, A215317]\r\n\r\nThe general hypothesis regarding decitabine's therapeutic efficacy is that the global hypomethylation it induces results in the expression of previously silent tumour suppressor genes.[A2261, A2262, A2263, A2264, A2265, A2266, A2267, A215317, L14962] However, there are other putative mechanisms also related to this change in DNA methylation, including indirect alteration of transcription through effects on transcription factors, indirectly altering histone modifications and chromatin structure, and activating pathways involved in DNA damage response.[A2263, A2265, A2267, A215317] The overall effect of decitabine is a decrease in neoplastic cell proliferation and an increase in the expression of tumour suppressor genes.",
+    "absorption": "Decitabine administered intravenously at 15 mg/m<sup>2</sup> for three hours every eight hours over three days resulted in a C<sub>max</sub> of 73.8 ng/mL (66% coefficient of variation, CV), an AUC<sub>0-\u221e</sub> of 163 ng\\*h/mL (62% CV), and a cumulative AUC of 1332 ng\\*h/mL (95% CI of 1010-1730).[L14962]\r\n\r\nSimilarly, decitabine at 20 mg/m<sup>2</sup> for one hour once daily over five days resulted in a C<sub>max</sub> of 147 ng/mL (49% CV), an AUC<sub>0-\u221e</sub> of 115 ng\\*h/mL (43% CV), and a cumulative AUC of 570 ng\\*h/mL (95% CI of 470-700).[L14962]",
+    "metabolism": "Decitabine is phosphorylated inside cells by the sequential action of deoxycytidine kinase, nucleotide monophosphate kinase, and nucleotide diphosphate kinase, prior to being incorporated into newly synthesized DNA by DNA polymerase.[A2263, A2266, A2267, A215317] Decitabine not incorporated into cellular DNA undergoes deamination by cytidine deaminase followed by additional degradation prior to excretion.[A2263, A2266, A215317]",
+    "toxicity": "Decitabine has demonstrated mutagenic potential in L5178Y mouse lymphoma cells and an _Escherichia coil lac-I_ transgene within the colonic DNA of mice. Decitabine treatment increased chromosomal rearrangements in fruit fly larvae. In mouse models, decitabine exposure _in utero_ (approximately 7% of the recommended daily dose) resulted in decreased weight and decreased male fertility. Adult male mice administered with between 0.3 and 1% of the recommended daily dose of decitabine three times a week for seven weeks had smaller testes with abnormal histology, decreased sperm count, and decreased fertility.[L14962]\r\n\r\nThere is no known antidote for decitabine overdose. Patients experiencing an overdose are at an increased risk of severe adverse effects such as myelosuppression, including prolonged and severe neutropenia and thrombocytopenia. Symptomatic and supportive measures are recommended.[L14962]",
+    "targets": [
+        [
+            "DNMT1",
+            "DNA (cytosine-5)-methyltransferase 1",
+            "Humans"
+        ],
+        [
+            "DNMT3A",
+            "DNA (cytosine-5)-methyltransferase 3A",
+            "Humans"
+        ],
+        [
+            "DNMT3B",
+            "DNA (cytosine-5)-methyltransferase 3B",
+            "Humans"
+        ],
+        [
+            "HDAC1",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC10",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC11",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC2",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC3",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC4",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC5",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC6",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC7",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC8",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC9",
+            "Histone deacetylase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CMPK1",
+            "UMP-CMP kinase",
+            "Humans"
+        ],
+        [
+            "NME1",
+            "Nucleoside diphosphokinase",
+            "Humans"
+        ],
+        [
+            "NME2",
+            "Nucleoside diphosphokinase",
+            "Humans"
+        ],
+        [
+            "DCK",
+            "Deoxycytidine kinase",
+            "Humans"
+        ],
+        [
+            "CDA",
+            "Cytidine deaminase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC28A1",
+            "Sodium/nucleoside cotransporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA452615",
+    "drugbank_id": "DB01171",
+    "names": [
+        "Moclobemide",
+        "Aurorix"
+    ],
+    "description": "A reversible monoamine oxidase inhibitor (MAOI) selective for isoform A (RIMA) used to treat major depressive disorder. Most meta-analyses and most studies indicate that in the acute management of depression, moclobemide is more efficacious than placebo medication and similarly efficacious as tricyclic antidepressants (TCA) or selective serotonin reuptake inhibitors (SSRIs).  Due to negligible anticholinergic and antihistaminic actions, moclobemide has been better tolerated than tri- or heterocyclic antidepressants [A31901].",
+    "indication": "For the treatment of major depressive disorder and bipolar disorder [A31901].",
+    "pharmacodynamics": " A selective, reversible inhibitor of monoamine oxidase (MAO) which increases the [A31901]. Besides its presence in sympathetic nerves, there is an abundant evidence that MAO-A is localized in noradrenergic neurons in the locus coeruleus and MAO-B is closely associated with serotonergic neurons of the raphe nucleus [A31901].",
+    "mechanism-of-action": "The mechanism of action of moclobemide involves the selective, reversible inhibition of MAO-A. This inhibition leads to a decrease in the metabolism and destruction of monoamines in the neurotransmitters. This results in an increase in the monoamines, relieving depressive symptoms [A31901, A31902].",
+    "absorption": "Well absorbed from the gastrointestinal tract (> 95%). The presence of food reduces the rate but not the extent of absorption. Hepatic first-pass metabolism reduces bioavailability to about 56% following administration of one dose, but increases to 90% with steady-state dosing as a result of saturation of the first pass effect. Peak plasma concentrations are reached within 0.3 - 1 hours following oral administration with a terminal half-life of 1.6h [L1350].",
+    "metabolism": "Moclobemide is almost completely metabolized in the liver by Cytochrome P450 2C19 and 2D6.\r\nMoclobemide is a substrate of CYP2C19. Although it acts as an inhibitor of CYP1A2, CYP2C19, and CYP2D6 [A31901].",
+    "toxicity": "LD50 (mouse) is 730mg/kg and LD50 (rat) is 1,300mg/kg. Signs of toxicity include hypertension, drowsiness, dizziness, confusion, tremors, headache, agitation, muscle rigidity and seizures [A31903]. The effects of moclobemide alone in overdose are negligible, even with high volume ingestion.  However, moclobemide overdose with a serotonergic agent (even in small, therapeutic doses) can cause severe serotonin toxicity. The elimination half-life is prolonged by two to four times in overdose, compared with that found in healthy volunteers given therapeutic doses [A31903].",
+    "targets": [
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Monoamine oxidase",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Monoamine oxidase",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,89 @@
+{
+    "pharmgkb_id": "PA166122590",
+    "drugbank_id": "DB06290",
+    "names": [
+        "Simeprevir",
+        "Olysio"
+    ],
+    "description": "Simeprevir is a hepatitis C virus (HCV) NS3/4A protease inhibitor indicated in patient's with HCV genotype 1 for the treatment of chronic hepatitis C virus (HCV) infection. HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. Like all NS3/4A inhibitors, simeprevir is a serine protease inhibitor in similarity to [DB08873] and [DB05521] but is classified as a second generation protease inhibitor. This class of antiviral drugs were the first direct acting antivirals approved but are associated with lower cure rates than newer drugs. Broad use of simeprevir occurred when it was used in combination with a newer drug, [DB08934]. Inhibiting HCV NS3/4A protease in a potent and highly specific manner, simeprevir is a direct-acting antiviral agent against the hepatitis C virus. Since the viral protease NS3/4A complex is essential for cleaving the HCV encoded polyprotein into individual viral proteins facilitating replication [A19632], the drug blocks the viral replication process. It is shown to display synergistic effects with interferon-\u03b1 and HCV NS5B inhibitor, and additive effects with ribavirin in HCV replicon cells [A19629]. Unlike first generation serine protease inhibitors, simprevir has a sightly different resistance profile where limited therapeutic efficacy of the drug is observed with NS3 Q80K polymorphic variants and simeprevir-specific amino acid position of 168 also results in higher treatment failure rates [A19630]. The observed prevalence of the N3 Q80K polymorphism was 30% in subjects infected with HCV genotype 1a and 0.5% in subjects infected with HCV genotype 1b [A19630]. \r\n\r\nAccording to 2017 American Association for the Study of Liver Diseases (AASLD) and 2015 consensus guidelines from the Canadian Association for the Study of the Liver (CASL), simeprevir can be used as first-line or second-line threapies for treatment-na\u00efve patients as adjunct to sofosbuvir treatment for genotype 1 or PEG-Interferon/ribavirin combination therapy for genotype 1 or 4. The combination therapy of simeprevir and other antiviral agents are initiated in HCV-positive patients with the intent to cure, or achieve a sustained virologic response (SVR), after 12 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [A19626].\r\n\r\nSimeprevir was approved by the FDA in November 2014 and is marketed under the brand name Olysio as oral tablets. Administered once daily with food, 150mg simeprevir capsule is used in combination with [DB08934] in patients with HCV genotype 1 without cirrhosis for 12 week duration. In patients with HCV genotype 1 with compensated cirrhosis, the treatment is directed for 24 week duration. Sustained virologic response 12 weeks after planned end of treatment (SVR12) was achieved in 170/176 (97%) subjects without cirrhosis treated with 12 weeks simeprevir in combination with sofosbuvir (FDA Label). The overall SVR12 was 88% (44/50) in treatment-na\u00efve patients with cirrhosis [L852].\r\n\r\nSimeprevir is also used in treatment of HCV genotype 4 patients with or without cirrhosis and is taken with [DB00008] and [DB00811]; this triple therapy allows shortening treatment duration from 48 weeks or longer to 12 or 24 weeks [A19630] depending on prior response status and presence of HIV-1 co-infection. Prior to initiation of treatment with [DB00008] and [DB00811], screening for the presence of virus with the NS3 Q80K polymorphism is strongly recommended and if detected, alternative treatment should be considered instead to prevent therapeutic failure. The SVR12 was 83% (29/35) in treatment-na\u00efve patients and 86% (19/22) in relapsing patients.",
+    "indication": "Indicated for the treatment of adults with chronic hepatitis C virus (HCV) infection: typically in combination with sofosbuvir in patients with HCV genotype 1 without cirrhosis or with compensated cirrhosis and in combination with peginterferon alfa (Peg-IFN-alfa) and ribavirin (RBV) in patients with HCV genotype 1 or 4 without cirrhosis or with compensated cirrhosis. \r\n\r\nResistance: Reduced susceptibility to simeprevir was most commonly associated with the viral NS3 Q80K polymorphism. Amino acid substitutions at NS3 positions S122, R155 and/or D168 are also shown to reduce susceptibility to simeprevir in genotype 1a/b patients. \r\n",
+    "pharmacodynamics": "Simeprevir is a direct-acting antiviral agent and inhibitor for HCV NS3/4A protease, which is an important enzyme required for viral replication. Unlike [DB08873] and [DB05521], simeprevir is a competitive, reversible, macrocyclic, noncovalent inhibitor. The macromolecular cyclic portion of the molecule improves the affnity and selectivity characteristics, which allows rapid association and slow dissociation to the protein target through noncovalent binding [A19630]. ",
+    "mechanism-of-action": "Simeprevir is accumulated in the liver after uptake into hepatocytes via OATP1B1/3. NS3/4A heterodimeric complex is composed of the cofactor N4A subunit and N3 subunit which contains the proteolytic site. The NS3/4A protease cleaves the HCV polyprotein downstream of the NS3 site, generating non-structural viral proteins NS3, NS4A, NS4B, NS5A and NS5B and subsequently formation of mature proteins [A19630, A19632]. Simeprevir exerts an inhibitory action on HCV polyprotein cleavage via induced-fit binding to an extended S2 subsite located in the NS3 catalytic site [A19633]. NS3/4A inhibitors usually depend on few interactions located in the substrate binding groove of the viral serine protease, thus are susceptible to resistance and failed treatment from few critical mutations in these sites. \r\nAt higher concentration above their antiviral half-maximal effective concentration (EC50), simeprevir and other NS3/4A inhibitors also restore interferon (IFN)-signaling pathways that are thought to be disrupted by NS3/4A protease and recover innate immune processes. NS3/4A protease cleaves two essential adaptor proteins that initiate signaling leading to activation of IFN regulatory factor 3 and IFN-\u03b1/\u03b2 synthesis, which are mitochondrial antiviral-signaling proteins (MAVS otherwise known as IPS-1, VISA, or Cardif) and toll/interleukin-1 receptor (TIR)- domain-containing adaptor-inducing IFN-\u03b2 (TRIF). Blocking the function of these adaptor proteins results in impaired interferon induction. NS3/4A inhibitors recover the proper IFN-signaling pathways [A19630, A19632]. ",
+    "absorption": "The mean absolute bioavailability of simeprevir following a single oral 150 mg dose of simeprevir capsule in fed conditions is 62%. Maximum plasma concentrations (Cmax) are typically\r\nachieved between 4 to 6 hours following the oral administration. ",
+    "metabolism": "Simeprevir undergoes hepatic metabolism. The primary metabolic pathway involves CYP3A system-mediated oxidation. Involvement of CYP2C8 and CYP2C19 cannot be excluded. ",
+    "toxicity": "In a combination therapy with sofosbuvir, most common reported adverse effects is fatigue, headache and nausea. In case of triple therapy with PEG-Interferon Alfa-2A and ribavirin, most common adverse effects included rash (including photosensitivity), pruritus and nausea. Elevations of serum bilirubin may be observed due to inhibition of bilirubin transporters OATP1B1 and MRP2 by simeprevir. ",
+    "targets": [
+        [
+            null,
+            "NS3 protease",
+            "Hepatitis C Virus"
+        ],
+        [
+            "NS3/4A",
+            "NS3/4A protein",
+            "Hepatitis C Virus"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "SLC10A1",
+            "Sodium/bile acid cotransporter",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

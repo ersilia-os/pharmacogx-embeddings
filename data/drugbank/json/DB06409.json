@@ -1,0 +1,35 @@
+{
+    "pharmgkb_id": "PA452633",
+    "drugbank_id": "DB06409",
+    "names": [
+        "Morphine glucuronide"
+    ],
+    "description": null,
+    "indication": "Investigated for use/treatment in pain (acute or chronic).",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "M6G, morphine-6-glucuronide, is an active metabolite from liver metabolism of morphine. M6G has a similar mechanism of action to morphine, primarily acting on the mu opioid receptor, with slightly higher affinity to the delta receptor than and lower affinity for the kappa receptor than morphine. It is proposed that M6G has a lower affinity than morphine at the mu2 receptor but equal affinity to the u1 receptor, but these results are uncertain and are undergoing further investigation. The precise mechanism of the analgesic action of morphine is unknown. However, specific CNS opiate receptors have been identified and likely play a role in the expression of analgesic effects. The mechanism of respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to increases in carbon dioxide tension and to electrical stimulation.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

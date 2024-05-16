@@ -1,0 +1,32 @@
+{
+    "pharmgkb_id": "PA451720",
+    "drugbank_id": "DB00323",
+    "names": [
+        "Tolcapone",
+        "Sen De Ning"
+    ],
+    "description": "Tolcapone is a drug that inhibits the enzyme catechol-O-methyl transferase (COMT). It is used in the treatment of Parkinson's disease as an adjunct to levodopa/carbidopa medication. It is a yellow, odorless, non-hygroscopic, crystalline compound. Tolcapone is associated with a risk of hepatotoxicity.",
+    "indication": "Used as an adjunct to levodopa/carbidopa therapy for the symptomatic treatment of Parkinson's Disease. This drug is generally reserved for patients with parkinsonian syndrome receiving levodopa/carbidopa who are experiencing symptom fluctuations and are not responding adequately to or are not candidates for other adjunctive therapies.",
+    "pharmacodynamics": "Tolcapone is a potent, selective, and reversible inhibitor of catechol-O-methyltransferase (COMT). In humans, COMT is distributed throughout various organs. COMT catalyzes the transfer of the methyl group of S-adenosyl-L-methionine to the phenolic group of substrates that contain a catechol structure. Physiological substrates of COMT include dopa, catecholamines (dopamine, norepinephrine, epinephrine) and their hydroxylated metabolites. The function of COMT is the elimination of biologically active catechols and some other hydroxylated metabolites. COMT is responsible for the elimination of biologically active catechols and some other hydroxylated metabolites. In the presence of a decarboxylase inhibitor, COMT becomes the major metabolizing enzyme for levodopa catalyzing it to 3-methoxy-4-hydroxy-L-phenylalanine (3-OMD) in the brain and periphery. When tolcapone is given in conjunction with levodopa and an aromatic amino acid decarboxylase inhibitor, such as carbidopa, plasma levels of levodopa are more sustained than after administration of levodopa and an aromatic amino acid decarboxylase inhibitor alone. It is believed that these sustained plasma levels of levodopa result in more constant dopaminergic stimulation in the brain, leading to greater effects on the signs and symptoms of Parkinson's disease in patients as well as increased levodopa adverse effects, sometimes requiring a decrease in the dose of levodopa.",
+    "mechanism-of-action": "The precise mechanism of action of tolcapone is unknown, but it is believed to be related to its ability to inhibit COMT and alter the plasma pharmacokinetics of levodopa, resulting in an increase in plasma levodopa concentrations. The inhibition of COMT also causes a reduction in circulating 3-OMD as a result of decreased peripheral metabolism of levodopa. This may lead to an increase distribution of levodopa into the CNS through the reduction of its competitive substrate, 3-OMD, for transport mechanisms. Sustained levodopa concentrations presumably result in more consistent dopaminergic stimulation, resulting in greater reduction in the manifestations of parkinsonian syndrome.",
+    "absorption": "Rapidly absorbed (absolute bioavailability is about 65%)",
+    "metabolism": "The main metabolic pathway of tolcapone is glucuronidation",
+    "toxicity": "LD<sub>50</sub> = 1600 mg/kg (Orally in rats)",
+    "targets": [
+        [
+            "COMT",
+            "Catechol O-methyltransferase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

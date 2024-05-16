@@ -1,0 +1,42 @@
+{
+    "pharmgkb_id": "PA165948902",
+    "drugbank_id": "DB08873",
+    "names": [
+        "Boceprevir"
+    ],
+    "description": "Boceprevir is a direct acting antiviral medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as Boceprevir. Boceprevir is an inhibitor of NS3/4A, a serine protease enzyme, encoded by HCV genotypes 1 and 4 [synthesis]. These enzymes are essential for viral replication and serve to cleave the virally encoded polyprotein into mature proteins like NS4A, NS4B, NS5A and NS5B [FDA Label]. The barrier for develoment of resistance to NS3/4A inhibitors is lower than that of NS5B inhibitors, another class of DAAs [A19593]. Subtitutions at amino acid positions 155, 156, or 168 are known to confer resistance. The substitutions of the enzyme's catalytic triad consisting of H58, D82, and S139 are also likely to alter the affinity of the drug for NS3/4A or the activity of the enzyme itself. Despite this disadvantage Boceprevir is still effective against HCV when paired with [DB00811], [DB00008], and [DB00022].\r\n\r\nIn a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) do not reccomend Boceprevir in combination with [DB00811], [DB00008], and [DB00022] as first line therapy for Hepatitis C [A19593]. Boceprevir, [DB00811], [DB00008], and [DB00022] are used with the intent to cure, or achieve a sustained virologic response (SVR), after 48 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [A19626].\r\n\r\nBoceprevir is available as a fixed dose product (tradename Victrelis) used for the treatment of chronic Hepatitis C. Approved in May 2011 by the FDA, Victrelis is indicated for the treatment of HCV genotype 1 in combination with [DB00811], [DB00008], and [DB00022] [FDA Label]. Victrelis is no longer widely used as interferon-free therapies have been developed.",
+    "indication": "Boceprevir, when used in combination with [DB00811], [DB00008], and [DB00022] is indicated for use in the treatment of chronic HCV genotype 1 infection in adults [FDA Label].",
+    "pharmacodynamics": "Boceprevir is classified as a direct-acting antiviral (DAA) and prevents viral replication in HCV genotype 1 [FDA Label]. ",
+    "mechanism-of-action": "Boceprevir is a NS3/4a protease inhibitor used to inhibit viral HCV replication [FDA Label]. NS3/4a protease is an integral part of viral replication and mediates the cleavage the virally encoded polyprotein to mature proteins (NS4A, NS4B, NS5A and NS5B) [FDA Label]. Boceprevir covalently but reversibly binds the serine (S139) resiude in the active site via a (\u03b1)-ketoamide functional group. This inhibits the proteolytic acitvity of the HCV 1a and 1b encoded enzyme.",
+    "absorption": "Boceprevir reaches peak plasma concentration 2 hours after administration [FDA Label]. Absolute bioavailability has not been determined. When taken with food exposure increases up to 65%. In capsule, Boceprevir consists of two diaseromers in a 1:1 ratio. In plasma this ratio changes to 2:1 favoring the active diastereomer.",
+    "metabolism": "Bocepravir is primarily metabolized via the aldo-ketoreductase-mediated pathway producing a diastereomeric mix of metabolites at a 4 fold greater exposure than the parent compound [FDA Label]. Boceprevir also undergoes oxidative metabolism via CYP3A4/5, although to a lesser extent.",
+    "toxicity": "The most commonly reported adverse reactions in adult subjects were fatigue, anemia, nausea, headache, and dysgeusia when Boceprevir was used in combination with [DB00811] and [DB00008]/[DB00022] [FDA Label].",
+    "targets": [
+        [
+            "NS3/4A",
+            "NS3/4A protein",
+            "Hepatitis C Virus"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

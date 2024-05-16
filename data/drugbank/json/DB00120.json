@@ -1,0 +1,61 @@
+{
+    "pharmgkb_id": "PA450931",
+    "drugbank_id": "DB00120",
+    "names": [
+        "Phenylalanine"
+    ],
+    "description": "Phenylalanine is an essential aromatic amino acid that is a precursor of melanin, [dopamine], [noradrenalin] (norepinephrine), and [thyroxine].",
+    "indication": "L-phenylalanine may be helpful in some with depression. It may also be useful in the treatment of vitiligo. There is some evidence that L-phenylalanine may exacerbate tardive dyskinesia in some schizophrenic patients and in some who have used neuroleptic drugs.",
+    "pharmacodynamics": "Used by the brain to produce Norepinephrine, a chemical that transmits signals between nerve cells and the brain; keeps you awake and alert; reduces hunger pains; functions as an antidepressant and helps improve memory.",
+    "mechanism-of-action": "The supposed antidepressant effects of L-phenylalanine may be due to its role as a precursor in the synthesis of the neurotransmitters norepinephrine and dopamine. Elevated brain norepinephrine and dopamine levels are thought to be associated with antidepressant effects. The mechanism of L-phenylalanine's possible antivitiligo activity is not well understood. It is thought that L-phenylalanine may stimulate the production of melanin in the affected skin",
+    "absorption": "Absorbed from the small intestine by a sodium dependent active transport process.",
+    "metabolism": "Hepatic. L-phenylalanine that is not metabolized in the liver is distributed via the systemic circulation to the various tissues of the body, where it undergoes metabolic reactions similar to those that take place in the liver.",
+    "toxicity": "L-phenylalanine will exacerbate symptoms of phenylketonuria if used by phenylketonurics. L-phenylalanine was reported to exacerbate tardive dyskinesia when used by some with schizophrenia.",
+    "targets": [
+        [
+            "TAT",
+            "Tyrosine aminotransferase",
+            "Humans"
+        ],
+        [
+            "SLC7A8",
+            "Large neutral amino acids transporter small subunit 2",
+            "Humans"
+        ],
+        [
+            "FARSA",
+            "Phenylalanine--tRNA ligase alpha subunit",
+            "Humans"
+        ],
+        [
+            "PAH",
+            "Phenylalanine-4-hydroxylase",
+            "Humans"
+        ],
+        [
+            "FARS2",
+            "Phenylalanine--tRNA ligase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "FARSB",
+            "Phenylalanine--tRNA ligase beta subunit",
+            "Humans"
+        ],
+        [
+            "TH",
+            "Tyrosine 3-monooxygenase",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC16A10",
+            "Monocarboxylate transporter 10",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

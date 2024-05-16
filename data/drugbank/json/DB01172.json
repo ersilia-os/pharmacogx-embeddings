@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA450137",
+    "drugbank_id": "DB01172",
+    "names": [
+        "Kanamycin",
+        "Efficin",
+        "Kanamytrex",
+        "Kancin",
+        "Kancin-L",
+        "Winamycin"
+    ],
+    "description": "Kanamycin (also known as kanamycin A) is an aminoglycoside bacteriocidal antibiotic, available in oral, intravenous, and intramuscular forms, and used to treat a wide variety of infections. Kanamycin is isolated from the bacterium Streptomyces kanamyceticus and its most commonly used form is kanamycin sulfate.",
+    "indication": "For treatment of infections where one or more of the following are the known or suspected pathogens: <i>E. coli</i>, <i>Proteus</i> species (both indole-positive and indole-negative), <i>E. aerogenes, K. pneumoniae, S. marcescens,</i> and <i>Acinetobacter</i> species.",
+    "pharmacodynamics": "Kanamycin is an aminoglycoside antibiotic. Aminoglycosides work by binding to the bacterial 30S ribosomal subunit, causing misreading of t-RNA, leaving the bacterium unable to synthesize proteins vital to its growth. Aminoglycosides are useful primarily in infections involving aerobic, Gram-negative bacteria, such as Pseudomonas, Acinetobacter, and Enterobacter. In addition, some mycobacteria, including the bacteria that cause tuberculosis, are susceptible to aminoglycosides. Infections caused by Gram-positive bacteria can also be treated with aminoglycosides, but other types of antibiotics are more potent and less damaging to the host. In the past the aminoglycosides have been used in conjunction with penicillin-related antibiotics in streptococcal infections for their synergistic effects, particularly in endocarditis. Aminoglycosides are mostly ineffective against anaerobic bacteria, fungi and viruses.",
+    "mechanism-of-action": "Aminoglycosides like kanamycin \"irreversibly\" bind to specific 30S-subunit proteins and 16S rRNA. Specifically Kanamycin binds to four nucleotides of 16S rRNA and a single amino acid of protein S12. This interferes with decoding site in the vicinity of nucleotide 1400 in 16S rRNA of 30S subunit. This region interacts with the wobble base in the anticodon of tRNA. This leads to interference with the initiation complex, misreading of mRNA so incorrect amino acids are inserted into the polypeptide leading to nonfunctional or toxic peptides and the breakup of polysomes into nonfunctional monosomes.",
+    "absorption": "Kanamycin is rapidly absorbed after intramuscular injection and peak serum levels are generally reached within approximately one hour. Poor oral and topical absorption except with severe skin damage. ",
+    "metabolism": null,
+    "toxicity": "Mild and reversible nephrotoxicity may be observed in 5 - 25% of patients. Amikacin accumulates in proximal renal tubular cells. Tubular cell regeneration occurs despite continued drug exposure. Toxicity usually occurs several days following initiation of therapy. May cause irreversible ototoxicity. Otoxocity appears to be correlated to cumulative lifetime exposure. Drug accumulation in the endolymph and perilymph of the inner ear causes irreversible damage to hair cells of the cochlea or summit of ampullar cristae in the vestibular complex. High frequency hearing is lost first with progression leading to loss of low frequency hearing. Further toxicity may lead to retrograde degeneration of the 8th cranial (vestibulocochlear) nerve. Vestibular toxicity may cause vertigo, nausea, vomiting, dizziness and loss of balance.\r\nOral LD50 is 17500 mg/kg in mice, over 4 g/kg in rats, and over 3 g/kg in rabbits.",
+    "targets": [
+        [
+            "rpsL",
+            "30S ribosomal protein S12",
+            "Escherichia coli (strain K12)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "aac",
+            "Aminoglycoside 2'-N-acetyltransferase",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            "knt",
+            "Kanamycin nucleotidyltransferase",
+            "Staphylococcus aureus"
+        ],
+        [
+            "aphA1",
+            "Aminoglycoside 3'-phosphotransferase",
+            "Escherichia coli"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

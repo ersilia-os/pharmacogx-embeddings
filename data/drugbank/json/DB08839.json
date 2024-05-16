@@ -1,0 +1,56 @@
+{
+    "pharmgkb_id": "PA166152901",
+    "drugbank_id": "DB08839",
+    "names": [
+        "Serotonin",
+        "5-HTP",
+        "HTP Calm",
+        "Natural 5-HTP",
+        "Seotonin",
+        "Super 5-HTP"
+    ],
+    "description": "For temporary relief of nervousness, anxiety, mood swings, joint pains, weakness, drowsiness, itching and lethargy. Not evaluated by the FDA, homeopathic product.",
+    "indication": null,
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "HTR3B",
+            "5-hydroxytryptamine receptor 3B",
+            "Humans"
+        ],
+        [
+            "SLC18A2",
+            "Synaptic vesicular amine transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

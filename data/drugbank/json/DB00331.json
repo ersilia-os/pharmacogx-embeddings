@@ -1,0 +1,71 @@
+{
+    "pharmgkb_id": "PA450395",
+    "drugbank_id": "DB00331",
+    "names": [
+        "Metformin",
+        "Apo-Metformin",
+        "Gen-Metformin",
+        "Novo-Metformin",
+        "Nu-Metformin",
+        "Sandoz Metformin"
+    ],
+    "description": "Metformin is a biguanide antihyperglycemic agent and first-line pharmacotherapy used in the management of type II diabetes.[L12207,A176173] \r\n\r\nMetformin is considered an antihyperglycemic drug because it lowers blood glucose concentrations in type II diabetes without causing hypoglycemia. It is commonly described as an \"insulin sensitizer\", leading to a decrease in insulin resistance and a clinically significant reduction of plasma fasting insulin levels.[A176173] Another well-known benefit of this drug is modest weight loss, making it an effective choice for obese patients type II diabetes.[A36559]\r\n\r\nMetformin was first approved in Canada in 1972,[A36552] and received subsequent FDA approval in the US in 1995.[L12207]",
+    "indication": "**Metformin immediate-release formulations**\r\n \r\nMetformin is indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients \u226510 years old with type 2 diabetes mellitus.[L40243]\r\n\r\n**Metformin extended-release tablet (XR)**\r\n\r\nThe extended-release formulation of metformin is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Safety in children has not been determined to this date.[L12207]\r\n\r\n**Metformin combination products**\r\n\r\nMetformin is a component of a variety of combination products with other anti-diabetic agents. It is indicated, along with diet and exercise, to improve glycemic control in adult patients with type 2 diabetes mellitus in combination with DPP-4 inhibitors ([sitagliptin], [linagliptin], [alogliptin], or [saxagliptin]),[L11479,L40248,L40253,L40258,L40263] in combination with SGLT2 inhibitors ([canagliflozin], [empagliflozin], [ertugliflozin], or [dapagliflozin]),[L11479,L30503,L1134,L13679,L38729] or in combination with [pioglitazone].[L11419]",
+    "pharmacodynamics": "**General effects**\r\n\r\nInsulin is an important hormone that regulates blood glucose levels.[T514] Type II diabetes is characterized by a decrease in sensitivity to insulin, resulting in elevations in blood glucose when the pancreas can no longer compensate. In patients diagnosed with type 2 diabetes, insulin is unable to exert adequate effects on tissues and cells (i.e. insulin resistance)[T514] and insulin deficiency may also be present.[L5753]\r\n\r\nMetformin reduces hepatic production of glucose, decreases the intestinal absorption of glucose, and enhances insulin sensitivity by increasing both peripheral glucose uptake and utilization. In contrast with drugs of the sulfonylurea class, which lead to hyperinsulinemia, the secretion of insulin is unchanged with metformin use.[L12207]\r\n\r\n**Effect on fasting plasma glucose (FPG) and Glycosylated hemoglobin (HbA1c)**\r\n\r\nHbA1c is an important periodic measure of glycemic control used to monitor diabetic patients. Fasting plasma glucose is also a useful and important measure of glycemic control. In a 29-week clinical trial of subjects diagnosed with type II diabetes, metformin decreased the fasting plasma glucose levels by an average of 59 mg/dL from baseline, compared to an average increase of 6.3 mg/dL from baseline in subjects taking a placebo.[L12207]  Glycosylated hemoglobin (HbA1c) was decreased by about 1.4% in subjects receiving metformin, and increased by 0.4% in subjects receiving placebo only.[L12207]",
+    "mechanism-of-action": "Metformin's mechanisms of action are unique from other classes of oral antihyperglycemic drugs. Metformin decreases blood glucose levels by decreasing hepatic glucose production (also called gluconeogenesis), decreasing the intestinal absorption of glucose, and increasing insulin sensitivity by increasing peripheral glucose uptake and utilization.[L12207] It is well established that metformin inhibits mitochondrial complex I activity, and it has since been generally postulated that its potent antidiabetic effects occur through this mechanism.[A36534, A36557]   The above processes lead to a decrease in blood glucose, managing type II diabetes and exerting positive effects on glycemic control.\r\n\r\nAfter ingestion, the organic cation transporter-1 (OCT1) is responsible for the uptake of metformin into hepatocytes (liver cells). As this drug is positively charged, it accumulates in cells and in the mitochondria because of the membrane potentials across the plasma membrane as well as the mitochondrial inner membrane. Metformin inhibits mitochondrial complex I, preventing the production of mitochondrial ATP leading to increased cytoplasmic ADP:ATP and AMP:ATP ratios.[A36534] These changes activate AMP-activated protein kinase (AMPK), an enzyme that plays an important role in the regulation of glucose metabolism.[A176348] Aside from this mechanism, AMPK can be activated by a lysosomal mechanism involving other activators.  Following this process, increases in AMP:ATP ratio also inhibit _fructose-1,6-bisphosphatase_ enzyme, resulting in the inhibition of gluconeogenesis, while also inhibiting _adenylate cyclase_ and decreasing the production of cyclic adenosine monophosphate (cAMP),[A36534] a derivative of ATP used for cell signaling [A176351]. Activated AMPK phosphorylates two isoforms of acetyl-CoA carboxylase enzyme, thereby inhibiting fat synthesis and leading to fat oxidation, reducing hepatic lipid stores and increasing liver sensitivity to insulin.[A36534] \r\n\r\nIn the intestines, metformin increases anaerobic glucose metabolism in enterocytes (intestinal cells), leading to reduced net glucose uptake and increased delivery of lactate to the liver. Recent studies have also implicated the gut as a primary site of action of metformin and suggest that the liver may not be as important for metformin action in patients with type 2 diabetes. Some of the ways metformin may play a role on the intestines is by promoting the metabolism of glucose by increasing glucagon-like peptide I (GLP-1) as well as increasing gut utilization of glucose.[A36534] \r\n\r\nIn addition to the above pathway, the mechanism of action of metformin may be explained by other ways, and its exact mechanism of action has been under extensive study in recent years.[A36535, A36554, A36555, A36557]",
+    "absorption": "**Regular tablet absorption**\r\n\r\nThe absolute bioavailability of a metformin 500 mg tablet administered in the fasting state is about 50%-60%. Single-dose clinical studies using oral doses of metformin 500 to 1500 mg and 850 to 2550 mg show that there is a lack of dose proportionality with an increase in metformin dose, attributed to decreased absorption rather than changes in elimination.[L40243]\r\n\r\nAt usual clinical doses and dosing schedules of metformin, steady-state plasma concentrations of metformin are achieved within 24-48 hours and are normally measured at <1 \u03bcg/mL.[L40243]\r\n\r\n**Extended-release tablet absorption**\r\n\r\nAfter a single oral dose of metformin extended-release, Cmax is reached with a median value of 7 hours and a range of between 4 and 8 hours. Peak plasma levels are measured to be about 20% lower compared to the same dose of regular metformin, however, the extent of absorption of both forms (as measured by area under the curve - AUC), are similar.[L12207]\r\n\r\n**Effect of food**\r\n\r\nFood reduces the absorption of metformin, as demonstrated by about a 40% lower mean peak plasma concentration (Cmax), a 25% lower area under the plasma concentration versus time curve (AUC), and a 35-minute increase in time to peak plasma concentration (Tmax) after ingestion of an 850 mg tablet of metformin taken with food, compared to the same dose administered during fasting.[L40243]\r\n\r\nThough the extent of metformin absorption (measured by the area under the curve - AUC) from the metformin extended-release tablet is increased by about 50% when given with food, no effect of food on Cmax and Tmax of metformin is observed. High and low-fat meals exert similar effects on the pharmacokinetics of extended-release metformin.[L12207]",
+    "metabolism": "Intravenous studies using a single dose of metformin in normal subjects show that metformin is excreted as unchanged drug in the urine and does not undergo hepatic metabolism (no metabolites have been identified in humans) or biliary excretion.[L40243]",
+    "toxicity": "**Metformin (hydrochloride) toxicity data**: \r\n\r\nOral LD50 (rat): 1 g/kg; Intraperitoneal LD50 (rat): 500 mg/kg; Subcutaneous LD50 (rat): 300 mg/kg; Oral LD50 (mouse): 1450 mg/kg; Intraperitoneal LD50 (mouse): 420 mg/kg; Subcutaneous LD50 (mouse): 225 mg/kg.[L40283]\r\n\r\n**A note on lactic acidosis**\r\n\r\nMetformin decreases liver uptake of lactate, thereby increasing lactate blood levels which may increase the risk of lactic acidosis.[L40243] There have been reported postmarketing cases of metformin-associated lactic acidosis, including some fatal cases. Such cases had a subtle onset and were accompanied by nonspecific symptoms including malaise, myalgias, abdominal pain, respiratory distress, or increased somnolence. In certain cases, hypotension and resistant bradyarrhythmias have occurred with severe lactic acidosis.[L40243] Metformin-associated lactic acidosis was characterized by elevated blood lactate concentrations (>5 mmol/L), anion gap acidosis (without evidence of ketonuria or ketonemia), as well as an increased lactate:pyruvate ratio; metformin plasma levels were generally >5 mcg/mL.[L40243]\r\n\r\nRisk factors for metformin-associated lactic acidosis include renal impairment, concomitant use of certain drugs (e.g. carbonic anhydrase inhibitors such as topiramate), age 65 years old or greater, having a radiological study with contrast, surgery and other procedures, hypoxic states (e.g., acute congestive heart failure), excessive alcohol intake, and hepatic impairment.[L40243]\r\n\r\n**A note on renal function**\r\n\r\nIn patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased.[L40243]\r\n\r\nMetformin should be avoided in those with severely compromised renal function (creatinine clearance < 30 ml/min), acute/decompensated heart failure, severe liver disease and for 48 hours after the use of iodinated contrast dyes due to the risk of lactic acidosis.[L40243] Lower doses should be used in the elderly and those with decreased renal function. Metformin decreases fasting plasma glucose, postprandial blood glucose and glycosolated hemoglobin (HbA1c) levels, which are reflective of the last 8-10 weeks of glucose control. Metformin may also have a positive effect on lipid levels. \r\n\r\n**A note on hypoglycemia**\r\n\r\n When used alone, metformin does not cause hypoglycemia, however, it may potentiate the hypoglycemic effects of sulfonylureas and insulin when they are used together.[L40243]\r\n\r\n**Use in pregnancy** \r\n\r\nAvailable data from post-marketing studies have not indicated a clear association of metformin with major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was ingested during pregnancy. Despite this, the abovementioned studies cannot definitively establish the absence of any metformin-associated risk due to methodological limitations, including small sample size and inconsistent study groups.[L40243]\r\n\r\n**Use in nursing**\r\n\r\nA limited number of published studies indicate that metformin is present in human milk. There is insufficient information to confirm the effects of metformin on the nursing infant and no available data on the effects of metformin on the production of milk. The developmental and health benefits of breastfeeding should be considered as well as the mother\u2019s clinical need for metformin and any possible adverse effects on the nursing child.[L40243]",
+    "targets": [
+        [
+            "ETFDH",
+            "Electron transfer flavoprotein-ubiquinone oxidoreductase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "PRKAB1",
+            "5'-AMP-activated protein kinase subunit beta-1",
+            "Humans"
+        ],
+        [
+            "GPD1",
+            "Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC29A4",
+            "Equilibrative nucleoside transporter 4",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

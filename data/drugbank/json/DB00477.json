@@ -1,0 +1,230 @@
+{
+    "pharmgkb_id": "PA448964",
+    "drugbank_id": "DB00477",
+    "names": [
+        "Chlorpromazine",
+        "Aminazine",
+        "Chlorderazin",
+        "Chloropromazine",
+        "Chlorpromados",
+        "Chlorpromanyl",
+        "Contomin",
+        "Largactil"
+    ],
+    "description": "The prototypical phenothiazine antipsychotic drug. Like the other drugs in this class, chlorpromazine's antipsychotic actions are thought to be due to long-term adaptation by the brain to blocking dopamine receptors. Chlorpromazine has several other actions and therapeutic uses, including as an antiemetic and in the treatment of intractable hiccup.",
+    "indication": "For the treatment of schizophrenia; to control nausea and vomiting; for relief of restlessness and apprehension before surgery; for acute intermittent porphyria; as an adjunct in the treatment of tetanus; to control the manifestations of the manic type of manic-depressive illness; for relief of intractable hiccups; for the treatment of severe behavioral problems in children (1 to 12 years of age) marked by combativeness and/or explosive hyperexcitable behavior (out of proportion to immediate provocations), and in the short-term treatment of hyperactive children who show excessive motor activity with accompanying conduct disorders consisting of some or all of the following symptoms: impulsivity, difficulty sustaining attention, aggressivity, mood lability, and poor frustration tolerance.",
+    "pharmacodynamics": "Chlorpromazine is a psychotropic agent indicated for the treatment of schizophrenia. It also exerts sedative and antiemetic activity. Chlorpromazine has actions at all levels of the central nervous system-primarily at subcortical levels-as well as on multiple organ systems. Chlorpromazine has strong antiadrenergic and weaker peripheral anticholinergic activity; ganglionic blocking action is relatively slight. It also possesses slight antihistaminic and antiserotonin activity.",
+    "mechanism-of-action": "Chlorpromazine acts as an antagonist (blocking agent) on different postsysnaptic receptors -on dopaminergic-receptors (subtypes D1, D2, D3 and D4 - different antipsychotic properties on productive and unproductive symptoms), on serotonergic-receptors (5-HT1 and 5-HT2, with anxiolytic, antidepressive and antiaggressive properties as well as an attenuation of extrapypramidal side-effects, but also leading to weight gain, fall in blood pressure, sedation and ejaculation difficulties), on histaminergic-receptors (H1-receptors, sedation, antiemesis, vertigo, fall in blood pressure and weight gain), alpha1/alpha2-receptors (antisympathomimetic properties, lowering of blood pressure, reflex tachycardia, vertigo, sedation, hypersalivation and incontinence as well as sexual dysfunction, but may also attenuate pseudoparkinsonism - controversial) and finally on muscarinic (cholinergic) M1/M2-receptors (causing anticholinergic symptoms like dry mouth, blurred vision, obstipation, difficulty/inability to urinate, sinus tachycardia, ECG-changes and loss of memory, but the anticholinergic action may attenuate extrapyramidal side-effects).\r\nAdditionally, Chlorpromazine is a weak presynaptic inhibitor of Dopamine reuptake, which may lead to (mild) antidepressive and antiparkinsonian effects. This action could also account for psychomotor agitation and amplification of psychosis (very rarely noted in clinical use).",
+    "absorption": "Readily absorbed from the GI tract. Bioavailability varies due to first-pass metabolism by the liver. ",
+    "metabolism": "Extensively metabolized in the liver and kidneys. It is extensively metabolized by cytochrome P450 isozymes CYP2D6 (major pathway), CYP1A2 and CYP3A4. Approximately 10 to 12 major metabolite have been identified. Hydroxylation at positions 3 and 7 of the phenothiazine nucleus and the N-dimethylaminopropyl side chain undergoes demethylation and is also metabolized to an N-oxide. In urine, 20% of chlopromazine and its metabolites are excreted unconjugated in the urine as unchanged drug, demonomethylchlorpromazine, dedimethylchlorpromazine, their sulfoxide metabolites, and chlorpromazine-N-oxide. The remaining 80% consists of conjugated metabolites, principally O-glucuronides and small amounts of ethereal sulfates of the mono- and dihydroxy-derivatives of chlorpromazine and their sulfoxide metabolites. The major metabolites are the monoglucuronide of N-dedimethylchlorpromazine and 7-hydroxychlorpromazine. Approximately 37% of the administered dose of chlorpromazine is excreted in urine. ",
+    "toxicity": "Agitation, coma, convulsions, difficulty breathing, difficulty swallowing, dry mouth, extreme sleepiness, fever, intestinal blockage, irregular heart rate, low blood pressure, restlessness",
+    "targets": [
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "D(1) dopamine receptor",
+            "Humans"
+        ],
+        [
+            "DRD5",
+            "D(1) dopamine receptor",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "DRD4",
+            "Dopamine D4 receptor",
+            "Humans"
+        ],
+        [
+            "DRD5",
+            "Dopamine D5 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine 2 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine 2 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine 2 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "SMPD1",
+            "Sphingomyelin phosphodiesterase",
+            "Humans"
+        ],
+        [
+            "CALM1",
+            "Calmodulin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "5-hydroxytryptamine receptor 6",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "HRH4",
+            "Histamine H4 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

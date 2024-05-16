@@ -1,0 +1,50 @@
+{
+    "pharmgkb_id": "PA164760843",
+    "drugbank_id": "DB01609",
+    "names": [
+        "Deferasirox"
+    ],
+    "description": "Deferasirox is an iron chelator and the first oral medication FDA approved for chronic iron overload in patients receiving long term blood transfusions.",
+    "indication": "For the treatment of chronic iron overload due to blood transfusions (transfusional hemosiderosis) in patients 2 years of age and older.",
+    "pharmacodynamics": "Deferasirox is an orally active chelator that is selective for iron (as Fe3+). It is a tridentate ligand that binds iron with high affinity in a 2:1 ratio. Although deferasirox has very low affinity for zinc and copper there are variable decreases in the serum concentration of these trace metals after the administration of deferasirox. The clinical significance of these decreases is uncertain.",
+    "mechanism-of-action": "Two molecules of deferasirox are capable of binding to 1 atom of iron. Deferasirox works in treating iron toxicity by binding trivalent (ferric) iron (for which it has a strong affinity), forming a stable complex which is eliminated via the kidneys.",
+    "absorption": "The absolute bioavailability (AUC) of deferasirox tablets for oral suspension is 70% compared to an intravenous dose.",
+    "metabolism": "Hepatic. CYP450-catalyzed (oxidative) metabolism of deferasirox appears to be minor in humans (about 8%). Glucuronidation is the main metabolic pathway for deferasirox, with subsequent biliary excretion.",
+    "toxicity": null,
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

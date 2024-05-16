@@ -1,0 +1,108 @@
+{
+    "pharmgkb_id": "PA449441",
+    "drugbank_id": "DB00625",
+    "names": [
+        "Efavirenz",
+        "E.F.",
+        "Efavir",
+        "Efcure",
+        "Efferven",
+        "Estiva",
+        "Evirenz",
+        "Viranz"
+    ],
+    "description": "Efavirenz (brand names Sustiva\u00ae and Stocrin\u00ae) is a non-nucleoside reverse transcriptase inhibitor (NNRTI) and is used as part of highly active antiretroviral therapy (HAART) for the treatment of a human immunodeficiency virus (HIV) type 1.\r\n\r\nFor HIV infection that has not previously been treated, efavirenz and lamivudine in combination with zidovudine or tenofovir is the preferred NNRTI-based regimen.\r\n\r\nEfavirenz is also used in combination with other antiretroviral agents as part of an expanded postexposure prophylaxis regimen to prevent HIV transmission for those exposed to materials associated with a high risk for HIV transmission.",
+    "indication": "For use in combination treatment of HIV infection (AIDS)",
+    "pharmacodynamics": "Efavirenz (dideoxyinosine, ddI) is an oral non-nucleoside reverse transcriptase inhibitor (NNRTI). It is a synthetic purine derivative and, similar to zidovudine, zalcitabine, and stavudine. Efavirenz was originally approved specifically for the treatment of HIV infections in patients who failed therapy with zidovudine. Currently, the CDC recommends that Efavirenz be given as part of a three-drug regimen that includes another nucleoside reverse transcriptase inhibitor (e.g., lamivudine, stavudine, zidovudine) and a protease inhibitor or efavirenz when treating HIV infection.",
+    "mechanism-of-action": "Similar to zidovudine, efavirenz inhibits the activity of viral RNA-directed DNA polymerase (i.e., reverse transcriptase). Antiviral activity of efavirenz is dependent on intracellular conversion to the active triphosphorylated form. The rate of efavirenz phosphorylation varies, depending on cell type. It is believed that inhibition of reverse transcriptase interferes with the generation of DNA copies of viral RNA, which, in turn, are necessary for synthesis of new virions. Intracellular enzymes subsequently eliminate the HIV particle that previously had been uncoated, and left unprotected, during entry into the host cell. Thus, reverse transcriptase inhibitors are virustatic and do not eliminate HIV from the body. Even though human DNA polymerase is less susceptible to the pharmacologic effects of triphosphorylated efavirenz, this action may nevertheless account for some of the drug's toxicity.",
+    "absorption": null,
+    "metabolism": "Efavirenz is principally metabolized by the cytochrome P450 system to hydroxylated metabolites with subsequent glucuronidation of these hydroxylated metabolites. These metabolites are essentially inactive against HIV-1.",
+    "toxicity": null,
+    "targets": [
+        [
+            "pol",
+            "Reverse transcriptase/RNaseH",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00625",
+            "Drug Name": "Efavirenz",
+            "Gene Symbol": "CYP2B6",
+            "RS ID (Genotype)": "rs3745274",
+            "Effect Description": "The presence of this polymorphism in CYP2B6 is associated with reduction in efavirenz metabolism."
+        }
+    ]
+}

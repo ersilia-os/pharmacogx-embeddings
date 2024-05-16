@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA164754814",
+    "drugbank_id": "DB00230",
+    "names": [
+        "Pregabalin"
+    ],
+    "description": "Pregabalin is structurally similar to gamma-aminobutyric acid (GABA) - an inhibitory neurotransmitter.[A173995] It may be used to manage neuropathic pain, postherpetic neuralgia, and fibromyalgia among other conditions.[A187190] Although as per the FDA Label the mechanism of action has not been definitively characterized, there is evidence that pregabalin exerts its effects by binding to the \u03b12\u03b4 subunit of voltage-dependent calcium channels.[A187190,L7066] Pregabalin is marketed by Pfizer under the trade name Lyrica and Lyrica Cr (extended release).[L1006,L7066] It may have dependence liability if misused but the risk appears to be highest in patients with current or past substance use disorders.[A31161]",
+    "indication": "Pregabalin is indicated for the management of neuropathic pain associated with diabetic peripheral neuropathy, postherpetic neuralgia, fibromyalgia, neuropathic pain associated with spinal cord injury, and as adjunctive therapy for the treatment of partial-onset seizures in patients 1 month of age and older.[L7066]",
+    "pharmacodynamics": "Although the structure of pregabalin is similar to gamma-aminobutyric acid (GABA), it does not bind to GABA receptors.[A31163,A187190] Instead, it binds the alpha2-delta subunit of presynaptic voltage-gated calcium channels in the central nervous system.[A31163,A187190] Pregabalin does not modulate dopamine receptors, serotonin receptors, opiate receptors, sodium channels or cyclooxygenase activity.[A187190] ",
+    "mechanism-of-action": "Although the mechanism of action has not been fully elucidated, studies involving structurally related drugs suggest that presynaptic binding of pregabalin to voltage-gated calcium channels is key to the antiseizure and antinociceptive effects observed in animal models.[L7066]  \r\n\r\nBy binding presynaptically to the alpha2-delta subunit of voltage-gated calcium channels in the central nervous system, pregabalin modulates the release of several excitatory neurotransmitters including glutamate, substance-P, norepinephrine, and calcitonin gene related peptide.[A31163] In addition, pregabalin prevents the alpha2-delta subunit from being trafficked from the dorsal root ganglia to the spinal dorsal horn, which may also contribute to the mechanism of action.[A36628] \r\n\r\nAlthough pregabalin is a structural derivative of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), it does not bind directly to GABA or benzodiazepine receptors.[A31165]  ",
+    "absorption": "After oral dosing administered in the fasted state, pregabalin absorption is rapid, and extensive.[A31165] Pregabalin oral bioavailability is reported to be \u226590% regardless of the dose.[A31165] Cmax is attained within 1.5 hours after single or multiple doses, and steady state is attained within 24-48 hours with repeated administration.[A31165,L7066] Both Cmax and AUC appear to be dose proportional.[A31165]\r\n\r\nFood decreases the rate of pregabalin absorption and as a result, lowers the Cmax by an estimated 25-30% and increases the Tmax to approximately 3 hours.[L7066] However, the effect of food does not appear to impact the total absorption of pregabalin in a way that is clinically relevant. As a result, pregabalin can be administered with or without food.[L7066]\r\n",
+    "metabolism": "Less than 2% of pregabalin is metabolized and it is excreted virtually unchanged in the urine.[A31165,L7066]",
+    "toxicity": "In a systematic review that included 38 randomized controlled trials, there were 20 identified adverse effects that were significantly associated with pregabalin, most of which involve the central nervous system and cognition.  The identified adverse effects include vertigo, dizziness, balance disorder, incoordination, ataxia, blurred vision, diplopia, amblyopia, somnolence, confusional state, tremor, disturbance in attention, abnormal thinking, asthenia, fatigue, euphoria, edema, peripheral edema, dry mouth, and constipation [A175876].\r\n\r\nThe most common symptoms of pregabalin toxicity (dose range includes 800 mg/day and single doses up to 11,500 mg) include somnolence, confusion, restlessness, agitation, depression, affective disorder and seizures.[L9052]\r\n\r\nSince there is no antidote for pregabalin overdose, patients should receive general supportive care. If appropriate, gastric lavage or emesis may help eliminate unabsorbed pregabalin (healthcare providers should take standard precautions to maintain the airway).[L9052]  \r\n\r\nPregabalin pharmacokinetic properties suggest that extra-corporeal elimination methods including haemodialysis, may be useful in situations of severe toxicity.[A187105] However, there are cases where patients have presented with very high serum levels of pregabalin and have been successfully managed with supportive care alone.[A187105]",
+    "targets": [
+        [
+            "CACNA2D1",
+            "Voltage-dependent calcium channel subunit alpha-2/delta-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC1A1",
+            "Excitatory amino acid transporter 3",
+            "Humans"
+        ],
+        [
+            "SLC7A5",
+            "Large neutral amino acids transporter small subunit 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

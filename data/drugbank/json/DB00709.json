@@ -1,0 +1,146 @@
+{
+    "pharmgkb_id": "PA450163",
+    "drugbank_id": "DB00709",
+    "names": [
+        "Lamivudine",
+        "Amilitrap",
+        "Antiheb",
+        "Avilam",
+        "Avolam",
+        "Epivir-HBV",
+        "Flamivud",
+        "Ganvirel",
+        "Hepavir",
+        "Hepitec",
+        "Heptavir",
+        "Heptodin",
+        "Heptodine",
+        "Lamda",
+        "Lamibergen",
+        "Lamidac",
+        "Lamitec",
+        "Lamivir",
+        "Zeffix"
+    ],
+    "description": "A reverse transcriptase inhibitor and zalcitabine analog in which a sulfur atom replaces the 3&#39; carbon of the pentose ring. It is used to treat Human Immunodeficiency Virus Type 1 (HIV-1) and hepatitis B (HBV).",
+    "indication": "For the treatment of HIV infection and chronic hepatitis B (HBV).",
+    "pharmacodynamics": "Lamivudine is a nucleoside reverse transcriptase inhibitor (NRTI) with activity against Human Immunodeficiency Virus Type 1 (HIV-1) and hepatitis B (HBV) to disrupt viral DNA synthesis. When phosphorylated, lamivudine can form active metabolites that compete for incorporation into viral DNA. Via DNA incorporation, lamivudine metabolites competitively inhibit the activity of the HIV reverse transcriptase enzyme and act as a chain terminator of DNA synthesis. Due to the lack of a 3'-OH group, incorporated nucleoside analogues prevent the formation of a 5' to 3' phosphodiester linkage that is essential for DNA chain elongation. ",
+    "mechanism-of-action": "Lamivudine is a synthetic nucleoside analogue and is phosphorylated intracellularly to its active 5'-triphosphate metabolite, lamivudine triphosphate (L-TP). This nucleoside analogue is incorporated into viral DNA by HIV reverse transcriptase and HBV polymerase, resulting in DNA chain termination.",
+    "absorption": "Lamivudine was rapidly absorbed after oral administration in HIV-infected patients. Absolute bioavailability in 12 adult patients was 86% \u00b1 16% (mean \u00b1 SD) for the 150-mg tablet and 87% \u00b1 13% for the oral solution. The peak serum lamivudine concentration (Cmax) was 1.5 \u00b1 0.5 mcg/mL when an oral dose of 2 mg/kg twice a day was given to HIV-1 patients. When given with food, absorption is slower, compared to the fasted state. ",
+    "metabolism": "Metabolism of lamivudine is a minor route of elimination. In man, the only known metabolite of lamivudine is the trans-sulfoxide metabolite. This biotransformation is catalyzed by sulfotransferases. ",
+    "toxicity": "The most common reported adverse reactions (incidence \u226515%) in adults were headache, nausea, malaise and fatigue, nasal signs and symptoms, diarrhea, and cough. ",
+    "targets": [
+        [
+            "pol",
+            "Reverse transcriptase/RNaseH",
+            "Human immunodeficiency virus 1"
+        ],
+        [
+            "P",
+            "Protein P",
+            "HBV-F"
+        ]
+    ],
+    "enzymes": [
+        [
+            "DCK",
+            "Deoxycytidine kinase",
+            "Humans"
+        ],
+        [
+            "CMPK1",
+            "UMP-CMP kinase",
+            "Humans"
+        ],
+        [
+            "PGK1",
+            "Phosphoglycerate kinase 1",
+            "Humans"
+        ],
+        [
+            "NME1",
+            "Nucleoside diphosphate kinase A",
+            "Humans"
+        ],
+        [
+            "NME2",
+            "Nucleoside diphosphate kinase B",
+            "Humans"
+        ],
+        [
+            "PCYT1A",
+            "Choline-phosphate cytidylyltransferase A",
+            "Humans"
+        ],
+        [
+            "PCYT2",
+            "Ethanolamine-phosphate cytidylyltransferase",
+            "Humans"
+        ],
+        [
+            "NT5C",
+            "5'(3')-deoxyribonucleotidase, cytosolic type",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

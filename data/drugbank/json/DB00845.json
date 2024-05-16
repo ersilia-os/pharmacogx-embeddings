@@ -1,0 +1,78 @@
+{
+    "pharmgkb_id": "nan-54504531-9cf0-4b63-b356-1beb564c3c73",
+    "drugbank_id": "DB00845",
+    "names": [
+        "Clofazimine",
+        "Clofozine",
+        "Hansepran",
+        "Lamcoin",
+        "Lampren",
+        "Lampr\u00e8ne"
+    ],
+    "description": "Clofazimine is a highly lipophilic antimicrobial riminophenazine dye used in combination with other agents, such as [dapsone], for the treatment of leprosy. It was originally described in 1957 and was the prototypical riminophenazine dye - a bright-red dye that, in its clinical use, results in long-lasting discoloration of the skin and bodily fluids.[A203144] Although it carries _in vitro_ activity against other mycobacterium, such as _Mycobacterium tuberculosis_, it is generally considered an ineffective treatment in comparison to classic tuberculosis treatments such as [rifampicin] and [isoniazid].[A203144]",
+    "indication": "Clofazimine is indicated for the treatment of lepromatous leprosy, including dapsone-resistant lepromatous leprosy and lepromatous leprosy complicated by erythema nodosum leprosum.[L13802] To prevent the development of drug resistance, it should be used only in combination with other antimycobacterial leprosy treatments.",
+    "pharmacodynamics": "Clofazimine exerts a slow bactericidal effect on <i>Mycobacterium leprae</i> (Hansen's bacillus) due primarily to its action on the bacterial outer membrane, though there is some evidence that activity on the bacterial respiratory chain and ion transporters may play a role.[A203144] It also exerts anti-inflammatory properties due to the suppression of T-lymphocyte activity. Clofazimine has a relatively long duration of action owing to its long residence time in the body, but is still administered daily.\r\n\r\nApproximately 75-100% of patients receiving clofazimine will experience an orange-pink to brownish-black discoloration of the skin, conjunctivae, and bodily fluids.[L13802] Skin discoloration may take several months or years to reverse following the cessation of therapy. Clofazimine has also been implicated in abdominal obstruction, in some cases fatal, due to the deposition of drug and formation of crystals in the intestinal mucosa - complaints of abdominal pain and nausea/vomiting should be investigated promptly, and the doses of clofazimine should be lowered or discontinued if it is found to be the culprit.[L13802]\r\n\r\nIts use should be avoided in patients with hepatic dysfunction.[L13802]",
+    "mechanism-of-action": "Although the precise mechanism(s) of action of clofazimine have not been elucidated, its antimicrobial activity appears to be membrane-directed. It was previously thought that, due to its lipophilicity, clofazimine participated in the generation of intracellular reactive oxygen species (ROS) via redox cycling, specifically H<sub>2</sub>O<sub>2</sub> and superoxide, which then exerted an antimicrobial effect.[A203144] A more recent and compelling theory involves clofazimine interacting with bacterial membrane phospholipids to generate antimicrobial lysophospholipids - bactericidal efficacy may, then, arise from the combined membrane-destabilizing effects of both clofazimine and lysophospholipids, which interfere with K+ uptake and, ultimately, ATP production.[A203144,L13802]\r\n\r\nThe anti-inflammatory activity of clofazimine is the result of its inhibition of T-lymphocyte activation and proliferation.[L13802] Several mechanisms have been proposed, including direct antagonism of T-cell Kv 1.3 potassium channels and indirect action by promoting the release of E-series prostaglandins and reactive oxygen species from bystander neutrophils and monocytes.",
+    "absorption": "Absorption varies from 45 to 62% following oral administration in leprosy patients.[L13802] Co-administration of a 200mg dose of clofazimine with food resulted in a C<sub>max</sub> of 0.41 mg/L with a T<sub>max</sub> of 8 h; administered in a fasting state, the corresponding C<sub>max</sub> was 30% lower while the time to Cmax was 12 h.[A203213]",
+    "metabolism": "Three metabolites have been identified in the urine following repeated oral doses of clofazimine.[L13802] It is unclear whether these metabolites are pharmacologically active. Metabolite I may be the result of the hydrolytic dehalogenation of clofazimine and metabolite II presumably is formed by a hydrolytic deamination reaction followed by glucuronidation.[A203213]",
+    "toxicity": "The reported oral LD<sub>50</sub> of clofazimine in rats and mice is 8400 mg/kg and >5000 mg/kg, respectively.[L13820]\r\n\r\nNo specific data are available regarding the treatment of clofazimine overdosage.[L13802] In cases of overdose consider gastrointestinal decontamination via gastric lavage or induced vomiting. Employ symptomatic and supportive measures as clinically indicated.",
+    "targets": [
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ],
+        [
+            "KCNA3",
+            "Potassium voltage-gated channel subfamily A member 3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

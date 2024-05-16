@@ -1,0 +1,104 @@
+{
+    "pharmgkb_id": "PA451877",
+    "drugbank_id": "DB00570",
+    "names": [
+        "Vinblastine",
+        "Blastivin",
+        "Cytoblastin",
+        "Lemblastine",
+        "Oncostin",
+        "Velban",
+        "Velbastin",
+        "Velbe",
+        "Vinblasin",
+        "Vinblastin",
+        "Vinko",
+        "Weibaoding",
+        "Xintoprost"
+    ],
+    "description": "Antitumor alkaloid isolated from Vinca rosea. (Merck, 11th ed.)",
+    "indication": "For treatment of breast cancer, testicular cancer, lymphomas, neuroblastoma, Hodgkin's and non-Hodgkin's lymphomas, mycosis fungoides, histiocytosis, and Kaposi's sarcoma.",
+    "pharmacodynamics": "Vinblastine is a vinca alkaloid antineoplastic agent. The vinca alkaloids are structurally similar compounds comprised of 2 multiringed units: vindoline and catharanthine. The vinca alkaloids have become clinically useful since the discovery of their antitumour properties in 1959. Initially, extracts of the periwinkle plant (<i>Catharanthus roseus</i>) were investigated because of putative hypoglycemic properties, but were noted to cause marrow suppression in rats and antileukemic effects <i>in vitro</i>. Vinblastine has some immunosuppressant effect. The vinca alkaloids are considered to be cell cycle phase-specific.",
+    "mechanism-of-action": "The antitumor activity of vinblastine is thought to be due primarily to inhibition of mitosis at metaphase through its interaction with tubulin. Vinblastine binds to the microtubular proteins of the mitotic spindle, leading to crystallization of the microtubule and mitotic arrest or cell death.",
+    "absorption": null,
+    "metabolism": "Hepatic. Metabolism of vinblastine has been shown to be mediated by hepatic cytochrome P450 3A isoenzymes.",
+    "toxicity": "Oral, mouse: LD<sub>50</sub> = 423 mg/kg; Oral, rat: LD<sub>50</sub> = 305 mg/kg.",
+    "targets": [
+        [
+            "TUBA1A",
+            "Tubulin alpha-1A chain",
+            "Humans"
+        ],
+        [
+            "TUBB",
+            "Tubulin beta chain",
+            "Humans"
+        ],
+        [
+            "TUBD1",
+            "Tubulin delta chain",
+            "Humans"
+        ],
+        [
+            "TUBG1",
+            "Tubulin gamma-1 chain",
+            "Humans"
+        ],
+        [
+            "TUBE1",
+            "Tubulin epsilon chain",
+            "Humans"
+        ],
+        [
+            "JUN",
+            "Transcription factor AP-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCC6",
+            "Multidrug resistance-associated protein 6",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

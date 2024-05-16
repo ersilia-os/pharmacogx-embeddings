@@ -1,0 +1,247 @@
+{
+    "pharmgkb_id": "PA451258",
+    "drugbank_id": "DB00867",
+    "names": [
+        "Ritodrine",
+        "Yutopar"
+    ],
+    "description": "Adrenergic beta-agonist used to control premature labor.",
+    "indication": "For the treatment and prophylaxis of premature labour",
+    "pharmacodynamics": "Beta-2 adrenergic receptors are located at sympathetic neuroeffector junctions of many organs, including uterus. Ritodrine is beta-2 adrenergic agonist. It stimulates beta-2 adrenergic receptor, increases cAMP level and decreases intracellular calcium concentration. The decrease of calcium concentration leads to a relaxation of uterine smooth muscle and, therefore, a decrease in premature uterine contractions. ",
+    "mechanism-of-action": "Ritodrine is beta-2 adrenergic agonist. It binds to beta-2 adrenergic receptors on outer membrane of myometrial cell, activates adenyl cyclase to increase the level of cAMP which decreases intracellular calcium and leads to a decrease of uterine contractions.",
+    "absorption": null,
+    "metabolism": "Hepatic, by both the mother and fetus",
+    "toxicity": "LD<sub>50</sub>=64mg/kg (mice, IV); LD<sub>50</sub>=540 mg/kg (mice, oral); LD<sub>50</sub>=85 mg/kg (rat, IV)",
+    "targets": [
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "KCNJ1",
+            "ATP-sensitive potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNJ10",
+            "ATP-sensitive potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNJ11",
+            "ATP-sensitive potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNJ12",
+            "ATP-sensitive potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNJ14",
+            "ATP-sensitive potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNJ15",
+            "ATP-sensitive potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNJ8",
+            "ATP-sensitive potassium channel",
+            "Humans"
+        ],
+        [
+            "ATP2C1",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2C2",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B1",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B2",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B3",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2B4",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2A1",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "ATP2A2",
+            "Calcium transporting ATPases",
+            "Humans"
+        ],
+        [
+            "KCNMA1",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNMB1",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNMB2",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNMB3",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNMB4",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNN4",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNN1",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNN2",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNN3",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "MYLK",
+            "Myosin light chain kinase, smooth muscle",
+            "Humans"
+        ],
+        [
+            "SULT1C4",
+            "Sulfotransferase 1C4",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "PGD",
+            "6-phosphogluconate dehydrogenase, decarboxylating",
+            "Humans"
+        ],
+        [
+            "SULT1A1",
+            "Sulfotransferase 1A1",
+            "Humans"
+        ],
+        [
+            "SULT1A3",
+            "Sulfotransferase 1A3/1A4",
+            "Humans"
+        ],
+        [
+            "SULT2A1",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1A1",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1A2",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1A3",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1A4",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1C2",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1C3",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1C4",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT4A1",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT6B1",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1B1",
+            "Sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1C4",
+            "Sulfotransferase 1C4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

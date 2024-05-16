@@ -1,0 +1,63 @@
+{
+    "pharmgkb_id": "PA166179867",
+    "drugbank_id": "DB11967",
+    "names": [
+        "Binimetinib"
+    ],
+    "description": "Binimetinib, also known as _Mektovi_, is a potent and selective oral mitogen-activated protein kinase 1/2 (MEK 1/2) inhibitor which is combined with [Encorafenib].[A34275,L3335]\r\n\r\nOn June 27, 2018, the Food and Drug Administration approved the combination of [Encorafenib] and binimetinib (BRAFTOVI and MEKTOVI, from Array BioPharma Inc.) in combination for patients with unresectable or metastatic melanoma with the BRAF V600E or V600K mutations, as detected by an FDA-approved test.[L3335]",
+    "indication": "Binimetinib, in conjunction with encorafenib, is indicated for the treatment of unresectable or metastatic melanoma with BRAF V600E or V600K mutation and metastatic non-small cell lung cancer (NSCLC) with a BRAF V600E mutation.[L48606]",
+    "pharmacodynamics": "In vitro, binimetinib inhibited extracellular signal-related kinase (ERK) phosphorylation in cell-free assays as well as viability and MEK-dependent phosphorylation of BRAF-mutant human melanoma cell lines. Binimetinib also inhibited in vivo ERK phosphorylation and tumor growth in BRAF-mutant murine xenograft models.[L48606] MEK is an enzyme that regulates the biosynthesis of inflammatory cytokines such as TNF, IL-6 and IL-1; therefore, binimetinib anti-tumor activity can be mediated through the interference of cytokines biosynthesis.[A34270,L3334]\r\n\r\nBinimetinib and [encorafenib] target two different kinases in the RAS/RAF/MEK/ERK pathway. Compared to either drug alone, coadministration of [encorafenib] and binimetinib resulted in greater anti-proliferative activity in vitro in BRAF mutation-positive cell lines and greater anti-tumor activity with respect to tumor growth inhibition in BRAF V600E mutant human melanoma xenograft studies in mice. Additionally, the combination of binimetinib and [encorafenib] delayed the emergence of resistance in BRAF V600E mutant human melanoma xenografts in mice compared to either drug alone. In a BRAF V600E mutant NSCLC patient-derived xenograft model in mice, coadministration of [encorafenib] and binimetinib resulted in greater anti-tumor activity compared to binimetinib alone, with respect to tumor growth inhibition. Increased tumor growth delay after dosing cessation was also observed with the coadministration compared to either drug alone.[L48606]\r\n\r\nFollowing MEKTOVI 45 mg twice daily, no clinically meaningful QT prolongation was observed.[L48606]",
+    "mechanism-of-action": "Binimetinib, noncompetitive with ATP, binds reversibly to and inhibits the activity of mitogen-activated extracellular signal-regulated kinase (MEK) 1 and 2. The inhibition of MEK1/2 prevents the activation of MEK1/2-dependent effector proteins and transcription factors, resulting in the inhibition of growth factor-mediated cell signaling such as the downstream extracellular signal-related kinase (ERK) pathway. This may lead to the inhibition of tumor cell proliferation and an inhibition in the production of various inflammatory cytokines including interleukin-1, -6, and tumor necrosis factor. MEK1/2 are themselves threonine and tyrosine kinases that possess a dual specificity. They subsequently contribute critically to the activation of the RAS/RAF/MEK/ERK pathway and are typically upregulated in a number of different tumor cell types.[L3334,L48606]\r\n",
+    "absorption": "The pharmacokinetics of binimetinib was studied in healthy subjects and patients with solid tumors. After twice-daily dosing, the accumulation is 1.5-fold and the coefficient of variation (CV%) of the area under the concentration-time curve (AUC) is <40% at steady state. The systemic exposure of binimetinib is approximately dose proportional.[L48606]\r\n\r\nAfter oral administration, at least 50% of the binimetinib dose was absorbed with a median time to maximum concentration (T<sub>max</sub>) of 1.6 hours.[L48606] \r\n\r\nThe administration of a single dose of binimetinib 45 mg with a high-fat, high-calorie meal (consisting of approximately 150 calories from protein, 350 calories from carbohydrate, and 500 calories from fat) in healthy subjects had no effect on binimetinib exposure.[L48606] ",
+    "metabolism": "The primary metabolic pathway is glucuronidation with UGT1A1 contributing up to 61% of the binimetinib metabolism. Other pathways of binimetinib metabolism include N-dealkylation, amide hydrolysis, and loss of ethane-diol from the side chain. The active metabolite M3 produced by CYP1A2 and CYP2C19 represents 8.6% of the binimetinib exposure. Following a single oral dose of 45 mg radiolabeled binimetinib, approximately 60% of the circulating radioactivity AUC in plasma was attributable to binimetinib.[L48606]\r\n",
+    "toxicity": "Based on findings from animal reproduction studies and its mechanism of action, binimetinib can cause fetal harm when administered to a pregnant woman. There are no available clinical data on the use of binimetinib during pregnancy. In animal reproduction studies, oral administration of binimetinib during the period of organogenesis was embryotoxic and an abortifacient in rabbits at doses greater than or equal to those resulting in exposures approximately 5 times the human exposure at the clinical dose of 45 mg twice daily. Advise pregnant women and females of reproductive potential of the potential risk to a fetus.[L48606]\r\n\r\nNo overall differences in the safety or effectiveness of MEKTOVI plus encorafenib were observed in older patients as compared to younger patients.[L48606]\r\n\r\nSince binimetinib is 97% bound to plasma proteins, hemodialysis is likely to be ineffective in the treatment of overdose with binimetinib.[L48606]\r\n\r\nCarcinogenicity studies with binimetinib have not been conducted. Binimetinib was not genotoxic in studies evaluating reverse mutations in bacteria, chromosomal aberrations in mammalian cells, or micronuclei in the bone marrow of rats.[L48606]\r\n",
+    "targets": [
+        [
+            "MAP2K2",
+            "Dual specificity mitogen-activated protein kinase kinase 2",
+            "Humans"
+        ],
+        [
+            "MAP2K1",
+            "Dual specificity mitogen-activated protein kinase kinase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,93 @@
+{
+    "pharmgkb_id": "PA449977",
+    "drugbank_id": "DB00224",
+    "names": [
+        "Indinavir",
+        "Crixivan"
+    ],
+    "description": "A potent and specific HIV protease inhibitor that appears to have good oral bioavailability. [PubChem]",
+    "indication": "Indinavir is an antiretroviral drug for the treatment of HIV infection.",
+    "pharmacodynamics": "Indinavir is a protease inhibitor with activity against Human Immunodeficiency Virus Type 1 (HIV-1). Protease inhibitors block the part of HIV called protease. HIV-1 protease is an enzyme required for the proteolytic cleavage of the viral polyprotein precursors into the individual functional proteins found in infectious HIV-1. Indinavir binds to the protease active site and inhibits the activity of the enzyme. This inhibition prevents cleavage of the viral polyproteins resulting in the formation of immature non-infectious viral particles. Protease inhibitors are almost always used in combination with at least two other anti-HIV drugs.",
+    "mechanism-of-action": "Indinavir inhibits the HIV viral protease enzyme which prevents cleavage of the gag-pol polyprotein, resulting in noninfectious, immature viral particles.",
+    "absorption": "Rapidly absorbed",
+    "metabolism": "Hepatic. Seven metabolites have been identified, one glucuronide conjugate and six oxidative metabolites. In vitro studies indicate that cytochrome P-450 3A4 (CYP3A4) is the major enzyme responsible for formation of the oxidative metabolites.",
+    "toxicity": "Symptoms of overdose include myocardial infarction and angina pectoris.",
+    "targets": [
+        [
+            "pol",
+            "Human immunodeficiency virus type 1 protease",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

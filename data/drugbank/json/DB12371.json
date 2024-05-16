@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "PA166182736",
+    "drugbank_id": "DB12371",
+    "names": [
+        "Siponimod"
+    ],
+    "description": "Siponimod, also known as _Mayzent_, by Novartis, is a new drug formulated for the management of Multiple Sclerosis (MS). It was approved by the FDA on March 26, 2019 [L5792] and by Health Canada on February 20, 2020.[L12171] This drug is considered a _sphingosine-1-phosphate (S1P) receptor modulator_ and is thought to play a role in suppressing the central nervous system inflammation that is associated with MS [FDA label].\r\n\r\nMultiple Sclerosis (MS) is an autoimmune disease of the central nervous system that is chronic and inflammatory, disrupting communication between the brain and other parts of the body. Most patients diagnosed with this illness experience their initial disease symptoms between the age of 20 to 40, often the most productive years of life. Symptoms may include but are not limited to fatigue, gait changes, bowel or bladder dysfunction, abnormal muscle twitching, vision disturbance, and depressing or mood swings.[L5801] MS is one of the most common causes of neurological disability in young adults and is found to occur more frequently in women than in men.[A176474,L5792]",
+    "indication": "This drug is indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease in adults [FDA label].",
+    "pharmacodynamics": "**Immune system effects**\r\n\r\nSiponimod causes a dose-dependent decrease of the peripheral blood lymphocyte count within 6 hours of the first dose, caused by the reversible accumulation of lymphocytes in lymphoid tissues, due to lack of lymphocyte release [FDA label].   This results in a decrease in the inflammation that is involved in multiple sclerosis. Lymphocyte counts return to normal in 90% of patients within 10 days after the cessation of therapy [FDA label].\r\n\r\n**Effects on heart rate and rhythm**\r\n\r\nSiponimod causes a temporary decrease in heart rate and atrioventricular conduction upon beginning treatment. The maximum fall in heart rate is observed in the first 6 hours post ingestion. Autonomic heart responses, including diurnal variation of heart rate and response to exercise activities, are not altered by siponimod treatment [FDA label].\r\n\r\n**Effects on pulmonary function**\r\n\r\nDose-dependent decreases in absolute forced expiratory volume over a time frame of 1 second were noted in siponimod-treated patients and were higher than in patients taking placebo [FDA label]. ",
+    "mechanism-of-action": "Inflammation of the white and gray matter tissues in the central nervous system caused by localized immune cell infiltration and their cytokines are the initial cause of damage in MS. B lymphocytes and their cytokines are other factors in the pathogenesis of MS. Lymphotoxin [or transforming growth factor beta (TGF-\u03b2)] and TNF-\u03b1 produced by these cells encourage inflammation [A176474]. The S1P receptor is an important receptor related to the function of lymphocytes and can be found in the central nervous system [A176492].  S1P receptor (S1PR) signaling is associated with a wide variety of physiological processes for lymphocytes, including their egress and recirculation [A176486, A176489]. \r\n\r\nSiponimod is classified as a sphingosine-1-phosphate (S1P) receptor modulator. Siponimod binds with high affinity to both S1P receptors 1 and 5. This drug blocks the ability of lymphocytes to release from the lymph nodes, decreasing the number of lymphocytes found in the peripheral blood. The mechanism by which siponimod exerts therapeutic effects in multiple sclerosis is not known at this time, but may involve the abovementioned decrease of lymphocytes into the central nervous system, decreasing the inflammatory effects of MS [FDA label].",
+    "absorption": "The time (Tmax) to attain maximum plasma concentrations (Cmax) after oral administration of immediate-release oral doses of siponimod was found to be approximately 4 hours ( with a range 3 - 8 hours). Siponimod is heavily absorbed (at a rate greater than or equal to 70%). The absolute oral bioavailability of siponimod is about 84%. Steady-state concentrations were attained after approximately 6 days of daily administration of a single dose of siponimod [FDA label]. \r\n\r\n**Effects of food on absorption**\r\n\r\nFood ingestion leads to delayed siponimod absorption (the median Tmax increased by approximately 2-3 hours). Food intake has no effect on the systemic exposure of siponimod (Cmax and AUC). Therefore, siponimod may be taken without regard to food [FDA label].\r\n",
+    "metabolism": "Siponimod is extensively metabolized, mainly by CYP2C9 enzyme (79.3%), and subsequently by CYP3A4 enzyme (18.5%). The pharmacological activity of the main metabolites M3 and M17 is not expected to be responsible for the clinical effect and the safety of siponimod in humans [FDA label]. ",
+    "toxicity": "**Carcinogenesis**\r\n\r\nOral carcinogenicity studies of siponimod were performed in mice and rats. There was an increase in malignant lymphoma in females at all doses and in hemangiosarcoma and combined hemangioma and hemangiosarcoma at all doses in males and females. The lowest dose tested is approximately 5 times the recommended human dose (RHD) of 2 mg/day [FDA label].\r\n\r\n**Mutagenesis**\r\n\r\nSiponimod was negative in several in vitro (Ames, chromosomal aberration in mammalian cells) and in vivo (micronucleus in mouse and rat) assays [FDA label].\r\n\r\n**Impairment of fertility**\r\n\r\nWhen siponimod was administered orally (0, 2, 20, or 200 mg/kg) to male rats (mated with untreated females) before and throughout the mating period, there was a dose-related increase in the precoital interval at any dose. A decrease in implantation sites, an increase in preimplantation loss, and a decrease in the number of viable fetuses were noted at the highest dose tested. The higher no-effect dose for adverse effects on fertility (20 mg/kg) is approximately 100 times the recommended human dose [FDA label].\r\n\r\nWhen siponimod was administered orally (0, 0.1, 0.3, or 1 mg/kg) to female rats (mated with untreated males) prior to and during mating, and continuing to Day 6 of gestation, no effects on fertility were noted up to the highest dose studied (1 mg/kg). Plasma siponimod exposure (AUC) at the highest dose studied is about 16 times that in humans at the recommended human dose [FDA label]. \r\n\r\n**Use in pregnancy and lactation**\r\n\r\nSiponimod may cause fetal harm, based on the results of animal studies. Because it takes about 10 days to eliminate this drug from the body, women of childbearing potential should use adequate contraception to avoid pregnancy during and for 10 days after the cessation of treatment [FDA label]. \r\nNo data currently exist regarding the presence of siponimod in human milk [FDA label]. A study in lactating rats demonstrated excretion of the drug and/or its metabolites in milk. The benefits nursing should be considered as well as the mother\u2019s clinical requirement for this drug and any possible adverse effects on the breastfed infant from siponimod [FDA label].",
+    "targets": [
+        [
+            "S1PR5",
+            "Sphingosine 1-phosphate receptor 5",
+            "Humans"
+        ],
+        [
+            "S1PR1",
+            "Sphingosine 1-phosphate receptor 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

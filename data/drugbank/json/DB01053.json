@@ -1,0 +1,109 @@
+{
+    "pharmgkb_id": "PA450842",
+    "drugbank_id": "DB01053",
+    "names": [
+        "Benzylpenicillin",
+        "Pentids"
+    ],
+    "description": "Benzylpenicillin (Penicillin G) is narrow spectrum antibiotic used to treat infections caused by susceptible bacteria. It is a natural penicillin antibiotic that is administered intravenously or intramuscularly due to poor oral absorption. Penicillin G may also be used in some cases as prophylaxis against susceptible organisms.\r\n \r\nNatural penicillins are considered the drugs of choice for several infections caused by susceptible gram positive aerobic organisms, such as *Streptococcus pneumoniae*, groups A, B, C and G streptococci, nonenterococcal group D streptococci, viridans group streptococci, and non-penicillinase producing staphylococcus. Aminoglycosides may be added for synergy against group B streptococcus (*S. agalactiae*), *S. viridans*, and *Enterococcus faecalis*. The natural penicillins may also be used as first or second line agents against susceptible gram positive aerobic bacilli such as *Bacillus anthracis*, *Corynebacterium diphtheriae*, and *Erysipelothrix rhusiopathiae*. Natural penicillins have limited activity against gram negative organisms; however, they may be used in some cases to treat infections caused by *Neisseria meningitidis* and *Pasteurella*. They are not generally used to treat anaerobic infections. Resistance patterns, susceptibility and treatment guidelines vary across regions.",
+    "indication": "For use in the treatment of severe infections caused by penicillin G-susceptible microorganisms when rapid and high penicillin levels are required such as in the treatment of septicemia, meningitis, pericarditis, endocarditis and severe pneumonia.",
+    "pharmacodynamics": "Penicillin G is a penicillin beta-lactam antibiotic used in the treatment of bacterial infections caused by susceptible, usually gram-positive, organisms. The name \"penicillin\" can either refer to several variants of penicillin available, or to the group of antibiotics derived from the penicillins. Penicillin G has <i>in vitro</i> activity against gram-positive and gram-negative aerobic and anaerobic bacteria. The bactericidal activity of penicillin G results from the inhibition of cell wall synthesis and is mediated through penicillin G binding to penicillin binding proteins (PBPs). Penicillin G is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended spectrum beta-lactamases.",
+    "mechanism-of-action": "By binding to specific penicillin-binding proteins (PBPs) located inside the bacterial cell wall, penicillin G inhibits the third and last stage of bacterial cell wall synthesis. Cell lysis is then mediated by bacterial cell wall autolytic enzymes such as autolysins; it is possible that penicillin G interferes with an autolysin inhibitor.",
+    "absorption": "Rapidly absorbed following both intramuscular and subcutaneous injection. Initial blood levels following parenteral administration are high but transient. Oral absorption in fasting, healthy humans is only about 15-30% as it is very susceptible to acid-catalyzed hydrolysis.",
+    "metabolism": "About 16-30% of an intramuscular dose is metabolized to penicilloic acid, an inactive metabolite. Small amounts of 6-aminopenicillanic acid have been recovered in the urine of patients on penicillin G. A small percentage of the drug appears to be hydroxylated into one or more active metabolites, which are also excreted via urine.",
+    "toxicity": "Oral LD<sub>50</sub> in rat is 8900 mg/kg [MSDS]. Neurological adverse reactions, including convulsions, may occur with the attainment of high CSF levels of beta-lactams. Neutropenia can occur if high doses are administered consistently for over 2 weeks. ",
+    "targets": [
+        [
+            "pbp3",
+            "Penicillin-binding protein 3",
+            "Staphylococcus aureus (strain USA300)"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "bla",
+            "Beta-lactamase TEM",
+            "Escherichia coli"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "SLCO4A1",
+            "Solute carrier organic anion transporter family member 4A1",
+            "Humans"
+        ],
+        [
+            "SLCO3A1",
+            "Solute carrier organic anion transporter family member 3A1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

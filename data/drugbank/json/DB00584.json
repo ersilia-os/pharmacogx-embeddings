@@ -1,0 +1,80 @@
+{
+    "pharmgkb_id": "PA449456",
+    "drugbank_id": "DB00584",
+    "names": [
+        "Enalapril",
+        "Acetec",
+        "Acetensil",
+        "Alapren",
+        "Amotac",
+        "Amprace",
+        "Dilvas",
+        "Diotensil",
+        "Drepatil",
+        "Enace",
+        "EnaHexal",
+        "Enal",
+        "Enalapoten",
+        "Enpril",
+        "Feliberal",
+        "Gadopril",
+        "Glioten",
+        "Kinfil",
+        "Vasotec IV"
+    ],
+    "description": "Enalapril is a prodrug belonging to the angiotensin-converting enzyme (ACE) inhibitor drug class that works on the renin-angiotensin-aldosterone system, which is responsible for the regulation of blood pressure and fluid and electrolyte homeostasis. Enalapril is an orally-active and long-acting nonsulphydryl antihypertensive agent that suppresses the renin-angiotensin-aldosterone system to lower blood pressure. It was developed from a targeted research programmed using molecular modelling.[A18459] Being a prodrug, enalapril is rapidly biotransformed into its active metabolite, [enalaprilat], which is responsible for the pharmacological actions of enalapril. The active metabolite of enalapril competitively inhibits the ACE to hinder the production of angiotensin II, a key component of the renin-angiotensin-aldosterone system that promotes vasoconstriction and renal reabsorption of sodium ions in the kidneys. Ultimately, enalaprilat works to reduce blood pressure and blood fluid volume.\r\n\r\nCommonly marketed under the trade name Vasotec, enalapril was first approved by the FDA in 1985 for the management of hypertension, heart failure, and asymptomatic left ventricular dysfunction. It is also found in a combination product containing [hydrochlorothiazide] that is used for the management of hypertension. The active metabolite enalaprilat is also available in oral tablets and intravenous formulations for injection.",
+    "indication": "Indicated for the management of essential or renovascular hypertension [L6586] as monotherapy or in combination with other antihypertensive agents, such as thiazide diuretics, for an additive effect.[label]\r\n\r\nIndicated for the treatment of symptomatic congestive heart failure, usually in combination with diuretics and digitalis.[label]\r\n\r\nIndicated for the management of asymptomatic left ventricular dysfunction in patients with an ejection fraction of \u2264 to 35 percent to decrease the rate of development of overt heart failure and the incidence of hospitalization for heart failure.[label]",
+    "pharmacodynamics": "Enalapril is an antihypertensive agent that exhibits natriuretic and uricosuric properties. Enalapril lowers blood pressure in all grades of essential and renovascular hypertension, and peripheral vascular resistance without causing an increase in heart rate.[A179137] Individuals with low-renin hypertensive population were still responsive to enalapril.[label] The duration of hypertensive effect in the systolic and diastolic blood pressure persists for at least 24 hours following initial administration of a single oral dose, and repeated daily administration of enalapril confers an additional reduction in blood pressure and a steady-state antihypertensive response may take several weeks.[A179140] In patients with severe congestive heart failure and inadequate clinical response to conventional antihypertensive therapies, treatment with enalapril resulted in improvements in cardiac performance as observed by a reduction in both preload and afterload, and improved clinical status long-term.[A179137] Furthermore, enalapril was shown to increase cardiac output and stroke volume while decreasing pulmonary capillary wedge pressure in patients with congestive heart failure refractory to conventional treatment with digitalis and diuretics. In clinical studies, enalapril reduced left ventricular mass, and did not affect cardiac function or myocardial perfusion during exercise.[A179134] Enalapril is not highly associated with the risk of bradycardia unlike most diuretics and beta-blockers [A179137] and it does not produce rebound hypertension upon discontinuation of therapy.[A179134] \r\n\r\nEnalapril is not reported to produce hypokalaemia, hyperglycaemia, hyperuricaemia or hypercholesterolaemia. In the kidneys, enalapril was shown to increase renal blood flow and decrease renal vascular resistance. It also augmented the glomerular filtration rate in patients with a glomerular filtration rate less than 80 mL/min.[A179134] When used in combination, enalapril was shown to attenuate the extent of drug-induced hypokalemia caused by hydrochlorothiazide [A179137] and the antihypertensive effects of both drugs were potentiated.[A18459]",
+    "mechanism-of-action": "The renin-angiotensin-aldosterone system (RAAS) is a signaling pathway that works in synergism with the sympathetic system to regulate blood pressure and fluid and electrolyte homeostasis. Activation of this system upon stimulation by different factors, such as low blood pressure and nerve impulses, leads to increased release of norepinephrine (NE) from sympathetic nerve terminals and effects on the vascular growth, vasoconstriction, and salt retention in the kidneys.[T28] Renin is released from \r\nRenin acts on the precursor prottein angiotensinogen, which is a plasma globulin synthesized from the liver, to produce cleaved peptide hormone angiotensin I.[T28] Angiotensin I then can be further cleaved by ACE to produce angiotensin II, a vasoconstrictive peptide hormone.[label] Present in different isoforms, angiotensin converting enzyme (ACE) is peptidyl dipeptidase enzyme expressed in various tissues, including the vascular tissues, such as the heart, brain, and kidneys.[T28] ACE also plays a role in inactivation of bradykinin, a potent vasodepressor peptide.[T28,label] Angiotensin II mediates various actions on the body by working on its G-protein coupled receptors, AT1 and AT2.[T28] It causes direct vasoconstriction of precapillary arterioles and postcapillary venules, inhibits the reuptake of NE thereby increasing available levels, stimulates the release of catecholamines from the adrenal medulla, reduces urinary excretion of sodium ions and water by promoting proximal tubular reabsorption, stimulates synthesis and release of aldosterone from the adrenal cortex, and stimulates hypertrophy of both vascular smooth muscle cells and cardiac myocytes.[L6619]\r\n\r\nEnalapril is a pharmacologically inactive prodrug that requires hepatic biotransformation to form [enalaprilat], its active metabolite that works on the RAAS to inhibit ACE.[label] Biotransformation is critial for the therapeutic actions of the drug, as enalapril itself is only a weak inhibitor of ACE.[A179131] ACE inhibition results in reduced production and plasma levels of angiotensin II, increased plasma renin activity due to the loss of feedback inhibition by angiotensin II, and decreased aldosterone secretion.[L6586] However, plasma aldosterone levels usually return to normal during long-term administration of enalapril.[A179140] Decreased levels of angiotensin II subsequently leads to the dilatation of peripheral vessles and reduced vascular resistance which in turn lower blood pressure.[A179140] While inhibition of ACE leading to suppression of RAAS is thought to be the primary mechanism of action of enalapril, the drug was shown to still exert antihypertensive effects on individuals with low-renin hypertension. It is suggested that enalapril may mediate its pharmacological actions via other modes of action that are not fully understood.[label] As ACE is structurally similar to kininase I, which is a carboxypeptidase that degrades bradykinin, whether increased levels of bradykinin play a role in the therapeutic effects of enalapril remains to be elucidated.[label]",
+    "absorption": "Following oral administration, the peak plasma concentrations (Cmax) of enalapril is achieved within 1 hour post dosing while the Cmax of enalaprilat occurs at three to four hours post dosing.[label] The steady-state is achieved by the fourth daily dose and there is no accumulation with repeated dosing.[A179134] However, accumulation of enalaprilat may occur in patients with creatinine clearance less than 30 mL/min.[A179131] Food intake is reported to have a minimal effect on drug absorption.[A179119] Following oral administration, about 60% of enalapril was absorbed.[label] Bioavailability of enalapril averaged about 40% when intravenous enalaprilat was used as a reference standard.[A18459]",
+    "metabolism": "About 60% of the absorbed dose is extensively hydrolyzed to enalaprilat via de-esterification mediated by hepatic esterases.[label] In humans, metabolism beyond bioactivation to enalaprilat is not observed.[A179134]",
+    "toxicity": "**LD<sub>50</sub> and Overdose**\r\n\r\nOral LD<sub>50</sub> in rats is 2973 mg/kg.[MSDS] Lethality was observed with single oral doses of enalapril above 1000 mg/kg in mice and greater than or equal to 1775 mg/kg in rats. Serum enalaprilat levels 100- and 200-fold higher than usually seen after therapeutic doses have been reported after ingestion of 300 mg and 440 mg of enalapril, respectively.[L6586] While there is limited data about enalapril overdose in humans, overdosage may result in marked hypotension and stupor based on the pharmacological properties of the drug. Most common adverse effects of enalapril include cough, hypotension, stupor, headache, dizziness and fatigue. If hypotension is seen, usual treatment of intravenous infusion of normal saline solution is recommended. Enalaprilat may be removed from systemic circulation with the use of hemodialysis. It has been removed from neonatal circulation by peritoneal dialysis.[label]\r\n\r\n**Nonclinical toxicology**\r\n\r\nMaternal and fetal toxicity occudred in some rabbits treated with enalapril at doses of 1 mg/kg/day or more. There was no fetotoxicity, expressed as a decrease in average fetal weight, or teratogenicity in rats treated with enalapril at doses up to 200 mg/kg/day, which is about 333 times the maximum human dose.[L6586] In mice and rats receiving enalapril at doses ranging from 90 to 180 mg/kg/day, there was no evidence of a tumorigenic effect. Neither enalapril or its active metabolite were shown to be mutagenic or genotoxic in _in vitro_ and _in vivo_ studies. There were no adverse effects on reproductive performance of male and female rats treated with up to 90 mg/kg/day of enalapril. [label]\r\n\r\n**Use in special populations**\r\n\r\nCaution is warranted in patients who are concurrently using another ACE inhibitors with enalapril, as there have been incidences of agranulocytosis with the use of captopril, which is another ACE inhibitor. This adverse event may be particularly significant in patients with renal impairment or collagen vascular disease.[label] As enalapril and enalaprilat were shown to be secreted in human milk in trace amounts, the use of enalaprilat in nursing women is not recommended.[L6586] Significant fetal transfer occurs with enalapril and enalaprilat thus the use of the drug in pregnant women should be strongly avoided. Caution is advised when enalapril is used in patients who are elderly or with renal impairment, as dosage adjustments may be appropriate. The antihypertensive effect of angiotensin converting enzyme inhibitors is generally lower in individuals of African descent, usually a low-renin hypertensive population.[label]",
+    "targets": [
+        [
+            "ACE",
+            "Angiotensin-converting enzyme",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

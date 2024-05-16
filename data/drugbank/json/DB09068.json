@@ -1,0 +1,96 @@
+{
+    "pharmgkb_id": "PA166122595",
+    "drugbank_id": "DB09068",
+    "names": [
+        "Vortioxetine"
+    ],
+    "description": "Vortioxetine is an antidepressant medication indicated for the treatment of major depressive disorder (MDD). It is classified as a serotonin modulator and stimulator (SMS) as it has a multimodal mechanism of action towards the serotonin neurotransmitter system whereby it simultaneously modulates one or more serotonin receptors and inhibits the reuptake of serotonin. More specifically, vortioxetine acts via the following biological mechanisms: as a serotonin reuptake inhibitor (SRI) through inhibition of the serotonin transporter, as a partial agonist of the 5-HT1B receptor, an agonist of 5-HT1A, and an antagonist of the 5-HT3, 5-HT1D, and 5-HT7 receptors. SMSs were developed because there are many different subtypes of serotonin receptors, however, not all of these receptors appear to be involved in the antidepressant effects of SRIs. Some serotonin receptors seem to play a relatively neutral or insignificant role in the regulation of mood, but others, such as 5-HT1A autoreceptors and 5-HT7 receptors, appear to play an oppositional role in the efficacy of SRIs in treating depression.",
+    "indication": "Vortioxetine is indicated for the treatment of major depressive disorder (MDD).",
+    "pharmacodynamics": "Vortioxetine binds with high affinity to the human serotonin transporter (Ki=1.6 nM), but not to the norepinephrine (Ki=113 nM) or dopamine (Ki>1000 nM) transporters. Vortioxetine potently and selectively inhibits reuptake of serotonin by inhibition of the serotonin transporter (IC50=5.4 nM). Specifically, vortioxetine binds to 5\u00adHT3 (Ki=3.7 nM), 5\u00adHT1A (Ki=15 nM), 5\u00adHT7 (Ki=19 nM), 5\u00adHT1D (Ki=54 nM), and 5\u00adHT1B (Ki=33 nM), receptors and is a 5\u00adHT3, 5\u00adHT1D, and 5\u00adHT7 receptor antagonist, 5\u00adHT1B receptor partial agonist, and 5\u00adHT1A receptor agonist.",
+    "mechanism-of-action": "Vortioxetine is classified as a serotonin modulator and simulator (SMS) as it has a multimodal mechanism of action towards the serotonin neurotransmitter system whereby it simultaneously modulates one or more serotonin receptors and inhibits the reuptake of serotonin. More specifically, vortioxetine acts via the following biological mechanisms: as a serotonin reuptake inhibitor (SRI) through inhibition of the serotonin transporter, while also acting as a partial agonist of the 5-HT1B receptor, an agonist of 5-HT1A, and antagonist of the 5-HT3, 5-HT1D, and 5-HT7 receptors.",
+    "absorption": "The maximal plasma vortioxetine concentration (Cmax) after dosing is reached within 7 to 11 hours postdose. Absolute bioavailability is 75%. No effect of food on the pharmacokinetics was observed.",
+    "metabolism": "Vortioxetine is extensively metabolized primarily through oxidation via cytochrome P450 isozymes CYP2D6, CYP3A4/5, CYP2C19, CYP2C9, CYP2A6, CYP2C8 and CYP2B6 and subsequent glucuronic acid conjugation. CYP2D6 is the primary enzyme catalyzing the metabolism of vortioxetine to its major, pharmacologically inactive, carboxylic acid metabolite, and poor metabolizers of CYP2D6 have approximately twice the vortioxetine plasma concentration of extensive metabolizers.",
+    "toxicity": "The most commonly reported adverse effects during clinical trials were nausea, diarrhea, and dry mouth. The FDA label includes a blackbox warning for the following risks and complications: serotonin syndrome, especially when combined with other serotonergic agents; increased risk of abnormal bleeding, especially when combined with NSAIDs, aspirin, or other drugs that affect coagulation; activation of mania/hypomania; hyponatremia; and suicidal thoughts and behaviour in children, adolescents, and young adults.",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1B",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

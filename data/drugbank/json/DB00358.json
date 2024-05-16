@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA450348",
+    "drugbank_id": "DB00358",
+    "names": [
+        "Mefloquine",
+        "Eloquine",
+        "Facital",
+        "Falcital",
+        "Larimef",
+        "Mefax",
+        "Mefliam",
+        "Meflon",
+        "Mefloquina",
+        "Mefque",
+        "Mephaquin",
+        "Mephaquin Lactab",
+        "Mequin",
+        "Mqf",
+        "Suton",
+        "Tropicur"
+    ],
+    "description": "Malaria is a protozoan disease that places an enormous burden on human health in endemic areas around the world. The 2020 World Health Organization malaria report indicates a 60% decrease in the global malaria fatality rate between 2000 to 2019.[L30618] Despite this, malaria remains a significant cause of morbidity and mortality; 90% of deaths from malaria occur in Africa. Individuals at the highest risk for malaria are those in disease na\u00efve populations, children under age 5, refugees in Central and Eastern Africa, nonimmune civilian and military travelers, pregnant women, and immigrants traveling to their place of origin.[L30623]\r\n\r\nMefloquine, commonly known as Lariam, is an antimalarial drug used for the prevention and treatment of malaria caused by infection with Plasmodium vivax and Plasmodium falciparum. The drug was initially discovered by the Walter Reed Army Institute of Research (WRAIR) during a malaria drug discovery program between 1963 until 1976. It was approved by the FDA in 1989, and was first marketed by Hoffman Laroche.[A226838] This drug has been the subject of widespread controversy due to concerns regarding neurotoxic effects; product information warns of potential serious neuropsychiatric effects.[A226838,L8953]",
+    "indication": "Mefloquine is indicated for the treatment of mild to moderate cases of malaria caused by Plasmodium falciparum and Plasmodium vivax.  It is effective against chloroquine-resistant forms of Plasmodium falciparum.  Mefloquine is also indicated for the prophylaxis of malaria caused by Plasmodium falciparum and Plasmodium vivax, including chloroquine-resistant forms of Plasmodium falciparum.[L8953] ",
+    "pharmacodynamics": "Sporozoites located in the salivary glands of mosquitoes infected with malaria parasites are introduced into the bloodstream of a human host during mosquito feeding. These sporozoites rapidly invade the liver, where they mature into liver-stage schizonts, rupturing and releasing 2,000 - 40,000 merozoites that invade red blood cells.[L30688] Mefloquine is an antimalarial drug acting as a blood schizonticide, preventing and treating malaria.[A226823,A226833]\r\n",
+    "mechanism-of-action": "The mechanism of action of mefloquine is not completely understood. Some studies suggest that mefloquine specifically targets the 80S ribosome of the Plasmodium falciparum, inhibiting protein synthesis and causing subsequent schizonticidal effects.[A172000] There are other studies in the literature with limited in vitro data on mefloquine's mechanism of action.[A226938,A15758]",
+    "absorption": "Mefloquine is readily absorbed from the gastrointestinal tract; food significantly increases absorption and increases bioavailability by 40%. The bioavailability of tablets compared with the oral solution preparation of mefloquine is over 85%. Cmax is achieved in 6 to 24 hours in healthy volunteers after a single dose.[A226868,L8953]  Average blood concentrations range between 50 to 110 ng/ml/mg/kg.[A226868] A weekly dose of 250 mg leads to steady-state plasma concentrations of 1000 to 2000 \u03bcg/L, after 7 to 10 weeks of administration.[L8953]",
+    "metabolism": "Mefloquine is heavily metabolized in the liver by the CYP3A4 enzyme.[A38732,L8953] Two metabolites have been identified; the main metabolite, 2,8-bis-trifluoromethyl-4-quinoline carboxylic acid, which inactive against plasmodium falciparum. The second metabolite, an alcohol, is found in small quantities.[L8953]",
+    "toxicity": "The oral TDLO of mefloquine in humans is 11 mg/kg/2W (intermittent) and  880 mg/kg in the rat. Intraperitoneal LD50 in the rat is 130 mg/kg.[L30668]\r\nSymptoms of an overdose with mefloquine may manifest as a worsening of adverse effects. In the case of an overdose, symptomatic and supportive care should be provided. There is no known antidote for an overdose with mefloquine.[L8953] Monitor cardiac function by ECG, follow neuropsychiatric status for at least 24 hours, and provide treatment as required.[L8953]  ",
+    "targets": [
+        [
+            "ADORA2A",
+            "Adenosine receptor A2a",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ],
+        [
+            "ACHE",
+            "Acetylcholinesterase",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,72 @@
+{
+    "pharmgkb_id": "PA449599",
+    "drugbank_id": "DB00813",
+    "names": [
+        "Fentanyl",
+        "Durogesic",
+        "Fentanest",
+        "Nasalfent",
+        "Rapinyl"
+    ],
+    "description": "Fentanyl, a potent opioid agonist, was developed in the 1950s to fill a need for strong and rapid analgesia.[A179542] Because of these characteristics, fentanyl is commonly used to treat chronic cancer pain or in anesthesia.[Label,L6598,L6601,L6604,L6607,L922,L6610,L6613] Fentanyl is related to other opioids like [morphine] and [oxycodone].\r\n\r\nFentanyl's high potency has also made it a common adulterant in illicit drugs, especially heroin.[A179542] In 2017, 47600 overdose deaths in the United States involved some opioid (over 2/3 of all overdose deaths).[L6748] Opioid overdoses kill an average of 11 Canadians daily.[L6751]\r\n\r\nFentanyl was FDA approved in 1968.[Label,L6598,L6601,L6604,L6607,L922,L6610,L6613]",
+    "indication": "Fentanyl intravenous or intramuscular injections are indicated for short term analgesia during induction, maintenance, and recovery from general or regional anesthesia.[Label] These injections are also used with a neuroleptic for premedication, induction, and as an adjunct to maintenance of anesthesia.[Label] Finally, fentanyl intravenous or intramuscular injections are used with oxygen for anesthesia in high risk patients.[Label]\r\n\r\nFentanyl sublingual tablets, transmucosal lozenges, buccal tablets, sublingual sprays, transdermal systems, and nasal sprays are indicated for the management of breakthrough pain in opioid tolerant cancer patients who require around the clock pain management.[L6598,L6601,L6604,L6607,L922,L6610]",
+    "pharmacodynamics": "Fentanyl produces strong analgesia through its activation of opioid receptors.[Label,A179533] It has a duration of action of several hours and a wider therapeutic index as patients develop tolerance to opioids.[Label] Fentanyl is associated with a risk of addiction and abuse and should not be mixed with alcohol or benzodiazepines.[Label,L6598,L6601,L6604,L6607,L922,L6610,L6613]",
+    "mechanism-of-action": "Fentanyl binds to opioid receptors, especially the mu opioid receptor, which are coupled to G-proteins.[A179533] Activation of opioid receptors causes GTP to be exchanged for GDP on the G-proteins which in turn down regulates adenylate cyclase, reducing concentrations of cAMP.[A179533] Reduced cAMP decreases cAMP dependant influx of calcium ions into the cell.[A179533] The exchange of GTP for GDP results in hyperpolarization of the cell and inhibition of nerve activity.[A179533]",
+    "absorption": "Fentanyl sublingual tablets are 54% bioavailable[L6598], transmucosal lozenges are 50% bioavailable[L6601], buccal tablets are 65% bioavailable[L6604], sublingual spray is 76% bioavailable[L6607], and nasal spray is 20% more bioavailable than transmucosal[L6610] (or approximately 64% bioavailable).\r\n\r\nFentanyl transmucosal lozenges reach a C<sub>max</sub> of 0.4\u00b10.1ng/mL for a 200\u00b5g dose and 2.5\u00b10.6ng/mL for a 1600\u00b5g dose with a T<sub>max</sub> of 20-40 minutes.[A179644] The AUC was 172\u00b196ng\\*min/mL for a 200\u00b5g dose and 1508\u00b11360ng\\*min/mL for a 1600\u00b5g dose.[A179644]\r\n\r\nFentanyl sublingual spray reached a C<sub>max</sub> of 0.20\u00b10.06ng/mL for a 100\u00b5g dose and 1.61\u00b10.60ng/mL for an 800\u00b5g dose with a T<sub>max</sub> of 0.69-1.25 hours, decreasing as the dose increased.[A179647] The AUC was 1.25\u00b10.67ng\\*h/mL for a 100\u00b5g dose and 10.38\u00b13.70ng\\*h/mL for a 800\u00b5g dose.[A179647]\r\n\r\nFentanyl transdermal systems reached a C<sub>max</sub> of 0.24\u00b10.20ng/mL with a T<sub>max</sub> of 3.6\u00b11.3h for a 25\u00b5g/h dose.[A179653] The AUC was 0.42\u00b10.35ng/mL\\*h.[A179653]\r\n\r\nFentanyl nasal spray reaches a C<sub>max</sub> of 815\u00b1301pg/mL with a T<sub>max</sub> of less than 1 hour for a 200\u00b5g/100\u00b5L dose.[A179656] The AUC was 3772pg\\*h/mL.[A179656]",
+    "metabolism": "Fentanyl is metabolized to a number of inactive metabolites.[A178639] Fentanyl is 99% N-dealkylated to norfentanyl by cytochrome P450.[A178639] It can also be amide hydrolyzed to despropionylfentanyl, or alkyl hydroxylated to hydroxyfentanyl which is N-dealkylated to hydroxynorfentanyl.[A178639]",
+    "toxicity": "Fentanyl has an intravenous LD<sub>50</sub> of 2.91mg/kg in rats[A1220], an oral LD<sub>50</sub> of 18mg/kg in rats and 368mg/kg in mice.[MSDS] The LD50 in humans is not known.\r\n\r\nSymptoms of overdose include respiratory depression, somnolence, stupor, coma, skeletal muscle flaccidity, cold and clammy skin, pupillary constriction, pulmonary edema, bradycardia, hypotension, airway obstruction, atypical snoring, and death.[Label,L6598,L6601,L6604,L6607,L922,L6610] In case of overdose, patients should receive naloxone or nalmefene to reverse the action of the opioids as well as supportive measures to maintain the airway or advanced life support in the case of cardiac arrest.[Label,L6598,L6601,L6604,L6607,L922,L6610]",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

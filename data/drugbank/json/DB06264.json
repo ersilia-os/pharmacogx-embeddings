@@ -1,0 +1,27 @@
+{
+    "pharmgkb_id": "PA166152940",
+    "drugbank_id": "DB06264",
+    "names": [
+        "Tolperisone",
+        "Musclex",
+        "Viveo"
+    ],
+    "description": "Tolperisone is an oral, centrally acting muscle relaxant. Its precise mechanism is not completely understood, though it blocks sodium and calcium channels. It possesses a high affinity for nervous system tissue, reaching highest concentrations in brain stem, spinal cord and peripheral nerves. Based on existing clinical data, Tolperisone is not sedating and does not interact with alcohol.",
+    "indication": "Investigated for use/treatment in neurologic disorders, spinal cord injuries, muscle spasm, back pain, and multiple sclerosis.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

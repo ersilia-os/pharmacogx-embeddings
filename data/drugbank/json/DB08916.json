@@ -1,0 +1,68 @@
+{
+    "pharmgkb_id": "PA165981154",
+    "drugbank_id": "DB08916",
+    "names": [
+        "Afatinib"
+    ],
+    "description": "Afatinib is a 4-anilinoquinazoline tyrosine kinase inhibitor in the form of a dimaleate salt available as Boehringer Ingelheim's brand name Gilotrif [FDA Label]. For oral use, afatinib tablets are a first-line (initial) treatment for patients with metastatic non-small cell lung cancer (NSCLC) with common epidermal growth factor receptor (EGFR) mutations as detected by an FDA-approved test [L2939]. Gilotrif (afatinib) is the first FDA-approved oncology product from Boehringer Ingelheim [L2939].",
+    "indication": "Afatinib is a kinase inhibitor indicated as monotherapy [L2937] for the first-line [FDA Label] treatment of (a) Epidermal Growth Factor Receptor (EGFR) TKI (tyrosine kinase inhibitor)-naive adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) whose tumours have non-resistant EGFR mutations as detected by an FDA-approved test [FDA Label], and (b) adult patients with locally advanced or metastatic NSCLC of squamous histology progressing on or after platinum-based chemotherapy [FDA Label, L2937].\r\n\r\nRecently, as of January 2018, the US FDA approved a supplemental New Drug Application for Boehringer Ingelheim's Gilotrif (afatinib) for the first line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have non-resistant epidermal growth factor receptor (EGFR) mutations as detected by an FDA-approved test [L2939]. The new label includes data on three additional EGFR mutations: L861Q, G719X and S768I [L2939].",
+    "pharmacodynamics": "Aberrant ErbB signaling triggered by receptor mutations, and/or amplification, and/or receptor ligand overexpression contributes to the malignant phenotype [L2937]. Mutation in EGFR defines a distinct molecular subtype of lung cancer [L2937].\r\n\r\nIn non-clinical disease models with ErbB pathway deregulation, afatinib as a single agent effectively blocks ErbB receptor signaling resulting in tumor growth inhibition or tumor regression [L2937]. NSCLC tumors with common activating EGFR mutations (Del 19, L858R) and several less common EGFR mutations in exon 18 (G719X) and exon 21 (L861Q) are particularly sensitive to afatinib treatment in non-clinical and clinical settings [L2937]. Limited non-clinical and/or clinical activity was observed in NSCLC tumors with insertion mutations in exon 20 [L2937].\r\n\r\nThe acquisition of a secondary T790M mutation is a major mechanism of acquired resistance to afatinib and gene dosage of the T790M-containing allele correlates with the degree of resistance in vitro [L2937]. The T790M mutation is found in approximately 50% of patients' tumors upon disease progression on afatinib, for which T790M targeted EGFR TKIs may be considered as a next line treatment option [L2937]. Other potential mechanisms of resistance to afatinib have been suggested preclinically and MET gene amplification has been observed clinically [L2937].\r\n\r\nAt the same time, the effect of multiple doses of afatinib (50 mg once daily) on cardiac electrophysiology and the QTc interval was evaluated in an open-label, single-arm study in patients with relapsed or refractory solid tumors [FDA Label]. Ultimately, no large changes in the mean QTc interval (i.e., >20 ms) were detected in the study [FDA Label].",
+    "mechanism-of-action": "Afatinib is a potent and selective, irreversible ErbB family blocker [L2937]. Afatinib covalently binds to and irreversibly blocks signaling from all homo and heterodimers formed by the ErbB family members EGFR (ErbB1), HER2 (ErbB2), ErbB3 and ErbB4 [L2937].\r\n\r\nIn particular, afatinib covalently binds to the kinase domains of EGFR (ErbB1), HER2 (ErbB2), and HER4 (ErbB4) and irreversibly inhibits tyrosine kinase autophosphorylation, resulting in downregulation of ErbB signaling [FDA Label]. Certain mutations in EGFR, including non-resistant mutations in its kinase domain, can result in increased autophosphorylation of the receptor, leading to receptor activation, sometimes in the absence of ligand binding, and can support cell proliferation in NSCLC [FDA Label]. Non-resistant mutations are defined as those occurring in exons constituting the kinase domain of EGFR that lead to increased receptor activation and where efficacy is predicted by 1) clinically meaningful tumor shrinkage with the recommended dose of afatinib and/or 2) inhibition of cellular proliferation or EGFR tyrosine kinase phosphorylation at concentrations of afatinib sustainable at the recommended dosage according to validated methods [FDA Label]. The most commonly found of these mutations are exon 21 L858R substitutions and exon 19 deletions [FDA Label].\r\n\r\nMoreover, afatinib demonstrated inhibition of autophosphorylation and/or in vitro proliferation of cell lines expressing wild-type EGFR and in those expressing selected EGFR exon 19 deletion mutations, exon 21 L858R mutations, or other less common non-resistant mutations, at afatinib concentrations achieved in patients [FDA Label]. In addition, afatinib inhibited in vitro proliferation of cell lines overexpressing HER2 [FDA Label].",
+    "absorption": "Following oral administration, time to peak plasma concentration (Tmax) is 2 to 5 hours [FDA Label]. Maximum concentration (Cmax) and area under the concentration-time curve from time zero to infinity (AUC0-\u221e) values increased slightly more than dose proportional in the range of 20 to 50 mg [FDA Label]. The geometric mean relative bioavailability of 20 mg tablets was 92% as compared to an oral solution [FDA Label].\r\n\r\nAdditionally, systemic exposure to afatinib is decreased by 50% (Cmax) and 39% (AUC0-\u221e), when administered with a high-fat meal compared to administration in the fasted state [L2937]. Based on population pharmacokinetic data derived from clinical trials in various tumor types, an average decrease of 26% in AUCss was observed when food was consumed within 3 hours before or 1 hour after taking afatinib [L2937].  ",
+    "metabolism": "Enzyme-catalyzed metabolic reactions play a negligible role for afatinib in vivo [L2937]. Covalent adducts to proteins were the major circulating metabolites of afatinib [L2937].",
+    "toxicity": "Most common adverse reactions (\u226520%) are diarrhea, rash/dermatitis, acneiform, stomatitis, paronychia, dry skin, decreased appetite, pruritus [FDA Label].\r\n\r\nConversely, overdose in 2 healthy adolescents involving the ingestion of 360 mg each of afatinib (as part of a mixed drug ingestion) was associated with adverse events of nausea, vomiting, asthenia, dizziness, headache, abdominal pain and elevated amylase (< 1.5 times ULN) [L2937]. Both individuals recovered from these adverse events [L2937].",
+    "targets": [
+        [
+            "EGFR",
+            "Epidermal growth factor receptor",
+            "Humans"
+        ],
+        [
+            "ERBB2",
+            "Receptor tyrosine-protein kinase erbB-2",
+            "Humans"
+        ],
+        [
+            "ERBB4",
+            "Receptor tyrosine-protein kinase erbB-4",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB08916",
+            "Drug Name": "Afatinib",
+            "Gene Symbol": "EGFR",
+            "RS ID (Genotype)": "rs121913444",
+            "Effect Description": "The presence of this polymorphism in EGFR is associated with a higher response rate to afatinib."
+        },
+        {
+            "DrugBank ID": "DB08916",
+            "Drug Name": "Afatinib",
+            "Gene Symbol": "EGFR",
+            "RS ID (Genotype)": "rs121434568",
+            "Effect Description": "The presence of this polymorphism in EGFR is associated with a higher response rate to afatinib."
+        },
+        {
+            "DrugBank ID": "DB08916",
+            "Drug Name": "Afatinib",
+            "Gene Symbol": "EGFR",
+            "RS ID (Genotype)": "rs28929495",
+            "Effect Description": "The presence of this polymorphism in EGFR is associated with a higher response rate to afatinib."
+        }
+    ]
+}

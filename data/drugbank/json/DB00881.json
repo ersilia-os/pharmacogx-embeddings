@@ -1,0 +1,59 @@
+{
+    "pharmgkb_id": "PA451205",
+    "drugbank_id": "DB00881",
+    "names": [
+        "Quinapril",
+        "Accuprin",
+        "Accupro",
+        "Acequin",
+        "Acuitel",
+        "Korec",
+        "Quinazil"
+    ],
+    "description": "Quinapril is the ethyl ester prodrug of the non-sulfhydryl angiotensin converting enzyme inhibitor quinaprilat.[L8420,L8423] It is used to treat hypertension and heart failure.[L8420,L8423] ACE inhibitors are commonly used as a first line therapy in the treatment of hypertension, along with thiazide diuretics or beta blockers.[A184844]\r\n\r\nQuinapril was granted FDA approval on 19 November 1991.[L8420] A combination tablet with [hydrochlorothiazide] was also approved on 28 December 1999.[L8423]",
+    "indication": "Quinapril is indicated for the treatment of hypertension and as an adjunct therapy in the treatment of heart failure.[L8420] Quinapril in combination with hydrochlorothiazide is indicated for the treatment of hypertension.[L8423]",
+    "pharmacodynamics": "Quinapril is a prodrug of an angiotensin converting enzyme (ACE) inhibitor used in the treatment of hypertension or adjunct in the treatment of heart failure.[A1329,A1331,L8420] Quinapril has a wide therapeutic window and a long duration of action as it is given in doses of 10-80mg once daily.[L8420]",
+    "mechanism-of-action": "Angiotensin II constricts coronary blood vessels and is positively inotropic, which under normal circumstances, would increase vascular resistance and oxygen consumption.[A184781] This action can eventually lead to myocyte hypertrophy and vascular smooth muscle cell proliferation.[A184781] Angiotensin II also stimulates production of plasminogen activator inhibitor-1 (PAI-1), increasing the risk of thrombosis.[A1331]\r\n\r\nQuinaprilat prevents the conversion of angiotensin I to angiotensin II by inhibition of angiotensin converting enzyme, and also reduces the breakdown of bradykinin.[A1329,A1331] Reduced levels of angiotensin II lead to lower levels of PAI-1, reducing the risk of thrombosis, especially after a myocardial infarction.[A1331]",
+    "absorption": "Quinapril if 50-80% bioavailable.[A1329] Quinapril has a T<sub>max</sub> of <1 hour,[L8420] while quinaprilat has a T<sub>max</sub> of 2.5h.[A1329] The C<sub>max</sub> of quinaprilat is highly variable but reaches 1526ng/mL with an AUC of 2443ng\\*h/mL in healthy males given a 10mg dose.[A1329] A high fat meal reduces the absorption of quinapril by 25-30%.[A1329]",
+    "metabolism": "Quinapril is de-esterified to the active quinaprilat or dehydrated to form the inactive PD109488.[A1329,A184943] PD109488 can undergo O-deethylation to form another inactive metabolite, PD113413.[A1329,A184943]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is 3541mg/kg and in mice is 1739mg/kg.[L8429]\r\n\r\nPatients experiencing an overdose may present with symptoms of severe hypotension.[L8420,L8423] Due to the extensive protein binding of quinapril and the active metabolite quinaprilat, hemodialysis is not expected to remove the drug from circulation.[L8420,L8423] Treat patients with symptomatic and supportive measures, including normal saline infusions to restore normal blood pressure.[L8420,L8423]",
+    "targets": [
+        [
+            "ACE",
+            "Angiotensin-converting enzyme",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

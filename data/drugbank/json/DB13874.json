@@ -1,0 +1,133 @@
+{
+    "pharmgkb_id": "PA166177484",
+    "drugbank_id": "DB13874",
+    "names": [
+        "Enasidenib"
+    ],
+    "description": "Enasidenib is an orally available treatment for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with specific mutations in the isocitrate dehydrogenase 2 (IDH2) gene, which is a recurrent mutation detected in 12-20% of adult patients with AML [A20344, A20345]. Patients eligible for this treatment are selected by testing the presence of IDH2 mutations in the blood or bone marrow. This small molecule acts as an allosteric inhibitor of mutant IDH2 enzyme to prevent cell growth, and it also has shown to block several other enzymes that play a role in abnormal cell differentiation. First developed by Agios Pharmaceuticals and licensed to Celgene, enasidenib was approved by U.S. Food and Drug Administration on August 1, 2017.",
+    "indication": "Enasidenib is indicated for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with an isocitrate dehydrogenase-2 (IDH2) mutation as detected by an FDA-approved test.[L49981] ",
+    "pharmacodynamics": "Inhibition of the mutant IDH2 enzyme by enasidenib led to decreased 2-hydroxyglutarate (2-HG) levels and induced myeloid differentiation in vitro and in vivo in mouse xenograft models of IDH2 mutated AML. In blood samples from patients with AML with mutated IDH2, enasidenib decreased 2-HG levels, reduced blast counts, and increased percentages of mature myeloid cells.[L49981]  In a study involving adult patients with relapsed or refractory AML, an overall response rate of 40.3% was achieved in enasidenib therapy, which was associated with cellular differentiation and maturation without evidence of aplasia.[A20345]  \r\n\r\nThe potential for QTc prolongation with enasidenib was evaluated in an open-label study in patients with advanced hematologic malignancies with an IDH2 mutation. No large mean changes in the QTc interval (>20 ms) were observed following treatment with enasidenib.[L49981]  ",
+    "mechanism-of-action": "Enasidenib is a selective inhibitor of IDH2, a mitochondria-localized enzyme involved in diverse cellular processes, including adaptation to hypoxia, histone demethylation and DNA modification [A20344]. Wild-type IDH proteins play a cruicial role in the Krebs/citric acid cycle where it catalyzes the oxidative decarboxylation of isocitrate to \u03b1-ketoglutarate. In comparison, mutant forms of IDH2 enzyme mediates a neomorphic activity and catalyze reduction of \u03b1-KG to the (R) enantiomer of 2-hydroxyglutarate, which is associated with DNA and histone hypermethylation, altered gene expression and blocked cellular differentiation of hematopoietic progenitor cells [A20344]. Enasidenib primarily targets the mutant IDH2 variants R140Q, R172S, and R172K with higher potency than the wild type enzyme form [FDA Label]. Inhibition of the enzyme leads to decreased levels of 2-hydroxyglutarate (2-HG) and promotion of proper differentiation and clonal proliferation of cells of the myeloid lineage [A20345]. ",
+    "absorption": "The peak plasma concentration (C<sub>max</sub>) is 1.4 mcg/mL [coefficient of variation (CV%) 50%] after a single dose of 100 mg, and 13.1 mcg/mL (CV% 45%) at steady state for 100 mg daily. The area under concentration-time curve (AUC) of enasidenib increases in an approximately dose-proportional manner from 50 mg (0.5 times approved recommended dosage) to 450 mg (4.5 times approved recommended dosage) daily dose. Steady-state plasma levels are reached within 29 days of once-daily dosing. Accumulation is approximately 10-fold when administered once daily.[L49981]   \r\n\r\nThe absolute bioavailability after a 100 mg oral dose of enasidenib is approximately 57%. After a single oral dose, the median time to Cmax (T<sub>max</sub>) is 4 hours.[L49981]   ",
+    "metabolism": "Metabolism of enasidenib is mediated by multiple cytochrome P450 (CYP) enzymes (e.g.,CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4), and by multiple UDP glucuronosyl transferases (UGTs) (e.g., UGT1A1, UGT1A3, UGT1A4, UGT1A9, UGT2B7, and UGT2B15) in vitro. Further metabolism of the metabolite AGI-16903 is also mediated by multiple enzymes (e.g., CYP1A2, CYP2C19, CYP3A4, UGT1A1, UGT1A3, and UGT1A9) in vitro. Enasidenib accounted for 89% of the radioactivity in circulation and AGI-16903, the N-dealkylated metabolite, represented 10% of the circulating radioactivity.[L49981]  ",
+    "toxicity": "Based on animal embryo-fetal toxicity studies, enasidenib can cause fetal harm when administered to a pregnant woman. There are no available data on enasidenib use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage. In animal embryo-fetal toxicity studies, oral administration of enasidenib to pregnant rats and rabbits during organogenesis was associated with embryo-fetal mortality and alterations to growth starting at 0.1 times the steady-state clinical exposure based on the AUC at the recommended human dose. Advise pregnant women of the potential risk to a fetus.[L49981]\r\n\r\nCarcinogenicity studies have not been performed with enasidenib.[L49981]\r\n\r\nEnasidenib was not mutagenic in an in vitro bacterial reverse mutation (Ames) assay. Enasidenib was not clastogenic in an in vitro human lymphocyte chromosomal aberration assay, or in an in vivo rat bone marrow micronucleus assay.[L49981]\r\n\r\nFertility studies in animals have not been conducted with enasidenib. In repeat-dose toxicity studies with twice daily oral administration of enasidenib in rats up to 90 days in duration, changes were reported in male and female reproductive organs including seminiferous tubular degeneration, hypospermia, atrophy of the seminal vesicle and prostate, decreased corpora lutea and increased atretic follicles in the ovaries, and atrophy in the uterus.[L49981]  ",
+    "targets": [
+        [
+            "IDH2",
+            "Isocitrate dehydrogenase [NADP], mitochondrial",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferase 1-4",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

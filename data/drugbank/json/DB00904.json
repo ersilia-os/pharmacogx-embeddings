@@ -1,0 +1,97 @@
+{
+    "pharmgkb_id": "PA450705",
+    "drugbank_id": "DB00904",
+    "names": [
+        "Ondansetron",
+        "Zophren"
+    ],
+    "description": "A competitive serotonin type 3 receptor antagonist. It is effective in the treatment of nausea and vomiting caused by cytotoxic chemotherapy drugs, including cisplatin, and has reported anxiolytic and neuroleptic properties.\r\n\r\nHaving been developed in the 1980s by GlaxoSmithKline and approved by the US FDA since January 1991, ondansetron has demonstrated a long history of use and efficacy. Commonly formulated as oral tablets, orally disintegrating tablets (ODT), and injections, and available as generic products as well, ondansetron continues to see contemporary innovations in its formulation and use, including the development of orally soluble films that are both discreet in administration and less of a burden in comparison to having patients attempt to swallow pills during emesis.[L5221]\r\n\r\nThe FDA withdrew its approval for the use of all intravenous drug products containing more than 16 mg of ondansetron hydrochloride in a single dose, due to a high risk of QT prolongation.[L44067,L43942]",
+    "indication": "In the adult patient population:\r\ni) orally administered ondansetron tablets and orally disintegrating tablets (ODT) are indicated for:\r\n- the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, including high dose (ie. greater than or equal to 50 mg/m2) cisplatin therapy, and radiotherapy, and\r\n- the prevention and treatment of postoperative nausea and vomiting\r\n\r\nii) intravenously administered ondansetron injection formulations are indicated for:\r\n- the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy, including high dose (ie. greater than or equal to 50 mg/m2) cisplatin therapy, and\r\n- the prevention and treatment of postoperative nausea and vomiting\r\n\r\nIn the pediatric (4-18 years of age) patient population:\r\ni) ondansetron was effective and well tolerated when given to children 4-12 years of age for the treatment of post-chemotherapy induced nausea and vomiting,\r\nii) ondansetron tablets, ondansetron ODT, ondansetron injection are not indicated for the treatment of children 3 years of age or younger,\r\niii) ondansetron tablets, ondansetron ODT, ondansetron injection are not indicated for use in any age group of the pediatric population for the treatment of post-radiotherapy induced nausea and vomiting, and\r\niV) ondansetron tablets, ondansetron ODT, ondansetron injection are not indicated for use in any age group of the pediatric population for the treatment of postoperative nausea and vomiting\r\n\r\nIn the geriatric (>65 years of age) patient population:\r\ni) efficacy and tolerance of ondansetron were similar to that observed in younger adults for the treatment of post-chemotherapy and radiotherapy-induced nausea and vomiting, and\r\nii) clinical experience in the use of ondansetron in the prevention and treatment of postoperative nausea and vomiting is limited and is not indicated for use in the geriatric patient population ",
+    "pharmacodynamics": "Ondansetron is a highly specific and selective serotonin 5-HT<sub>3</sub> receptor antagonist, not shown to have activity at other known serotonin receptors and with low affinity for dopamine receptors [FDA Label], [A1160, A1161]. The serotonin 5-HT<sub>3</sub> receptors are located on the nerve terminals of the vagus in the periphery, and centrally in the chemoreceptor trigger zone of the area postrema [FDA Label], [A1160, A1161]. The temporal relationship between the emetogenic action of emetogenic drugs and the release of serotonin, as well as the efficacy of antiemetic agents, suggest that chemotherapeutic agents release serotonin from the enterochromaffin cells of the small intestine by causing degenerative changes in the GI tract [FDA Label], [A1160, A1161]. The serotonin then stimulates the vagal and splanchnic nerve receptors that project to the medullary vomiting center, as well as the 5-HT<sub>3</sub> receptors in the area postrema, thus initiating the vomiting reflex, causing nausea and vomiting [FDA Label], [A1160, A1161].\r\n\r\nMoreover, the effect of ondansetron on the QTc interval was evaluated in a double-blind, randomized, placebo and positive (moxifloxacin) controlled, crossover study in 58 healthy adult men and women [F3181, F3184]. Ondansetron was tested at single doses of 8 mg and 32 mg infused intravenously over 15 minutes [F3181, F3184]. At the highest tested dose of 32 mg, prolongation of the Fridericia-corrected QTc interval (QT/RR0.33=QTcF) was observed from 15 min to 4 h after the start of the 15 min infusion, with a maximum mean (upper limit of 90% CI) difference in QTcF from placebo after baseline-correction of 19.6 (21.5) msec at 20 min [F3181, F3184]. At the lower tested dose of 8 mg, QTc prolongation was observed from 15 min to 1 h after the start of the 15-minute infusion, with a maximum mean (upper limit of 90% CI) difference in QTcF from placebo after baseline-correction of 5.8 (7.8) msec at 15 min [F3181, F3184]. The magnitude of QTc prolongation with ondansetron is expected to be greater if the infusion rate is faster than 15 minutes [F3181, F3184]. The 32 mg intravenous dose of ondansetron must not be administered [F3181, F3184]. No treatment-related effects on the QRS duration or the PR interval were observed at either the 8 or 32 mg dose [F3181, F3184].\r\n\r\nAn ECG assessment study has not been performed for orally administered ondansetron [F3181, F3184]. On the basis of pharmacokinetic-pharmacodynamic modelling, an 8 mg oral dose of ondansetron is predicted to cause a mean QTcF increase of 0.7 ms (90% CI -2.1, 3.3) at steady-state, assuming a mean maximal plasma concentration of 24.7 ng/mL (95% CI 21.1, 29.0) [F3181, F3184]. The magnitude of QTc prolongation at the recommended 5 mg/m2 dose in pediatrics has not been studied, but pharmacokinetic-pharmacodynamic modeling predicts a mean increase of 6.6 ms (90% CI 2.8, 10.7) at maximal plasma concentrations [F3181, F3184]. \r\n\r\nIn healthy subjects, single intravenous doses of 0.15 mg/kg of ondansetron had no effect on esophageal motility, gastric motility, lower esophageal sphincter pressure, or small intestinal transit time [F3178]. Multiday administration of ondansetron has been shown to slow colonic transit in healthy subjects [F3178]. Ondansetron has no effect on plasma prolactin concentrations [F3178].",
+    "mechanism-of-action": "Ondansetron is a selective antagonist of the serotonin receptor subtype, 5-HT3 [F3178, F3181, F3184].\r\n\r\nCytotoxic chemotherapy and radiotherapy are associated with the release of serotonin (5-HT) from enterochromaffin cells of the small intestine, presumably initiating a vomiting reflex through stimulation of 5-HT3 receptors located on vagal afferents [F3178, F3181, F3184]. Ondansetron may block the initiation of this reflex. Activation of vagal afferents may also cause a central release of serotonin from the chemoreceptor trigger zone of the area postrema, located on the floor of the fourth ventricle [F3178, F3181, F3184]. Thus, the antiemetic effect of ondansetron is probably due to the selective antagonism of 5-HT3 receptors on neurons located in either the peripheral or central nervous systems, or both [F3178, F3181, F3184].\r\n\r\nAlthough the mechanisms of action of ondansetron in treating postoperative nausea and vomiting and cytotoxic induced nausea and vomiting may share similar pathways, the role of ondansetron in opiate-induced emesis has not yet been formally established [F3181, F3184].",
+    "absorption": "Ondansetron is absorbed from the gastrointestinal tract and undergoes some limited first-pass metabolism [F3178]. Mean bioavailability in healthy subjects, following administration of a single 8-mg tablet, was recorded as being approximately 56% to 60% [F3178, F3181, F3184]. Bioavailability is also slightly enhanced by the presence of food [F3178].\r\n\r\nOndansetron systemic exposure does not increase proportionately to dose [F3178]. The AUC from a 16-mg tablet was 24% greater than predicted from an 8-mg tablet dose [F3178]. This may reflect some reduction of first-pass metabolism at higher oral doses [F3178].",
+    "metabolism": "In vitro metabolism studies have shown that ondansetron is a substrate for human hepatic cytochrome P450 enzymes, including CYP1A2, CYP2D6 and CYP3A4 [F3178, F3181, F3184]. In terms of overall ondansetron turnover, CYP3A4 played the predominant role [F3178, F3181, F3184]. Because of the multiplicity of metabolic enzymes capable of metabolizing ondansetron, it is likely that inhibition or loss of one enzyme (e.g. CYP2D6 enzyme deficiency) will be compensated by others and may result in little change in overall rates of ondansetron clearance [F3178, F3181, F3184].\r\n\r\nFollowing oral or IV administration, ondansetron is extensively metabolised and excreted in the urine and faeces [F3178, F3181, F3184]. In humans, less than 10% of the dose is excreted unchanged in the urine [F3178, F3181, F3184]. The major urinary metabolites are glucuronide conjugates (45%), sulphate conjugates (20%) and hydroxylation products (10%) [F3178, F3181, F3184]. The primary metabolic pathway is subsequently hydroxylation on the indole ring followed by subsequent glucuronide or sulfate conjugation [F3178, F3181, F3184]. Although some nonconjugated metabolites have pharmacologic activity, these are not found in plasma at concentrations likely to significantly contribute to the biological activity of ondansetron [F3178, F3181, F3184].",
+    "toxicity": "At present, there is little information concerning overdosage with ondansetron [F3178, F3181, F3184]. Nevertheless, there have been certain cases of somewhat idiosyncratic adverse effects associated with particular dosages of ondansetron used [F3178, F3181, F3184].\r\n\r\n\u201cSudden blindness\u201d (amaurosis) of 2 to 3 minutes duration plus severe constipation occurred in one patient that was administered 72 mg of ondansetron intravenously as a single dose [F3178, F3181, F3184]. Hypotension (and faintness) occurred in another patient that took 48 mg of oral ondansetron [F3178, F3181, F3184]. Following infusion of 32 mg over only a 4-minute period, a vasovagal episode with transient second-degree heart block was observed [F3178, F3181, F3184]. Neuromuscular abnormalities, autonomic instability, somnolence, and a brief generalized tonic-clonic seizure (which resolved after a dose of benzodiazepine) were observed in a 12-month-old infant who ingested seven or eight 8-mg ondansetron tablets (approximately forty times the recommended 0.1-0.15 mg/kg dose for a pediatric patient) [F3178, F3181, F3184]. In all instances, however, the events resolved completely [F3178, F3181, F3184].\r\n\r\nThe safety of ondansetron for use in human pregnancy has not been established [F3181, F3184]. Ondansetron is not teratogenic in animals [F3181, F3184]. However, as animal studies are not always predictive of human response, the use of ondansetron in pregnancy is not recommended [F3181, F3184].\r\n\r\nOndansetron is excreted in the milk of lactating rats [F3181, F3184]. It is not known if it is excreted in human milk, however, nursing is not recommended during treatment with ondansetron [F3181, F3184].\r\n\r\nInsufficient information is available to provide dosage recommendations for children 3 years of age or younger [F3181, F3184]. ",
+    "targets": [
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "HTR4",
+            "5-hydroxytryptamine receptor 4",
+            "Humans"
+        ],
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1B",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00904",
+            "Drug Name": "Ondansetron",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "Patients with this genotype in CYP2D6 are ultrarapid metabolizers with an increased risk of poor therapeutic response and vomiting when treated with ondansteron."
+        },
+        {
+            "DrugBank ID": "DB00904",
+            "Drug Name": "Ondansetron",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "Patients with this genotype in CYP2D6 are ultrarapid metabolizers with an increased risk of poor therapeutic response and vomiting when treated with ondansteron."
+        }
+    ]
+}

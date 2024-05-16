@@ -1,0 +1,80 @@
+{
+    "pharmgkb_id": "PA451771",
+    "drugbank_id": "DB00831",
+    "names": [
+        "Trifluoperazine",
+        "Eskazine",
+        "Eskazinyl",
+        "Jatroneural",
+        "Modalina",
+        "Stelazine",
+        "Terfluzine",
+        "Trifluoperaz",
+        "Triftazin"
+    ],
+    "description": "A phenothiazine with actions similar to chlorpromazine. It is used as an antipsychotic and an antiemetic.",
+    "indication": "For the treatment of anxiety disorders, depressive symptoms secondary to anxiety and agitation.",
+    "pharmacodynamics": "Trifluoperazine is a trifluoro-methyl phenothiazine derivative intended for the management of schizophrenia and other psychotic disorders. Trifluoperazine has not been shown effective in the management of behaviorial complications in patients with mental retardation.",
+    "mechanism-of-action": "Trifluoperazine blocks postsynaptic mesolimbic dopaminergic D1 and D2 receptors in the brain; depresses the release of hypothalamic and hypophyseal hormones and is believed to depress the reticular activating system thus affecting basal metabolism, body temperature, wakefulness, vasomotor tone, and emesis.",
+    "absorption": null,
+    "metabolism": "Hepatic.",
+    "toxicity": "Symptoms of overdose include agitation, coma, convulsions, difficulty breathing, difficulty swallowing, dry mouth, extreme sleepiness, fever, intestinal blockage, irregular heart rate, low blood pressure, and restlessness.",
+    "targets": [
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "CALY",
+            "Neuron-specific vesicular protein calcyon",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "CALM1",
+            "Calmodulin",
+            "Humans"
+        ],
+        [
+            "TNNC1",
+            "Troponin C, slow skeletal and cardiac muscles",
+            "Humans"
+        ],
+        [
+            "S100A4",
+            "Protein S100-A4",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "XDH",
+            "Xanthine dehydrogenase/oxidase",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferase 1-4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

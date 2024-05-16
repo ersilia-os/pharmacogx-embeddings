@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA166014703",
+    "drugbank_id": "DB06414",
+    "names": [
+        "Etravirine"
+    ],
+    "description": "Etravirine is an antiretroviral agent more specifically classified as a Non-Nucleoside Reverse Transcriptase Inhibitor (NNRTI). Etraverine is used clinically for the treatment of human immunodeficiency virus type 1 (HIV-1) infection. On January 18, 2007, the FDA granted accelerated approved for the use of etravirine 100mg tablets in the treatment of adult HIV-1 infection documented to be resistant to therapy with other NNRTIs and antiretroviral agents. On March 26, 2012, approval was extended for use in treatment-experienced pediatric patients 6 to 18 years of age, weighing at least 16 kg. Etravarine must always be used in combination with other antiretroviral drugs. \r\n\r\nEtravirine exerts its effects via direct inhibition of the reverse transcriptase enzyme of human immunodeficiency virus type 1 (HIV-1), and consequently blocks DNA-dependent and RNA-dependent polymerase activity. Etravirine does not inhibit human DNA polymerase alpha, beta or gamma. \r\n\r\nCommon side effects of use include mild to moderate rash within the first 6 weeks of therapy, nausea, diarrhea and peripheral neuropathy. Patients are advised to immediately contact their healthcare provider if a rash develops. \r\n\r\nIn 2009, postmarketing case reports of Stevens-Johnson Syndrome, toxic epidermal necrolysis, erythema multiforme, and other hypersensitivity reactions lead to a revision of etravirine's \"Warnings and Precautions,\" as well as notification of health care providers. \r\n\r\nIn 2013, reports of Autoimmune disorders (such as Graves\u2019 disease, polymyositis, and Guillain-Barr\u00e9 syndrome) in the setting of immune reconstitution, as well as more in depth information about the development of rashes in patients taking etravirine, lead to a modification of etravirine's monograph.",
+    "indication": "Etravirine is indicated, in combination with other antiretroviral agents, for the treatment of HIV-1 infection in treatment-experienced patients \u22652 years of age.[L9320]",
+    "pharmacodynamics": "Clinical trials have shown no prolongation of QT intervals on electrocardiograms after 8 days of dosing. ",
+    "mechanism-of-action": "Etravirine exerts its effects via direct inhibition of the reverse transcriptase enzyme of human immunodeficiency virus type 1 (HIV-1).  It directly binds reverse transcriptase and consequently blocks DNA-dependent and RNA-dependent polymerase activity. Etravirine does not inhibit human DNA polymerase alpha, beta or gamma. \r\n",
+    "absorption": "Maximum oral absorption is achieved in 2.5-4 hours. \r\n\r\nAbsorption is unaffected by the concomitant use of oral ranitidine or omeprazole, which decrease gastric acidity.  \r\n\r\nAdministration under fasting conditions resulted in a near 50% decrease in systemic exposure (AUC) when compared to administration after a meal.  ",
+    "metabolism": "Metabolized (in vitro) by the liver CYP450 enzymes: CYP3A4, CYP2C9, CYP2C19. The major metabolites formed by a methyl hydroxylation of the dimethylbenzonitrile moiety retained less than 90% of etravirine's activity.    ",
+    "toxicity": "\r\n",
+    "targets": [
+        [
+            "gag-pol",
+            "Gag-Pol polyprotein",
+            null
+        ],
+        [
+            "gag-pol",
+            "Gag-Pol polyprotein",
+            null
+        ],
+        [
+            "pol",
+            "Reverse transcriptase/RNaseH",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCB4",
+            "Multidrug resistance protein 3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

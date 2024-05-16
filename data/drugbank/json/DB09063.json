@@ -1,0 +1,43 @@
+{
+    "pharmgkb_id": "PA166124616",
+    "drugbank_id": "DB09063",
+    "names": [
+        "Ceritinib",
+        "Zykadia"
+    ],
+    "description": "Ceritinib is used for the treatment of adults with anaplastic lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC) following failure (secondary to resistance or intolerance) of prior crizotinib therapy. About 4% of patients with NSCLC have a chromosomal rearrangement that generates a fusion gene between EML4 (echinoderm microtubule-associated protein-like 4) and ALK (anaplastic lymphoma kinase), which results in constitutive kinase activity that contributes to carcinogenesis and seems to drive the malignant phenotype. Ceritinib exerts its therapeutic effect by inhibiting autophosphorylation of ALK, ALK-mediated phosphorylation of the downstream signaling protein STAT3, and proliferation of ALK-dependent cancer cells. Following treatment with crizotinib (a first-generation ALK inhibitor), most tumours develop drug resistance due to mutations in key \"gatekeeper\" residues of the enzyme. This occurrence led to development of novel second-generation ALK inhibitors such as ceritinib to overcome crizotinib resistance. The FDA approved ceritinib in April 2014 due to a surprisingly high response rate (56%) towards crizotinib-resistant tumours and has designated it with orphan drug status.",
+    "indication": "Ceritinib is a kinase inhibitor indicated for the treatment of patients with anaplastic lymphoma kinase (ALK)-positive metastatic non-small cell lung cancer (NSCLC) who have progressed on or are intolerant to crizotinib. This indication is approved under accelerated approval based on tumor response rate and duration of response. An improvement in survival or disease-related symptoms has not been established. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Ceritinib inhibits Anaplastic lymphoma kinase (ALK) also known as ALK tyrosine kinase receptor or CD246 (cluster of differentiation 246), which is an enzyme that in humans is encoded by the ALK gene. About 4-5% of NSCLCs have a chromosomal rearrangement that generates a fusion gene between EML4 (echinoderm microtubule-associated protein-like 4) and ALK (anaplastic lymphoma kinase), which results in constitutive kinase activity that contributes to carcinogenesis and seems to drive the malignant phenotype. Ceritinib exerts its therapeutic effect by inhibiting autophosphorylation of ALK, ALK-mediated phosphorylation of the downstream signaling protein STAT3, and proliferation of ALK-dependent cancer cells. Ceritinib has been shown to inhibit in vitro proliferation of cell lines expressing EML4-ALK and NPM-ALK fusion proteins and demonstrated dose-dependent inhibition of EML4-ALK-positive NSCLC xenograft growth in mice and rats.",
+    "absorption": "After oral administration of ceritinib, peak concentrations were achieved after approximately 4 to 6 hours.",
+    "metabolism": "In vitro studies demonstrated that CYP3A was the major enzyme involved in the metabolic clearance of ceritinib. Following oral administration of a single 750 mg radiolabeled ceritinib dose, ceritinib as the parent compound was the main circulating component (82%) in human plasma.",
+    "toxicity": "There is not currently any data on carcinogenicity, effect on human fertility, or on early embryonic development. However, based on its mechanism of action, ceritinib may cause fetal harm when administered to pregnant women and should therefore be administered with effective contraception during treatment. Diarrhea, nausea, vomiting, or abdominal pain occurred in 96% of 255 patients including severe cases in 14% of patients. Drug-induced hepatotoxicity also occurred in 27% of 255 patients, presenting as alanine aminotransferase (ALT) levels greater than 5 times the upper limit of normal (ULN). Severe, life-threatening, or fatal interstitial lung disease (ILD)/pneumonitis, hyperglycaemia, and bradycardia have also been reported. ",
+    "targets": [
+        [
+            "ALK",
+            "ALK tyrosine kinase receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

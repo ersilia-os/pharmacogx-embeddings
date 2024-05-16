@@ -1,0 +1,202 @@
+{
+    "pharmgkb_id": "PA166160055",
+    "drugbank_id": "DB02659",
+    "names": [
+        "Cholic Acid"
+    ],
+    "description": "A major primary bile acid produced in the liver and usually conjugated with glycine or taurine. It facilitates fat absorption and cholesterol excretion. [PubChem]\r\nCholic acid, formulated as Cholbam capsules, is approved by the United States Food and Drug Administration as a treatment for children and adults with bile acid synthesis disorders due to single enzyme defects, and for peroxisomal disorders (such as Zellweger syndrome).",
+    "indication": "Oral cholic acid is indicated for: treatment of bile acid synthesis disorders due to single enzyme defects; and as adjunctive treatment of peroxisomal disorders including Zellweger spectrum disorders in patients who exhibit manifestations of liver disease, steatorrhea or complications from decreased fat soluble vitamin absorption. ",
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "ADH1C",
+            "Alcohol dehydrogenase 1C",
+            "Humans"
+        ],
+        [
+            "ESRRG",
+            "Estrogen-related receptor gamma",
+            "Humans"
+        ],
+        [
+            "FABP6",
+            "Gastrotropin",
+            "Humans"
+        ],
+        [
+            "COX4I1",
+            "Cytochrome c oxidase subunit 4 isoform 1, mitochondrial",
+            "Humans"
+        ],
+        [
+            "MT-CO1",
+            "Cytochrome c oxidase subunit 1",
+            "Humans"
+        ],
+        [
+            "MT-CO2",
+            "Cytochrome c oxidase subunit 2",
+            "Humans"
+        ],
+        [
+            "MT-CO3",
+            "Cytochrome c oxidase subunit 3",
+            "Humans"
+        ],
+        [
+            "COX5A",
+            "Cytochrome c oxidase subunit 5A, mitochondrial",
+            "Humans"
+        ],
+        [
+            "COX5B",
+            "Cytochrome c oxidase subunit 5B, mitochondrial",
+            "Humans"
+        ],
+        [
+            "COX6C",
+            "Cytochrome c oxidase subunit 6C",
+            "Humans"
+        ],
+        [
+            "COX7B",
+            "Cytochrome c oxidase subunit 7B, mitochondrial",
+            "Humans"
+        ],
+        [
+            "COX7C",
+            "Cytochrome c oxidase subunit 7C, mitochondrial",
+            "Humans"
+        ],
+        [
+            "COX8A",
+            "Cytochrome c oxidase subunit 8A, mitochondrial",
+            "Humans"
+        ],
+        [
+            "COX6A2",
+            "Cytochrome c oxidase subunit 6A2, mitochondrial",
+            "Humans"
+        ],
+        [
+            "COX6B1",
+            "Cytochrome c oxidase subunit 6B1",
+            "Humans"
+        ],
+        [
+            "COX7A1",
+            "Cytochrome c oxidase subunit 7A1, mitochondrial",
+            "Humans"
+        ],
+        [
+            "PLA2G1B",
+            "Phospholipase A2",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ],
+        [
+            "cbh",
+            "Choloylglycine hydrolase",
+            "Clostridium perfringens (strain 13 / Type A)"
+        ],
+        [
+            "NR1H4",
+            "Bile acid receptor",
+            "Humans"
+        ],
+        [
+            "GPBAR1",
+            "G-protein coupled bile acid receptor 1",
+            "Humans"
+        ],
+        [
+            "FECH",
+            "Ferrochelatase, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC10A2",
+            "Ileal sodium/bile acid cotransporter",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "SLC10A1",
+            "Sodium/bile acid cotransporter",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "FABP1",
+            "Fatty acid-binding protein, liver",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

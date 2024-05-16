@@ -1,0 +1,85 @@
+{
+    "pharmgkb_id": "PA134687947",
+    "drugbank_id": "DB00216",
+    "names": [
+        "Eletriptan"
+    ],
+    "description": "Eletriptan is a second generation triptan drug developed by Pfizer Inc for the treatment of migraine headaches.",
+    "indication": "For the acute treatment of migraine with or without aura in adults.",
+    "pharmacodynamics": "Eletriptan is a selective 5-hydroxytryptamine 1B/1D receptor agonist. In the anesthetized dog, eletriptan has been shown to reduce carotid arterial blood flow, with only a small increase in arterial blood pressure at high doses. While the effect on blood flow was selective for the carotid arterial bed, decreases in coronary artery diameter were observed. Eletriptan has also been shown to inhibit trigeminal nerve activity in the rat.",
+    "mechanism-of-action": "Eletriptan binds with high affinity to 5-HT1B, 5-HT1D and 5-HT1F receptors, has modest affinity for 5-HT1A, 5-HT1E, 5-HT2B and 5-HT7 receptors, and little or no affinity for 5-HT2A, 5-HT2C, 5-HT3, 5-HT4, 5-HT5A and 5-HT6 receptors. In contrast, eletriptan displays insignificant pharmacological activity at adrenergic alpha1, alpha2, or beta; dopaminergic D1 or D2; muscarinic; or opioid receptors. While the full mechanism of action of 5-HT receptor agonists in relieving migrains is not fully elucidated, it is proposed that the activation of 5-HT1 receptors located on intracranial blood vessels leads to vasoconstriction that correlates with the relief of migraine headaches. It is also proposed that the activation of 5-HT1 receptors on sensory nerve endings in the trigeminal system leads to the inhibition of release of pro-inflammatory neuropeptides. ",
+    "absorption": "Well absorbed after oral administration with a mean absolute bioavailability of approximately 50%.",
+    "metabolism": "In vitro studies indicate that eletriptan is primarily metabolized by cytochrome P-450 enzyme CYP3A4. The N-demethylated metabolite of eletriptan is the only known active metabolite.",
+    "toxicity": "Based on the pharmacology of the 5-HT1B/1D agonists, hypertension or other more serious cardiovascular symptoms could occur on overdose.",
+    "targets": [
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1D",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1B",
+            "Humans"
+        ],
+        [
+            "HTR1F",
+            "5-hydroxytryptamine receptor 1F",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00216",
+            "Drug Name": "Eletriptan",
+            "Gene Symbol": "GNB3",
+            "RS ID (Genotype)": "rs5443",
+            "Effect Description": "Patients with this genotype have an increased likelihood of responding to elitriptan when treating (condition: cluster headache)."
+        }
+    ]
+}

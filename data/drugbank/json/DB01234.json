@@ -1,0 +1,158 @@
+{
+    "pharmgkb_id": "PA449247",
+    "drugbank_id": "DB01234",
+    "names": [
+        "Dexamethasone"
+    ],
+    "description": "Dexamethasone, or MK-125, is a corticosteroid fluorinated at position 9 used to treat endocrine, rheumatic, collagen, dermatologic, allergic, ophthalmic, gastrointestinal, respiratory, hematologic, neoplastic, edematous, and other conditions.[L10701] Developed in 1957, it is structurally similar to other corticosteroids like [hydrocortisone] and [prednisolone].[A188724]\r\n\r\nDexamethasone was granted FDA approval on 30 October 1958.[L10695] In a press release for the Randomized Evaluation of COVID-19 Therapy (RECOVERY) trial on 16 June 2020, dexamethasone was recommended for use in COVID-19 patients with severe respiratory symptoms. Dexamethasone reduced deaths by approximately one third in patients requiring ventilation and by one fifth in those requiring oxygen.[L14318]",
+    "indication": "Dexamethasone and [ciprofloxacin] otic suspension is indicated for bacterial infections with inflammation in acute otitis media and acute otitis externa.[L10698] Intramuscular and intravenous injections are indicated for a number of endocrine, rheumatic, collagen, dermatologic, allergic, ophthalmic, gastrointestinal, respiratory, hematologic, neoplastic, edematous, and other conditions.[L10701] Oral tablets are indicated for the treatment of multiple myeloma.[L10710] An intravitreal implant is indicated for some forms of macular edema and non-infectious posterior uveitis affecting the posterior of the eye.[L10719] Various ophthalmic formulations are indicated for inflammatory conditions of the eye.[L10704,L10707,L10713,L10716,L10722,L10725]",
+    "pharmacodynamics": "Corticosteroids bind to the glucocorticoid receptor, inhibiting pro-inflammatory signals, and promoting anti-inflammatory signals.[A187463] Dexamethasone's duration of action varies depending on the route.[L10698,L10701,L10704,L10707,L10710,L10713,L10716,L10719,L10722,L10725] Corticosteroids have a wide therapeutic window as patients may require doses that are multiples of what the body naturally produces.[A187463] Patients taking corticosteroids should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections.[A187463]",
+    "mechanism-of-action": "The short term effects of corticosteroids are decreased vasodilation and permeability of capillaries, as well as decreased leukocyte migration to sites of inflammation.[A187463] Corticosteroids binding to the glucocorticoid receptor mediates changes in gene expression that lead to multiple downstream effects over hours to days.[A187463]\r\n\r\nGlucocorticoids inhibit neutrophil apoptosis and demargination; they inhibit phospholipase A2, which decreases the formation of arachidonic acid derivatives; they inhibit NF-Kappa B and other inflammatory transcription factors; they promote anti-inflammatory genes like interleukin-10.[A187463]\r\n\r\nLower doses of corticosteroids provide an anti-inflammatory effect, while higher doses are immunosuppressive.[A187463] High doses of glucocorticoids for an extended period bind to the mineralocorticoid receptor, raising sodium levels and decreasing potassium levels.[A187463]",
+    "absorption": "Absorption via the intramuscular route is slower than via the intravenous route.[L10701] A 3mg intramuscular dose reaches a C<sub>max</sub> of 34.6\u00b16.0ng/mL with a T<sub>max</sub> of 2.0\u00b11.2h and an AUC of 113\u00b138ng\\*h/mL.[A188718] A 1.5mg oral dose reaches a C<sub>max</sub> of 13.9\u00b16.8ng/mL with a T<sub>max</sub> of 2.0\u00b10.5h and an AUC of 331\u00b150ng\\*h/mL.[A188718] Oral dexamethasone is approximately 70-78% bioavailable in healthy subjects.[A188721]",
+    "metabolism": "Dexamethasone is 6-hydroxylated by CYP3A4 to 6\u03b1- and 6\u03b2-hydroxydexamethasone.[A187268] Dexamethasone is reversibly metabolized to 11-dehydrodexamethasone by corticosteroid 11-beta-dehydrogenase isozyme 2 and can also be converted back to dexamethasone by Corticosteroid 11-beta-dehydrogenase isozyme 1.[A10059,A188556]",
+    "toxicity": "The oral LD<sub>50</sub> in female mice was 6.5g/kg and 794mg/kg via the intravenous route.[L10701]\r\n\r\nOverdoses are not expected with otic formulations.[L10698] Chronic high doses of glucocorticoids can lead to the development of cataract, glaucoma, hypertension, water retention, hyperlipidemia, peptic ulcer, pancreatitis, myopathy, osteoporosis, mood changes, psychosis, dermal atrophy, allergy, acne, hypertrichosis, immune suppression, decreased resistance to infection, moon face, hyperglycemia, hypocalcemia, hypophosphatemia, metabolic acidosis, growth suppression, and secondary adrenal insufficiency.[A188405] Overdose may be treated by adjusting the dose or stopping the corticosteroid as well as initiating symptomatic and supportive treatment.[A188405]",
+    "targets": [
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ],
+        [
+            "NR0B1",
+            "Nuclear receptor subfamily 0 group B member 1",
+            "Humans"
+        ],
+        [
+            "ANXA1",
+            "Annexin A1",
+            "Humans"
+        ],
+        [
+            "NOS2",
+            "Nitric oxide synthase, inducible",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "HSD11B2",
+            "Corticosteroid 11-beta-dehydrogenase isozyme 2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "HSD11B1",
+            "Corticosteroid 11-beta-dehydrogenase isozyme 1",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP17A1",
+            "Steroid 17-alpha-hydroxylase/17,20 lyase",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A43",
+            "Humans"
+        ],
+        [
+            "CYP4A11",
+            "Cytochrome P450 4A11",
+            "Humans"
+        ],
+        [
+            "CYP11B1",
+            "Cytochrome P450 11B1, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

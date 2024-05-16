@@ -1,0 +1,93 @@
+{
+    "pharmgkb_id": "PA448926",
+    "drugbank_id": "DB00291",
+    "names": [
+        "Chlorambucil",
+        "Celkeran",
+        "Chloraminoph\u00e8ne"
+    ],
+    "description": "A nitrogen mustard alkylating agent used as antineoplastic agent for the treatment of various malignant and nonmalignant diseases. Although it is less toxic than most other nitrogen mustards, it has been listed as a known carcinogen in the Fourth Annual Report on Carcinogens (NTP 85-002, 1985). (Merck Index, 11th ed)",
+    "indication": "For treatment of chronic lymphatic (lymphocytic) leukemia,  childhood minimal-change nephrotic syndrome, and malignant lymphomas including lymphosarcoma, giant follicular lymphoma, Hodgkin's disease,  non-Hodgkin's lymphomas, and Waldenstr\u00f6m\u2019s Macroglobulinemia.",
+    "pharmacodynamics": "Chlorambucil is an antineoplastic in the class of alkylating agents that is used to treat various forms of cancer. Alkylating agents are so named because of their ability to add alkyl groups to many electronegative groups under conditions present in cells. They stop tumor growth by cross-linking guanine bases in DNA double-helix strands - directly attacking DNA. This makes the strands unable to uncoil and separate. As this is necessary in DNA replication, the cells can no longer divide. In addition, these drugs add methyl or other alkyl groups onto molecules where they do not belong which in turn inhibits their correct utilization by base pairing and causes a miscoding of DNA. Alkylating agents are cell cycle-nonspecific. Alkylating agents work by three different mechanisms all of which achieve the same end result - disruption of DNA function and cell death.",
+    "mechanism-of-action": "Alkylating agents work by three different mechanisms: 1) attachment of alkyl groups to DNA bases, resulting in the DNA being fragmented by repair enzymes in their attempts to replace the alkylated bases, preventing DNA synthesis and RNA transcription from the affected DNA, 2) DNA damage via the formation of cross-links (bonds between atoms in the DNA) which prevents DNA from being separated for synthesis or transcription, and 3) the induction of mispairing of the nucleotides leading to mutations.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": null,
+    "enzymes": [
+        [
+            "GSTP1",
+            "Glutathione S-transferase P",
+            "Humans"
+        ],
+        [
+            "GSTA1",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTA2",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTM1",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTM2",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTM3",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTM4",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTM5",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTP1",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTT1",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTT2",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "GSTT2B",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ],
+        [
+            "HPGDS",
+            "Glutathione S-transferases (Cytosolic)",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

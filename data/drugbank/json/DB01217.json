@@ -1,0 +1,73 @@
+{
+    "pharmgkb_id": "PA448432",
+    "drugbank_id": "DB01217",
+    "names": [
+        "Anastrozole",
+        "Asiolex"
+    ],
+    "description": "Anastrozole is a non-steroidal aromatase inhibitor (AI), similar to [letrozole], used to decrease circulating estrogen levels in the treatment of postmenopausal women with estrogen-responsive breast cancer.[L8863] Anastrozole is also related to [exemestane], a steroidal AI, but its non-steroidal nature provides stark advantages including a lack of steroid-associated adverse effects such as weight gain and acne.[A186865] Aromatase inhibitors, including anastrozole, have become endocrine drugs of choice in the treatment of postmenopausal breast cancer due to a more favourable efficacy and adverse effect profile as compared to earlier estrogen receptor modulators such as [tamoxifen].[A186877,A186955]\r\n\r\nAnastrozole was first approved for use in the United States in 1995.[L8863]",
+    "indication": "Anastrozole is indicated as adjunct therapy in the treatment of hormone receptor-positive early breast cancer in postmenopausal women, and as a first-line treatment for hormone receptor-positive (or hormone receptor-unknown) locally advanced or metastatic breast cancer in postmenopausal women.[L8863] It may also be used in the treatment of advanced breast cancer in postmenopausal women who experience disease progression despite treatment with [tamoxifen].[L8866,L8863] ",
+    "pharmacodynamics": "Anastrozole prevents the conversion of adrenal androgens (e.g. [testosterone]) to estrogen in peripheral and tumour tissues. As the growth of many breast cancers is stimulated and/or maintained by the presence of estrogen, anastrozole helps to treat these cancers by decreasing the levels of circulating estrogens.[L8869,A186958] Anastrozole has a relatively long duration of action allowing for once daily dosing - serum estradiol is reduced by approximately 70% within 24 hours of beginning therapy with 1mg once daily, and levels remain suppressed for up to 6 days following cessation of therapy.[L8863] \r\n\r\nThe incidence of ischemic cardiovascular events was increased during anastrozole therapy and patients with pre-existing ischemic heart disease should consider the risks and benefits of anastrozole before beginning therapy. Anastrozole has also been reported to decrease spine and hip bone mineral density (BMD), so consideration should be given to monitoring of BMD in patients receiving long-term therapy.[L8863,A186955]",
+    "mechanism-of-action": "Anastrazole exerts its anti-estrogenic effects via selective and competitive inhibition of the aromatase enzyme found predominantly in the adrenal glands, liver, and fatty tissues.[A186877] Many breast cancers are hormone receptor-positive, meaning their growth is stimulated and/or maintained by the presence of hormones such as estrogen or progesterone.[L8863] In postmenopausal women, estrogen is primarily derived from the conversion of adrenally-produced androgens into estrogens by the aromatase enzyme - by competitively inhibiting the biosynthesis of estrogen at these enzymes, anastrozole effectively suppresses circulating estrogen levels and, subsequently, the growth of hormone receptor-positive tumours.[A186877,A186958]",
+    "absorption": "Anastrozole is rapidly absorbed and T<sub>max</sub> is typically reached within 2 hours of dosing under fasted conditions.[A186877,L8869] Coadministration with food reduces the rate but not the overall extent of absorption - mean C<sub>max</sub> decreased by 16% and the median T<sub>max</sub> was extended to 5 hours when anastrozole was administered 30 minutes after ingestion of food,[L8863] though this relatively minor alteration in absorption kinetics is not expected to result in clinically significant effects.[L8866]",
+    "metabolism": "Anastrozole is primarily metabolized in the liver via oxidation and glucuronidation to a number of inactive metabolites, including hydroxyanastrozole (both free and glucuronidated) and anastrozole glucuronide.[A184457,L8863,L8869] Oxidation to hydroxyanastrozole is catalyzed predominantly by CYP3A4 (as well as CYP3A5 and CYP2C8, to a lesser extent) and the direct glucuronidation of anastrozole appears to be catalyzed mainly by UGT1A4.[A184457]\r\n\r\nAnastrozole may also undergo N-dealkylation to form triazole and 3,5-Bis-(2-methylpropiononitrile)-benzoic acid.[A184457] Labels for anastrozole state the main metabolite found in plasma following administration is triazole,[L8863,L8869] but a recent pharmacokinetic study was unable to detect any products of N-dealkylation _in vitro_.[A184457]",
+    "toxicity": "The reported oral TDLo in a human woman is 1.68 mg/kg given intermittently over the course of 12 weeks.[L8887] Knowledge of the signs and symptoms of anastrozole overdose is incomplete as there are no documented descriptions of a patient receiving more than 60mg,[L8872] a dose which was administered to a healthy male volunteer and was well-tolerated.[L8863,L8869] There is no antidote for anastrozole and treatment should be supportive and symptomatic, including close monitoring of patient vital signs. As anastrozole exhibits relatively low protein binding, dialysis may be helpful and should be considered in select cases.[L8863,L8869]",
+    "targets": [
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferase 1-4",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

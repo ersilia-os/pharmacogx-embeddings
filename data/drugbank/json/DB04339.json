@@ -1,0 +1,53 @@
+{
+    "pharmgkb_id": "PA166184060",
+    "drugbank_id": "DB04339",
+    "names": [
+        "Carbocisteine",
+        "Actithiol",
+        "Lisomucil",
+        "Muciclar",
+        "Mucodyne",
+        "Mucolex",
+        "Rhinathiol",
+        "Transbronchin"
+    ],
+    "description": "Dyspnea and cough are common symptoms of chronic obstructive pulmonary disease (COPD)[A231169] and other respiratory conditions characterized by increased mucus production. Individuals with COPD have a greater risk of pulmonary infection due to the growth and accumulation of viruses and bacteria in thick bronchial mucus. Carbocisteine is a mucolytic drug that alleviates respiratory symptoms and infections by reducing the viscosity of mucus, allowing it to be expelled.[L32383]\r\n\r\nSeveral licenses for this drug were withdrawn following serious and fatal paradoxical effects after carbocisteine therapy in children; respiratory dress, dyspnea, and cough aggravation were reported by physicians in France and Italy.[A230993]  Carbocisteine is currently not FDA or Health Canada approved, but is approved for use in Asia, Europe, and South America.",
+    "indication": "Carbocisteine is indicated over the counter and in prescription formulas to clear airway secretions in conditions associated with increased mucus.[L24484,L24984,L20019]",
+    "pharmacodynamics": "Due to its mucolytic effects, carbocisteine significantly reduces sputum viscosity, cough, dyspnea and fatigue.[A230983,A230988] Additionally, it prevents pulmonary infections by decreasing accumulated mucus in the respiratory tract; this is especially beneficial in preventing exacerbations of COPD caused by bacteria and viruses.[A230988] It has in-vitro anti-inflammatory activity with some demonstrated action against free radicals.[A230988]",
+    "mechanism-of-action": "The hypersecretion of mucus characterizes serious respiratory conditions including asthma, cystic fibrosis (CF), and chronic obstructive pulmonary disease (COPD).[A231134]\r\nIt blocks bacterial adherence to cells, preventing pulmonary infections.[A230988]  Glycoproteins (fucomucins, sialomucins and sulfomucins) regulate the viscoelastic properties of bronchial mucus. Increased fucomucins can be found in the mucus of patients with COPD. Carbocisteine serves to restore equilibrium between sialomucins and fucomucins, likely by intracellular stimulation of sialyl transferase enzyme, thus reducing mucus viscosity.[A230988]\r\n\r\nA study found that L-carbocisteine can inhibit damage to cells by hydrogen peroxide (H2O2) by activating protein kinase B (Akt) phosphorylation, suggesting that carbocisteine may have antioxidant effects and prevent apoptosis of lung cells.[A231003] There is some evidence that carbocisteine suppresses NF-\u03baB and ERK1/2 MAPK signalling pathways, reducing TNF-alpha induced inflammation in the lungs, as well as other inflammatory pathways.[A231134,A231139] An in-vitro study found that L-carbocisteine reduces intracellular adhesion molecule 1 (ICAM-1), inhibiting rhinovirus 14 infection, thereby reducing airway inflammation.[A231144]",
+    "absorption": "Carbocisteine is rapidly absorbed in the gastrointestinal tract when taken orally with peak serum concentrations achieved within 1 to 1.7 hours.[A230988]",
+    "metabolism": "Metabolic pathways for carbocisteine include acetylation, decarboxylation, and sulfoxidation, leading to the formation of pharmacologically inactive carbocisteine derivatives.  Significant variability exists in metabolism due to genetic polymorphism in sulfoxidation capacity. Two cytosolic enzymes are responsible for the metabolism of carbocisteine: cysteine dioxygenase and phenylalanine 4-hydroxylase.[A231104] Reduced metabolism can cause increased exposure to carbocisteine, explaining variable clinical response between patients who may polymorphisms affecting the enzymes responsible for carbocisteine metabolism.[A230988] It is generally accepted that sulfodixation is the main metabolic pathway of carbocisteine, however, one group of researchers found a novel urinary metabolite, S-(carboxymethylthio)-L-cysteine (CMTC). No cysteinyl sulfoxide metabolites were found in the urine of patients taking carbocisteine in this study.[A230998]",
+    "toxicity": "The oral LD50 of carbocisteine in rats is >15000 mg/kg.[L32378] An overdose with carbocisteine is likely to result in gastrointestinal discomfort with nausea and vomiting.[L32373]",
+    "targets": [
+        [
+            "PLCXD3",
+            "PI-PLC X domain-containing protein 3",
+            "Humans"
+        ],
+        [
+            "ST3GAL5",
+            "Lactosylceramide alpha-2,3-sialyltransferase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CDO1",
+            "Cysteine dioxygenase type 1",
+            "Humans"
+        ],
+        [
+            "PAH",
+            "Phenylalanine-4-hydroxylase",
+            "Humans"
+        ],
+        [
+            "ST3GAL5",
+            "Lactosylceramide alpha-2,3-sialyltransferase",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,112 @@
+{
+    "pharmgkb_id": "PA449750",
+    "drugbank_id": "DB01241",
+    "names": [
+        "Gemfibrozil",
+        "Gemlipid",
+        "Gen-Fibro",
+        "Genlip",
+        "Jezil",
+        "Lipur"
+    ],
+    "description": "Gemfibrozil is a fibric acid agent, similar to [clofibrate], used to treat Type IIb, IV, and V hyperlipidemias.[A185777,L8525] Gemfibrozil is not a first line treatment and is prescribed to patients who have not responded adequately to weight loss, diet, exercise, and other medications.[L8525]\r\n\r\nGemfibrozil was granted FDA approval on 21 December 1981.[L8525]",
+    "indication": "Gemfibrozil is indicated to treat patients with Types IV and V hyperlipidemia who have elevated serum triglycerides (usually above 2000mg/dL), elevated VLDL cholesterol, fasting chylomicrons, are at risk of developing pancreatitis, and do not adequately respond to dietary restrictions.[L8525] Gemfibrozil is also indicated to reduce the risk of developing coronary heart disease in patients with Type IIb hyperlipidemia without history or symptoms of coronary heart disease; who do not adequately respond to weight loss, diet, exercise, and other medications; and have low HDL, raised LDL, and raised triglycerides.[L8525]",
+    "pharmacodynamics": "Gemfibrozil alters lipid metabolism to treat patients with hyperlipidemia.[L8525] The duration of action requires twice daily dosing as the mean residence time of gemfibrozil is up to 9.6h in patients with chronic renal failure.[A185813] Gemfibrozil has a wide therapeutic index as trials with twice the standard dose were not associated with severe side effects.[A185816,L8525] Patients taking gemfibrozil may be at an increased risk of developing cholelithiasis and cholecystitis, as seen in patients taking [clofibrate].[L8525]",
+    "mechanism-of-action": "Gemfibrozil activates peroxisome proliferator-activated receptor-\u03b1 (PPAR\u03b1), which alters lipid metabolism.[A185777] This activation leads to increased HDL, apo AI, apo AII, lipoprotein lipase (LPL), inhibition of apo B synthesis, peripheral lipolysis, decreased removal of free fatty acids by the liver, and increased clearance of apoB.[A185390,A185777,L8525]\r\n\r\nUpregulated LPL reduces plasma triglyceride levels.[A185390,A185777,L8525] Decreased hepatic removal of fatty acids decreases the production of triglycerides.[A185390,A185777,L8525] The effects on apoB synthesis and clearance decrease VLDL production which also reduce plasma triglyceride levels.[A185390,A185777,L8525]\r\n\r\nGemfibrozil's glucuronide metabolite is also an inhibitor of CYP2C8.[A185783]",
+    "absorption": "Gemfibrozil is absorbed from the gastrointestinal tract.[L8525]\r\n\r\nIn healthy volunteers, a 900mg oral dose of gemfibrozil has a C<sub>max</sub> of 46\u00b116\u00b5g/mL with a T<sub>max</sub> of 2.2\u00b11.1h.[A185813] In patients with chronic renal failure, gemfibrozil has a C<sub>max</sub> of 13.8\u00b111.1\u00b5g/mL with a T<sub>max</sub> of 2.3\u00b11.0h.[A185813] In patients with liver disease, gemfibrozil has a C<sub>max</sub> of 23.0\u00b110.3\u00b5g/mL with a T<sub>max</sub> of 2.6\u00b11.7h.[A185813]",
+    "metabolism": "Gemfibrozil undergoes hydroxylation at the 5'-methyl and 4' positions to form the M1 and M2 metaolites respectively[A185792]. Gemfibrozil also undergoes O-glucuronidation to form gemfibrozil 1-beta glucuronide, an inhibitor of CYP2C8.[A185783] This O-glucuronidation is primarily mediated by UGT2B7, but also by UGT1A1, UGT1A3, UGT1A9, UGT2B4, UGT2B17.[A185783]",
+    "toxicity": "The oral TDLO of gemfibrozil in humans is 18gm/kg/3Y.[L8576] The oral LD<sub>50</sub> in mice is 2218mg/kg and in rats is 1414mg/kg.[L8576] The intraperitoneal LD<sub>50</sub> in rats is 445mg/kg.[L8576]\r\n\r\nPatients experiencing an overdose may present with abdominal cramps, adnormal liver function tests, diarrhea, increased CPK, joint and muscle pain, nausea, and vomiting.[L8525] Patients should be treated with symptomatic and supportive measures.[L8525]",
+    "targets": [
+        [
+            "PPARA",
+            "Peroxisome proliferator-activated receptor alpha",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferase 2B4",
+            "Humans"
+        ],
+        [
+            "UGT2B17",
+            "UDP-glucuronosyltransferase 2B17",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,87 @@
+{
+    "pharmgkb_id": "PA448927",
+    "drugbank_id": "DB00446",
+    "names": [
+        "Chloramphenicol",
+        "Brochlor",
+        "Chloramex",
+        "Chlorocid",
+        "Chlorocol",
+        "Chlorsig",
+        "Fenicol",
+        "Globenicol",
+        "Halomycetin",
+        "Oleomycetin",
+        "Sificetina"
+    ],
+    "description": "An antibiotic first isolated from cultures of _Streptomyces venezuelae_ in 1947 but now produced synthetically. It has a relatively simple structure and was the first broad-spectrum antibiotic to be discovered. It acts by interfering with bacterial protein synthesis and is mainly bacteriostatic. (From Martindale, The Extra Pharmacopoeia, 29th ed, p106)\r\n\r\nThe FDA has withdrawn all oral drug products containing chloramphenicol, due to the high risk of fatal aplastic anemia associated with this specific route of administration.[L43942,L44022]",
+    "indication": "Used in treatment of cholera, as it destroys the vibrios and decreases the diarrhea. It is effective against tetracycline-resistant vibrios. It is also used in eye drops or ointment to treat bacterial conjunctivitis.",
+    "pharmacodynamics": "Chloramphenicol is a broad-spectrum antibiotic that was derived from the bacterium Streptomyces venezuelae and is now produced synthetically. Chloramphenicol is effective against a wide variety of microorganisms, but due to serious side-effects (e.g., damage to the bone marrow, including aplastic anemia) in humans, it is usually reserved for the treatment of serious and life-threatening infections (e.g., typhoid fever). Chloramphenicol is bacteriostatic but may be bactericidal in high concentrations or when used against highly susceptible organisms. Chloramphenicol stops bacterial growth by binding to the bacterial ribosome (blocking peptidyl transferase) and inhibiting protein synthesis.",
+    "mechanism-of-action": "Chloramphenicol is lipid-soluble, allowing it to diffuse through the bacterial cell membrane. It then reversibly binds to the L16 protein of the 50S subunit of bacterial ribosomes, where transfer of amino acids to growing peptide chains is prevented (perhaps by suppression of peptidyl transferase activity), thus inhibiting peptide bond formation and subsequent protein synthesis.",
+    "absorption": "Rapidly and completely absorbed from gastrointestinal tract following oral administration (bioavailability 80%). Well absorbed following intramuscular administration (bioavailability 70%). Intraocular and some systemic absorption also occurs after topical application to the eye.",
+    "metabolism": "Hepatic, with 90% conjugated to inactive glucuronide.",
+    "toxicity": "Oral, mouse: LD<sub>50</sub> = 1500 mg/kg; Oral, rat: LD<sub>50</sub> = 2500 mg/kg. Toxic reactions including fatalities have occurred in the premature and newborn; the signs and symptoms associated with these reactions have been referred to as the gray syndrome. Symptoms include (in order of appearance) abdominal distension with or without emesis, progressive pallid cyanosis, vasomotor collapse frequently accompanied by irregular respiration, and death within a few hours of onset of these symptoms.",
+    "targets": [
+        [
+            "rplP",
+            "50S ribosomal protein L16",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "draA",
+            "Dr hemagglutinin structural subunit",
+            "Escherichia coli"
+        ],
+        [
+            "CD55",
+            "Complement decay-accelerating factor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "cat3",
+            "Chloramphenicol acetyltransferase 3",
+            "Escherichia coli"
+        ],
+        [
+            "cat",
+            "Chloramphenicol acetyltransferase",
+            "Pseudomonas aeruginosa (strain ATCC 15692 / PAO1 / 1C / PRS 101 / LMG 12228)"
+        ],
+        [
+            null,
+            "Chloramphenicol 3-O phosphotransferase",
+            "Streptomyces venezuelae (strain ATCC 10712 / CBS 650.69 / DSM 40230 / JCM 4526 / NBRC 13096 / PD 04745)"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

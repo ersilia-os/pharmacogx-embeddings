@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA164752425",
+    "drugbank_id": "DB01280",
+    "names": [
+        "Nelarabine"
+    ],
+    "description": "Nelarabine is an antineoplastic agent that is typically used to treat acute T-cell lymphoblastic leukemia, particularly T-cell acute lymphoblastic leukemia (T-ALL) and T-cell lymphoblastic lymphoma (T-LBL), in both adult and pediatric patients whose disease has not responded to or has relapsed following at least two chemotherapy regimens.[L40878] T-cell acute lymphoblastic leukemia and lymphoma are relatively rare T-cells malignancy, with only 20 to 25% of patients diagnosed with acute lymphoblastic leukemia and 1.7% of patients diagnosed with non-Hodgkin's lymphoma having this T-cells variation of the disease.[A2332] Due to the rarity of these T-cell malignancies, nelarabine was first granted orphan drug status and a fast-track designation by the FDA to address the unmet therapeutic needs of these cancers.[A2331]\r\n\r\nNelarabine is a purine nucleoside analog converted to its corresponding arabinosylguanine nucleotide triphosphate (araGTP), resulting in the inhibition of DNA synthesis and cytotoxicity.[L40878] Nelarabine preferentially accumulates in T-cells since T-cells have a higher expression of enzymes that convert nelarabine to the active purine analog form, making them effective against T-cells malignancies.[A2331,AA2334,2335] Results from 2 phase 2 studies on adult and pediatric T-ALL/T-LBL indicated that nelarabine can yield a 13% complete response (CR) rate in pediatric patients and 18% in adult patients, albeit with serious hematological and neurological adverse events.[A258719]\r\n\r\nNelarabine was first granted accelerated approval by the FDA on October 28, 2005, and was manufactured under the trademark name ARRANON by GlaxoSmithKline.[A15220] Subsequently, nelarabine was also approved by both Health Canada and European Medicines Agency in 2007 under the trademark name ATRIANCE.[L45874,L45879]",
+    "indication": "ARRANON is indicated for the treatment of T-cell acute lymphoblastic leukemia (T-ALL) and T-cell lymphoblastic lymphoma (T-LBL) in adult and pediatric patients age 1 year and older whose disease has not responded to or has relapsed following treatment with at least two chemotherapy regimens.[L40878] ",
+    "pharmacodynamics": "Nelarabine is a prodrug of the cytotoxic deoxyguanosine analogue 9-&szlig;-D-arabinofuranosylguanine (ara-G). Nelarabine is demethylated by adenosine deaminase (ADA) to ara-G.[L40878] Ara-G is then transported into cells, where it undergoes three phosphorylation steps, resulting in the formation of ara-G triphosphate (ara-GTP). In the first phosphorylation step, ara-G is converted to ara-G monophosphate (ara-GMP).[L40878] Ara-GMP is then monophosphorylated by deoxyguanosine kinase and deoxycytidine kinase to ara-G diphosphate, and then subsequently to the active ara-G triphosphate (ara-GTP). Ara-GTP is the one that exerts the pharmacological effect. Pre-clinical studies have demonstrated that targeted T-cells possess marked sensitivity to the agent.[L40878] Since T lymphoblasts have a higher expression of deoxycytidine kinase, ara-G preferentially accumulates in T cells over B cells, thus showing higher toxicity to T lymphoblasts.[A2331,AA2334,2335]",
+    "mechanism-of-action": "Once nelarabine is metabolized into ara-GTP, the metabolite accumulates in leukemic blasts and incorporates into DNA to exert its S phase-specific cytotoxic effects, leading to the induction of fragmentation and apoptosis. As a nucleoside analog, Ara-GTP competes with endogenous deoxyGTP (dGTP) for incorporation into DNA.[A2333,A2334,A2335,A2336] Due to its intact 3'-OH group, ara-GTP can be incorporated into the growing DNA strand without absolute chain termination.[A2337] Despite that, the inclusion of ara-GTP into DNA strand can impair proper DNA repair processes, although the exact mechanism is not well understood, leading to inhibition of DNA elongation, apoptosis, and cellular destruction. Additional cytotoxic activities may exist, but these are not fully understood.[A2332,A2333,A2334,A2337]",
+    "absorption": "Following intravenous administration of nelarabine to adult patients with refractory leukemia or lymphoma, plasma ara-G C<sub>max</sub> values generally occurred at the end of the nelarabine infusion and were generally higher than nelarabine C<sub>max</sub> values, suggesting rapid and extensive conversion of nelarabine to ara-G. Mean plasma nelarabine and ara-G C<sub>max</sub> values were 5.0 \u00b1 3.0 mcg/mL and 31.4 \u00b1 5.6 mcg/mL, respectively, after a 1,500 mg/m<sup>2</sup> nelarabine dose infused over 2 hours in adult patients.[L40878] The area under the concentration-time curve (AUC) of ara-G is 37 times higher than that for nelarabine on Day 1 after nelarabine IV infusion of 1,500 mg/m<sup>2</sup> dose (162 \u00b1 49 mcg.h/mL versus 4.4 \u00b1 2.2 mcg.h/mL, respectively). Comparable C<sub>max</sub> and AUC values were obtained for nelarabine between Days 1 and 5 at the nelarabine adult dosage of 1,500 mg/m<sup>2</sup>, indicating that nelarabine does not accumulate after multiple dosing. There are not enough ara-G data to make a comparison between Day 1 and Day 5.[L40878] After a nelarabine adult dose of 1,500 mg/m<sup>2</sup>, intracellular C<sub>max</sub> for ara-GTP appeared within 3 to 25 hours on Day 1. Exposure (AUC) to intracellular ara-GTP was 532 times higher than that for nelarabine and 14 times higher than that for ara-G (2,339 \u00b1 2,628 mcg.h/mL versus 4.4 \u00b1 2.2 mcg.h/mL and 162 \u00b1 49 mcg.h/mL, respectively).[L40878]",
+    "metabolism": "The principal route of metabolism for nelarabine is O-demethylation by adenosine deaminase to form ara-G, which undergoes hydrolysis to form guanine. In addition, some nelarabine is hydrolyzed to form methylguanine, which is O-demethylated to form guanine. Guanine is N-deaminated to form xanthine, which is further oxidized to yield uric acid.[L40878] Ring opening of uric acid followed by further oxidation results in the formation of allantoin.[L45833]\r\n\r\n\r\n\r\nRing opening of uric acid followed by further oxidation results in the formation of allantoin.",
+    "toxicity": "A single IV dose of 4,800 mg/m^2 was lethal in monkeys, and was associated with CNS signs including reduced/shallow respiration, reduced reflexes, and flaccid muscle tone. It is anticipated that overdosage would result in severe neurotoxicity (possibly including paralysis, coma), myelosuppression, and potentially death.",
+    "targets": [
+        [
+            "POLA1",
+            "DNA polymerase alpha catalytic subunit",
+            "Humans"
+        ],
+        [
+            "LIG1",
+            "DNA ligase 1",
+            "Humans"
+        ],
+        [
+            "PRIM1",
+            "DNA primase small subunit",
+            "Humans"
+        ],
+        [
+            "RRM1",
+            "Ribonucleoside-diphosphate reductase large subunit",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "ADA",
+            "Adenosine deaminase",
+            "Humans"
+        ],
+        [
+            "DCK",
+            "Deoxycytidine kinase",
+            "Humans"
+        ],
+        [
+            "DGUOK",
+            "Deoxyguanosine kinase, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

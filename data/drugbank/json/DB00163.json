@@ -1,0 +1,160 @@
+{
+    "pharmgkb_id": "PA451900",
+    "drugbank_id": "DB00163",
+    "names": [
+        "Vitamin E",
+        "Amino-Opti-E",
+        "Aquasol E"
+    ],
+    "description": "In 1922, vitamin E was demonstrated to be an essential nutrient[A32448]. Vitamin E is a term used to describe 8 different fat soluble tocopherols and tocotrienols, alpha-tocopherol being the most biologically active[A176104]. Vitamin E acts as an antioxidant, protecting cell membranes from oxidative damage[A176104]. The antioxidant effects are currently being researched for use in the treatment of diseases causing bone loss, cardiovascular diseases, diabetes mellitus and associated comorbidities, eye diseases, inflammatory diseases (including skin conditions), lipid disorders, neurological diseases, and radiation damage[A176369]. Though this research is so far inconclusive, vitamin E remains a popular supplement and is generally considered safe by the FDA[FDA Label].",
+    "indication": "Vitamin E supplementation is indicated for treatment of vitamin E deficiency which can occur in cystic fibrosis, cholestasis and severe liver disease, abetalipoproteinemia or simply poor diet[A176104,L3063].",
+    "pharmacodynamics": "Vitamin E is a collective term used to describe 8 separate fat soluble antioxidants, most commonly alpha-tocopherol[A176104]. Vitamin E acts to protect cells against the effects of free radicals, which are potentially damaging by-products of the body's metabolism. Vitamin E deficiency is seen in persons with abetalipoproteinemia, premature, very low birth weight infants (birth weights less than 1500 grams, or 3&frac12; pounds), cystic fibrosis, and cholestasis and severe liver disease[A176104]. Preliminary research suggests vitamin E may help prevent or delay coronary heart disease and protect against the damaging effects of free radicals, which may contribute to the development of chronic diseases such as cancer[A237]. It also protects other fat-soluble vitamins (A and B group vitamins) from destruction by oxygen[A239]. Low levels of vitamin E have been linked to increased incidence of breast and colon cancer[L5725].",
+    "mechanism-of-action": "The mechanism of action for most of vitamin E's effects are still unknown[A176104,A176107]. Vitamin E is an antioxidant, preventing free radical reactions with cell membranes[A176360]. Though in some cases vitamin E has been shown to have pro-oxidant activity[A176360].\r\n\r\nOne mechanism of vitamin E's antioxidant effect is in the termination of lipid peroxidation[A176363]. Vitamin E reacts with unstable lipid radicals, producing stable lipids and a relatively stable vitamin E radical[A176363]. The vitamin E radical is then reduced back to stable vitamin E by reaction with ascorbate or glutathione[A176363].",
+    "absorption": "10-33% of deuterium labelled vitamin E is absorbed in the small intestine[A176110,L3063]. Absorption of Vitamin E is dependant upon absorption of the fat in which it is dissolved[L3063,A176104]. For patients with poor fat absorption, a water soluble form of vitamin E may need to be substituted such as tocopheryl polyethylene glycol-1000 succinate[L3063].\r\n\r\nIn other studies the oral bioavailability of alpha-tocopherol was 36%, gamma-tocotrienol was 9%[A32447]. The time to maximum concentration was 9.7 hours for alpha-tocopherol and 2.4 hours for gamma-tocotrienol[A32447].",
+    "metabolism": "Alpha and gamma tocopherol are undergo beta oxidation and a process mediated by cytochrome P450s such as CYP4F2, CYP3A4, and CYP3A5[A176155]. These processes convert alpha and gamma tocopherol to alpha-CEHC (2,5,7,8-tetramethyl-2-(2\u2019-carboxyethyl)-6-hydroxychroman) and gamma-CEHC (2,7,8-trimethyl-2-(2\u2019-carboxyethyl)-6-hydroxychroman) respectively, however the full process is not known[A176155].",
+    "toxicity": "There is no data available for effects in pregnancy, breast feeding, hepatic impairment, or renal impairment. However, it appears that the process of vitamin E elimination is strict and self regulating enough that vitamin E toxicity is exceedingly rare[A176137,A176210]. Studies showing adverse effects from excess vitamin E generally involve people consuming more than 1000mg/day for weeks to months[L3063].",
+    "targets": [
+        [
+            "SEC14L4",
+            "SEC14-like protein 4",
+            "Humans"
+        ],
+        [
+            "SEC14L3",
+            "SEC14-like protein 3",
+            "Humans"
+        ],
+        [
+            "SEC14L2",
+            "SEC14-like protein 2",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ],
+        [
+            "PRKCB",
+            "Protein kinase C beta type",
+            "Humans"
+        ],
+        [
+            "ALOX5",
+            "Arachidonate 5-lipoxygenase",
+            "Humans"
+        ],
+        [
+            "PRKCA",
+            "Protein kinase C alpha type",
+            "Humans"
+        ],
+        [
+            "DGKA",
+            "Diacylglycerol kinase alpha",
+            "Humans"
+        ],
+        [
+            "PPP2CB",
+            "Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform",
+            "Humans"
+        ],
+        [
+            "PPP2CA",
+            "Serine/threonine-protein phosphatase 2A catalytic subunit alpha isoform",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "GSTP1",
+            "Glutathione S-transferase P",
+            "Humans"
+        ],
+        [
+            "GSTO1",
+            "Glutathione S-transferase omega-1",
+            "Humans"
+        ],
+        [
+            "GSTM3",
+            "Glutathione S-transferase Mu 3",
+            "Humans"
+        ],
+        [
+            "GCLC",
+            "Glutamate--cysteine ligase catalytic subunit",
+            "Humans"
+        ],
+        [
+            "NQO1",
+            "NAD(P)H dehydrogenase [quinone] 1",
+            "Humans"
+        ],
+        [
+            "HMOX1",
+            "Heme oxygenase 1",
+            "Humans"
+        ],
+        [
+            "SOD1",
+            "Superoxide dismutase [Cu-Zn]",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "GSTA2",
+            "Glutathione S-transferase A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SCARB1",
+            "Scavenger receptor class B member 1",
+            "Humans"
+        ],
+        [
+            "ABCA1",
+            "ATP-binding cassette sub-family A member 1",
+            "Humans"
+        ],
+        [
+            "NPC1L1",
+            "Niemann-Pick C1-like protein 1",
+            "Humans"
+        ],
+        [
+            "ABCG1",
+            "ATP-binding cassette sub-family G member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "SEC14L2",
+            "SEC14-like protein 2",
+            "Humans"
+        ],
+        [
+            "SEC14L3",
+            "SEC14-like protein 3",
+            "Humans"
+        ],
+        [
+            "PLTP",
+            "Phospholipid transfer protein",
+            "Humans"
+        ],
+        [
+            "TTPA",
+            "Alpha-tocopherol transfer protein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

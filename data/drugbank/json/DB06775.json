@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA165958402",
+    "drugbank_id": "DB06775",
+    "names": [
+        "Carglumic acid"
+    ],
+    "description": "Carglumic acid is a drug used for the treatment of hyperammonemia in patients with a deficiency in N-acetyl glutamate synthase. This rare genetic disorder results in elevated blood levels of ammonia, which can eventually cross the blood\u2013brain barrier and cause neurologic problems, cerebral edema, coma, and death. Carglumic acid was approved by the U.S. Food and Drug Administration (FDA) on 18 March 2010.",
+    "indication": "For the treatment of acute and chronic hyperammonaemia in patients with N-acetylglutamate synthase (NAGS) deficiency. This enzyme is an important component of the urea cycle to prevent build up of neurotoxic ammonium in the blood. ",
+    "pharmacodynamics": "The median Tmax of Carbaglu was 3 hours (range: 2-4). The daily dose of carglumic acid ranges from 100 to 250 mg/kg and this does are normally adjusted to maintain normal plasma levels of ammonia.",
+    "mechanism-of-action": "Carglumic acid is a synthetic structural analogue of N-acetylglutamate (NAG), which is an essential allosteric activator of the liver enzyme carbamoyl phosphate synthetase 1 (CPS1). CPS1 is found in the mitochondria and is the first enzyme of the urea cycle, which converts ammonia into urea. Carglumic acid acts as a replacement for NAG in NAGS deficiency patients by activating CPS1 but it does not help to regulate the urea cycle.",
+    "absorption": "30% bioavailability;\r\nCmax, mean, 100 mg/kg dose = 2.6 \u03bcg/mL (range of 1.9 - 4.8)  \r\nCarglumic acid is not subject to to intracellular degradation. ",
+    "metabolism": "A proportion of carglumic acid may be metabolized by the intestinal bacterial flora. The likely end product of carglumic acid metabolism is carbon dioxide, eliminated through the lungs.",
+    "toxicity": "LD50, oral, mouse: >1000 mg/kg ",
+    "targets": [
+        [
+            "CPS1",
+            "Carbamoyl-phosphate synthase [ammonia], mitochondrial",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

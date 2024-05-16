@@ -1,0 +1,84 @@
+{
+    "pharmgkb_id": "PA449319",
+    "drugbank_id": "DB00390",
+    "names": [
+        "Digoxin",
+        "Agoxin",
+        "Cardiacin",
+        "Cardiogoxin",
+        "Cardioxin",
+        "Cardoxin",
+        "Celoxin",
+        "Centoxin",
+        "Digacin",
+        "Digazolan",
+        "Digocard-G",
+        "Digoxina",
+        "Eudigox",
+        "Lanacordin",
+        "Lanacrist",
+        "Lanadicor",
+        "Lanicor",
+        "Lenoxin"
+    ],
+    "description": "Digoxin is one of the oldest cardiovascular medications used today.[A178225] It is a common agent used to manage atrial fibrillation and the symptoms of heart failure.[A178234] Digoxin is classified as a cardiac glycoside and was initially approved by the FDA in 1954.[L9143]\r\n\r\nThis drug originates from the foxglove plant, also known as the _Digitalis_ plant[T610], studied by William Withering, an English physician and botanist in the 1780s.[A178237,A178240] Prior to this, a Welsh family, historically referred to as the _Physicians of Myddvai_, formulated drugs from this plant. They were one of the first to prescribe cardiac glycosides, according to ancient literature dating as early as the 1250s.[A178240]",
+    "indication": "Digoxin is indicated in the following conditions: 1) For the treatment of mild to moderate heart failure in adult patients.[L9143] 2) To increase myocardial contraction in children diagnosed with heart failure.[L9143] 3) To maintain control ventricular rate in adult patients diagnosed with chronic atrial fibrillation.[L9143]\r\n\r\nIn adults with heart failure, when it is clinically possible, digoxin should be administered in conjunction with a diuretic and an angiotensin-converting enzyme (ACE) inhibitor for optimum effects.[L9143]\r\n\r\n",
+    "pharmacodynamics": "Digoxin is a positive inotropic and negative chronotropic drug[A178234], meaning that it increases the force of the heartbeat and decreases the heart rate.[L6253] The decrease in heart rate is particularly useful in cases of atrial fibrillation, a condition characterized by a fast and irregular heartbeat.[A178282] The relief of heart failure symptoms during digoxin therapy has been demonstrated in clinical studies by increased exercise capacity and reduced hospitalization due to heart failure and reduced heart failure-related emergency medical visits.[L9143] Digoxin has a narrow therapeutic window.[L9143]\r\n\r\n**A note on cardiovascular risk**\r\n\r\nDigoxin poses a risk of rapid ventricular response that can cause ventricular fibrillation in patients with an accessory atrioventricular (AV) pathway. Cardiac arrest as a result of ventricular fibrillation is fatal.[L9143] An increased risk of fatal severe or complete heart block is present in individuals with pre-existing sinus node disease and AV block who take digoxin.[L9143]\r\n\r\n",
+    "mechanism-of-action": "Digoxin exerts hemodynamic, electrophysiologic, and neurohormonal effects on the cardiovascular system.[A178234] It reversibly inhibits the Na-K ATPase enzyme, leading to various beneficial effects.  The Na-K ATPase enzyme functions to maintain the intracellular environment by regulating the entry and exit of sodium, potassium, and calcium (indirectly). Na-K ATPase is also known as the _sodium pump_[L9143]. The inhibition of the sodium pump by digoxin increases intracellular sodium and increases the calcium level in the myocardial cells, causing an increased contractile force of the heart.[L9143,A178264] This improves the left ventricular ejection fraction (EF), an important measure of cardiac function.[A178234,T613]\r\n\r\nDigoxin also stimulates the parasympathetic nervous system via the vagus nerve[T607] leading to sinoatrial (SA) and atrioventricular (AV) node effects, decreasing the heart rate.[L9143,A178234] Part of the pathophysiology of heart failure includes neurohormonal activation, leading to an increase in norepinephrine. Digoxin helps to decrease norepinephrine levels through activation of the parasympathetic nervous system.[A178234]",
+    "absorption": "Digoxin is approximately 70-80% absorbed in the first part of the small bowel.[A178228]  The bioavailability of an oral dose varies from 50-90%, however, oral gelatinized capsules of digoxin are reported to have a bioavailability of 100%.[A178252] Tmax, or the time to reach the maximum concentration of digoxin was measured to be 1.0 h in one clinical study of healthy patients taking 0.25 mg of digoxin with a placebo.[A178369] Cmax, or maximum concentration, was 1.32 \u00b1 0.18 ng/ml\u22121 in the same study, and AUC (area under the curve) was 12.5 \u00b1 2.38 ng/ml\u22121.[A178369]\r\nIf digoxin is ingested after a meal, absorption is slowed but this does not change the total amount of absorbed drug. If digoxin is taken with meals that are in fiber, absorption may be decreased.[L6274]\r\n\r\n**A note on gut bacteria**\r\n\r\nAn oral dose of digoxin may be transformed into pharmacologically inactive products by bacteria in the colon. Studies have indicated that 10% of patients receiving digoxin tablets will experience the degradation of at least 40% of an ingested dose of digoxin by gut bacteria. Several antibiotics may increase the absorption of digoxin in these patients, due to the elimination of gut bacteria, which normally cause digoxin degradation.[L9143] \r\n\r\n**A note on malabsorption**\r\n\r\nPatients with malabsorption due to a variety of causes may have a decreased ability to absorb digoxin.[L9143] P-glycoprotein, located on cells in the intestine, may interfere with digoxin pharmacokinetics, as it is a substrate of this efflux transporter. P-glycoprotein can be induced by other drugs, therefore reducing the effects of digoxin by increasing its efflux in the intestine.[L9143] ",
+    "metabolism": "About 13% of a digoxin dose is found to be metabolized in healthy subjects. Several urinary metabolites of digoxin exist, including _dihydrodigoxin_ and _digoxigenin bisdigitoxoside_. Their glucuronidated and sulfated conjugates are thought to be produced through the process of hydrolysis, oxidation, and additionally, conjugation. The cytochrome P-450 system does not play a major role in digoxin metabolism, nor does this drug induce or inhibit the enzymes in this system.[L9143]",
+    "toxicity": "Oral TDLO (human female): 100 ug/kg, Oral TDLO (human male): 75 ug/kg, Oral LD50 (rat): 28270 ug/kg[MSDS]\r\n\r\nDigoxin toxicity can occur in cases of supratherapeutic dose ingestion or as a result of chronic overexposure.[T607] Digoxin toxicity may be manifested by symptoms of nausea, vomiting, visual changes, in addition to arrhythmia.  Older age,  lower body weight, and decreased renal function or electrolyte abnormalities lead to an increased risk of digoxin toxicity.[L9143]\r\n",
+    "targets": [
+        [
+            "ATP1A1",
+            "Sodium/potassium-transporting ATPase subunit alpha-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP11A1",
+            "Cholesterol side-chain cleavage enzyme, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO4C1",
+            "Solute carrier organic anion transporter family member 4C1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC51A",
+            "Organic solute transporter subunit alpha",
+            "Humans"
+        ],
+        [
+            "SLC51B",
+            "Organic solute transporter subunit beta",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

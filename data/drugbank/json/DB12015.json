@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA166184523",
+    "drugbank_id": "DB12015",
+    "names": [
+        "Alpelisib"
+    ],
+    "description": "Alpelisib is a phosphatidylinositol 3-kinase (PI3K) inhibitor with potent antitumor activity. It works by selectively inhibiting class I PI3K p110\u03b1 [A179203], which is the catalytic subunit of PI3K, a lipid kinase that plays a role in various biological processes, including proliferation, survival, differentiation, and metabolism. Alpelisib was designed to target this enzyme that appears to be mutated at a rate of nearly 30% in human cancers, leading to hyperactivation.[A179209] \r\n\r\nThere are several isoform-specific PI3K inhibitors that are under clinical development or currently approved, such as [idelalisib] used for chronic lymphocytic leukemia (CLL).[A179209] Approved by the FDA in May 2019, alpelisib is the first approved PI3K inhibitor indicated for the treatment of hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, PIK3CA-mutated, advanced or metastatic breast cancer in combination with [fulvestrant] for postmenopausal women and male patients. To initiate alpelisib therapy, it is required that the presence of a PIK3CA mutation in the tissue and/or liquid biopsy sample collection should be confirmed via FDA-approved diagnostic tests. Alpelisib is marketed under the trade name Piqray and is available as oral tablets. Studies evaluating the therapeutic effectiveness of alpelisib in other cancers, such as ovarian cancer [A179200] and colorectal cancer [A179203], are under ongoing investigations.\r\n\r\nAlpelisib was granted FDA approval on 24 May 2019.[L6652] In April 2022, the FDA granted the use of alpelisib in the treatment of PIK3CA-Related Overgrowth Spectrum (PROS) in adults and children who require systemic therapy.[L41384]",
+    "indication": "Alpelisib is indicated in combination with fulvestrant to treat postmenopausal women, and men, with advanced or metastatic breast cancer. This cancer must be hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative, and PIK3CA\u00ad mutated. The cancer must be detected by an FDA-approved test following progression on or after an endocrine-based regimen.[L6652]\r\n\r\nAlpelisib is also used to treat adult and pediatric patients two years of age and older with severe manifestations of PIK3CA-Related Overgrowth Spectrum (PROS) who require systemic therapy. This indication is approved under accelerated approval based on response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).[L41384]",
+    "pharmacodynamics": "Alpelisib does not prolong the QTcF interval.[L6652] Patients taking alpelisib experience a dose dependent benefit from treatment with a 51% advantage of a 200mg daily dose over a 100mg dose and a 22% advantage of 300mg once daily over 150mg twice daily.[A179260] This suggests patients requiring a lower dose may benefit from twice daily dosing.[A179260]",
+    "mechanism-of-action": "Phosphatidylinositol-3-kinase-\u03b1 (PI3K\u03b1) is responsible for cell proliferation in response to growth factor-tyrosine kinase pathway activation.[A179209] In some cancers PI3K\u03b1's p110\u03b1 catalytic subunit is mutated making it hyperactive.[A179209] Alpelisib inhibits (PI3K), with the highest specificity for PI3K\u03b1.[L6652]",
+    "absorption": "Alpelisib reached a peak concentration in plasma of 1320\u00b1912ng/mL after 2 hours.[A179254] Alpelisib has an AUC<sub>last</sub> of 11,100\u00b13760h ng/mL and an AUC<sub>INF</sub> of 11,100\u00b13770h ng/mL.[A179254] A large, high fat meal increases the AUC by 73% and C<sub>max</sub> by 84% while a small, low fat meal increases the AUC by 77% and C<sub>max</sub> by 145%.[L6652]",
+    "metabolism": "Alpelisib is metabolized by hydrolysis reactions to form the primary metabolite. It is also metabolized by CYP3A4.[L6652] The full metabolism of Alpelisib has yet to be determined but a series of reactions have been proposed.[A179254,A179257] The main metabolic reaction is the substitution of an amine group on alpelisib for a hydroxyl group to form a metabolite known as M4[A179254,A179257] or BZG791.[L6652] Alpelisib can also be glucuronidated to form the M1 and M12 metabolites.[A179254,A179257]",
+    "toxicity": "Patients experiencing an overdose may present with hyperglycemia, nausea, asthenia, and rash. There is no antidote for an overdose of alpelisib so patients should be treated symptomatically.[L6652] \r\n\r\nData regarding an LD<sub>50</sub> is not readily available.[L41389] In clinical trials, patients were given doses of up to 450mg once daily.[L6652]",
+    "targets": [
+        [
+            "PIK3CA",
+            "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

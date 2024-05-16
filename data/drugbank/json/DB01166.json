@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA164746334",
+    "drugbank_id": "DB01166",
+    "names": [
+        "Cilostazol",
+        "Pletaal"
+    ],
+    "description": "Cilostazol is a quinolinone derivative and antiplatelet agent with vasodilating properties that has been used in the symptomatic treatment of intermittent claudication in patients with peripheral ischaemia. It is marketed under the brand name Pletal by Otsuka Pharmaceutical Co.. Cilostazol works by inhibiting both primary and secondary aggregation and reducing calcium-induced contractions.",
+    "indication": "Indicated for the alleviation of symptoms of intermittent claudication (pain in the legs that occurs with walking and disappears with rest).",
+    "pharmacodynamics": "Cilostazol reduces the symptoms of intermittent claudication, as indicated by an increased walking distance. Intermittent claudication is pain in the legs that occurs with walking and disappears with rest. The pain occurs due to reduced blood flow to the legs.",
+    "mechanism-of-action": "Cilostazol and several of its metabolites are cyclic AMP (cAMP) phosphodiesterase III inhibitors (PDE III inhibitors), inhibiting phosphodiesterase activity and suppressing cAMP degradation with a resultant increase in cAMP in platelets and blood vessels, leading to inhibition of platelet aggregation and vasodilation.",
+    "absorption": "Cilostazol is absorbed after oral administration. A high fat meal increases absorption, with an approximately 90% increase in C<sub>max</sub> and a 25% increase in AUC. Absolute bioavailability is not known.",
+    "metabolism": "Hepatic. Cilostazol is extensively metabolized by hepatic cytochrome P-450 enzymes, mainly 3A4, and, to a lesser extent, 2C19, with metabolites largely excreted in urine. Two metabolites are active, with one metabolite appearing to account for at least 50% of the pharmacologic (PDE III inhibition) activity after administration of cilostazol. ",
+    "toxicity": "Information on acute overdosage with cilostazol in humans is limited. The signs and symptoms of an acute overdose can be anticipated to be those of excessive pharmacologic effect: severe headache, diarrhea, hypotension, tachycardia, and possibly cardiac arrhythmias. The oral LD<sub>50</sub> of cilostazol is >5.0 g/kg in mice and rats and >2.0 g/kg in dogs.",
+    "targets": [
+        [
+            "PDE3A",
+            "cGMP-inhibited 3',5'-cyclic phosphodiesterase A",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

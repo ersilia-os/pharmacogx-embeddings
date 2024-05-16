@@ -1,0 +1,72 @@
+{
+    "pharmgkb_id": "PA166163740",
+    "drugbank_id": "DB06605",
+    "names": [
+        "Apixaban"
+    ],
+    "description": "Apixaban is an oral, direct, and highly selective factor Xa (FXa) inhibitor of both free and bound FXa, as well as prothrombinase, independent of antithrombin III for the prevention and treatment of thromboembolic diseases[Label,A6897]. It is marketed under the name Eliquis[Label,L6043]. Apixaban was approved by the FDA on December 28, 2012[L6043].",
+    "indication": "Apixaban is indicated for reducing the risk of stroke and systemic embolism in patients who have nonvalvular atrial fibrillation, prophylaxis of deep vein thrombosis(DVT) leading to pulmonary embolism(PE) in patients after a hip or knee replacement surgery, and treatment of DVT and PE to reduce the risk of recurrence[Label,A177565,A6897].",
+    "pharmacodynamics": "Apixaban selectively inhibits factor Xa in its free and bound forms, independant of antithrombin III[Label]. Apixaban also inhibits prothrominase[Label]. These effects prevent the formation of a thrombus[Label].",
+    "mechanism-of-action": "Apixaban selectively inhibits factor Xa in its free and bound forms, independant of antithrombin III[Label]. Apixaban also inhibits prothrominase[Label]. These effects prevent the formation of a thrombus[Label].",
+    "absorption": "Apixaban is approximately 50% bioavailable[Label] though other studies report 43-46% oral bioavailability[A177565].",
+    "metabolism": "50% of the orally administered dose is excreted as the unchanged parent compound, however 25% of the dose is excreted as O-demethyl apixaban sulfate[Label,A177565]. All apixaban metabolites account for approximately 32% of the excreted dose though the structure of all metabolites are not well defined[A177565]. Apixaban is mainly metabolized by cytochrome p450(CYP)3A4 and to a lesser extent by CYP1A2, CYP2C8, CYP2C9, CYP2C19, and CYP2J2[Label].",
+    "toxicity": "Animal studies have shown an increased risk of maternal bleeding during pregnancy but no increase in fetal malformations or fetal or maternal deaths[Label]. It is unknown if this animal data also translates to humans so apixaban should only be used in pregnancy if the benefits outweigh the risks[Label]. It is not know whether apixaban is safe and effective in labor and during birth, though animal studies have shown an increased rate of maternal bleeding[Label]. Animal studies in rats show apixaban excreted in milk, though it is not know if this also applies to humans[Label]. Nursing mothers should either stop breastfeeding or stop taking apixaban depending on the risk and benefit of each option[Label]. Studies to determine safety and effectiveness in pediatric patients have yet to be performed[Label]. Studies that involved geriatric patients (at least 75 years old) saw no difference in safety or effectiveness compared to younger patients, though geriatric patients at an especially advanced age may be more susceptible to adverse effects[Label]. Dosage adjustments for patients with end stage renal disease(ESRD) are based on estimates of pharmacokinetic principles and not clinical study[Label]. Patients with ESRD may experience pharmacodynamics similar to those seen in well controlled studies but it may not lead to the same clinical effects[Label]. Dosage adjustments are not necessary in mild hepatic impairment[Label]. In moderate hepatic impairment patients may already experience abnormalities in coagulation and so no dose recommendations are possible[Label]. Apixaban is not recommended for patients with severe hepatic impairment[Label].",
+    "targets": [
+        [
+            "F10",
+            "Coagulation factor X",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2J2",
+            "Cytochrome P450 2J2",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

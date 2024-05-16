@@ -1,0 +1,33 @@
+{
+    "pharmgkb_id": "PA451255",
+    "drugbank_id": "DB00884",
+    "names": [
+        "Risedronic acid",
+        "Benet",
+        "Ridron"
+    ],
+    "description": "Risedronic acid is a third generation bisphosphonate that is used for the treatment of some forms of osteoperosis and Paget's disease[FDA Label][A959,A203111]. It functions by preventing resorption of bone[FDA Label][A959].",
+    "indication": "Risedronic acid is indicated for the treatment of osteoperosis in men, treatment of Paget's disease, treatment and prevention of osteoperosis in postmenopausal women, and treatment and prevention of glucocorticoid-induced osteoperosis[FDA Label].",
+    "pharmacodynamics": "Risedronate is a pyridine-based bisphosphonate that inhibits bone resorption caused by osteoclasts[FDA Label].",
+    "mechanism-of-action": "Risedronatic acid binds to bone hydroxyapatite[FDA Label]. Bone resorption causes local acidification, releasing risedronic acid which is that taken into osteoclasts by fluid-phase endocytosis[A959]. Endocytic vesicles are acidified, releasing risedronic acid to the cytosol of osteoclasts where they induce apoptosis through inhbition of farnesyl pyrophosphate synthase[A959]. Inhibition of osteoclasts results in decreased bone resorption[A959].",
+    "absorption": "Oral bioavailability is 0.63% and maximum absorption is approximately 1 hour after dosing[FDA Label]. Administration half and hour before a meal reduces bioavailability by 55% compared to fasting and dosing 1 hour before a meal reduces bioavailability by 30%[FDA Label].",
+    "metabolism": "Risedronic acid is not likely not metabolized before elimination[FDA Label]. The P-C-P group of bisphosphonates is resistant to chemical and enzymatic hydrolysis preventing metabolism of the molecule[A959].",
+    "toxicity": "In clinical trials, over 10% of patients experienced back pain, arthralgia, abdominal pain, and dyspepsia[FDA Label]. Less commonly, patients experience angioedema, generalized rash, bullous skin reactions, iritis, and uveitis[FDA Label].\r\n\r\nPatients experiencing an overdose may experience a decrease in serum calcium and phosphorus[FDA Label]. Patients can be given milk or antacids to bind the drug and reduce its absorption[FDA Label]. In more severe cases, patients may require gastric lavage and intravenous calcium[FDA Label]. A lethal dose in rats is equivalent to 320 to 620 times the human dose based on surface area[FDA Label].",
+    "targets": [
+        [
+            "FDPS",
+            "Farnesyl pyrophosphate synthase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

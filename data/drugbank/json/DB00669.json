@@ -1,0 +1,96 @@
+{
+    "pharmgkb_id": "PA451566",
+    "drugbank_id": "DB00669",
+    "names": [
+        "Sumatriptan",
+        "Adracon",
+        "Altaxa",
+        "Apigrane",
+        "Boots Pharmacy Migraine Relief",
+        "Cinie",
+        "Frimig",
+        "Illument",
+        "Imigen",
+        "Imigran",
+        "Imigran mite",
+        "Imigran Radis",
+        "Imigrane",
+        "Imitrex Oral",
+        "Migralgin",
+        "Migraneitor",
+        "Nazdav",
+        "Sapphirex",
+        "Sumatran",
+        "Sumax",
+        "Suminat",
+        "Youshu"
+    ],
+    "description": "Sumatriptan is a serotonin receptor agonist commonly used to treat migraines and sometimes cluster headaches.[L6793,L6796,L6799,L6805,L6808,L6811] Sumatriptan is the first of the triptans and was made available in Europe in 1991 to treat migraines.[A179761] Sumatriptan was granted FDA approval on 28 December 1992.[L6805]",
+    "indication": "A combination sumatriptan and [naproxen] tablet is indicated for the treatment of migraines with or without auras in patients 12 years of age and older.[L6793] Sumatriptan nasal powder, nasal spray, subcutaneous injection, and tablets are indicated to treat migraines with or without auras in adults.[L6796,L6799,L6805,L6808,L6811] One of the subcutaneous formulations of sumatriptan is also indicated to treat cluster headaches in adults[L6805], while the other subcutaneous formulation is not.[L6808]",
+    "pharmacodynamics": "Sumatriptan constricts cranial blood vessels and prevents the release of vasoactive peptides.[A179734] The dose of sumatriptan varies widely by route of administration and in most cases, no more than 2 doses should be given daily.[L6793,L6796,L6799,L6805,L6808,L6811] Medication overuse headaches may occur in patients who use sumatriptan frequently.[L6793,L6796,L6799,L6805,L6808,L6811]",
+    "mechanism-of-action": "Sumatriptan is an agonist of 5-HT<sub>1B</sub> and 5-HT<sub>1D</sub>.[L6793,L6796,L6799,L6805,L6808,L6811] This agonism leads to constriction of cranial blood vessels and inhibits the release of pro-inflammatory neuropeptides.[L6793,L6796,L6799,L6805,L6808,L6811] Sumatriptan decreases carotid arterial blood flow, but increases blood flow velocity in the internal carotid artery and middle cerebral artery.[A179734 Agonism of the 5-HT<sub>1B</sub> and 5-HT<sub>1D</sub> receptors also inhibits sensory neurons, preventing the release of vasoactive peptides.[A179734 Sumatriptan does not cross the blood brain barrier.[A179734]",
+    "absorption": "A 6mg subcutaneous injection of sumatriptan reaches a C<sub>max</sub> of 69.5ng/mL (95% CI  of 62.8-76.9ng/mL) with a T<sub>max</sub> of 0.17h (95% CI  of 0.08-0.33h), an AUC of 9.0h\\*ng/mL (95% CI of 7.5-10.9h\\*ng/mL), and a bioavailability of 100%.[A179737]\r\n\r\nA 25mg oral dose of sumatriptan reaches a C<sub>max</sub> of 16.5ng/mL (95% CI  of 13.5-20.1ng/mL) with a T<sub>max</sub> of 1.50h (95% CI  of 0.50-2.00h), an AUC of 8.7h\\*ng/mL (95% CI of 6.1-12.5h\\*ng/mL), and a bioavailability of 14.3% (95% CI of 11.4-17.9%).[A179737]\r\n\r\nA 20mg intranasal dose of sumatriptan reaches a C<sub>max</sub> of 12.9ng/mL (95% CI  of 10.5-15.9ng/mL) with a T<sub>max</sub> of 1.50h (95% CI  of 0.25-3.00h), an AUC of 7.4h\\*ng/mL (95% CI of 5.0-10.8h\\*ng/mL), and a bioavailability of 15.8% (95% CI of 12.6-19.8%).[A179737]\r\n\r\nA 25mg rectal dose of sumatriptan reaches a C<sub>max</sub> of 22.9ng/mL (95% CI  of 18.4-28.6ng/mL) with a T<sub>max</sub> of 1.00h (95% CI  of 0.75-3.00h), an AUC of 14.6h\\*ng/mL (95% CI of 11.3-18.8h\\*ng/mL), and a bioavailability of 19.2% (95% CI of 15.3-24.1%).[A179737]",
+    "metabolism": "Sumatriptan is predominantly metabolized by monoamine oxidase A[L6799,L6811,L6805,L6811,L6793,L6808]. The main metabolites are the inactive indole acetic acid and indole acetic acid glucuronide.[L6799,L6811,L6805,L6811,L6793,L6808]",
+    "toxicity": "Symptoms of overdose include convulsions, tremor, paralysis, inactivity, ptosis, erythema of the extremities, abnormal respiration, cyanosis, ataxia, mydriasis, salivation, and lacrimation.[L6793,L6796,L6799,L6805,L6808,L6811] Overdoses may be fatal and patients should be monitored for 3-5 half lives or while symptoms persist.[L6793,L6796,L6799,L6805,L6808,L6811]",
+    "targets": [
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1D",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1B",
+            "Humans"
+        ],
+        [
+            "HTR1F",
+            "5-hydroxytryptamine receptor 1F",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00669",
+            "Drug Name": "Sumatriptan",
+            "Gene Symbol": "GNB3",
+            "RS ID (Genotype)": "rs5443",
+            "Effect Description": "Patients with this genotype have an increased likelihood of responding to sumatriptan when treating (condition: cluster headache)."
+        }
+    ]
+}

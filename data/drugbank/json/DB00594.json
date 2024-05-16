@@ -1,0 +1,91 @@
+{
+    "pharmgkb_id": "PA448368",
+    "drugbank_id": "DB00594",
+    "names": [
+        "Amiloride",
+        "Arumil",
+        "Kaluril",
+        "Modamide",
+        "Moduretic"
+    ],
+    "description": "A pyrazine compound inhibiting sodium reabsorption through sodium channels in renal epithelial cells. This inhibition creates a negative potential in the luminal membranes of principal cells, located in the distal convoluted tubule and collecting duct. Negative potential reduces secretion of potassium and hydrogen ions. Amiloride is used in conjunction with diuretics to spare potassium loss. (From Gilman et al., Goodman and Gilman's The Pharmacological Basis of Therapeutics, 9th ed, p705)",
+    "indication": "For use as adjunctive treatment with thiazide diuretics or other kaliuretic-diuretic agents in congestive heart failure or hypertension.",
+    "pharmacodynamics": "Amiloride, an antikaliuretic-diuretic agent, is a pyrazine-carbonyl-guanidine that is unrelated chemically to other known antikaliuretic or diuretic agents. It is an antihypertensive, potassium-sparing diuretic that was first approved for use in 1967 and helps to treat hypertension and congestive heart failure. The drug is often used in conjunction with thiazide or loop diuretics. Due to its potassium-sparing capacities, hyperkalemia (high blood potassium levels) are occasionally observed in patients taking amiloride. The risk is high in concurrent use of ACE inhibitors or spironolactone. Patients are also advised not to use potassium-containing salt replacements.",
+    "mechanism-of-action": "Amiloride works by inhibiting sodium reabsorption in the distal convoluted tubules and collecting ducts in the kidneys by binding to the amiloride-sensitive sodium channels. This promotes the loss of sodium and water from the body, but without depleting potassium. Amiloride exerts its potassium sparing effect through the inhibition of sodium reabsorption at the distal convoluted tubule, cortical collecting tubule and collecting duct; this decreases the net negative potential of the tubular lumen and reduces both potassium and hydrogen secretion and their subsequent excretion. Amiloride is not an aldosterone antagonist and its effects are seen even in the absence of aldosterone.",
+    "absorption": "Readily absorbed following oral administration.",
+    "metabolism": "Amiloride is not metabolized by the liver but is excreted unchanged by the kidneys.",
+    "toxicity": "No data are available in regard to overdosage in humans. The oral LD<sub>50</sub> of amiloride hydrochloride (calculated as the base) is 56 mg/kg in mice and 36 to 85 mg/kg in rats, depending on the strain. The most likely signs and symptoms to be expected with overdosage are dehydration and electrolyte imbalance.",
+    "targets": [
+        [
+            "SCNN1A",
+            "Amiloride-sensitive sodium channel subunit alpha",
+            "Humans"
+        ],
+        [
+            "SCNN1B",
+            "Amiloride-sensitive sodium channel subunit beta",
+            "Humans"
+        ],
+        [
+            "SCNN1G",
+            "Amiloride-sensitive sodium channel subunit gamma",
+            "Humans"
+        ],
+        [
+            "SCNN1D",
+            "Amiloride-sensitive sodium channel subunit delta",
+            "Humans"
+        ],
+        [
+            "AOC1",
+            "Amiloride-sensitive amine oxidase [copper-containing]",
+            "Humans"
+        ],
+        [
+            "ASIC2",
+            "Acid-sensing ion channel 2",
+            "Humans"
+        ],
+        [
+            "ASIC1",
+            "Acid-sensing ion channel 1",
+            "Humans"
+        ],
+        [
+            "SLC9A1",
+            "Sodium/hydrogen exchanger 1",
+            "Humans"
+        ],
+        [
+            "PLAU",
+            "Urokinase-type plasminogen activator",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "AOC1",
+            "Amiloride-sensitive amine oxidase [copper-containing]",
+            "Humans"
+        ],
+        [
+            "AOC1",
+            "Amiloride-sensitive amine oxidase [copper-containing]",
+            "Pig"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

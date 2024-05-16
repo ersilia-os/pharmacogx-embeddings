@@ -1,0 +1,70 @@
+{
+    "pharmgkb_id": "PA448966",
+    "drugbank_id": "DB00672",
+    "names": [
+        "Chlorpropamide",
+        "Abemide",
+        "Chloronase",
+        "Dabinese",
+        "Diabeedol",
+        "Diabemide",
+        "Diabezin",
+        "Diabitex",
+        "Dibecon",
+        "Glycemin",
+        "Hypomide",
+        "Litangen",
+        "Propamide",
+        "Trane"
+    ],
+    "description": "Chlorpropamide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It belongs to the sulfonylurea class of insulin secretagogues, which act by stimulating \u03b2 cells of the pancreas to release insulin. Sulfonylureas increase both basal insulin secretion and meal-stimulated insulin release. Medications in this class differ in their dose, rate of absorption, duration of action, route of elimination and binding site on their target pancreatic \u03b2 cell receptor. Sulfonylureas also increase peripheral glucose utilization, decrease hepatic gluconeogenesis and may increase the number and sensitivity of insulin receptors. Sulfonylureas are associated with weight gain, though less so than insulin. Due to their mechanism of action, sulfonylureas may cause hypoglycemia and require consistent food intake to decrease this risk. The risk of hypoglycemia is increased in elderly, debilitated and malnourished individuals. Chlorpropamide is not recommended for the treatment of NIDDM as it increases blood pressure and the risk of retinopathy (UKPDS-33). Up to 80% of the single oral dose of chlorpropramide is metabolized, likely in the liver; 80-90% of the dose is excreted in urine as unchanged drug and metabolites. Renal and hepatic dysfunction may increase the risk of hypoglycemia.",
+    "indication": "For treatment of NIDDM in conjunction with diet and exercise. ",
+    "pharmacodynamics": "Chlorpropamide, a second-generation sulfonylurea antidiabetic agent, is used with diet to lower blood glucose levels in patients with diabetes mellitus type II. Chlorpropamide is twice as potent as the related second-generation agent glipizide.",
+    "mechanism-of-action": "Sulfonylureas such as chlorpropamide bind to ATP-sensitive potassium channels on the pancreatic cell surface, reducing potassium conductance and causing depolarization of the membrane. Depolarization stimulates calcium ion influx through voltage-sensitive calcium channels, raising intracellular concentrations of calcium ions, which induces the secretion, or exocytosis, of insulin.",
+    "absorption": "Readily absorbed from the GI tract. Peak plasma concentrations occur within 2-4 hours and the onset of action occurs within one hour. The maximal effect of chlorpropamide is seen 3-6 hours following oral administration. ",
+    "metabolism": "Up to 80% of dose is metabolized likely through the liver to to 2-hydroxylchlorpropamide (2-OH CPA), p-chlorobenzenesulfonylurea (CBSU), 3-hydroxylchlorpropamide (3-OH CPA), and p-chlorobenzenesulfonamide (CBSA); CBSA may be produced by decomposition in urine. It is unknown whether chlorpropamide metabolites exert hypoglycemic effects. ",
+    "toxicity": "IPN-RAT LD<sub>50</sub> 580 mg/kg",
+    "targets": [
+        [
+            "ABCC8",
+            "ATP-binding cassette sub-family C member 8",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

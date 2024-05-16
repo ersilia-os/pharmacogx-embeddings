@@ -1,0 +1,113 @@
+{
+    "pharmgkb_id": "PA451257",
+    "drugbank_id": "DB00734",
+    "names": [
+        "Risperidone",
+        "Risperidal M-Tab",
+        "Risperin",
+        "Rispolept",
+        "Rispolin",
+        "Sequinan"
+    ],
+    "description": "Risperidone is a second-generation antipsychotic (SGA) medication used in the treatment of a number of mood and mental health conditions including schizophrenia and bipolar disorder.[L12885] It is one of the most widely used SGAs. [Paliperidone], another commonly used SGA, is the primary active metabolite of risperidone (i.e. 9-hydroxyrisperidone).[L12885]\r\n\r\nSchizophrenia and various mood disorders are thought to be caused by an excess of dopaminergic D2 and serotonergic 5-HT2A activity, resulting in overactivity of central mesolimbic pathways and mesocortical pathways, respectively. Risperidone is thought to reduce this overactivity through inhibition of dopaminergic D2 receptors and serotonergic 5-HT2A receptors in the brain.[L12885]\r\n\r\nRisperidone binds with a very high affinity to 5-HT2A receptors, approximately 10-20 fold greater than the drug's binding affinity to D2 receptors, and carries lesser activity at several off-targets which may responsible for some of its undesirable effects.[L12885]",
+    "indication": "Risperidone is indicated for the treatment of schizophrenia [L12885,L44692,L46297] and irritability associated with autistic disorder.[L12885] It is also indicated as monotherapy, or adjunctly with lithium or valproic acid, for the treatment of acute mania or mixed episodes associated with bipolar I disorder.[L12885,L44692]\r\n\r\nRisperidone is additionally indicated in Canada for the short-term symptomatic management of aggression or psychotic symptoms in patients with severe dementia of the Alzheimer type unresponsive to nonpharmacological approaches.[L12906]\r\n\r\nRisperidone is also used off-label for a number of conditions including as an adjunct to antidepressants in treatment-resistant depression.[A177226]",
+    "pharmacodynamics": "The primary action of risperidone is to decrease dopaminergic and serotonergic pathway activity in the brain, therefore decreasing symptoms of schizophrenia and mood disorders.[A1115,A1116]\r\n\r\nRisperidone has a high binding affinity for serotonergic 5-HT2A receptors when compared to dopaminergic D2 receptors in the brain.[A1114,A1115] Risperidone binds to D2 receptors with a lower affinity than first-generation antipsychotic drugs, which bind with very high affinity. A reduction in extrapyramidal symptoms with risperidone, when compared to its predecessors, is likely a result of its moderate affinity for dopaminergic D2 receptors.[A1119,A1117]",
+    "mechanism-of-action": "Though its precise mechanism of action is not fully understood, current focus is on the ability of risperidone to inhibit the D2 dopaminergic receptors and 5-HT2A serotonergic receptors in the brain. Schizophrenia is thought to result from an excess of dopaminergic D2 and serotonergic 5-HT2A activity, resulting in overactivity of central mesolimbic pathways and mesocortical pathways, respectively.[A1115, A1116, A1117]\r\n\r\nD2 dopaminergic receptors are transiently inhibited by risperidone, reducing dopaminergic neurotransmission, therefore decreasing positive symptoms of schizophrenia, such as delusions and hallucinations.[A251765] Risperidone binds transiently and with loose affinity to the dopaminergic D2 receptor, with an ideal receptor occupancy of 60-70% for optimal effect.[A1119,A31773] Rapid dissociation of risperidone from the D2 receptors contributes to decreased risk of extrapyramidal symptoms (EPS), which occur with permanent and high occupancy blockade of D2 dopaminergic receptors.[A1118,A1119] Low-affinity binding and rapid dissociation from the D2 receptor distinguish risperidone from the traditional antipsychotic drugs. A higher occupancy rate of D2 receptors is said to increase the risk of extrapyramidal symptoms and is therefore to be avoided.[A1118,A1119,A31771] \r\n \r\nIncreased serotonergic mesocortical activity in schizophrenia results in negative symptoms, such as depression and decreased motivation. The high-affinity binding of risperidone to 5-HT2A receptors leads to a decrease in serotonergic activity. In addition, 5-HT2A receptor blockade results in decreased risk of extrapyramidal symptoms, likely by increasing dopamine release from the frontal cortex, and not the nigrostriatal tract. Dopamine level is therefore not completely inhibited.[A1117,A1119] Through the above mechanisms, both serotonergic and D2 blockade by risperidone are thought to synergistically work to decrease the risk of extrapyramidal symptoms. \r\n \r\nRisperidone has also been said to be an antagonist of alpha-1 (\u03b11), alpha-2 (\u03b12), and histamine (H1) receptors.[A37034] Blockade of these receptors is thought to improve symptoms of schizophrenia, however the exact mechanism of action on these receptors is not fully understood at this time.[L12885]",
+    "absorption": "Well absorbed. The absolute oral bioavailability of risperidone is 70% (CV=25%). The relative oral bioavailability of risperidone from a tablet is 94% (CV=10%) when compared to a solution.[L12885]",
+    "metabolism": "Extensively metabolized by hepatic cytochrome P450 2D6 isozyme to 9-hydroxyrisperidone (i.e. [paliperidone]), which has approximately the same receptor binding affinity as risperidone.[A1118,A31772] Hydroxylation is dependent on debrisoquine 4-hydroxylase and metabolism is sensitive to genetic polymorphisms in debrisoquine 4-hydroxylase.[A1119,A31772] Risperidone also undergoes N-dealkylation to a lesser extent.[A1119,A31772]",
+    "toxicity": "Symptoms of overdose include lethargy, dystonia/spasm, tachycardia, bradycardia, and seizures. LD<sub>50</sub>=57.7 mg/kg (rat, oral) and 34 mg/kg (rat, intravenous).[A1117,A1118,A1119]",
+    "targets": [
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1D",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

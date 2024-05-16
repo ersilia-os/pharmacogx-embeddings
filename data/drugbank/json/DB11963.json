@@ -1,0 +1,68 @@
+{
+    "pharmgkb_id": "PA166182279",
+    "drugbank_id": "DB11963",
+    "names": [
+        "Dacomitinib"
+    ],
+    "description": "Dacomitinib, designed as (2E)-N-16-4-(piperidin-1-yl) but-2-enamide, is an oral highly selective quinazalone part of the second-generation tyrosine kinase inhibitors which are characterized by the irreversible binding at the ATP domain of the epidermal growth factor receptor family kinase domains.[A40009]\r\n\r\nDacomitinib was developed by Pfizer Inc and approved by the FDA on September 27, 2018.[L4810] Some evidence in the literature suggests the therapeutic potential of dacomitinib in the epithelial ovarian cancer model[A39624], although further investigations are needed.",
+    "indication": "Dacomitinib is indicated as the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletion or exon 21 L858R substitution mutations as verified by an FDA-approved test.[L4812]\r\n\r\nLung cancer is the leading cause of cancer death and NSCLC accounts for 85% of lung cancer cases. From the cases of NSCLC, approximately 75% of the patients present a late diagnosis with metastatic and advanced disease which produces a survival rate of 5%. The presence of a mutation in EGFR accounts for more than the 60% of the NSCLC cases and the overexpression of EGFR is associated with frequent lymph node metastasis and poor chemosensitivity.[A40018, A19201]",
+    "pharmacodynamics": "Preclinical data suggested that dacomitinib increases the inhibition of the epidermal growth factor receptor kinase domain as well as the activity in cell lines harboring resistance mutations such as T790M. This activity further produced a significant reduction of EGFR phosphorylation and cell viability. In these studies, non-small cell lymphoma cancer cell lines with L858R/T790M mutations where used and an IC50 of about 280 nmol/L was observed.[A40010]\r\n\r\nIn clinical trials with patients with advanced non-small cell lung carcinoma who progressed after chemotherapy, there was an objective response rate of 5% with a progression-free survival of 2.8 months and an overall survival of 9.5 months. As well, phase I/II studies showed positive dacomitinib activity despite prior failure with tyrosine kinase inhibitors.[A40009]\r\n\r\nPhase III clinical trials (ARCHER 1050), done in patients suffering from advanced or metastatic non-small cell lung carcinoma with EGFR-activating mutations, reported a significant improvement in progression-free survival when compared with gefitinib.[A40015]",
+    "mechanism-of-action": "Dacomitinib is an irreversible small molecule inhibitor of the activity of the human epidermal growth factor receptor (EGFR) family (EGFR/HER1, HER2, and HER4) tyrosine kinases. It achieves irreversible inhibition via covalent bonding to the cysteine residues in the catalytic domains of the HER receptors.[A40011] The affinity of dacomitinib has been shown to have an IC50 of 6 nmol/L.[A40009]\r\n\r\nThe ErbB or epidermal growth factor (EGF) family plays a role in tumor growth, metastasis, and treatment resistance by activating downstream signal transduction pathways such as such as Ras-Raf-MAPK, PLCgamma-PKC-NFkB and PI3K/AKT through the tyrosine kinase-driven phosphorylation at the carboxy-terminus.[A39624] Around 40% of cases show amplification of EGFR gene and 50% of the cases present the _EGFRvIII_ mutation which represents a deletion that produces a continuous activation of the tyrosine kinase domain of the receptor.[A40016]",
+    "absorption": "Dacomitinib has shown a linear kinetics after single and multiple dose range studies. The absorption and distribution do not seem to be affected by food or the consumption of antacids. The peak plasma concentration after a dosage of 45 mg for 4 days is of 104 ng/ml.[A40012] The reported AUC0-24h and tmax are of 2213 ng.h/mL and 6 hours, respectively. As well, following oral administration, the absolute oral bioavailability is 80% [FDA Label].",
+    "metabolism": "Dacomitinib presents an oxidative and conjugative metabolism marked mainly by the activity of glutathione and cytochrome P450 enzymes.[A40012] After metabolism, its major circulating metabolite is an O-desmethyl dacomitinib form named PF-05199265.[A40014] This metabolite has been shown to be formed by an oxidative step by CYP2D6 and to a smaller extent by CYP2C9. The following steps of the metabolism are mainly mediated by CYP3A4 for the formation of smaller metabolites.[A40019]\r\n\r\nFrom these metabolic studies, it was shown that dacomitinib inhibited strongly the activities of CYP2D6.[A40013]",
+    "toxicity": "The maximum asymptomatic dose in rats was 50 mg/kg [MSDS]. In animal studies, dacomitinib was shown to induce embryo-fetal toxicity, as demonstrated by an increased incidence of a post-implantation loss and reduced fetal body weight at doses resulting in exposures near the exposure at the 45mg human dose following administration in rats during the period of organogenesis. On the other hand, dacomitinib was showed to lack a mutagenic potential in a bacterial reverse mutation assay, in human lymphocyte chromosome aberration assay and in clastogenic or aneugenic in vivo rat bone marrow micronucleus assay.[FDA Label]\r\n\r\nThe dose-limiting and overdose toxicities include stomatitis, rash, palmar-plantar erythrodysesthesia syndrome, dehydration, paronychia, and diarrhea. From these findings, the maximum tolerated dose (defined by the dose in which the dose-limiting toxicities did not exceed 33%) is 45 mg.[A40012]",
+    "targets": [
+        [
+            "EGFR",
+            "Epidermal growth factor receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

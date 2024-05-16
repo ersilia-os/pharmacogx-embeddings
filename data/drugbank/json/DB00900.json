@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA449301",
+    "drugbank_id": "DB00900",
+    "names": [
+        "Didanosine"
+    ],
+    "description": "A dideoxynucleoside compound in which the 3&#39;-hydroxy group on the sugar moiety has been replaced by a hydrogen. This modification prevents the formation of phosphodiester linkages which are needed for the completion of nucleic acid chains. Didanosine is a potent inhibitor of HIV replication, acting as a chain-terminator of viral DNA by binding to reverse transcriptase; ddI is then metabolized to dideoxyadenosine triphosphate, its putative active metabolite.",
+    "indication": "For use, in combination with other antiretroviral agents, in the treatment of HIV-1 infection in adults.",
+    "pharmacodynamics": "Didanosine is a nucleoside reverse transcriptase inhibitor (NRTI) with activity against Human Immunodeficiency Virus Type 1 (HIV-1). Didanosine is a hypoxanthine attached to the sugar ring, unlike other nucleoside analogues. Didanosine is phosphorylated to active metabolites that compete for incorporation into viral DNA. They inhibit the HIV reverse transcriptase enzyme competitively and act as a chain terminator of DNA synthesis. Didanosine is effective against HIV, and usually used in combination with other antiviral therapy. Switching from long term AZT treatment to didanosine has been shown to be beneficial. Didanosine has weak acid stability and therefore, it is often combined with an antacid.",
+    "mechanism-of-action": "Didanosine (ddI) is metabolized intracellularly by a series of cellular enzymes to its active moiety, dideoxyadenosine triphosphate (ddATP), which inhibits the HIV reverse transcriptase enzyme competitively by competing with natural dATP. It also acts as a chain terminator by its incorporation into viral DNA as the lack of a 3'-OH group in the incorporated nucleoside analogue prevents the formation of the 5' to 3' phosphodiester linkage essential for DNA chain elongation, and therefore, the viral DNA growth is terminated.",
+    "absorption": "Rapidly absorbed (bioavailability 30-40%) with peak plasma concentrations appearing within 0.5 and 1.5 hrs.",
+    "metabolism": "Rapidly metabolized intracellularly to its active moiety, 2,3-dideoxyadenosine-5-triphosphate (ddA-TP). It is then further metabolized hepatically to yield hypoxanthine, xanthine, and uric acid.",
+    "toxicity": "Side effects include pancreatitis, peripheral neuropathy, diarrhea, hyperuricemia and hepatic dysfunction",
+    "targets": [
+        [
+            "pol",
+            "Reverse transcriptase/RNaseH",
+            "Human immunodeficiency virus 1"
+        ],
+        [
+            "PNP",
+            "Purine nucleoside phosphorylase",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC29A2",
+            "Equilibrative nucleoside transporter 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

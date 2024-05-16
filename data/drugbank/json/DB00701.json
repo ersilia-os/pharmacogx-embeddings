@@ -1,0 +1,74 @@
+{
+    "pharmgkb_id": "PA448422",
+    "drugbank_id": "DB00701",
+    "names": [
+        "Amprenavir",
+        "Agemerase",
+        "Prozei"
+    ],
+    "description": "Amprenavir is a protease inhibitor used to treat HIV infection.",
+    "indication": "For the treatment of HIV-1 infection in combination with other antiretroviral agents.",
+    "pharmacodynamics": "Amprenavir is a protease inhibitor with activity against Human Immunodeficiency Virus Type 1 (HIV-1). Protease inhibitors block the part of HIV called protease. HIV-1 protease is an enzyme required for the proteolytic cleavage of the viral polyprotein precursors into the individual functional proteins found in infectious HIV-1. Amprenavir binds to the protease active site and inhibits the activity of the enzyme. This inhibition prevents cleavage of the viral polyproteins resulting in the formation of immature non-infectious viral particles. Protease inhibitors are almost always used in combination with at least two other anti-HIV drugs.",
+    "mechanism-of-action": "Amprenavir inhibits the HIV viral proteinase enzyme which prevents cleavage of the gag-pol polyprotein, resulting in noninfectious, immature viral particles.",
+    "absorption": "Rapidly absorbed after oral administration in HIV-1-infected patients with a time to peak concentration (T<sub>max</sub>) typically between 1 and 2 hours after a single oral dose. The absolute oral bioavailability of amprenavir in humans has not been established. ",
+    "metabolism": "Hepatic. Amprenavir is metabolized in the liver by the cytochrome P450 3A4 (CYP3A4) enzyme system. The 2 major metabolites result from oxidation of the tetrahydrofuran and aniline moieties. Glucuronide conjugates of oxidized metabolites have been identified as minor metabolites in urine and feces.",
+    "toxicity": null,
+    "targets": [
+        [
+            "pol",
+            "Human immunodeficiency virus type 1 protease",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

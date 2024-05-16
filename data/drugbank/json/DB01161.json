@@ -1,0 +1,84 @@
+{
+    "pharmgkb_id": "PA448946",
+    "drugbank_id": "DB01161",
+    "names": [
+        "Chloroprocaine",
+        "Iheezo",
+        "Nesacaine-CE",
+        "Piocaine"
+    ],
+    "description": "Chloroprocaine is an ester local anesthetic commonly available in its salt form, chloroprocaine hydrochloride. Similar to other local anesthetics, it increases the threshold for electrical excitation in nerves by slowing the propagation of the nerve impulse and reducing the rate of rise of the action potential.[L43402] The pharmacological profile of chloroprocaine is characterized by a short latency and duration, similar to the one observed with [lidocaine].[A252952] Chloroprocaine can be given as an injection, and is available in formulations with and without methylparaben as a preservative. Both can be given as intrathecal injections for peripheral and central nerve block, but only the preservative-free formulation can be used for lumbar and caudal epidural blocks.[A252952,L43382] Topical chloroprocaine for ophthalmic use was approved by the FDA in September 2022 for ocular surface anesthesia.[L43387]",
+    "indication": "Chloroprocaine for intrathecal injection is indicated for the production of subarachnoid block (spinal anesthesia) in adults.[L43377] It is also indicated for the production of local anesthesia by infiltration, peripheral and central nerve block, and a preservative-free form can also be used for lumbar and caudal epidural blocks.[L43382] Topical chloroprocaine for ophthalmic use is indicated for ocular surface anesthesia.[L43387]",
+    "pharmacodynamics": "Chloroprocaine is an ester local anesthetic agent indicated for the production of local or regional anesthesia with effects on the cardiovascular and central nervous systems. Compared with lidocaine and bupivacaine, chloroprocaine has shorter ambulation and discharge times.[A252957] Chloroprocaine has minimal effects on cardiac conduction, excitability, refractoriness, contractility, and peripheral vascular resistance at therapeutic doses.[L43377,L43382] However, at toxic blood concentrations, chloroprocaine may cause atrioventricular block and cardiac arrest, as well as decreased cardiac output and arterial blood pressure. A high concentration of chloroprocaine in plasma can also lead to central nervous system stimulation, depression, or both. Some signs of central stimulation include restlessness, tremors and shivering, which may progress to convulsions. Depression, coma and respiratory arrest may also occur. As with other local anesthetics, patients may experience depression of the central nervous system without a prior stage of stimulation.[L43377,L43382]",
+    "mechanism-of-action": "Chloroprocaine acts mainly by binding to the alpha subunit on the cytoplasmic region of voltage-gated sodium channels and inhibiting sodium influx in neuronal cell membranes.[L43402] This lowers the nerve membrane permeability to sodium and decreases the rate of rise of the action potential.[L43377,L43382] Therefore, chloroprocaine inhibits signal conduction and leads to a reversible nerve conduction blockade.[L43402] The progression of anesthesia depends on the diameter, myelination and conduction velocity of nerve fibers, and the order of loss of nerve function is the following: 1) pain, 2) temperature, 3) touch, 4) proprioception, and 5) skeletal muscle tone.[L43377,L43382]",
+    "absorption": "Thanks to its low risk for systemic toxicity, chloroprocaine has a rapid onset of action that usually ranges between 6 to 12 minutes.[L43377,L43382,L43402] The duration of chloroprocaine-induced anesthesia may be up to 60 minutes. The absorption rate of local anesthetics depends on the total dose and concentration of chloroprocaine, as well as the route of administration, the vascularity of the administration site, and the presence or absence of epinephrine in the anesthetic injection. The presence of epinephrine reduces the rate of absorption and plasma concentration of local anesthetics.[L43377,L43382] The systemic exposure to chloroprocaine following its topical ocular administration has not been evaluated.[L43387]",
+    "metabolism": "In plasma, chloroprocaine is quickly metabolized by pseudocholinesterases, a group of enzymes that perform the hydrolysis of the ester linkage. In ocular tissues, chloroprocaine is metabolized by nonspecific esterases.[L43387] The hydrolysis of chloroprocaine leads to the production of \u00df-diethylaminoethanol and 2-chloro-4-aminobenzoic acid, which inhibits the action of the sulfonamides.[L43377,L43382,L43387]",
+    "toxicity": "Most chloroprocaine overdose cases are related to high plasma levels during its therapeutic use or to the unintended administration of a subarachnoid injection. In mice, the intravenous LD<sub>50</sub> of chloroprocaine HCl is 97 mg/kg and the subcutaneous LD<sub>50</sub> of chloroprocaine HCl is 950 mg/kg. The first consideration in the management of local anesthetic emergencies is prevention, which can be achieved by carefully monitoring patients\u2019 cardiovascular and respiratory vital signs, as well as their state of consciousness. If there are any changes, oxygen should be administered.[L43377,L43382] \r\n\r\nIn patients with chloroprocaine overdose with convulsions, underventilation or apnea, the drug label recommends giving immediate attention to maintaining a patent airway, assisted or controlled ventilation with oxygen and a delivery system capable of permitting immediate positive airway pressure by mask. If convulsions persist, provide small increments of an ultra-short acting barbiturate or a benzodiazepine intravenously. Refer to the chloroprocaine drug label for a complete description of the procedures recommended in case of overdose.[L43377,L43382]",
+    "targets": [
+        [
+            "SCN1A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN10A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN11A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN2A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN3A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN4A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN5A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN7A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN8A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN9A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

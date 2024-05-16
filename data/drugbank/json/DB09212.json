@@ -1,0 +1,64 @@
+{
+    "pharmgkb_id": "PA166049180",
+    "drugbank_id": "DB09212",
+    "names": [
+        "Loxoprofen",
+        "Loxomac",
+        "Loxonin",
+        "Oxeno"
+    ],
+    "description": "Loxoprofen is a propionic acid derivative non-steroidal anti-inflammatory drug. It is marketed under the trade name Loxonin in Brazil, Mexico and Japan by Sankyo, as Loxomac in India, and as Oxeno in Argentina. A transdermal preparation was approved for use in Japan in January 2006.",
+    "indication": "Loxoprofen is non-steroidal anti-inflammatory medication (NSAID) indicated for pain and inflammation related to musculoskeletal and joint disorders.[L1226] In addition to its effects on pain, it is an antipyretic and anti-inflammatory medication.[L1227]",
+    "pharmacodynamics": "Loxoprofen is a non-selective inhibitor of cyclooxygenase enzymes, which are responsible for the formation of various biologically active pain, fever, and inflammatory mediators. These include prostaglandins, prostacyclin, thromboxane, and arachidonic acid.[L1227,L1228]",
+    "mechanism-of-action": "Loxoprofen itself is a prodrug and carries little-to-no pharmacological activity - it is rapidly metabolized to its trans-alcohol form, which is a potent and non-selective inhibitor of cyclooxygenase.[A27797] Cyclooxygenase (COX) is present in 2 forms, COX-1 and COX-2, with each serving different functions. COX-1 is present in human cells and is constitutively released,  performing cellular housekeeping functions such as mucus production and platelet aggregation.[L1228]  COX-2 is induced in human cells post-injury or due to other stimuli, is triggered to appear in large quantities at the sites of injury/stimuli, and is ultimately responsible for the mediation of inflammation and pain.[L1228]\r\n\r\nLoxoprofen's active metabolite inhibits both COX isoforms, resulting in reduced expression of several mediators of pain, inflammation, and fever (e.g. prostaglandins, prostacyclin, thromboxane, etc).[L1228]",
+    "absorption": "Loxoprofen is rapidly and completely absorbed from the GI tract with a bioavailability of 95%.[L1268] The absorption phase of the medication occurs in the first 4-6 hours after ingestion. Food ingestion with the medication causes a slight decrease in the rate of loxoprofen absorption.[L1268]",
+    "metabolism": "Loxoprofen is a prodrug that is rapidly converted to its active trans-alcohol metabolite by carbonyl reductase in the liver.[A187934] This same process also results in a cis-alcohol metabolite, though this isomer carries little pharmacological activity.[A187931,A27797] The parent drug has also been observed to undergo oxidation via CYP3A4/5 to two hydroxylated metabolites (M3 and M4) and glucuronidation by UGT2B7 to two glucuronide metabolites (M5 and M6).[A187931] The alcohol metabolites of loxoprofen also undergo glucuronide conjugation via UGT2B7 to two glucuronide metabolites (M7 and M8) prior to excretion.[A187931]\r\n\r\nWhen applied in topical formulations, loxoprofen is metabolized to its active trans-alcohol form by carbonyl reductase in the skin.[A187937]",
+    "toxicity": "Adverse effects include anorexia, nausea, vomiting, bleeding, anemia, diarrhea, and constipation.[L1235] Loxoprofen toxicity may lead to gastrointestinal disturbance (including flatulence, dyspepsia and gastritis) and renal failure.[L1268]",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CBR1",
+            "Carbonyl reductase [NADPH] 1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

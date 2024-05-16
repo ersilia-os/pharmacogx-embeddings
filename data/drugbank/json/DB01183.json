@@ -1,0 +1,96 @@
+{
+    "pharmgkb_id": "PA450586",
+    "drugbank_id": "DB01183",
+    "names": [
+        "Naloxone",
+        "Kloxxado",
+        "Narcanti",
+        "Narcon"
+    ],
+    "description": "Naloxone is an opioid antagonist medication used to block or reverse the effects of opioid drugs, particularly within the setting of drug overdoses which are rapidly becoming a leading cause of death worldwide.[A234594] More specifically, naloxone has a high affinity for \u03bc-opioid receptors, where it acts as an inverse agonist, causing the rapid removal of any other drugs bound to these receptors.[A234594] When taken in large quantities, opioid medications such as [morphine], [hydromorphone], [methadone], [heroin], or [fentanyl] are capable of causing life-threatening symptoms such as respiratory depression, reduced heart rate, slurred speech, drowsiness, and constricted pupils.[A234594,L33724] If untreated, this can progress to vomiting, absent pulse and breathing, loss of consciousness, and even death.[L33724] Naloxone is indicated for the rapid reversal of these symptoms of central nervous system depression in opioid overdose.[A234589] It's important to note that naloxone only works on opioid receptors within the body, and is therefore not capable of reversing the effects of non-opioid medications such as stimulants like [methamphetamine] or [cocaine], or benzodiazepines like [lorazepam] or [diazepam]. \r\n\r\nAlso known as the brand name product Narcan, naloxone is currently available by intramuscular (IM) or subcutaneous (SubQ) injection, nasal spray, or intravenous (IV) infusion.[L33729,L33739] Naloxone IM injections are commonly available in the form of \"kits\", which is ideal for making overdose treatment accessible and readily available for administration by minimally trained individuals within the community.[L33734] Kits commonly include the supplies necessary to treat an overdose in a non-medical setting such as alcohol swabs, syringes, a rescue breathing mask, and instructions for use. Frequently also carried by medical and emergency personnel and at events known to be associated with heavy drug use like music festivals, naloxone kits are considered a key component of harm reduction strategies. There are over-the-counter nasal sprays available.\r\n\r\nWhen injected intramuscularly (IM), naloxone acts within three to five minutes. Administration of naloxone is associated with very few side effects. Notably, if injected into a person not currently using opioid medications, there would be no noticeable effects at all. However, for individuals using opioid medications or experiencing an overdose, IM injection of naloxone rapidly reverses opioid effects and can cause the injected individual to immediately experience withdrawal symptoms.[A234589] Common symptoms of opioid withdrawal include nausea, vomiting, sweating, runny nose, aches, and diarrhea.[A234589] Although certainly physically uncomfortable, opioid withdrawal symptoms are not life-threatening; administration of naloxone is, therefore, appropriate for any person appearing to have any symptoms of an opioid overdose. Due to its short duration of action, persons injected with naloxone should be monitored for responsiveness and potentially injected a second time or taken to the hospital.[A234589]\r\n\r\nNaloxone is also available within the combination product Suboxone with the opioid medication [buprenorphine].[L33714,L33719] Suboxone is used for the maintenance treatment of opioid dependence and addiction.[L33714,L33719] When taken orally, naloxone has no pharmacological effect and does not reduce the effectiveness of the opioid effect of buprenorphine.[L33714,L33719] The primary purpose of including naloxone within Suboxone is to act as a deterrent to injection, as injected naloxone would rapidly reverse the effects of buprenorphine.[L33714,L33719]\r\n\r\nNaloxone was granted FDA approval on 13 April 1971.[L33709]",
+    "indication": "Naloxone nasal sprays are indicated for the reversal of an opioid overdose or suspected opioid overdose: it is intended for immediate administration as emergency therapy in settings where opioids may be present.[L33694,L45515] Intramuscular, intravenous, and subcutaneous injections are indicated for complete or partial reversal of opioid depression, diagnosis of known or suspected opioid overdose, and as an adjunct therapy in the treatment of septic shock.[L33739]\r\n\r\nSublingual tablets and films are formulated with [buprenorphine] for the treatment of opioid dependence.[L33714,L33719] Naloxone is also formulated with [pentazocine] as an oral tablet for severe pain.[L33744]\r\n\r\nIntramuscular or subcutaneous naloxone autoinjectors are used for the emergency treatment of people 12 years of age and older where the use of high-potency opioids such as fentanyl analogues as a chemical weapon, is suspected.[L40758, L40763]\r\n\r\nNaloxone has been used off-label for the treatment of neuraxial opioid-induced pruritus.[A234604]",
+    "pharmacodynamics": "Naloxone is an opioid receptor antagonist indicated in the reversal of opioid overdoses.[L33694] Naloxone has a shorter duration of action than opioids and multiple doses may be required.[A234594,L33694] The therapeutic window of naloxone is wide, as it has no effect if a patient has not taken opioids.[A234599,L33694] Patients treated with naloxone may experience opioid withdrawal and a person administering naloxone should be aware that reversal of opioid overdoses may not resolve all the symptoms a patient is experiencing if other drugs are involved.[L33694]",
+    "mechanism-of-action": "Naloxone is a competitive inhibitor of the \u00b5-opioid receptor.[L33694,L33719] Naloxone antagonizes the action of opioids, reversing their effects.[L33694] If a patient has not taken opioids, naloxone does not have a significant effect on patients.[L33724]",
+    "absorption": "An intranasal dose of naloxone is 42-47% bioavailable.[L33694] An 8 mg dose of nasal naloxone reaches a C<sub>max</sub> of 12.3-12.8 ng/mL, with a T<sub>max</sub> of 0.25 hours, and an AUC of 16.7-19.0 h\\*ng/mL.[L33694] A 0.4 mg intramuscular dose reaches a C<sub>max</sub> of 0.876-0.910 ng/mL, with a T<sub>max</sub> of 0.25 hours, and an AUC of 1.94-1.95 h\\*ng/mL.[L33694] A 2 mg intravenous dose reaches a C<sub>max</sub> of 26.2 ng/mL with an AUC of 12.8 h\\*ng/mL.[L33694]",
+    "metabolism": "Naloxone primarily undergoes glucuronidation to form naloxone-3-glucuronide.[L33694] Naloxone is also N-dealkylated to noroxymorphone or undergoes 6-keto reduction to naloxol.[A234584]",
+    "toxicity": "If a patient has not taken opioids, naloxone does not have a significant effect on patients.[A234599,L33724]\r\n\r\nThe oral LD<sub>50</sub> in mice and rats is >1 g/kg.[L33699] The intraperitoneal LD<sub>50</sub> is 80 mg/kg in mice and 239 mg/kg in rats.[L33699] The subcutaneous LD<sub>50</sub> is 286 mg/kg in mice and 500 mg/kg in rats.[L33699]",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "CREB1",
+            "Cyclic AMP-responsive element-binding protein 1",
+            "Humans"
+        ],
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ],
+        [
+            "TLR4",
+            "Toll-like receptor 4",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

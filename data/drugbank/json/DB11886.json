@@ -1,0 +1,104 @@
+{
+    "pharmgkb_id": "PA166252061",
+    "drugbank_id": "DB11886",
+    "names": [
+        "Infigratinib",
+        "Truseltiq"
+    ],
+    "description": "Infigratinib is a pan-fibroblast growth factor receptor (FGFR) kinase inhibitor. By inhibiting the FGFR pathway, which is often aberrated in cancers such as cholangiocarcinoma, infigratinib suppresses tumour growth.[A235174] Cholangiocarcinoma is the most common primary malignancy affecting the biliary tract and the second most common primary hepatic malignancy.[A198963] Infitratinib is a pan-FGFR inhibitor, as it is an ATP-competitive inhibitor of all four FGFR receptor subtypes.[A235174] \r\n\r\nOn May 28, 2021, the FDA granted accelerated approval to infigratinib - under the market name Truseltiq - for the treatment of previously treated, unresectable locally advanced or metastatic cholangiocarcinoma in adults with a fibroblast growth factor receptor 2 (FGFR2) fusion or another rearrangement as detected by an FDA-approved test.[L34304] This approval follows [pemigatinib], another FGFR inhibitor approved by the FDA for the same therapeutic indication.",
+    "indication": "Infigratinib is indicated for the treatment of previously treated, unresectable locally advanced or metastatic cholangiocarcinoma in adults with a fibroblast growth factor receptor 2 (FGFR2) fusion or another rearrangement as detected by an FDA-approved test.[L34299]",
+    "pharmacodynamics": "Infigratinib is an anti-tumour agent that works to suppress tumour growth in cholangiocarcinoma. It exhibits anti-tumour activity in mouse and rat xenograft models of human tumours with activating FGFR2 or FGFR3 alterations, such as FGFR2-TTC28 or FGFR2-TRA2B fusions.[L34299] In clinical trials, patients with cholangiocarcinoma who were treated with infigratinib had an overall response rate of 23% - where one patient had a complete response - and a duration of response of 5.5 months, with a range between 0.03 and 28.3 months.[L34299,L34304] Some patients with cancers with FGFR mutations display intrinsic resistance to infigratinib, leading to negligible therapeutic efficacy: investigations are ongoing to target molecular pathways to combat drug resistance.[A235349]",
+    "mechanism-of-action": "Fibroblast growth factor receptors (FGFRs) are tyrosine kinase receptors that play a role in cell proliferation, differentiation, migration, survival, and angiogenesis. Upon binding of extracellular signals, primarily fibroblast growth factors, FGFR dimerizes to promote phosphorylation of downstream molecules and activation of the Ras-mitogen-activated protein kinase (MAPK) pathway. In some cancers, the FGFR signalling pathway is aberrant and disrupted, leading to unregulated cell proliferation and growth, including malignant cells. Alterations in the FGFR receptors, including mutations, amplifications, and fusions, are associated with a wide array of neoplasms, including prostate, urothelial, ovarian, breast, and liver cancer.[A235174] In particular, FGFR2 fusion is closely related to intrahepatic cholangiocarcinoma: recent studies show that up to 45% of patients with intrahepatic cholangiocarcinoma exhibited gene rearrangements resulting in FGFR2 fusion proteins.[A198963] Alterations in FGFR in tumours can lead to constitutive FGFR signalling, supporting the proliferation and survival of malignant cells.[L34299] Infigratinib is a reversible, non-competitive [A235174] inhibitor of all four FGFR subtypes - FGFR1, FGFR2, FGFR3, and FGFR4 - that blocks FGFR signalling and inhibits cell proliferation in cancer cell lines with activating FGFR amplification, mutations, or fusions. Out of the four FGFR subtypes, infigratinib has the highest affinity for FGFR1, FGFR2, and FGFR3.[L34299] Infigratinib binds to the allosteric site between the two kinase lobes of the FGFR - or more specifically, to the ATP-binding cleft. Binding to this cleft prevents autophosphorylation of the receptor and blocks downstream signalling cascades that would otherwise activate MAPK.[A235174]",
+    "absorption": "Mean (%CV) C<sub>max</sub> is 282.5 ng/mL (54%) and AUC<sub>0-24h</sub> is 3780 ngxh/mL (59%) for infigratinib. Infigratinib C<sub>max</sub> and AUC increase more than proportionally across the dose range of 5 to 150 mg and steady state is achieved within 15 days. At steady state, median time to achieve peak infigratinib plasma concentration (T<sub>max</sub>) is six hours, with a range between two and seven hours.[L34299]\r\n\r\nMean (%CV) C<sub>max</sub> is 42.1 ng/mL (65%) for BHS697 and 15.7 ng/mL (92%) for CQM157. Mean (%CV) AUC<sub>0-24h</sub> is 717 ngxh/mL (55%) for BHS697 and 428 ngxh/mL (72%) for CQM157. In healthy subjects, a high-fat and high-calorie meal increased AUCinf of infigratinib by 80%-120% and C<sub>max</sub> by 60%-80%. The median T<sub>max</sub> also shifted from four hours to six hours. A low-fat low-calorie meal increased the mean AUC<sub>inf</sub> of infigratinib by 70% and C<sub>max</sub> by 90%/[L34299]",
+    "metabolism": "According to _in vitro_ findings, about 94% of infigratinib is metabolized by CYP3A4 and about 6% of the drug is metabolized by flavin-containing monooxygenase 3 (FMO3). About 38% of the dose is circulating parent drug in the plasma and BHS697 and CQM157 are two major metabolites of infigratinib that are each found at >10% of the dose. They are pharmacologically active, with BHS697 representing about 16% to 33% of the overall pharmacological activity of infigratinib and CQM157 contributing to about 9% to 12%. BHS697 undergoes further metabolism mediated by CYP3A4 and CQM157 is metabolized through both Phase I and Phase II biotransformation pathways.[L34299] The exact metabolic pathways and the structure of BHS697 and CQM157 are not fully characterized.",
+    "toxicity": "There is limited information on lethal doses and overdose of infigratinib. In clinical trials, infigratinib was associated with ocular toxicity (retinal pigment epithelial detachment), hyperphosphatemia leading to soft tissue mineralization, and embryo-fetal toxicity.[L34299]",
+    "targets": [
+        [
+            "FGFR1",
+            "Fibroblast growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "FGFR2",
+            "Fibroblast growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FGFR3",
+            "Fibroblast growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "FGFR4",
+            "Fibroblast growth factor receptor 4",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "FMO3",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 3",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "LPA",
+            "Apolipoproteins",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

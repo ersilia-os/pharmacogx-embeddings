@@ -1,0 +1,20 @@
+{
+    "pharmgkb_id": "PA451871",
+    "drugbank_id": "DB00460",
+    "names": [
+        "Verteporfin",
+        "Visudine"
+    ],
+    "description": "Verteporfin, marketed as Visudyne, is a benzoporphyrin derivative. It is used as a photosensitizer in photodynamic therapy to eliminate abnormal blood vessels in wet form macular degeneration. Verteporfin accumulates in these abnormal blood vessels and, when stimulated by nonthermal red light with a wavelength of 693 nm in the presence of oxygen, produces highly reactive short-lived singlet oxygen and other reactive oxygen radicals, resulting in local damage to the endothelium and blockage of the vessels.",
+    "indication": "For the treatment of patients with predominantly classic subfoveal choroidal neovascularization due to age-related macular degeneration, pathologic myopia or presumed ocular histoplasmosis syndrome. Verteporfin can also be used to destroy tumors.",
+    "pharmacodynamics": "Verteporfin, otherwise known as benzoporphyrin derivative, is a medication used in conjunction with laser treatment to eliminate the abnormal blood vessels in the eye associated with conditions such as the wet form of macular degeneration. Verteporfin accumulates in these abnormal blood vessels and, when stimulated by nonthermal red light with a wavelength of 693 nm in the presence of oxygen, produces highly reactive short-lived singlet oxygen and other reactive oxygen radicals, resulting in local damage to the endothelium and blockage of the vessels.",
+    "mechanism-of-action": "Verteporfin is transported in the plasma primarily by lipoproteins. Once verteporfin is activated by light in the presence of oxygen, highly reactive, short-lived singlet oxygen and reactive oxygen radicals are generated. Light activation of verteporfin results in local damage to neovascular endothelium, resulting in vessel occlusion. Damaged endothelium is known to release procoagulant and vasoactive factors through the lipo-oxygenase (leukotriene) and cyclo-oxygenase (eicosanoids such as thromboxane) pathways, resulting in platelet aggregation, fibrin clot formation and vasoconstriction. Verteporfin appears to somewhat preferentially accumulate in neovasculature, including choroidal neovasculature. However, animal models indicate that the drug is also present in the retina. As singlet oxygen and reactive oxygen radicals are cytotoxic, Verteporfin can also be used to destroy tumor cells.",
+    "absorption": null,
+    "metabolism": "Metabolized to a small extent to its diacid metabolite by liver and plasma esterases. NADPH-dependent liver enzyme systems (including the cytochrome P450 isozymes) do not appear to play a role in the metabolism of verteporfin.",
+    "toxicity": "Overdose of drug and/or light in the treated eye may result in nonperfusion of normal retinal vessels with the possibility of severe decrease in vision that could be permanent. An overdose of drug will also result in the prolongation of the period during which the patient remains photosensitive to bright light.",
+    "targets": null,
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

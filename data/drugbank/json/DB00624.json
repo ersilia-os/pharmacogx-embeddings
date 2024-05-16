@@ -1,0 +1,163 @@
+{
+    "pharmgkb_id": "PA451627",
+    "drugbank_id": "DB00624",
+    "names": [
+        "Testosterone",
+        "Andronate 100",
+        "Andronate 200",
+        "Andropatch",
+        "Andropository 200",
+        "Andryl 200",
+        "Bio-T-Gel",
+        "Nebido",
+        "Sustanon",
+        "Synandrol F",
+        "Testamone 100",
+        "Testaqua IM",
+        "Testoderm",
+        "Testoderm TTS",
+        "Testogel",
+        "Testolin",
+        "Testopatch",
+        "Testopel Pellets",
+        "Testrin-P.A",
+        "Testro AQ",
+        "Virormone"
+    ],
+    "description": "Testosterone is a steroid sex hormone indicated to treat primary hypogonadism and hypogonadotropic hypogonadism.[L8983,L8935,L8938,L8986,L8989,L8992,L8995] Testosterone antagonizes the androgen receptor to induce gene expression that causes the growth and development of masculine sex organs and secondary sexual characteristics.[A187114,L8983,L8935,L8938,L8986,L8989,L8992,L8995]\r\n\r\nTestosterone was isolated from samples and also synthesized in 1935.[A186943]",
+    "indication": "Testosterone is indicated to treat primary hypogonadism and hypogonadotropic hypogonadism.[L8983,L8935,L8938,L8986,L8989,L8992,L8995]",
+    "pharmacodynamics": "Testosterone antagonizes the androgen receptor to induce gene expression that causes the growth and development of masculine sex organs and secondary sexual characteristics.[A187114,L8983,L8935,L8938,L8986,L8989,L8992,L8995] The duration of action of testosterone is variable from patient to patient with a half life of 10-100 minutes.[L8983,L8935,L8938,L8986,L8989,L8992,L8995] The therapeutic index is wide considering the normal testosterone levels in an adult man range from 300-1000ng/dL.[L8983,L8938,L8986,L8989,L8992,L8995] Counsel patients regarding the risk of secondary exposure of testosterone topical products to children.[L8983,L8938,L8986,L8989,L8992]",
+    "mechanism-of-action": "The androgen receptor exists in the cytoplasm bound to the heat shock proteins HSP90, HSP70, and other chaperones.[A187114] After binding to an androgen, the androgen receptor dissociates from HSP90 and undergoes a conformational change to slow the rate of dissociation from the androgen receptor.[A187114] The androgen-receptor complex is transported into the nucleus where it binds to DNA and recruits other transcriptional regulators to form a pre-initiation complex and eventually induce expression of specific genes.[A187114]\r\n\r\nTestosterone and its active metabolite dihydrotestosterone (DHT) antagonize the androgen receptor to develop masculine sex organs including the prostate, seminal vesicles, penis, and scrotum.[A187111,L8983,L8935,L8938,L8986,L8989,L8992,L8995]\r\n\r\nAntagonism of the androgen receptor is also responsible for the development of secondary sexual characteristics including facial and body hair, enlargement of the larynx, thickening of the vocal cords, and changes in muscle and fat distribution.[A187111,L8983,L8935,L8938,L8986,L8989,L8992,L8995]",
+    "absorption": "A single 100mg topical dose of testosterone has an AUC of 10425\u00b15521ng\\*h/dL and a C<sub>max</sub> of 573\u00b1284ng/dL.[L8983] Testosterone is approximately 10% bioavailable topically.[L8983,L8938,L8992]",
+    "metabolism": "Testosterone is metabolized to 17-keto steroids through two different pathways. The major active metabolites are estradiol and dihydrotestosterone (DHT).[L8983,L8935,L8938,L8986,L8989,L8992,L8995]\r\n\r\nTestosterone can be hydroxylated at a number of positions by CYP3A4, CYP2B6, CYP2C9, and CYP2C19;[A187006,A15135] glucuronidated by UGT2B17;[A187090,A187099] sulfated;[A187099] converted to estradiol by aromatase;[A187087] converted to dihydrotestosterone (DHT) by 5\u03b1-reductase;[A187009] metabolized to androstenedione by CYP3A4, CYP2C9, and CYP2C19;[A187006] or converted to DHT glucuronide.[A187102]\r\n\r\nAndrostenedione undergoes metabolism by aromatase to form estrone,[A187087] which undergoes a reversible reaction to form estradiol.[A187102] Androstenedione can also be converted to 5\u03b1-androstanedione[A187009] by 5\u03b1-reductase,[A187084] which can be further metabolized to 5\u03b1-androsterone.[A187009]\r\n\r\nDHT can be glucuronidated[A187102] or sulfated, or metabolized to 5\u03b1-androstanediol,[A187009] androstane-3\u03b1,17\u03b2-diol, or androstane-3\u03b2,17\u03b2-diol.[A187087] DHT can also be reversibly converted to 5\u03b1-androstanedione.[A187009]",
+    "toxicity": "Data regarding an overdose with a topical testosterone product is not readily available.[L8983,L8935,L8938,L8986,L8989,L8992,L8995] In the case of overdose with an injectable product, patients may present with a cerebrovascular event.[L8983,L8935,L8938,L8986,L8989,L8992,L8995] Treat overdoses by stopping testosterone products, washing off any topical products with soap and water, and initiating symptomatic and supportive treatments.[L8983,L8935,L8938,L8986,L8989,L8992,L8995]",
+    "targets": [
+        [
+            "AR",
+            "Androgen receptor",
+            "Humans"
+        ],
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ],
+        [
+            "NR3C2",
+            "Mineralocorticoid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A43",
+            "Humans"
+        ],
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ],
+        [
+            "CYP11A1",
+            "Cholesterol side-chain cleavage enzyme, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2A13",
+            "Cytochrome P450 2A13",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLC10A1",
+            "Sodium/bile acid cotransporter",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "SHBG",
+            "Sex hormone-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,55 @@
+{
+    "pharmgkb_id": "PA451881",
+    "drugbank_id": "DB00361",
+    "names": [
+        "Vinorelbine",
+        "Bendarelbin",
+        "Eberelbin",
+        "Eunexon",
+        "Eurovinorelbin",
+        "Filcrin",
+        "Navelbin",
+        "Navildez",
+        "Navin",
+        "Navirel",
+        "Neocitec",
+        "Renovel",
+        "Riborelbin",
+        "Vilne",
+        "Vinelbine",
+        "Vinorayne",
+        "Vinorel",
+        "Vinorgen",
+        "Vinotel",
+        "Zinavin"
+    ],
+    "description": "Vinorelbine is an anti-mitotic chemotherapy drug that is used in the treatment of several types of malignancies, including breast cancer and non-small cell lung cancer (NSCLC) [L1998].  It was initially approved in the USA in 1990's for the treatment of NSCLC [L2010].\r\n\r\nIt is a third-generation vinca alkaloid. The introduction of third-generation drugs (vinorelbine, gemcitabine, taxanes) in platinum combination improved survival of patients with advanced NSCLC, with very similar results from the various drugs. Treatment toxicities are considerable in the combination treatment setting [A32347].\r\n\r\nA study was done on the clearance rate of vinorelbine on individuals with various single polymorphonuclear mutations.  It was found that there was 4.3-fold variation in vinorelbine clearance across the cohort, suggesting a strong influence of genetics on the clearance of this drug [L2002].",
+    "indication": "\r\n Vinorelbine tartrate is indicated for adults in the treatment of advanced non-small cell lung cancer (NSCLC), as a single therapy or in combination with other chemotherapeutic drugs [L1998].\r\n\r\nUsed in relapsed or refractory Hodgkin lymphoma, in combination with other chemotherapy agents [L2011].\r\n \r\nFor the treatment of desmoid tumor or aggressive fibromatosis, in combination with methotrexate [L2011].\r\n\r\nFor the treatment of recurrent or metastatic squamous cell head and neck cancer [L2011].\r\n\r\nFor the treatment of recurrent ovarian cancer [L2011].\r\n\r\nFor the treatment of metastatic breast cancer, in patients previously treated with anthracyline and/or taxane therapy [L2011].\r\n\r\nFor the treatment of HER2-positive, trastuzumab-resistant, advanced breast cancer in patients previously treated with a taxane, in combination with trastuzumab and everolimus [L2011].\r\n",
+    "pharmacodynamics": "\r\nVinorelbine is a semi-synthetic vinca-alkaloid with a wide spectrum of anti-tumor activity. The vinca-alkaloids are considered spindle poisons. They work by interfering with the polymerization of tubulin, a protein responsible for building the microtubule system which appears during cell division in proliferating cancer cells [L2007].",
+    "mechanism-of-action": "Vinca alkaloids are structurally similar compounds composed of two multi-ringed units, _vindoline_, and _catharanthine_. _Vinorelbine tartrate_ is a vinca alkaloid in which the catharanthine component is the target of structural modification [L2005], [L2006].\r\n\r\nThis structural modification contributes to unique pharmacologic properties.The antitumor activity of vinorelbine tartrate is believed to be owed to the inhibition of mitosis at metaphase via its interaction with tubulin [L1998].\r\n\r\nVinorelbine is a mitotic spindle poison that interferes with chromosomal segregation during mitosis, also known as cell division. It pauses cells at the _G2/M_ phases, when present at concentrations close to the half maximal inhibitory concentration (IC50). Microtubules, which are derived from polymers of tubulin, are the main target of vinorelbine. \r\n\r\nThe chemical modification used to produce vinorelbine allows for the opening of the eight-member catharanthine ring with the formation of both a covalent and reversible bond with tubulin [L2007].\r\n\r\nThe relative contribution of different microtubule-associated proteins in the production of tubulin vary between neural tissue and proliferating cells and this has important functional implications. The ability of vinorelbine to bind specifically to mitotic rather than other microtubules has been shown and may suggest that neurotoxicity is less likely to be a problem than with the molecular mechanism of action [L2007]. \r\n\r\nAs with other anti-microtubule agents, vinorelbine is known to contribute apoptosis in malignant cells. The exact mechanisms by which this process occurs are complex and many details are yet to be elucidated. The disarray of the microtubule structure has a number of effects, including the induction of tumor suppressor gene _p53_ and activation/inactivation of a number of protein kinases involved in essential signaling pathways, including _p21 WAF1/CIP1_ and _Ras/Raf_, _PKC/PKA_. These molecular changes lead to phosphorylation and consequently inactivation of the apoptosis inhibitor _Bcl2_. This, in turn, results in a decrease in the formation of heterodimers between _Bcl2_ and the pro-apoptotic gene _BAX_, stimulating the sequence of cell apoptosis [L2007].\r\n\r\nVinorelbine tartrate also possibly interferes with amino acid, cyclic AMP and glutathione metabolism, calmodulin-dependent Ca++-transport ATPase activity, cellular respiration, and nucleic acid and lipid biosynthesis [L1998].\r\n",
+    "absorption": "Vinorelbine is rapidly absorbed with peak serum concentration reached within 2 hours [L1998].\r\n\r\nVinorelbine is highly bound to platelets and lymphocytes and is also bound to alpha 1-acid glycoprotein, albumin, and lipoproteins [A32354].",
+    "metabolism": "\r\nVinorelbine undergoes substantial hepatic elimination in humans. Two metabolites of vinorelbine have been identified in human blood, plasma, and urine; vinorelbine N-oxide and deacetylvinorelbine. Deacetylvinorelbine has been demonstrated to be the primary metabolite of vinorelbine in humans, and has been shown to possess antitumor activity similar to vinorelbine [L2005], [L2006].\r\n\r\nVinorelbine is metabolized into two other minor metabolites, 20'-hydroxyvinorelbine and vinorelbine 6'-oxide [L2006].\r\n\r\nTherapeutic doses of vinorelbine (30 mg/m2) yield very small, if any, quantifiable levels of either metabolite in blood or urine. The metabolism of vinorelbine is mediated by hepatic cytochrome P450 isoenzymes in the CYP3A subfamily [L2004], [A32354].\r\n\r\nAs the liver provides the main route for metabolism of the drug, patients with hepatic impairment may demonstrate increased toxicity with standard dosing, however, there are no available data on this. Likewise, the contribution of cytochrome P450 enzyme action to vinorelbine metabolism has potential implications in patients receiving other drugs metabolized by this route [L2007].",
+    "toxicity": "Due to the wide array of adverse effects of this drug, the toxicity of is categorized into organ systems [L1998].\r\n\r\n**Hematologic:** Granulocytopenia was the primary dose-limiting toxicity with vinorelbine tartrate therapy; it is generally reversible and not cumulative. In one study, granulocytopenia resulted in hospitalizations for fever and/or sepsis in 8% of NSCLC and 9% of breast cancer patients [L1998]. \r\nInfectious (septic) deaths occurred in about 1% of patients. Grade 3 or 4 anemia occurred in about 1% of lung cancer and approximately 14% of breast cancer patients. Blood transfusions were administered to 18% of patients who received vinorelbine tartrate therapy. The incidence of Grade 3 and 4 thrombocytopenia was found to be less than 1% [L1998].\r\n\r\n**Neurologic:** Mild to moderate peripheral neuropathy may occur. Symptoms of paresthesia and hypesthesia are reported as the most commonly reported neurologic toxicities of this drug. The loss of deep tendon reflexes (DTR) occurs in less than 5% of patients, according to one study. The development of severe peripheral neuropathy is rare [L1998].\r\n\r\n**Dermatologic:** Alopecia has been reported in only about 12% of patients and is usually reported as mild. Vinorelbine tartrate is a moderate vesicant, leading to injection site reactions. Symptoms include erythema, pain at the injection site and vein discoloration occurred in about 1/3 of all patients. Chemical phlebitis along the vein, near the site of injection, has been reported [L1998].\r\n\r\n**Respiratory:** Shortness of breath was reported in 3% of NSCLC and 9% of breast cancer patients, and was severe in 2% of each patient population. Interstitial pulmonary changes have been documented in a few patients [L1998].\r\n\r\n**Gastrointestinal:** Mild or moderate nausea symptoms occurred in 32% of NSCLC and 47% of breast cancer patients treated with vinorelbine tartrate. Severe nausea was occurred infrequently (1% and 3% in NSCLC and breast cancer patients, respectively). Prophylactic administration of anti-emetics was not routine in patients treated with single-agent vinorelbine tartrate. Constipation occurred in about 28% of NSCLC and 38% of breast cancer patients. The paralytic ileus incidence of less than 2% of patients. Vomiting, diarrhea, anorexia and stomatitis were found to be mild or moderate and occurred in less than 20% of study patients [L1998].\r\n\r\n**Hepatic:** Transient elevations of liver enzymes were reported without clinical symptoms.\r\n**Cardiovascular:** Chest pain was reported in 5% of NSCLC and 8% of breast cancer patients. Most reports of chest pain were in patients who had either a history of cardiovascular disease or tumor within the chest. There have been rare reports of myocardial infarction; however, these have not been shown definitely attributable to vinorelbine tartrate [L2004].\r\n\r\n**Other:** Muscle weakness (asthenia) occurred in about 25% of patients with NSCLC and 41% of patients with breast cancer. It was usually mild or moderate but showed a linear increase with cumulative doses [L2004].\r\n\r\nSeveral other toxicities reported in approximately 5% of patients include jaw pain, myalgia, arthralgia, headache, dysphagia, and skin rash. Hemorrhagic cystitis (bladder inflammation with blood in urine) and the syndrome of inappropriate ADH secretion were both reported in less than 1% of patients. The treatment of these entities are mainly symptomatic [L2004].\r\n\r\nThe carcinogenic potential of Vinorelbine has not been adequately studied. Vinorelbine has been demonstrated to affect chromosome number and likely the chromosome structure in vivo (polyploidy in bone marrow cells from Chinese hamsters and a positive micronucleus test in mice were observed) [L2004].",
+    "targets": [
+        [
+            "TUBB",
+            "Tubulin beta chain",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

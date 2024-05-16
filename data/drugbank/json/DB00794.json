@@ -1,0 +1,244 @@
+{
+    "pharmgkb_id": "PA451105",
+    "drugbank_id": "DB00794",
+    "names": [
+        "Primidone",
+        "Liskantin",
+        "Mizodin",
+        "Mylepsinum",
+        "Pridona",
+        "Primid",
+        "Prysoline",
+        "Sertan"
+    ],
+    "description": "Primidone is an anticonvulsant used to treat essential tremor as well as grand mal, psychomotor, and focal epileptic seizures.[L11112] Primidone was developed by J Yule Bogue and H C Carrington in 1949.[A189522]\r\n\r\nPrimidone was granted FDA Approval on 8 March 1954.[L11112]",
+    "indication": "Primidone is commonly indicated for the management of grand mal, psychomotor, and focal epileptic seizures.[L4645,L11112] In addition, it has also been studied and utilized as an effective management of essential tremor.[A39414,A39415,L4645]",
+    "pharmacodynamics": "Primidone alters sodium and calcium channel transport, reducing the frequency of nerve firing, which may be responsible for its effect on convulsions and essential tremor.[A35660] Primidone has a wide therapeutic window as doses of 50-1000mg/day were effective.[A35660] Patients should be counselled regarding the risk of status epilepticus with abrupt cessation of primidone.[L11112]",
+    "mechanism-of-action": "Primidone and its metabolites, phenobarbital and phenylethylmalonamide (PEMA), are active anticonvulsants.[A35660] Primidone does not directly interact with GABA-A receptors or chloride channels but phenobarbital does.[A35660] Primidone alters transmembrane sodium and calcium channel transport, reducing the frequency of nerve firing, which may be responsible for the primidone\u2019s effect on convulsions and essential tremor.[A35660]",
+    "absorption": "Oral primidone is up to 80% bioavailable with a T<sub>max</sub> if 2-4h.[A35660,A189486] A 500mg oral dose of primidone Reaches a C<sub>max</sub> of 2.7\u00b10.4\u00b5g/mL with a T<sub>max</sub> of 0.5-7h.[A189492] Data regarding the AUC of primidone is not readily available.[L11112]",
+    "metabolism": "Primidone is metabolized to phenobarbitol and phenylethylmalonamide (PEMA).[A35126] This metabolism is largely mediated by CYP2C9,[A185927,A35660,A189477] CYP2C19,[A38649,A185927,A189477] and CYP2E1.[A185927,A189477]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is 1500mg/kg and in mice is 280mg/kg.[L11199] The intraperitoneal LD<sub>50</sub> in rats was 240mg/kg and in mice was 332mg/kg.[L11199]\r\n\r\nPatients experiencing a primidone overdose may present with CNS depression, coma, respiratory depression, suppressed reflexes, suppressed response to pain, hypotension, and decreased urine output.[A189510] Overdose should be treated with symptomatic and supportive treatment, including the removal of unabsorbed drug.[A189510]",
+    "targets": [
+        [
+            "GABRA2",
+            "Gamma-aminobutyric acid receptor subunit alpha-2",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "Gamma-aminobutyric acid receptor subunit alpha-3",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "Gamma-aminobutyric acid receptor subunit alpha-4",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "Gamma-aminobutyric acid receptor subunit alpha-5",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "Gamma-aminobutyric acid receptor subunit alpha-6",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "CHRNA4",
+            "Neuronal acetylcholine receptor subunit alpha-4",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ],
+        [
+            "GRIA2",
+            "Glutamate receptor 2",
+            "Humans"
+        ],
+        [
+            "GRIK2",
+            "Glutamate receptor ionotropic, kainate 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "TRPM3",
+            "Transient receptor potential cation channel subfamily M member 3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

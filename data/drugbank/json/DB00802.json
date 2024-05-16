@@ -1,0 +1,59 @@
+{
+    "pharmgkb_id": "PA448084",
+    "drugbank_id": "DB00802",
+    "names": [
+        "Alfentanil",
+        "Rapifen"
+    ],
+    "description": "A short-acting opioid anesthetic and analgesic derivative of fentanyl. It produces an early peak analgesic effect and fast recovery of consciousness. Alfentanil is effective as an anesthetic during surgery, for supplementation of analgesia during surgical procedures, and as an analgesic for critically ill patients.",
+    "indication": "For the management of postoperative pain and the maintenance of general anesthesia.",
+    "pharmacodynamics": "Alfentanil is a synthetic opioid analgesic. Alfentanil interacts predominately with the opioid mu-receptor. These mu-binding sites are discretely distributed in the human brain, spinal cord, and other tissues. In clinical settings, alfentanil exerts its principal pharmacologic effects on the central nervous system. Its primary actions of therapeutic value are analgesia and sedation. Alfentanil may increase the patient's tolerance for pain and decrease the perception of suffering, although the presence of the pain itself may still be recognized. In addition to analgesia, alterations in mood, euphoria and dysphoria, and drowsiness commonly occur. Alfentanil depresses the respiratory centers, depresses the cough reflex, and constricts the pupils.",
+    "mechanism-of-action": "Opiate receptors are coupled with G-protein receptors and function as both positive and negative regulators of synaptic transmission via G-proteins that activate effector proteins. Binding of the opiate stimulates the exchange of GTP for GDP on the G-protein complex. As the effector system is adenylate cyclase and cAMP located at the inner surface of the plasma membrane, opioids decrease intracellular cAMP by inhibiting adenylate cyclase. Subsequently, the release of nociceptive neurotransmitters such as substance P, GABA, dopamine, acetylcholine and noradrenaline is inhibited. Opioids also inhibit the release of vasopressin, somatostatin, insulin and glucagon. Alfentanil's analgesic activity is, most likely, due to its conversion to morphine. Opioids close N-type voltage-operated calcium channels (OP2-receptor agonist) and open calcium-dependent inwardly rectifying potassium channels (OP3 and OP1 receptor agonist). This results in hyperpolarization and reduced neuronal excitability.",
+    "absorption": "For intravenous injection or infusion only. ",
+    "metabolism": "The liver is the major site of biotransformation.",
+    "toxicity": "Symptoms of overexposure include characteristic rigidity of the skeletal muscles, cardiac and respiratory depression, and narrowing of the pupils.",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,47 @@
+{
+    "pharmgkb_id": "PA166220606",
+    "drugbank_id": "DB06401",
+    "names": [
+        "Bazedoxifene",
+        "Viviant"
+    ],
+    "description": "Bazedoxifene is a third generation selective estrogen receptor modulator (SERM), developed by Pfizer following the completion of their takeover of Wyeth Pharmaceuticals. In late 2013, Pfizer received approval for bazedoxifene as part of the combination drug DUAVEE in the prevention (not treatment) of postmenopausal osteoporosis. It is approved in the European Union (marketed in Italy and Spain) and Japan as monotherapy. In 2013, the combination product containing conjugated estrogens and bazedoxifene was approved by the FDA for the treatment of moderate to severe vasomotor symptoms associated with menopause, as well as the prevention of postmenopausal osteoporosis in women.",
+    "indication": "Indicated for following conditions alone or in combination with conjugated estrogens in women with a uterus:\r\n\r\n- Treatment of moderate to severe vasomotor symptoms associated with menopause\r\n\r\n- Prevention of postmenopausal osteoporosis",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Bazedoxifene belongs to a class of compounds known as selective estrogen receptor modulators (SERMs). Bazedoxifene acts as both an oestrogen-receptor agonist and/or antagonist, depending upon the cell and tissue type and target genes. Bazedoxifene decreases bone resorption and reduces biochemical markers of bone turnover to the premenopausal range. These effects on bone remodelling lead to an increase in bone mineral density (BMD), which in turn contributes to a reduction in the risk of fractures. Bazedoxifene functions primarily as an oestrogen-receptor antagonist in uterine and breast tissues.",
+    "absorption": "Bazedoxifene is rapidly absorbed with a tmax of approximately 2 hours and exhibits a linear increase in plasma concentrations for single doses from 0.5 mg up to 120 mg and multiple daily doses from 1 mg to 80 mg. The absolute bioavailability of bazedoxifene is approximately 6%.",
+    "metabolism": "Glucuronidation is the major metabolic pathway.  After peroral application, bazedoxifene is metabolized by UDP-glucuronosyltransferases (UGTs) to bazedoxifene-4'-glucuronide (M4) and bazedoxifene-5-glucuronide (M5).Little or no cytochrome P450-mediated metabolism is evident. The concentrations of this glucuronide are approximately 10-fold higher than those of unchanged active substance in plasma.",
+    "toxicity": null,
+    "targets": [
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ],
+        [
+            "ESR2",
+            "Estrogen receptor beta",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferase 1-4",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferase 1-8",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferase 1-10",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

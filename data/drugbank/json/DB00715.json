@@ -1,0 +1,302 @@
+{
+    "pharmgkb_id": "PA450801",
+    "drugbank_id": "DB00715",
+    "names": [
+        "Paroxetine",
+        "Aropax",
+        "PAXILCR",
+        "Sereupin",
+        "Seroxat",
+        "Seroxat CR"
+    ],
+    "description": "Paroxetine is a selective serotonin reuptake inhibitor (SSRI) drug commonly known as Paxil. It has a variety of uses, including the treatment of anxiety disorders, major depression, posttraumatic stress disorder, and symptoms of menopause, among others.[T653] It was approved by the FDA in the early 1990s and marketed by SmithKline Beecham.[L7712,L7715] A unique feature of this drug is that it is highly potent and selective in its inhibition of serotonin reuptake and has little effect on other neurotransmitters.[A31914] Because of its potent inhibition of serotonin reuptake, paroxetine is more likely to cause withdrawal effects upon cessation. Paroxetine is well tolerated in most patients with a similar adverse effect profile to other members of its drug class.[A31914] The controlled release formulation was designed to decrease the likelihood of nausea that is sometimes associated with paroxetine.[L7700,L7742]",
+    "indication": "Paroxetine is indicated for the management of depression, obsessive-compulsive disorder, panic disorder, social anxiety disorder, generalized anxiety disorder, posttraumatic stress disorder.[L3358] One form of paroxetine, commercially known as Brisdelle, is used to manage mild to moderate vasomotor symptoms of menopause.[L7703] Off-label, paroxetine may be used for the treatment of premature ejaculation or irritable bowel syndrome (IBS).[A1093,A181754,A181904]",
+    "pharmacodynamics": "Paroxetine treats the symptoms of depression, various anxiety disorders, posttraumatic stress disorder, obsessive-compulsive disorder, and the vasomotor symptoms of menopause via the inhibition of serotonin reuptake.[T653,L3358,L7703] The onset of action of paroxetine is reported to be approximately 6 weeks.[A181874]\r\n\r\nDue its serotonergic activity, paroxetine, like other SSRI drugs, may potentiate serotonin syndrome. This risk is especially high when monoamine oxidase (MAO) inhibitors are given within 2 weeks of paroxetine administration. Upon cessation of MAO inhibitors, a 2-week interval before paroxetine administration is recommended. Do not coadminister these agents.[T656]",
+    "mechanism-of-action": "Paroxetine enhances serotonergic activity via the inhibition presynaptic reuptake of serotonin by the serotonin (SERT) receptor.[A5492,A181772] This inhibition raises the level of serotonin in the synaptic cleft, relieving various symptoms. This drug has been demonstrated to be a stronger inhibitor of serotonin reuptake than other members of the same drug class, including [Citalopram], [Fluoxetine], and [Fluvoxamine].[A31914] The mechanism of action of paroxetine in relieving the vasomotor symptoms of menopause is unknown, according to the Brisdelle prescribing information[L7703], but may occur due to its effects on thermoregulation.[A181973]\r\n\r\nParoxetine shows a clinically insignificant affinity for adrenergic alpha-1 and alpha-2 receptors and \u03b2-adrenergic receptors, dopamine D1 and D2 receptors, histamine H1 receptors and serotonin 5-HT1A, 5-HT2A and 5-HT2C receptors.[A31914] This drug shows some affinity for muscarinic cholinergic receptors and 5-H2B receptors.[A181829,A181847] The delayed onset of paroxetine therapeutic effects may be explained by the initial paroxetine actions on the 5-HT neurons.  In rats, paroxetine activates 5-HT1A receptors when it is first administered, inhibiting the stimulation of the  5-HT neurons and subsequent release of serotonin at the synaptic cleft.[A31914]",
+    "absorption": "Paroxetine is readily absorbed from the gastrointestinal tract. Due to the first-pass metabolism, the bioavailability ranges from 30-60%. Cmax is attained 2 to 8 hours after an oral dose.[A181760] Mean Tmax is 4.3 hours in healthy patients.[L7706]  The steady-state concentration of paroxetine is achieved within 7 to 14 days of oral therapy.[A31914] In a pharmacokinetic study, AUC in healthy patients was 574 ng\u00b7h/mL and 1053 ng\u00b7h/mL in those with moderate renal impairment.[L7706]",
+    "metabolism": "Paroxetine metabolism occurs in the liver and is largely mediated by cytochrome CYP2D6 with contributions from CYP3A4 and possibly other cytochrome enzymes.[A415,T656]  Genetic polymorphisms of the CYP2D6 enzyme may alter the pharmacokinetics of this drug. Poor metabolizers may demonstrate increased adverse effects while rapid metabolizers may experience decreased therapeutic effects.[A31914,A181769,L7718] \r\n\r\nThe majority of a paroxetine dose is oxidized to a catechol metabolite that is subsequently converted to both glucuronide and sulfate metabolites via methylation and conjugation. In rat synaptosomes, the glucuronide and sulfate conjugates have been shown to thousands of times less potent than paroxetine itself.[L7706] The metabolites of paroxetine are considered inactive.[A181883,A31914,T656]",
+    "toxicity": "\r\nThe acute LD50 in mice and rats is 350 mg/kg.[L7733]\r\n\r\nOverdose information\r\n\r\nThe lowest dose of paroxetine reported to lead to a fatal outcome is approximately 400 mg. The largest reported paroxetine overdose from which a patient has survived and recovered is a dose of 2000 mg.  Common manifestations in a paroxetine overdose include fatigue, fever, insomnia hypertension, tachycardia, nausea, vomiting, somnolence, tremor, dizziness, agitation, confusion, anxious symptoms, headache, insomnia, hyperhidrosis, dilated pupils, seizures, paresthesia, serotonin syndrome, involuntary muscle contraction, and change in mental status. It should be noted that in some cases, patients may have consumed alcohol in addition to taking an overdose of paroxetine.[L7706] Some of these symptoms may also be seen with clinical use. There is no specific antidote to an overdose of paroxetine.[A181775]",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR1E",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR1F",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR3B",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR3C",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR3D",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR3E",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR4",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "Serotonin Receptors",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine receptor 2B",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "D(1) dopamine receptor",
+            "Humans"
+        ],
+        [
+            "DRD5",
+            "D(1) dopamine receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00715",
+            "Drug Name": "Paroxetine",
+            "Gene Symbol": "ABCB1",
+            "RS ID (Genotype)": "rs2032583",
+            "Effect Description": "Patients with this genotype have an increased likelihood of remission when using paroxetine to treat major depressive disorder."
+        },
+        {
+            "DrugBank ID": "DB00715",
+            "Drug Name": "Paroxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs35742686",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of paroxetine."
+        },
+        {
+            "DrugBank ID": "DB00715",
+            "Drug Name": "Paroxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of paroxetine."
+        },
+        {
+            "DrugBank ID": "DB00715",
+            "Drug Name": "Paroxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of paroxetine."
+        },
+        {
+            "DrugBank ID": "DB00715",
+            "Drug Name": "Paroxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of paroxetine."
+        },
+        {
+            "DrugBank ID": "DB00715",
+            "Drug Name": "Paroxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1135824",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of paroxetine."
+        },
+        {
+            "DrugBank ID": "DB00715",
+            "Drug Name": "Paroxetine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs28371733",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with reduced or poor metabolism of paroxetine."
+        }
+    ]
+}

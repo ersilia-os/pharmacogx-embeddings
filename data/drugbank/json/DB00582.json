@@ -1,0 +1,93 @@
+{
+    "pharmgkb_id": "PA10233",
+    "drugbank_id": "DB00582",
+    "names": [
+        "Voriconazole"
+    ],
+    "description": "Voriconazole (Vfend, Pfizer) is a triazole antifungal medication used to treat serious fungal infections.[L15571] It is used to treat invasive fungal infections that are generally seen in patients who are immunocompromised. These include invasive candidiasis, invasive aspergillosis, and emerging fungal infections. The increased affinity of voriconazole for 14-alpha sterol demethylase makes it useful against some [fluconazole]-resistant organisms.[A236050]\r\n\r\nVoriconazole was approved by the FDA under the trade name Vfend on May 24, 2002.[L34660]",
+    "indication": "For the treatment of esophageal candidiasis, cadidemia, invasive pulmonary aspergillosis, and serious fungal infections caused by <i>Scedosporium apiospermum</i> and <i>Fusarium</i> spp.[L9821, L15571] ",
+    "pharmacodynamics": "Voriconazole is a fungistatic triazole antifungal used to treat infections by inhibiting fungal growth.[L9821] It is known to cause hepatotoxic and photosensitivity reactions in some patients.",
+    "mechanism-of-action": "Voriconazole is used to treat fungal infections caused by a variety of organisms but including _Aspergillus spp._ and _Candida spp_. Voriconazole is a triazole antifungal exhibiting fungistatic activity against fungal pathogens.[A236050, A236045, L9821] Like other triazoles, voriconazole binds to 14-alpha sterol demethylase, also known as CYP51, and inhibits the demethylation of lanosterol as part of the ergosterol synthesis pathway in yeast and other fungi. The lack of sufficient ergosterol disrupts fungal cell membrane function and limits fungal cell growth. With fungal growth limited, the host's immune system is able to clear the invading organism.",
+    "absorption": "The oral bioavailability is estimated to be 96% in healthy adults[L9821]. Population pharmacokinetic studies report a reduced bioavailability pediatric patients with a mean of 61.8% (range 44.6\u201364.5%) thought to be due to differences in first-pass metabolism or due to differences in diet [A227613]. Of note, transplant patients also have reduced bioavailability but this is known to increase with time after transplantation and may be due in part to gastrointestinal upset from surgery and some transplant medications. Tmax is 1-2 hours with oral administration. When administered with a high-fat meal Cmax decreases by 34% and AUC by 24%. pH does not have an effect on absorption of voriconazole. Differences in Cmax and AUC have been observed between healthy adult males and females with Cmax increasing by 83% and AUC by 113% although this has not been observed to significantly impact medication safety profiles.",
+    "metabolism": "Voriconazole undergoes extensive hepatic metabolism through cytochrome enzymes CYP2C9, CYP2C19, and CYP3A4. CYP2C19 mediates N-oxidation with an apparent Km of 14 \u03bcM and an apparent Vmax of 0.22 nmol/min/nmol CYP2C19.[A38618] Voriconazole N-oxide is the major circulating metabolite, accounting for 72% of radiolabeled metabolites found.[L9821] CYP3A4 contributes to N-oxidation with a Km of 16 \u03bcM and Vmax of 0.05 nmol/min/nmol CYP3A4 as well as 4-hydroxylation with a Km of 11 \u03bcM and a Vmax of 0.10 nmol/min/nmol CYP3A4.[A38618] CYP3A5 and CYP3A7 provide minor contributions to N-oxidation and 4-hydroxylation. The N-oxide and 4-hydroxylated metabolites undergo  glucuronidation and are excreted through the urine with other minor glucuronidated metabolites.[A19483]",
+    "toxicity": "Symptoms of overdose include photophobia and possible QTc prolongation.[L9821, L15571] In case of overdose, supportive care and ECG monitoring are recommended. Activated charcoal may aid in the removal of unabsorbed drug. Voriconazole is cleared by hemodialysis at a rate of 121 mL/min which may be helpful in removing absorbed drug. Carcinogenicity studies found hepatocellular adenomas in female rats at doses of 50 mg/kg and hepatocellular carcinomas found in male rats at doses of 6 and 50 mg/kg. These doses are equivalent to 0.2 and 1.6 times the recommended maintenance dose (RMD). Studies in mice detected hepatocellular carcinomas in males at doses of 100 mg/kg or 1.4 times the RMD. Hepatocellular adenomas were detected in both male and female mice.",
+    "targets": [
+        [
+            "ERG11",
+            "Cytochrome P450 51",
+            "Yeast"
+        ]
+    ],
+    "enzymes": [
+        [
+            "FMO1",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 1",
+            "Humans"
+        ],
+        [
+            "FMO3",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 3",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00582",
+            "Drug Name": "Voriconazole",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs12248560",
+            "Effect Description": "Patients with this genotype in CYP2C19 are ultra fast metabolizers and require higer doses of voriconazole to attain the therapeutic effect."
+        },
+        {
+            "DrugBank ID": "DB00582",
+            "Drug Name": "Voriconazole",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with poor metabolism of voriconazole."
+        },
+        {
+            "DrugBank ID": "DB00582",
+            "Drug Name": "Voriconazole",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with reduced or poor metabolism of voriconazole."
+        }
+    ]
+}

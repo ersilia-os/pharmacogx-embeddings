@@ -1,0 +1,91 @@
+{
+    "pharmgkb_id": "PA450374",
+    "drugbank_id": "DB00849",
+    "names": [
+        "Methylphenobarbital",
+        "Mephyltaletten",
+        "Phemiton",
+        "Phemitone",
+        "Phenmiton",
+        "Prominal"
+    ],
+    "description": "A barbiturate that is metabolized to phenobarbital. It has been used for similar purposes, especially in epilepsy, but there is no evidence mephobarbital offers any advantage over phenobarbital.",
+    "indication": "For the relief of anxiety, tension, and apprehension, also used as an anticonvulsant for the treatment of epilepsy.",
+    "pharmacodynamics": "Methylphenobarbital, a barbiturate, is used in combination with acetaminophen or aspirin and caffeine for its sedative and relaxant effects in the treatment of tension headaches, migraines, and pain. Barbiturates act as nonselective depressants of the central nervous system (CNS), capable of producing all levels of CNS mood alteration from excitation to mild sedation, hypnosis, and deep coma. In sufficiently high therapeutic doses, barbiturates induce anesthesia.",
+    "mechanism-of-action": "Methylphenobarbital binds at a distinct binding site associated with a Cl<sup>-</sup> ionopore at the GABA<sub>A</sub> receptor, increasing the duration of time for which the Cl<sup>-</sup> ionopore is open. The post-synaptic inhibitory effect of GABA in the thalamus is, therefore, prolonged.",
+    "absorption": "Approximately 50% of an oral dose of mephobarbital is absorbed from the gastrointestinal tract.",
+    "metabolism": "Hepatic, primarily by the hepatic microsomal enzyme system. About 75% of a single oral dose of mephobarbital is metabolized to phenobarbital in 24 hours.",
+    "toxicity": null,
+    "targets": [
+        [
+            "GABRA2",
+            "Gamma-aminobutyric acid receptor subunit alpha-2",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "Gamma-aminobutyric acid receptor subunit alpha-3",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "Gamma-aminobutyric acid receptor subunit alpha-4",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "Gamma-aminobutyric acid receptor subunit alpha-5",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "Gamma-aminobutyric acid receptor subunit alpha-6",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "Gamma-aminobutyric acid receptor subunit alpha-1",
+            "Humans"
+        ],
+        [
+            "CHRNA4",
+            "Neuronal acetylcholine receptor subunit alpha-4",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ],
+        [
+            "GRIA2",
+            "Glutamate receptor 2",
+            "Humans"
+        ],
+        [
+            "GRIK2",
+            "Glutamate receptor ionotropic, kainate 2",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

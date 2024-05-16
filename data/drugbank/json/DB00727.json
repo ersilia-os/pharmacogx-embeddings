@@ -1,0 +1,59 @@
+{
+    "pharmgkb_id": "PA450644",
+    "drugbank_id": "DB00727",
+    "names": [
+        "Nitroglycerin",
+        "Deponit",
+        "Dermatrans",
+        "Gen-Nitro",
+        "Glytrin",
+        "Glytrin Spray",
+        "Natispray",
+        "Nitrocap",
+        "Nitroderm TTS",
+        "Nitrolingual Pump Spray",
+        "Rectogesic",
+        "Stangyl",
+        "Transderm-Nitro",
+        "Tridil",
+        "Trimonit",
+        "Trinipatch",
+        "Triniplas",
+        "Trinispray",
+        "Trinitrin Simplex Laleuf",
+        "Trinitron",
+        "Trinitrosan",
+        "Trintek",
+        "Trocer",
+        "Trocer SR",
+        "Vasolator",
+        "Vasovin",
+        "Venitrin",
+        "Vernies",
+        "Willlong"
+    ],
+    "description": "Nitroglycerin, also known as glyceryl trinitrate,[A180169] is an organic nitrate and a vasodilating agent [L38369] that was first discovered in 1847.[A249965] Originally used to dynamite, its antianginal effects were identified in the late 1860s after it produced headaches in factory workers while workers with angina pectoris or heart failure experienced relief from chest pain.[A180166,A180172] Its use as a treatment for angina dates back to 1879 and is still used to treat and prevent angina.[A249970] Nitroglycerin causes vasodilation in both arteries and veins.[A180172]\r\n\r\nNitroglycerin is used in a variety of different conditions, including angina pectoris due to coronary artery disease,[L7102,L7141,L38369,L42320] peri-operative hypertension, congestive heart failure,[L7099] and chronic anal fissure.[L42445] It is also used to induce intraoperative hypotension.[L7099]",
+    "indication": "Sublingual nitroglycerin is indicated for the acute relief of an attack or acute prophylaxis of angina pectoris due to coronary artery disease.[L7102,L38369,L42320] Transdermal nitroglycerin is indicated for the prevention of angina pectoris due to coronary artery disease.[L7141]\r\n\r\nIntravenous nitroglycerin is indicated for the treatment of peri-operative hypertension; for control of congestive heart failure in the setting of acute myocardial infarction; for treatment of angina pectoris in patients who have not responded to sublingual nitroglycerin and beta (\u03b2)-blockers; and for induction of intraoperative hypotension.[L7099] \r\n\r\nTopical nitroglycerin ointment is used to treat moderate to severe pain associated with chronic anal fissure.[L42445]",
+    "pharmacodynamics": "Nitroglycerin causes the relaxation of vascular smooth muscles, causing arteriolar and venous dilatation.[L38369] It increases blood flow to the myocardium and reduces cardiac preload and afterload, decreasing myocardial wall stress and ameliorating anginal symptoms.[A180172,A249970,L7102] Nitroglycerin also reduces coronary artery spasm, decreasing systemic vascular resistance as well as systolic and diastolic blood pressure.[L38369]\r\n\r\nLike other organic nitrates, repeated and prolonged administration of nitroglycerin can lead to the development of tolerance or desensitization of vascular smooth muscle to further nitroglycerin-induced vasorelaxation. This loss of efficacy may be associated with the inhibition of mitochondrial aldehyde dehydrogenase, which is an important enzyme involved in the bioactivation of nitroglycerin.[A180166,A180169,A180172] Nitroglycerin tolerance may be accompanied by pro-oxidant effects, endothelial dysfunction, and increased sensitivity to vasoconstrictors.[A180172]",
+    "mechanism-of-action": "Nitroglycerin is converted by mitochondrial aldehyde dehydrogenase in smooth muscle cells to nitric oxide (NO), a potent vasodilator. NO activates the enzyme guanylate cyclase, which converts guanosine triphosphate (GTP) to cyclic guanosine 3',5'-monophosphate (cGMP) in vascular smooth muscle and other tissues.[A180166,A180169,A249970] cGMP is an endogenous vasodilator of vascular smooth muscle:[A180172] it causes protein kinase-dependent phosphorylation and activates downstream cascades that promote relaxation and increased blood flow in veins, arteries and cardiac tissue.[A180172,A249970] An _in vitro_ study using mouse aorta suggests that nitric oxide, an active metabolite of nitroglycerin, targets the natriuretic peptide receptors.[A5526] ",
+    "absorption": "Nitroglycerin is rapidly absorbed and is often used in emergency situations for this reason.[A249970] After a sublingual dose of 0.5 mg of nitroglycerin in patients with ischemic heart disease, the peak concentration (C<sub>max</sub>) was 2.56 ng/mL and the mean T<sub>max</sub> was 4.4 minutes.[A180175] \r\n\r\nThe C<sub>max</sub> following a 0.6mg dose of sublingual nitroglycerin was 2.1 ng/mL and the T<sub>max</sub> was 7.2 minutes.[L38369] The absolute bioavailability following sublingual administration was about 40%. The bioavailability of nitroglycerin depends on several factors, such as mucosal metabolism and hydration status, which both affect the absorption of sublingual drugs.[L38369]",
+    "metabolism": "Mitochondrial aldehyde dehydrogenase 2 (ALDH2) promotes the bioactivation of nitroglycerin. Nitroglycerin is metabolized to nitrite; 1,2-glyceryl dinitrate; and 1,3 glyceryl dinitrate.[A180166,A180265,L7099] Nitrite is further metabolized to nitric oxide. 1,2- and 1,3-dinitroglycerols are less biologically active than nitroglycerin but they have longer half-lives, which explains some prolonged effects of nitrates. Both dinitrates are finally metabolized to glycerol, carbon dioxide, and mononitrates that do not have vasodilatory actions.[A180184,L7099]\r\n\r\nNitroglycerin can also chemically react with a thiol to generate an intermediate S-nitrosothiol, which resulted in further production of nitric oxide.[A180166,A180172,A180265] ",
+    "toxicity": "The oral LD50 of nitroglycerin in rats is 105 mg/kg and the LD50 of the intravenous form in rats is 23.2 mg/kg.[L7105]\r\n\r\nNitrate overdosage can result in following conditions: severe hypotension, persistent throbbing headache, vertigo, palpitation, visual disturbance, flushing and perspiring skin (later becoming cold and cyanotic), nausea and vomiting (possibly with colic and even bloody diarrhea), syncope (especially in the upright posture), methemoglobinemia with cyanosis and anorexia, initial hyperpnea, dyspnea and slow breathing, slow pulse (dicrotic and intermittent), heart block, increased intracranial pressure with cerebral symptoms of confusion and moderate fever, paralysis and coma followed by clonic convulsions, and possibly death due to circulatory collapse.[L38369]\r\n\r\nMethemoglobinemia can rarely occur at conventional doses of organic nitrates. This condition is dose-related and it can be even more pronounced in patients with genetic abnormalities of hemoglobin that favor methemoglobin formation. Methemoglobinemia can be managed with the administration of methylene blue unless the patient has a known G-6-PD deficiency.[L38369]\r\n\r\nThere are no known antidotes to an overdose of nitroglycerin, and it is not known whether its metabolites can be removed from the circulation.[L38369,L7099] Hypotension associated with nitroglycerin overdose can be managed with different symptomatic and supportive measures, including the elevation of the lower limbs, administration of intravenous saline or other fluids to maintain central fluid volume, and administration of oxygen and artificial ventilation. Gastric lavage may be used in case of ingestion of excess nitroglycerin.[L38369] ",
+    "targets": [
+        [
+            "NPR1",
+            "Atrial natriuretic peptide receptor 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "ALDH2",
+            "Aldehyde dehydrogenase, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

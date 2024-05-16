@@ -1,0 +1,217 @@
+{
+    "pharmgkb_id": "PA128406956",
+    "drugbank_id": "DB00544",
+    "names": [
+        "Fluorouracil",
+        "Carzonal",
+        "Efudix",
+        "Efurix",
+        "Ftoruracil"
+    ],
+    "description": "A pyrimidine analog that is an antineoplastic antimetabolite. It interferes with DNA synthesis by blocking the thymidylate synthetase conversion of deoxyuridylic acid to thymidylic acid.",
+    "indication": "For the topical treatment of multiple actinic or solar keratoses. In the 5% strength it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites. Fluorouracil injection is indicated in the palliative management of some types of cancer, including colon, esophageal, gastric, rectum, breast, biliary tract, stomach, head and neck, cervical, pancreas, renal cell, and carcinoid.",
+    "pharmacodynamics": "Fluorouracil is an antineoplastic anti-metabolite. Anti-metabolites masquerade as purine or pyrimidine - which become the building blocks of DNA. They prevent these substances from becoming incorporated into DNA during the \"S\" phase (of the cell cycle), stopping normal development and division. Fluorouracil blocks an enzyme which converts the cytosine nucleotide into the deoxy derivative. In addition, DNA synthesis is further inhibited because Fluorouracil blocks the incorporation of the thymidine nucleotide into the DNA strand.",
+    "mechanism-of-action": "The precise mechanism of action has not been fully determined, but the main mechanism of fluorouracil is thought to be the binding of the deoxyribonucleotide of the drug (FdUMP) and the folate cofactor, N5\u201310-methylenetetrahydrofolate, to thymidylate synthase (TS) to form a covalently bound ternary complex. This results in the inhibition of the formation of thymidylate from uracil, which leads to the inhibition of DNA and RNA synthesis and cell death. Fluorouracil can also be incorporated into RNA in place of uridine triphosphate (UTP), producing a fraudulent RNA and interfering with RNA processing and protein synthesis.",
+    "absorption": "28-100%",
+    "metabolism": "Hepatic. The catabolic metabolism of fluorouracil results in degradation products ( e.g., CO2, urea and \u03b1-fluoro-\u00df-alanine) which are inactive. ",
+    "toxicity": "LD<sub>50</sub>=230mg/kg (orally in mice)",
+    "targets": [
+        [
+            "TYMS",
+            "Thymidylate synthase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "DPYD",
+            "Dihydropyrimidine dehydrogenase [NADP(+)]",
+            "Humans"
+        ],
+        [
+            "UPP1",
+            "Uridine phosphorylase 1",
+            "Humans"
+        ],
+        [
+            "UPP2",
+            "Uridine phosphorylase 2",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "MTHFR",
+            "Methylenetetrahydrofolate reductase",
+            "Humans"
+        ],
+        [
+            "TYMS",
+            "Thymidylate synthase",
+            "Humans"
+        ],
+        [
+            "UMPS",
+            "Uridine 5'-monophosphate synthase",
+            "Humans"
+        ],
+        [
+            "PPAT",
+            "Amidophosphoribosyltransferase",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "TYMP",
+            "Thymidine phosphorylase",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC5",
+            "Multidrug resistance-associated protein 5",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "SERPINA7",
+            "Thyroxine-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "TYMS",
+            "RS ID (Genotype)": "rs34743033",
+            "Adverse Reaction Description": "Patients with this genotype have increased risk of severe neutropenia or severe diarrhea with [drug; fluorouracil]."
+        },
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801265",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of fluorouracil and increased risk of toxicity."
+        },
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "GSTP1",
+            "RS ID (Genotype)": "rs1695",
+            "Adverse Reaction Description": "Patients with this genotype have increased risk of toxicity with fluorouracil"
+        },
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs3918290",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of fluorouracil and increased risk of toxicity."
+        },
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs67376798",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of fluorouracil and increased risk of toxicity."
+        },
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs3918290",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD is associated with an increased risk of drug-related toxicity from fluorouracil therapy."
+        },
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs55886062",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD is associated with an increased risk of drug-related toxicity from fluorouracil therapy."
+        },
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs67376798",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD is associated with an increased risk of drug-related toxicity from fluorouracil therapy."
+        },
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801158",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from fluorouracil therapy."
+        },
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801159",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from fluorouracil therapy."
+        },
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801160",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from fluorouracil therapy."
+        },
+        {
+            "DrugBank ID": "DB00544",
+            "Drug Name": "Fluorouracil",
+            "Gene Symbol": "DPYD",
+            "RS ID (Genotype)": "rs1801265",
+            "Adverse Reaction Description": "The presence of this genotype in DPYD may be associated with an increased risk of drug-related toxicity from fluorouracil therapy."
+        }
+    ]
+}

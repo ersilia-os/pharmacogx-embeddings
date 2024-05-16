@@ -1,0 +1,35 @@
+{
+    "pharmgkb_id": "PA166178378",
+    "drugbank_id": "DB08844",
+    "names": [
+        "Uric acid"
+    ],
+    "description": "Uric acid is the last product of purine metabolism in humans. The formation of uric acid is through the enzyme xanthine oxidase, which oxidizes oxypurines. Normally a small amount of uric acid is present in the body, but when there is an excess amount in the blood, called hyperuricemia, this can lead to gout and formation of kidney stones. As a therapeutic agent, it is known that uric acid is increased in response to oxidative stress, and as such, uric acid acts as an antioxidant. At present (August 2013), there is no approved formulation or indication for uric acid. In one country, Spain, uric acid is an investigational drug in a phase 3 trial studying its effects as an adjunct to alteplase in acute ischemic stroke.",
+    "indication": "At present (August 2013), there is no approved indication for uric acid.  The potential therapeutic use for uric acid is as an adjunct in acute ischemic stroke.",
+    "pharmacodynamics": "Uric acid is a strong reducing agent (donates electrons) and an antioxidant. Normally in humans, one of the main antioxidants in plasma is uric acid. Several animal studies have found that animals given exogenous uric acid within 3 hours after a stroke had decreased infarct volume, improved neurologic function, and diminished inflammatory responses providing evidence for the neuroprotective effects of uric acid. In some early human studies, uric acid has so far shown similar neuroprotective effects, in both the cortex and subcortex areas, due to its antioxidant effects such as decreased lipid peroxidation, and there appears to be no significant toxicities.",
+    "mechanism-of-action": "The exact mechanism of action for uric acid's antioxidant effects have not yet been elucidated.",
+    "absorption": null,
+    "metabolism": "In higher primates and humans, the enzyme, uricase, is absent, and thus uric acid is not further metabolized and is excreted. In all other mammals, uric acid is metabolized by uricase to allantoin, which is then excreted.",
+    "toxicity": null,
+    "targets": null,
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC2A9",
+            "Solute carrier family 2, facilitated glucose transporter member 9",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

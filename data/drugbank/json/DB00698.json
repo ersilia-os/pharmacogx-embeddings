@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA450640",
+    "drugbank_id": "DB00698",
+    "names": [
+        "Nitrofurantoin",
+        "Furabid",
+        "Niftran",
+        "Siraliden",
+        "Urantoin",
+        "Urolong"
+    ],
+    "description": "Nitrofurantoin is a nitrofuran antibiotic used to treat uncomplicated urinary tract infections.[L6856,L6859,L6862] Nitrofurantoin is converted by bacterial nitroreductases to electrophilic intermediates which inhibit the citric acid cycle as well as synthesis of DNA, RNA, and protein.[A179824] This drug is more resistant to the development of bacterial resistance because it acts on many targets at once.[A179824] Nitrofurantoin is a second line treatment to [trimethoprim]/[sulfamethoxazole].[A179830]\r\n\r\nNitrofurantoin was granted FDA approval on 6 February 1953.[L6895]",
+    "indication": "Nitrofurantoin is indicated to treat acute uncomplicated urinary tract infections.[L6856,L6859,L6862]",
+    "pharmacodynamics": "Nitrofurantoin interferes with vital processes in bacteria, which leads to their death.[A179824] Nitrofurantoin rapidly reaches therapeutic concentrations in the urine and is also cleared rapidly.[A179830]",
+    "mechanism-of-action": "Nitrofurantoin is converted by bacterial nitroreductases to electrophilic intermediates which inhibit the citric acid cycle as well as synthesis of DNA, RNA, and protein.[A179824]",
+    "absorption": "Nitrofurantoin reaches a C<sub>max</sub> of 0.875-0.963mg/L with an AUC of 2.21-2.42mg\\*h/L.[A179830] It is 38.8-44.3% bioavailable.[A179830] Taking nitrofurantoin with food increases the absorption and duration of therapeutic concentrations in the urine.[A179854]",
+    "metabolism": "0.8-1.8% of a dose is metabolized to aminofurantoin, and \u22640.9% of a dose is metabolized to other metabolites.[A179860]",
+    "toxicity": "Symptoms of overdose include vomiting.[L6856,L6859,L6862] In case of overdose, induce vomiting if it has not already occurred and increase fluid intake to promote urination.[L6856,L6859,L6862] In extreme cases, nitrofurantoin can be removed from circulation by dialysis.[L6856,L6859,L6862]",
+    "targets": [
+        [
+            "ydbK",
+            "Probable pyruvate-flavodoxin oxidoreductase",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "nfsA",
+            "Oxygen-insensitive NADPH nitroreductase",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "rpsJ",
+            "30S ribosomal protein S10",
+            "Escherichia coli (strain K12)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "POR",
+            "NADPH--cytochrome P450 reductase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

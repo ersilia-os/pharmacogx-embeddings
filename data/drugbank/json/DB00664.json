@@ -1,0 +1,26 @@
+{
+    "pharmgkb_id": "PA164747038",
+    "drugbank_id": "DB00664",
+    "names": [
+        "Sulfametopyrazine",
+        "Kelfizina"
+    ],
+    "description": "Long-acting plasma-bound sulfonamide used for respiratory and urinary tract infections and also for malaria.",
+    "indication": "For the treatment of urinary tract infection and chronic bronchitis.",
+    "pharmacodynamics": "Sulfametopyrazine is a sulfonamide antibiotic. The sulfonamides are synthetic bacteriostatic antibiotics with a wide spectrum against most gram-positive and many gram-negative organisms. However, many strains of an individual species may be resistant. Sulfonamides inhibit multiplication of bacteria by acting as competitive inhibitors of <i>p</i>-aminobenzoic acid in the folic acid metabolism cycle. Bacterial sensitivity is the same for the various sulfonamides, and resistance to one sulfonamide indicates resistance to all. Most sulfonamides are readily absorbed orally. However, parenteral administration is difficult, since the soluble sulfonamide salts are highly alkaline and irritating to the tissues. The sulfonamides are widely distributed throughout all tissues. High levels are achieved in pleural, peritoneal, synovial, and ocular fluids. Although these drugs are no longer used to treat meningitis, CSF levels are high in meningeal infections. Their antibacterial action is inhibited by pus.",
+    "mechanism-of-action": "Sulfametopyrazine is a competitive inhibitor of the bacterial  enzyme dihydropteroate synthetase. Para-aminobenzoic acid (PABA), a substrate of the enzyme is prevented  from binding. The inhibited reaction is necessary in these organisms for the synthesis of folic acid.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            null,
+            "Dihydropteroate synthetase",
+            "Plasmodium falciparum"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

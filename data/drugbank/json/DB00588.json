@@ -1,0 +1,91 @@
+{
+    "pharmgkb_id": "PA449686",
+    "drugbank_id": "DB00588",
+    "names": [
+        "Fluticasone propionate",
+        "Ezicas",
+        "Flixonase",
+        "Flixotide",
+        "FLOVENTHFA",
+        "Flunase",
+        "Nasofan",
+        "Pirinase",
+        "Seretide"
+    ],
+    "description": "Fluticasone propionate is a synthetic glucocorticoid[F4355,F4358][FDA Label]. These drugs are available as inhalers, nasal, sprays, and topical treatments for various inflammatory indications[F4355,F4358][FDA Label]. Fluticasone propionate was first approved in 1990[L5962].",
+    "indication": "Fluticasone propionate is indicated as an inhaler for the treatment and management of asthma by prophylaxis[FDA Label]as well as inflammatory and pruritic dermatoses[F4355]. Fluticasone propionate nasal spray is indicated for managing allergic and nonallergic rhinitis[L8309,F4358].",
+    "pharmacodynamics": "Systemically, fluticasone propionate activates glucocorticoid receptors, and inhibits lung eosinophilia in rats[F4358][FDA Label]. Fluticasone propionate as a topical formulation is also associated with vasoconstriction in the skin[F4355,A177118].",
+    "mechanism-of-action": "Fluticasone propionate works through an unknown mechanism to  affect the action of various cell types and mediators of inflammation[F4358]. Fluticasone propionate activates glucocorticoid receptors and inhibits lung eosinophilia in rats[F4358,F4355].",
+    "absorption": "Intranasal bioavailability of fluticasone propionate is <2%, and oral bioavailability is <1%[F4358][FDA Label]. Intranasal exposure results in the majority of the dose being swallowed[A177118]. Topical absorption of fluticasone propionate is very low but can change depending on a number of factors including integrity of the skin and the presence of inflammation or disease[F4355]. A study of 24 healthy Caucasian males showed an inhaled bioavailability of 9.0%[A7490].",
+    "metabolism": "Fluticasone propionate is cleared from hepatic metabolism by cytochrome P450 3A4[F4358,A177121][FDA Label]. Fluticasone propionate is hydrolysed at the FIVE-S-fluoromethyl carbothioate group, forming an inactive metabolite[F4355,A177118][FDA Label].",
+    "toxicity": "Fluticasone propionate's use in specific populations has not been well studied[F4358]. Fluticasone propionate is not carcinogenic, mutagenic, or clastogenic, nor did it affect fertility in animal studies[F4358][FDA Label]. Subcutaneous fluticasone propionate has been shown to produce teratogenic effects in rats though oral administration does not[F4355][FDA Label]. Generally, there are no reported adverse effects with fluticasone in pregnancy[A177127]. Fluticasone propionate in human milk may cause growth suppression, effects on endogenous corticosteroid production, or other effects[F4355,A7488]. Pediatric patients treated with fluticasone propionate ointment experienced adrenal suppression[F4355]. Geriatric patients treated with fluticasone propionate did not show any difference in safety or efficacy compared to other patient groups, though older patients may be more sensitive to adverse effects[F4355]. There is no difference in the clearance of fluticasone propionate across genders or race[FDA Label]. Patients with hepatic impairment should be closely monitored due to the elimination mechanism[FDA Label][A176918].",
+    "targets": [
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ],
+        [
+            "PGR",
+            "Progesterone receptor",
+            "Humans"
+        ],
+        [
+            "PLA2G4A",
+            "Cytosolic phospholipase A2",
+            "Humans"
+        ],
+        [
+            "NR3C2",
+            "Mineralocorticoid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SERPINA6",
+            "Corticosteroid-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,60 @@
+{
+    "pharmgkb_id": "PA164774763",
+    "drugbank_id": "DB00654",
+    "names": [
+        "Latanoprost",
+        "Arulatan",
+        "Gaap",
+        "Gaap Ofteno",
+        "Gaax",
+        "Glaucogesic",
+        "Glaumax",
+        "Glauprost",
+        "Hysite",
+        "Iopize",
+        "Ioprost",
+        "Ioptame",
+        "Klonaprost",
+        "Lanoprost",
+        "Lanotan",
+        "Laprost",
+        "Latacris",
+        "Latalux",
+        "Latan-Ophtal",
+        "Lataneau"
+    ],
+    "description": "Latanoprost is a prodrug analog of prostaglandin F2 alpha that is used to treat elevated intraocular pressure (IOP). It was initially approved by the FDA in 1998. Latanoprost is the first topical prostaglandin F2 alpha analog used for glaucoma treatment.[A184493] It has been found to be well-tolerated and its use does not normally result in systemic adverse effects like other drugs used to treat elevated intraocular pressure, such as [Timolol]. Another benefit latanoprost is that it can be administered once a day.[A184490]",
+    "indication": "Latanoprost is indicated for the reduction of elevated intraocular pressure in patients who have been diagnosed with open-angle glaucoma or ocular hypertension.[L8357,L8402,L44401] It is available as monotherapy or in a combination product with [netarsudil] [L8369] or [timolol].[L15217]\r\n\r\nIn Canada, latanoprost is also indicated to treat elevated intraocular pressure due to angle-closure glaucoma that has been treated with peripheral iridotomy or laser iridoplasty.[L8402]",
+    "pharmacodynamics": "Latanoprost effectively decreases intraocular pressure by increasing uveoscleral outflow.[A184490] A decrease in intraocular pressure has been measured within 3\u20134 hours post-administration, reaches a maximum decrease at 8\u201312 hours, and can be maintained for a period of 24 hours.[A184493] \r\n\r\n**A note on eye and periorbital changes** \r\n\r\nBetween 3 to 10% of patients taking latanoprost have experienced iris pigmentation after about 3-4 months of latanoprost use.[A982,A184490] Patients should be notified of this risk before initiating treatment.  It may occur in both patients with light-colored irides (green-brown or blue/grey-brown) or dark-colored (brown) irides, but is less pronounced in the latter group.[A982] This drug may also cause other ocular effects including infrequent conjunctival hyperemia, pigmentation of periocular tissues, eyelash changes, hypertrichosis, and ocular irritation.[A184493,L8357]",
+    "mechanism-of-action": " Elevated intraocular pressure leads to an increased risk of glaucomatous visual field loss. The higher the intraocular pressure, the higher the risk of damage to the optic nerve and loss of visual field.[L8357] Latanoprost selectively stimulates the prostaglandin F2 alpha receptor and this results in a decreased intraocular pressure (IOP) via the increased outflow of aqueous humor, which is often implicated in cases of elevated intraocular pressure.[A184490,L8357] Possible specific mechanisms of the abovementioned increased aqueous outflow are the remodeling of the extracellular matrix and regulation of matrix metalloproteinases. These actions result in higher tissue permeability related to humor outflow pathways, which likely change outflow resistance and/or outflow rates.[A184493]\r\n ",
+    "absorption": "This drug is rapidly absorbed in the cornea as an isopropyl ester prodrug and is then activated by the process of hydrolysis.  A small amount of this drug is systemically absorbed.[A184490] The Cmax of latanoprost in the systemic circulation is reached after 5 minutes and is measured to be 53 pg/mL.  The Cmax in the aqueous humor is attained within 2 hours after administration.[A184493,L8357] and has been estimated to be 15-30 ng/mL.[A184493]",
+    "metabolism": "After corneal uptake, this prodrug is hydrolyzed and activated by esterases to become a pharmacologically active drug. The small portion of this drug that is able to reach the circulation is found to be metabolized by the liver to the 1,2-dinor and 1,2,3,4-tetranor metabolites through fatty acid beta-oxidation.[A184490,A184493,L8357]",
+    "toxicity": "The oral LD50 in the rat is > 50 mg/kg.[L8360]\r\n\r\nAn overdose of latanoprost is not expected to result in dangerous patient outcomes, however, conjunctival or episcleral hyperemia may occur.[L8357] An intravenous infusion of 3 \u03bcg/kg of latanoprost in healthy volunteers led to mean plasma concentrations 200 times higher than a normally administered therapeutic dose and no adverse effects were noted.[L8357] One study suggested that an overdose of latanoprost leads to cystoid macular edema after a large, unintended overdose. This resolved within 4 weeks after 4 weeks following treatment with nepafenac 0.3% eye drops in addition to oral acetazolamide.[A184538] Contact the local poison control center for updated guidance on managing a latanoprost overdose.",
+    "targets": [
+        [
+            "PTGFR",
+            "Prostaglandin F2-alpha receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLCO2A1",
+            "Solute carrier organic anion transporter family member 2A1",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

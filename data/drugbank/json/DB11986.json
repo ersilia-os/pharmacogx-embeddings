@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA166190161",
+    "drugbank_id": "DB11986",
+    "names": [
+        "Entrectinib"
+    ],
+    "description": "Entrectinib is a tropomyosin receptor tyrosine kinase (TRK) TRKA, TRKB, TRKC, proto-oncogene tyrosine-protein kinase ROS1, and anaplastic lymphoma kinase (ALK) inhibitor.[L8081] It was approved by the FDA in August 2019 for use in the treatment of ROS1-positive metastatic non-small cell lung cancer and NTRK gene fusion positive solid tumors.[L8207] Entrectinib's approved use is meant as a last line of therapy due to its accelerated approval based on early trial data. This therapy offers benefit over similar ALK inhibitors such as [alectinib], [ceritinib], and [lorlatinib] due to a wider range of targets.[A183929]",
+    "indication": "Entrectinib is indicated for the treatment of metastatic ROS1-positive non-small cell lung cancer in adults.[L8081] Entrectinib is also indicated in adults and children over 12 years old for the treatment of NTRK gene fusion-positive solid tumors which have metastasized or for which surgical resection is likely to result in severe morbidity and for which has progressed on previous therapies or for which no comparable alternative therapies are available.\r\n\r\nFoundationOne\u00aeLiquid CDx is the only FDA-approved test for the detection of ROS1 rearrangement(s) in NSCLC for selecting patients for treatment with entrectinib.[L44518]",
+    "pharmacodynamics": "Entrectinib and its active metabolite suppress several pathways which contribute to cell survival and proliferation.[A183068,A183797,A183926,A183929,L8081] This suppression shifts the balance in favor of apoptosis thereby preventing cancer cell growth and shrinking tumors.",
+    "mechanism-of-action": "Entrectinib is a tyrosine kinase inhibitor which acts on several receptors. It functions as an ATP competitor to inhibit tropomyosin receptor tyrosine kinases (TRK) TRKA, TRKB, TRKC, as well as proto-oncogene tyrosine-protein kinase ROS1 and anaplastic lymphoma kinase (ALK).[A183797,A183926,L8081] TRK receptors produce cell proliferation via downstream signalling through the mitogen activated protein kinase, phosphoinositide 3-kinase, and phospholipase C-\u03b3.[A183797] ALK produces similar signalling with the addition of downstream JAK/STAT activation.[A183929] Inhibition of these pathways suppresses cancer cell proliferation and shifts the balance in favor of apoptosis resulting in shrinking of tumor volume.[A183926]",
+    "absorption": "Entrectinib has a Tmax of 4-5 h after administration of a single 600 mg dose.[L8081] Food does not produce a significant effect on the extent of absorption.",
+    "metabolism": "CYP3A4 is responsible for 76% of entrectinib metabolism in humans including metabolism to the active metabolite, M5.[L8081] M5 has similar pharmacological activity to entrectinib and exists at approximately 40% of the steady state concentration of the parent drug. In rats, six in vivo metabolites have been identified including N-dealkylated, N-oxide, hydroxylated, and glucuronide conjugated metabolites.[A183191]",
+    "toxicity": null,
+    "targets": [
+        [
+            "NTRK1",
+            "High affinity nerve growth factor receptor",
+            "Humans"
+        ],
+        [
+            "NTRK3",
+            "NT-3 growth factor receptor",
+            "Humans"
+        ],
+        [
+            "ROS1",
+            "Proto-oncogene tyrosine-protein kinase ROS",
+            "Humans"
+        ],
+        [
+            "NTRK2",
+            "BDNF/NT-3 growth factors receptor",
+            "Humans"
+        ],
+        [
+            "JAK2",
+            "Tyrosine-protein kinase JAK2",
+            "Humans"
+        ],
+        [
+            "TNK2",
+            "Activated CDC42 kinase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

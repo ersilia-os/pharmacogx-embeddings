@@ -1,0 +1,38 @@
+{
+    "pharmgkb_id": "PA451112",
+    "drugbank_id": "DB01168",
+    "names": [
+        "Procarbazine",
+        "Indicarb",
+        "Natulan"
+    ],
+    "description": "An antineoplastic agent used primarily in combination with mechlorethamine, vincristine, and prednisone (the MOPP protocol) in the treatment of Hodgkin's disease.",
+    "indication": "For use with other anticancer drugs for the treatment of stage III and stage IV Hodgkin's disease.",
+    "pharmacodynamics": "Procarbazine is an antineoplastic in the class of alkylating agents and is used to treat various forms of cancer. Alkylating agents are so named because of their ability to add alkyl groups to many electronegative groups under conditions present in cells. They stop tumor growth by cross-linking guanine bases in DNA double-helix strands - directly attacking DNA. This makes the strands unable to uncoil and separate. As this is necessary in DNA replication, the cells can no longer divide. In addition, these drugs add methyl or other alkyl groups onto molecules where they do not belong which in turn inhibits their correct utilization by base pairing and causes a miscoding of DNA. Procarbazine is cell-phase specific for the S phase of cell division.",
+    "mechanism-of-action": "The precise mode of cytotoxic action of procarbazine has not been clearly defined. There is evidence that the drug may act by inhibition of protein, RNA and DNA synthesis. Studies have suggested that procarbazine may inhibit transmethylation of methyl groups of methionine into t-RNA. The absence of functional t-RNA could cause the cessation of protein synthesis and consequently DNA and RNA synthesis. In addition, procarbazine may directly damage DNA. Hydrogen peroxide, formed during the auto-oxidation of the drug, may attack protein sulfhydryl groups contained in residual protein which is tightly bound to DNA.",
+    "absorption": "Procarbazine is rapidly and completely absorbed.",
+    "metabolism": "Procarbazine is metabolized primarily in the liver and kidneys. The drug appears to be auto-oxidized to the azo derivative with the release of hydrogen peroxide. The azo derivative isomerizes to the hydrazone, and following hydrolysis splits into a benzylaldehyde derivative and methylhydrazine. The methylhydrazine is further degraded to CO<sub>2</sub> and CH<sub>4</sub> and possibly hydrazine, whereas the aldehyde is oxidized to N-isopropylterephthalamic acid, which is excreted in the urine.",
+    "toxicity": "LD<sub>50</sub>=785 mg/kg (orally in rats)",
+    "targets": [
+        [
+            "MAOA",
+            "Monoamine oxidase",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Monoamine oxidase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "XDH",
+            "Xanthine dehydrogenase/oxidase",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,68 @@
+{
+    "pharmgkb_id": "PA451216",
+    "drugbank_id": "DB01129",
+    "names": [
+        "Rabeprazole",
+        "Pariet"
+    ],
+    "description": "Rabeprazole is an antiulcer drug in the class of proton pump inhibitors. It is a prodrug - in the acid environment of the parietal cells it turns into active sulphenamide form. Rabeprazole inhibits the H+, K+ATPase of the coating gastric cells and dose-dependent oppresses basal and stimulated gastric acid secretion.",
+    "indication": "For the treatment of acid-reflux disorders (GERD), peptic ulcer disease, H. pylori eradication, and prevention of gastroinetestinal bleeds with NSAID use.",
+    "pharmacodynamics": "Rabeprazole prevents the production of acid in the stomach. It reduces symptoms and prevents injury to the esophagus or stomach in patients with gastroesophageal reflux disease (GERD) or ulcers. Rabeprazole is also useful in conditions that produce too much stomach acid such as Zollinger-Ellison syndrome. Rabeprazole may also be used with antibiotics to get rid of bacteria that are associated with some ulcers. Rabeprazole is a selective and irreversible proton pump inhibitor, suppresses gastric acid secretion by specific inhibition of the H<sup>+</sup>, K<sup>+</sup> -ATPase, which is found at the secretory surface of parietal cells. In doing so, it inhibits the final transport of hydrogen ions (via exchange with potassium ions) into the gastric lumen.",
+    "mechanism-of-action": "Rabeprazole belongs to a class of antisecretory compounds (substituted benzimidazole proton-pump inhibitors) that do not exhibit anticholinergic or histamine H2-receptor antagonist properties, but suppress gastric acid secretion by inhibiting the gastric H<sup>+</sup>/K<sup>+</sup>ATPase (hydrogen-potassium adenosine triphosphatase) at the secretory surface of the gastric parietal cell. Because this enzyme is regarded as the acid (proton) pump within the parietal cell, rabeprazole has been characterized as a gastric proton-pump inhibitor. Rabeprazole blocks the final step of gastric acid secretion. In gastric parietal cells, rabeprazole is protonated, accumulates, and is transformed to an active sulfenamide. When studied in vitro, rabeprazole is chemically activated at pH 1.2 with a half-life of 78 seconds.",
+    "absorption": "Absolute bioavailability is approximately 52%.",
+    "metabolism": "Hepatic",
+    "toxicity": null,
+    "targets": [
+        [
+            "ATP4A",
+            "Potassium-transporting ATPase alpha chain 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

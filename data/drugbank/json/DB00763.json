@@ -1,0 +1,80 @@
+{
+    "pharmgkb_id": "PA450422",
+    "drugbank_id": "DB00763",
+    "names": [
+        "Methimazole",
+        "Danantizol",
+        "Favistan",
+        "Metizol",
+        "Strumazol",
+        "Strumazole",
+        "Thacapzol",
+        "Thycapzol",
+        "Thyrozol",
+        "Tirozol"
+    ],
+    "description": "Methimazole is a thionamide antithyroid agent that inhibits the synthesis of thyroid hormones.[A184559,A184733,A184694] It was first introduced as an antithyroid agent in 1949[A184502] and is now commonly used in the management of hyperthyroidism, particularly in those for whom more aggressive options such as surgery or radioactive iodine therapy are inappropriate.[L8336,L8339]\r\n\r\nOn a weight basis, methimazole is 10 times more potent than the other major antithyroid thionamide used in North America, [propylthiouracil],[L8339] and is the active metabolite of the pro-drug [carbimazole], which is an antithyroid medication used in the United Kingdom and parts of the former British Commonwealth.[A184733] Traditionally, methimazole has been preferentially used over propylthiouracil due to the risk of fulminant hepatotoxicity carried by the latter,[A184757] with propylthiouracil being preferred in pregnancy due to a perceived lower risk of teratogenic effects. Despite documented teratogenic effects in its published labels,[L8336,L8339] the true teratogenicity of methimazole appears to be unclear[A184643,A184757,A184763] and its place in therapy may change in the future.",
+    "indication": "In the United States, methimazole is indicated for the treatment of hyperthyroidism in patients with Graves' disease or toxic multinodular goiter for whom thyroidectomy or radioactive iodine therapy are not appropriate treatment options. Methimazole is also indicated for the amelioration of hyperthyroid symptoms in preparation for thyroidectomy or radioactive iodine therapy.[L8336]\r\n\r\nIn Canada, methimazole carries the above indications and is also indicated for the medical treatment of hyperthyroidism regardless of other available treatment options.[L8339]",
+    "pharmacodynamics": "Methimazole inhibits the synthesis of thyroid hormones resulting in an alleviation of hyperthyroidism.[L8336][L8339] Onset of action occurs within 12 to 18 hours, and its duration of action is 36 to 72 hours, likely due to concentration of methimazole and some metabolites within the thyroid gland after administration.[A184643]\r\n\r\nThe most serious potential side effect of methimazole therapy is agranulocytosis, and patients should be instructed to monitor for, and report, any signs or symptoms of agranulocytosis such as fever or sore throat. Other cytopenias may also occur during methimazole therapy. There also exists the potential for severe hepatic toxicity with the use of methimazole, and monitoring for signs and symptoms of hepatic dysfunction, such as jaundice, anorexia, pruritus, and elevation in liver transaminases, is prudent in patients using this therapy.[L8336,L8339]",
+    "mechanism-of-action": "Methimazole's primary mechanism of action appears to be interference in an early step in thyroid hormone synthesis involving thyroid peroxidase (TPO), however the exact method through which methimazole inhibits this step is unclear.[A184559]  TPO, along with hydrogen peroxide, normally catalyzes the conversion of iodide to iodine and then further catalyzes the incorporation of this iodine onto the 3 and/or 5 positions of the phenol rings of tyrosine residues in thyroglobulin. These thyroglobulin molecules then degrade within thyroid follicular cells to form either thyroxine (T<sub>4</sub>) or tri-iodothyronine (T<sub>3</sub>), which are the main hormones produced by the thyroid gland.[A184697]\r\n\r\nMethimazole may directly inhibit TPO, but has been shown in vivo to instead act as a competitive substrate for TPO, thus becoming iodinated itself and interfering with the iodination of thyroglobulin.[A184559] Another proposed theory is that methimazole\u2019s sulfur moiety may interact directly with the iron atom at the centre of TPO\u2019s heme molecule, thus inhibiting its ability to iodinate tyrosine residues.[A184694] Other proposed mechanisms with weaker evidence include methimazole binding directly to thyroglobulin or direct inhibition of thyroglobulin itself.[A184559]",
+    "absorption": "Absorption of methimazole after oral administration is rapid and extensive,[A184514,A184541,A184499] with an absolute bioavailability of approximately 0.93[A184499] and a T<sub>max</sub> ranging from 0.25 to 4.0 hours.[A184514,A184499] C<sub>max</sub> is slightly, but not significantly, higher in hyperthyroid patients, and both C<sub>max</sub> and AUC are significantly affected by the oral dose administered.[A184514]",
+    "metabolism": "Methimazole is rapidly and extensively metabolized by the liver, mainly via the CYP450 and FMO enzyme systems.[A184571,A184574] Several metabolites have been identified, though the specific enzyme isoforms responsible for their formation are not entirely clear. One of the first methimazole metabolites identified, 3-methyl-2-thiohydantoin, may contribute to antithyroid activity - its antithyroid activity has been demonstrated in rats and may explain the prolonged duration of iodination inhibition following administration despite methimazole's relatively short half-life.[A184541]\r\n\r\nA number of metabolites have been investigated as being the culprits behind methimazole-induced hepatotoxicity. Both glyoxal and N-methylthiourea have established cytotoxicity and are known metabolic products of methimazole's dihydrodiol intermediate. Sulfenic and sulfinic acid derivatives of methimazole are thought to be the ultimate toxicants responsible for hepatotoxicity, though their origin is unclear - they may arise from direct oxidation of methimazole via FMO, or from oxidation of N-methylthiourea further downstream in the metabolic process.[A184571,A184574]",
+    "toxicity": "The oral LD<sub>50</sub> of methimazole in rats is 2250 mg/kg.[L8333] Signs and symptoms of methimazole overdose may include gastrointestinal distress, headache, fever, joint pain, pruritus, and edema. More serious adverse effects, such as aplastic anemia or agranulocytosis, may manifest within hours to days.[L8336,L8339] Hepatitis, nephrotic syndrome, exfoliative dermatitis, and CNS effects such as neuropathy or CNS depression/stimulation are also potential, albeit less frequent, results of overdose.[L8336,L8339]\r\n\r\nManagement of overdose involves supportive treatment as dictated by the patient's status.[L8336,L8339] This may involve monitoring of the patient's vital signs, blood gases, serum electrolytes, or bone marrow function as indicated.[L8339]",
+    "targets": [
+        [
+            "TPO",
+            "Thyroid peroxidase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "FMO3",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 3",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

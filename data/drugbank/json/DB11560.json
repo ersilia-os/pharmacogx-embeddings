@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "PA166160006",
+    "drugbank_id": "DB11560",
+    "names": [
+        "Lesinurad"
+    ],
+    "description": "Lesinurad is an oral uric acid transporter 1 (URAT1) inhibitor indicated for the treatment of hyperuricemia associated with gout. It reduces serum uric acid concentration through the inhibition of URAT1, an enzyme responsible for reuptake of uric acid from the renal tubule, and OAT4, another uric acid transporter associated with diuretic-induced hyperuricemia.\r\n\r\nMarketed as the product Zurampic, it is indicated for use in combination with a xanthine oxidase inhibitor for the treatment of hyperuricemia associated with gout in\r\npatients who have not achieved target serum uric acid levels with a xanthine oxidase inhibitor alone. In August 2017, a combination oral therapy consisting of lesinurad and [DB00437] was FDA-approved under the brand name Duzallo indicated for the treatment of gout-related hyperuricemia in patients with uncontrolled gout.",
+    "indication": "For use, in combination with a xanthine oxidase inhibitor, for the treatment of hyperuricemia associated with gout in patients who have not achieved target serum uric acid levels with a xanthine oxidase inhibitor alone.",
+    "pharmacodynamics": "Dose-dependent reductions in serum uric acid levels and increases in urinary uric acid excretion have been observed following single and multiple oral doses of lesinurad.",
+    "mechanism-of-action": "Lesinurad inhibits the activity of uric acid transporter 1 (URAT1) and organic anion transporter 4 (OAT4). URAT1 is a major transporter enzyme responsible for reuptake of uric acid from the renal tubules; inhibition of URAT1 function thereby increases excretion of uric acid. ",
+    "absorption": "Oral lesinurad is rapidly absorbed, reaching maximum plasma concentrations (Cmax) within 1\u20134 h following the administration a single 200 mg dose (in either the fed or fasted state).",
+    "metabolism": "Lesinurad undergoes oxidative metabolism mainly via the polymorphic cytochrome P450 CYP2C9 enzyme.  ",
+    "toxicity": null,
+    "targets": [
+        [
+            "SLC22A12",
+            "Solute carrier family 22 member 12",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

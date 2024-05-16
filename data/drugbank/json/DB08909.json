@@ -1,0 +1,35 @@
+{
+    "pharmgkb_id": "PA166268801",
+    "drugbank_id": "DB08909",
+    "names": [
+        "Glycerol phenylbutyrate"
+    ],
+    "description": "Glycerol phenylbutyrate is a nitrogen-binding agent. Chemically, it is a triglyceride in which three molecules of phenylbutyrate are linked to a glycerol backbone. FDA approved on February 1, 2013.",
+    "indication": "Glycerol phenylbutyrate is a nitrogen-binding agent for the chronic management of adult and pediatric patients \u22652 years of age with urea cycle disorders (UCDs) who cannot be managed by dietary protein restriction and/or amino acid supplementation alone. ",
+    "pharmacodynamics": "Glycerol phenylbutyrate prolongs the QTc interval. ",
+    "mechanism-of-action": "The toxic accumulation of ammonia in the blood and brain arise from urea cycle disorders in which patients are deficient in critical enzymes or transporters that are involved in the synthesis of urea from ammonia. Glycerol phenylbutyrate is a prodrug - the major metabolite, phenylacetate (PAA) is the molecule that binds to nitrogen. PAA conjugates with glutamine (which contains 2 molecules of nitrogen) via acetylation in the liver and kidneys to form phenylacetylglutamine (PAGN), which is excreted by the kidneys. PAGN, like urea, contains 2 moles of nitrogen and provides an alternate vehicle for waste nitrogen excretion.  ",
+    "absorption": "Glycerol phenylbutyrate is a prodrug in which phenylbutyrate (PBA) is released from the glycerol backbone by lipases in the gastrointestinal tract. PBA then undergoes beta-oxidtion to form PAA. When a single oral dose of 2.9 mL/m2 of Glycerol phenylbutyrate is given to fasting adult subjects, the pharmacokinetic parameters are as follows: \r\nTmax: PBA = 2 hours; PAA = 4 hours; PAGN = 4 hours. \r\nCmax: PBA = 37.0 \u00b5g/mL; PAA = 14.9 \u00b5g/mL; PAGN = 30.2 \u00b5g/mL. \r\nIn healthy subjects, the hydrolysis of glycerol phenylbutyrate is incomplete, but to what extent is unknown. \r\nWhen glycerol phenylbutyrate is given to adult UCD patients, maximum plasma concentrations at steady state (Cmaxss) of PBA, PAA, and PAGN occurred at 8 h, 12 h, and 10 h, respectively, after the first dose in the day. Intact glycerol phenylbutyrate was not detectable in plasma in UCD patients.\r\n",
+    "metabolism": "Pancreatic lipases hydrolyze glycerol phenylbutyrate to release PBA from the glycerol backbone.  PBA undergoes \u03b2-oxidation to PAA, which is conjugated with glutamine in the liver and in the kidney through the enzyme phenylacetyl-CoA: L-glutamine-N-acetyltransferase to form PAGN. ",
+    "toxicity": "Most common adverse reactions in \u226510% of patients are diarrhea, flatulence, and headache.",
+    "targets": null,
+    "enzymes": [
+        [
+            "PNLIP",
+            "Pancreatic triacylglycerol lipase",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

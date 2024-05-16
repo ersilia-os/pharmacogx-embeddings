@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA166131580",
+    "drugbank_id": "DB09292",
+    "names": [
+        "Sacubitril"
+    ],
+    "description": "Sacubitril is a prodrug neprilysin inhibitor used in combination with valsartan to reduce the risk of cardiovascular events in patients with chronic heart failure (NYHA Class II-IV) and reduced ejection fraction. It was approved by the FDA after being given the status of priority review for on July 7, 2015.\r\n\r\nSacubitril's active metabolite, LBQ657 inhibits neprilysin, a neutral endopeptidase that would typically cleave natiuretic peptides such as atrial natriuretic peptide (ANP), brain natriuretic peptide (BNP), and c-type natriuretic peptide (CNP). ANP and BNP are released under atrial and ventricle stress, which activate downstream receptors leading to vasodilation, natriuresis and diuresis. Under normal conditions, neprilysin breaks down other vasodilating peptides and also vasoconstrictors such as angiotensin I and II, endothelin-1 and peptide amyloid beta-protein. Inhibition of neprilysin therefore leads to reduced breakdown and increased concentration of endogenous natriuretic peptides in addition to increased levels of vasoconstricting hormones such as angiotensin II.",
+    "indication": "Used in combination with valsartan to reduce the risk of cardiovascular events in patients with chronic heart failure (NYHA Class II-IV) and reduced ejection fraction.  It is usually administered in conjunction with other heart failure therapies, in place of an ACE inhibitor or other ARB.\r\n\r\nIt is also used in combination with [valsartan].[L36445]",
+    "pharmacodynamics": "n a 7-day valsartan-controlled study in patients with reduced ejection fraction (HFrEF), administration of sacubitril + valsartan (Entresto) resulted in a significant non-sustained increase in natriuresis, increased urine cGMP, and decreased plasma MR-proANP and NT-proBNP compared to valsartan. In a 21-day study in HFrEF patients, it significantly increased urine ANP and cGMP and plasma cGMP, and decreased plasma NT-proBNP, aldosterone and endothelin-1. In clinical studies, this combination had no effect on QTc interval.",
+    "mechanism-of-action": "Sacubitril's active metabolite, LBQ657 inhibits neprilysin, a neutral endopeptidase that would typically cleave natiuretic peptides, which includes: atrial natriuretic peptide (ANP), brain natriuretic peptide (BNP), and c-type natriuretic peptide (CNP). ANP and BNP are released under atrial and ventricle stress, which activate downstream receptors leading to vasodilation, natriuresis and diuresis. Under normal conditions, neprilysin breaks down other vasodilating peptides and also vasoconstrictors such as angiotensin I and II, endothelin-1 and peptide amyloid beta-protein. Therefore, the inhibition of neprilysin leads to reduced breakdown and increased concentration of endogenous natriuretic peptides in addition to increased levels of vasoconstricting hormones such as angiotensin II. (However, when combined with valsartan, would result in  blocking of angiotensin II to its receptor, preventing the vasoconstrictive effects and resulting in a decrease in vascular resistance and blood pressure.)  Cardiovascular and renal effects of sacubitril is a result of the increased levels of peptides that are normally degraded by neprilysin. ",
+    "absorption": "Peak plasma concentrations of sacubitril and it's metabolite, LBQ657 are reached in 0.5 hours and 2 hours respectively. Food does not clinically affect the systemic exposure of sacubitril or LBQ657. The oral bioavailability of sacubitril is >60%. It should be noted that the valsartan found in this combination is more bioavailable than other market available valsartan. ",
+    "metabolism": "Sacubitril is metabolized to LBQ657 by esterases. A low concentration (<10%) of a hydroxyl metabolite has been identified in plasma. ",
+    "toxicity": "The most common adverse reactions (\u22655%) are hypotension, hyperkalemia, cough, dizziness, and renal failure. ",
+    "targets": [
+        [
+            "MME",
+            "Neprilysin",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

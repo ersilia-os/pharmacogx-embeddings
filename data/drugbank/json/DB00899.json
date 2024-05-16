@@ -1,0 +1,35 @@
+{
+    "pharmgkb_id": "PA451232",
+    "drugbank_id": "DB00899",
+    "names": [
+        "Remifentanil"
+    ],
+    "description": "Remifentanil (marketed by Abbott as Ultiva) is a potent ultra short-acting synthetic opioid given to patients during surgery for pain relief and adjunctive to an anaesthetic. Remifentanil is a specific mu-type-opioid receptor agonist which means it reduces sympathetic nervous system tone, and causes respiratory depression and analgesia.",
+    "indication": "For use during the induction and maintenance of general anesthesia.",
+    "pharmacodynamics": "Remifentanil is an opioid agonist with rapid onset and peak effect and ultra-short duration of action. The opioid activity of remifentanil is antagonized by opioid antagonists such as naloxone. The analgesic effects of remifentanil are rapid in onset and offset. Its effects and side effects are dose dependent and similar to other opioids. Remifentanil in humans has a rapid blood-brain equilibration half-time of 1 &plusmn; 1 minutes (mean &plusmn; SD) and a rapid onset of action.",
+    "mechanism-of-action": "Remifentanil is a &micro;-opioid agonist with rapid onset and peak effect, and short duration of action. The &micro;-opioid activity of remifentanil is antagonized by opioid antagonists such as naloxone.",
+    "absorption": null,
+    "metabolism": "By hydrolysis of the propanoic acid-methyl ester linkage by nonspecific blood and tissue esterases.",
+    "toxicity": null,
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

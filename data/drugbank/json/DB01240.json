@@ -1,0 +1,35 @@
+{
+    "pharmgkb_id": "PA449479",
+    "drugbank_id": "DB01240",
+    "names": [
+        "Epoprostenol"
+    ],
+    "description": "A prostaglandin that is a powerful vasodilator and inhibits platelet aggregation. It is biosynthesized enzymatically from prostaglandin endoperoxides in human vascular tissue. The sodium salt has been also used to treat primary pulmonary hypertension.",
+    "indication": "For the long-term intravenous treatment of primary pulmonary hypertension and pulmonary hypertension associated with the scleroderma spectrum of disease in NYHA Class III and Class IV patients who do not respond adequately to conventional therapy.",
+    "pharmacodynamics": "Epoprostenol has two major pharmacological actions: (1) direct vasodilation of pulmonary and systemic arterial vascular beds, and (2) inhibition of platelet aggregation. In animals, the vasodilatory effects reduce right and left ventricular afterload and increase cardiac output and stroke volume. The effect of epoprostenol on heart rate in animals varies with dose. At low doses, there is vagally mediated brudycardia, but at higher doses, epoprostenol causes reflex tachycardia in response to direct vasodilation and hypotension. No major effects on cardiac conduction have been observed. Additional pharmacologic effects of epoprostenol in animals include bronchodilation, inhibition of gastric acid secretion, and decreased gastric emptying. No available chemical assay is sufficiently sensitive and specific to assess the in vivo human pharmacokinetics of epoprostenol.",
+    "mechanism-of-action": "Prostaglandins are present in most body tissues and fluids and mediate many biological functions. Epoprostenol (PGI2) is a member of the family of prostaglandins that is derived from arachidonic acid. The major pharmacological actions of epoprostenol is ultimately inhibition of platelet aggregation. Prostacycline (PGI2) from endothelial cells activate G protein-coupled receptors on platelets and endothelial cells. This activation causes adenylate cyclase to produce cyclic AMP which inhibits further platelet activation and activates protein kinase A. Cyclic AMP also prevents coagulation by preventing an increase in intracellular calcium from thromboxane A2 binding. PKA then continues the cascade by phosphorylating and inhibiting myosin light-chain kinase which leads to smooth muscle relaxation and vasodilation. Notably, PGI2 and TXA2 work as physiological antagonists.",
+    "absorption": null,
+    "metabolism": "Epoprostenol is metabolized to 2 primary metabolites: 6-keto-PGF1&alpha; (formed by spontaneous degradation) and 6,15-diketo-13,14-dihydro-PGF1&alpha; (enzymatically formed), both of which have pharmacological activity orders of magnitude less than epoprostenol in animal test systems. Fourteen additional minor metabolites have been isolated from urine, indicating that epoprostenol is extensively metabolized in humans.",
+    "toxicity": "Symptoms of overdose are extensions of its dose-limiting pharmacologic effects and include flushing, headache, hypotension, nausea, vomiting, and diarrhea. Most events were self-limiting and resolved with reduction or withholding of epoprostenol. Single intravenous doses at 10 and 50 mg/kg (2703 and 27,027 times the recommended acute phase human dose based on body surface area) were lethal to mice and rats, respectively. Symptoms of acute toxicity were hypoactivity, ataxia, loss of righting reflex, deep slow breathing, and hypothermia.",
+    "targets": [
+        [
+            "PTGIS",
+            "Prostacyclin synthase",
+            "Humans"
+        ],
+        [
+            "P2RY12",
+            "P2Y purinoceptor 12",
+            "Humans"
+        ],
+        [
+            "PTGIR",
+            "Prostacyclin receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

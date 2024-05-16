@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA164746899",
+    "drugbank_id": "DB01438",
+    "names": [
+        "Phenazopyridine",
+        "AZO-Standard",
+        "Baridium",
+        "Phenazodine",
+        "Prodium",
+        "Pyrazodine",
+        "Pyridiate",
+        "Sedural",
+        "Uristat",
+        "Urodine",
+        "Urogesic",
+        "Viridium"
+    ],
+    "description": "Phenazopyridine, also known as Pyridium, is a urinary tract analgesic used for the short-term management of urinary tract irritation and its associated unpleasant symptoms such as burning and pain during urination. In the USA, this drug was previously marked by Roche but has been discontinued by the FDA.[L7832] It is still used in various parts of the world. Ingestion of phenazopyridine is found to change the appearance of the urine by imparting an orange or red color, as it is considered an azo dye.[L7829]",
+    "indication": "Phenazopyridine hydrochloride is indicated to relieve uncomfortable symptoms that occur as a consequence of mucosal irritation of the lower urinary tract in adults.  The irritation may be a result of trauma, surgery, endoscopic procedures, infection, or the insertion of instruments or urinary catheters.[L7826] Phenazopyridine may be used in combination with antimicrobial therapy but is not used as an antimicrobial agent. It contributes to the relief of discomfort and pain before antimicrobial therapy begins to take effect.  It is important to note that the duration of treatment with this drug should last a maximum of 2 days.[L7826] Phenazopyridine is available in many countries as an over the counter drug.[A182147]",
+    "pharmacodynamics": "Phenazopyridine acts as a local anesthetic offering relief from irritating conditions of the urinary tract. It relieves urinary urgency frequency, burning, pain, and discomfort.[L7826,L7844] \r\n\r\n**A note on urine and skin discoloration and interference with test results**\r\n\r\nYellowing of the skin or sclerae of the eyes may indicate that the accumulation of phenazopyridine has occurred. This may be a consequence of overdose, decreased renal function, taking the drug for over two days. Elderly patients may be at particular risk due to a decline in renal function, potentiating the risk of phenazopyridine accumulation.  The drug should be discontinued if yellowing of the skin or sclerae is observed.[L7826] Hemolytic anemia is a risk of phenazopyridine, especially in cases of overdose. In addition to the above effects, this drug may impart an orange or red color of urine and feces, causing staining of clothing. Other body fluids may also be stained, and in patients wearing contact lenses, phenazopyridine may cause lens staining. Due to its orange-red color, this drug may interfere with laboratory requiring colorimetric, spectrophotometric or fluorometric methods of analysis.[L7826] In patients with G6PD enzyme deficiency, this drug poses a greater risk of hemolysis, even at normal doses and is not recommended.[L7826]\r\n\r\n**A note on carcinogenesis**\r\n\r\nBased on the results of in vivo studies in rats, this drug has been listed as a carcinogen in the USA since 1981. Rats given this drug were found to demonstrate increased rates of hepatocellular carcinoma and colorectal tumors.[L7871] Use this agent with caution and limit the administration of this drug when possible.",
+    "mechanism-of-action": "The full mechanism of action of phenazopyridine is not fully elucidated[L7844], however, it is reported to exert a direct topical analgesic effect on the mucosal lining of the urinary tract via the inhibition of voltage-gated sodium channels[L7841] and possibly group A nerve fibers, as suggested by the results of a study in rats.[A17018] The above actions likely lead to the relief of unpleasant urinary symptoms.[L7829]",
+    "absorption": "Phenazopyridine is absorbed in the gastrointestinal tract.[A182159,L7850] The mean Cmax is 65.00 \u00b1 29.23 ng/mL, the mean Tmax is 2.48 \u00b1 0.50 h, and the mean AUC(0 \u2013 \u221e)is 431.77 \u00b1 87.82 ng.h/mL.[A182171]",
+    "metabolism": "Phenazopyridine is metabolized in the liver, and acetaminophen has been discovered to be one metabolite of this drug.[L7829]  Hydroxylation is a pathway by which this drug is metabolized.[A182180]  In humans, 5-hydroxyl PAP is the major metabolite (48.3% of the dose) and small amounts of other hydroxy metabolites are produced.[A182171,L7865]  The metabolism of phenazopyridine produces aniline, which is likely associated with methemoglobinemia in some patients or in the case of an overdose. This dye accumulates in the skin, and yellow skin pigmentation has been observed when high doses of this drug have been taken.[L7826] Triaminopyridine is also a metabolite of phenazopyridine.[L7865] During a pharmacokinetic study, aniline contributed to approximately 6.9% of urinary metabolites. N acetyl-p-aminophenol (acetaminophen) contributes to about 18%, P-aminophenol (PAP) contributes 24%, and finally, DPP (unchanged phenazopyridine) contributes to about 41% of excreted urinary metabolites.[A182159]",
+    "toxicity": "The oral LD50 of phenazopyridine in rats is 472 mg/kg.[L7847]\r\n\r\nOverdose information\r\n\r\nAdministering excess phenazopyridine above the daily recommended dose in those with healthy or impaired kidney function may increase the drug concentration and predispose the patient to toxicity. When a large overdose occurs, methemoglobinemia results.[A182141,A182144]  To treat this condition, Methylene blue at 1 to 2 mg/kg/dose should be administered intravenously as a 1% solution as deemed necessary. Its administration is likely to cause a rapid reduction of the methemoglobinemia state and relieve the associated cyanosis. Hemolytic anemia is also a risk when an overdose occurs, and \u201cbite cells\u201d may be observed in a blood smear after an overdose with phenazopyridine. Red blood cell G6PD deficiency may increase the risk of hemolysis, and even normal doses can lead to methemoglobinemia in patients with this condition. Nephrotoxicity, renal failure, and hepatic impairment may also occur in a case of overdose with this drug. Administer symptomatic and supportive treatment as necessary.[A182138,A182147,L7844]",
+    "targets": [
+        [
+            "SCN1A",
+            "Sodium channel protein type 1 subunit alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

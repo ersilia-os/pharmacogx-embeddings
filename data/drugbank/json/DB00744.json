@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA451955",
+    "drugbank_id": "DB00744",
+    "names": [
+        "Zileuton"
+    ],
+    "description": "Leukotrienes are substances that induce numerous biological effects including augmentation of neutrophil and eosinophil migration, neutrophil and monocyte aggregation, leukocyte adhesion, increased capillary permeability, and smooth muscle contraction. These effects contribute to inflammation, edema, mucus secretion, and bronchoconstriction in the airways of asthmatic patients. Zileuton relieves such symptoms through its selective inhibition of 5-lipoxygenase, the enzyme that catalyzes the formation of leukotrienes from arachidonic acid. Specifically, it inhibits leukotriene LTB4, LTC4, LTD4, and LTE4 formation. Both the R(+) and S(-) enantiomers are pharmacologically active as 5-lipoxygenase inhibitors in in vitro systems. The immediate release tablet of Zileuton has been withdrawn from the US market.",
+    "indication": "For the prophylaxis and chronic treatment of asthma in adults and children 12 years of age and older.",
+    "pharmacodynamics": "Zileuton is an asthma drug that differs chemically and pharmacologically from other antiasthmatic agents. It blocks leukotriene synthesis by inhibiting 5-lipoxygenase, an enzyme of the eicosanoid synthesis pathway. Current data indicates that asthma is a chronic inflammatory disorder of the airways involving the production and activity of several endogenous inflammatory mediators, including leukotrienes. Sulfido-peptide leukotrienes (LTC4, LTD4, LTE4, also known as the slow-releasing substances of anaphylaxis) and LTB4, a chemoattractant for neutrophils and eosinophils, are derived from the initial unstable product of arachidonic acid metabolism, leukotriene A4 (LTA4), and can be measured in a number of biological fluids including bronchoalveolar lavage fluid (BALF) from asthmatic patients. In humans, pretreatment with zileuton attenuated bronchoconstriction caused by cold air challenge in patients with asthma.",
+    "mechanism-of-action": "Leukotrienes are substances that induce numerous biological effects including augmentation of neutrophil and eosinophil migration, neutrophil and monocyte aggregation, leukocyte adhesion, increased capillary permeability, and smooth muscle contraction. These effects contribute to inflammation, edema, mucus secretion, and bronchoconstriction in the airways of asthmatic patients. Zileuton relieves such symptoms through its selective inhibition of 5-lipoxygenase, the enzyme that catalyzes the formation of leukotrienes from arachidonic acid. Specifically, it inhibits leukotriene LTB4, LTC4, LTD4, and LTE4 formation. Both the R(+) and S(-) enantiomers are pharmacologically active as 5-lipoxygenase inhibitors in <i>in vitro</i> systems. Due to the role of leukotrienes in the pathogenesis of asthma, modulation of leukotriene formation by interruption of 5-lipoxygenase activity may reduce airway symptoms, decrease bronchial smooth muscle tone, and improve asthma control.",
+    "absorption": "Rapidly and almost completely absorbed. The absolute bioavailability is unknown.",
+    "metabolism": "Hepatic. Zileuton and its N-dehydroxylated metabolite are oxidatively metabolized by the cytochrome P450 isoenzymes 1A2, 2C9 and 3A4.",
+    "toxicity": "Minimum oral lethal dose of zileuton in various preparations was 500-4000 mg/kg in mice and 300-1000 mg/kg in rats (providing greater than 3 and 9 times the systemic exposure [AUC] achieved at the maximum recommended human daily oral dose, respectively).",
+    "targets": [
+        [
+            "ALOX5",
+            "Arachidonate 5-lipoxygenase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

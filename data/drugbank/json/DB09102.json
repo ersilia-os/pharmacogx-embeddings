@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA166128167",
+    "drugbank_id": "DB09102",
+    "names": [
+        "Daclatasvir"
+    ],
+    "description": "Daclatasvir is a direct-acting antiviral agent against Hepatitis C Virus (HCV) used for the treatment of chronic HCV genotype 1 and 3 infection. It is marketed under the name DAKLINZA and is contained in daily oral tablets as the hydrochloride salt form . Hepatitis C is an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. Daclatasvir was the first drug with demonstrated safety and therapeutic efficacy in treating HCV genotype 3 without the need for co-administration of interferon or [DB00811]. It exerts its antiviral action by preventing RNA replication and virion assembly via binding to NS5A, a nonstructural phosphoprotein encoded by HCV. Binding to the N-terminus of the D1 domain of NS5A prevents its interaction with host cell proteins and membranes required for virion replication complex assembly. Daclatasvir is shown to target both the cis- and trans-acting functions of NS5A and disrupts the function of new HCV replication complexes by modulating the NS5A phosphorylation status [A19640]. The most common critical NS5A amino acid substitutions that led to reduced susceptibility to daclatasvir therapy occured at position Q30 (Q30H/K/R) and M28 in genotype 1a patients and Y93H in genotype 3 patients. \r\n\r\nAccording to 2017 American Association for the Study of Liver Diseases (AASLD), 60mg of daclatasvir is recommended with 400mg [DB08934] for genotype 1a/b patients with or without cirrhosis as second-line therapy. The same dosing regimen can be used as first-line therapy in patients with genotype 3 without cirrhosis and second-line therapy in genotype 3 patients with compensated cirrhosis. Combination therapies that include daclatasir can be used for challenging-to-treat patients who have HIV-1 coinfection, advanced cirrhosis, or post-liver transplant recurrence of HCV [L863]. The therapy is intended to cure or achieve a sustained virologic response (SVR12), after 12 weeks of daily therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [A19626]. \r\n\r\nDaclatasvir was FDA-approved in July 2015 for use with [DB08934] (Sovaldi) with or without [DB00811] to treat HCV genotype 1 and 3 infections. The SVR12 in HCV genotype 1a-infected treatment-na\u00efve subjects without and with cirrhosis undergoing daclatasvir and [DB08934] therapy were 88% and 99%, respectively [FDA Label]. The same dosing regimen in treatment-na\u00efve patients with HCV genotype 3 infection with or without cirrhosis achieved SVR12 rates of 71% and 98%, respectively [FDA Label].",
+    "indication": "Indicated for use with sofosbuvir, with or without ribavirin, for the treatment of chronic HCV genotype 1a/b or 3 infection. The dosing regimen of 60mg daclatasvir 60 mg with 400mg sofosbuvir once a day is recommended for both genontypes. \r\n\r\nResistance: Reduced susceptibility to daclatasvir was associated with the polymorphisms at NS5A amino acid positions M28, Q30, L31, and Y93 in genotypes 1a, 1b, and 3a patients. NS5A Resistance Testing is recommended for HCV genotype 1a-infected patients with cirrhosis prior to the initiaition of the treatment, as the risk of resistance development is higher in genotype 1a patients. ",
+    "pharmacodynamics": "Daclatasvir is a direct-acting antiviral agent that targets the NS5A and causes a decrease in serum HCV RNA levels. It disrupts HCV replication by specifically inhibiting the critical functions of an NS5A protein in the replication complex [A19640]. It is shown to cause downregulation of the hyperphosphorylation of NS5A. It does not appear to prolong the QT interval even when given at 3 times the maximum recommended dose. ",
+    "mechanism-of-action": "NS5A is a viral nonstructural phospoprotein that is part of a functional replication complex in charge of viral RNA genome amplification on endoplasmic reticulum membranes. It has the ability to bind to HCV RNA. It is shown to have two distinct functions in HCV RNA replication based on phosphorylated states. Maintaining the HCV replication complex is mediated by the cis-acting function of basally phosphorylated NS5A and the trans-acting function of hyperphosphorylated NS5A modulates HCV assembly and infectious particle formation [A19640]. Daclatasvir is shown to disrupt hyperphosphorylated NS5A proteins thus interfere with the function of new HCV replication complexes. It is also reported that daclatasvir also blocks both intracellular viral RNA synthesis and virion assembly/secretion in vivo [A19639]. ",
+    "absorption": "Studies demonstrated that peak plasma concentrations typically occurred within 2 hours after administration of multiple oral doses ranging from 1 - 100 mg once daily. Steady state is reached after approximately 4 days of once-daily daclatasvir administration. The absolute bioavailability of the tablet formulation is 67%. ",
+    "metabolism": "Daclastavir is a substrate of CYP3A enzymes where its metabolism is predominantly mediated by CYP3A4 isoform. Oxidative pathways included \u03b4-oxidation of the pyrrolidine moiety, resulting in ring opening to an aminoaldehyde intermediate followed by an intramolecular reaction between the aldehyde and the proximal imidazole nitrogen atom [A19642]. High proportion of the drug in the plasma (greater than 97%) is in the unchanged form. \r\n",
+    "toxicity": "The most common adverse effects experienced in patients undergoing daclatasvir and sofosbuvir therapy include headache, fatigue, nausea and diarrhea. Similar side effects are seen when ribavirin is added, in addition to rash, insomnia, anemia, dizziness and somnolence. There are postmarketing cases that link serious symptomatic bradycardia with Daklinza when used in conjunction with sofosbuvir and amiodarone. Coadministration of these three drugs is not recommended unless there are no other alternatives.",
+    "targets": [
+        [
+            "NS5A",
+            "Nonstructural protein 5A",
+            "Hepatitis C Virus"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A43",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

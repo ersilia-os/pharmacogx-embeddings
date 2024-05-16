@@ -1,0 +1,171 @@
+{
+    "pharmgkb_id": "PA450732",
+    "drugbank_id": "DB00776",
+    "names": [
+        "Oxcarbazepine",
+        "Actinium",
+        "Barzepin",
+        "Carbox",
+        "Deprectal",
+        "Lonazet",
+        "Oxalepsy",
+        "Oxetol",
+        "Oxpin",
+        "Oxrate",
+        "Oxypine",
+        "Pharozepine",
+        "Prolepsi",
+        "Timox",
+        "Trexapin",
+        "Trileptin"
+    ],
+    "description": "Oxcarbazepine is an anti-epileptic medication used in the treatment of partial onset seizures that was first approved for use in the United States in 2000.[L8627,L8630,L8633] It is a structural derivative of [carbamazepine][A186101] and exerts a majority of its activity via a pharmacologically active metabolite, MHD, which exists as a racemate in the blood - a pro-drug of the more active (S)-enantiomer is also marketed as a separate anti-epileptic under the name [eslicarbazepine].[A186011] Compared to other anti-epileptic drugs, which are generally metabolized via the cytochrome P450 system, oxcarbazepine has a reduced propensity for involvement in drug-drug interactions owing to its primarily reductive metabolism.[A186032]",
+    "indication": "In the United States, oxcarbazepine is indicated for use as monotherapy or adjunctive therapy in the treatment of partial-onset seizures in adults and as monotherapy in the treatment of partial-onset seizures in pediatric patients aged 4 years and above, and as adjunctive therapy in pediatric patients aged 2 years and above with partial-onset seizures.[L8627] \r\n\r\nIn Canada, oxcarbazepine is indicated for use as monotherapy or adjunctive therapy in the treatment of partial-onset seizures in patients 6 years of age and older.[L8630]",
+    "pharmacodynamics": "Oxcarbazepine is an anticonvulsant drug that reduces the incidence of seizures in epilepsy by inhibiting abnormal electrical activity in the brain.[L8627,L8630,L8633]\r\n\r\nThere have been rare reports of oxcarbazepine resulting in the development of hematologic abnormalities, including agranulocytosis and aplastic anemia. Patients should be undergo frequent laboratory testing and should be monitored closely for signs and symptoms of blood dyscrasias. Oxcarbazepine has also been associated with the development of dermatologic reactions which can progress from a simple rash to potentially fatal reactions such as toxic epidermal necrolysis (TEN) or Stevens-Johnson Syndrome (SJS). Patients with the HLA-A 3101 and/or HLA-B 1502 alleles may be at higher risk of this reaction. Oxcarbazepine should be discontinued at the first sign of a drug-induced skin reaction.[L8627,L8630,L8633]",
+    "mechanism-of-action": "The exact mechanism through which oxcarbazepine and its active metaoblite, MHD, exert their anti-epileptic effects is unclear, but is thought to primarily involve the blockade of voltage-gated sodium channels.[L8627,L8630,L8633,A186104] The opening and closing of sodium channels allows for the propagation of action potentials along neurons - in epilepsy, these action potentials can occur in excess of that required for normal function, and the repetitive and pathological firing of these action potentials leads to seizure activity. Both oxcarbazepine and MHD are thought to inhibit seizure activity by binding to the inactive state of voltage-gated sodium channels, thus prolonging the period in which the receptor is unavailable for action potential propagation.[A186101] This helps to stabilize hyperexcited neuronal membranes, inhibit repetitive neuron firing, and prevent the spread of seizure activity within the CNS without affecting normal neuronal transmission.[L8627,L8630,L8633]\r\n\r\nIncreased potassium conductance and modulation of voltage-activated calcium channels is also thought to play a role in the anti-seizure activity of oxcarbazepine.[L8627,L8630,L8633] Inhibition of glutamatergic activity was thought to contribute to oxcarbazepine's activity[A34516], but this effect could not be replicated _in vivo_.[A186104]",
+    "absorption": "Oxcarbazepine is completely absorbed following oral administration. A single 600mg dose of oxcarbazepine resulted in an MHD C<sub>max</sub> of 34 \u03bcmol/L and a median T<sub>max</sub> of 4.5 hours.[L8627,L8630,L8633] When administered twice daily, steady-state levels of MHD are attained within 2-3 days. The rate and extent of absorption of oxcarbazepine is not affected by food intake.[L8627,L8630,L8633]",
+    "metabolism": "Oxcarbazepine is rapidly and extensively metabolized to its primary metabolite, MHD, which is responsible for the bulk of its anti-epileptic activity and exists in much higher concentrations in the plasma than the parent drug.[L8627,L8630,L8633] MHD is formed via reduction by several members of the aldo-keto reductase family of cytosolic liver enzymes and exists as a racemate in plasma in an approximate ratio of 80% (S)-MHD to 20% (R)-MHD.[A186011] MHD is further metabolized to glucuronide conjugate metabolites for excretion, and small amounts are oxidized to 10-,11-dihydro-10,11-dihydroxycarbamazepine (DHD) which is pharmacologically inactive.[L8627,L8630,L8633,A186020] Only 10% of an administered dose of oxcarbazepine will remain as either the parent drug or glucuronide conjugates of the parent drug.[A186026]",
+    "toxicity": "The oral LD<sub>50</sub> of oxcarbazepine in mammals is 1240 mg/kg and the oral TDLo in children has been reported to be 73 mg/kg.[L8672] Isolated cases of oxcarbazepine overdose have been reported - patients who ingested up to 24,000mg recovered with symptomatic treatment.[L8627,L8630] Symptoms may include respiratory and CNS depression, movement-related disorders (e.g. dyskinesia, ataxia), nausea/vomiting, hyponatremia, or QTc prolongation. There is no antidote for oxcarbazepine overdose - management should consist of supportive and symptomatic treatment, and consideration should be given to the use of gastric lavage or activated charcoal.[L8627,L8630]",
+    "targets": [
+        [
+            "SCN1A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN10A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN11A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN2A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN3A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN4A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN5A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN7A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN8A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN9A",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN1B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN2B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN3B",
+            "Sodium channel protein",
+            "Humans"
+        ],
+        [
+            "SCN4B",
+            "Sodium channel protein",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "AKR1C1",
+            "Aldo-keto reductase family 1 member C1",
+            "Humans"
+        ],
+        [
+            "AKR1C2",
+            "Aldo-keto reductase family 1 member C2",
+            "Humans"
+        ],
+        [
+            "AKR1C3",
+            "Aldo-keto reductase family 1 member C3",
+            "Humans"
+        ],
+        [
+            "AKR1C4",
+            "Aldo-keto reductase family 1 member C4",
+            "Humans"
+        ],
+        [
+            "CBR1",
+            "Carbonyl reductase [NADPH] 1",
+            "Humans"
+        ],
+        [
+            "CBR3",
+            "Carbonyl reductase [NADPH] 3",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00776",
+            "Drug Name": "Oxcarbazepine",
+            "Gene Symbol": "HLA-B",
+            "RS ID (Genotype)": null,
+            "Adverse Reaction Description": "Patients who carry this allele may be at an increased risk of Stevens-Johnson Syndrome and toxic epidermal necrolysis when treated with oxcarbazepine."
+        }
+    ]
+}

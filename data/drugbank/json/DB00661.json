@@ -1,0 +1,352 @@
+{
+    "pharmgkb_id": "PA451868",
+    "drugbank_id": "DB00661",
+    "names": [
+        "Verapamil",
+        "Bosoptin",
+        "Isoptin",
+        "Verisop",
+        "Vermin",
+        "Vermine",
+        "Verogalid",
+        "Verogalid ER",
+        "Verpamil",
+        "Vertab",
+        "Vetrimil",
+        "Zolvera"
+    ],
+    "description": "Verapamil is a phenylalkylamine calcium channel blocker used in the treatment of high blood pressure, heart arrhythmias, and angina,[L8791] and was the first calcium channel antagonist to be introduced into therapy in the early 1960s.[A188514] It is a member of the non-dihydropyridine class of calcium channel blockers, which includes drugs like [diltiazem] and [flunarizine], but is chemically unrelated to other cardioactive medications.[L8791] Verapamil is administered as a racemic mixture containing equal amounts of the S- and R-enantiomer, each of which is pharmacologically distinct - the S-enantiomer carries approximately 20-fold greater potency than the R-enantiomer, but is metabolized at a higher rate.[A188435]",
+    "indication": "Verapamil is indicated in the treatment of vasopastic (i.e. Prinzmetal's) angina, unstable angina, and chronic stable angina. It is also indicated to treat hypertension, for the prophylaxis of repetitive paroxysmal supraventricular tachycardia, and in combination with digoxin to control ventricular rate in patients with atrial fibrillation or atrial flutter.[L8791] Given intravenously, it is indicated for the treatment of various supraventricular tachyarrhythmias, including rapid conversion to sinus rhythm in patients with supraventricular tachycardia and for temporary control of ventricular rate in patients with atrial fibrillation or atrial flutter.[L10481]\r\n\r\nVerapamil is commonly used off-label for prophylaxis of cluster headaches.[A13983]",
+    "pharmacodynamics": "Verapamil is an L-type calcium channel blocker with antiarrhythmic, antianginal, and antihypertensive activity.[L8791] Immediate-release verapamil has a relatively short duration of action, requiring dosing 3 to 4 times daily,[L8791] but extended-release formulations are available that allow for once-daily dosing.[L10478,L10637] As verapamil is a negative inotropic medication (i.e. it decreases the strength of myocardial contraction), it should not be used in patients with severe left ventricular dysfunction or hypertrophic cardiomyopathy as the decrease in contractility caused by verapamil may increase the risk of exacerbating these pre-existing conditions.[L10478]",
+    "mechanism-of-action": "Verapamil inhibits L-type calcium channels by binding to a specific area of their alpha-1 subunit,[L10478]Cav1.2, which is highly expressed on L-type calcium channels in vascular smooth muscle and myocardial tissue where these channels are responsible for the control of peripheral vascular resistance and heart contractility.[A175396] Calcium influx through these channels allows for the propagation of action potentials necessary for the contraction of muscle tissue and the heart's electrical pacemaker activity. Verapamil binds to these channels in a voltage- and frequency-dependent manner, meaning affinity is increased 1) as vascular smooth muscle membrane potential is reduced, and 2) with excessive depolarizing stimulus.[L10478] \r\n\r\nVerapamil's mechanism of action in the treatment of angina and hypertension is likely due to the mechanism described above. Inhibition of calcium influx prevents the contraction of vascular smooth muscle, causing relaxation/dilation of blood vessels throughout the peripheral circulation - this lowers systemic vascular resistance (i.e. afterload) and thus blood pressure. This reduction in vascular resistance also reduces the force against which the heart must push, decreasing myocardial energy consumption and oxygen requirements and thus alleviating angina.[L8791]\r\n\r\nElectrical activity through the AV node is responsible for determining heart rate, and this activity is dependent upon calcium influx through L-type calcium channels. By inhibiting these channels and decreasing the influx of calcium, verapamil prolongs the refractory period of the AV node and slows conduction, thereby slowing and controlling the heart rate in patients with arrhythmia.[L8791]\r\n\r\nVerapamil's mechanism of action in the treatment of cluster headaches is unclear, but is thought to result from an effect on other calcium channels (e.g. N-, P-, Q-, or T-type).[A13983]\r\n\r\nVerapamil is known to interact with other targets, including other calcium channels,[A188490,A13984,A188502,A15331] potassium channels,[A188496,A13985,A13983] and adrenergic receptors.[A20291,A31755]",
+    "absorption": "More than 90% of orally administered verapamil is absorbed - despite this, bioavailability ranges only from 20% to 30% due to rapid biotransformation following first-pass metabolism in the portal circulation.[L8791] Absorption kinetic parameters are largely dependent on the specific formulation of verapamil involved. Immediate-release verapamil reaches peak plasma concentrations (i.e. T<sub>max</sub>) between 1-2 hours following administration,[L8791] whereas sustained-release formulations tend to have a T<sub>max</sub> between 6 - 11 hours.[L10478,L10637] \r\n\r\nAUC and C<sub>max</sub> values are similarly dependent upon formulation. Chronic administration of immediate-release verapamil every 6 hours resulted in plasma concentrations between 125 and 400 ng/mL.[L8791] Steady-state AUC<sub>0-24h</sub> and C<sub>max</sub> values for a sustained-release formulation were 1037 ng\u2219h/ml and 77.8 ng/mL for the R-isomer and 195 ng\u2219h/ml and 16.8 ng/mL for the S-isomer, respectively.[L10478]\r\n\r\nInterestingly, the absorption kinetics of verapamil are highly stereospecific - following oral administration of immediate-release verapamil every 8 hours, the relative systemic availability of the S-enantiomer compared to the R-enantiomer was 13% after a single dose and 18% at steady-state.[L10478]",
+    "metabolism": "Verapamil is extensively metabolized by the liver, with up to 80% of an administered dose subject to elimination via pre-systemic metabolism - interestingly, this first-pass metabolism appears to clear the S-enantiomer of verapamil much faster than the R-enantiomer.[L10478,A415] The remaining parent drug undergoes O-demethylation, N-dealkylation, and N-demethylation to a number of different metabolites via the cytochrome P450 enzyme system.[A415] Norverapamil, one of the major circulating metabolites, is the result of verapamil's N-demethylation via CYP2C8, CYP3A4, and CYP3A5,[A415] and carries approximately 20% of the cardiovascular activity of its parent drug.[L10478] The other major pathway involved in verapamil metabolism is N-dealkylation via CYP2C8, CYP3A4, and CYP1A2 to the D-617 metabolite. Both norverapamil and D-617 are further metabolized by other CYP isoenzymes to various secondary metabolites. CYP2D6 and CYP2E1 have also been implicated in the metabolic pathway of verapamil, albeit to a minor extent.[A415] Minor pathways of verapamil metabolism involve its O-demethylation to D-703 via CYP2C8, CYP2C9, and CYP2C18, and to D-702 via CYP2C9 and CYP2C18.[A415]\r\n\r\nSeveral steps in verapamil's metabolic pathway show stereoselective preference for the S-enantiomer of the given substrate, including the generation of the D-620 metabolite by CYP3A4/5 and the D-617 metabolite by CYP2C8.[A415]",
+    "toxicity": "Verapamil's reported oral TDLo is 14.4 mg/kg in women and 3.429 mg/kg in men.[L10523] The oral LD<sub>50</sub> is 150 mg/kg in rats and 163 mg/kg in mice.[L10523]\r\n\r\nAs there is no antidote for verapamil overdosage, treatment is largely supportive. Symptoms of overdose are generally consistent with verapamil's adverse effect profile (i.e. hypotension, bradycardia, arrhythmia) but instances of non-cardiogenic pulmonary edema have been observed following ingestion of large overdoses (up to 9 grams).[L10478] In acute overdosage, consider the use of gastrointestinal decontamination with cathartics and/or bowel irrigation. Patients presenting with significant myocardial depression may require intravenous calcium, atropine, vasopressors, or other inotropes. Consider the formulation responsible for the overdose prior to treatment - sustained-release formulations may result in delayed pharmacodynamic effects, and these patients should be monitored closely for at least 48 hours following ingestion.[L10478]",
+    "targets": [
+        [
+            "CACNA1C",
+            "Voltage-dependent L-type calcium channel subunit alpha-1C",
+            "Humans"
+        ],
+        [
+            "CACNA1B",
+            "Voltage-dependent N-type calcium channel subunit alpha-1B",
+            "Humans"
+        ],
+        [
+            "CACNA1A",
+            "Voltage-dependent P/Q-type calcium channel subunit alpha-1A",
+            "Humans"
+        ],
+        [
+            "KCNJ11",
+            "ATP-sensitive inward rectifier potassium channel 11",
+            "Humans"
+        ],
+        [
+            "CACNA1G",
+            "Voltage-dependent T-type calcium channel subunit alpha-1G",
+            "Humans"
+        ],
+        [
+            "CACNA1H",
+            "Voltage-dependent T-type calcium channel subunit alpha-1H",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "CACNG1",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG2",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG3",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG4",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG5",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG6",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG7",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNG8",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA2D1",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA2D2",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA2D3",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA2D4",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1C",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1F",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB1",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB3",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB4",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1B",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1A",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1E",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1G",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1H",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1I",
+            "Voltage-dependent calcium channel",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC10",
+            "Multidrug resistance-associated protein 7",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00661",
+            "Drug Name": "Verapamil",
+            "Gene Symbol": "ADRB1",
+            "RS ID (Genotype)": "rs1801253",
+            "Effect Description": "Patients with this genotype require a lower dosage of verapamil to achieve a favourable rate-control response when treating atrial fibrillation."
+        }
+    ]
+}

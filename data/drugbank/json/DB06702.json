@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA165958376",
+    "drugbank_id": "DB06702",
+    "names": [
+        "Fesoterodine"
+    ],
+    "description": "Fesoterodine is an antimuscarinic prodrug for the treatment of overactive bladder syndrome.",
+    "indication": "Fesoterodine is indicated for the treatment of overactive bladder in adult patients with symptoms of urge urinary incontinence, urgency, and frequency.[L37624] It is also indicated in the treatment of neurogenic detrusor overactivity in pediatric patients \u22656 years old weighing >25 kg.[L37624]",
+    "pharmacodynamics": "In-vivo the fesoteridine prodrug is broken down into its active metabolite, 5-hydroxymethyl tolterodine (5-HMT), by plasma esterases. The 5-hydroxymethyl metabolite, which exhibits an antimuscarinic activity. Both urinary bladder contraction and salivation are mediated via cholinergic muscarinic receptors. Therefore, acting as a competitive muscarinic receptor antagonist, fesoterodine ultimately acts to decrease the detrusor pressure by its muscarinic antagonism, thereby decreasing bladder contraction and consequently, the urge to urinate.",
+    "mechanism-of-action": "Fesoterodine, once converted to its active metabolite, 5-hydroxymethyltolterodine, acts as a competitive antagonists at muscarinic receptors. This results in the inhibition of bladder contraction, decrease in detrusor pressure, and an incomplete emptying of the bladder.",
+    "absorption": "Tmax (5-HMT): 5 hours post-adminitration of fesoterodine. \r\nAUC (0,\u221e)= 49.5 ng\u00b7h/ ml  \r\nBioavailability, 5-HMT = 52% ",
+    "metabolism": "Metabolized by ubiquitous, nonspecific esterases to transform fesoterodine into 5-HMT\r\nExtensive metabolism via CYP2D6 and CYP3A4 into inactive metabolites ",
+    "toxicity": "Rat, Oral, LD50: ~ 681 mg/kg\r\nMouse, Oral, LD50: ~ 316 mg/kg \r\nRat, Intravenous, NOAEL: 10 mg/kg\r\nMouse, Intravenous, NOAEL: 10 mg/kg",
+    "targets": [
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

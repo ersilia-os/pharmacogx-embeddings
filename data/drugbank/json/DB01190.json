@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA449035",
+    "drugbank_id": "DB01190",
+    "names": [
+        "Clindamycin",
+        "Clinimycin",
+        "Dalacin C",
+        "Dalacin T Topical Solution",
+        "Zindaclin"
+    ],
+    "description": "Clindamycin is a semi-synthetic lincosamide antibiotic used in the treatment of a variety of serious infections due to susceptible microorganisms[L11599,L11596] as well as topically for acne vulgaris.[L11593] It has a relatively narrow spectrum of activity that includes anaerobic bacteria as well as gram-positive cocci and bacilli and gram-negative bacilli.[A190621] Interestingly, clindamycin appears to carry some activity against protozoans, and has been used off-label in the treatment of toxoplasmosis, malaria, and babesiosis.[A190657]\r\n\r\nClindamycin is derived from, and has largely replaced, [lincomycin], a naturally occurring lincosamide and the eponymous member of this antibiotic class, due to its improved properties over the parent compound. The name lincomycin is derived from Lincoln, Nebraska, where it was first isolated from _Streptomyces lincolnensis_ found in a soil sample.[A190621]",
+    "indication": "In oral and parenteral formulations, clindamycin is indicated for the treatment of serious infections caused by susceptible anaerobic bacteria, as well as susceptible staphylococci, streptococci, and pneumococci.[L11599,L11602] Used topically, it is indicated for the treatment of acne vulgaris[L11593,L11611,L11605] and is available in combination with [benzoyl peroxide][L11584] or [tretinoin][L11590] for this purpose, or as a triple combination therapy with benzoyl peroxide and [adapalene].[L48666] Clindamycin is also indicated as a vaginal cream[L11596], suppository[L11608], or gel[L39416] for the treatment of bacterial vaginosis in non-pregnant females.\r\n\r\nClindamycin is used for antimicrobial prophylaxis against _Viridans_ group streptococcal infections in susceptible patients undergoing oral, dental, or upper respiratory surgery, and may be used for prophylaxis against bacterial endocarditis in penicillin-allergic patients at high risk of these infections.[L11629]",
+    "pharmacodynamics": "Clindamycin exerts its bacteriostatic effect via inhibition of microbial protein synthesis.[A190621] Clindamycin has a relatively short T<sub>max</sub> and half-life necessitating administration every six hours to ensure adequate antibiotic concentrations.[L11629] \r\n\r\n_Clostridium difficile_ associated diarrhea (CDAD) has been observed in patients using clindamycin, ranging in severity from mild diarrhea to fatal colitis and occasionally occurring over two months following cessation of antibiotic therapy.[L11602] Overgrowth of _C. difficile_ resulting from antibiotic use, along with its production of A and B toxins, contributes to morbidity and mortality in these patients. Because of the associated risks, clindamycin should be reserved for serious infections for which the use of less toxic antimicrobial agents are inappropriate.[L11602]\r\n\r\nClindamycin is active against a number of gram-positive aerobic bacteria, as well as both gram-positive and gram-negative anaerobes.[L11599] Resistance to clindamycin may develop, and is generally the result of base modification within the 23S ribosomal RNA. Cross-resistance between clindamycin and lincomycin is complete, and may also occur between clindamycin and macrolide antibiotics (e.g. [erythromycin]) due to similarities in their binding sites.[L11599]\r\n\r\nAs antimicrobial susceptibility patterns are geographically distinct, local antibiograms should be consulted to ensure adequate coverage of relevant pathogens prior to use.",
+    "mechanism-of-action": "Clindamycin inhibits bacterial protein synthesis by binding to 23S RNA of the 50S subunit of the bacterial ribosome.[L11599] It impedes both the assembly of the ribosome and the translation process.[L11629] The molecular mechanism through which this occurs is thought to be due to clindamycin's three-dimensional structure, which closely resembles the 3'-ends of L-Pro-Met-tRNA and deacylated-tRNA during the peptide elongation cycle - in acting as a structural analog of these tRNA molecules, clindamycin impairs peptide chain initiation and may stimulate dissociation of peptidyl-tRNA from bacterial ribosomes.[A190621]\r\n\r\nThe mechanism through which topical clindamycin treats acne vulgaris is unclear, but may be related to its activity against _Propionibacterium acnes_, a bacteria that has been associated with acne.[L11593] ",
+    "absorption": "Oral bioavailability is nearly complete, at approximately 90%, and peak serum concentrations (C<sub>max</sub>) of, on average, 2.50 \u00b5g/mL are reached at 0.75 hours (T<sub>max</sub>).[L11602] The AUC following an orally administered dose of 300mg was found to be approximately 11 \u00b5g\u2022hr/mL.[L11629] Systemic exposure from the administration of vaginal suppository formulations is 40-fold to 50-fold lower than that observed following parenteral administration[L11608] and the C<sub>max</sub> observed following administration of vaginal cream formulations was 0.1% of that observed following parenteral administration.[L11596]",
+    "metabolism": "Clindamycin undergoes hepatic metabolism mediated primarily by CYP3A4 and, to a lesser extent, CYP3A5.[L11602] Two inactive metabolites have been identified - an oxidative metabolite, clindamycin sulfoxide, and an N-demethylated metabolite, N-desmethylclindamycin.[L11602]",
+    "toxicity": "The oral LD<sub>50</sub> in mice and rats is 2540 mg/kg and 2190 mg/kg, respectively.[L11614]\r\n\r\nWhile no cases of overdose have been reported, symptoms are expected to be consistent with the adverse effect profile of clindamycin and may therefore include abdominal pain, nausea, vomiting, and diarrhea. During clinical trials, one 3-year-old child was given a dose of 100 mg/kg daily for 5 days and showed only mild abdominal pain and diarrhea.[L11629] Activated charcoal may be of value to remove unabsorbed drug, but hemodialysis and peritoneal dialysis are ineffective.[L11629] General supportive measures are recommended in cases of clindamycin overdose.[L11629]",
+    "targets": [
+        [
+            "rplA",
+            "50S ribosomal protein L1",
+            "Staphylococcus aureus (strain NCTC 8325)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

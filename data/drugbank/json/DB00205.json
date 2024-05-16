@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA451193",
+    "drugbank_id": "DB00205",
+    "names": [
+        "Pyrimethamine"
+    ],
+    "description": "One of the folic acid antagonists that is used as an antimalarial or with a sulfonamide to treat toxoplasmosis.",
+    "indication": "For the treatment of toxoplasmosis and acute malaria; For the prevention of malaria in areas non-resistant to pyrimethamine",
+    "pharmacodynamics": "Pyrimethamine is an antiparasitic compound commonly used as an adjunct in the treatment of uncomplicated, chloroquine resistant, P. falciparum malaria. Pyrimethamine is a folic acid antagonist and the rationale for its therapeutic action is based on the differential requirement between host and parasite for nucleic acid precursors involved in growth. This activity is highly selective against plasmodia and Toxoplasma gondii. Pyrimethamine possesses blood schizonticidal and some tissue schizonticidal activity against malaria parasites of humans. However, the 4-amino-quinoline compounds are more effective against the erythrocytic schizonts. It does not destroy gametocytes, but arrests sporogony in the mosquito. The action of pyrimethamine against Toxoplasma gondii is greatly enhanced when used in conjunction with sulfonamides.",
+    "mechanism-of-action": "Pyrimethamine inhibits the dihydrofolate reductase of plasmodia and thereby blocks the biosynthesis of purines and pyrimidines, which are essential for DNA synthesis and cell multiplication. This leads to failure of nuclear division at the time of schizont formation in erythrocytes and liver.",
+    "absorption": "Well absorbed with peak levels occurring between 2 to 6 hours following administration",
+    "metabolism": "Hepatic",
+    "toxicity": null,
+    "targets": [
+        [
+            "DHFR",
+            "Dihydrofolate reductase",
+            "Humans"
+        ],
+        [
+            null,
+            "Bifunctional dihydrofolate reductase-thymidylate synthase",
+            "Plasmodium falciparum (isolate K1 / Thailand)"
+        ],
+        [
+            "HEXB",
+            "Beta-hexosaminidase subunit beta",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

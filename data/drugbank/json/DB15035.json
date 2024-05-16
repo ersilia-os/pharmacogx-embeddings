@@ -1,0 +1,132 @@
+{
+    "pharmgkb_id": "PA166204001",
+    "drugbank_id": "DB15035",
+    "names": [
+        "Zanubrutinib"
+    ],
+    "description": "Zanubrutinib is a novel Bruton's tyrosine kinase (BTK) inhibitor used for the treatment of adult patients with mantle cell lymphoma (MCL) who have received at least one prior therapy.[L10163] Mantle cell lymphoma is an aggressive mature B-cell non-Hodgkin lymphoma associated with early relapse, poor clinical outcomes, and long-term survival.[A187967] BTK is an enzyme that plays a role in oncogenic signalling pathways, promoting the survival and proliferation of malignant B cells.[A187985] Compared to the first-generation BTK inhibitor [ibrutinib], zanubrutinib displays higher potency and selectivity for BTK with fewer off-target effects.[A187958] Due to this enhanced selectivity towards BTK, zanubrutinib belongs to the second-generation BTK inhibitor drug group that also includes [acalabrutinib], which was approved by the FDA in 2017.\r\n\r\nZanubrutinib was granted accelerated approval by the FDA in November 2019 based on clinical trial results that demonstrated an 84% overall response rate from zanubrutinib therapy in patients with MCL,[L10166] which measures the proportion of patients in a trial whose tumour is entirely or partially destroyed by a drug.[L10169] It is currently marketed under the trade name BRUKINSA\u2122 and is available as oral capsules. In August 2021, the FDA granted accelerated approval to zanubrutinib for the treatment of adults with Waldenstr\u00f6m\u2019s macroglobulinemia.[L39030] This indication is valid in the US, Europe, and Canada.[L39367] In September 2021, zanubrutinib was granted another accelerated approval for the treatment of relapsed or refractory marginal zone lymphoma who have received at least one anti-CD20-based regimen.[L39025] In October 2022, the EMA's Committee for Medicinal Products for Human Use (CHMP) recommended zanubrutinib be granted marketing authorization for the treatment of chronic lymphocytic leukemia.[L43737]",
+    "indication": "Zanubrutinib is indicated for the treatment of:\r\n\r\n- Mantle cell lymphoma (MCL) in adults who have received at least one prior therapy.[L10163, L40788]\r\n- Waldenstr\u00f6m\u2019s macroglobulinemia in adults.[L10163, L40788, L49976]\r\n- Relapsed or refractory marginal zone lymphoma (MZL) in adults who have received at least one anti-CD20-based regimen.[L10163, L40788, L49976]\r\n- Chronic lymphocytic leukemia (CLL) [L44727, L49976] or small lymphocytic lymphoma (SLL) in adults.[L44727]\r\n- Refractory or relapsed follicular lymphoma, in combination with [obinutuzumab], in adults who have received at least two prior systemic therapies.[L49971, L49976]",
+    "pharmacodynamics": "Zanubrutinib is an immunomodulating agent that decreases the survival of malignant B cells. It inhibits BTK by binding to its active site. It works to inhibit the proliferation and survival of malignant B cells to reduce the tumour size in mantle cell lymphoma.[L10163]",
+    "mechanism-of-action": "Bruton's tyrosine kinase (BTK) is a non-receptor kinase and a signalling molecule for the B cell receptors expressed on the peripheral B cell surface.[A187985] The BCR signalling pathway plays a crucial role in normal B-cell development but also the proliferation and survival of malignant B cells in many B cell malignancies, including mantle-cell lymphoma (MCL).[A187985,A187958] Once activated by upstream Src-family kinases, BTK phosphorylates phospholipase-C\u03b3 (PLC\u03b3), leading to Ca2+ mobilization and activation of NF-\u03baB and MAP kinase pathways. These downstream cascades promote the expression of genes involved in B cell proliferation and survival.[A187952] The BCR signalling pathway also induces the anti-apoptotic protein Bcl-xL and regulates the integrin \u03b14\u03b21 (VLA-4)-mediated adhesion of B cells to vascular cell adhesion molecule-1 (VCAM-1) and fibronectin via BTK. Apart from the direct downstream signal transduction pathway of B cells, BTK is also involved in chemokine receptor, Toll-like receptor (TLR) and Fc receptor signalling pathways.[A187985] \r\n\r\nZanubrutinib inhibits BTK by forming a covalent bond with cysteine 481 residue in the adenosine triphosphate (ATP)\u2013binding pocket of BTK, which is the enzyme's active site. This binding specificity is commonly seen with other BTK inhibitors. Due to this binding profile, zanubrutinib may also bind with varying affinities to related and unrelated ATP-binding kinases that possess a cysteine residue at this position.[A187958] By blocking the BCR signalling pathway, zanubrutinib inhibits the proliferation, trafficking, chemotaxis, and adhesion of malignant B cells, ultimately leading to reduced tumour size.[L10163] Zanubrutinib was also shown to downregulate programmed death-ligand 1 (PD-1) expression and cytotoxic T lymphocyte-associated antigen-4 (CTLA-4) on CD4+ T cells.[A187949]",
+    "absorption": "Following oral administration of zanubrutinib 160 mg twice daily and 320 mg once daily, the mean (%CV) zanubrutinib steady-state concentrations were 2,295 (37%) ng\u00b7h/mL and 2,180 (41%) ng\u00b7h/mL, respectively. The mean Cmax (%CV) was 314 (46%) ng/mL following 160 mg twice daily and 543 (51%) ng/mL following 320 mg once daily.[L10163] \r\n\r\nThe Cmax and AUC of zanubrutinib increase in a dose-proportional manner and there is minimal systemic accumulation after repeated dosing. The median Tmax is 2 hours.[L10163] ",
+    "metabolism": "Zanubrutinib is predominantly metabolized by CYP3A4.[L10163] Its metabolites have not been characterized. ",
+    "toxicity": "There is limited data on zanubrutinib overdose.",
+    "targets": [
+        [
+            "BTK",
+            "Tyrosine-protein kinase BTK",
+            "Humans"
+        ],
+        [
+            "EGFR",
+            "Epidermal growth factor receptor",
+            "Humans"
+        ],
+        [
+            "ERBB2",
+            "Receptor tyrosine-protein kinase erbB-2",
+            "Humans"
+        ],
+        [
+            "ERBB4",
+            "Receptor tyrosine-protein kinase erbB-4",
+            "Humans"
+        ],
+        [
+            "ITK",
+            "Tyrosine-protein kinase ITK/TSK",
+            "Humans"
+        ],
+        [
+            "BMX",
+            "Cytoplasmic tyrosine-protein kinase BMX",
+            "Humans"
+        ],
+        [
+            "JAK2",
+            "Tyrosine-protein kinase JAK2",
+            "Humans"
+        ],
+        [
+            "TEC",
+            "Tyrosine-protein kinase Tec",
+            "Humans"
+        ],
+        [
+            "BLK",
+            "Tyrosine-protein kinase Blk",
+            "Humans"
+        ],
+        [
+            "JAK3",
+            "Tyrosine-protein kinase JAK3",
+            "Humans"
+        ],
+        [
+            "PTK6",
+            "Protein-tyrosine kinase 6",
+            "Humans"
+        ],
+        [
+            "FGR",
+            "Tyrosine-protein kinase Fgr",
+            "Humans"
+        ],
+        [
+            "FRK",
+            "Tyrosine-protein kinase FRK",
+            "Humans"
+        ],
+        [
+            "LCK",
+            "Tyrosine-protein kinase Lck",
+            "Humans"
+        ],
+        [
+            "TXK",
+            "Tyrosine-protein kinase TXK",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,45 @@
+{
+    "pharmgkb_id": "PA164746412",
+    "drugbank_id": "DB00560",
+    "names": [
+        "Tigecycline"
+    ],
+    "description": "Tigecycline is a glycylcycline antibiotic developed and marketed by Wyeth under the brand name Tygacil. It was developed in response to the growing prevalence of antibiotic resistance in bacteria such as Staphylococcus aureus. It was granted fast-track approval by the U.S. Food and Drug Administration (FDA) on June 17, 2005.",
+    "indication": "For the treatment of infections caused by susceptible strains of the designated microorganisms in the following conditions: Complicated skin and skin structure infections caused by <i>Escherichia coli</i>, <i>Enterococcus faecalis</i> (vancomycin-susceptible isolates only), <i>Staphylococcus aureus</i> (methicillin-susceptible and -resistant isolates), <i>Streptococcus agalactiae</i>, <i>Streptococcus anginosus</i> grp. (includes <i>S. anginosus</i>, <i>S. intermedius</i>, and <i>S. constellatus</i>), <i>Streptococcus pyogenes</i> and <i>Bacteroides fragilis</i>. Complicated intra-abdominal infections caused by <i>Citrobacter freundii</i>, <i>Enterobacter cloacae</i>, <i>Escherichia coli</i>, <i>Klebsiella oxytoca</i>, <i>Klebsiella pneumoniae</i>, <i>Enterococcus faecalis</i> (vancomycin-susceptible isolates only), <i>Staphylococcus aureus</i> (methicillin-susceptible isolates only), <i>Streptococcus anginosus</i> grp. (includes <i>S. anginosus</i>, <i>S. intermedius</i>, and <i>S. constellatus</i>), <i>Bacteroides fragilis</i>, <i>Bacteroides thetaiotaomicron</i>, <i>Bacteroides uniformis</i>, <i>Bacteroides vulgatus</i>, <i>Clostridium perfringens</i>, and <i>Peptostreptococcus micros</i>.",
+    "pharmacodynamics": "Tigecycline is the first clinically-available drug in a new class of antibiotics called the glycylcyclines. Glycylcyclines are a new class of antibiotics derived from tetracycline. These tetracycline analogues are specifically designed to overcome two common mechanisms of tetracycline resistance, namely resistance mediated by acquired efflux pumps and/or ribosomal protection. Glycylcycline antibiotics have a similar mechanism of action as tetracycline antibiotics. Both classes of antibiotics bind to the 30S ribosomal subunit to prevent the amino-acyl tRNA from binding to the A site of the ribosome. However, the glycylcyclines appear to bind more effectively than the tetracyclines.",
+    "mechanism-of-action": "Tigecycline, a glycylcycline, inhibits protein translation in bacteria by binding to the 30S ribosomal subunit and blocking entry of amino-acyl tRNA molecules into the A site of the ribosome. This prevents incorporation of amino acid residues into elongating peptide chains. Tigecycline carries a glycylamido moiety attached to the 9-position of minocycline. The substitution pattern is not present in any naturally occurring or semisynthetic tetracycline and imparts certain microbiologic properties to tigecycline. Tigecycline is not affected by the two major tetracycline resistance mechanisms, ribosomal protection and efflux. Accordingly, tigecycline has demonstrated in vitro and in vivo activity against a broad spectrum of bacterial pathogens. There has been no cross resistance observed between tigecycline and other antibiotics. Tigecycline is not affected by resistance mechanisms such as beta-lactamases (including extended spectrum beta-lactamases), target site modifications, macrolide efflux pumps or enzyme target changes (e.g. gyrase/topoisomerase). In vitro studies have not demonstrated antagonism between tigecycline and other commonly used antibacterial drugs. In general, tigecycline is considered bacteriostatic.",
+    "absorption": null,
+    "metabolism": "Tigecycline is not extensively metabolized. In vitro studies with tigecycline using human liver microsomes, liver slices, and hepatocytes led to the formation of only trace amounts of metabolites. A glucuronide, an N-acetyl metabolite, and a tigecycline epimer (each at no more than 10% of the administered dose) are the primary metabolites.",
+    "toxicity": "Since glycylcyclines are similar to tetracyclines, they share many of the same side effects and contraindications as tetracyclines. These side effects may include nausea/vomiting, headache, photosensitivity, discoloration of growing teeth, and fetal damage.",
+    "targets": [
+        [
+            "rpsI",
+            "30S ribosomal protein S9",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "rpsL",
+            "30S ribosomal protein S12",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "rpsM",
+            "30S ribosomal protein S13",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "rpsN",
+            "30S ribosomal protein S14",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "rpsS",
+            "30S ribosomal protein S19",
+            "Escherichia coli (strain K12)"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

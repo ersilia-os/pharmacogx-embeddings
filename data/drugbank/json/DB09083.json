@@ -1,0 +1,33 @@
+{
+    "pharmgkb_id": "PA166123415",
+    "drugbank_id": "DB09083",
+    "names": [
+        "Ivabradine",
+        "Bradia",
+        "Ivabid"
+    ],
+    "description": "Ivabradine is a novel heart rate lowering medicine for the symptomatic management of stable angina pectoralis and symptomatic chronic heart failure.  Ivabradine, brand name Corlanor, was approved by the FDA in April 2015 for the treatment of chronic heart failure in patients with an ejection fraction of \u226435%, in sinus rhythm with resting heart rate \u226570 beats per minute, who are not on beta-blockers due to contraindications or already receiving maximum beta-blocker dose. Recently a new indication was added to treat symptomatic heart failure from dilated cardiomyopathy for patients 6 months or more in age[Label]. Ivabradine acts by selectively inhibiting the \"funny\" channel pacemaker current (If) in the sinoatrial node in a dose-dependent fashion, resulting in a lower heart rate and thus more blood to flow to the myocardium. Although non-dihydropyridine calcium channel blockers and beta blockers also effectively lower heart rate, they exhibit adverse events due to their negative ionotropic effects. Therefore, as ivabradine is designed as a \"pure\" heart rate-lowering drug by selectively acting on the If channels, it may offer a more favorable side effect profile due to its lower likelihood of causing serious adverse effects.",
+    "indication": "Ivabradine is indicated by the FDA to reduce the risk of hospitalization for worsening heart failure in adult patients with stable, symptomatic chronic heart failure with left ventricular ejection fraction \u226435%, who are in sinus rhythm with resting heart rate \u226570 beats per minute and either are on maximally tolerated doses of beta-blockers or have a contraindication to beta-blocker use. It is also indicated for treatment of stable symptomatic heart failure as a result of dilated cardiomyopathy for pediatric patients 6 months of age or more[FDA Label].",
+    "pharmacodynamics": "The funny channels (If) open during repolarization and close during depolarization, making ivabradine's activity dependent on heart rate or the closing and opening of the channels. Therefore ivabradine exhibits use-dependence and is more pharmacologically active at higher heart rates. Ivabradine exhibits a linear dose-dependent heart-rate lowering activity (bradycardic effect) until a maximum dose of 30-40mg. At higher doses, the concentration of ivabradine tends to plateau, reducing risk of serious sinus bradycardia.  It has been shown that the metabolite of ivabradine lowers heart rate as well, contributing to ivabradine's overall effect. ",
+    "mechanism-of-action": "Ivabradine lowers heart rate by selectively inhibiting If channels (\"funny channels\") in the heart in a concentration-dependent manner without affecting any other cardiac ionic channels (including calcium or potassium). Ivabradine binds by entering and attaching to a site on the channel pore from the intracellular side and disrupts If ion current flow, which prolongs diastolic depolarization, lowering heart rate. The If currents are located in the sinoatrial node and are the home of all cardiac pacemaker activity. Ivabradine therefore lowers the pacemaker firing rate, consequently lowering heart rate and reducing myocardial oxygen demand. This allows for an improved oxygen supply and therefore mitigation of ischemia, allowing for a higher exercise capacity and reduction in angina episodes. ",
+    "absorption": "It is recommended to take ivabradine with food to reduce variability in systemic exposure. Administration with food slows absorption by 1 hour, but increases systemic absorption by 20-30%. Ivabradine's oral bioavailability is about 40%. ",
+    "metabolism": "Ivabradine is extensively metabolized by oxidation in the gut and liver by cytochrome P450 3A4 enzyme. Its active metabolite, N-desmethylated derivative, is also metabolized by CYP 3A4. Ivabradine's affinity for CYP 3A4 is low, making it unlikely to affect the metabolism of other drugs; however potent inhibitors or inducers of CYP 3A4 may affect ivabradine's plasma concentration and pharmacodynamic effects and should not be co-administered.\r\n",
+    "toxicity": "Ivabradine may cause fetal toxicity when administered to pregnant women. Animal studies in pregnant rats have shown embryo-fetal toxicity and cardiac teratogenic effects. Effective contraception in women is recommended while using ivabradine. ",
+    "targets": [
+        [
+            "HCN2",
+            "Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

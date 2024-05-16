@@ -1,0 +1,103 @@
+{
+    "pharmgkb_id": "PA451550",
+    "drugbank_id": "DB01138",
+    "names": [
+        "Sulfinpyrazone"
+    ],
+    "description": "A uricosuric drug that is used to reduce the serum urate levels in gout therapy. It lacks anti-inflammatory, analgesic, and diuretic properties.",
+    "indication": "For the treatment of gout and gouty arthritis.",
+    "pharmacodynamics": "Sulfinpyrazone's pharmacologic activity is the potentiation of the urinary excretion of uric acid. It is useful for reducing the blood urate levels in patients with chronic tophaceous gout and acute intermittent gout, and for promoting the resorption of tophi.",
+    "mechanism-of-action": "Sulfinpyrazone is an oral uricosuric agent (pyrazolone derivative) used to treat chronic or intermittent gouty arthritis. Sulfinpyrazone competitively inhibits the reabsorption of uric acid at the proximal convoluted tubule, thereby facilitating urinary excretion of uric acid and decreasing plasma urate concentrations.  This is likely done through inhibition of the urate anion transporter (hURAT1) as well as the human organic anion transporter 4 (hOAT4). Sulfinpyrazone is not intended for the treatment of acute attacks because it lacks therapeutically useful analgesic and anti-inflammatory effects. Sulfinpyrazone and its sulfide metabolite possess COX inhibitory effects. Sulfinpyrazone has also been shown to be a UDP-glucuronsyltransferase inhibitor and a very potent CYP2C9 inhibitor.  Sulfinpyrazone is also known to be a cystic fibrosis transmembrane conductance regulator (CFTR) inhibitor as well as an inhibitor of several multridrug resistance proteins (MRPs).  ",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": "Symptoms of overdose include nausea, vomiting, diarrhea, epigastric pain, ataxia, labored respiration, convulsions, coma. Possible symptoms, seen after overdosage with other pyrazolone derivatives: anemia, jaundice, and ulceration.",
+    "targets": [
+        [
+            "SLC22A12",
+            "Solute carrier family 22 member 12",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC5",
+            "Multidrug resistance-associated protein 5",
+            "Humans"
+        ],
+        [
+            "ABCC6",
+            "Multidrug resistance-associated protein 6",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "FABP2",
+            "Fatty acid-binding protein, intestinal",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

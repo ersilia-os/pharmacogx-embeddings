@@ -1,0 +1,59 @@
+{
+    "pharmgkb_id": "PA449376",
+    "drugbank_id": "DB00822",
+    "names": [
+        "Disulfiram",
+        "Antabus",
+        "Antaethyl",
+        "Antalcol",
+        "Anticol",
+        "Antietanol",
+        "Chronol",
+        "Esperal"
+    ],
+    "description": "A carbamate derivative used as an alcohol deterrent. It is a relatively nontoxic substance when administered alone, but markedly alters the intermediary metabolism of alcohol. When alcohol is ingested after administration of disulfiram, blood acetaldehyde concentrations are increased, followed by flushing, systemic vasodilation, respiratory difficulties, nausea, hypotension, and other symptoms (acetaldehyde syndrome). It acts by inhibiting aldehyde dehydrogenase.",
+    "indication": "For the treatment and management of chronic alcoholism",
+    "pharmacodynamics": "Disulfiram produces a sensitivity to alcohol which results in a highly unpleasant reaction when the patient under treatment ingests even small amounts of alcohol. Disulfiram blocks the oxidation of alcohol at the acetaldehyde stage during alcohol metabolism following disulfiram intake, the concentration of acetaldehyde occurring in the blood may be 5 to 10 times higher than that found during metabolism of the same amount of alcohol alone. Accumulation of acetaldehyde in the blood produces a complex of highly unpleasant symptoms referred to hereinafter as the disulfiram-alcohol reaction. This reaction, which is proportional to the dosage of both disulfiram and alcohol, will persist as long as alcohol is being metabolized. Disulfiram does not appear to influence the rate of alcohol elimination from the body. Prolonged administration of disulfiram does not produce tolerance; the longer a patient remains on therapy, the more exquisitely sensitive he becomes to alcohol.",
+    "mechanism-of-action": "Disulfiram blocks the oxidation of alcohol at the acetaldehyde stage during alcohol metabolism following disulfiram intake causing an accumulation of acetaldehyde in the blood producing highly unpleasant symptoms. Disulfiram blocks the oxidation of alcohol through its irreversible inactivation of aldehyde dehydrogenase, which acts in the second step of ethanol utilization. In addition, disulfiram competitively binds and inhibits the peripheral benzodiazepine receptor, which may indicate some value in the treatment of the symptoms of alcohol withdrawal, however this activity has not been extensively studied.",
+    "absorption": "Disulfiram is absorbed slowly from the gastrointestinal tract (80 to 90% of oral dose).",
+    "metabolism": "Hepatic.",
+    "toxicity": "LD<sub>50</sub>=8.6g/kg (orally in rats). Symptoms of overdose include irritation, slight drowsiness, unpleasant taste, mild GI disturbances, and orthostatic hypotension.",
+    "targets": [
+        [
+            "DBH",
+            "Dopamine beta-hydroxylase",
+            "Humans"
+        ],
+        [
+            "ALDH2",
+            "Aldehyde dehydrogenase, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

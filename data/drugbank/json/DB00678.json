@@ -1,0 +1,104 @@
+{
+    "pharmgkb_id": "PA450268",
+    "drugbank_id": "DB00678",
+    "names": [
+        "Losartan",
+        "Lortaan"
+    ],
+    "description": "Losartan is an angiotensin II receptor blocker (ARB) used to treat hypertension.[L7423] Angiotensin-converting enzyme (ACE) inhibitors are used for a similar indication but are associated with a cough.[L7423] When patients with ACE inhibitor associated coughs are switched to ARBs like losartan, they have an incidence of cough similar to placebo or [hydrochlorothiazide].[L7423] Losartan is available as losartan potassium oral tablets as well as a combination tablet of losartan potassium and hydrochlorothiazide.[L7423,L7426] Patients taking losartan should have their renal function and potassium levels monitored.[L7423] Losartan was granted FDA approval on 14 April 1995.[L7423]",
+    "indication": "Losartan is indicated to treat hypertension in patients older than 6 years, reduce the risk of stroke in patients with hypertension and left ventricular hypertrophy (though this benefit may not extend to patients with African heritage), and to treat diabetic nephropathy with elevated serum creatinine and proteinuria in patients with type 2 diabetes and hypertension.[L7423] Losartan with hydrochlorothiazide is indicated to treat hypertension and to reduce the risk of stroke in patients with hypertension and left ventricular hypertrophy (though this benefit may not extend to patients with African heritage).[L7426,L45663]",
+    "pharmacodynamics": "Losartan is an angiotensin II receptor blocker used to treat hypertension, diabetic nephropathy, and to reduce the risk of stroke.[A1033,L7423,L7426] Losartan has a long duration of action as it is given once daily.[L7423,L7426] Patients taking losartan should be regularly monitored for hypotension, renal function, and potassium levels.[L7423,L7426]",
+    "mechanism-of-action": "Losartan reversibly and competitively prevents angiotensin II binding to the AT<sub>1</sub> receptor in tissues like vascular smooth muscle and the adrenal gland.[L7423,L7426] Losartan and its active metabolite bind the AT<sub>1</sub> receptor with 1000 times more affinity than they bind to the AT<sub>2</sub> receptor.[L7423,L7426] The active metabolite of losartan is 10-40 times more potent by weight than unmetabolized losartan as an inhibitor of AT<sub>1</sub> and is a non-competitive inhibitor.[L7423,L7426] Losartan's prevention of angiotensin II binding causes vascular smooth muscle relaxation, lowering blood pressure.[L7423,L7426]\r\n\r\nAngiotensin II would otherwise bind to the AT<sub>1</sub> receptor and induce vasoconstriction, raising blood pressure.[L7423,L7426]",
+    "absorption": "Losartan is approximately 33% orally bioavailable.[A1033,L7423,L7426] Losartan has a T<sub>max</sub> of 1 hour and the active metabolite has a T<sub>max</sub> of 3-4 hours.[A1033,L7423,L7426] Taking losartan with food decreases the C<sub>max</sub> but does only results in a 10% decrease in the AUC of losartan and its active metabolite.[A1033,L7423,L7426] A 50-80mg oral dose of losartan leads to a C<sub>max</sub> of 200-250ng/mL.[A1033]",
+    "metabolism": "Losartan is metabolized to an aldehyde intermediate, E-3179, which is further metabolized to a carboxylic acid, E-3174, by cytochrome P450s like CYP2C9.[A1033] Losartan can also be hydroxylated to an inactive metabolite, P1.[A1033] Approximately 14% of losartan is metabolized to E-3174.[A1033] Losartan can be metabolized by CYP3A4, CYP2C9, and CYP2C10.[A1033] Losartan can also be glucuronidated by UGT1A1, UGT1A3, UGT1A10, UGT2B7, and UGT 2B17.[A415]",
+    "toxicity": "The oral TDLO in mice is 1000mg/kg and in rats is 2000mg/kg.[L7423,L7426] In humans the TDLO for men is 10mg/kg/2W and for women is 1mg/kg/1D.[L7441]\r\n\r\nSymptoms of overdose are likely to include hypotension, tachycardia, or bradycardia due to vagal stimulation.[L7423,L7426] Supportive treatment should be instituted for symptomatic hypotension.[L7423,L7426] Hemodialysis will not remove losartan or its active metabolite due to their high rates of protein binding.[L7423,L7426]",
+    "targets": [
+        [
+            "AGTR1",
+            "Type-1 angiotensin II receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferase 1-10",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT2B17",
+            "UDP-glucuronosyltransferase 2B17",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A12",
+            "Solute carrier family 22 member 12",
+            "Humans"
+        ],
+        [
+            "SLC2A9",
+            "Solute carrier family 2, facilitated glucose transporter member 9",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "PA166182740",
+    "drugbank_id": "DB11760",
+    "names": [
+        "Talazoparib"
+    ],
+    "description": "Talazoparib is an inhibitor of mammalian polyadenosine 5\u2019-diphosphoribose polymerases (PARPs), enzymes responsible for regulating essential cellular functions, such as DNA transcription and DNA repair.[L47236]\r\n\r\nDeveloped by Pfizer, talazoparib was first approved by the FDA in October 2018 [A260346] and by the EMA in June 2019.[L47296] It was approved by Health Canada in September 2020.[L47301] Talazoparib is currently used in the treatment of BRCA-mutated breast cancer and HRR-mutated prostate cancer.[L47236, L47301, L47306]",
+    "indication": "Talazoparib is indicated for the treatment of adult patients with deleterious or suspected deleterious germline BRCA-mutated (gBRCAm) HER2-negative locally advanced or metastatic breast cancer. This indication is approved by the FDA, EMA, and Health Canada.[L47236, L47301, L47306]\r\n\r\nIn the US, talazoparib is also indicated in combination with [enzalutamide] for the treatment of adult patients with HRR gene-mutated metastatic castration-resistant prostate cancer (mCRPC).[L47236]",
+    "pharmacodynamics": "Talazoparib is a cytotoxic and anti-tumour agent. _In vitro_, talazoparib caused cytotoxicity in cancer cell lines that harboured defects in DNA repair genes, including BRCA1 and BRCA2. Talazoparib mediated anti-tumour effects on patient-derived xenograft breast cancer models bearing mutated BRCA1 or mutated BRCA2 or wild type BRCA1 and BRCA2.[A260346, L47236]",
+    "mechanism-of-action": "Poly(ADP-ribose) polymerases (PARPs) are multifunctional enzymes involved in essential cellular functions, such as DNA transcription and DNA repair. PARPs recognize and repair DNA single-strand breaks (SSBs) via the base excision repair (BER) pathway. DNA double-strand breaks (DSBs) are repaired via homologous recombination by tumour suppressor proteins encoded by _BRCA1_ and _BRCA2_.[A245985, A260346]\r\n\r\nTalazoparib is a potent inhibitor of poly (ADP-ribose) polymerase (PARP) enzymes, including PARP1 and PARP2.[L47236] _In vitro_, talazoparib binds to PARP-1 and -2 isoforms with similar affinity.[A260346] Inhibition of the BER pathway by talazoparib leads to the accumulation of unrepaired SSBs, which leads to the formation of DSBs, which is the most toxic form of DNA damage. While BRCA-dependent homologous recombination can repair DSBs in normal cells, this repair pathway is defective in cells with BRCA1/2 mutations, such as certain tumour cells.[A246015] Inhibition of PARP in cancer cells with BRCA mutations leads to genomic instability and apoptotic cell death. This end result is also referred to as synthetic lethality, a phenomenon where the combination of two defects - inhibition of PARP activity and loss of DSB repair by HR - that are otherwise benign when alone leads to detrimental results.[A39537,A245985] By inhibiting PARP, talazoparib increases the formation of PARP-DNA complexes resulting in DNA damage, decreased cell proliferation, and apoptosis.[L47236]",
+    "absorption": "After administration of talazoparib 1 mg orally once daily, the mean [% coefficient of variation (CV%)] AUC and maximum observed plasma concentration (C<sub>max</sub>) of talazoparib at steady-state was 208 (37%) ng x hr/mL and 16.4 (32%) ng/mL, respectively. The mean (CV%) steady-state C<sub>trough</sub> was 3.53 (61%) ng/mL.[L47236] Steady state was reached within two to three weeks of therapy.[A260346] The T<sub>max</sub> ranges from one to two hours.[L47236] \r\n\r\nA high-fat, high-calorie food increased the mean C<sub>max</sub> by 46% and the median T<sub>max</sub> from one to four hours, without affecting the AUC. [L47236]",
+    "metabolism": "Talazoparib undergoes minimal hepatic metabolism. The metabolic pathways include mono-oxidation, dehydrogenation, cysteine conjugation of mono-desfluoro talazoparib, and glucuronide conjugation.[L47236]",
+    "toxicity": "There is no information available regarding the acute toxicity (LD<sub>50</sub>) of talazoparib. There is no specific treatment in the event of talazoparib overdose, and symptoms of overdose have not been established. In the event of an overdose, discontinue treatment with talazoparib, consider gastric decontamination, follow general supportive measures, and treat symptomatically.[L47236]",
+    "targets": [
+        [
+            "PARP1",
+            "Poly [ADP-ribose] polymerase 1",
+            "Humans"
+        ],
+        [
+            "PARP2",
+            "Poly [ADP-ribose] polymerase 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

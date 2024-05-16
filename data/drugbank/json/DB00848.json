@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA450205",
+    "drugbank_id": "DB00848",
+    "names": [
+        "Levamisole",
+        "Ergamisol",
+        "Ketrax"
+    ],
+    "description": "Levamisole is an antihelminthic drug that was commonly used for the treatment of parasitic, viral, and bacterial infections. [A178117] It was manufactured by _Janssen_ and first used in 1969 as an agent to treat worm infestations[A178123] Levamisole was approved by the FDA in 1990 as an adjuvant treatment for colon cancer.[L6232] Prior to this, levamisole was used as an antirheumatic therapy in the 1970s and 1980s for patients with rheumatoid arthritis.[A178123] \r\n\r\nBecause of its immunomodulatory effects, this drug has been studied in the treatment of various immune-mediated diseases, with some studies showing positive results. [A178117] This drug has also been used in combination with other drugs for the treatment of various cancers. [A178117, A178123] \r\n\r\nLevamisole was withdrawn from the American market in 2000 due to its ability to cause serious adverse effects, including agranulocytosis. [A178123] Interestingly, levamisole has been found as an adulterant in cocaine and can lead to a variety of adverse effects in individuals using this drug.[A178120]",
+    "indication": "For adjuvant treatment in combination with fluorouracil after surgical resection in patients with Dukes' stage C colon cancer. Also used to treat malignant melanoma and head/neck cancer.",
+    "pharmacodynamics": "Levamisole is a synthetic imidazothiazole derivative that has been widely used in treatment of worm infestations in both humans and animals. As an anthelmintic, it probably works by targeting the nematode nicotinergic acetylcholine receptor. As an immunomodulator, it appears that Levamisole is an immunostimulant which has been shown to increase NK cells and activated T-cells in patients receiving this adjuvantly along with 5FU for Stage III colon cancer.",
+    "mechanism-of-action": "The mechanism of action of levamisole as an antiparasitic agent appears to be tied to its agnositic activity towards the L-subtype nicotinic acetylcholine receptors in nematode muscles. This agonistic action reduces the capacity of the males to control their reproductive muscles and limits their ability to copulate. The mechanism of action of Levamisole as an anticancer drug in combination with fluorouracil is unknown. The effects of levamisole on the immune system are complex. The drug appears to restore depressed immune function rather than to stimulate response to above-normal levels. Levamisole can stimulate formation of antibodies to various antigens, enhance T-cell responses by stimulating T-cell activation and proliferation, potentiate monocyte and macrophage functions including phagocytosis and chemotaxis, and increase neutrophil mobility, adherence, and chemotaxis.",
+    "absorption": "Levamisole is rapidly absorbed (2 hours) from the gastrointestinal tract.",
+    "metabolism": "Primarily hepatic (extensive) with both active and inactive metabolites.",
+    "toxicity": "LD<sub>50</sub> = 40 mg/kg (Pigs, subcutaneous); LD<sub>50</sub> = 180 mg/kg (rat, oral)",
+    "targets": [
+        [
+            "CHRNA3",
+            "Neuronal acetylcholine receptor subunit alpha-3",
+            "Humans"
+        ],
+        [
+            "ALPPL2",
+            "Alkaline phosphatase, germ cell type",
+            "Humans"
+        ],
+        [
+            "unc-38",
+            "Acetylcholine receptor subunit alpha-type unc-38",
+            "Caenorhabditis elegans"
+        ],
+        [
+            "unc-63",
+            "Acetylcholine receptor subunit alpha-type unc-63",
+            "Caenorhabditis elegans"
+        ],
+        [
+            "lev-1",
+            "Acetylcholine receptor subunit beta-type lev-1",
+            "Caenorhabditis elegans"
+        ],
+        [
+            "unc-29",
+            "Acetylcholine receptor subunit beta-type unc-29",
+            "Caenorhabditis elegans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

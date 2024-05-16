@@ -1,0 +1,79 @@
+{
+    "pharmgkb_id": "PA451316",
+    "drugbank_id": "DB01037",
+    "names": [
+        "Selegiline",
+        "Carbex",
+        "Jumex"
+    ],
+    "description": "A selective, irreversible inhibitor of Type B monoamine oxidase. It is used in newly diagnosed patients with Parkinson's disease. It may slow progression of the clinical disease and delay the requirement for levodopa therapy. It also may be given with levodopa upon onset of disability. (From AMA Drug Evaluations Annual, 1994, p385) The compound without isomeric designation is Deprenyl.",
+    "indication": "Monotherapy for initial treatment of Parkinson's disease, as well as an adjunct therapy in patients with a decreased response to levodopa/carbadopa. Also used for the palliative treatment of mild to moderate Alzheimer's disease and at higher doses, for the treatment of depression.",
+    "pharmacodynamics": "Dopamine is an essential chemical that occurs in many parts of the body. It is the premature degradation of dopamine that results in the symptoms of Parkinson's disease. Monoamine oxidase (MAO) is an enzyme which accelerates the breakdown of dopamine. Selegiline can prolong the effects of dopamine in the brain by preventing its breakdown through seletively blocking MAO-B. It also may prevent the removal of dopamine between nerve endings and enhance release of dopamine from nerve cells.",
+    "mechanism-of-action": "Although the mechanisms for selegiline's beneficial action in the treatment of Parkinson's disease are not fully understood, the selective, irreversible inhibition of monoamine oxidase type B (MAO-B) is thought to be of primary importance. MAO-B is involved in the oxidative deamination of dopamine in the brain. Selegiline binds to MAO-B within the nigrostriatal pathways in the central nervous system, thus blocking microsomal metabolism of dopamine and enhancing the dopaminergic activity in the substantial nigra. Selegiline may also increase dopaminergic activity through mechanisms other than inhibition of MAO-B. At higher doses, selegiline can also inhibit monozmine oxidase type A (MAO-A), allowing it to be used for the treatment of depression.",
+    "absorption": "Rapidly absorbed from the gastrointestinal tract.",
+    "metabolism": null,
+    "toxicity": "LD<sub>50</sub>=63 mg/kg (rats, IV)",
+    "targets": [
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,69 @@
+{
+    "pharmgkb_id": "PA449130",
+    "drugbank_id": "DB01380",
+    "names": [
+        "Cortisone acetate",
+        "Cortisyl"
+    ],
+    "description": "Cortisone acetate was first isolate in 1935 and became more widely researched in 1949.[A226295] Since then, glucocorticoids such as cortisone acetate have been used to treat a number of inflammatory conditions such as endocrine, rheumatic, collagen, dermatologic, allergic, ophthalmic, respiratory, hematologic, neoplastic, edematous, and gastrointestinal diseases and disorders.[A226300,L13203]\r\n\r\nCortisone acetate was granted FDA approval on 13 June 1950.[L15107]",
+    "indication": "Cortisone acetate is indicated to treat a wide variety of endocrine, rheumatic, collagen, dermatologic, allergic, ophthalmic, respiratory, hematologic, neoplastic, edematous, and gastrointestinal diseases and disorders.[A226300,L13203]",
+    "pharmacodynamics": "Corticosteroids bind to the glucocorticoid receptor, inhibiting pro-inflammatory signals, and promoting anti-inflammatory signals.[A187463] The duration of action is moderate as it is generally given once daily.[L13203] Corticosteroids have a wide therapeutic window as patients may require doses that are multiples of what the body naturally produces.[A187463] Patients taking corticosteroids should be counselled regarding the risk of hypothalamic-pituitary-adrenal axis suppression and increased susceptibility to infections.[A187463]",
+    "mechanism-of-action": "The short term effects of corticosteroids are decreased vasodilation and permeability of capillaries, as well as decreased leukocyte migration to sites of inflammation.[A187463] Corticosteroids binding to the glucocorticoid receptor mediates changes in gene expression that lead to multiple downstream effects over hours to days.[A187463]\r\nGlucocorticoids inhibit neutrophil apoptosis and demargination; they inhibit phospholipase A2, which decreases the formation of arachidonic acid derivatives; they inhibit NF-Kappa B and other inflammatory transcription factors; they promote anti-inflammatory genes like interleukin-10.[A187463]\r\nLower doses of corticosteroids provide an anti-inflammatory effect, while higher doses are immunosuppressive.[A187463] High doses of glucocorticoids for an extended period bind to the mineralocorticoid receptor, raising sodium levels and decreasing potassium levels.[A187463]",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": "Data regarding acute overdoses of glucocorticoids are rare.[L13203] Chronic high doses of glucocorticoids can lead to the development of cataract, glaucoma, hypertension, water retention, hyperlipidemia, peptic ulcer, pancreatitis, myopathy, osteoporosis, mood changes, psychosis, dermal atrophy, allergy, acne, hypertrichosis, immune suppression, decreased resistance to infection, moon face, hyperglycemia, hypocalcemia, hypophosphatemia, metabolic acidosis, growth suppression, and secondary adrenal insufficiency.[A188405] Overdose may be treated by adjusting the dose or stopping the corticosteroid as well as initiating symptomatic and supportive treatment.[A188405]",
+    "targets": [
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ],
+        [
+            "ANXA1",
+            "Annexin A1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "SERPINA6",
+            "Corticosteroid-binding globulin",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

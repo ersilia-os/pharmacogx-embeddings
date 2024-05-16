@@ -1,0 +1,42 @@
+{
+    "pharmgkb_id": "PA164776671",
+    "drugbank_id": "DB01012",
+    "names": [
+        "Cinacalcet",
+        "Mimpara"
+    ],
+    "description": "Cinacalcet is a calcimimetic sold by Amgen under the trade name Sensipar\u00ae in North America and Australia and as Mimpara\u00ae in Europe. It is used to treat hyperparathyroidism due to parathyroid tumours or renal failure.",
+    "indication": "For the treatment of secondary hyperparathyroidism in patients with Chronic Kidney Disease who are on hemodialysis or peritoneal dialysis. Also for the treatment of hypercalcemia in patients with parathyroid carcinoma.",
+    "pharmacodynamics": "Cinacalcet is a drug that acts as a calcimimetic (i.e. it mimics the action of calcium on tissues). Secondary hyperparathyroidism (HPT) in patients with chronic kidney disease (CKD) is a progressive disease, associated with increases in parathyroid hormone (PTH) levels and derangements in calcium and phosphorus metabolism. Increased PTH stimulates osteoclastic activity resulting in cortical bone resorption and marrow fibrosis. The goals of treatment of secondary hyperparathyroidism are to lower levels of PTH, calcium, and phosphorus in the blood, in order to prevent progressive bone disease and the systemic consequences of disordered mineral metabolism. In CKD patients on dialysis with uncontrolled secondary HPT, reductions in PTH are associated with a favorable impact on bone-specific alkaline phosphatase (BALP), bone turnover and bone fibrosis. Cinacalcet reduces calcium levels by increasing the sensitivity of the calcium sensing receptor to extracellular calcium.",
+    "mechanism-of-action": "Cinacalcet directly lowers parathyroid hormone levels by increasing the sensitivity of the calcium sensing receptors to activation by extracellular calcium, resulting in the inhibition of PTH secretion. The reduction in PTH is associated with a concomitant decrease in serum calcium levels.",
+    "absorption": "Rapidly absorbed following oral administration.",
+    "metabolism": "Metabolism is hepatic by multiple enzymes, primarily CYP3A4, CYP2D6, and CYP1A2. After administration of a 75 mg radiolabeled dose to healthy volunteers, cinacalcet was rapidly and extensively metabolized via: 1) oxidative N-dealkylation to hydrocinnamic acid and hydroxy-hydrocinnamic acid, which are further metabolized via &szlig;-oxidation and glycine conjugation; the oxidative N-dealkylation process also generates metabolites that contain the naphthalene ring; and 2) oxidation of the naphthalene ring on the parent drug to form dihydrodiols, which are further conjugated with glucuronic acid.",
+    "toxicity": "Doses titrated up to 300 mg once daily have been safely administered to patients on dialysis. Overdosage of cinacalcet may lead to hypocalcemia.",
+    "targets": [
+        [
+            "CASR",
+            "Extracellular calcium-sensing receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

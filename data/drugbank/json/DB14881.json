@@ -1,0 +1,48 @@
+{
+    "pharmgkb_id": "PA166223601",
+    "drugbank_id": "DB14881",
+    "names": [
+        "Oliceridine",
+        "Olinvo",
+        "Olinvyk"
+    ],
+    "description": "Severe acute pain occurs through nociceptive signalling involving both ascending and descending spinal pathways, in which nerve conductance is mediated in part by the action of opioid receptors.[A218041, A218046] Opioid receptors are seven-transmembrane G-protein-coupled receptors (GPCRs), of which the \u03bc-opioid receptor subtype is predominantly targeted by and is responsible for the effects of opioid agonists.[A218031, A218046] However, due to the ability of some opioid agonists to bind to other targets, as well as activation of additional downstream pathways from opioid receptors such as those involving \u03b2-arrestin, the beneficial analgesic effects of opioids are coupled with severe adverse effects such as constipation and respiratory depression.[A218026, A218031, A218036, A218041, A218046]\r\n\r\nOliceridine (formerly known as TRV130) is a \"biased agonist\" at the \u03bc-opioid receptor by preferentially activating the G-protein pathway with minimal receptor phosphorylation and recruitment of \u03b2-arrestin.[A218026, A218031] By acting as a biased agonist, oliceridine provides comparable analgesia compared with traditional opioids such as [morphine] at a comparable or decreased risk of opioid-related adverse effects such as constipation and respiratory depression.[A218026, A218031, A218051, A218056, A218061, A218066, A218071, L15516]\r\n\r\nOliceridine was first reported in 2013,[A218026, A218086] but was initially not approved by the FDA due to concerns raised by the Anesthetic and Analgesic Drug Products Advisory Committee.[A218041] Oliceridine gained FDA approval on August 7, 2020, and is currently marketed by Trevena Inc as OLINVYK\u2122.[L15516]",
+    "indication": "Oliceridine is indicated for the management of acute pain in adults severe enough to require intravenous opioid analgesics and for whom no acceptable alternative treatments exist.[L15516]",
+    "pharmacodynamics": "Oliceridine is a biased \u03bc-opioid receptor agonist that acts through downstream signalling pathways to exert antinociceptive analgesia in patients experience severe acute pain.[A218026, A218031, A218036, A218041, A218046, L15516] Results from multiple clinical studies[A218051, A218056, A218061, A218066, A218071, L15516] and simulation data[A218076, A218081] demonstrate that oliceridine exerts significant analgesic benefits within 5-20 minutes following administration but dissipates quickly with a half-life between one and three hours.[A218051, A218056, A218061, A218066, A218071, L15516] Despite an improved adverse effect profile over conventional opioids[A218051, A218056, A218061, A218066, A218071, L15516], oliceridine carries important clinical warnings. Oliceridine has the potential to cause severe respiratory depression, especially in patients who are elderly, cachectic, debilitated, or who otherwise have chronically impaired pulmonary function. In addition, severe respiratory depression or sedation may occur in patients with increased intracranial pressure, head injury, brain tumour, or impaired consciousness. Patients with adrenal insufficiency or severe hypotension may require treatment alterations or discontinuation. Finally, oliceridine has been demonstrated to prolong the QTc interval and has not been properly evaluated beyond a maximum daily dose of 27 mg; it is recommended not to exceed 27 mg per day.[L15516]",
+    "mechanism-of-action": "Pain perception follows a complex pathway initiated in primary sensory neurons, subsequently transmitted to the spinal cord dorsal horn and through ascending axons to multiple regions within the thalamus, brainstem, and midbrain, and finally relayed through descending signals that either inhibit or facilitate the nociceptive signalling.[A218041, A218046] Opioid receptors are seven-transmembrane G-protein-coupled receptors (GPCRs) that can be divided into \u03bc, \u03ba, \u03b4, and opioid-like-1 (ORL1) subtypes,[A218031, A218046]. However, the \u03bc-opioid receptor is predominantly targeted by and is responsible for the effects of traditional opioids.[A218046] GPCRs in the inactive state are bound intracellularly by a complex consisting of a G<sub>\u03b1</sub>, \u03b2, and \u03b3 subunit together with guanosine diphosphate (GDP). Activation of the GPCR through extracellular agonist binding catalyzes the replacement of GDP with guanosine triphosphate (GTP), dissociation of both G<sub>\u03b1</sub>-GTP and a \u03b2\u03b3 heterodimer, and subsequent downstream effects.[A218046]\r\n\r\nIn the case of the \u03bc-opioid receptor, the G<sub>\u03b1</sub>-GTP directly interacts with the potassium channel K<sub>ir</sub>3 while the dissociated G\u03b2\u03b3 subunit directly binds to and occludes the pore of P/Q-, N-, and L-type Ca<sup>2+</sup> channels. Furthermore, opioid receptor activation inhibits adenylyl cyclase, which in turn reduces cAMP-dependent Ca<sup>2+</sup> influx. By altering membrane ion conductivity, these effects modulate nociceptive signalling and produce an analgesic effect.[A218036, A218041, A218046] In addition to the G-protein pathway, \u03bc-opioid receptor activation can also result in downstream signalling through \u03b2-arrestin, which results in receptor internalization and is associated with negative effects of opioid use including respiratory depression, gastrointestinal effects, and desensitization/tolerance.[A218026, A218031, A218036, A218041, A218046]\r\n\r\nOliceridine acts as a \"biased agonist\" at the \u03bc-opioid receptor by preferentially activating the G-protein pathway with minimal receptor phosphorylation and recruitment of \u03b2-arrestin.[A218026, A218031] Competetive binding assays and structural modelling suggest that the binding site for oliceridine on the \u03bc-opioid receptor is the same as for classical opioids.[A218026, A216961] However, molecular modelling supports a model whereby oliceridine binding induces a different intracellular conformation of the \u03bc-opioid receptor, specifically due to a lack of coupling with transmembrane helix six, which confers the specificity for G-protein over \u03b2-arrestin interaction.[A216961] Numerous _in vitro_, _in vivo_, and clinical studies support the view that this biased agonism results in comparable analgesia compared with traditional opioids at a comparable or decreased risk of opioid-related adverse effects such as constipation and respiratory depression.[A218026, A218031, A218051, A218056, A218061, A218066, A218071, L15516]",
+    "absorption": "Oliceridine administered as a single intravenous injection of 1.5, 3, or 4.5 mg in healthy male volunteers had a corresponding C<sub>max</sub> of 47, 76, and 119 ng/mL and a corresponding AUC<sub>0-24</sub> of 43, 82, and 122 ng\\*h/mL.[A218051] Simulations of single doses of oliceridine between 1-3 mg suggest that the expected median C<sub>max</sub> is between 43 and 130 ng/mL while the expected median AUC is between 22 and 70 ng\\*h/mL.[A218081]",
+    "metabolism": "Oliceridine is primarily metabolized hepatically by CYP3A4 and CYP2D6 _in vitro_, with minor contributions from CYP2C9 and CYP2C19.[L15516] None of oliceridine's metabolites are known to be active.[A218046, L15516] Metabolic pathways include N-dealkylation, glucuronidation, and dehydrogenation.[L15516]",
+    "toxicity": "Symptoms of oliceridine overdose are variable but can include respiratory depression, airway obstruction, pulmonary edema, bradycardia, hypotension, muscle flaccidity, cold skin, and somnolence progressing to either stupor or coma. Miosis is commonly observed but in cases of severe hypoxia, mydriasis may be observed instead. Oliceridine overdose may be fatal. In case of overdose, the establishment of a protected airway followed by the institution of assisted or controlled ventilation is a high priority; in case of cardiac arrhythmias or arrest, additional supportive measures may be immediately required. Supportive treatment, including oxygen, vasopressors, and the administration of an opioid antagonist such as [naloxone] may be applied but should be tailored to the individual patient's condition.[L15516]",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

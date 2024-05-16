@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA146123005",
+    "drugbank_id": "DB11770",
+    "names": [
+        "Talinolol"
+    ],
+    "description": "Talinolol has been investigated for the basic science of Gastrointestinal Motility Disorder.",
+    "indication": null,
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

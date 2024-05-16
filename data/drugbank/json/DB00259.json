@@ -1,0 +1,26 @@
+{
+    "pharmgkb_id": "PA451545",
+    "drugbank_id": "DB00259",
+    "names": [
+        "Sulfanilamide",
+        "Streptocid"
+    ],
+    "description": "Sulfanilamide is a molecule containing the sulfonamide functional group attached to an aniline.",
+    "indication": "For the treatment of vulvovaginitis caused by <i>Candida albicans</i>.",
+    "pharmacodynamics": "Sulfanilamide is a sulfonamide antibiotic. The sulfonamides are synthetic bacteriostatic antibiotics with a wide spectrum against most gram-positive and many gram-negative organisms. However, many strains of an individual species may be resistant. Sulfonamides inhibit multiplication of bacteria by acting as competitive inhibitors of <i>p</i>-aminobenzoic acid in the folic acid metabolism cycle. Bacterial sensitivity is the same for the various sulfonamides, and resistance to one sulfonamide indicates resistance to all. Most sulfonamides are readily absorbed orally. However, parenteral administration is difficult, since the soluble sulfonamide salts are highly alkaline and irritating to the tissues. The sulfonamides are widely distributed throughout all tissues. High levels are achieved in pleural, peritoneal, synovial, and ocular fluids. Although these drugs are no longer used to treat meningitis, CSF levels are high in meningeal infections. Their antibacterial action is inhibited by pus.",
+    "mechanism-of-action": "Sulfanilamide is a competitive inhibitor of bacterial enzyme dihydropteroate synthetase. This enzyme normally uses para-aminobenzoic acid (PABA) for synthesizing the necessary folic acid. The inhibited reaction is normally necessary in these organisms for the synthesis of folic acid. Without it, bacteria cannot replicate.",
+    "absorption": "Sulfonamides are absorbed through the vaginal mucosa. There are no pharmacokinetic data available describing how much of an intravaginal dose reaches the systemic circulation.",
+    "metabolism": null,
+    "toxicity": "Oral, mouse LD<sub>50</sub> = 3700 mg/kg; Intravenous, mouse LD<sub>50</sub> = 621 mg/kg; Oral, rabbit LD<sub>50</sub> = 1300 mg/kg. Side effects include itching, burning, skin rash, redness, swelling, or other sign of irritation not present before use of this medicine and long-term use of sulfonamides may cause cancer of the thyroid gland.",
+    "targets": [
+        [
+            "folP",
+            "Dihydropteroate synthase",
+            "Escherichia coli (strain K12)"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

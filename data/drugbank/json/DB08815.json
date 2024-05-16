@@ -1,0 +1,56 @@
+{
+    "pharmgkb_id": "PA166129557",
+    "drugbank_id": "DB08815",
+    "names": [
+        "Lurasidone"
+    ],
+    "description": "Lurasidone is an atypical antipsychotic developed by Dainippon Sumitomo Pharma. It was approved by the U.S. Food and Drug Administration (FDA) for treatment of schizophrenia on October 29, 2010 and is currently pending approval for the treatment of bipolar disorder in the United States.",
+    "indication": "Lurasidone is indicated for the treatment of schizophrenia in patients \u226513 years old.[L16103] It is also indicated as a monotherapy for the treatment of bipolar depression in patients \u226510 years old, or in combination with lithium or valproate for the treatment of bipolar depression in adults.[L16103]",
+    "pharmacodynamics": "Lurasidone is a benzothiazol derivative that is an antagonist and binds with high affinity to Dopamine-2 (D2) (Ki = 0.994 nM), 5-HT2A (Ki = 0.47 nM) receptors, and 5-HT7 receptors (Ki = 0.495 nM).  It also binds with moderate affinity to alpha-2C adrenergic receptors (Ki = 10.8 nM) and is a partial agonist at 5-HT1A receptors (Ki = 6.38 nM). Its actions on histaminergic and muscarinic receptors are negligible. ",
+    "mechanism-of-action": "Lurasidone is an atypical antipsychotic that is a D2 and 5-HT2A (mixed serotonin and dopamine activity) to improve cognition. It is thought that antagonism of serotonin receptors can improve negative symptoms of psychoses and reduce the extrapyramidal side effects that are often associated with typical antipsychotics. ",
+    "absorption": "Lurasidone is readily absorbed and quickly reaches maximal concentrations (Cmax) within 1-4 hours. When taken with food, there is a two-fold increase in exposure and  time to maximal concentration is increased by 0.5-1.5 hours. This occurs regardless of fat or caloric content.  \r\nBioavailability = 9-19%. ",
+    "metabolism": "Lurasidone is metabolized by CYP3A4 in which its major active metabolite is referred to as ID-14283 (25% of parent exposure). Its two minor metabolites are referred to as ID14326 and ID11614 which make up 3% and 1% of parent exposure respectively. Its two non-active metabolites are referred to as ID-20219 and ID-20220.   ",
+    "toxicity": null,
+    "targets": [
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

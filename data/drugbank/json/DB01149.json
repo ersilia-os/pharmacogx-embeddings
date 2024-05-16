@@ -1,0 +1,128 @@
+{
+    "pharmgkb_id": "PA450603",
+    "drugbank_id": "DB01149",
+    "names": [
+        "Nefazodone",
+        "Dutonin"
+    ],
+    "description": "Nefazodone hydrochloride (trade name Serzone) is an antidepressant drug marketed by Bristol-Myers Squibb. Its sale was discontinued in 2003 in some countries, due to the small possibility of hepatic (liver) injury. Drug-induced hepatic injuries were associated with an risk of elevated need for a liver transplant, or even death, with the incidence of severe liver damage was shown to be approximately 1 in 250,000 to 300,000 patient-years. On May 20, 2004, Bristol-Myers Squibb discontinued the sale of Serzone in the United States.",
+    "indication": "For the treatment of depression.",
+    "pharmacodynamics": "Nefazodone, an antidepressant synthetically derived phenylpiperazine, is used to treat major depression. Although it is structurally similar to trazodone, nefazodone has a mechanism of action different from other antidepressants and, hence, lacks the risk for major cardiovascular toxicity seen with tricyclics and insomnia and inhibition of REM sleep seen with the selective serotonin reuptake inhibitors.",
+    "mechanism-of-action": "Within the serotonergic system, nefazodone acts as an antagonist at type 2 serotonin (5-HT<sub>2</sub>) post-synaptic receptors and, like fluoxetine-type antidepressants, inhibits pre-synaptic serotonin (5-HT) reuptake. These mechanisms increase the amount of serotonin available to interact with 5-HT receptors. Within the noradrenergic system, nefazodone inhibits norepinephrine uptake minimally. Nefazodone also antagonizes alpha(1)-adrenergic receptors, producing sedation, muscle relaxation, and a variety of cardiovascular effects. Nefazodone's affinity for benzodiazepine, cholinergic, dopaminergic, histaminic, and beta or alpha(2)-adrenergic receptors is not significant.",
+    "absorption": "Nefazodone is rapidly and completely absorbed. Its absolute bioavailability is low (about 20%).",
+    "metabolism": "Hepatic.",
+    "toxicity": "Cases of life-threatening hepatic failure have been reported in patients treated with nefazodone.",
+    "targets": [
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2B",
+            "CYP2B protein",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

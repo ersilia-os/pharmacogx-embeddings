@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA451668",
+    "drugbank_id": "DB04572",
+    "names": [
+        "Thiotepa",
+        "Thioplex"
+    ],
+    "description": "N,N'N'-triethylenethiophosphoramide (ThioTEPA) is a cancer chemotherapeutic member of the alkylating agent group, now in use for over 50 years. It is a stable derivative of N,N',N''- triethylenephosphoramide (TEPA). It is mostly used to treat breast cancer, ovarian cancer and bladder cancer. It is also used as conditioning for Bone marrow transplantation. Its main toxicity is myelosuppression.",
+    "indication": "ThioTEPA is used a as conditioning treatment prior to allogeneic or autologous haematopoietic progenitor cell transplantation (HPCT) in haematological diseases in adult and paediatric patients. Also, when high dose chemotherapy with HPCT support it is appropriate for the treatment of solid tumours in adult and paediatric patients.",
+    "pharmacodynamics": "The unstable nitrogen-carbon groups alkylate with DNA causing irrepairable DNA damage. They stop tumor growth by crosslinking guanine nucleobases in DNA double-helix strands, directly attacking DNA. This makes the strands unable to uncoil and separate. As this is necessary in DNA replication, the cells can no longer divide. These drugs act nonspecifically.",
+    "mechanism-of-action": "The alkyl group is attached to the guanine base of DNA, at the number 7 nitrogen atom of the imidazole ring. They stop tumor growth by crosslinking guanine nucleobases in DNA double-helix strands, directly attacking DNA. This makes the strands unable to uncoil and separate. As this is necessary in DNA replication, the cells can no longer divide. These drugs act nonspecifically.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

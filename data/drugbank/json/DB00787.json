@@ -1,0 +1,164 @@
+{
+    "pharmgkb_id": "PA448045",
+    "drugbank_id": "DB00787",
+    "names": [
+        "Acyclovir",
+        "Zovir"
+    ],
+    "description": "Acyclovir is a nucleotide analog antiviral used to treat herpes simplex, _Varicella zoster_, herpes zoster, herpes labialis, and acute herpetic keratitis[L7303,L7315,L7318,L7321,L7324,L7327]. Acyclovir is generally used first line in the treatment of these viruses and some products are indicated for patients as young as 6 years old.[L7321]\r\n\r\nAcyclovir was granted FDA approval on 29 March 1982.[L7318]",
+    "indication": "An acyclovir topical cream is indicated to treat recurrent herpes labialis in immunocompetent patients 12 years and older.[L7303] Acyclovir oral tablets, capsules, and suspensions are indicated to treat herpes zoster, genital herpes, and chickenpox.[L7315] An acyclovir topical ointment is indicated to treat initial genital herpes and limited non-life-threatening mucocutaneous herpes simplex in immunocompromised patients.[L7318] An acyclovir cream with hydrocortisone is indicated to treat recurrent herpes labialis, and shortening lesion healing time in patients 6 years and older.[L7321] An acyclovir buccal tablet is indicated for the treatment of recurrent herpes labialis.[L7324] An acyclovir ophthalmic ointment is indicated to treat acute herpetic keratitis.[L7327]",
+    "pharmacodynamics": "Acyclovir is a nucleoside analog that inhibits the action of viral DNA polymerase and DNA replication of different herpesvirus.[L7303,L7315,L7318,L7321,L7324,L7327] Acyclovir has a wide therapeutic window as overdose is rare in otherwise healthy patients.[L7315]",
+    "mechanism-of-action": "Acyclovir is becomes acyclovir monophosphate due to the action of viral thymidine kinase.[A180757] Acyclovir monophosphate is converted to the diphosphate form by guanylate kinase.[A903] Acyclovir diphosphate is converted to acyclovir triphosphate by nucleoside diphosphate kinase, pyruvate kinase, creatine kinase, phosphoglycerate kinase, succinyl-CoA synthetase, phosphoenolpyruvate carboxykinase and adenylosuccinate synthetase.[A903,A180781] Acyclovir triphosphate has higher affinity for viral DNA polymerase than cellular DNA polymerase and incorporates into the DNA where the missing 2' and 3' carbons causes DNA chain termination.[A180757] In other cases acyclovir triphosphate competes so strongly for viral DNA polymerase that other bases cannot associate with the enzyme, inactivating it.[A180757]",
+    "absorption": "The oral bioavailability of acyclovir is 10-20% but decreases with increasing doses.[L7315] Acyclovir ointment is <0.02-9.4% absorbed.[L7318] Acyclovir buccal tablets and ophthalmic ointment are minimally absorbed.[L7324,L7327] The bioavailability of acyclovir is not affected by food.[L7315]\r\n\r\nAcyclovir has a mean T<sub>max</sub> of 1.1\u00b10.4 hours, mean C<sub>max</sub> of 593.7-656.5ng/mL, and mean AUC of 2956.6-3102.5h/*ng/mL.[A180793]",
+    "metabolism": "Acyclovir is <15% oxidized to 9-carboxymethoxymethylguanine by alcohol dehydrogenase and aldehyde dehydrogenase and 1% 8-hydroxylated to 8-hydroxy-acyclovir by aldehyde oxidase.[A180730]\r\n\r\nAcyclovir is becomes acyclovir monophosphate due to the action of viral thymidine kinase.[A180757] Acyclovir monophosphate is converted to the diphosphate form by guanylate kinase.[A903] Acyclovir diphosphate is converted to acyclovir triphosphate by nucleoside diphosphate kinase, pyruvate kinase, creatine kinase, phosphoglycerate kinase, succinyl-CoA synthetase, phosphoenolpyruvate carboxykinase and adenylosuccinate synthetase.[A903,A180781]",
+    "toxicity": "Symptoms of overdose include agitation, coma, seizures, lethargy, and precipitation in renal tubules.[L7315] These symptoms are more common in patients given high doses without monitoring of fluid and electrolyte balance or reduced kidney function.[L7315,A180730,A180775] In the case of an overdose, treat with symptomatic and supportive care.[L7321]",
+    "targets": [
+        [
+            null,
+            "DNA polymerase catalytic subunit",
+            "HHV-1"
+        ],
+        [
+            null,
+            "DNA polymerase catalytic subunit",
+            "HHV-3"
+        ]
+    ],
+    "enzymes": [
+        [
+            "TK",
+            "Thymidine kinase",
+            "HHV-1"
+        ],
+        [
+            "GUK1",
+            "Guanylate kinase",
+            "Humans"
+        ],
+        [
+            "NME1",
+            "Nucleoside diphosphokinase",
+            "Humans"
+        ],
+        [
+            "NME2",
+            "Nucleoside diphosphokinase",
+            "Humans"
+        ],
+        [
+            "PKLR",
+            "Pyruvate Kinases",
+            "Humans"
+        ],
+        [
+            "PKM",
+            "Pyruvate Kinases",
+            "Humans"
+        ],
+        [
+            "CKB",
+            "Creatine Kinases",
+            "Humans"
+        ],
+        [
+            "CKM",
+            "Creatine Kinases",
+            "Humans"
+        ],
+        [
+            "CKMT2",
+            "Creatine Kinases",
+            "Humans"
+        ],
+        [
+            "CKMT1A",
+            "Creatine Kinases",
+            "Humans"
+        ],
+        [
+            "PGK1",
+            "Phosphoglycerate Kinases",
+            "Humans"
+        ],
+        [
+            "PGK2",
+            "Phosphoglycerate Kinases",
+            "Humans"
+        ],
+        [
+            "SUCLA2",
+            "Succinyl-CoA Synthetases",
+            "Humans"
+        ],
+        [
+            "SUCLG1",
+            "Succinyl-CoA Synthetases",
+            "Humans"
+        ],
+        [
+            "SUCLG2",
+            "Succinyl-CoA Synthetases",
+            "Humans"
+        ],
+        [
+            "PCK2",
+            "Phosphoenolpyruvate Carboxykinases",
+            "Humans"
+        ],
+        [
+            "PCK1",
+            "Phosphoenolpyruvate Carboxykinases",
+            "Humans"
+        ],
+        [
+            "ADSSL1",
+            "Adenylosuccinate Synthetases",
+            "Humans"
+        ],
+        [
+            "ADSS",
+            "Adenylosuccinate Synthetases",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC10A2",
+            "Ileal sodium/bile acid cotransporter",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

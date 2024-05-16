@@ -1,0 +1,48 @@
+{
+    "pharmgkb_id": "PA10352",
+    "drugbank_id": "DB00377",
+    "names": [
+        "Palonosetron",
+        "Jiouting",
+        "Onicit",
+        "Palnox",
+        "Paloxi",
+        "Palzen",
+        "Themiset",
+        "Zhiruo"
+    ],
+    "description": "Palonosetron (INN, trade name Aloxi) is an antagonist of 5-HT3 receptors that is indicated for the prevention and treatment of chemotherapy-induced nausea and vomiting (CINV). It is the most effective of the 5-HT3 antagonists in controlling delayed CINV nausea and vomiting that appear more than 24 hours after the first dose of a course of chemotherapy and is the only drug of its class approved for this use by the U.S. Food and Drug Administration. As of 2008, it is the most recent 5-HT3 antagonist to enter clinical use.",
+    "indication": "For the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy, as well as prevention of acute nausea and vomiting associated with highly emetogenic cancer chemotherapy. Also used for the prevention of postoperative nausea and vomiting for up to 24 hours post operation.",
+    "pharmacodynamics": "Palonosetron is an antinauseant and antiemetic agent indicated for the prevention of nausea and vomiting associated with moderately-emetogenic cancer chemotherapy and for the prevention of postoperative nausea and vomiting. Palonosetron is a highly specific and selective serotonin 5-HT<sub>3</sub> receptor antagonist that is pharmacologically related to other 5-HT<sub>3</sub> receptor antagonists, but differs structurally. Palonosetron has a high affinity for 5-HT<sub>3</sub> receptors, but has little to no affinity for other receptors. The serontonin 5-HT<sub>3</sub> receptors are located on the nerve terminals of the vagus in the periphery, and centrally in the chemoreceptor trigger zone of the area postrema. It is suggested that chemotherapeutic agents release serotonin from the enterochromaffin cells of the small intestine by causing degenerative changes in the GI tract. The serotonin then stimulates the vagal and splanchnic nerve receptors that project to the medullary vomiting center, as well as the 5-HT3 receptors in the area postrema, thus initiating the vomiting reflex, causing nausea and vomiting.",
+    "mechanism-of-action": "Palonosetron is a selective serotonin 5-HT<sub>3</sub> receptor antagonist. The antiemetic activity of the drug is brought about through the inhibition of 5-HT<sub>3</sub> receptors present both centrally (medullary chemoreceptor zone) and peripherally (GI tract). This inhibition of 5-HT<sub>3</sub> receptors in turn inhibits the visceral afferent stimulation of the vomiting center, likely indirectly at the level of the area postrema, as well as through direct inhibition of serotonin activity within the area postrema and the chemoreceptor trigger zone. Alternative mechanisms appear to be primarily responsible for delayed nausea and vomiting induced by emetogenic chemotherapy, since similar temporal relationships between between serotonin and emesis beyond the first day after a dose have not been established, and 5-HT<sub>3</sub> receptor antagonists generally have not appeared to be effective alone in preventing or ameliorating delayed effects. It has been hypothesized that palonosetron's potency and long plasma half-life may contribute to its observed efficacy in preventing delayed nausea and vomiting caused by moderately emetogenic cancer chemotherapy.",
+    "absorption": "Low oral bioavailability.",
+    "metabolism": "Hepatic (50%), primarily CYP2D6-mediated, although CYP3A4 and CYP1A2 are also involved.",
+    "toxicity": "A single intravenous dose of palonosetron at 30 mg/kg (947 and 474 times the human dose for rats and mice, respectively, based on body surface area) was lethal to rats and mice. The major signs of toxicity were convulsions, gasping, pallor, cyanosis and collapse.",
+    "targets": [
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

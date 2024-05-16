@@ -1,0 +1,65 @@
+{
+    "pharmgkb_id": "PA451234",
+    "drugbank_id": "DB00912",
+    "names": [
+        "Repaglinide",
+        "GlucoNorm",
+        "Surepost"
+    ],
+    "description": "Repaglinide is an oral antihyperglycemic agent used for the treatment of non-insulin-dependent diabetes mellitus (NIDDM). It belongs to the meglitinide class of short-acting insulin secretagogues, which act by binding to \u03b2 cells of the pancreas to stimulate insulin release. Repaglinide induces an early insulin response to meals decreasing postprandial blood glucose levels. It should only be taken with meals and meal-time doses should be skipped with any skipped meal. Approximately one month of therapy is required before a decrease in fasting blood glucose is seen. Meglitnides may have a neutral effect on weight or cause a slight increase in weight. The average weight gain caused by meglitinides appears to be lower than that caused by sulfonylureas and insulin and appears to occur only in those na\u00efve to oral antidiabetic agents. Due to their mechanism of action, meglitinides may cause hypoglycemia although the risk is thought to be lower than that of sulfonylureas since their action is dependent on the presence of glucose. In addition to reducing postprandial and fasting blood glucose, meglitnides have been shown to decrease glycosylated hemoglobin (HbA1c) levels, which are reflective of the last 8-10 weeks of glucose control. Meglitinides appear to be more effective at lowering postprandial blood glucose than metformin, sulfonylureas and thiazolidinediones. Repaglinide is extensively metabolized in the liver and excreted in bile. Repaglinide metabolites do not possess appreciable hypoglycemic activity. Approximately 90% of a single orally administered dose is eliminated in feces and 8% in urine.",
+    "indication": "As an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ",
+    "pharmacodynamics": "Insulin secretion by pancreatic &beta; cells is partly controlled by cellular membrane potential. Membrane potential is regulated through an inverse relationship between the activity of cell membrane ATP-sensitive potassium channels (ABCC8) and extracellular glucose concentrations. Extracellular glucose enters the cell via GLUT2 (SLC2A2) transporters. Once inside the cell, glucose is metabolized to produce ATP. High concentrations of ATP inhibit ATP-sensitive potassium channels causing membrane depolarization. When extracellular glucose concentrations are low, ATP-sensitive potassium channels open causing membrane repolarization. High glucose concentrations cause ATP-sensitive potassium channels to close resulting in membrane depolarization and opening of L-type calcium channels. The influx of calcium ions stimulates calcium-dependent exocytosis of insulin granules. Repaglinide increases insulin release by inhibiting ATP-sensitive potassium channels in a glucose-dependent manner. ",
+    "mechanism-of-action": "Repaglinide activity is dependent on the presence functioning &beta; cells and glucose. In contrast to sulfonylurea insulin secretatogogues, repaglinide has no effect on insulin release in the absence of glucose. Rather, it potentiates the effect of extracellular glucose on ATP-sensitive potassium channel and has little effect on insulin levels between meals and overnight. As such, repaglinide is more effective at reducing postprandial blood glucose levels than fasting blood glucose levels and requires a longer duration of therapy (approximately one month) before decreases in fasting blood glucose are observed. The insulinotropic effects of repaglinide are highest at intermediate glucose levels (3 to 10 mmol/L) and it does not increase insulin release already stimulated by high glucose concentrations (greater than 15 mmol/L). Repaglinide appears to be selective for pancreatic &beta; cells and does not appear to affect skeletal or cardiac muscle or thyroid tissue. ",
+    "absorption": "Rapidly and completely absorbed following oral administration. Peak plasma concentrations are observed within 1 hour (range 0.5-1.4 hours). The absolute bioavailability is approximately 56%. Maximal biological effect is observed within 3-3.5 hours and plasma insulin levels remain elevated for 4-6 hours. When a single 2 mg dose of repaglinide is given to healthy subjects, the area under the curve (AUC) is 18.0 - 18.7 (ng/mL/h)^3. ",
+    "metabolism": "Repaglinide is rapidly metabolized via oxidation and dealkylation by cytochrome P450 3A4 and 2C9 to form the major dicarboxylic acid derivative (M2). Further oxidation produces the aromatic amine derivative (M1). Glucuronidation of the carboxylic acid group of repaglinide yields an acyl glucuronide (M7). Several other unidentified metabolites have been detected. Repaglinide metabolites to not possess appreciable hypoglycemic activity. ",
+    "toxicity": "LD<sub>50</sub> >1 g/kg (rat) (W. Grell)",
+    "targets": [
+        [
+            "ABCC8",
+            "ATP-binding cassette sub-family C member 8",
+            "Humans"
+        ],
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,56 @@
+{
+    "pharmgkb_id": "PA449900",
+    "drugbank_id": "DB00956",
+    "names": [
+        "Hydrocodone"
+    ],
+    "description": "Hydrocodone is a synthetic opioid derivative of codeine.[T116] It is commonly used in combination with [acetaminophen] to control moderate to severe pain. Historically, hydrocodone has been used as a cough suppressant although this has largely been replaced by [dextromethorphan] in current cough and cold formulations. Hydrocodone's more potent metabolite, [hydromorphone] has also found wide use as an analgesic and is frequently used in cases of severe pain. The FDA first approved Hydrocodone for use as part of the cough suppressant syrup Hycodan in March of 1943.[L9025]",
+    "indication": "Hydrocodone is indicated for the management of acute pain, sometimes in combination with [acetaminophen] or [ibuprofen], as well as the symptomatic treatment of the common cold and allergic rhinitis in combination with decongestants, antihistamines, and expectorants.[label,L7991]",
+    "pharmacodynamics": "Hydrocodone inhibits pain signaling in both the spinal cord and brain [A176495]. Its actions in the brain also produce euphoria, respiratory depression, and sedation.",
+    "mechanism-of-action": "Hydrocodone binds to the mu opioid receptor (MOR) with the highest affinity followed by the delta opioid receptors (DOR).[A182165] Hydrocodone's agonist effect at the MOR is considered to contribute the most to its analgesic effects. Both MOR and DOR are Gi/o coupled and and produces its signal through activation of inward rectifier potassium (GIRK) channels, inhibition of voltage gated calcium channel opening, and decreased adenylyl cyclase activity.[T116] In the dorsal horn of the spinal cord, activation of pre-synaptic MOR on primary afferents the inhibition of calcium channel opening and increased activity of GIRK channels hyperpolarizes the neuron and prevents release of neurotransmitters. Post-synaptic MOR can also prevent activation of neurons by glutamate through the aforementioned mechanisms. \r\n\r\nHydrocodone can also produce several actions in the brain similarly to other opioids. \r\nActivation of MOR in the periaquaductal gray (PAG) inhibits the GABAergic tone on medulo-spinal neurons.[T116,A176495] This allows these neurons, which project to the dorsal horn of the spinal cord, to suppress pain signalling in secondary afferents by activating inhibitory interneurons. MOR can also inhibit GABAergic neurons in the ventral tegmental area, removing the inhibitory tone on dopaminergic neurons in the nucleus accumbens and contributing to the activation of the brain's reward and addiction pathway. The inhibitory action or MOR likely contributes to respiratory depression, sedation, and suppression of the cough reflex. \r\n\r\nActivation of DOR may contribute to analgesia through the above mechanisms but has not been well studied.[A176495]",
+    "absorption": "The absolute bioavailability of hydrocodone has not been characterized due to lack of an IV formulation. The liquid formulations of hydrocodone have a Tmax of 0.83-1.33 h.[A182504,A182510] The extended release tablet formulations have a Tmax of 14-16 h.[label] The Cmax remains dose proportional over the range of 2.5-10 mg in liquid formulations and 20-120 mg in extended release formulations.[A182504,A182510,label] Administration with food increases Cmax by about 27% while Tmax and AUC remain the same.[A182564] Administration with 40% ethanol has been observed to increase Cmax 2-fold with an approximate 20% increase in AUC with no change in Tmax. 20% alcohol produces no significant effect.",
+    "metabolism": "Hydrocodone undergoes oxidative O-demethylation to form [hydromorphone], a more potent active metabolite.[A182114] Though hydromorphone is active it is not present in sufficient quantities to contribute significantly to hydrocodone's therapeutic effects.[A182150] Both hydrocodone and hydromorphone form 6-\u03b1- and 6-\u03b2-hydroxy metabolites through 6-ketoreduction. The hydroxy metabolites and hydromorphone can form glucuronide conjugates. Hydrocodone also undergoes oxidative N-demthylation to norhydrocodone. O-demethylation is primarily catalyzed by CYP2D6 while N-demethylation is primarily CYP3A4.[A14920]",
+    "toxicity": "Overdosage with hydrocodone presents as opioid intoxication including respiratory depression, somnolence, coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.[L7913]\r\n\r\nIn case of oversdosage the foremost priority is the maintenance of a patent and protected airway with the provision of assisted ventilation if necessary. Supportive measures such as IV fluids, supplemental oxygen, and vasopressors may be used to manage circulatory shock.[L7913] Advanced life support may be necessary in the case of cardiac arrest or arrhythmias. Opioid antagonists such as [naloxone] may be used to reverse the respiratory and circulatory effects of hydrocodone. Emergency monitoring is still required after naloxone administration as the opioid effects may reappear. Additionally, if used in an opioid tolerant patient, naloxone may produce opioid withdrawal symptoms. ",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "SIGMAR1",
+            "Sigma non-opioid intracellular receptor 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

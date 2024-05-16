@@ -1,0 +1,163 @@
+{
+    "pharmgkb_id": "PA166179872",
+    "drugbank_id": "DB11718",
+    "names": [
+        "Encorafenib"
+    ],
+    "description": "Encorafenib, also known as _BRAFTOVI_,  is a kinase inhibitor.  Encorafenib inhibits BRAF gene, which encodes for B-raf protein, which is a proto-oncogene involved in various genetic mutations.[L12216]  This protein plays a role in regulating the MAP kinase/ERK signaling pathway, which impacts cell division, differentiation, and secretion. Mutations in this gene, most frequently the V600E mutation, are the most commonly identified cancer-causing mutations in melanoma, and have been isolated in various other cancers as well, including non-Hodgkin lymphoma, colorectal cancer, thyroid carcinoma, non-small cell lung carcinoma, hairy cell leukemia and adenocarcinoma of the lung.[L3344]\r\n\r\nOn June 27, 2018, the Food and Drug Administration approved encorafenib and [binimetinib] (BRAFTOVI and MEKTOVI, Array BioPharma Inc.) in combination for patients with unresectable or metastatic melanoma with a BRAF V600E or V600K mutation, as detected by an FDA-approved test.[L12216]",
+    "indication": "Encorafenib is indicated in combination with [binimetinib] for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600E or V600K mutation and metastatic non-small cell lung cancer (NSCLC) with a BRAF V600E mutation. It is also indicated in combination with [cetuximab] for the treatment of adult patients with metastatic colorectal cancer with a BRAF V600E mutation.[L48581]",
+    "pharmacodynamics": "Encorafenib has a pharmacologic profile that is distinct from that of other clinically active BRAF inhibitors and has shown improved efficacy in the treatment of metastatic melanoma.[L3347,A34311]\r\n\r\nOnce-daily dosing of single-agent encorafenib has a distinct tolerability profile and shows varying antitumor activity across BRAFi-pretreated and BRAFi-na\u00efve patients with advanced/metastatic stage melanoma [L3347].\r\n\r\nEncorafenib inhibited in vitro growth of tumor cell lines expressing BRAF V600 E, D, and K mutations. In mice implanted with tumor cells expressing BRAF V600E, encorafenib induced tumor regressions associated with RAF/MEK/ERK pathway suppression.[L48581]\r\n\r\nEncorafenib and binimetinib target two different kinases in the RAS/RAF/MEK/ERK pathway. Compared with either drug alone, the co-administration of encorafenib and binimetinib resulted in greater anti-proliferative activity in vitro in BRAF mutation-positive cell lines and greater anti-tumor activity with respect to tumor growth inhibition in BRAF V600E mutant human melanoma xenograft studies in mice. Additionally, the combination of encorafenib and binimetinib delayed the emergence of resistance in BRAF V600E mutant human melanoma xenografts in mice compared to either drug alone. In a BRAF V600E mutant NSCLC patient-derived xenograft model in mice, coadministration of encorafenib and binimetinib resulted in greater anti-tumor activity compared to binimetinib alone, with respect to tumor growth inhibition. Increased tumor growth delay after dosing cessation was also observed with the co-administration compared to either drug alone.[L48581]\r\n\r\nIn the setting of BRAF-mutant CRC, induction of EGFR-mediated MAPK pathway activation has been identified as a mechanism of resistance to BRAF inhibitors. Combinations of a BRAF inhibitor and agents targeting EGFR have been shown to overcome this resistance mechanism in nonclinical models. The co-administration of encorafenib and cetuximab had an anti-tumor effect greater than either drug alone, in a mouse model of colorectal cancer with mutated BRAF V600E.[L48581]",
+    "mechanism-of-action": "Encorafenib is a kinase inhibitor that targets BRAF V600E, as well as wild-type BRAF and CRAF in in vitro cell-free assays with IC50 values of 0.35, 0.47, and 0.3 nM, respectively. Mutations in the BRAF gene, such as BRAF V600E, can result in constitutively activated BRAF kinases that may stimulate tumor cell growth. Encorafenib was also able to bind to other kinases in vitro including JNK1, JNK2, JNK3, LIMK1, LIMK2, MEK4, and STK36, and reduce ligand binding to these kinases at clinically achievable concentrations (\u22640.9 \u00b5M).[L48581]\r\n\r\n\r\n",
+    "absorption": "The pharmacokinetics of encorafenib were studied in healthy subjects and patients with solid tumors, including advanced and unresectable or metastatic cutaneous melanoma harboring a BRAF V600E or V600K mutation, BRAF V600E mutation-positive metastatic CRC. After a single dose, systemic exposure of encorafenib was dose-proportional over the dose range of 50 mg to 700 mg (0.1 to 1.6 times the maximum recommended dose of 450 mg). After once-daily dosing, systemic exposure of encorafenib was less than dose-proportional over the dose range of 50 mg to 800 mg (0.1 to 1.8 times the maximum recommended dose of 450 mg). Steady-state was reached within 15 days, with exposure being 50% lower compared to Day 1; intersubject variability (CV%) of AUC ranged from 12% to 69%.[L48581]\r\n\r\nAfter oral administration, the median T<sub>max</sub> of encorafenib is 2 hours. At least 86% of the dose is absorbed.[L48581]\r\n\r\nFollowing administration of a single dose of encorafenib 100 mg (0.2 times the maximum recommended dose of 450 mg) with a high-fat, high-calorie meal (consisting of approximately 150 calories from protein, 350 calories from carbohydrates, and 500 calories from fat) the mean maximum encorafenib concentration (C<sub>max</sub>) decreased by 36% and there was no effect on AUC.[L48581]\r\n\r\n\r\n\r\n",
+    "metabolism": "Encorafenib is primarily metabolized by CYP3A4 (83%) and to a lesser extent by CYP2C19 (16%) and CYP2D6 (1%).[L48581]",
+    "toxicity": "New primary malignancies, cutaneous and non-cutaneous, have been observed in patients treated with BRAF inhibitors and can occur with encorafenib.[L12216]\r\n\r\nIn COLUMBUS, a phase 3 safety and efficacy trial,[L12216] cutaneous squamous cell carcinoma (cuSCC), including keratoacanthoma (KA), occurred in 2.6%, and basal cell carcinoma occurred in 1.6% of patients who received BRAFTOVI in combination with binimetinib. The median time to first occurrence of cuSCC/KA was 5.8 months (range 1 to 9 months).[L12216]\r\n\r\nTumor promotion in BRAF Wild-Type Tumors has been observed with encofarenib use.[L12216]\r\n\r\nHemorrhage, uveitis, QT interval prolongation are also other adverse events observed while taking this medication.[L12216]\r\n\r\nEncorafenib, when used as a single agent, is associated with an increased risk of certain adverse reactions compared to when BRAFTOVI is used in combination with binimetinib. Grades 3 or 4 dermatologic reactions occurred in 21% of patients treated with BRAFTOVI therapy alone compared to 2% of patients treated with BRAFTOVI in combination with binimetinib.[L12216]\r\n\r\nAdvise females with reproductive potential of the potential risk to a fetus. Advise females of reproductive potential to use effective non-hormonal contraception during treatment with BRAFTOVI and for 2 weeks after the final dose.[L12216]\r\n\r\nCarcinogenicity studies with encorafenib have not been conducted. Encorafenib was not genotoxic in studies evaluating reverse mutations in bacteria, chromosomal aberrations in mammalian cells, or micronuclei in the bone marrow of rats.[L48581]\r\n\r\nNo dedicated fertility studies were performed with encorafenib in animals. In a general toxicology study in rats, decreased testes and epididymis weights, tubular degeneration in testes, and oligospermia in epididymides were observed at doses approximately 13 times the human exposure at the 450 mg clinical dose based on AUC. No effects on reproductive organs were observed in either sex in any of the non-human primate toxicity studies.[L48581]\r\n\r\nSince encorafenib is 86% bound to plasma proteins, hemodialysis is likely to be ineffective in the treatment of overdose with encorafenib.[L48581]",
+    "targets": [
+        [
+            "BRAF",
+            "Serine/threonine-protein kinase B-raf",
+            "Humans"
+        ],
+        [
+            "CCND1",
+            "G1/S-specific cyclin-D1",
+            "Humans"
+        ],
+        [
+            "RAF1",
+            "RAF proto-oncogene serine/threonine-protein kinase",
+            "Humans"
+        ],
+        [
+            "MAPK8",
+            "Mitogen-activated protein kinase 8",
+            "Humans"
+        ],
+        [
+            "MAPK9",
+            "Mitogen-activated protein kinase 9",
+            "Humans"
+        ],
+        [
+            "MAPK10",
+            "Mitogen-activated protein kinase 10",
+            "Humans"
+        ],
+        [
+            "LIMK1",
+            "LIM domain kinase 1",
+            "Humans"
+        ],
+        [
+            "LIMK2",
+            "LIM domain kinase 2",
+            "Humans"
+        ],
+        [
+            "MAP2K4",
+            "Dual specificity mitogen-activated protein kinase kinase 4",
+            "Humans"
+        ],
+        [
+            "STK36",
+            "Serine/threonine-protein kinase 36",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

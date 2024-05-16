@@ -1,0 +1,100 @@
+{
+    "pharmgkb_id": "PA450149",
+    "drugbank_id": "DB01009",
+    "names": [
+        "Ketoprofen",
+        "Actron",
+        "Alrheumun",
+        "Capisten",
+        "Epatec",
+        "Fastum",
+        "Menamin",
+        "Orudis",
+        "Orudis KT",
+        "Orugesic",
+        "Oscorel",
+        "Profenid",
+        "Toprec"
+    ],
+    "description": "Ketoprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties.",
+    "indication": "For symptomatic treatment of acute and chronic rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, primary dysmenorrhea and mild to moderate pain associated with musculotendinous trauma (sprains and strains), postoperative (including dental surgery) or postpartum pain.",
+    "pharmacodynamics": "Ketoprofen is a nonsteroidal anti-inflammatory agent (NSAIA) with analgesic and antipyretic properties. Ketoprofen has pharmacologic actions similar to those of other prototypical NSAIDs, which inhibit prostaglandin synthesis. Ketoprofen is used to treat rheumatoid arthritis, osteoarthritis, dysmenorrhea, and alleviate moderate pain.",
+    "mechanism-of-action": "The anti-inflammatory effects of ketoprofen are believed to be due to inhibition cylooxygenase-2 (COX-2), an enzyme involved in prostaglandin synthesis via the arachidonic acid pathway. This results in decreased levels of prostaglandins that mediate pain, fever and inflammation. Ketoprofen is a non-specific cyclooxygenase inhibitor and inhibition of COX-1 is thought to confer some of its side effects, such as GI upset and ulceration. Ketoprofen is thought to have anti-bradykinin activity, as well as lysosomal membrane-stabilizing action. Antipyretic effects may be due to action on the hypothalamus, resulting in an increased peripheral blood flow, vasodilation, and subsequent heat dissipation. ",
+    "absorption": "Ketoprofen is rapidly and well-absorbed orally, with peak plasma levels occurring within 0.5 to 2 hours.",
+    "metabolism": "Rapidly and extensively metabolized in the liver, primarily via conjugation to glucuronic acid. No active metabolites have been identified. ",
+    "toxicity": "LD<sub>50</sub>=62.4 mg/kg (rat, oral). \r\n<p>Symptoms of overdose include drowsiness, vomiting and abdominal pain.</p>\r\n<p>Side effects are usually mild and mainly involved the GI tract. Most common adverse GI effect is dyspepsia (11% of patients). May cause nausea, diarrhea, abdominal pain, constipation and flatulence in greater than 3% of patients.</p>",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "CXCR1",
+            "C-X-C chemokine receptor type 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

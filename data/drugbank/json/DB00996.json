@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA449720",
+    "drugbank_id": "DB00996",
+    "names": [
+        "Gabapentin"
+    ],
+    "description": "Gabapentin is a structural analogue of the inhibitory neurotransmitter gamma-aminobutyric acid ([GABA]) that was first approved for use in the United States in 1993.[L8717] It was originally developed as a novel anti-epileptic for the treatment of certain types of seizures[A186277,A186143] - today it is also widely used to treat neuropathic pain.[A14097,A186179] Gabapentin has some stark advantages as compared with other anti-epileptics, such as a relatively benign adverse effect profile, wide therapeutic index, and lack of appreciable metabolism making it unlikely to participate in pharmacokinetic drug interactions.[A186143,A185981,L8717]. It is structurally and functionally related to another GABA derivative, [pregabalin].",
+    "indication": "In the United States, gabapentin is officially indicated for the treatment of postherpetic neuralgia in adults and for the adjunctive treatment of partial-onset seizures, with or without secondary generalization, in patients 3 years of age and older.[L8717] In Europe, gabapentin is indicated for adjunctive therapy in the treatment of partial-onset seizures, with or without secondary generalization, in patients 6 years of age and older and as monotherapy in patients 12 years of age and older. It is also used in adults for the treatment of various types of peripheral neuropathic pain, such as painful diabetic neuropathy.[L8732]",
+    "pharmacodynamics": "Gabapentin is an anti-convulsant medication that inhibits the release of excitatory neurotransmitters, allowing for its use against pathologic neurotransmission such as that seen in neuropathic pain and seizure disorders.[L8717,L8732] It has a wide therapeutic index, with doses in excess of 8000 mg/kg failing to cause a fatal reaction in rats.[L8765]\r\n\r\nGabapentin is ineffective in absence seizures and should be used in caution in patients with mixed seizure disorders involving absence seizures. Gabapentin has been associated with drug reaction with eosinophilia and systemic symptoms (DRESS), otherwise known as multi-organ hypersensitivity. This reaction can prove fatal and early symptoms such as fever, lymphadenopathy, and rash should be promptly investigated.[L8717,L8720,L8732]",
+    "mechanism-of-action": "The precise mechanism through which gabapentin exerts its therapeutic effects is unclear.[L8717,L8720] The primary mode of action appears to be at the auxillary \u03b12\u03b4-1 subunit of voltage-gated calcium channels (though a low affinity for the \u03b12\u03b4-2 subunit has also been reported).[A186179,A14097,A186277] The major function of these subunits is to facilitate the movement of pore-forming \u03b11 subunits of calcium channels from the endoplasmic reticulum to the cell membrane of pre-synaptic neurons.[A186179] There is evidence that chronic pain states can cause an increase in the expression of \u03b12\u03b4 subunits and that these changes correlate with hyperalgesia.[A14097] Gabapentin appears to inhibit the action of \u03b12\u03b4-1 subunits, thus decreasing the density of pre-synaptic voltage-gated calcium channels and subsequent release of excitatory neurotransmitters.[A186179] It is likely that this inhibition is also responsible for the anti-epileptic action of gabapentin.[A186277]\r\n\r\nThere is some evidence that gabapentin also acts on adenosine receptors[A11009, A186209] and voltage-gated potassium channels,[A186212] though the clinical relevance of its action at these sites is unclear.",
+    "absorption": "Absorption of gabapentin is thought to occur solely via facilitated transport by the LAT1 transporter within the intestines.[A186143] As this process is saturable, the oral bioavailability of gabapentin is inversely proportional to the administered dose - the oral bioavailability of a 900mg/day regimen is approximately 60%, whereas a 4800mg/day regimen results in only 27% bioavailability.[L8717,L8726] The T<sub>max</sub> of gabapentin has been estimated to be 2-3 hours.[L8720,A186143] Food has no appreciable effect on gabapentin absorption.[L8717,L8726]",
+    "metabolism": "Gabapentin is not appreciably metabolized in humans[L8717,L8720] - in humans, metabolites account for less than 1% of an administered dose, with the remainder being excreted as unchanged parent drug in the urine.[A186143]",
+    "toxicity": "The oral TDLo of gabapentin in humans is 2.86 mg/kg and the LD<sub>50</sub> in rats has been found to be >8000 mg/kg.[L8765] Symptoms of overdose are consistent with the drug's adverse effect profile and involve CNS depression (e.g. dizziness, drowsiness, slurred speech, lethargy, loss of consciousness) and gastrointestinal symptoms such as diarrhea.[L8726,L8720] Management of overdose should involve symptomatic and supportive treatment. Gabapentin can be removed by hemodialysis - this may be of benefit in some patients, such as those with impaired renal function.[L8741]\r\n\r\nMulti-drug overdoses involving gabapentin, particularly in combination with other CNS depressants such as opioids, can result in coma and death - this possibility should be considered when managing overdosage.[L8720]",
+    "targets": [
+        [
+            "CACNA2D1",
+            "Voltage-dependent calcium channel subunit alpha-2/delta-1",
+            "Humans"
+        ],
+        [
+            "CACNA2D2",
+            "Voltage-dependent calcium channel subunit alpha-2/delta-2",
+            "Humans"
+        ],
+        [
+            "CACNA1B",
+            "Voltage-dependent N-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1B",
+            "Voltage-dependent N-type calcium channel",
+            "Humans"
+        ],
+        [
+            "ADORA1",
+            "Adenosine receptor A1",
+            "Humans"
+        ],
+        [
+            "KCNQ3",
+            "Potassium voltage-gated channel subfamily KQT member 3",
+            "Humans"
+        ],
+        [
+            "KCNQ5",
+            "Potassium voltage-gated channel subfamily KQT member 5",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "BCAT1",
+            "Branched-chain-amino-acid aminotransferase, cytosolic",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC7A5",
+            "Large neutral amino acids transporter small subunit 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

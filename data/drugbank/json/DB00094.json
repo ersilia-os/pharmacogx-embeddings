@@ -1,0 +1,27 @@
+{
+    "pharmgkb_id": "PA451835",
+    "drugbank_id": "DB00094",
+    "names": [
+        "Urofollitropin",
+        "Fertinex",
+        "Metrodin"
+    ],
+    "description": "Urofollitropin is a urinary-derived follicle-stimulating hormone (FSH) that is extracted and purified from human urine samples. It consists of two non-covalently linked, non-identical glycoproteins designated as the alpha- and beta- subunits. The alpha- and beta- subunits have 92 and 111 amino acids. The alpha subunit is glycosylated at Asn 51 and Asn 78 while the beta subunit is glycosylated at Asn 7 and Asn 24. Urofollitropin is typically used injected subcutaneously in combination with human chorionic gonadotropin (hCG) to induce ovulation. Urofollitropin may also be used to cause the ovary to produce several follicles, which can then be harvested for use in gamete intrafallopian transfer (GIFT) or in vitro fertilization (IVF).",
+    "indication": "For treatment of female infertility",
+    "pharmacodynamics": "Used for the treatment of female infertility, urofollitropin or follicle stimulating hormone (FSH) stimulates ovarian follicular growth in women who do not have primary ovarian failure. FSH, the active component of urofollitropin is the primary hormone responsible for follicular recruitment and development.",
+    "mechanism-of-action": "FSH binds to the follicle stimulating hormone receptor which is a G-coupled transmembrane receptor. Binding of the FSH to its receptor seems to induce phosphorylation and activation of the PI3K (Phosphatidylinositol-3-kinase) and Akt signaling pathway, which is known to regulate many other metabolic and related survival/maturation functions in cells.",
+    "absorption": "74%",
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "FSHR",
+            "Follicle-stimulating hormone receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

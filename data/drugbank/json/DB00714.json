@@ -1,0 +1,211 @@
+{
+    "pharmgkb_id": "PA164781163",
+    "drugbank_id": "DB00714",
+    "names": [
+        "Apomorphine",
+        "Ixense",
+        "Spontane",
+        "Uprima"
+    ],
+    "description": "Apomorphine is a non-ergoline dopamine D2 agonist indicated to treat hypomobility associated with Parkinson's. It was first synthesized in 1845 and first used in Parkinson's disease in 1884.[A203618] Apomorphine has also been investigated as an emetic, a sedative, a treatment for alcoholism, and a treatment of other movement disorders.[A203597,A203618]\r\n\r\nApomorphine was granted FDA approval on 20 April 2004.[L13919]",
+    "indication": "Apomorphine is indicated to treat acute, intermittent treatment of hypomobility, off episodes associated with advanced Parkinson's disease.[L13919,L13922]",
+    "pharmacodynamics": "Apomorphine is a dopaminergic agonist that may stimulate regions of the brain involved in motor control.[A203594,L13919,L13922] It has a short duration of action and a wide therapeutic index as large overdoses are necessary for significant toxicity.[L13919,L13922] Patients should be counselled regarding the risk of nausea, vomiting, daytime somnolence, hypotension, oral mucosal irritation, falls, hallucinations, psychotic-like behaviour, impulsive behaviour, withdrawal hyperpyrexia, and prolongation of the QT interval.[L13919,L13922]\r\n\r\nGiven the incidence of nausea and vomiting in patients taking apomorphine, treatment with [trimethobenzamide] may be recommended prior to or during therapy. Antiemetic pretreatment may be started three days prior to beginning therapy with apomorphine - it should only be continued as long as is necessary and generally for no longer than two months.[L41915]",
+    "mechanism-of-action": "Apomorphine is a non-ergoline dopamine agonist with high binding affinity to dopamine D2, D3, and D5 receptors.[L13919,L13922] Stimulation of D2 receptors in the caudate-putamen, a region of the brain responsible for locomotor control, may be responsible for apomorphine's action.[A203594] However, the means by which the cellular effects of apomorphine treat hypomobility of Parkinson's remain unknown.[L13919,L13922]",
+    "absorption": "Apomorphine has a plasma T<sub>max</sub> of 10-20 minutes and a cerebrospinal fluid T<sub>max</sub>.[A203549] The C<sub>max</sub> and AUC of apomorphine vary significantly between patients, with 5- to 10-fold differences being reported.[A203549,A203405]",
+    "metabolism": "Apomorphine is N-demethylated by CYP2B6, 2C8, 3A4, and 3A5.[L13919] It can be glucuronidated by various UGTs,[L13919] or sulfated by SULTs 1A1, 1A2, 1A3, 1E1, and 1B1.[A203447] Approximately 60% of sublingual apomorphine is eliminated as a sulfate conjugate, though the structure of these sulfate conjugates are not readily available.[A203447,L13919] The remainder of an apomorphine dose is eliminated as apomorphine glucuronide and norapomorphine glucuronide.[L13919] Only 0.3% of subcutaneous apomorphine is recovered as the unchanged parent drug.[A203402]",
+    "toxicity": "Patients experiencing an overdose of apomorphine may present with nausea, hypotension, and loss of consciousness.[L13919] Treat patients with symptomatic and supportive measures.\r\n\r\nThe intraperitoneal LD<sub>50</sub> in mice is 145\u00b5g/kg.[L14012]",
+    "targets": [
+        [
+            "DRD4",
+            "Dopamine D4 receptor",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "DRD5",
+            "Dopamine D5 receptor",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine receptor 2B",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HTR1D",
+            "5-hydroxytryptamine receptor 1D",
+            "Humans"
+        ],
+        [
+            "HTR1B",
+            "5-hydroxytryptamine receptor 1B",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "COMT",
+            "Catechol O-methyltransferase",
+            "Humans"
+        ],
+        [
+            "SULT1A1",
+            "Sulfotransferase 1A1",
+            "Humans"
+        ],
+        [
+            "SULT1A2",
+            "Sulfotransferase 1A2",
+            "Humans"
+        ],
+        [
+            "SULT1A3",
+            "Sulfotransferase 1A3/1A4",
+            "Humans"
+        ],
+        [
+            "SULT1E1",
+            "Estrogen sulfotransferase",
+            "Humans"
+        ],
+        [
+            "SULT1B1",
+            "Sulfotransferase family cytosolic 1B member 1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC18A2",
+            "Synaptic vesicular amine transporter",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

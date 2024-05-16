@@ -1,0 +1,45 @@
+{
+    "pharmgkb_id": "PA450601",
+    "drugbank_id": "DB00716",
+    "names": [
+        "Nedocromil"
+    ],
+    "description": "A pyranoquinolone derivative that inhibits activation of inflammatory cells which are associated with asthma, including eosinophils, neutrophils, macrophages, mast cells, monocytes, and platelets.",
+    "indication": "For the treatment of mild to moderate asthma",
+    "pharmacodynamics": "Nedocromil is a anti-inflammatory agent and can be administered directly to the bronchial mucosa. It has significant inhibitory effect on allergen-induced early and late asthmatic reactions and on bronchial hyperresponsiveness.",
+    "mechanism-of-action": "Nedocromil has been shown to inhibit the in vitro activation of, and mediator release from, a variety of inflammatory cell types associated with asthma, including eosinophils, neutrophils, macrophages, mast cells, monocytes, and platelets. Nedocromil inhibits activation and release of inflammatory mediators such as histamine, prostaglandin D2 and leukotrienes c4 from different types of cells in the lumen and mucosa of the bronchial tree. These mediators are derived from arachidonic acid metabolism through the lipoxygenase and cyclo-oxygenase pathways. The mechanism of action of nedocromil may be due partly to inhibition of axon reflexes and release of sensory neuropeptides, such as substance P, neurokinin A, and calcitonin-gene&ntilde;related peptides. The result is inhibition of bradykinin-induced bronchoconstriction. Nedocromil does not posess any bronchodilator, antihistamine, or corticosteroid activity.",
+    "absorption": "Low",
+    "metabolism": "Nedocromil is not metabolized after IV administration and is excreted unchanged.",
+    "toxicity": "Side effects include headache, nasal congestion, ocular burning, irritation and stinging, unpleasant taste, cough, difficulty breathing, noisy breathing, shortness of breath, tightness in chest, wheezing, conjunctivitis, blurred vision, change in color vision, difficulty seeing at night, increased sensitivity of eyes to sunlight.",
+    "targets": [
+        [
+            "CYSLTR1",
+            "Cysteinyl leukotriene receptor 1",
+            "Humans"
+        ],
+        [
+            "CYSLTR2",
+            "Cysteinyl leukotriene receptor 2",
+            "Humans"
+        ],
+        [
+            "FPR1",
+            "fMet-Leu-Phe receptor",
+            "Humans"
+        ],
+        [
+            "PTGDR",
+            "Prostaglandin D2 receptor",
+            "Humans"
+        ],
+        [
+            "HSP90AA1",
+            "Heat shock protein HSP 90-alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

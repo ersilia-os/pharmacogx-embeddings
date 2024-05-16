@@ -1,0 +1,42 @@
+{
+    "pharmgkb_id": "PA164781042",
+    "drugbank_id": "DB00301",
+    "names": [
+        "Flucloxacillin",
+        "Flopen",
+        "Floxapen",
+        "Fluclox",
+        "Softapen",
+        "Staphylex"
+    ],
+    "description": "Antibiotic analog of [cloxacillin].",
+    "indication": "Used to treat bacterial infection by susceptible microorganisms.",
+    "pharmacodynamics": "Flucloxacillin is a penicillin beta-lactam antibiotic used in the treatment of bacterial infections caused by susceptible, usually gram-positive, organisms. The name \"penicillin\" can either refer to several variants of penicillin available, or to the group of antibiotics derived from the penicillins. Flucloxacillin has <i>in vitro</i> activity against gram-positive and gram-negative aerobic and anaerobic bacteria. The bactericidal activity of Flucloxacillin results from the inhibition of cell wall synthesis and is mediated through flucloxacillin binding to penicillin binding proteins (PBPs). Flucloxacillin is stable against hydrolysis by a variety of beta-lactamases, including penicillinases, and cephalosporinases and extended spectrum beta-lactamases.",
+    "mechanism-of-action": "By binding to specific penicillin-binding proteins (PBPs) located inside the bacterial cell wall, flucloxacillin inhibits the third and last stage of bacterial cell wall synthesis. Cell lysis is then mediated by bacterial cell wall autolytic enzymes such as autolysins; it is possible that flucloxacillin interferes with an autolysin inhibitor.",
+    "absorption": "Bioavailability is 50\u201370% following oral administration.",
+    "metabolism": "Hepatic.",
+    "toxicity": null,
+    "targets": [
+        [
+            "pbpA",
+            "Penicillin-binding protein 1A",
+            "Clostridium perfringens (strain 13 / Type A)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

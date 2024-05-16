@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA452619",
+    "drugbank_id": "DB01452",
+    "names": [
+        "Diamorphine"
+    ],
+    "description": "Diamorphine (heroin) is a narcotic analgesic that may be habit-forming. It is a controlled substance (opium derivative) listed in the U.S. Code of Federal Regulations, Title 21 Parts 329.1, 1308.11 (1987). Sale is forbidden in the United States by Federal statute. (Merck Index, 11th ed) Internationally, diamorphine is controlled under Schedules I and IV of the Single Convention on Narcotic Drugs. As heroin, it is illegal to manufacture, possess, or sell in the United States and the UK. However, under the name diamorphine, heroin is a legal prescription drug in the United Kingdom.",
+    "indication": "Diamorphine, as a prescription medication in the United Kingdom, is indicated for use in the treatment of severe pain associated with surgical procedures, myocardial infarction or pain in the terminally ill and for the relief of dyspnoea in acute pulmonary edema [L4999].",
+    "pharmacodynamics": "The onset of heroin's effects is dependent on the method of administration. Taken orally, heroin is totally metabolized in vivo via extensive first-pass metabolism into morphine before crossing the blood-brain barrier; so the effects are the same as orally administered morphine [L4996, L4999]. Take by injection, diamorphine's acetyl groups facilitate rapid crossing into the brain [L4996, L4999]. Once in the brain, heroin is rapidly metabolized into morphine by removal of the acetyl groups, therefore making it a prodrug for the delivery of morphine [L4996, L4999]. Subsequently, whether eliciting actions peripherally (on smooth muscle, skeletal muscle, kidney, lung, liver, or spleen tissue [L4996], for example) or on the central nervous system, it is ultimately the morphine metabolite of heroin that then binds with opioid receptors and produces the narcotic opioid effects commonly associated with the substance [L4996, L4999].",
+    "mechanism-of-action": "When administered orally, diamorphine experiences extensive first-pass metabolism by way of deacetylation to generate the active metabolites 6-monoacetylmorphine (6-MAM) and morphine [L4996, L4999]. Alternatively, when given as an injection the acetyl groups present in the diamorphine/diacetylmorphine compound confer the substance lipophilicity that facilitates diamorphine's rapid crossing of the blood-brain-barrier [L4996, L4999]. Once in the brain, diamorphine is metabolised via deacetylation to the active 6-MAM and morphine metabolites as well [L4996, L4999]. Despite diamorphine possessing little to no opioid agonist activity itself, its rapid transit across the blood-brain-barrier elicits a far faster onset of activity in comparison to the extensive first-pass metabolism of oral administration [L4996, L4999]. Regardless, the metabolism of diamorphine to morphine makes heroin a prodrug for the delivery of morphine [L4996, L4999].\r\n\r\nMorphine is subsequently a mu-opioid agonist. It acts on endogenous mu-opioid receptors that are spread in discrete packets throughout the brain, spinal cord and gut in almost all mammals [A2476]. Morphine, along with other opioids, are agonists to four endogenous neurotransmitters [A2476]. They are beta-endorphin, dynorphin, leu-enkephalin, and met-enkephalin [A2476]. The body responds to morphine in the brain by reducing (and sometimes stopping) production of the endogenous opioids when morphine is present [A2476]. Endorphins are regularly released in the brain and nerves, attenuating pain. Their other functions are still obscure, but are probably related to the effects produced by morphine besides analgesia (antitussin, anti-diarrheal) [A2476].\r\n\r\nNevertheless, morphine ultimately elicits the majority of its analgesic activity by binding to mu opioid receptors in both the central and peripheral nervous systems [L5005]. The overall effect of morphine is activation of descending inhibitory pathways of the central nervous system as well as inhibition of nociceptive afferent neurons of the peripheral nervous system, which results in an overall reduction of the nociceptive pain transmission [L5005]. ",
+    "absorption": "Bioavailability is less than 35% when orally administered [A173668]. In particular, some studies have determined that the bioavailability of orally administered diamorphine could be as low as 22.9% (16.4-29.4%) on average in opioid-naive subjects [A173683].\r\n\r\nNevertheless, diamorphine administered by any many medically indicated routes of administration leads to a rapid absorption [L4996]. Peak serum levels are achieved five to ten minutes subcutaneously, three to five minutes intranasally and intramuscularly, and less than one minute intravenously [L4996].",
+    "metabolism": "Once administered into the body, diamorphine undergoes deacetylation via various esterase enzymes to generate active metabolites like 6-monoacetylmorphine and morphine [L4996, L4999]. In particular, when administered orally, diamorphine undergoes extensive first pass metabolism [L4996, L4999].",
+    "toxicity": "Overdosage with diamorphine well characterised by a number of symptoms including respiratory depression, pulmonary oedema, muscle flaccidity, coma or stupor, constricted pupils, cold, clammy skin and occasionally bradycardia and hypotension [L4996, L4999]. The antidote for heroin overdose or poisoning is naloxone [L4996].",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": [
+        [
+            "SERPINA7",
+            "Thyroxine-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

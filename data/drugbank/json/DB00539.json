@@ -1,0 +1,48 @@
+{
+    "pharmgkb_id": "PA451731",
+    "drugbank_id": "DB00539",
+    "names": [
+        "Toremifene",
+        "Acapodene"
+    ],
+    "description": "Toremifene is a selective estrogen receptor modulator (SERM) and a nonsteroidal antiestrogen used to treat estrogen receptor positive breast cancer.[A256923] Like [tamoxifen], toremifene is part of the first-generation triphenylethylene derivative chemical class of SERMs.[A256928]\r\n\r\nToremifene possesses tissue-specific actions: it has estrogenic (agonist) activity on the cardiovascular system and on bone tissue and it has weak estrogenic effects on uterine tissue, however, it also has antiestrogenic (estrogen-antagonist) activity on breast tissue.[A256923]",
+    "indication": "For the treatment of metastatic breast cancer in postmenopausal women with estrogen receptor-positive or receptor-unknown tumors. Toremifene is currently under investigation as a preventative agent for prostate cancer in men with high-grade prostatic intraepithelial neoplasia and no evidence of prostate cancer.",
+    "pharmacodynamics": "Toremifene is an antineoplastic hormonal agent primarily used in the treatment of advanced breast cancer. Toremifene is a nonsteroidal agent that has demonstrated potent antiestrogenic properties in animal test systems. The antiestrogenic effects may be related to its ability to compete with estrogen for binding sites in target tissues such as breast. Toremifene inhibits the induction of rat mammary carcinoma induced by dimethylbenzanthracene (DMBA) and causes the regression of already established DMBA-induced tumors. In this rat model, Toremifene appears to exert its antitumor effects by binding the estrogen receptors. In cytosols derived from human breast adenocarcinomas, Toremifene competes with estradiol for estrogen receptor protein.",
+    "mechanism-of-action": "Toremifene is a nonsteroidal triphenylethylene derivative. Toremifene binds to estrogen receptors and may exert estrogenic, antiestrogenic, or both activities, depending upon the duration of treatment, animal species, gender, target organ, or endpoint selected. The antitumor effect of toremifene in breast cancer is believed to be mainly due to its antiestrogenic effects, in other words, its ability to compete with estrogen for binding sites in the cancer, blocking the growth-stimulating effects of estrogen in the tumor. Toremifene may also inhibit tumor growth through other mechanisms, such as induction of apoptosis, regulation of oncogene expression, and growth factors.",
+    "absorption": "Well absorbed",
+    "metabolism": "Hepatic. Mainly by CYP3A4 to N-demethyltoremifene, which exhibits antiestrogenic effects but has weak antitumor potency in vivo.",
+    "toxicity": null,
+    "targets": [
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ],
+        [
+            "SHBG",
+            "Sex hormone-binding globulin",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

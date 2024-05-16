@@ -1,0 +1,147 @@
+{
+    "pharmgkb_id": "PA449088",
+    "drugbank_id": "DB00318",
+    "names": [
+        "Codeine",
+        "Actacode",
+        "Bisoltus",
+        "Bromophar",
+        "Bronchicum",
+        "Bronchodine",
+        "Codant",
+        "Codedrill",
+        "Codein",
+        "Codeisan",
+        "Coderpina",
+        "Codicalm",
+        "Codicept",
+        "Codinex",
+        "Coducept",
+        "Cougel",
+        "Coutan",
+        "Dinco",
+        "Farmacod",
+        "Galcodine",
+        "Pectoral",
+        "Tussoret"
+    ],
+    "description": "The relief of pain (analgesia) is a primary goal for enhancing the quality of life of patients and for increasing the ability of patients to engage in day to day activities. Codeine, an opioid analgesic, was originally approved in the US in 1950 and is a drug used to decrease pain by increasing the threshold for pain without impairing consciousness or altering other sensory functions. Opiates such as codeine are derived from the poppy plant, _Papaver somniferum_ (Papaveraceae).[A175096]\r\n\r\nCodeine is utilized as a central analgesic, sedative, hypnotic, antinociceptive, and antiperistaltic agent, and is also recommended in certain diseases with incessant coughing.[LABEL,A175096]",
+    "indication": "Codeine sulfate is a form of this drug that is commonly used. It is available in tablet form [FDA label] and indicated for the relief of mild to moderately severe pain, where the use of an opioid analgesic is appropriate [FDA label].\r\n\r\nThe solution form is used by itself or combined in a syrup with other drugs and is used as a cough suppressant in adults aged 18 and above [L5521], [L5524]. ",
+    "pharmacodynamics": "**General effects**\r\n\r\nCodeine is a weak narcotic pain reliever and cough suppressant that is similar to morphine and hydrocodone. A small amount of ingested codeine is converted to morphine in the body. Codeine increases tolerance to pain, reducing existing discomfort. In addition to decreasing pain, codeine also causes sedation, drowsiness, and respiratory depression [A175096]. \r\n\r\n**Antitussive activity**\r\n\r\nThis drug has shown antitussive activity in clinical trials [A175102] and has been effective in cough secondary to tuberculosis and insomnia due to coughing [A175096]. Codeine suppresses the cough reflex through a direct effect on the cough center in the medulla [F3658].\r\n\r\n**Effects on intestinal motility**\r\n\r\nCodeine may reduce intestinal motility through both a local and possibly central mechanism of action [F3661]. This may possibly lead to constipation [F3658]. The chronic use of opioids, including codeine sulfate, may lead to obstructive bowel disease, particularly in patients with underlying disorders of intestinal motility [FDA label]. \r\n\r\n**Effects on the central nervous system**\r\n\r\nCodeine phosphate is an opioid analgesic with uses similar to those of morphine, but is much less potent as an analgesic. Its primary site of action is at the _mu_ opioid receptors distributed throughout the central nervous system. The sedative activities of codeine are less potent than those of morphine [F3658]. Codeine may cause respiratory system depression by the activation of \u03bc-opioid receptors at specific sites in the central nervous system [A175108].\r\n\r\n**Effects on blood pressure**\r\n\r\nThis drug poses an increased risk of compromised ability to maintain blood pressure due to peripheral vasodilation and other mechanisms [FDA label]. \r\n\r\n**Effects on chronic cancer pain and other types of pain**\r\n\r\nCodeine is an opioid analgesic with similar indications to those of morphine, however, is much less potent in its pain alleviating properties. Its primary action takes place at the mu opioid receptors, which are distributed throughout the central nervous system. The average duration of action is about 4 hours [F3658].\r\n\r\nRegular dosing of opioid analgesics such as codeine in patients with severe cancer pain has been well documented to improve symptoms [A175096], [A175105].",
+    "mechanism-of-action": "Although the exact mechanism of action of codeine is still unknown, it is generally thought to be mediated through the agonism of opioid receptors, particularly the mu-opioid receptors.[A175096] Morphine was previously postulated to contribute to the analgesic effect of codeine due to the O-demethylation of codeine to morphine by CYP2D6. Particularly, CYP2D6 poor metabolizer did not experience the analgesic effect of codeine.[A473,A261461] However, this is unlikely to be the main mechanism of action of codeine as only 5% of codeine is metabolized to morphine.[A473] Other hypotheses also postulate that codeine-6-glucuronide, the main metabolite of codeine, mediates the analgesic effect of codeine as it not only has an affinity to the mu receptors as codeine but also can be metabolized to morphine-6-glucuronide, which was observed to be more potent than morphine.[A474] \r\n\r\nBinding to the mu receptors by codeine activates the G-proteins G\u03b1<sub>i</sub>, causing a decrease in intracellular cAMP and Ca<sup>2+</sup> level.[A179533,A261466] This causes hyperpolarization of nociceptive neurons, thus imparing the transmission of pain signals.[A179533,A261466]\r\n\r\n",
+    "absorption": "**Absorption**\r\n\r\nCodeine is absorbed from the gastrointestinal tract. The maximum plasma concentration occurs 60 minutes after administration [FDA label]. \r\n\r\n**Food Effects**\r\n\r\nWhen 60 mg codeine sulfate was given 30 minutes post-ingestion of a high high-calorie meal, there was no significant change in the absorption of codeine [FDA label].\r\n\r\n**Steady-state concentration**\r\n\r\nThe administration of 15 mg codeine sulfate every 4 hours for 5 days lead to steady-state concentrations of codeine, morphine, morphine-3-glucuronide (M3G) and morphine-6-glucuronide (M6G) within 48 hours [FDA label]. \r\n",
+    "metabolism": "Approximately 70 to 80% of the ingested dose of codeine is metabolized in the liver by conjugation with glucuronic acid to _codeine-6\u00ad glucuronide_ (C6G) and by O-demethylation to _morphine_ (about 5-10%) and N-demethylation to _norcodeine_ (about 10%) respectively. UDP-glucuronosyltransferase (UGT) 2B7 and 2B4 are the major metabolic enzymes mediating the glucurodination of codeine to the metabolite, _codeine 6 glucuronide_. \r\n\r\nCytochrome P450 2D6 is the major enzyme responsible for the transformation of codeine to morphine and P450 3A4 is the main enzyme mediating the conversion of codeine to _norcodeine_. Morphine and norcodeine are then further metabolized by conjugation with glucuronic acid. The glucuronide metabolites of morphine are _morphine-3-glucuronide_ (M3G) and_ morphine-6-glucuronide _(M6G). Morphine and M6G have been proven to have analgesic activity in humans. The analgesic activity of C6G in humans is not known at this time. Norcodeine and M3G are generally not considered to have analgesic properties [FDA label]. ",
+    "toxicity": "**Oral LD50**: 427 mg kg-1 (rat) [MSDS]. \r\n\r\n**Overdose/toxicity**\r\n\r\nSymptoms of opioid toxicity may include confusion, somnolence, shallow breathing, constricted pupils, nausea, vomiting, constipation and a lack of appetite. In severe cases, symptoms of circulatory and respiratory depression may ensue, which may be life-threatening or fatal [L5506], [FDA label]. \r\n\r\n**Teratogenic effects**\r\n\r\nThis drug is classified as a pregnancy Category C drug. There are no adequate and well-controlled studies completed in pregnant women. Codeine should only be used during pregnancy if the potential benefit outweighs the potential risk of the drug to the fetus [FDA label]. \r\n\r\nCodeine has shown embryolethal and fetotoxic effects in the hamster, rat as well as mouse models at about 2-4 times the maximum recommended human dose [FDA label]. Maternally toxic doses that were about 7 times the maximum recommended human dose of 360 mg/day, were associated with evidence of bone resorption and incomplete bone ossification. Codeine did not demonstrate evidence of embrytoxicity or fetotoxicity in the rabbit model at doses up to 2 times the maximum recommended human dose of 360 mg/day based on a body surface area comparison [FDA label]. \r\n\r\n**Nonteratogenic effects**\r\n\r\nNeonatal codeine withdrawal has been observed in infants born to addicted and non-addicted mothers who ingested codeine-containing medications in the days before delivery. Common symptoms of narcotic withdrawal include irritability, excessive crying, tremors, hyperreflexia, seizures, fever, vomiting, diarrhea, and poor feeding. These signs may be observed shortly following birth and may require specific treatment [FDA label]. \r\n \r\nCodeine (30 mg/kg) given subcutaneously to pregnant rats during gestation and for 25 days after delivery increased the rate of neonatal mortality at birth. The dose given was 0.8 times the maximum recommended human dose of 360 mg/day [FDA label]. \r\n\r\n**The use in breastfeeding/nursing**\r\n\r\nCodeine is secreted into human milk. The maternal use of codeine can potentially lead to serious adverse reactions, including death, in nursing infants [FDA label]. ",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferase 2B4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00318",
+            "Drug Name": "Codeine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "Patients with this genotype have reduced metabolism of codeine."
+        },
+        {
+            "DrugBank ID": "DB00318",
+            "Drug Name": "Codeine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "Patients with this genotype have reduced metabolism of codeine."
+        },
+        {
+            "DrugBank ID": "DB00318",
+            "Drug Name": "Codeine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "Patients with this genotype have reduced metabolism of codeine."
+        },
+        {
+            "DrugBank ID": "DB00318",
+            "Drug Name": "Codeine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs35742686",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 results in non-functioning enzyme variant and may be associated with reduced drug mtabolism or reduced therapeutic response when treated with codeine."
+        },
+        {
+            "DrugBank ID": "DB00318",
+            "Drug Name": "Codeine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with poor metabolism of codeine."
+        },
+        {
+            "DrugBank ID": "DB00318",
+            "Drug Name": "Codeine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": null,
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with poor metabolism of codeine and lack of therapeutic response from codeine."
+        },
+        {
+            "DrugBank ID": "DB00318",
+            "Drug Name": "Codeine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs5030655",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 is associated with poor metabolism of codeine."
+        },
+        {
+            "DrugBank ID": "DB00318",
+            "Drug Name": "Codeine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1135824",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 results in non-functioning enzyme variant and may be associated with reduced therapeutic response when treated with codeine."
+        },
+        {
+            "DrugBank ID": "DB00318",
+            "Drug Name": "Codeine",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs28371733",
+            "Effect Description": "The presence of this polymorphism in CYP2D6 results in non-functioning enzyme variant and may be associated with reduced therapeutic response when treated with codeine."
+        }
+    ]
+}

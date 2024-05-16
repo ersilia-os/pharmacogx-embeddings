@@ -1,0 +1,69 @@
+{
+    "pharmgkb_id": "PA450121",
+    "drugbank_id": "DB01064",
+    "names": [
+        "Isoprenaline",
+        "Proternol L",
+        "Saventrine"
+    ],
+    "description": "Isoprenaline is a non-selective beta adrenergic receptor agonist indicated to treat heart block, Adams-Stokes attacks, bronchospasm in anesthesia, cadiac arrest, hypovolemic shocks, septic shock, hypoperfusion, congestive hear failure, and cardiogenic shock.[A15638,L33160]\r\n\r\nIsoprenaline research in the 1940s found that this isopropyl analog of epinephrine dilated the bronchi, as well as raising the heart rate and cardiac output, without vasoconstriction.[A233724,A233729] The US patent from 1943 states that this compound had a wider therapeutic index and a stronger action than [adrenaline].[L33204]\r\n\r\nIsoprenaline was granted FDA approval on 19 February 1948.[L33155]",
+    "indication": "Isoprenaline is indicated to treat mild or transient episodes of heart block not requiring electric shock or pacemakers, serious episodes of heart block and Adams-Stokes attacks not caused by ventricular tachycardia or fibrillation, and bronchospasm during anesthesia.[L33160] Isoprenaline is also indicated for cases of cardiac arrest until preferable treatments like electric shock and pacemakers are available.[L33160] Isoprenaline is also indicated as an adjunct therapy to fluid and electrolyte replacement therapy in hypovolemic shock, septic shock, hypoperfusion, congestive heart failure, and cardiogenic shock.[L33160]",
+    "pharmacodynamics": "Isoprenaline is a non-selective beta adrenergic receptor agonist used in a number of indications for the heart, as well as bronchospasm in anesthesia.[A15638,L33160] Isoprenaline has a short duration of action as it is rapidly cleared,[A233699,A233689] and a wide therapeutic index.[L33160] Patients should be counselled regarding the risks of isoprenaline in the treatment of cardiogenic shock following myocardial infarction, paradoxical worsening of heart block, or precipitation of Adams-Stokes attacks.[L33160]",
+    "mechanism-of-action": "Isoprenaline is a non-selective beta adrenergic receptor agonist.[A15638] Agonism of beta-1 and beta-2 adrenergic receptors causes the alpha subunit of G-protein coupled receptors to exchange GMP for GTP, activating them, and allowing the alpha subunit to dissociate from the beta and gamma subunits.[A233584,A233644] Dissociation of the alpha subunit activates adenylate cyclase, converting ATP to cyclic AMP.[A233584] Cyclic AMP activates protein kinase A (PKA), which phosphorylates cardiac L-type calcium channels such as Ca<sub>v</sub>1.2.[A233584,A233629,A233644] These channels depolarize cells by inward active transport of calcium ions.[A233629,A233644]\r\n\r\nAgonism of beta-1 adrenergic receptors lead to increased strength of contractility, conduction of nerve impulses, speed of relaxation, and rate in the heart.[A233584] \r\n\r\nAgonism of beta-2 adrenergic receptors leads to glycogenolysis in the liver,[A233649] glucagon release from the pancreas, and activation of the renin-angiotensin-aldosterone system.[A233584]\r\n\r\nIn the alveoli, agonism of beta-2 adrenergic receptors, activates similar pathways to the heart, however the end result is regulation of sodium channels, the cystic fibrosis transmembrane conductance regulator (CFTR), and sodium potassium ATPase.[A233714] PKA phosphorylates scaffolding proteins and sodium channels, increasing the number of sodium channels on the apical side of alveolar cells and increasing active transport of sodium ions into cells.[A233714] Agonism of beta-2 adrenergic receptors can also increase chloride ion transport across CFTR.[A233714] Together, these actions lead to passive transport of water out of the alveoli, and the clearance of alveolar fluid.[A233714]",
+    "absorption": "Data regarding absorption kinetics of isoprenaline are not readily available.[A233699,A233689]",
+    "metabolism": "Isoprenaline is predominantly metabolized to glucuronide conjugates.[A233664] Isoprenaline can also be O-methylated by catechol O-methyltransferase to the metabolite 3-O-methylisoprenaline, which can also be further glucuronidated.[A233664]",
+    "toxicity": "Patients experiencing an overdose may present with tachycardia, arrhythmias, palpitations, angina, hypotension, or hypertension.[L33160] Overdose should be treated by reducing or stopping administration of isoprenaline and monitoring blood pressure, pulse, respiration, and ECG.[L33160]\r\n\r\nIn rats, the LD<sub>50</sub> is 2221 mg/kg orally, 128 mg/kg intraperitoneally, and 600 mg/kg subcutaneously.[L33189] In mice, the LD<sub>50</sub> is 1260 orally and 450 mg/kg intraperitoneally.[L33189]",
+    "targets": [
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB3",
+            "Beta-3 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "SOD1",
+            "Superoxide dismutase [Cu-Zn]",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "COMT",
+            "Catechol O-methyltransferase",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

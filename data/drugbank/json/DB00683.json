@@ -1,0 +1,223 @@
+{
+    "pharmgkb_id": "PA450496",
+    "drugbank_id": "DB00683",
+    "names": [
+        "Midazolam",
+        "Anquil",
+        "Benzosed",
+        "Dalam",
+        "Damizol",
+        "Demizolam",
+        "Doricum",
+        "Dormicum",
+        "Dormid",
+        "Dormipron",
+        "Dormire",
+        "Dormitol",
+        "Dormixal",
+        "Dormonid",
+        "Drimnorth",
+        "Epistatus",
+        "Flormidal",
+        "Fulsed",
+        "Fulsed Injection",
+        "Garen",
+        "Gobbizolam",
+        "Hipnazolam",
+        "Hipnoz",
+        "Hypnofast",
+        "Hypnovel",
+        "Ipnovel",
+        "Nocturna",
+        "Setam",
+        "Talentum",
+        "Terap",
+        "Versed"
+    ],
+    "description": "Midazolam is a short-acting hypnotic-sedative drug with anxiolytic, muscle relaxant, anticonvulsant, sedative, hypnotic, and amnesic properties.[A173842] It belongs to a class of drugs called _benzodiazepines_. This drug is unique from others in this class due to its rapid onset of effects and short duration of action.[A173842] Midazolam is available by oral, rectal, intranasal, intramuscular (IM), and intravenous (IV) routes and has been used in various biomedical applications, including dentistry, cardiac surgery, and endoscopic procedures as pre-anesthetic medication, and as an adjunct to local anesthesia.[F2977]\r\n\r\nThis drug was initially approved by the US FDA in 1985, and has been approved for various indications since.[L45098] In late 2018, the intramuscular preparation was approved by the FDA for the treatment of status epilepticus in adults.[L45098] In May 2019, the nasal spray of midazolam was approved for the acute treatment of distinctive intermittent, stereotypic seizure episodes in patients 12 years of age and older.[A257153] Midazolam is considered a schedule IV drug in the United States due to the low potential for abuse and low risk of dependence.[L5074]",
+    "indication": "Midazolam has different indications depending on its formulation by the FDA. \r\n\r\n**Nasal** \r\n\r\nFor the nasal spray formulation, midazolam is indicated for the acute treatment of intermittent, stereotypic episodes of frequent seizure activity (i.e., seizure clusters, acute repetitive seizures) that are distinct from a patient\u2019s usual seizure pattern in patients with epilepsy 12 years of age and older.[L44773] \r\n\r\n**Intravenous** \r\n\r\nFor the intravenous injection formulation, midazolam is indicated as an agent for sedation/anxiolysis/amnesia and prior to or during diagnostic, therapeutic or endoscopic procedures, such as bronchoscopy, gastroscopy, cystoscopy, coronary angiography, cardiac catheterization, oncology procedures, radiologic procedures, suture of lacerations and other procedures either alone or in combination with other CNS depressants.[L12981] The sedative, anxiolytic and amnestic use of midazolam can also be employed pre-operatively.[L12981] It can also be indicated for induction of general anesthesia, before administration of other anesthetic agents or as a component of intravenous supplementation of nitrous oxide and oxygen for a balanced anesthesia.[L12981] A relatively narrower dose range of midazolam and a shorter period of induction can be achieved if midazolam is combined with narcotic premedication.[L12981] Finally, midazolam can be indicated as a continous intravenous infusion for sedation of intubated and mechanically ventilated patients as a component of anesthesia or during treatment in a critical care setting.[L12981]\r\n\r\n**Intramuscular** \r\n\r\nFor the intramusuclar injection formulation, midazolam is indicated for preoperative sedation/anxiolysis/amnesia or for treatment of status epilepticus in adults.[L12981,L45048]\r\n\r\n**Oral**\r\n\r\nMidazolam syrup is indicated for use in pediatric patients for sedation, anxiolysis and amnesia prior to diagnostic, therapeutic or endoscopic procedures or before induction of anesthesia. It is only approved in monitored settings only and not for chronic or home use.[L5092]\r\n\r\nIn Europe, a buccal formulation of midazolam is also approved for the treatment of prolonged, acute, convulsive seizures in infants, toddlers, children and adolescents (from 3 months to < 18 years). For infants between 3-6 months of age treatment should be in a hospital setting where monitoring is possible and resuscitation equipment is available.[L45053]\r\n",
+    "pharmacodynamics": "**General effects**\r\n\r\nMidazolam is a short-acting benzodiazepine central nervous system (CNS) depressant. Pharmacodynamic properties of midazolam and its metabolites, which are similar to those of other benzodiazepine drugs, include sedative, anxiolytic, amnestic, muscle relaxant, as well as hypnotic activities.[F2434] Benzodiazepines enhance the inhibitory action of the amino acid neurotransmitter gamma-aminobutyric acid (GABA).  Receptors for GABA are targeted by many important drugs that affect GABA function and are commonly used in the treatment of anxiety disorder, epilepsy, insomnia, spasticity, and aggressive behavior.[A173854]\r\n\r\n**Sedation and memory**\r\n\r\nThe onset of sedation after intramuscular administration in adults is 15 minutes, with maximal sedation occurring 30-60 minutes after injection.[FDA label] In one study of adults, when tested the following day, 73% of the patients who were administered midazolam intramuscularly had no recollection of memory cards shown 30 minutes following drug administration; 40% had no recollection of the memory cards shown 60 minutes after drug administration. Onset time of sedative effects in pediatric patients begins within 5 minutes and peaks at 15-30 minutes depending upon the dose administered. In the pediatric population, up to 85% had no memory of pictures shown after receiving intramuscular midazolam compared to 5% of the placebo control group.[F2434]\r\n\r\nSedation in both adult and pediatric patients is reached within 3 to 5 minutes post intravenous (IV) injection. The time of onset is affected by the dose administered and the simultaneous administration of narcotic pre-medication. Seventy-one (71%) percent of the adult patients in clinical endoscopy studies had no memory of insertion of the endoscope; 82% of the patients had no memory of withdrawal of the endoscope.[L12981]\r\n\r\n**Anesthesia induction**\r\n\r\nWhen midazolam is administered intravenously (IV) for anesthetic induction, induction of anesthesia occurs in about 1.5 minutes when narcotic pre-medication has been given and in 2 to 2.5 minutes without narcotic pre-medication/ other sedative pre-medication. Impairment in a memory test was observed in 90% of the patients.[L12981]",
+    "mechanism-of-action": "The actions of benzodiazepines such as midazolam are mediated through the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), which is one of the major inhibitory neurotransmitters in the central nervous system. Benzodiazepines increase the activity of GABA, thereby producing a sedating effect, relaxing skeletal muscles, and inducing sleep, anesthesia, and amnesia. Benzodiazepines bind to the benzodiazepine site on GABA-A receptors, which potentiates the effects of GABA by increasing the frequency of chloride channel opening.[F2434] These receptors have been identified in different body tissues including the heart and skeletal muscle, although mainly appear to be present in the central nervous system.[A173842]",
+    "absorption": "**Intramuscular**  \r\n\r\nFollowing IM administration of a single 10 mg midazolam dose to healthy subjects, midazolam was absorbed with median T<sub>max</sub> (range) of 0.5 (0.25 to 0.5) hours; midazolam's mean (\u00b1SD) C<sub>max</sub> and AUC<sub>0-\u221e</sub> were 113.9 (\u00b130.9) ng/mL and 402.7 (\u00b197.0) ng\u2219h/mL, respectively.[L45048] \r\n\r\n\r\n**Rectal**\r\n\r\nAfter rectal administration midazolam is absorbed rapidly. Maximum plasma concentration is reached within 30 minutes. The absolute bioavailability is approximately 50%.[F2977]\r\n\r\n\r\n**Intranasal Administration**\r\n\r\nFollowing the nasal administration of a single 5 mg midazolam dose to healthy adults, midazolam was absorbed with a median T<sub>max</sub> (range) of 17.3 (7.8 to 28.2) minutes; midazolam's mean (\u00b1SD) C<sub>max</sub> and AUC<sub>0-\u221e</sub> were 54.7 (\u00b130.4) ng/mL and 126.2 (\u00b159) ng\u2219h/mL, respectively. The mean absolute bioavailability is approximately 44%.[L44773] \r\n\r\n**Oral**\r\n\r\nIn pediatric patients from 6 months to <16 years old, the mean T<sub>max</sub> values across dose groups (0.25, 0.5, and 1.0 mg/kg) range from 0.17 to 2.65 hours. Midazolam also exhibits linear pharmacokinetics within this dose range (up to a maximum dose of 40 mg). Linearity was also demonstrated across the doses within the age group of 2 years to <12 years having 18 patients at each of the three doses. Due to first-pass metabolism, only 40-50% of the administered oral dose reaches the circulation.[A173842] The absolute bioavailability of midazolam is about 36%, which is not affected by pediatric age or weight. C<sub>max</sub> and AUC<sub>0-\u221e</sub> were also calculated to range from 28 to 201 ng/mL and 67.6 to 821 ng\u2219h/mL respectively.[L5092] \r\n\r\n**Buccal**   \r\n\r\nAfter oromucosal administration midazolam is absorbed rapidly. Maximum plasma concentration is reached within 30 minutes in children. The absolute bioavailability of oromucosal midazolam is about 75% in adults. The bioavailability of oromucosal midazolam has been estimated at 87% in children with severe malaria and convulsions. C<sub>max</sub> and AUC<sub>0-\u221e</sub> were also calculated to range from 87 to 148 ng/mL and 168 to 254 ng\u2219h/mL respectively.[L45053] \r\n",
+    "metabolism": "In vitro studies with human liver microsomes indicate that the biotransformation of midazolam is mediated by the cytochrome P450-3A4 (CYP3A4). This enzyme is present in gastrointestinal tract mucosa, as well as in the liver. The 1-hydroxy-midazolam (also termed alpha-hydroxymidazolam) metabolite comprises 60% to 70% of the biotransformation products of midazolam, while 4-hydroxy-midazolam constitutes 5% or less. Small amounts of a dihydroxy derivative have also been detected, but not quantified.[L45048] Midazolam also undergoes N-glucuronidation via UGT1A4 after the process of hepatic oxidation by cytochrome enzymes.[A173842]\r\n\r\nStudies of the intravenous administration of 1-hydroxy-midazolam in humans suggest that 1-hydroxymidazolam is at least as potent as the parent compound, and may contribute to the net pharmacologic activity of midazolam. In vitro studies have demonstrated that the affinities of 1- and 4-hydroxy-midazolam for the benzodiazepine receptor are approximately 20% and 7%, respectively, relative to midazolam.[L45048] \r\n\r\n",
+    "toxicity": "LD<sub>50</sub>=215 mg/kg, in rats.[MSDS]\r\n\r\n**Overdose**\r\n\r\nSigns of overdose include sedation, somnolence, confusion, impaired coordination, diminished reflexes, coma, and deleterious effects on vital signs.  Serious cardiorespiratory adverse reactions have occurred, sometimes ending in death or permanent neurologic effects, after the administration of midazolam.[FDA label]\r\n\r\n**A note on cardiac and respiratory depression**\r\n\r\nAfter administration of midazolam, continuous monitoring of respiratory and cardiac function is recommended until the patient is in stable condition. Serious and life-threatening cardiorespiratory adverse reactions, including hypoventilation, airway obstruction, apnea, and hypotension have been reported with the use of midazolam. Patients should be monitored in a setting with immediate access to resuscitative drugs if they are required. Resuscitation equipment and personnel trained in their use and skilled in airway management should be available when midazolam is administered.[FDA label]\r\n\r\nThe usual recommended intramuscular pre-medicating doses of midazolam do not depress the ventilatory response to carbon dioxide stimulation to a clinically significant extent in adults. Intravenous induction doses of midazolam depress the ventilatory response to carbon dioxide stimulation for at least 15 minutes longer than the duration of ventilatory depression following administration of thiopental in adults. Impairment of ventilatory response to carbon dioxide is more severe in adult patients diagnosed with chronic obstructive pulmonary disease (COPD).[F2434]\r\n\r\n**A note on dependence**\r\n\r\nWhen midazolam is used in long-term sedation in the ICU (intensive care unit) or other settings, physical dependence on midazolam may develop. The risk of dependence increases with dose and duration of treatment; this risk is also greater in patients with a medical history of substance abuse.[L5074]\r\n\r\n**Special caution should be exercised when administering midazolam in the following populations** \r\n\r\nHigh-risk patients include adults over 60 years of age, chronically ill or debilitated patients, which may include patients with chronic respiratory insufficiency, patients with chronic renal failure, impaired hepatic function or with impaired cardiac function, pediatric patients (especially those with cardiovascular instability). These high-risk patients require lower dosages and should be monitored on a continuous basis for early signs of alterations of vital functions, so that appropriate management may be administered.[L5074]\r\n\r\n**Mutagenesis**\r\n\r\nMidazolam was negative for genotoxicity during in vitro and in vivo assays.[FDA label]\r\n\r\n**Impairment of Fertility**\r\n\r\nWhen midazolam (0, 1, 4, or 16 mg/kg) was given orally to male and female rats before and during mating and continuing in females throughout gestation and lactation, no adverse effects on male or female fertility were observed. Midazolam plasma exposures (AUC) at the highest dose tested were approximately 6 times that in humans at the recomended human dose.[FDA label]",
+    "targets": [
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "ADORA2A",
+            "Adenosine receptor A2a",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferase 1-4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferase 2B4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC1A2",
+            "Excitatory amino acid transporter 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

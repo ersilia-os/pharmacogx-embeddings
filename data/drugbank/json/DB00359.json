@@ -1,0 +1,42 @@
+{
+    "pharmgkb_id": "PA451539",
+    "drugbank_id": "DB00359",
+    "names": [
+        "Sulfadiazine",
+        "Adiazine"
+    ],
+    "description": "One of the short-acting sulfonamides used in combination with pyrimethamine to treat toxoplasmosis in patients with acquired immunodeficiency syndrome and in newborns with congenital infections.",
+    "indication": "For the treatment of rheumatic fever and meningococcal meningitis",
+    "pharmacodynamics": "Sulfadiazine is a sulfonamide antibiotic. The sulfonamides are synthetic bacteriostatic antibiotics with a wide spectrum against most gram-positive and many gram-negative organisms. However, many strains of an individual species may be resistant. Sulfonamides inhibit multiplication of bacteria by acting as competitive inhibitors of <i>p</i>-aminobenzoic acid in the folic acid metabolism cycle. Bacterial sensitivity is the same for the various sulfonamides, and resistance to one sulfonamide indicates resistance to all. Most sulfonamides are readily absorbed orally. However, parenteral administration is difficult, since the soluble sulfonamide salts are highly alkaline and irritating to the tissues. The sulfonamides are widely distributed throughout all tissues. High levels are achieved in pleural, peritoneal, synovial, and ocular fluids. Although these drugs are no longer used to treat meningitis, CSF levels are high in meningeal infections. Their antibacterial action is inhibited by pus.",
+    "mechanism-of-action": "Sulfadiazine is a competitive inhibitor of the bacterial enzyme dihydropteroate synthetase. This enzyme is needed for the proper processing of para-aminobenzoic acid (PABA) which is essential for folic acid synthesis. The inhibited reaction is necessary in these organisms for the synthesis of folic acid.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": "Oral LD<sub>50</sub> in mouse is 1500 mg/kg.",
+    "targets": [
+        [
+            null,
+            "Dihydropteroate synthetase",
+            "Plasmodium falciparum"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

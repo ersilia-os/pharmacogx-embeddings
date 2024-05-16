@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA451605",
+    "drugbank_id": "DB00966",
+    "names": [
+        "Telmisartan"
+    ],
+    "description": "Telmisartan is an angiotensin II receptor antagonist (ARB) used in the management of hypertension. Generally, angiotensin II receptor blockers (ARBs) such as telmisartan bind to the angiotensin II type 1 (AT1) receptors with high affinity, causing inhibition of the action of angiotensin II on vascular smooth muscle, ultimately leading to a reduction in arterial blood pressure.[A1489,A1490] Recent studies suggest that telmisartan may also have PPAR-gamma agonistic properties that could potentially confer beneficial metabolic effects.[A1492]",
+    "indication": "Used alone or in combination with other classes of antihypertensives for the treatment of hypertension.[L44652] Also used in the treatment of diabetic nephropathy in hypertensive patients with type 2 diabetes mellitus, as well as the treatment of congestive heart failure (only in patients who cannot tolerate ACE inhibitors).[A255892]",
+    "pharmacodynamics": "Telmisartan is an orally active nonpeptide angiotensin II antagonist that acts on the AT<sub>1</sub> receptor subtype. It has the highest affinity for the AT<sub>1</sub> receptor among commercially available ARBs and has minimal affinity for the AT<sub>2</sub> receptor.[L44652] New studies suggest that telmisartan may also have PPAR&gamma; agonistic properties that could potentially confer beneficial metabolic effects, as PPAR&gamma; is a nuclear receptor that regulates specific gene transcription, and whose target genes are involved in the regulation of glucose and lipid metabolism, as well as anti-inflammatory responses. This observation is currently being explored in clinical trials.[A1492] Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. Telmisartan works by blocking the vasoconstrictor and aldosterone secretory effects of angiotensin II.[A1490,L44652]",
+    "mechanism-of-action": "Telmisartan interferes with the binding of angiotensin II to the angiotensin II AT<sub>1</sub>-receptor by binding reversibly and selectively to the receptors in vascular smooth muscle and the adrenal gland. As angiotensin II is a vasoconstrictor, which also stimulates the synthesis and release of aldosterone, blockage of its effects results in decreases in systemic vascular resistance. Telmisartan does not inhibit the angiotensin converting enzyme, other hormone receptors, or ion channels.[L44652] Studies also suggest that telmisartan is a partial agonist of PPAR&gamma;, which is an established target for antidiabetic drugs. This suggests that telmisartan can improve carbohydrate and lipid metabolism, as well as control insulin resistance without causing the side effects that are associated with full PPAR&gamma; activators.[A1492]",
+    "absorption": "Oral telmisartan follows nonlinear pharmacokinetics over the dose range of 20 mg to 160 mg. Both C<sub>max</sub> and AUC present greater than proportional increases at higher doses. With once-daily dosing, telmisartan has trough plasma concentrations of about 10% to 25% of peak plasma concentrations. The absolute bioavailability of telmisartan depends on the dosage. At 40 mg and 160 mg, the bioavailability was 42% and 58%, respectively. Food slightly decreases bioavailability. For instance, when the 40 mg dose is administered with food, a decrease of about 6% is seen, and with the 160 mg dose, there is a decrease of about 20%.[L44652]",
+    "metabolism": "Minimally metabolized by conjugation to form a pharmacologically inactive acyl-glucuronide, the glucuronide of the parent compound is the only metabolite that has been identified in human plasma and urine. The cytochrome P450 isoenzymes are not involved in the metabolism of telmisartan.[L44652]",
+    "toxicity": "Intravenous LD<sub>50</sub> in rats is 150-200 mg/kg in males and 200 to 250 mg/kg in females. Acute oral toxicity is low: no deaths and no changes occurred in rats or dogs at 2000 mg/kg, the highest dose tested.[L44662] Limited data are available with regard to overdosage in humans. The most likely manifestations of overdosage with telmisartan would be hypotension, dizziness and tachycardia; bradycardia could occur from parasympathetic (vagal) stimulation. Supportive treatment should be instituted if symptomatic hypotension occurs. Telmisartan is not removed by hemofiltration and is not dialyzable.[L44652]",
+    "targets": [
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ],
+        [
+            "AGTR1",
+            "Type-1 angiotensin II receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

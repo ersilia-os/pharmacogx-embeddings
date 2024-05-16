@@ -1,0 +1,52 @@
+[
+    {
+        "gene": "ABCB1",
+        "rank": 1,
+        "explanation": "ABCB1 encodes P-glycoprotein, a key transporter interacting with artesunate and its metabolites, affecting the drugs absorption and elimination, potentially leading to variations in drug exposure among individuals. As genetic variations in this gene could lead to alterations in the drug's absorption and distribution properties, it is ranked first."
+    },
+    {
+        "gene": "CYP2A6",
+        "rank": 2,
+        "explanation": "CYP2A6 is reported to have minor contribution in the metabolism of artesunate. Genetic variants could affect the rate of conversion to DHA and thus the activity of the drug."
+    },
+    {
+        "gene": "CYP3A4",
+        "rank": 3,
+        "explanation": "CYP3A4 is known to metabolize a variety of drugs. While its specific role in artesunate metabolism is not elucidated, it is possible that it may be involved in the conversion of artesunate to DHA or in the further metabolism of DHA."
+    },
+    {
+        "gene": "G6PD",
+        "rank": 4,
+        "explanation": "G6PD deficiency is known to cause hemolytic anemia upon exposure to certain drugs. Considering one of the side effects of artesunate is post-treatment hemolytic anemia, it's plausible that G6PD gene variations could affect individual's susceptibility to this adverse effect, leading to pharmacogenetic interaction."
+    },
+    {
+        "gene": "CYP3A5",
+        "rank": 5,
+        "explanation": "Although not directly mentioned in the drug metabolism, CYP3A5 is structurally and functionally similar to CYP3A4 and may also be involved in artesunate metabolism."
+    },
+    {
+        "gene": "CYP2B6",
+        "rank": 6,
+        "explanation": "CYP2B6 is known to metabolize a variety of drugs. While there is no direct evidence of its involvement in artesunate metabolism, given its wide substrate specificity, it could potentially be involved."
+    },
+    {
+        "gene": "IKBKG",
+        "rank": 7,
+        "explanation": "IKBKG has no known direct interaction with artesunate, however as an inflammatory regulator gene, polymorphisms could potentially affect the immune response in malaria, which might indirectly affect the drug's efficacy."
+    },
+    {
+        "gene": "CYP2C19",
+        "rank": 8,
+        "explanation": "CYP2C19 is involved in the metabolism of several drugs. Even though its role in the metabolism of artesunate is not established, it could potentially be involved considering its wide-ranging metabolic capacity."
+    },
+    {
+        "gene": "CYP2C9",
+        "rank": 9,
+        "explanation": "CYP2C9, like CYP2C19, is involved in the metabolism of several drugs. It's conceivable that it might also be involved in artesunate metabolism, though this is uncertain in the absence of direct evidence."
+    },
+    {
+        "gene": "CYP2C8",
+        "rank": 10,
+        "explanation": "CYP2C8, another member of the CYP2C subfamily, could also hypothetically be involved in artesunate metabolism. Like CYP2C9 and CYP2C19, in the absence of specific evidence, its involvement remains speculative."
+    }
+]

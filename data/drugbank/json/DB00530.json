@@ -1,0 +1,125 @@
+{
+    "pharmgkb_id": "PA134687924",
+    "drugbank_id": "DB00530",
+    "names": [
+        "Erlotinib"
+    ],
+    "description": "Erlotinib is an inhibitor of the epidermal growth factor receptor (EGFR) tyrosine kinase that is used in the treatment of non-small cell lung cancer, pancreatic cancer and several other types of cancer. It is typically marketed under the trade name Tarceva. Erlotinib binds to the epidermal growth factor receptor (EGFR) tyrosine kinase in a reversible fashion at the adenosine triphosphate (ATP) binding site of the receptor. Recent studies demonstrate that erlotinib is also a potent inhibitor of JAK2V617F, which is a mutant form of tyrosine kinase JAK2 found in most patients with polycythemia vera (PV) and a substantial proportion of patients with idiopathic myelofibrosis or essential thrombocythemia. This finding introduces the potential use of erlotinib in the treatment of JAK2V617F-positive PV and other myeloproliferative disorders.",
+    "indication": "Erlotinib is indicated for:\r\n\r\n- The treatment of metastatic non-small cell lung cancer (NSCLC) with tumors showing epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations [FDA label]. \r\n\r\n- In combination with first-line treatment for patients diagnosed with locally advanced, unresectable or metastatic pancreatic cancer [FDA label].\r\n\r\nThe safety and efficacy of erlotinib have not been established for patients with NSCLC whose tumors show other EGFR mutations. Additionally it is not recommended for use in combination with platinum-based chemotherapy. [FDA label]",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "The mechanism of clinical antitumor action of erlotinib is not fully characterized. Erlotinib inhibits the intracellular phosphorylation of tyrosine kinase associated with the epidermal growth factor receptor (EGFR). Specificity of inhibition with regard to other tyrosine kinase receptors has not been fully characterized. EGFR is expressed on the cell surface of normal cells and cancer cells.",
+    "absorption": "Erlotinib is about 60% absorbed after oral administration and its bioavailability is substantially increased by food to almost 100%. Peak plasma levels occur 4 hours after dosing. The solubility of erlotinib is pH dependent. Solubility decreases pH increases. Smoking also decrease the exposure of erlotinib. ",
+    "metabolism": "Metabolism occurs in the liver. In vitro assays of cytochrome P450 metabolism showed that erlotinib is metabolized primarily by CYP3A4 and to a lesser extent by CYP1A2, and the extrahepatic isoform CYP1A1.",
+    "toxicity": "Symptoms of overdose include diarrhea, rash, and liver transaminase elevation. The most common adverse reactions (>50%) in NSCLC are rash, diarrhea, anorexia and fatigue. The most common adverse reactions (>50%) in pancreatic cancer are fatigue, rash, nausea and anorexia. ",
+    "targets": [
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ],
+        [
+            "EGFR",
+            "Epidermal growth factor receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "EGFR",
+            "Epidermal growth factor receptor",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00530",
+            "Drug Name": "Erlotinib",
+            "Gene Symbol": "EGFR",
+            "RS ID (Genotype)": "rs28929495",
+            "Effect Description": "The presence of this polymorphism in EGFR is associated with a higher response rate to erlotinib."
+        },
+        {
+            "DrugBank ID": "DB00530",
+            "Drug Name": "Erlotinib",
+            "Gene Symbol": "EGFR",
+            "RS ID (Genotype)": "rs121913444",
+            "Effect Description": "The presence of this polymorphism in EGFR is associated with a higher response rate to erlotinib."
+        },
+        {
+            "DrugBank ID": "DB00530",
+            "Drug Name": "Erlotinib",
+            "Gene Symbol": "EGFR",
+            "RS ID (Genotype)": "rs121434568",
+            "Effect Description": "The presence of this polymorphism in EGFR is associated with a higher response rate to erlotinib."
+        }
+    ]
+}

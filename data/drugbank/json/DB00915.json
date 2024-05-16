@@ -1,0 +1,76 @@
+{
+    "pharmgkb_id": "PA448360",
+    "drugbank_id": "DB00915",
+    "names": [
+        "Amantadine",
+        "PK-Merz",
+        "Symadine",
+        "Viregyt",
+        "Virosol"
+    ],
+    "description": "An antiviral that is used in the prophylactic or symptomatic treatment of influenza A. It is also used as an antiparkinsonian agent, to treat extrapyramidal reactions, and for postherpetic neuralgia. The mechanisms of its effects in movement disorders are not well understood but probably reflect an increase in synthesis and release of dopamine, with perhaps some inhibition of dopamine uptake.",
+    "indication": "For the chemoprophylaxis, prophylaxis, and treatment of signs and symptoms of infection caused by various strains of influenza A virus. Also for the treatment of parkinsonism and drug-induced extrapyramidal reactions.",
+    "pharmacodynamics": "Amantadine is an antiviral drug which also acts as an antiparkinson agent, for which it is usually combined with L-DOPA when L-DOPA responses decline (probably due to tolerance). It is a derivate of adamantane, like a similar drug rimantadine. The mechanism of action of amantadine in the treatment of Parkinson's disease and drug-induced extrapyramidal reactions is not known. It has been shown to cause an increase in dopamine release in the animal brain, and does not possess anticholinergic activity.",
+    "mechanism-of-action": "The mechanism of its antiparkinsonic effect is not fully understood, but it appears to be releasing dopamine from the nerve endings of the brain cells, together with stimulation of norepinephrine response. It also has NMDA receptor antagonistic effects. The antiviral mechanism seems to be unrelated. The drug interferes with a viral protein, M2 (an ion channel), which is needed for the viral particle to become \"uncoated\" once it is taken inside the cell by endocytosis.",
+    "absorption": "Amantadine is well absorbed orally from the gastrointestinal tract.",
+    "metabolism": "No appreciable metabolism, although negligible amounts of an acetyl metabolite have been identified.",
+    "toxicity": "Deaths have been reported from overdose with amantadine. The lowest reported acute lethal dose was 2 grams. Drug overdose has resulted in cardiac, respiratory, renal or central nervous system toxicity. Cardiac dysfunction includes arrhythmia, tachycardia and hypertension. Pulmonary edema and respiratory distress (including ARDS) have been reported. Renal dysfunction including increased BUN, decreased creatinine clearance and renal insufficiency can occur. Central nervous system effects that have been reported include insomnia, anxiety, aggressive behavior, hypertonia, hyperkinesia, tremor, confusion, disorientation, depersonalization, fear, delirium, hallucination, psychotic reactions, lethargy, somnolence and coma. Seizures may be exacerbated in patients with prior history of seizure disorders. Hyperthermia has also been observed in cases where a drug overdose has occurred.",
+    "targets": [
+        [
+            "M",
+            "Matrix protein 2",
+            "Influenza A virus (strain A/Ann Arbor/6/1960 H2N2)"
+        ],
+        [
+            "GRIN3A",
+            "Glutamate receptor ionotropic, NMDA 3A",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ],
+        [
+            "CHRNA4",
+            "Neuronal acetylcholine receptor subunit alpha-4",
+            "Humans"
+        ],
+        [
+            "CHRNA3",
+            "Neuronal acetylcholine receptor subunit alpha-3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "DDC",
+            "Aromatic-L-amino-acid decarboxylase",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

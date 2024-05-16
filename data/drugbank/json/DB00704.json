@@ -1,0 +1,73 @@
+{
+    "pharmgkb_id": "PA450588",
+    "drugbank_id": "DB00704",
+    "names": [
+        "Naltrexone",
+        "Abernil",
+        "Adepend",
+        "Antaxon",
+        "Antaxone",
+        "Arrop",
+        "Celupan",
+        "Depade",
+        "Dependex",
+        "Nalerona",
+        "Nalorex",
+        "Naltax",
+        "Naltrekson",
+        "Narcoral",
+        "Neksi",
+        "Nemexin",
+        "Opizone",
+        "Revez",
+        "Trexan",
+        "Vivitrex"
+    ],
+    "description": "Derivative of noroxymorphone that is the N-cyclopropylmethyl congener of naloxone. It is a narcotic antagonist that is effective orally, longer lasting and more potent than naloxone, and has been proposed for the treatment of heroin addiction. The FDA has approved naltrexone for the treatment of alcohol dependence.",
+    "indication": "Used as an adjunct to a medically supervised behaviour modification program in the maintenance of opiate cessation in individuals who were formerly physically dependent on opiates and who have successfully undergone detoxification. Also used for the management of alcohol dependence in conjunction with a behavioural modification program.",
+    "pharmacodynamics": "Naltrexone, a pure opioid antagonist, is a synthetic congener of oxymorphone with no opioid agonist properties. Naltrexone is indicated in the treatment of alcohol dependence and for the blockade of the effects of exogenously administered opioids. It markedly attenuates or completely blocks, reversibly, the subjective effects of intravenously administered opioids. When co-administered with morphine, on a chronic basis, naltrexone blocks the physical dependence to morphine, heroin and other opioids. In subjects physically dependent on opioids, naltrexone will precipitate withdrawal symptomatology.",
+    "mechanism-of-action": "Naltrexone is a pure opiate antagonist and has little or no agonist activity. The mechanism of action of naltrexone in alcoholism is not understood; however, involvement of the endogenous opioid system is suggested by preclinical data. Naltrexone is thought to act as a competitive antagonist at mc, \u03ba, and \u03b4 receptors in the CNS, with the highest affintiy for the \u03bc receptor. Naltrexone competitively binds to such receptors and may block the effects of endogenous opioids. This leads to the antagonization of most of the subjective and objective effects of opiates, including respiratory depression, miosis, euphoria, and drug craving. The major metabolite of naltrexone, 6-\u03b2-naltrexol, is also an opiate antagonist and may contribute to the antagonistic activity of the drug.",
+    "absorption": "Although well absorbed orally, naltrexone is subject to significant first pass metabolism with oral bioavailability estimates ranging from 5 to 40%.",
+    "metabolism": "Hepatic. When administered orally, naltrexone undergoes extensive biotransformation and is metabolized to 6 beta-naltrexol (which may contribute to the therapeutic effect) and other minor metabolites.",
+    "toxicity": "In the mouse, rat and guinea pig, the oral LD<sub>50</sub>s were 1,100-1,550 mg/kg; 1,450 mg/kg; and 1,490 mg/kg; respectively. High doses of naltrexone (generally >1,000 mg/kg) produce salivation, depression/reduced activity, tremors, and convulsions.",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "SIGMAR1",
+            "Sigma non-opioid intracellular receptor 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00704",
+            "Drug Name": "Naltrexone",
+            "Gene Symbol": "OPRM1",
+            "RS ID (Genotype)": "rs1799971",
+            "Effect Description": "Patients with this genotype have an increased number of abstinent days when using naltrexone to treat alcohol addiction."
+        }
+    ]
+}

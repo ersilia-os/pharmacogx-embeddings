@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA451124",
+    "drugbank_id": "DB01131",
+    "names": [
+        "Proguanil",
+        "Paludrine"
+    ],
+    "description": "Proguanil is a prophylactic antimalarial drug, which works by stopping the malaria parasite, _Plasmodium falciparum_ and _Plasmodium vivax_, from reproducing once it is in the red blood cells. It does this by inhibiting the enzyme, dihydrofolate reductase, which is involved in the reproduction of the parasite.",
+    "indication": "For the causal prevention and suppression of malaria caused by susceptible strains of <i>P. falciparum</i> and other species of Plasmodium found in some geographical areas of the world.",
+    "pharmacodynamics": "Proguanil is a biguanide derivative that is converted to an active metabolite called cycloguanil. It exerts its antimalarial action by inhibiting parasitic dihydrofolate reductase enzyme. It has causal prophylactic and suppressive activity against <i>P. falciparum</i> and cures the acute infection. It is also effective in suppressing the clinical attacks of vivax malaria. However it is slower compared to 4-aminoquinolines.",
+    "mechanism-of-action": "Proguanil inhibits the dihydrofolate reductase of plasmodia and thereby blocks the biosynthesis of purines and pyrimidines, which are essential for DNA synthesis and cell multiplication. This leads to failure of nuclear division at the time of schizont formation in erythrocytes and liver.",
+    "absorption": "Rapidly and well absorbed in humans following oral doses ranging from 50 to 500 mg.",
+    "metabolism": "Variably metabolized in the liver by cytochrome P450 isoenzymes to the active triazine metabolite, cycloguanil. This variable metabolism of proguanil may have profound clinical importance in poor metabolizers such as the Asian and African populations at risk for malaria infection. Prophylaxis with proguanil may not be effective in these persons because they may not achieve adequate therapeutic levels of the active compound, cycloguanil, even after multiple doses.",
+    "toxicity": null,
+    "targets": [
+        [
+            "DHFR",
+            "Dihydrofolate reductase",
+            "Humans"
+        ],
+        [
+            null,
+            "Bifunctional dihydrofolate reductase-thymidylate synthase",
+            "Plasmodium falciparum (isolate K1 / Thailand)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01131",
+            "Drug Name": "Proguanil",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "Patients with this genotype have reduced metabolism of proguanil."
+        },
+        {
+            "DrugBank ID": "DB01131",
+            "Drug Name": "Proguanil",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "Patients with this genotype have reduced metabolism of proguanil."
+        }
+    ]
+}

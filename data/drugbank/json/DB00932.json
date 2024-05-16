@@ -1,0 +1,72 @@
+{
+    "pharmgkb_id": "PA163522473",
+    "drugbank_id": "DB00932",
+    "names": [
+        "Tipranavir"
+    ],
+    "description": "Tipranavir is a sulfonamide-containing dyhydropyrone and a nonpeptidic protease inhibitor that targets the HIV protease. Tipranavir and ritonavir are coadministered to treat HIV.",
+    "indication": "For combination antiretroviral treatment of HIV-1 infected adult patients with evidence of viral replication, who are highly treatment-experienced or have HIV-1 strains resistant to multiple protease inhibitors.",
+    "pharmacodynamics": "Tipranavir is a non-peptidic protease inhibitor (PI) of HIV. Protease inhibitors block the part of HIV called protease. HIV-1 protease is an enzyme required for the proteolytic cleavage of the viral polyprotein precursors into the individual functional proteins found in infectious HIV-1. Nelfinavir binds to the protease active site and inhibits the activity of the enzyme. This inhibition prevents cleavage of the viral polyproteins resulting in the formation of immature non-infectious viral particles. Protease inhibitors are almost always used in combination with at least two other anti-HIV drugs.",
+    "mechanism-of-action": "Tipranavir (TPV) is a non-peptidic HIV-1 protease inhibitor that inhibits the processing of the viral Gag and Gag-Pol polyproteins in HIV-1 infected cells, thus preventing formation of mature virions. Two mechanisms are suggested in regards to the potency of tipranavir: 1. Tipravanir may bind to the active site of the protease enzyme with fewer hydrogen bonds than peptidic protease inhibitors, which results in increased flexibility, allowing it to fit into the active site of the enzyme in viruses that have become resistance to other protease inhibitors. This also enables tipranavir to adjust to amino acid substitutions at the active site. 2. Tipranavir's strong hydrogen bonding interaction with the amide backbone of the protease active site Asp30 may lead to its activity against resistant viruses.",
+    "absorption": "Absorption is limited, although no absolute quantification of absorption is available.",
+    "metabolism": "Hepatic. In vitro metabolism studies with human liver microsomes indicated that CYP 3A4 is the predominant CYP enzyme involved in tipranavir metabolism.",
+    "toxicity": "Oral LD<sub>50</sub> in rat is over 5,000 mg/kg. Side effects include thirst and hunger, unexplained weight loss, increased urination, fatigue, and dry, itchy skin.",
+    "targets": [
+        [
+            "pol",
+            "Human immunodeficiency virus type 1 protease",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

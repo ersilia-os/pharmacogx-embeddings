@@ -1,0 +1,91 @@
+{
+    "pharmgkb_id": "PA449586",
+    "drugbank_id": "DB00927",
+    "names": [
+        "Famotidine",
+        "Amfamox",
+        "Antodine",
+        "Confobos",
+        "Cronol",
+        "Digervin",
+        "Dispromil",
+        "Duovel",
+        "Durater",
+        "Famocid",
+        "Famosan",
+        "Famotep",
+        "Famox",
+        "Famoxal",
+        "Famtac",
+        "Famulcer",
+        "Fanosin",
+        "Gaster",
+        "Lecedil",
+        "Motiax",
+        "Mylanta AR",
+        "Notidin",
+        "Nulceran",
+        "Panalba",
+        "Pepcid RPD",
+        "Pepcidin",
+        "Pepcidine",
+        "Pepdine",
+        "Pepfamin",
+        "Quamatel",
+        "Renapepsa",
+        "Rubacina",
+        "Sedanium-R",
+        "Supertidine",
+        "Tairal",
+        "Tipodex",
+        "Ulfagel",
+        "Ulfamid",
+        "Ulgarine",
+        "Vagostal"
+    ],
+    "description": "Famotidine is a competitive histamine-2 (H<sub>2</sub>) receptor antagonist that works to inhibit gastric acid secretion. It is commonly used in gastrointestinal conditions related to acid secretion, such as gastric ulcers and gastroesophageal reflux disease (GERD), in adults and children.[L11166] Compared to other H<sub>2</sub> receptor antagonists, famotidine displays high selectivity towards this receptor; in a study consisting of healthy volunteers and patients with acid hypersecretory disease, famotidine was about 20 to 50 times more potent at inhibiting gastric acid secretion than [cimetidine] and eight times more potent than [ranitidine] on a weight basis.[A189462] Famotidine is used in various over-the-counter and off-label uses.[L11166] While oral formulations of famotidine are more commonly used, the intravenous solution of the drug is available for use in hospital settings.[L11142]",
+    "indication": "Famotidine is indicated in pediatric and adult patients (with the bodyweight of 40 kg and above) for the management of active duodenal ulcer (DU), active gastric ulcer, symptomatic non-erosive gastroesophageal reflux disease (GERD), and erosive esophagitis due to GERD, diagnosed by biopsy.[L11139]\r\n\r\nIt is also indicated in adult patients for the treatment of pathological hypersecretory conditions (e.g., Zollinger-Ellison Syndrome, multiple endocrine neoplasias) and reduction of the risk of DU recurrence.[L11139]\r\n\r\nThe intravenous formulation of famotidine is available for some hospitalized patients with pathological hypersecretory conditions or intractable ulcers or as an alternative to the oral dosage form for short-term use in patients who are unable to take oral medication.[L11142]\r\n\r\nOver-the-counter famotidine is used for the management and prevention of heartburn caused by gastroesophageal reflux in children and adults. Off-label uses of famotidine include the reduction of NSAIDs-associated gastrointestinal effects, treatment of refractory urticarial, prevention of stress ulcer in critically-ill patients, and symptomatic relief of gastritis.[L11166,L11172]",
+    "pharmacodynamics": "Famotidine decreases the production of gastric acid, suppresses acid concentration and pepsin content, and decreases the volume of gastric secretion. Famotidine inhibits both basal and nocturnal gastric acid secretion, as well as acid secretion stimulated by food, caffeine, insulin, and pentagastrin.[L11139,L11142]\r\n\r\nFamotidine has a dose-dependent therapeutic action, with the highest dose having the most extended duration of action and the highest inhibitory effect on gastric acid secretion. Following oral administration, the onset of action is within one hour, and the peak effect is reached within 1-3 hours. The duration of effect is about 10-12 hours.[A189459]",
+    "mechanism-of-action": "Histamine acts as a local hormone that stimulates the acid output by parietal cells via a paracrine mechanism. Neuroendocrine cells called enterochromaffin-like (ECL) cells lie close to the parietal cells and regulate the basal secretion of histamine. Histamine release is also promoted from stimulation by acetylcholine and gastrin, a peptide hormone. Gastrin (G) cells release gastrin, which works on CCK<sub>2</sub> receptors on ECL cells. This action promotes the release of histamine from ECL cells. Upon release, histamine acts on H<sub>2</sub> receptors expressed on the basolateral membrane of parietal cells, leading to increased intracellular cAMP levels and activated proton pumps on parietal cells. Proton pump releases more protons into the stomach, thereby increasing the secretion of acid. [T28] In conditions that are associated with acid hypersecretion such as ulcers, there is a loss of regulation of acid secretion. Famotidine works on H<sub>2</sub> receptors and blocks the actions of histamine.[L11166]",
+    "absorption": "Following oral administration, the absorption of famotidine is dose-dependent and incomplete.[A189474] The oral bioavailability ranges from 40-50%, and the Cmax is reached in 1-4 hours post-dosing.[A189459,A189474] While the bioavailability can be slightly increased with the intake of food and decreased by antacids, there is no clinical significance.[L11139]",
+    "metabolism": "Famotidine undergoes minimal first-pass metabolism. About 25-30% of the drug is eliminated through hepatic metabolism. The only metabolite identified in humans is the S-oxide.[L11139]",
+    "toxicity": "The oral LD<sub>50</sub> is 4049 mg/kg in rats and 4686 mg/kg in mice. The subcutaneous LD<sub>50</sub> is 800 mg/kg in rats and mice. The lowest published toxic dose (TDLo) in man following oral administration is 4 mg/kg/7D.[L11157] \r\n\r\nSymptoms of overdose resemble the adverse events seen with the use of recommended doses, and they should be responded with supportive and symptomatic treatment. Any unabsorbed drug should be removed from the gastrointestinal tract, and the patient should be monitored accordingly. The use of hemodialysis to eliminate the drug from the systemic circulation is effective, but the experience of using hemodialysis in response to famotidine overdose is limited in clinical settings.[L11139]",
+    "targets": [
+        [
+            "HRH2",
+            "Histamine H2 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

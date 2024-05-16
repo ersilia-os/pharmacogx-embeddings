@@ -1,0 +1,42 @@
+{
+    "pharmgkb_id": "PA166182748",
+    "drugbank_id": "DB13125",
+    "names": [
+        "Lusutrombopag"
+    ],
+    "description": "Lusutrombopag is an orally bioavailable thrombopoietin receptor (TPOR) agonist developed by Shionogi & Company (Osaka, Japan). TPOR is a regulatory target site for endogenous thrombopoietin, which acts as a primary cytokine to promote megakaryocyte proliferation and differentiation, and affect other hematopoietic lineages as well, including erythroid, granulocytic and lymphoid lineages [A36736]. Thrombocytopenia, which indicates abnormally low levels of platelets, is a common complication related to chronic liver disease. This hematological abnormality, especially in cases of severe thrombocytopenia (platelet count <50,000/\u03bcL), creates challenges to patients requiring invasive medical procedures where there is a significant risk for spontaneous bleeding [A36732]. Lusutrombopag binds to the transmembrane domain of TPOR expressed on megakaryocytes, and causes the proliferation and differentiation of megakaryocytic progenitor cells from hematopoietic stem cells [FDA Label]. \r\n\r\nIn September 2015, lusutrombopag received its first global approval in Japan to reduce the need for platelet transfusion in adults with chronic liver disease and thrombocytopenia who are schedule to undergo an invasive medical procedure [A36730]. Lusutrombopag was approved by the FDA on July 31st, 2018 for the same therapeutic indication under the market name Mulpleta. In two randomized, double-blind, placebo-controlled trials, patients with chronic liver disease and severe thrombocytopenia who were undergoing an invasive procedure with a platelet count less than 50 x 10^9/L were administered lusutrombopag orally [L4166]. Higher percentages (65-78%) of the patients receiving lusutrombopag required no platelet transfusion prior to the primary invasive procedure compared to those receiving placebo [L4166]. Lusutrombopag is currently in phase III development in various European countries including Austria, Belgium, Germany, and the UK [A36730].",
+    "indication": "Lusutrombopag is indicated for the treatment of thrombocytopenia in adults with chronic liver disease who are scheduled to undergo a medical or dental procedure.",
+    "pharmacodynamics": "The AUC of lusutrombopag was found to correlate the increased platelet counts. Following administration of 3 mg daily dose in patients with chronic liver disease and thrombocytopenia, the mean (standard deviation) maximum platelet count in patients (N=74) without platelet transfusion was 86.9 (27.2) \u00d7 10^9/L, and the median time to reach the maximum platelet count was 12.0 (5 to 35) days [FDA Label]. Lusutrombopag was not shown to induce any clinically significant QTc prolongation at a dose 8 times the recommended dosage [FDA Label]. ",
+    "mechanism-of-action": "Lusutrombopag mimics the biological actions of endogenous thrombopoietin (TPO) by acting as an agonist for the thrombopoietin receptor (TPOR) expressed on megakaryocytes. It binds to the transmembrane domain of the receptor and induces thrombocytopoiesis by targeting the same signal transduction system as that of endogenous TPO, which involves the activation of JAK and STAT pathways [A4048]. It stimulates the proliferation and differentiation of bone marrow progenitor cells into megakaryocytes, which undergoes maturation to act as precursor cells for platelets [A36730]. A single megakaryocyte produces and releases thousands of platelets upon maturation and series of remodeling events [A36807]. Lusutrombopag displays high specificity towards human TPORs when compared to murine TPORs [A36729]. Lusutrombopag may affect other hematopoietic lineages as well, including erythroid, granulocytic and lymphoid lineages. One case of increased leukocyte and erythrocyte counts that prolonged for over 120 days was reported following administration in a patient with liver cirrhosis (LC) due to hepatitis C virus [A36731]. ",
+    "absorption": "Lusutrombopag is rapidly absorbed following oral administration [A36730]. It exhibited a dose\u2010proportional pharmacokinetic profile over the single dose range of 1 mg to 50 mg, which was similar in both healthy subjects and those with chronic liver disease. A geometric mean (%CV) maximal concentration (Cmax) and area under the curve (AUC) in healthy subjects receiving 3 mg of lusutrombopag were 111 (20.4) ng/mL and 2931 (23.4) ng.hr/mL [FDA Label]. The accumulation ratios of Cmax and AUC were approximately 2 with once\u2010daily multiple\u2010dose administration, and steady\u2010state plasma lusutrombopag concentrations were achieved after Day 5. The time to reach peak plasma concentrations (Tmax) were approximately 6 to 8 hours after oral administration in patients with chronic liver disease [FDA Label]. Food consumption is not reported to affect the absorption and bioavailability of lusutrombopag [FDA Label]. ",
+    "metabolism": "CYP4 enzymes predominantly contribute to the metabolism of lusutrombopag, especially CYP4A11 [FDA Label]. Lusutrombopag is reported to mainly undergo \u03c9- and \u03b2-oxidation, as well as glucuronidation [A36730]. ",
+    "toxicity": "There is no known antidote for lusutrombopag: hemodialysis is not expected to enhance the elimination of lusutrombopag from the plasma as there is high protein binding. Overdose may be characterized by excessive platelet counts that may result in thrombotic and thromboembolic complications. In the event of overdose, closely monitor patients and platelet count and treat thrombotic complications in accordance with standard of care [FDA Label].\r\n\r\nIn animal and _in vitro_ studies, lusutrombopag did not display any carcinogenicity, genotoxicity, or reproductive toxicity [FDA Label].",
+    "targets": [
+        [
+            "MPL",
+            "Thrombopoietin receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP4A11",
+            "Cytochrome P450 4A11",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

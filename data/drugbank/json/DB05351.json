@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA166110257",
+    "drugbank_id": "DB05351",
+    "names": [
+        "Dexlansoprazole"
+    ],
+    "description": "Dexlansoprazole is a new-generation proton pump inhibitor (PPI) used for the management of symptoms associated with gastroesophageal reflux disease (GERD) and erosive esophagitis. Dexlansoprazole is the R-enantiomer of [DB00448], which is composed of a racemic mixture of the R- and S-enantiomers. Compared to the older generation of PPIs (which includes [DB00213], [DB00338], and [DB00448]),[A178084] dexlansoprazole has a unique pharmacokinetic profile due to its delayed-release and dual-delivery release system: This aims to address some limitations of the older-generation PPIs, such as short plasma half-life and the need for meal-associated dosing.[A19566, A19568, A178084, A174244] Dexlansoprazole inhibits the final step in gastric acid production by blocking the (H+, K+)-ATPase enzyme.[L48827]",
+    "indication": "Dexlansoprazole is a proton pump inhibitor (PPI) indicated for the: \r\n\r\n- Healing of all grades of erosive esophagitis (EE) for up to eight weeks in patients 12 years of age and older.[L48827]\r\n- Maintenance of healed EE and relief of heartburn for up to six months in adults and 16 weeks in patients 12 to 17 years of age.[L48827, L48847]\r\n- Treatment of heartburn associated with symptomatic non-erosive gastroesophageal reflux disease (GERD) for four weeks in patients 12 years of age and older.[L48827, L48847]",
+    "pharmacodynamics": "Dexlansoprazole is a proton pump inhibitor (PPI) that suppresses both basal and stimulated gastric acid secretion.[L48827] PPIs are associated with a risk for a rebound effect and a short-term increase in hypersecretion; thus, such risk cannot be excluded with dexlansoprazole.[A177574] With long-term use, PPIs are also associated with a risk of increased susceptibility to bacterial infections, vitamin B12 and iron deficiency, and hypomagnesemia and hypocalcemia, possibly leading to osteoporosis and bone fractures.[A177571] \r\n\r\nDexlansoprazole is reported to interfere with the secretin stimulation test and create false positive urine screening tests for tetrahydrocannabinol. Dexlansoprazole can increase gastrin levels, which can cause enterochromaffin-like cell hyperplasia and increase serum CgA levels. Increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumours.[L48827] ",
+    "mechanism-of-action": "Dexlansoprazole suppresses gastric acid secretion by blocking the final step of acid production. It inhibits the H/K ATPase at the secretory surface of the gastric parietal cell, which is involved in the secretion of hydrochloric acid.[L48827] H/K ATPase is a proton pump responsible for hydrolyzing ATP and exchanging H<sup>+</sup> ions from the cytoplasm for K<sup>+</sup> ions in the secretory canaliculus: this action results in hydrochloric acid secretion into the gastric lumen.[A19567]",
+    "absorption": "The dual delayed-release formulation of dexlansoprazole results in a plasma concentration-time profile with two distinct peaks; the first peak occurs one to two hours after administration, followed by a second peak within four to five hours. About 25% of the dose is released at the pH level of 5.5 in the proximal duodenum, while the other 75% is released in the distal small intestine at the pH level of 6.75.[A19567, L48827]\r\n\r\nAfter oral administration of dexlansoprazole 30 or 60 mg to healthy subjects and symptomatic GERD patients, mean C<sub>max</sub> and AUC values of dexlansoprazole increased approximately dose-proportionally. Following administration of 30 mg in healthy adults, the mean (%CV) C<sub>max</sub> and AUC were 658 (40%) ng/mL and 3275 (47%) ng x h/mL, respectively. At a dose of 60 mg, the mean (%CV) C<sub>max</sub> and AUC were 1397 (51%) ng/mL and 6529 (60%) ng x h/mL, respectively. In healthy subjects, food increased C<sub>max</sub> by 12 to 55% and AUC by 9 to 37%. The effect of food on Tmax varied, as both an increase and a decrease was observed.[L48827]",
+    "metabolism": "Dexlansoprazole is extensively metabolized in the liver. It undergoes oxidation and reduction, followed by subsequent sulfation, glucuronidation, and glutathione conjugation to form inactive metabolites. Oxidative metabolites are formed from CYP2C19-mediated hydroxylation and CYP3A4-mediated oxidation to the sulfone.[A19575, L48827]\r\n\r\nCYP2C19 is a polymorphic liver enzyme which exhibits three phenotypes in the metabolism of CYP2C19 substrates: extensive metabolizers (*1/*1), intermediate metabolizers (*1/mutant) and poor metabolizers (mutant/mutant). Dexlansoprazole is the major circulating component in plasma regardless of CYP2C19 metabolizer status. In CYP2C19 intermediate and extensive metabolizers, the major plasma metabolites are 5-hydroxy dexlansoprazole and its glucuronide conjugate, while in CYP2C19 poor metabolizers dexlansoprazole sulfone is the major plasma metabolite.[L48827]",
+    "toxicity": "Oral LD<sub>50</sub> value in mice, rats and dogs is reported to be > 5000 mg/kg.[L49091]\r\n\r\nThere have been no reports of significant overdose with dexlansoprazole. Multiple doses of 120 mg and a single dose of 300 mg did not result in death or other severe adverse events; however, serious adverse events of hypertension have been reported in association with twice daily doses of 60 mg. Nonserious adverse reactions observed with twice daily doses of 60 mg include hot flashes, contusion, oropharyngeal pain, and weight loss. Dexlansoprazole is not expected to be removed from the circulation by hemodialysis. In the event of over-exposure, treatment should be symptomatic and supportive.[L48827]",
+    "targets": [
+        [
+            "ATP4A",
+            "Potassium-transporting ATPase alpha chain 1",
+            "Humans"
+        ],
+        [
+            "ATP4B",
+            "Potassium-transporting ATPase subunit beta",
+            "Humans"
+        ],
+        [
+            "DDAH1",
+            "N(G),N(G)-dimethylarginine dimethylaminohydrolase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,83 @@
+{
+    "pharmgkb_id": "PA165946873",
+    "drugbank_id": "DB08881",
+    "names": [
+        "Vemurafenib"
+    ],
+    "description": "Vemurafenib is a competitive kinase inhibitor with activity against BRAF kinase with mutations like V600E.[A31269] It exerts its function by binding to the ATP-binding domain of the mutant BRAF.[A31270] Vemurafenib was co-developed by Roche and Plexxikon and it obtained its FDA approval on August 17, 2011, under the company Hoffmann La Roche. After approval, Roche in collaboration with Genentech launched a broad development program. [L1012]",
+    "indication": "Vemurafenib is approved since 2011 for the treatment of metastatic melanoma with a mutation on BRAF in the valine located in the exon 15 at codon 600, this mutation is denominated as V600E.[A31270] The V600E mutation, a substitution of glutamic acid for valine, accounts for 54% of the cases of cutaneous melanoma.[A31271] \r\nVemurafenib approval was extended in 2017, for its use as a treatment of adult patients with Erdheim-Chester Disease whose cancer cells present BRAF V600 mutation.[L1013] Erdheim-Chester disease is an extremely rare histiocyte cell disorder that affects large bones, large vessels, central nervous system, as well as, skin and lungs. It is reported an association of Erdheim-Chester disease and V600E mutation.[A31272]",
+    "pharmacodynamics": "BRAF activation results in cell growth, proliferation, and metastasis. BRAF is an intermediary molecule in MAPK whose activation depends on ERK activation, elevation of cyclin D1 and cellular proliferation. The mutation V600E produces a constitutively form of BRAF. Vemurafenib has been shown to reduce all activation markers related to BRAF; in clinical trials, vemurafenib treatment showed a reduction of cytoplasmic phosphorylated ERK and a cell proliferation driven by Ki-67. Studies also reported decrease in MAPK-related metabolic activity.[A31270] All the different reports indicate thet Vemurafenib generates an almost complete inhibition of the MAPK pathway. ",
+    "mechanism-of-action": "Vemurafenib is an orally available inhibitor of mutated BRAF-serine-threonine kinase. Vemurafenif is a small molecule that interacts as a competitive inhibitor of the mutated species of BRAF. It is especially potent against the BRAF V600E mutation. Vemurafenib blocks downstream processes to inhibit tumour growth and eventually trigger apoptosis. Vemurafenib does not have antitumour effects against melanoma cell lines with the wild-type BRAF mutation.[L1014]",
+    "absorption": "Vemurafenib is well absorbed after oral administration.[A31273] Peak concentrations are reached in 3 hours when an oral dose of 960 mg twice daily for 15 days has been given to patients. In the same conditions, Vemurafenib presents a Cmax of 62 mcg/ml and AUC of 601 mcg h/ml.[FDA label] It is unknown how food affects the absorption of vemurafenib. It presents an accumulation ratio of 7.36 after repeating doses of 960 mg [L1014]",
+    "metabolism": "Vemurafenib is metabolized by CYP3A4 and the metabolites make up 5% of the components in plasma. The parent compound makes up for the remaining 95%.[A31274]",
+    "toxicity": "In the few toxicity reports, it has been shown an increased in the development of cutaneous squamous cell carcinomas or acceleration in pre-existant tumor growth.[FDA label]",
+    "targets": [
+        [
+            "BRAF",
+            "Serine/threonine-protein kinase B-raf",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,129 @@
+{
+    "pharmgkb_id": "PA451221",
+    "drugbank_id": "DB00481",
+    "names": [
+        "Raloxifene",
+        "Keoxifene"
+    ],
+    "description": "Raloxifene is a second generation selective estrogen receptor modulator (SERM) that mediates anti-estrogenic effects on breast and uterine tissues, and estrogenic effects on bone, lipid metabolism, and blood coagulation.[A4979,T28] Exhibiting tissue-specific effects distinct from [estradiol], raloxifene is the first of the benzothiophene group of antiestrogens to be labelled a SERM.[A4977] Available in many countries worldwide, raloxifene was initially approved by the FDA in December, 1997 under the market name Evista\u00ae for the management and prevention of osteoporosis in postmenopausal women and reduction in risk for invasive breast cancer in postmenopausal women with osteoporosis or those who are at high risk for invasive breast cancer. However, it has a negligible effect on altering the development and progression of breast cancer itself.[label] The most common causes of osteoporosis include postmenopausal deficiency of estrogen and age-related deterioration in bone homeostasis. Due to the risk of bone fractures that may lead to morbidities and reduced quality of life, the management of osteoporosis in postmenopausal women with the use of therapeutic agents in addition to concurrent therapies is critical. Due to the decline in estrogen levels in postmenopausal osteoporosis, hormone replacement therapy (HRT), such as estradiol, has been used to ameliorate the condition. However, due to the off-target actions by HRT, newer non-hormonal agents such as raloxifene and [tamoxifen] have been developed to reduce adverse events through selective pharmacological actions on tissue-specific therapeutic targets.[T28]\r\n\r\nThe main effects of raloxifene are to preserve the bone mineral density and decrease the risk of breast cancer in postmenopausal women. Compared to estrogen and tamoxifen, raloxifene was not associated with an increased risk of uterine cancer and it does not cause endometrial proliferation.[A716] Although rare, there was an increased risk of venous thromboembolism during clinical trials of postmenopausal women receiving raloxifene. In addition, a clinical study consisting of postmenopausal women with documented coronary heart disease or at increased risk for coronary events showed an increased risk for fatal stroke with raloxifene therapy compared to placebo.[label] It is strongly advised that the risk-benefit ratio is considered before starting raloxifene therapy in women at risk of thromboembolic disease or strokes, such as the prior history of stroke, transient ischemic attack, atrial fibrillation, hypertension, or cigarette smoking.[label]",
+    "indication": "Indicated for the prevention and treatment of osteoporosis in postmenopausal women, as well as prevention and treatment of corticosteroid-induced bone loss.[label]\r\n\r\nIndicated for the reduction in the risk of invasive breast cancer in postmenopausal women with osteoporosis or postmenopausal women with a high risk for invasive breast cancer.[label]",
+    "pharmacodynamics": "Raloxifene belongs to the selective estrogen receptor modulator (SERM) drug class that exhibits estrogenic effects on bone and lipid metabolism while mediating anti-estrogenic effects on uterine endometrium and breast tissues.[A4977] On skeletal tissues, raloxifene stimulates bone-depositing osteoblasts and inhibits bone-resorbing osteoclasts[T28] to augument bone mineral density.[A4977] Raloxifene produces estrogen-like effects on bone, reducing the resorption of bone and increasing bone mineral density in postmenopausal women, thus slowing the rate of bone loss.[label] In three randomized, placebo-controlled trials in Europe, postmenopausal women receiving raloxifene at variable doses of 30 to 150 mg daily demonstrated significant increases in bone mineral density in the lumbar spine, total hip, femoral neck and total body compared to placebo.[A4977] In the MORE and RUTH trials, there were fewer incidences of vertebral fractures in postmeopausal women receiving raloxifene compared to placebo.[A4979] In a eight-week study evaluating short-term effects of raloxifene in healthy postmenopausal women, there was a decrease in the bone turnover markers, such as serum alkaline phosphatase level, serum osteocalcin level and urinary calcium excretion.[A4977] \r\n\r\nRaloxifene was shown to inhibit estrogen-dependent proliferation of human breast cancer cells _in vitro_ and development of induced mammary tumors in rats _in vivo_.[A721] In adult female rats, raloxifene produced a greater regression of the mammary gland than [tamoxifen].[A721] The MORE trial was a multicenter, randomized, double-blind clinical trial that investigated the long-term effects of the drug therapy in European and American postmenopausal women receiving raloxifene for 40 months.[A719] Additionally, a reduction in the incidence of invasive breast cancer was also demonstrates in the CORE and RUTH trials.[A4979] Study findings demonstrated that compared to placebo, the risk of invasive breast cancer was decreased by 76% among postmenopausal women with osteoporosis. There was a decrease in the risk of estrogen receptor-positive breast cancer by 90% but there was no increase in the risk of endometrial cancer. Unlike hormone replacement therapy, raloxifene does not mediate proliferative or stimulatory effects on endometrial tissue. Findings from both animal and human studies demonstrated no significant changes in the histologic appearance of the endometrium.[A4977]\r\n\r\nRaloxifene promotes estrogen-like effects on lipid metabolism. In a European trial that evaluated lipid profiles following raloxifene therapy over the 24-month period, there were significant decreases in the serum concentrations of total and low-density lipoprotein (LDL) cholesterol over a 24-month period of raloxifene therapy.[A4977] Raloxifene is not associated with causing alterations in the serum levels of HDL cholesterol or triglycerides.[A4977] As the HDL choesterol level is considered a strong inverse predictor of cardiovascular disease in women, the cardioprotective effects of raloxifene were questioned. Due to limited data on the long-term trials, it is not possible to determine whether the small lipid effects produced by raloxifene correlate with a smaller degree of cardioprotective activity compared with hormone replacement therapy.[A4977] ",
+    "mechanism-of-action": "Raloxifene is a selective estrogen receptor modulator that acts as both an estrogen agonist and antagonist via differential effects on the tissue-specific estrogen receptors. Based on the findings of competitive binding assays, raloxifene displays binding affinity that is similar to that of [estradiol][A721], the predominant circulating estrogen.[A178861] Estrogens play variable roles at different tissues in females, including the bone, breasts, uterus and liver, by binding to the steroid nuclear hormone receptors, Estrogen Receptor alpha (ER\u03b1) or Estrogen Receptor beta (ER\u03b2).[A178861] These receptors are normally bound to the Heat Shock Protein 90 (Hsp90) when unbound to the ligand. Ligand binding induces a conformational change in the receptor that promotes dissociation of the receptor from Hsp90, dimerization and translocation into the nucleus. This movement into the nucleus allows the receptor to bind to genomic locations based on sequence recognition of the DNA binding domain, also known as the Estrogen Response Elements (EREs).[A178861] \r\n\r\nIn bones, endogenous estrogens normally modulate multiple DNA response elements, including the gene-encoding transforming growth factor-\u03b23 (TGF-\u03b23), which is a cytokine embedded in the bone matrix.[T28] TGF-\u03b23 plays an important role in bone remodelling[A178756] by working with other cytokines to induce production of osteoblasts, such as IL-6[A720], and attenuate the activity of osetoclasts. Estrogens typically maintain the bone integrity by inhibiting the cytokines that recruit osteoclasts and oppose the bone-resorbing, Ca2+-mobilizing action of parathyroid hormone. In contrast, estrogens promote osteoblast proliferation, augment the production of TGF-\u03b23 and bone morphogenic proteins, and inhibit apoptosis.[T28] Mimicking the action of endogenous estrogen in bone tissues, raloxifene binds to the estrogen receptor to influence gene transcription through interactions with the estrogen response element (ERE) and a distinct DNA target, the raloxifene response element (RRE).[A722] It occupies the same ER ligand binding site as estrogen.[A724] Upon binding, raloxifene induces a conformational change of the receptor, allowing mediation of direct binding to transcriptional elements by accessory proteins. Increased expression of bone matrix proteins, such as alkaline phosphatase, osteonectin, osteocalcin and collagen may be seen.[A722] The agonistic or antagonistic action of raloxifene depends on the extent of recruitment of coactivators and corepressors to estrogen receptor (ER) target gene promotors.[label] In breast tissues, raloxifene acts as an estrogen receptor antagonist to attenuate the estrogen-dependent proliferative effects of epithelial cell expansion. In addition to the antiproliferative effects, raloxifene prevents the production of cytokines and recruitment of macrophages and lymphocytes into tumor mass.[A178921]",
+    "absorption": "Raloxifene is well absorbed from the gastrointestinal tract, with approximately 60% fo the drug being absorbed following oral administration.[T28] Due to the extensive first-pass hepatic metabolism that involves glucuronide conjugation, the absolute oral bioavailability of raloxifene is about 2%.[T28] Following oral ingestion of a single dose or multiple dose of raloxifen in healthy postmenopausal women, the mean peak plasma concentrations (Cmax) were 0.50 and 1.36 ng/mL, respectively, and the AUC values were 27.2 and 24.2 ngxhr/mL, respectively. The time to reach Cmax following a single or multiple oral doses were 27.7 and 32.5 hours, respectively.[label] Although not clinically significant, oral ingestion of raloxifene with high-fat meals is thought to increase the systemic bioavailability of the drug[A4977] by increasnig the peak plasma concentrations (Cmax) and AUC by 28% and 16%, respectively.[label]",
+    "metabolism": "Raloxifene is reported to undergo metabolism in the intestines and liver devoid of cytochrome P450 pathway.[A4977] It is extensively metabolized, where less than 1% of the total dose exists as unchanged compound.[label] It mainly undergoes first-pass metabolism to form glucuronide conjugates, raloxifene-4'-glucuronide (raloxifene-4'-\u03b2-glucuronide), raloxifene-6-glucuronide (raloxifene-6-\u03b2-glucuronide), and raloxifene-6,4'-diglucuronide. No other metabolites have been detected in human plasma. The terminal log-linear portions of the plasma concentration curves for raloxifene and the glucuronides are generally parallel. This is consistent with interconversion of raloxifene and the glucuronide metabolites.[label]",
+    "toxicity": "**LD<sub>50</sub> and Overdose**\r\n\r\nThe oral LD<sub>50</sub> value in rats is > 5000 mg/kg, which is about 810 times the human dose.[MSDS] In monkeys, no mortality was seen after a single oral dose of 1000 mg/kg.[label] No cases of raloxifene overdose have been reported during clinical trials. A rare postmarketing report of a non-fatal overdose after oral ingestion of 1.5 g has been reported. Common adverse events of leg cramps, hot flushes, and dizziness have been reported with the use of raloxifene at doses of greater than 180 mg. More serious adverse event of venous thromboembolic events were observed with raloxifene.[A721] Two 18-month-old children accidentally ingested 180 mg of raloxifene and symptoms of ataxia, dizziness, vomiting, rash, diarrhea, tremor, flushing, and elevated alkaline phosphatase levels were reported. There is no known antidote for raloxifene. [label] \r\n\r\n**Nonclinical Toxicology**\r\n\r\nIn a two-year mouse carcinogenicity study at raloxifene doses that are higher than the human therapeutic doses, there was an increased incidence of benign and malignant ovarian tumors of granulosa or theca cell origin. Another study showed an increased incidence of testicular interstitial cell tumors, prostatic adenomas, adenocarcinomas, and prostatic leiomyoblastoma in male mice receiving doses higher than human therapeutic doses. There was no evidence of the genotoxic potential of raloxifene in bacterial mutagenicity assays, _in vitro_ rat DNA assays, or other _in vitro_ rodent cell line assays. When assessing effects on the reproductive system of male and female rats, raloxifene caused lack of pregnancy and disruptions in estrous cycles and inhibited ovulation at dose of 0.1 to 10 mg/kg/day. Administration of raloxifene during the preimplantation period at doses greater than 0.1 mg/kg resulted in delayed and disrupted embryo implantation, further leading to prolonged gestation and reduced litter size. There were no effects on sperm production or quality or reproductive performance in male rats. The effects on the fertility by raloxifene were reversible.[label] \r\n\r\n**Use in special populations**\r\n\r\nThe use of raloxifene in pregnant or nursing women is not advised. Although there are no specific dosing adjustment guidelines, caution should be undertaken when administering raloxifene in geriatric patients or patients with renal or hepatic impairment.[label]",
+    "targets": [
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ],
+        [
+            "ESR2",
+            "Estrogen receptor beta",
+            "Humans"
+        ],
+        [
+            "SERPINB9",
+            "Serpin B9",
+            "Humans"
+        ],
+        [
+            "TFF1",
+            "Trefoil factor 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "AOX1",
+            "Aldehyde oxidase",
+            "Humans"
+        ],
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferase 1-10",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferase 1-8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

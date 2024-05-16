@@ -1,0 +1,97 @@
+{
+    "pharmgkb_id": "PA166235322",
+    "drugbank_id": "DB15305",
+    "names": [
+        "Risdiplam"
+    ],
+    "description": "Risdiplam is an orally bioavailable mRNA splicing modifier used for the treatment of spinal muscular atrophy (SMA).[L12615] It increases systemic SMN protein concentrations by improving the efficiency of _SMN2_ gene transcription. This mechanism of action is similar to its predecessor [nusinersen], the biggest difference being their route of administration: nusinersen requires intrathecal administration, as does the one-time gene therapy [onasemnogene abeparvovec], whereas risdiplam offers the ease of oral bioavailability.[L15351,A216871]\r\n\r\nRisdiplam was approved by the FDA in August 2020 for the treatment of spinal muscular atrophy (SMA).[L15331,L15336] Set to be substantially cheaper than other available SMA therapies,[L15351] risdiplam appears to provide a novel and relatively accessible treatment option for patients with SMA regardless of severity or type.",
+    "indication": "Risdiplam is indicated for the treatment of spinal muscular atrophy (SMA).[L41935]",
+    "pharmacodynamics": "Risdiplam helps to alleviate symptoms of spinal muscular atrophy by stimulating the production of a critical protein in which these patients are deficient. Early trials with risdiplam demonstrated up to a 2-fold increase in SMN protein concentration in SMA patients after 12 weeks of therapy.[A192756]",
+    "mechanism-of-action": "Spinal muscular atrophy (SMA) is a severe and progressive congenital neuromuscular disease resulting from mutations in the survival of motor neuron 1 (_SMN1_) gene responsible for making SMN proteins.[A192759] Clinical features of SMA include degeneration of motor neurons in the spinal cord which ultimately leads to muscular atrophy and, in some cases, loss of physical strength.[A192750] SMN proteins are expressed ubiquitously throughout the body and are thought to hold diverse intracellular roles in DNA repair, cell signaling, endocytosis, and autophagy.[A192750] A secondary _SMN_ gene (_SMN2_) can also produce SMN proteins, but a small nucleotide substitution in its sequence results in the exclusion of exon 7 during splicing in approximately 85% of the transcripts - this means that only ~15% of the SMN proteins produced by _SMN2_ are functional,[A192750] which is insufficient to compensate for the deficits caused by _SMN1_ mutations. Emerging evidence suggests that many cells and tissues are selectively vulnerable to reduced SMN concentrations, making this protein a desirable target in the treatment of SMA.[A192750]\r\n\r\nRisdiplam is an mRNA splicing modifier for _SMN2_ that increases the inclusion of exon 7 during splicing, which ultimately increases the amount of functional SMN protein produced by _SMN2_.[A192759] It does so by binding to two sites in _SMN2_ pre-mRNA: the 5' splice site (5'ss) of intron 7 and the exonic splicing enhancer 2 (ESE2) of exon 7.[A216871]",
+    "absorption": "The T<sub>max</sub> following oral administration is approximately 1-4 hours.[A192759,L15336] Following once-daily administration with a morning meal (or after breastfeeding), risdiplam reaches steady-state in approximately 7-14 days.[L15336] The pharmacokinetics of risdiplam were found to be approximately linear between all studied dosages in patients with SMA.[L15336]",
+    "metabolism": "The metabolism of risdiplam is mediated primarily by flavin monooxygenases 1 and 3 (FMO1 and FMO3), with some involvement of CYP1A1, CYP2J2, CYP3A4, and CYP3A7.[L15336] Parent drug comprises approximately 83% of circulating drug material.[L15336]\r\n\r\nA pharmacologically-inactive metabolite, M1, has been identified as the major circulating metabolite - this M1 metabolite has been observed _in vitro_ to inhibit MATE1 and MATE2-K transporters, similar to the parent drug.[L15336]",
+    "toxicity": "Data regarding overdose of risdiplam are unavailable. Symptoms of overdose are likely to be consistent with risdiplam's adverse effect profile, and may therefore involve significant fever, diarrhea, and skin reactions.[L15336]",
+    "targets": null,
+    "enzymes": [
+        [
+            "FMO1",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 1",
+            "Humans"
+        ],
+        [
+            "FMO3",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 3",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2J2",
+            "Cytochrome P450 2J2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,78 @@
+{
+    "pharmgkb_id": "PA166177519",
+    "drugbank_id": "DB09076",
+    "names": [
+        "Umeclidinium"
+    ],
+    "description": "Umeclidinium is a long-acting muscarinic antagonist (LAMA) used as a maintenance treatment for symptoms of chronic obstructive pulmonary disease (COPD). COPD is a progressive obstructive lung disease characterized by shortness of breath, cough, sputum production, and chronically poor airflow with a forced expiratory volume in 1 second (FEV1) of less than 80%.[A7715]\r\n\r\nMaintenance of the airway is controlled by the parasympathetic nervous system, particularly by the abundance of the muscarinic subtype 3 (M3) in the airway smooth muscle.[A7719] Parasympathetic ganglia are associated with the larger airways while postganglionic fibers innervate the smaller diameter bronchioles contributing to airway resistance.[A7719] By blocking the M3 muscarinic receptor, umeclidinium inhibits the binding of acetylcholine and thereby opens up the airways by preventing bronchoconstriction.[A7719] However, even though umeclidinium monotherapy is well-tolerated for up to 14 days, it is more likely to be used in combination therapy, as the international Gold Initiative for Chronic Obstructive Lung Disease (GOLD) guidelines recommended the use of two long-acting bronchodilators with differing mechanisms of action to maximize efficacy and minimize adverse effects.[A7718,A7714]\r\n\r\nUmeclidinium was approved by the FDA in April 2014 under the brand name Incruse Ellipta as a standalone product.[L47042] Later, it was further approved as a combination product with [vilanterol] and [vilanterol]/[fluticasone furoate] under the brand name ANORO ELLIPTA and TRELEGY ELLIPTA respectively.[L44461,L44456]. ANORO ELLIPTA was approved in December 2013 while TRELEGY ELLIPTA was approved in September 2017.[L46881,L46886]",
+    "indication": "Umeclidinium is approved by the FDA and Health Canada for the maintenance treatment of patients with chronic obstructive pulmonary disease (COPD).[L44466,L46931] Additionally, umeclidinium also exists as combination products with [vilanterol] or [vilanterol] and [fluticasone furoate].[L44461,L44456,L46961,L46966] Both products were indicated for the maintenance treatment of COPD, but only the umeclidinium/[vilanterol]/[fluticasone furoate] product was approved  for the maintenance treatment of asthma in patients aged 18 years and older.[L44461,L44456,L46961,L46966]",
+    "pharmacodynamics": "QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled, crossover trial in 86 healthy subjects. Following repeat doses of umeclidinium 500 mcg once daily (8 times the recommended dosage) for 10 days, umeclidinium does not prolong QTc to any clinically relevant extent.[L44466]\r\n\r\nIn humans, the M3 receptor has been heavily implicated in the pathophysiology of asthma and COPD. Once the M3 receptor is activated, the phospholipase C would phosphorylate downstream targets, forming inositol 1,4,5-trisphosphate and eventually releasing intracellular Ca<sup>2+</sup>.[A260091] Increase in intracellular Ca<sup>2+</sup> results in muscle contraction, thus worsening COPD and asthma-related bronchoconstriction.[A260091] Additionally, M3 receptor activation also regulates pathways involving CD38, cyclic ADP ribose (cADPR), and ryanodine receptor channels, all of which control the intracellular Ca<sup>2+</sup> homeostasis that will lead to muscle contraction.[A260091]",
+    "mechanism-of-action": "Umeclidinium is a long-acting muscarinic antagonist, which is often referred to as an anticholinergic. It has similar affinity to the subtypes of muscarinic receptors M1 to M5. In the airways, it exhibits pharmacological effects through inhibition of M3 receptors at the smooth muscle leading to bronchodilation. The competitive and reversible nature of antagonism was shown with human and animal origin receptors and isolated organ preparations. In preclinical in vitro as well as in vivo studies, prevention of methacholine- and acetylcholine-induced bronchoconstrictive effects was dose-dependent and lasted longer than 24 hours. The clinical relevance of these findings is unknown. The bronchodilation following inhalation of umeclidinium is predominantly a site-specific effect.[L44466]",
+    "absorption": "Umeclidinium plasma levels may not predict therapeutic effect. Following inhaled administration of umeclidinium in healthy subjects, C<sub>max</sub> occurred at 5 to 15 minutes. Umeclidinium is mostly absorbed from the lung after inhaled doses with minimum contribution from oral absorption. Following repeat dosing of inhaled umeclidinium, steady state was achieved within 14 days with 1.8-fold accumulation.[L44466] The absolute bioavailability of inhaled umeclidinium was on average 13% of the dose, with negligible contribution from oral absorption.[L46931]",
+    "metabolism": "In vitro data showed that umeclidinium is primarily metabolized by the enzyme cytochrome P450 2D6 (CYP2D6) and is a substrate for the P-glycoprotein (P-gp) transporter. The primary metabolic routes for umeclidinium are oxidative (hydroxylation, O-dealkylation) followed by conjugation (e.g., glucuronidation), resulting in a range of metabolites with either reduced pharmacological activity or for which the pharmacological activity has not been established. Systemic exposure to the metabolites is low.[L44466]",
+    "toxicity": "In separate embryofetal developmental studies, pregnant rats and rabbits received umeclidinium during the period of organogenesis at doses up to approximately 50 and 200 times the maximum recommended human daily inhaled dose (MRHDID), respectively (on an AUC basis at maternal inhalation doses up to 278 mcg/kg/day in rats and at maternal subcutaneous doses up to 180 mcg/kg/day in rabbits). No evidence of teratogenic effects was observed in either species.[L44466] \r\n\r\nIn a perinatal and postnatal developmental study in rats, dams received umeclidinium during late gestation and lactation periods with no evidence of effects on offspring development at doses up to approximately 26 times the MRHDID (on an AUC basis at maternal subcutaneous doses up to 60 mcg/kg/day).[L44466] \r\n\r\nBased on available data, no adjustment of the dosage of umeclidinium in geriatric patients is necessary, but greater sensitivity in some older individuals cannot be ruled out. \r\nClinical trials of umeclidinium included 810 subjects aged 65 years and older, and, of those, 183 subjects were aged 75 years and older. No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger subjects.[L44466] \r\n\r\nUmeclidinium produced no treatment-related increases in the incidence of tumors in 2-year inhalation studies in rats and mice at inhaled doses up to 137 and 295/200 mcg/kg/day (male/female), respectively (approximately 20 and 25/20 times the MRHDID in adults on an AUC basis, respectively).[L44466] \r\n\r\nUmeclidinium tested negative in the following genotoxicity assays: the in vitro Ames assay, in vitro mouse lymphoma assay, and in vivo rat bone marrow micronucleus assay.[L44466] \r\n\r\nNo evidence of impairment of fertility was observed in male and female rats at subcutaneous doses up to 180 mcg/kg/day and at inhaled doses up to 294 mcg/kg/day, respectively (approximately 100 and 50 times, respectively, the MRHDID in adults on an AUC basis).[L44466]\r\n\r\nNo human overdosage data has been reported with umeclidinium High doses of umeclidinium may lead to anticholinergic signs and symptoms. However, there were no systemic anticholinergic adverse effects following a once-daily inhaled dose of up to 1,000 mcg of umeclidinium (16 times the maximum recommended daily dose) for 14 days in subjects with COPD. Treatment of overdosage consists of discontinuation of INCRUSE ELLIPTA together with institution of appropriate symptomatic and/or supportive therapy.[L44466]\r\n\r\nIn clinical trials, the most common adverse effects of umeclidinium were nasopharyngitis, upper respiratory tract infection, cough, and arthralgia. Atrial fibrillation occurred in <1% of patients, but was more common among patients treated with umeclidinium than in those treated with placebo. Anticholinergics like umeclidinium should be used with caution in patients with narrow-angle glaucoma and in those with prostatic hyperplasia or bladder-neck obstruction. Inhaled medications can cause paradoxical bronchospasm, which can be fatal.[L44466]",
+    "targets": [
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

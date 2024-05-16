@@ -1,0 +1,82 @@
+{
+    "pharmgkb_id": "PA450384",
+    "drugbank_id": "DB00244",
+    "names": [
+        "Mesalazine",
+        "Asacolitin",
+        "Claversal",
+        "Fisalamine",
+        "Iialda",
+        "Lixacol"
+    ],
+    "description": "An anti-inflammatory agent, structurally related to the salicylates and non-steroidal anti-inflammatory drugs like acetylsalicylic acid, which is active in inflammatory bowel disease [A174022]. Although demonstrably effective in treating and maintaining remission for ulcerative colitis, mesalazine has historically faced a number of issues regarding its lack of stability as a pharmaceutical agent [A174019]. Throughout the late seventies and the eighties, important research initiatives developed stable mesalazine formulations like the eudragit-S coating of Asacol brand mesalazine and the Pentasa brand's encapsulation of mesalazine within microgranules [A174019]. In the present day, contemporary research regarding novel methods to stabilize mesalazine continues and interest in the agent's capacity to decrease inflammatory activity and subsequently potentially reduce the risk of colorectal cancer in conditions like ulcerative colitis is maintained.[A174019,A174022]",
+    "indication": "Mesalazine is indicated for the treatment of mildly to moderately active ulcerative colitis in adults and patients 5 years or older.[L36280,L36275]. Mesalazine is also indicated for the maintenance of remission of ulcerative colitis in adults and maintenance of remission of Crohn's ileocolitis.[L44196,L5101]\r\n",
+    "pharmacodynamics": "Mesalazine is one of the two components of sulphasalazine, the other being sulphapyridine. It is the latter responsible for most of the side effects associated with sulphasalazine therapy, while mesalazine is known to be the active moiety in the treatment of ulcerative colitis [L5101].\r\n\r\nMesalazine is thought to dampen the inflammatory process through its ability to inhibit prostaglandin synthesis, interfere with leukotriene synthesis, and consequent leukocyte migration as well as act as a potent scavenger of free radicals.[L37023] Regardless of the mode of action, mesalazine appears to be active mainly topically rather than systemically.[L37023]\r\n\r\nIntraperitoneally administered mesalazine at 30 and 340 mg/kg daily had similar efficacy in attenuating colitis as prednisolone 4 to 550 mg/kg daily given intraperitoneally or sulphasalazine 0.34 to 5 mg/kg given orally in immune complex-induced colitis mice.[A254851] Mesalazine at 5 mmol/L and sulphasalazine 1.5 mmol/L also reversed the increase in water and chloride secretion and decrease the sodium in dinitrochlorbenzene-induced colitis guinea pig.[A254851]",
+    "mechanism-of-action": "Although the mechanism of action of mesalazine is not fully understood, it is believed to possess a topical anti-inflammatory effect on colonic epithelial cells.[L36230] Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase pathways, i.e., prostanoids, and through the lipoxygenase pathways, i.e., leukotrienes and hydroxyeicosatetraenoic acids, is increased in patients with chronic inflammatory bowel disease, and it is possible that mesalazine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon.[L36230]\r\n\r\nFurthermore, mesalazine also has the potential to inhibit the activation of Nuclear Factor kappa B (NFkB) and consequently the production of key pro-inflammatory cytokines.[A16800,A4391,A16799] It has been proposed that reduced expression of PPAR gamma nuclear receptors (gamma form of peroxisome proliferator-activated receptors) may be implicated in ulcerative colitis, and that mesalazine produces pharmacodynamic effects through direct activation of PPAR gamma receptors in the colonic/rectal epithelium.[A16797,A16798,A16516,A16515] Other research also showed the potential involvement of inducible NO synthase (iNOS) and that mesalazine can inhibit this enzyme to amiliorate the enteropathy in inflammatory bowel diseases.[L37023] \r\n\r\nMoreover, since increased leukocyte migration, abnormal cytokine production, increased production of arachidonic acid metabolites, particularly leukotriene B4, and increased free radical formation in the inflamed intestinal tissue are all present in patients with inflammatory bowel disease it is also believed that mesalazine has in-vitro and in-vivo pharmacological effects that inhibit leukocyte chemotaxis, decrease cytokine and leukotriene production and scavenge for free radicals.[L5107]",
+    "absorption": "Depending on the formulation administered, prescribing information for orally administered delayed-released tablets of 2.4g or 4.8g of mesalazine given once daily for 14 days to healthy volunteers was to found to be about 21% to 22% of the administered dose [FDA Label] while prescribing information for an orally administered controlled-release capsule formulation suggests 20% to 30% of the mesalazine in the formulation is absorbed.[F3001] In contrast, when mesalamine is administered orally as an unformulated 1-g aqueous suspension, mesalazine is approximately 80% absorbed.[F3001] ",
+    "metabolism": "Mesalazine is metabolized both pre-systemically by the intestinal mucosa and systemically in the liver to N-acetyl-5-aminosalicylic acid (N-Ac-5-ASA) principally by NAT-1. Some acetylation also occurs through the action of colonic bacteria.[L5107,L44196]",
+    "toxicity": "Mesalazine caused no increase in the incidence of neoplastic lesions over controls in a two-year study of Wistar rats fed up to 320 mg/kg/day of mesalazine admixed with diet (about 1.7 times the recommended human intra-rectal dose of CANASA, based on body\r\nsurface area).  Mesalazine was not mutagenic in the Ames test, the mouse lymphoma cell (TK+/-) forward mutation test, or the mouse micronucleus test. No effects on fertility or reproductive performance of the male and female rats were observed at oral mesalamine doses up to 320 mg/kg/day (about 1.7 times the recommended human intra-rectal dose of mesalazine, based on body surface area).[L36280]  \r\n\r\nMesalazine is an aminosalicylate, and symptoms of salicylate toxicity include nausea, vomiting and abdominal pain, tachypnea, hyperpnea, tinnitus, and neurologic symptoms (headache, dizziness, confusion, seizures). Severe salicylate intoxication may lead to electrolyte and blood pH imbalance and potentially to other organ involvement (e.g., renal and liver). There is no specific antidote for mesalamine overdose; however, conventional therapy for salicylate toxicity may be beneficial in the event of acute\r\noverdosage and may include gastrointestinal tract decontamination to prevent further absorption. Correct fluid and electrolyte imbalance by the administration of appropriate intravenous therapy and maintain adequate renal function.[L36230] \r\n\r\nMesalazine is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function. Evaluate renal function in all patients prior to initiation and periodically while on Asacol HD therapy. Monitor patients with known renal impairment or a history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions.[L36230]",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "ALOX5",
+            "Arachidonate 5-lipoxygenase",
+            "Humans"
+        ],
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ],
+        [
+            "CHUK",
+            "Inhibitor of nuclear factor kappa-B kinase subunit alpha",
+            "Humans"
+        ],
+        [
+            "IKBKB",
+            "Inhibitor of nuclear factor kappa-B kinase subunit beta",
+            "Humans"
+        ],
+        [
+            "NOS2",
+            "Nitric oxide synthase, inducible",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "NAT1",
+            "Arylamine N-acetyltransferase 1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,30 @@
+{
+    "pharmgkb_id": "nan-964acaa3-859b-44c7-9398-9335a446e9f2",
+    "drugbank_id": "DB00314",
+    "names": [
+        "Capreomycin",
+        "Capastat",
+        "Capreomycin",
+        "Helpomycin",
+        "Kapocin",
+        "Lykocin"
+    ],
+    "description": "Cyclic peptide antibiotic similar to viomycin. It is produced by Streptomyces capreolus.",
+    "indication": "Used in the treatment of tuberculosis in combination with other drugs.",
+    "pharmacodynamics": "Capreomycin is a member of the aminoglycoside family of antibiotics. These antibiotics have the ability to kill a wide variety of bacteria, including bacteria responsible for causing tuberculosis (TB).",
+    "mechanism-of-action": "Little is known about capreomycin's exact mechanism of action, but it is thought to inhibit protein synthesis by binding to the 70S ribosomal unit. Capreomycin also binds to components in the bacterial cell which result in the production of abnormal proteins. These proteins are necessary for the bacteria's survival. Therefore the production of these abnormal proteins is ultimately fatal to the bacteria.",
+    "absorption": "Not absorbed in significant quantities from the gastrointestinal tract and must be administered parenterally.",
+    "metabolism": null,
+    "toxicity": "Hypokalemia, hypocalcemia, hypomagnesemia, and an electrolyte disturbance resembling Bartter's syndrome have been reported to occur in patients with capreomycin toxicity. The subcutaneous median lethal dose (LD<sub>50</sub>) in mice was 514 mg/kg.",
+    "targets": [
+        [
+            "tlyA",
+            "16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA",
+            "Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

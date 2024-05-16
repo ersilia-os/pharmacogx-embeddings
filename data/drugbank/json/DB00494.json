@@ -1,0 +1,43 @@
+{
+    "pharmgkb_id": "PA164748726",
+    "drugbank_id": "DB00494",
+    "names": [
+        "Entacapone",
+        "Anxopone",
+        "Comtade"
+    ],
+    "description": "Entacapone is a selective, reversible catechol-O-methyl transferase (COMT) inhibitor for the treatment of Parkinson's disease. It is a member of the class of nitrocatechols. When administered concomittantly with levodopa and a decarboxylase inhibitor (e.g., carbidopa), increased and more sustained plasma levodopa concentrations are reached as compared to the administration of levodopa and a decarboxylase inhibitor.",
+    "indication": "Used as an adjunct to levodopa / carbidopa in the symptomatic treatment of patients with idiopathic Parkinson's Disease who experience the signs and symptoms of end-of-dose \"wearing-off\".",
+    "pharmacodynamics": "Entacapone is structurally and pharmacologically related to tolcapone, but unlike tolcapone, is not associated with hepatotoxicity. Entacapone is used in the treatment of Parkinson&rsquo;s disease as an adjunct to levodopa/carbidopa therapy. Entacapone selectively and reversiblly inhibits catechol-O-methyltransferase (COMT). In mammals, COMT is distributed throughout various organs with the highest activities in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells and neuronal tissues, especially in glial cells. COMT catalyzes the transfer of the methyl group of S-adenosyl-L-methionine to the phenolic group of substrates that contain a catechol structure. Physiological substrates of COMT include dopa, catecholamines (dopamine, norepinephrine, and epinephrine) and their hydroxylated metabolites. The function of COMT is the elimination of biologically active catechols and some other hydroxylated metabolites. COMT is responsible for the elimination of biologically active catechols and some other hydroxylated metabolites. In the presence of a decarboxylase inhibitor, COMT becomes the major metabolizing enzyme for levodopa, catalyzing the it to 3-methoxy-4-hydroxy-L-phenylalanine (3-OMD) in the brain and periphery.",
+    "mechanism-of-action": "The mechanism of action of entacapone is believed to be through its ability to inhibit COMT in peripheral tissues, altering the plasma pharmacokinetics of levodopa. When entacapone is given in conjunction with levodopa and an aromatic amino acid decarboxylase inhibitor, such as carbidopa, plasma levels of levodopa are greater and more sustained than after administration of levodopa and an aromatic amino acid decarboxylase inhibitor alone. It is believed that at a given frequency of levodopa administration, these more sustained plasma levels of levodopa result in more constant dopaminergic stimulation in the brain, leading to a greater reduction in the manifestations of parkinsonian syndrome.",
+    "absorption": "Entacapone is rapidly absorbed (approximately 1 hour). The absolute bioavailability following oral administration is 35%.",
+    "metabolism": "Metabolized via isomerization to the cis-isomer, followed by direct glucuronidation of the parent and cis-isomer.",
+    "toxicity": "Side effect include increase the occurrence of orthostatic hypotension, severe rhabdomyolysis, dyskinesia, hallucinations, hyperkinesia, hypokinesia, dizziness, fatigu,e gastrointestinal effects including abdominal pain constipation diarrhea nausea",
+    "targets": [
+        [
+            "COMT",
+            "Catechol O-methyltransferase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "COMT",
+            "Catechol O-methyltransferase",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

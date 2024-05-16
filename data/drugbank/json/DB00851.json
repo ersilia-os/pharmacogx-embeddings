@@ -1,0 +1,52 @@
+{
+    "pharmgkb_id": "PA449197",
+    "drugbank_id": "DB00851",
+    "names": [
+        "Dacarbazine",
+        "Dacatic",
+        "D\u00e9tic\u00e8ne",
+        "Deticene",
+        "Detimedac",
+        "DTIC",
+        "DTIC-Dome"
+    ],
+    "description": "An antineoplastic agent. It has significant activity against melanomas. (from Martindale, The Extra Pharmacopoeia, 31st ed, p564). Dacarbazine with Oblimersen is in clinical trials for the treatment of malignant melanoma.",
+    "indication": "For the treatment of metastatic malignant melanoma. In addition, dacarbazine is also indicated for Hodgkin's disease as a secondary-line therapy when used in combination with other antineoplastic agents.",
+    "pharmacodynamics": "Dacarbazine is a synthetic analog of naturally occurring purine precursor 5-amino-1H-imidazole-4-carboxamide (AIC). After intravenous administration of dacarbazine, the volume of distribution exceeds total body water content suggesting localization in some body tissue, probably the liver. Its disappearance from the plasma is biphasic with initial half-life of 19 minutes and a terminal half-life of 5 hours. 1 In a patient with renal and hepatic dysfunctions, the half-lives were lengthened to 55 minutes and 7.2 hours. 1 The average cumulative excretion of unchanged DTIC in the urine is 40% of the injected dose in 6 hours. 1 DTIC is subject to renal tubular secretion rather than glomerular filtration. At therapeutic concentrations dacarbazine is not appreciably bound to human plasma protein.",
+    "mechanism-of-action": "The mechanism of action is not known, but appears to exert cytotoxic effects via its action as an alkylating agent. Other theories include DNA synthesis inhibition by its action as a purine analog, and interaction with SH groups. Dacarbazine is not cell cycle-phase specific.",
+    "absorption": "Erratic, slow and incomplete.",
+    "metabolism": "Hepatic",
+    "toxicity": "LD<sub>50</sub>=350mg/kg (orally in mice)",
+    "targets": [
+        [
+            "POLA2",
+            "DNA polymerase alpha subunit B",
+            "Humans"
+        ],
+        [
+            "PGD",
+            "6-phosphogluconate dehydrogenase, decarboxylating",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

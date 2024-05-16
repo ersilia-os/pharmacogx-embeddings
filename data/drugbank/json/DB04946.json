@@ -1,0 +1,104 @@
+{
+    "pharmgkb_id": "PA161199368",
+    "drugbank_id": "DB04946",
+    "names": [
+        "Iloperidone",
+        "Fanapta",
+        "Fiapta",
+        "Zomaril"
+    ],
+    "description": "Iloperidone is an atypical antipsychotic for the treatment of schizophrenia symptoms. Hoechst Marion Roussel Inc. researched the drug until May 1996. In June 1997 they gave the research rights to Titan Pharmaceuticals, who gave the worldwide development, manufacturing, and marketing rights to Novartis in August 1998. On June 9, 2004, Titan Pharmaceuticals gave the Phase III development rights to Vanda Pharmaceuticals. FDA approved on May 9, 2009.",
+    "indication": "Treatment of acute schizophrenia. ",
+    "pharmacodynamics": "Iloperidone shows high affinity and maximal receptor occupancy for dopamine D2 receptors in the caudate nucleus and putamen of the brains of schizophrenic patients. The improvement in cognition is attributed to iloperidone's high affinity for  \u03b1 adrenergic receptors. Iloperidone also binds with high affinity to serotonin 5-HT2a and dopamine 3 receptors. Iloperidone binds with moderate affinity to dopamine D4, serotonin 5-HT6 and 5-HT7, and norepinephrine NE\u03b11 receptors. Furthermore, iloperidone binds with weak affinity to serotonin 5-HT1A, dopamine D1, and histamine H1 receptors. ",
+    "mechanism-of-action": "Iloperidone is a dopamine D2 and 5-HT2A receptor antagonist and acts as a neuroleptic agent. \r\n\r\n",
+    "absorption": "Well absorbed from the GI tract and Cmax is reached within 2-4 hours.\r\nSteady-state concentration is achieved in 3-4 days post-administration of iloperidone. Relative bioavailability of the tablet formulation compared to oral solution is 96%. Accumulation occurs in a predictable fashion. ",
+    "metabolism": "Iloperidone is hepatically metabolized by cytochrome enzymes which mediates O-dealkylation (CYP3A4), hydroxylation (CYP2D6), and decarboxylation/reduction processes. Metabolites formed are P89, P95, and P88. The minor metabolite is P89, whereas P95 and P88 are the major ones. The affinity of the iloperidone metabolite P88 is generally equal or less than that of the parent compound. In contrast, the metabolite P95 only shows affinity for 5-HT2A (Ki value of 3.91) and the NE\u03b11A, NE\u03b11B, NE\u03b11D, and NE\u03b12C receptors (Ki values of 4.7, 2.7, 8.8 and 4.7 nM respectively).",
+    "toxicity": "Commonly observed adverse reactions (incidence \u22655% and two-fold greater than placebo) were: dizziness, dry mouth, fatigue, nasal congestion, orthostatic hypotension, somnolence, tachycardia, and weight increased.",
+    "targets": [
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "Dopamine D1 receptor",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "DRD4",
+            "Dopamine D4 receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR6",
+            "5-hydroxytryptamine receptor 6",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

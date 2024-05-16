@@ -1,0 +1,47 @@
+{
+    "pharmgkb_id": "PA164748978",
+    "drugbank_id": "DB01261",
+    "names": [
+        "Sitagliptin"
+    ],
+    "description": "Sitagliptin is an oral dipeptidyl peptidase-4 (DPP-4) inhibitor used in conjunction with diet and exercise to improve glycemic control in patients with type 2 diabetes mellitus[FDA label,A2260,A2255,A2256]. The effect of this medication leads to glucose dependent increases in insulin and decreases in glucagon to improve control of blood sugar[FDA label,A2255]. Sitagliptin was granted FDA approval on October 16, 2006[L6061].",
+    "indication": "Sitagliptin is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. It is not used to treat type 1 diabetes or patients with a history of pancreatitis.[L41220]\r\n\r\nIt is also used in combination with [metformin] [L41215] or [ertugliflozin].[L41225]",
+    "pharmacodynamics": "Sitagliptin inhibits DPP-4 which leads to increased levels of glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide(GIP), decreased levels of glucagon, and a stronger insulin response to glucose[FDA label,A2260,A2255,A2256].",
+    "mechanism-of-action": "Inhibition of DPP-4 by sitagliptin slows DPP-4 mediated inactivation of incretins like GLP-1 and GIP[FDA label,A2256]. Incretins are released throughout the day and upregulated in response to meals as part of glucose homeostasis[FDA label,A2260]. Reduced inhibition of incretins increase insulin synthesis and decrease glucagon release in a manner dependant on glucose concentrations[FDA label,A2255]. These effects lead to an overall increase in blood glucose control which is demonstrated by reduced glycosylated hemoglobin (HbA1c)[FDA label,A2260].",
+    "absorption": "Sitagliptin is 87% orally bioavailable and taking it with or without food does not affect its pharmacokinetics[FDA label,A2260]. Sitagliptin reaches maximum plasma concentration in 2 hours[A2260].",
+    "metabolism": "Sitagliptin is mostly not metabolised, with 79% of the dose excreted in the urine as the unchanged parent compound[FDA label]. Minor metabolic pathways are mediated mainly by cytochrome p450(CYP)3A4 and to a lesser extent by CYP2C8[FDA label]. After 18 hours, 81% of the dose has remained unchanged, while 2% has been N-sulfated to the M1 metabolite, 6% has been  oxidatively desaturated and cyclized to the M2 metabolite, <1% glucuronidated at an unknown site to the M3 metabolite, <1% has been carbamoylated and glucuronidated to the M4 metabolite, 6% has been oxidatively saturated and cyclized to the M5 metabolite, and 2% has been hydroxylated at an unknown site to the M6 metabolite[A177649]. The M2 metabolite is the cis isomer while the M5 metabolite is the trans isomer of the same metabolite[A177649].",
+    "toxicity": "Animal studies in pregnancy have shown no adverse effects on the mother or offspring at normal doses, however these results are not always applicable to humans. There is a voluntary fetal exposure registry [FDA label,L6067]. Animal studies at 100 times the maximum recommended human dose resulted in an increase in rib malformations. Sitagliptin is excreted in the milk of rats but it is not known if it would also be expressed in human breast milk. Because many drugs are expressed in human breast milk, the risk and benefit of prescribing the medication must be considered. There is currently a lack of safety and effectiveness data in pediatric patients. No differences in safety and efficacy were observed in geriatric patients compared to younger patients, however caution should be used in this population as they are more likely to have reduced renal function[FDA label]. Sitagliptin has also been associated with a 34% relative risk increase for all cause infection[A2260]. There was no significant difference in patient response across sex, age, race, ethnicity, and BMI[A2257].",
+    "targets": [
+        [
+            "DPP4",
+            "Dipeptidyl peptidase 4",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

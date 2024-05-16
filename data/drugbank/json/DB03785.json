@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA166163161",
+    "drugbank_id": "DB03785",
+    "names": [
+        "Mevinolinic acid"
+    ],
+    "description": null,
+    "indication": null,
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "mvaA",
+            "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+            "Pseudomonas mevalonii"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,247 @@
+{
+    "pharmgkb_id": "PA449503",
+    "drugbank_id": "DB00783",
+    "names": [
+        "Estradiol",
+        "Estraderm MX",
+        "Estraderm TTS",
+        "Estrofem",
+        "Femtrace"
+    ],
+    "description": "Estradiol is a naturally occurring hormone circulating endogenously in females. It is commercially available in several hormone therapy products for managing conditions associated with reduced estrogen, such as vulvovaginal atrophy and hot flashes. Some available forms of estradiol include oral tablets, injections, vaginal rings, transdermal patches, sprays, gels, and creams.[L11485,L11488,L11491, L11494,L11497,L11500,L11503] \r\n\r\nWhen used for oral or IM administration, estradiol is commonly synthesized as a pro-drug ester (such as [DB13952], [DB13953], [DB13954], [DB13955], and [DB13956]). Because it has a low oral bioavailability on its own, estradiol is commonly formulated with an ester side-chain. [DB00977] (EE) is a synthetic form of estradiol commonly used as the estrogenic component of most combination oral contraceptive pills (OCPs). Ethinyl estradiol is different from estradiol due to its higher biovailability and increased resistance to metabolism, rendering it more suitable for oral administration.",
+    "indication": "Estradiol is indicated in various preparations for the treatment of moderate to severe vasomotor symptoms and vulvar and vaginal atrophy due to menopause, for the treatment of hypoestrogenism due to hypogonadism, castration, or primary ovarian failure, and for the prevention of postmenopausal osteoporosis. It is also used for the treatment of breast cancer (only for palliation therapy) in certain men or women with metastatic disease, and for the treatment of androgen-dependent prostate cancer (only for palliation therapy).[L11485,L11494,L11497] It is also used in combination with other hormones as a component of oral contraceptive pills for preventing pregnancy (most commonly as [DB00977], a synthetic form of estradiol).\r\n\r\n**A note on duration of treatment**\r\n\r\nRecommendations for treatment of menopausal symptoms changed drastically following the release of results and early termination of the Women's Health Initiative (WHI) studies in 2002 as concerns were raised regarding estrogen use.[A31626] Specifically, the combined estrogen\u2013progestin group was discontinued after about 5 years of follow up due to a statistically significant increase in invasive breast cancer and in cardiovascular events.[A31627] \r\n\r\nFollowing extensive critique of the WHI results, Hormone Replacement Therapy (HRT) is now recommended to be used only for a short period (for 3-5 years postmenopause) in low doses, and in women without a history of breast cancer or increased risk of cardiovascular or thromboembolic disease.[A31628] Estrogen for postmenopausal symptoms should always be given with a progestin component due to estrogen's stimulatory effects on the endometrium; in women with an intact uterus, unopposed estrogen has been shown to promote the growth of the endometrium which can lead to endometrial hyperplasia and possibly cancer over the long-term. \r\n\r\n",
+    "pharmacodynamics": "Estradiol acts on the on the estrogen receptors to relieve vasomotor systems (such as hot flashes) and urogenital symptoms (such as vaginal dryness and dyspareunia).[A190402,A190405,A190408]\r\n\r\nEstradiol has also been shown to exert favorable effects on bone density by inhibiting bone resorption. Estrogen appears to inhibit bone resorption [A190402,L11560] and may have beneficial effects on the plasma lipid profile.[A190405,L11530] Estrogens cause an increase in hepatic synthesis of various proteins, which include sex hormone binding globulin (SHBG), and thyroid-binding globulin (TBG).  Estrogens are known to suppress the formation of follicle-stimulating hormone (FSH) in the anterior pituitary gland.[L11485] \r\n\r\n**A note on hyper-coagulable state, cardiovascular health, and blood pressure**\r\n\r\nEstradiol may cause an increased risk of cardiovascular disease, DVT, and stroke, and its use should be avoided in patients at high risk of these conditions.[L11560]  Estrogen induces a hyper-coagulable state, which is also associated with both estrogen-containing oral contraceptive (OC) use and pregnancy. Although estrogen causes an increase in levels of plasma renin and angiotensin. Estrogen-induced increases in angiotensin, causing sodium retention, which is likely to be the mechanism causing hypertension after oral contraceptive treatment.[A190402]\r\n",
+    "mechanism-of-action": "Estrogen is found in the the breast, uterine, ovarian, skin, prostate, bone, fat, and brain tissues. The main source of estrogen in adult women during the reproductive period of life is the ovarian follicle, which secretes 70 to 500 mcg of estradiol each day. After menopause, however, the majority of endogenous estrogen is produced by transformation of androstenedione (which is secreted by the adrenal cortex) to estrone in the peripheral tissues. Both estrone and its sulphate conjugated form, estrone sulphate, represent the most abundant estrogens found in postmenopausal women.[L11530] \r\n\r\nEstradiol, however, is considerably more potent than estrone and estriol at the estrogen receptor (ER). As a result, the higher estrone concentration in postmenopausal population, can cause various undesirable effects. These effects may include hot flashes, chills, vaginal dryness, mood swings, irregular menstruation, and chills, in addition to sleep problems.[L11530]\r\n\r\nEstradiol workings by binding to subtypes of the estrogen receptor: estrogen receptor alpha (ER\u03b1) and estrogen receptor beta (ER\u03b2). It also exerts potent agonism of G Protein-coupled estrogen receptor (GPER), which is recognized an important regulator of this drug's rapid effects. Once the estrogen receptor has bound to its ligand, it enters the nucleus of the target cell, regulating gene transcription and formation of of messenger RNA. This mRNA makes contact with ribosomes producing specific proteins that express the effect of estradiol upon the target cell. Agonism of estrogen receptors increases pro-estrogenic effects, leading to the relief of vasomotor and urogenital symptoms of a postmenopausal or low estradiol state.[A31620,L11485,L11497]\r\n\r\n",
+    "absorption": "The absorption of several formulations of estradiol is described below:\r\n\r\nOral tablets and injections\r\n\r\nFirst-pass metabolism in the gastrointestinal tract rapidly breaks down estradiol tablets before entering the  systemic circulation.[A12102,L11485]  The bioavailability of oral estrogens is said to be 2-10% due to significant first-pass effects.[A12102] The esterification of estradiol improves the administration (such as with estradiol valerate) or to sustain release from intramuscular depot injections (including estradiol cypionate[L11491]) via higher lipophilicity.[T84] After absorption, the esters are cleaved, which leads to the release of endogenous estradiol, or 17\u03b2-estradiol. \r\n\r\nTransdermal preparations\r\n\r\nThe transdermal preparations slowly release estradiol through intact skin, which sustains circulating levels of estradiol during a 1 week period of time. Notably, the bioavailability of estradiol after transdermal administration is about 20 times higher than after oral administration.  Transdermal estradiol avoids first pass metabolism effects that reduce bioavailability. Administration via the buttock leads to a Cmax of about 174 pg/mL compared to 147 pg/mL via the abdomen.[L11530]\r\n\r\nSpray preparations\r\n\r\nAfter daily administration, the spray formulations of estradiol reach steady state within 7-8 days. After 3 sprays daily, Cmax is about 54 pg/mL with a Tmax of 20 hours. AUC is about 471 pg\u2022hr/mL.[L11488]\r\n\r\nVaginal ring and cream preparations\r\n\r\nEstradiol is efficiently absorbed through the  mucous membranes of the vagina. The vaginal administration of estrogens evades first-pass metabolism. Tmax after vaginal ring delivery ranges from 0.5 to 1 hour. Cmax is about 63 pg/mL.[L11494] The vaginal cream preparation has a Cmax of estradiol (a component of Premarin vaginal estrogen conjugate cream) was a Cmax of 12.8 \u00b1 16.6 pg/mL, Tmax of 8.5 \u00b1 6.2 hours, with an AUC of 231 \u00b1 285 pg\u2022hr/mL.[L11662]\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "metabolism": "Exogenously administered estrogens are metabolized in the same fashion as endogenous estrogens. Metabolic transformation occurs primarily in the liver and intestine.[A190393] Estradiol is metabolized to estrone, and both are converted to estriol, which is later excreted in the urine. Sulfate and glucuronide conjugation estrogens also take place in the liver. Biliary secretion of metabolic conjugates are released into the intestine, and estrogen hydrolysis in the gut occurs, followed by reabsorption.[A12102,L11530] The CYP3A4 hepatic cytochrome enzyme is heavily involved in the metabolism of estradiol. CYP1A2 also plays a role.[A14754,A38927]",
+    "toxicity": "The  NOAEL (no-observed-adverse-effect-level) oral toxicity of estradiol after 90 day in rats was 0.003 mg/kg/day for blood, female reproductive, and male reproductive, endocrine, and liver toxicity.[L11563] Oral TDLO of ethinyl estradiol is 21 mg/kg/21D intermittent, woman) with an oral LD50 of 960 mg/kg in the rat.[L11566] \r\n\r\nThere is limited information in the literature regarding estrogen overdose. Estradiol overdose likely leads to the occurrence of estrogen-associated adverse effects, including nausea, vomiting, abdominal pain, breast tenderness, venous thrombosis, and vaginal bleeding.[L11560] It is generally recommend to discontinue estradiol treatment and offer supportive care in the case of an overdose.[L11494]",
+    "targets": [
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ],
+        [
+            "ESR2",
+            "Estrogen receptor beta",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ],
+        [
+            "CHRNA4",
+            "Neuronal acetylcholine receptor subunit alpha-4",
+            "Humans"
+        ],
+        [
+            "GPER1",
+            "G-protein coupled estrogen receptor 1",
+            "Humans"
+        ],
+        [
+            "MT-ATP6",
+            "ATP synthase subunit a",
+            "Humans"
+        ],
+        [
+            "BECN1",
+            "Beclin-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ],
+        [
+            "COMT",
+            "Catechol O-methyltransferase",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "ABCC10",
+            "Multidrug resistance-associated protein 7",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO1C1",
+            "Solute carrier organic anion transporter family member 1C1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "SHBG",
+            "Sex hormone-binding globulin",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "FABP2",
+            "Fatty acid-binding protein, intestinal",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

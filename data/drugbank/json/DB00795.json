@@ -1,0 +1,146 @@
+{
+    "pharmgkb_id": "PA451547",
+    "drugbank_id": "DB00795",
+    "names": [
+        "Sulfasalazine",
+        "Asasurfan",
+        "Azulfdidina",
+        "Azulfin",
+        "Bomecon",
+        "Colo-Pleon",
+        "Disalazin",
+        "Eminapyrin",
+        "Flogostop",
+        "Iwata",
+        "Lanofen",
+        "Lazafin",
+        "Pleon",
+        "Pyralin EN",
+        "Reumazin",
+        "Saaz",
+        "Saaz-DS",
+        "Salasopyrine",
+        "Salazar",
+        "Salazidin",
+        "Salazine",
+        "Salazopirina",
+        "Salazoprin",
+        "Salazopyrin",
+        "Salazopyrin EN",
+        "Salazopyrin EN-Tabs",
+        "Sulcolon",
+        "Sulfacol",
+        "Weiliufen",
+        "Zopyrin"
+    ],
+    "description": "Sulfasalazine is an anti-inflammatory drug structurally related to salicylates and other non-steroidal anti-inflammatory drugs. It is indicated for managing inflammatory diseases such as ulcerative colitis and rheumatoid arthritis (RA).[L39065, A255582] Metabolized by intestinal bacteria, sulfasalazine is broken down into [mesalazine] and [sulfapyridine], 2 compounds that carry out the main pharmacological activity of sulfasalazine.[A255582] \r\n\r\nSulfasalazine was first used in 1940 for rheumatic polyarthritis, and has been firmly established itself as one fo the most useful disease-modifying antirheumatic drug (DMARD).[A255582] Compared to the first line treatment of RA like methotrexate, sulfasalazine is almost as efficacious as methotrexate although with slightly less tolerability. However, sulfasalazine has less teratogenic side effects and faster onset of action compared to conventional DMARD.[A255582] Sulfasalazine fell out of favor as the drug of choice for RA due to poorly designed clinical trials in 1950 but regained interest from the clinical community in the late 1970.[A255582]\r\n\r\nAlthough sulfasalazine is only approved by the FDA for ulcerative colitis, research have shown that sulfasalazine is also beneficial for patients with Crohn's disease.[A255592] Meta-analysis of 19 randomized controlled trials indicated that sulfasalazine is superior to placebo in inducing remission; however, with no supported evidence of mucosal healing, sulfasalazine is not FDA-recommmended for treatment of Crohn's disease.[A255597,A255602,A255607]",
+    "indication": "In the US, sulfasalazine is indicated to treat mild to moderate ulcerative colitis and to prolong the remission period between acute attacks of ulcerative colitis.[L39065] Sulfasalazine is also indicated as an adjunct therapy in severe ulcerative colitis.[L39065]For the delayed-release tablet formulation, sulfasalazine is also indicated to treat rheumatoid arthritis in pediatric patients who have responded inadequately to salicylates or other nonsteroidal anti-inflammatory drugs or polyarticular-course juvenile rheumatoid arthritis with the same patients' characteristics.[L39065]",
+    "pharmacodynamics": "The mode of action of sulfasalazine or its metabolites, 5-aminosalicylic acid and sulfapyridine, is still under investigation but may be related to the anti-inflammatory and/or immunomodulatory properties that have been observed in animal and <i>in vitro</i> models, to its affinity for connective tissue, and/or to the relatively high concentration it reaches in serous fluids, the liver, and intestinal walls, as demonstrated in autoradiographic studies in animals. In ulcerative colitis, clinical studies utilizing rectal administration of sulfasalazine, sulfapyridine, and 5-aminosalicylic acid have indicated that the major therapeutic action may reside in the 5-aminosalicylic acid moiety. The relative contribution of the parent drug and the major metabolites in rheumatoid arthritis is unknown.[L39065]",
+    "mechanism-of-action": "Although the exact mechanism of action of sulfasalazine is not fully understood, it is thought to be mediated through the inhibition of various inflammatory molecules.[L44478] Research have found that sulfasalazine and its metabolites, mesalazine and sulfapyridine, can inhibit leukotrienes and prostaglandins by blocking the cyclo-oxygenase and lipoxygenase pathway.[A255143] Specific enzymes that were investigated include phospholipase A2, cyclooxygenase-1 (COX-1), cyclooxygenase-2 (COX2), and arachidonate 5-lipoxygenase.[A16801,A10316,A4391,A10319] Inhibitory activities on other non-arachidonic acid derivatives have also been observed, including PPAR gamma, NF-Kb, and IkappaB kinases alpha and beta.[A16799,A16797,A255577,A255138]",
+    "absorption": "Following oral administration of 1 g of sulfasalazine to 9 healthy males, less than 15% of a dose of sulfasalazine is absorbed as the parent drug. Detectable serum concentrations of sulfasalazine have been found in healthy subjects within 90 minutes after ingestion. Maximum concentrations of sulfasalazine occur between 3 and 12 hours post-ingestion, with the mean peak concentration (6 \u03bcg/mL) occurring at 6 hours.[L39065] ",
+    "metabolism": "In the intestine, sulfasalazine is metabolized by intestinal bacteria to sulfapyridine and 5-aminosalicylic acid. Of the two species, sulfapyridine is relatively well absorbed from the intestine and highly metabolized, while 5-aminosalicylic acid is much less well absorbed.[L39065]Approximately 15% of a dose of sulfasalazine is absorbed as the parent drug and is metabolized to some extent in the liver to the same two species.[L39065]Sulfapyridine can also be metabolized to 5-hydroxysulfapyridine and N-acetyl-5-hydroxy sulfapyridine. 5-aminosalicylic acid is primarily metabolized in both the liver and intestine to N-acetyl-5 aminosalicylic acid via a non-acetylation phenotype-dependent route.[L39065]",
+    "toxicity": "Two-year oral carcinogenicity studies were conducted in male and female F344/N rats and B6C3F1 mice. Sulfasalazine was tested at 84 (496 mg/m2), 168 (991 mg/m2), and 337.5 (1991 mg/m2) mg/kg/day doses in rats. A statistically significant increase in the incidence of urinary bladder transitional cell papillomas was observed in male rats. In female rats, two (4%) of the 337.5 mg/kg rats had transitional cell papilloma of the kidney. The increased incidence of neoplasms in the urinary bladder and kidney of rats\r\nwas also associated with an increase in renal calculi formation and hyperplasia of transitional cell epithelium. For the mouse study, sulfasalazine was tested at 675 (2025 mg/m2), 1350 (4050 mg/m2), and 2700 (8100 mg/m2) mg/kg/day. The incidence of hepatocellular adenoma or carcinoma in male and female mice was significantly greater than the control at all doses tested.[L39065]\r\n\r\nSulfasalazine did not show mutagenicity in the bacterial reverse mutation assay (Ames test) and in L51784 mouse lymphoma cell assay at the HGPRT gene. However, sulfasalazine showed an equivocal mutagenic response in the micronucleus assay of mouse\r\nand rat bone marrow and mouse peripheral RBC and in the sister chromatid exchange, chromosomal aberration, and micronucleus assays in lymphocytes obtained from humans.[L39065] \r\n\r\nImpairment of male fertility was observed in reproductive studies performed in rats at a dose of 800 mg/kg/day (4800 mg/m2). Oligospermia and infertility have been described in men treated with sulfasalazine. Withdrawal of the drug appears to reverse these effects.[L39065] \r\n\r\nThere are no adequate and well-controlled studies of sulfasalazine in pregnant women. Reproduction studies have been performed in rats and rabbits at doses up to 6 times the human maintenance dose of 2 g/day based on body surface area and have revealed no evidence of impaired female fertility or harm to the fetus due to sulfasalazine. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.[L39065] \r\n\r\nThere have been case reports of neural tube defects (NTDs) in infants born to mothers who were exposed to sulfasalazine during pregnancy, but the role of sulfasalazine in these defects has not been established. However, oral sulfasalazine inhibits the absorption and metabolism of folic acid which may interfere with folic acid supplementation (see Drug Interactions) and diminish the effect of periconceptional folic acid supplementation that has been shown to decrease the risk of NTDs.[L39065] \r\n\r\nA national survey evaluated the outcome of pregnancies associated with inflammatory bowel disease (IBD). In a group of 186 women treated with sulfasalazine alone or sulfasalazine and concomitant steroid therapy, the incidence of fetal morbidity and mortality was comparable to that for 245 untreated IBD pregnancies as well as to pregnancies in the general population. A study of 1,455 pregnancies associated with exposure to sulfonamides indicated that this group of drugs, including sulfasalazine, did\r\nnot appear to be associated with fetal malformation. A review of the medical literature covering 1,155 pregnancies in women with ulcerative colitis suggested that the outcome was similar to that expected in the general population.[L39065] \r\n\r\nNo clinical studies have been performed to evaluate the effect of sulfasalazine on the growth development and functional maturation of children whose mothers received the drug during pregnancy.[L39065] \r\n",
+    "targets": [
+        [
+            "ALOX5",
+            "Arachidonate 5-lipoxygenase",
+            "Humans"
+        ],
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "ACAT1",
+            "Acetyl-CoA acetyltransferase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "PLA2G1B",
+            "Phospholipase A2",
+            "Humans"
+        ],
+        [
+            "SLC7A11",
+            "Cystine/glutamate transporter",
+            "Humans"
+        ],
+        [
+            "NFKB1",
+            "Nuclear factor NF-kappa-B p105 subunit",
+            "Humans"
+        ],
+        [
+            "NFKB2",
+            "Nuclear factor NF-kappa-B p100 subunit",
+            "Humans"
+        ],
+        [
+            "IKBKB",
+            "Inhibitor of nuclear factor kappa-B kinase subunit beta",
+            "Humans"
+        ],
+        [
+            "CHUK",
+            "Inhibitor of nuclear factor kappa-B kinase subunit alpha",
+            "Humans"
+        ],
+        [
+            "PPARG",
+            "Peroxisome proliferator-activated receptor gamma",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC46A1",
+            "Proton-coupled folate transporter",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "SLC10A1",
+            "Sodium/bile acid cotransporter",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

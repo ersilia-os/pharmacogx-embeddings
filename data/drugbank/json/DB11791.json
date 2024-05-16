@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA166224201",
+    "drugbank_id": "DB11791",
+    "names": [
+        "Capmatinib"
+    ],
+    "description": "Capmatinib is a small molecule kinase inhibitor targeted against c-Met (a.k.a. hepatocyte growth factor receptor [HGFR]), a receptor tyrosine kinase that, in healthy humans, activates signaling cascades involved in organ regeneration and tissue repair.[A199122] Aberrant c-Met activation - via mutations, amplification, and/or overexpression - is known to occur in many types of cancer, and leads to overactivation of multiple downstream signaling pathways such as STAT3, PI3K/ATK, and RAS/MAPK.[A199122] Mutations in _MET_ have been detected in non-small cell lung cancer (NSCLC), and the prevalence of _MET_ amplification in epidermal growth factor receptor tyrosine kinase inhibitor (EGFR-TKI)-naive patients with NSCLC has been reported to be 1.4% - 21%.[A199122] This co-occurrence has made c-Met a desirable target in the treatment of NSCLC.\r\n\r\nManufactured by Novartis and marketed under the brand name Tabrecta, capmatinib was granted accelerated approval by the FDA on May 6, 2020,[L13380] for the treatment of NSCLC in patients whose tumors have a mutation that leads to mesenchymal-epithelial transition (MET) exon 14 skipping.[L13347] The presence of the mutation must be confirmed by an FDA-approved test, such as the FoundationOne CDx assay (manufactured by Foundation Medicine, Inc.), which was approved by the FDA on the same day.[L13380] As this indication was granted under an accelerated approval, its continued approval is contingent upon verification of capmatinib's benefit in confirmatory trials.[L13347] Capmatinib was approved by Health Canada on June 8, 2022.[L42015]",
+    "indication": "In the US, capmatinib is indicated for the treatment of adult patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have a mutation that leads to mesenchymal-epithelial transition (MET) exon 14 skipping as detected by an FDA-approved test.[L13347]\r\n\r\nCapmatinib is approved to treat adults with locally advanced unresectable or metastatic non-small cell lung cancer (NSCLC) with MET exon 14 skipping alterations in Canada.[L42010]",
+    "pharmacodynamics": "Capmatinib inhibits the overactivity of c-Met, a receptor tyrosine kinase encoded by the _MET_ proto-oncogene.[L13347] Mutations in _MET_ are involved in the proliferation of many cancers, including non-small cell lung cancer (NSCLC).[L13347,A199122] \r\n\r\nCapmatinib may cause photosensitivity reactions in patients following ultraviolet (UV) exposure - patients undergoing therapy with capmatinib should be advised to use sunscreen and protective clothing to limit exposure to UV radiation.[L13347] Instances of interstitial lung disease/pneumonitis, which can be fatal, occurred in patients being treated with capmatinib. Patients presenting with signs or symptoms of lung disease (e.g. cough, dyspnea, fever) should have capmatinib immediately withheld, and capmatinib should be permanently discontinued if no other feasible causes of the lung-related symptoms are identified.[L13347]",
+    "mechanism-of-action": "Aberrant activation of c-Met has been documented in many cancers, including non-small cell lung cancer (NSCLC).[A199122] Mutations that result in the skipping of _MET_ exon 14 lead to the formation of a mutant c-Met with a missing regulatory domain - these mutant proteins have a reduced ability to negatively regulate, leading to a pathological increase in their downstream activity.[L13347]\r\n\r\nCapmatinib inhibits the phosphorylation of both wild-type and mutant variants of c-Met triggered by the binding of its endogenous ligand, hepatocyte growth factor - in doing so, it prevents c-Met-mediated phosphorylation of downstream signaling proteins, as well as the proliferation and survival of c-Met-dependent tumor cells.[L13347]",
+    "absorption": "The oral bioavailability of capmatinib is estimated to be >70%.[L13347] Following oral administration, maximum plasma concentrations are achieved within 1 to 2 hours (T<sub>max</sub>).[L13347] Co-administration with a high-fat meal increased capmatinib AUC by 46% with no change in C<sub>max</sub> (as compared to fasted conditions), and co-administration with a low-fat meal had no clinically meaningful effects on exposure.[L13347]",
+    "metabolism": "Capmatinib undergoes metabolism primarily via CYP3A4 and aldehyde oxidase.[L13347] Specific biotransformation pathways and metabolic products have yet to be elucidated.",
+    "toxicity": "Data regarding toxicity and overdose of capmatinib are limited. Embryo-fetal toxicity has been documented in animal models - both males and females using capmatinib should use effective contraception throughout the course of therapy and for 1 week following cessation of therapy.[L13347]",
+    "targets": [
+        [
+            "MET",
+            "Hepatocyte growth factor receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "AOX1",
+            "Aldehyde oxidase",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,75 @@
+{
+    "pharmgkb_id": "PA450965",
+    "drugbank_id": "DB01100",
+    "names": [
+        "Pimozide",
+        "Halomonth",
+        "Neoperidole",
+        "Opiran"
+    ],
+    "description": "A diphenylbutylpiperidine that is effective as an antipsychotic agent and as an alternative to haloperidol for the suppression of vocal and motor tics in patients with Tourette syndrome. Although the precise mechanism of action is unknown, blockade of postsynaptic dopamine receptors has been postulated. (From AMA Drug Evaluations Annual, 1994, p403)",
+    "indication": "Used for the suppression of motor and phonic tics in patients with Tourette's Disorder who have failed to respond satisfactorily to standard treatment.",
+    "pharmacodynamics": "Pimozide is an orally active antipsychotic drug product which shares with other antipsychotics the ability to blockade dopaminergic receptors on neurons in the central nervous system. However, receptor blockade is often accompanied by a series of secondary alterations in central dopamine metabolism and function which may contribute to both pimozide's therapeutic and untoward effects. In addition, pimozide, in common with other antipsychotic drugs, has various effects on other central nervous system receptor systems which are not fully characterized. Pimozide also has less potential for inducing sedation and hypotension as it has more specific dopamine receptor blocking activity than other neuroleptic agents (and is therefore a suitable alternative to haloperidol).",
+    "mechanism-of-action": "The ability of pimozide to suppress motor and phonic tics in Tourette's Disorder is thought to be primarily a function of its dopaminergic blocking activity. Pimozide binds and inhibits the dopamine D2 receptor in the CNS. ",
+    "absorption": "Greater than 50% absorption after oral administration. Serum peak appears 6-8 hours post ingestion.",
+    "metabolism": "Notable first-pass metabolism in the liver, primarily by N-dealkylation via the cytochrome P450 isoenzymes CYP3A and CYP1A2 (and possibly CYP2D6). The activity of the two major metabolites has not been determined.",
+    "toxicity": "LD<sub>50</sub> = 1100 mg/kg (rat, oral), 228 mg/kg (mouse, oral)",
+    "targets": [
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "CALM1",
+            "Calmodulin",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

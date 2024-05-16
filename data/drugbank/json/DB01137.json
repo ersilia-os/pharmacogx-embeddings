@@ -1,0 +1,94 @@
+{
+    "pharmgkb_id": "PA450214",
+    "drugbank_id": "DB01137",
+    "names": [
+        "Levofloxacin",
+        "Cravit",
+        "Elequine",
+        "Floxel",
+        "Leroxacin",
+        "Levokacin",
+        "Levox",
+        "Levoxacin",
+        "Mosardal",
+        "Nofaxin",
+        "Reskuin",
+        "Tavanic"
+    ],
+    "description": "Levofloxacin is a fluoroquinolone antibiotic and the optical S-(-) isomer of racemic [ofloxacin].[A190663] It reportedly carries 8 to 128-fold more activity against both gram-negative and gram-positive bacteria compared to R-(+)-ofloxacin[A190663] and remains stereochemically stable following administration (i.e. it does not invert to the inactive isomer).[L11638] Levofloxacin, along with other quinolones such as [gatifloxacin] and [moxifloxacin], is a member of the third generation of fluoroquinolones, colloquially referred to as the \"respiratory quinolones\" due to improved activity against gram-positive bacteria commonly implicated in respiratory infections.[A31453,A190756]\r\n\r\nLevofloxacin was first approved by the FDA in 1996, and was approved in Canada and several South American countries soon after.[A190663]",
+    "indication": "In oral and intravenous formulations, levofloxacin is indicated in adults for the treatment of various infections caused by susceptible bacteria, including infections of the upper respiratory tract, lower respiratory tract, skin, skin structures, urinary tract, and prostate.[L11638,L11692] The oral formulation is also indicated in both adults and children 6 months of age and older for the post-exposure management of inhalational anthrax caused by _Bacillus anthracis_ and for the treatment and/or prophylaxis of plague caused by _Yersinia pestis_.[L11638]\r\n\r\nIn its ophthalmic formulation, levofloxacin is indicated for the treatment of bacterial conjunctivitis caused by susceptible organisms.[L11641] An inhalational solution available in Canada is indicated for the management of cystic fibrosis patients aged 18 years or older with chronic pulmonary _Pseudomonas aeruginosa_ infections.[L11689]",
+    "pharmacodynamics": "Levofloxacin is bactericidal and exerts its antimicrobial effects via inhibition of bacterial DNA replication.[L11638] It has a relatively long duration of action in comparison with other antibiotics that allows for once or twice daily dosing. Levofloxacin is associated with QTc-interval prolongation and should be used with caution in patients with other risk factors for prolongation (e.g. hypokalemia, concomitant medications).[L11638]\r\n\r\nLevofloxacin has demonstrated _in vitro_ activity against a number of aerobic gram-positive and gram-negative bacteria and may carry some activity against certain species of anaerobic bacteria[L11638] and other pathogens such as _Chlamydia_ and _Legionella_.[A190663] Resistance to levofloxacin may develop, and is generally due to mutations in DNA gyrase or topoisomerase IV, or via alterations to drug efflux.[L11638,A31453] Cross-resistance may occur between levofloxacin and other fluoroquinolones, but is unlikely to develop between levofloxacin and other antibiotic classes (e.g. macrolides) due to significant differences in chemical structure and mechanism of action.[L11638]\r\n\r\nAs antimicrobial susceptibility patterns are geographically distinct, local antibiograms should be consulted to ensure adequate coverage of relevant pathogens prior to use.",
+    "mechanism-of-action": "Levofloxacin, like other fluoroquinolone antibiotics, exerts its antimicrobial activity via the inhibition of two key bacterial enzymes: DNA gyrase and topoisomerase IV.[L11638] Both targets are type II topoisomerases, but have unique functions within the bacterial cell. DNA gyrase is an enzyme found only in bacteria that introduces negative supercoils into DNA during replication - this helps to relieve torsional strain caused by the introduction of positive supercoils during replication, and these negative supercoils are essential for chromosome condensation and the promotion of transcription initiation.[A31453] It is comprised of four subunits (two A subunits and two B subunits) of which the A subunits appear to be the target of fluoroquinolone antibiotics.[A190663] Bacterial topoisomerase IV, in addition to contributing to the relaxation of positive supercoils, is essential at the terminal stages of DNA replication and functions to \u201cunlink\u201d newly replicated chromosomes to allow for the completion of cell division.[A31453]\r\n\r\nInhibition of these enzymes by levofloxacin likely occurs via complexation with the topoisomerase enzymes.[A31453] The end result is a blockade of DNA replication, thus inhibiting cell division and resulting in cell death.",
+    "absorption": "Absorption of levofloxacin following oral administration is rapid and essentially complete, with an oral bioavailability of approximately 99%.[L11638] Due to its nearly complete absorption, the intravenous and oral formulations of levofloxacin may be interchangeable.[L11692] The T<sub>max</sub> is generally attained 1-2 hours following administration and the C<sub>max</sub> is proportional to the given dose - an intravenous dose of 500mg infused over 60 minutes resulted in a C<sub>max</sub> of 6.2 \u00b1 1.0 \u00b5g/mL whereas a 750mg dose infused over 90 minutes resulted in a C<sub>max</sub> of 11.5 \u00b1 4.0 \u00b5g/mL.[L11638] Oral administration with food prolongs the T<sub>max</sub> by approximately 1 hour and slightly decreases the C<sub>max</sub>, but these changes are not likely to be clinically significant.[L11638]\r\n\r\nSystemic absorption following oral inhalation is approximately 50% lower than that observed following oral administration.[L11689]",
+    "metabolism": "Only 2 metabolites, desmethyl-levofloxacin and levofloxacin-N-oxide, have been identified in humans, neither of which appears to carry any relevant pharmacological activity.[L11638] Following oral administration, less than 5% of the administered dose was recovered in the urine as these metabolites, indicating very little metabolism of levofloxacin in humans.[L11638] The specific enzymes responsible for the demethylation and oxidation of levofloxacin have yet to be ascertained.",
+    "toxicity": "The LD<sub>50</sub> following oral administration in mice and rats is 1803 mg/kg and 1478 mg/kg, respectively.[L11725]\r\n\r\nLevofloxacin exhibits low potential for acute toxicity - following a single high dose of levofloxacin in several different test animals (e.g. mice, rats, monkeys) observed symptoms included ataxia, ptosis, decreased motor activity, dyspnea, tremors, and convulsions.[L11638] Treatment of acute overdosage should involve stomach emptying (e.g. with activated charcoal) and general supportive measures. Consider monitoring of the patient's ECG to ensure QTc values remain within range.[L11692] Levofloxacin is not efficiently removed by dialysis (peritoneal or hemodialysis) and is therefore of little benefit in cases of overdose.[L11638]",
+    "targets": [
+        [
+            "gyrA",
+            "DNA gyrase subunit A",
+            "Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)"
+        ],
+        [
+            "parC",
+            "DNA topoisomerase 4 subunit A",
+            "Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLCO4C1",
+            "Solute carrier organic anion transporter family member 4C1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

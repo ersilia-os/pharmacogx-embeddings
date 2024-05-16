@@ -1,0 +1,122 @@
+{
+    "pharmgkb_id": "PA166163482",
+    "drugbank_id": "DB12267",
+    "names": [
+        "Brigatinib"
+    ],
+    "description": "Brigatinib, originally named AP26113, is a reversible dual inhibitor of anaplastic lymphoma kinase (ALK) and epidermal growth factor receptor (EGFR). It presents selectivity against the mutant forms of EGFR compared to the wild-type.[A31311] It also exhibits selectivity against 9 different Crizotinib-resistant mutants of the EML4-ALK fusion gene, which is a pivotal player in the transformation of susceptible lung parenchyma.[A31313] Brigatinib was developed by Ariad Pharmaceuticals, a subsidiary of Takeda Pharmaceutical Company Limited, and FDA-approved on April 28, 2017.[L1026]",
+    "indication": "The anaplastic lymphoma kinase positive, metastatic non-small cell lung cancer (ALK+ NSCLC), represents only 3-5% of the NSCLC cancer cases, but the ALK mutation, overexpression and presence in several oncogenic fusion proteins in solid and hematologic tumors have pointed out the importance as well as its potential as a cancer therapy target.[A31311] The ALK-related cases of NSCLC are associated with the presence of the fusion gene EML4-ALK which fused the ALK protein with the echinoderm microtubule-associated protein like-4 whose original function is the correct formation of microtubules.[A31313] The presence of the aberrant fusion protein results in abnormal signaling that provokes increased cell growth, proliferation and survival.[A31316] Crizotinib is indicated for the treatment of such cases but the presence of ALK kinase domain mutations confer resistance to the treatment. Thus, brigatinib is indicated for the treatment of patients with ALK+ NSCLC with intolerance to Crizotinib.[A31314]",
+    "pharmacodynamics": "Brigitanib inhibits proliferation and in vitro viability of cells expressing the fusion protein EML4-ALK as well as 17 crizotinib-resistant ALK mutants. Its action is expanded to cells expressing EGFR deletions, ROS1-L2026M, FLT3-F691L and FLT3-D835Y.[A31317] Brigitanib presents a dose-dependent inhibition of tumor growth, tumor burden and prolonged survival in mice EML4-ALK xenograft models.[A31318] Time course of Brigatinib and exposure-response studies are still unknown. ",
+    "mechanism-of-action": "Brigitanib acts as a tyrosine kinase inhibitor with activity against multiple kinases including ALK, ROS1, insulin-like growth factor 1 receptor and against EGFR deletions and point mutations. It acts by inhibiting ALK phosphorylation and the activation of downstream signaling proteins.[A31319]",
+    "absorption": "Administration of brigatinib at a concentration of 90 mg generates a Cmax of 552 ng/ml and AUC of 8165 ng h/ml while the administration of 180 mg presents a Cmax of 1452 ng/ml and AUC of 20276 ng h/ml. It has a dose proportional exposure with an accumulation ratio on the range of 1.9 to 2.4. Following oral administration of brigatinib, the Tmax is presented in a range from 1 to 4 hours. Consumption of a high-fat meal compared to overnight fasting reduces Cmax by 13% without presenting an effect on AUC.[A31320]",
+    "metabolism": "Brigatinib is metabolized by CYP2C8 (72.4%) and CYP3A4 (27.6%) in human liver microsomes and hepatocytes. The two major metabolites generated are the N-demethylated form and the cysteine conjugated form. Oral administration of radiolabelled brigatinib showed the systemic presence of 91.5% in the unchanged form and 3.5% of the primary metabolite AP26123. The AUC of AP26123 is less than 10% of the AUC of brigatinib and presented an inhibitory effect 3 fold lower.[L1028]",
+    "toxicity": "Treatment with brigatinib generated not mutagenic chromosomal damage. Testicular toxicity, reported as lower weight of seminal vesicles and prostate gland, testicular tubular degeneration and lower weight as well as reduced size of testes with evidence of hypoespermatogenesis.[FDA label]",
+    "targets": [
+        [
+            "ALK",
+            "ALK tyrosine kinase receptor",
+            "Humans"
+        ],
+        [
+            "EGFR",
+            "Epidermal growth factor receptor",
+            "Humans"
+        ],
+        [
+            "ABL1",
+            "Tyrosine-protein kinase ABL1",
+            "Humans"
+        ],
+        [
+            "IGF1R",
+            "Insulin-like growth factor 1 receptor",
+            "Humans"
+        ],
+        [
+            "FLT3",
+            "Receptor-type tyrosine-protein kinase FLT3",
+            "Humans"
+        ],
+        [
+            "INSR",
+            "Insulin receptor",
+            "Humans"
+        ],
+        [
+            "MET",
+            "Hepatocyte growth factor receptor",
+            "Humans"
+        ],
+        [
+            "ERBB4",
+            "Receptor tyrosine-protein kinase erbB-4",
+            "Humans"
+        ],
+        [
+            "ERBB2",
+            "Receptor tyrosine-protein kinase erbB-2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB5",
+            "ATP-binding cassette sub-family B member 5",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

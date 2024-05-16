@@ -1,0 +1,78 @@
+{
+    "pharmgkb_id": "PA449493",
+    "drugbank_id": "DB00199",
+    "names": [
+        "Erythromycin",
+        "Ilosone"
+    ],
+    "description": "Erythromycin is a bacteriostatic antibiotic drug produced by a strain of Saccharopolyspora erythraea (formerly Streptomyces erythraeus) and belongs to the macrolide group of antibiotics which consists of [Azithromycin], [Clarithromycin], [Spiramycin] and others. It was originally discovered in 1952.[L5245] Erythromycin is widely used for treating a variety of infections, including those caused by gram-positive and gram-negative bacteria.[L5245,L7261] It is available for administration in various forms, including intravenous, topical, and eye drop preparations.[L5245]",
+    "indication": "\r\nErythromycin is indicated in the treatment of infections caused by susceptible strains of various bacteria.[L7261] The indications for erythromycin have been summarized by body system below:\r\n\r\n**Respiratory infections**\r\n\r\nMild to moderate upper respiratory tract infections caused by Streptococcus pyogenes, Streptococcus pneumoniae, or Haemophilus influenzae (when used concomitantly with appropriate doses of sulfonamides) can be treated with erythromycin.[L7261] Mild to moderate lower-respiratory tract infections due to susceptible strains of Streptococcus pneumoniae or Streptococcus pyogenes may also be treated. Erythromycin treats listeriosis caused by Listeria monocytogenes may also be treated with erythromycin.[L7261]\r\nErythromycin is indicated to treat pertussis (whooping cough) caused by Bordetella pertussis. It is effective in eliminating the causative organism from the nasopharynx of infected individuals, rendering them noninfectious. Clinical studies suggest that erythromycin may aid in the prevention of pertussis infection for individuals who have been exposed to the bacteria.[L7261] Respiratory tract infections due to Mycoplasma pneumoniae may also be treated with erythromycin.[L7261]  Despite the fact that no controlled clinical efficacy studies have been conducted to this date, in vitro and certain preliminary clinical study results indicate that erythromycin may be an effective treatment in  Legionnaires\u2019 Disease.[L7261] Finally, erythromycin is indicated to treat diphtheria and other infections due to Corynebacterium diphtheriae, as an adjunct to antitoxin, to prevent carrier status and to eradicate the organism in existing carriers.[L7261] In addition to the prevention of diphtheria, erythromycin can be used to prevent rheumatic fever in penicillin intolerant patients.[L7261]\r\n \r\n\r\n**Skin infections**\r\n\r\nMild to moderate skin or skin structure infections caused by Streptococcus pyogenes or Staphylococcus aureus may be treated with erythromycin, however, resistant staphylococcal organisms may emerge.[L7261] Erythromycin can also be used to treat erythrasma, an infectious condition caused by Corynebacterium minutissimum.[L7261]\r\n\r\n\r\n**Gastrointestinal infections**\r\n\r\nIntestinal amebiasis caused by Entamoeba histolytica can be treated with oral erythromycin. Extraenteric amebiasis warrants treatment with other antimicrobial drugs.[L7261]\r\n\r\n\r\n**Genital infections/STIs**\r\n\r\nErythromycin can be used as an alternative drug in treating acute pelvic inflammatory disease caused by N. gonorrheae in female patients who have demonstrated hypersensitivity or intolerance to penicillin.[L7261] Syphilis, caused by Treponema pallidum, can be treated with erythromycin.  It serves as an alternative treatment for primary syphilis in patients who have demonstrated penicillin hypersensitivity. Erythromycin can also be used in the primary stage of primary syphilis.[L7261] Another approved indication of erythromycin is to treat chlamydial infections that cause conjunctivitis of the newborn, pneumonia of infancy, and urogenital infections occurring in pregnancy. It is indicated as an alternative option to tetracyclines for the treatment of uncomplicated rectal, urethral and endocervical infections in adults caused by Chlamydia trachomatis.[L7261] Erythromycin can be used in nongonococcal urethritis can be used when tetracyclines cannot be administered. Finally, erythromycin is indicated to treat nongonococcal urethritis due to Ureaplasma urealyticum.[L7261]\r\n",
+    "pharmacodynamics": "Macrolides, such as erythromycin, stop bacterial growth by inhibiting protein synthesis and translation, treating bacterial infections.[A174175] Erythromycin does not exert effects on nucleic acid synthesis.[L7261] This drug has been shown to be active against most strains of the following microorganisms, effectively treating both in vitro and clinical infections. Despite this, it is important to perform bacterial susceptibility testing before administering this antibiotic, as resistance is a common issue that may affect treatment.[L7261] \r\n\r\n**A note on antimicrobial resistance, pseudomembranous colitis, and hepatotoxicity**\r\n\r\nMany strains of Haemophilus influenzae are resistant to erythromycin alone but are found to be susceptible to erythromycin and sulfonamides used in combination. It is important to note that Staphylococci that are resistant to erythromycin may emerge during erythromycin and/or sulfonamide therapy.[L7261] Pseudomembranous colitis has been reported with most antibacterial agents, including erythromycin, and may range in severity from mild to life-threatening. Therefore, the physician should consider this diagnosis in patients with diarrhea after the administration of antibacterial agents.[L7261] Erythromycin can cause hepatic dysfunction, cholestatic jaundice, and abnormal liver transaminases, particularly when erythromycin estolate is administered.[L7270]\r\n\r\n\r\n",
+    "mechanism-of-action": "In order to replicate, bacteria require a specific process of protein synthesis, enabled by ribosomal proteins.[A6505] Erythromycin acts by inhibition of protein synthesis by binding to the 23S ribosomal RNA molecule in the 50S subunit of ribosomes in susceptible bacterial organisms.  It stops bacterial protein synthesis by inhibiting the transpeptidation/translocation step of protein synthesis and by inhibiting the assembly of the 50S ribosomal subunit.[L7261,A14179] This results in the control of various bacterial infections.[A174193,L7261] The strong affinity of macrolides, including erythromycin, for bacterial ribosomes, supports their broad\u2010spectrum antibacterial activities.[A174193]\r\n\r\n",
+    "absorption": "Orally administered erythromycin is readily absorbed. Food intake does not appear to exert effects on serum concentrations of erythromycin.[L7261]  Some interindividual variation exists in terms of erythromycin absorption, which may impact absorption to varying degrees.[L7261] The Cmax of erythromycin is 1.8 mcg/L[A180598] and the Tmax is 1.2 hours.[A180607] The serum AUC of erythromycin after the administration of a 500mg oral dose was 7.3\u00b13.9 mg.h/l in one pharmacokinetic study.[A180607] Erythromycin is well known for a bioavailability that is variable (18-45%) [A174451,A180595] after oral administration and its susceptibility to broken down under acidic conditions.[A174448]",
+    "metabolism": "Hepatic first-pass metabolism contributes significantly to erythromycin metabolism after an oral dose.[A174457] Erythromycin is partially metabolized by CYP3A4 enzyme to N-desmethylerythromycin.[L7261,A174175] Erythromycin is also hydrolyzed to _anhydro_ forms (anhydroerythromycin [AHE] and other metabolites), and this process is promoted by acidic conditions.[A174448] AHE is inactive against microbes but inhibits hepatic drug oxidation and is therefore considered to be an important contributor to erythromycin drug-drug interactions.[A174448]",
+    "toxicity": "LD50\r\n\r\nThe oral LD50 of erythromycin in rats is 9272 mg/kg.[L7279]\r\n\r\nOverdose information\r\n\r\nSymptoms of overdose may include diarrhea, nausea, stomach cramps, and vomiting. Erythromycin should immediately be discontinued in cases of overdose. Rapid elimination of unabsorbed drug should be attempted. Supportive measures should be initiated. Erythromycin is not adequately removed by peritoneal dialysis or hemodialysis.[L7261]\r\n\r\n",
+    "targets": [
+        [
+            "MLNR",
+            "Motilin receptor",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,38 @@
+{
+    "pharmgkb_id": "PA165958395",
+    "drugbank_id": "DB06725",
+    "names": [
+        "Lornoxicam",
+        "Lorcam",
+        "Xafon"
+    ],
+    "description": "Lornoxicam (chlortenoxicam) is a new nonsteroidal anti-inflammatory drug (NSAID) of the oxicam class with analgesic, anti-inflammatory and antipyretic properties. Lornoxicam differs from other oxicam compounds in its potent inhibition of prostaglandin biosynthesis, a property that explains the particularly pronounced efficacy of the drug. Lornoxicam is approved for use in Japan.",
+    "indication": "For the treatment of acute mild to moderate pain, as well as pain and inflammation of the joints caused by certain types of rheumatic diseases.",
+    "pharmacodynamics": "Lornoxicam is a non-steroidal anti-inflammatory drug (NSAID) that belongs to the oxicam class. As with other NSAIDS, lornoxicam is a potent inhibitor of the cyclooxgenase enzymes, which are responsible for catalyzing the formation of prostaglandins (act as messenger molecules in the process of inflammation) and thromboxane from arachidonic acid. Unlike some NSAIDS, lornoxicam's inhibition of cyclooxygenase does not lead to an increase in leukotriene formation, meaning that arachidonic acid is not moved to the 5-lipoxygenase cascade, resulting in the minimization of the risk of adverse events.",
+    "mechanism-of-action": "Like other NSAIDS, lornoxicam's anti-inflammatory and analgesic activity is related to its inhibitory action on prostaglandin and thromboxane synthesis through the inhibition of both COX-1 and COX-2. This leads to the reduction of inflammation, pain, fever, and swelling, which are mediated by prostaglandins. However, the exact mechanism of lornoxicam, like that of the other NSAIDs, has not been fully determined.",
+    "absorption": "Lornoxicam is absorbed rapidly and almost completely from the GI tract (90-100%).",
+    "metabolism": "Lornoxicam is metabolized completely by cyp 2C9 with the principal metabolite being 5'-hydroxy-lornoxicam and only negligible amounts of intact lornoxicam are excreted unchanged in the urine. Approximately 2/3 of the drug is eliminated via the liver and 1/3 via the kidneys in the active form.",
+    "toxicity": null,
+    "targets": [
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

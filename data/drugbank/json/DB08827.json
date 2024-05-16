@@ -1,0 +1,38 @@
+{
+    "pharmgkb_id": "PA166114922",
+    "drugbank_id": "DB08827",
+    "names": [
+        "Lomitapide",
+        "Lojuxta"
+    ],
+    "description": "Lomitapide is a microsomal triglyceride transfer protein (MTP) inhibitor used in homozygous familial hypercholesterolemia (HoFH) patients. It is marketed under the name Juxtapid (R).",
+    "indication": "Used in homozygous familial hypercholesterolemia (HoFH) patients to reduce low-density lipoprotein cholesterol (LDL-C), total cholesterol (TC), apolipoprotein B (apo B), and non-high-density lipoprotein cholesterol (non-HDL-C).",
+    "pharmacodynamics": "Lomitapide directly inhibits microsomal triglyceride transfer protein (MTP).",
+    "mechanism-of-action": "Within the lumen of the endoplasmic reticulum, lomitapide inhibits microsomal triglyceride transfer protein (MTP), which prevents the formation of apolipoprotein B, and, thus, the formation of VLDL and chylomicrons as well. Altogether, this leads to a reduction of low-density lipoprotein cholesterol.",
+    "absorption": "In healthy patients, time to maximum lomitapide concentration is about 6 hours with a single dose of 60 mg. Lomitapide has an approximate absolute bioavailability of 7%.",
+    "metabolism": "Lomitapide is mainly metabolized by CYP3A4 to it's inactive metabolites, M1 and M3. CYP enzymes that metabolize lomitapide to a minor extent include CYP 1A2,2B6,2C8,2C19.",
+    "toxicity": "Contra-indicated in pregnancy, and moderate to severe hepatic insufficiency (Child-Pugh category B or C). Severe GI adverse reactions may occur.",
+    "targets": [
+        [
+            "MTTP",
+            "Microsomal triglyceride transfer protein large subunit",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

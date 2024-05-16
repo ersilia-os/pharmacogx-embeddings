@@ -1,0 +1,115 @@
+{
+    "pharmgkb_id": "PA450379",
+    "drugbank_id": "DB01033",
+    "names": [
+        "Mercaptopurine",
+        "Leukerin"
+    ],
+    "description": "An antimetabolite antineoplastic agent with immunosuppressant properties. It interferes with nucleic acid synthesis by inhibiting purine metabolism and is used, usually in combination with other drugs, in the treatment of or in remission maintenance programs for leukemia.",
+    "indication": "For remission induction and maintenance therapy of acute lymphatic leukemia.",
+    "pharmacodynamics": "Mercaptopurine is one of a large series of purine analogues which interfere with nucleic acid biosynthesis and has been found active against human leukemias. It is an analogue of the purine bases adenine and hypoxanthine. It is not known exactly which of any one or more of the biochemical effects of mercaptopurine and its metabolites are directly or predominantly responsible for cell death.",
+    "mechanism-of-action": "Mercaptopurine competes with hypoxanthine and guanine for the enzyme hypoxanthine-guanine phosphoribosyltransferase (HGPRTase) and is itself converted to thioinosinic acid (TIMP). TIMP inhibits several reactions that involve inosinic acid (IMP), such as the conversion of IMP to xanthylic acid (XMP) and the conversion of IMP to adenylic acid (AMP) via adenylosuccinate (SAMP). Upon methylation, TIMP forms 6-methylthioinosinate (MTIMP) which inhibits glutamine-5-phosphoribosylpyrophosphate amidotransferase in addition to TIMP. Glutamine-5-phosphoribosylpyrophosphate amidotransferase is the first enzyme unique to the _de novo_ pathway for purine ribonucleotide synthesis. According to experimental findings using radiolabeled mercaptopurine, mercaptopurine may be recovered from the DNA in the form of deoxythioguanosine. In comparison, some mercaptopurine may be converted to nucleotide derivatives of 6-thioguanine (6-TG) via actions of inosinate (IMP) dehydrogenase and xanthylate (XMP) aminase that convert TIMP to thioguanylic acid (TGMP).",
+    "absorption": "Clinical studies have shown that the absorption of an oral dose of mercaptopurine in humans is incomplete and variable, averaging approximately 50% of the administered dose. The factors influencing absorption are unknown.",
+    "metabolism": "Hepatic. Degradation primarily by xanthine oxidase. The catabolism of mercaptopurine and its metabolites is complex. In humans, after oral administration of <sup>35</sup>S-6-mercaptopurine, urine contains intact mercaptopurine, thiouric acid (formed by direct oxidation by xanthine oxidase, probably via 6-mercapto-8-hydroxypurine), and a number of 6-methylated thiopurines. The methylthiopurines yield appreciable amounts of inorganic sulfate.",
+    "toxicity": "Signs and symptoms of overdosage may be immediate such as anorexia, nausea, vomiting, and diarrhea; or delayed such as myelosuppression, liver dysfunction, and gastroenteritis. The oral LD<sub>50</sub> of mercaptopurine was determined to be 480 mg/kg in the mouse and 425 mg/kg in the rat.",
+    "targets": [
+        [
+            "HPRT1",
+            "Hypoxanthine-guanine phosphoribosyltransferase",
+            "Humans"
+        ],
+        [
+            "PPAT",
+            "Amidophosphoribosyltransferase",
+            "Humans"
+        ],
+        [
+            "IMPDH1",
+            "Inosine-5'-monophosphate dehydrogenase",
+            "Humans"
+        ],
+        [
+            "IMPDH2",
+            "Inosine-5'-monophosphate dehydrogenase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "AOX1",
+            "Aldehyde oxidase",
+            "Humans"
+        ],
+        [
+            "TPMT",
+            "Thiopurine S-methyltransferase",
+            "Humans"
+        ],
+        [
+            "XDH",
+            "Xanthine dehydrogenase/oxidase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC5",
+            "Multidrug resistance-associated protein 5",
+            "Humans"
+        ],
+        [
+            "SLC28A2",
+            "Sodium/nucleoside cotransporter 2",
+            "Humans"
+        ],
+        [
+            "SLC28A3",
+            "Solute carrier family 28 member 3",
+            "Humans"
+        ],
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC29A2",
+            "Equilibrative nucleoside transporter 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01033",
+            "Drug Name": "Mercaptopurine",
+            "Gene Symbol": "TPMT",
+            "RS ID (Genotype)": "rs1800462",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of mercaptopurine resulting in increased toxicity."
+        },
+        {
+            "DrugBank ID": "DB01033",
+            "Drug Name": "Mercaptopurine",
+            "Gene Symbol": "TPMT",
+            "RS ID (Genotype)": "rs1800460",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of mercaptopurine resulting in increased toxicity."
+        },
+        {
+            "DrugBank ID": "DB01033",
+            "Drug Name": "Mercaptopurine",
+            "Gene Symbol": "TPMT",
+            "RS ID (Genotype)": "rs1142345",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of mercaptopurine resulting in increased toxicity."
+        }
+    ]
+}

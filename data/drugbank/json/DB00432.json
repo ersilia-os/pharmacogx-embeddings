@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA451775",
+    "drugbank_id": "DB00432",
+    "names": [
+        "Trifluridine",
+        "Thilol",
+        "Triflumann",
+        "Triherpine",
+        "Virophta"
+    ],
+    "description": "Trifluridine is a fluorinated pyrimidine nucleoside that is structurally related to [idoxuridine] [A35271]. It is an active antiviral agent in ophthalmic solutions used mainly in the treatment of primary keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex virus. It displays effective antiviral activity against Herpes simplex virus type 1 and 2 [A35271]. \r\n\r\nThe combination product of trifluridine with tipiracil marketed as Lonsurf has been approved in Japan, the United States, and the European Union for the treatment of adult patients with metastatic colorectal cancer who have been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, an anti-VEGF biological therapy, and if RAS wild-type, an anti-EGFR therapy. In the anticancer therapy, trifluridine acts as a thymidine-based nucleoside metabolic inhibitor that gets incorporated into DNA of cancer cells following cell uptake to aberrate DNA function during cell replication [F649].",
+    "indication": "As a standalone product, trifluridine is used for the ophthalmic treatment of primay keratoconjunctivitis and recurrent epithelial keratitis due to herpes simplex virus, types 1 and 2.[L47671] \r\n\r\nTrifluridine is also available as a combination product with [tipiracil], which is indicated either alone or in combination with [bevacizumab] for the treatment of adult patients with metastatic colorectal cancer who have been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, an anti-VEGF biological therapy, and if RAS wild-type, an anti-EGFR therapy.[L47676] This combination product is also used for adult patients with metastatic gastric or gastroesophageal junction adenocarcinoma and were previously treated with at least two prior lines of chemotherapy that included a fluoropyrimidine, a platinum, either a taxane or irinotecan, and if appropriate, HER2/neu-targeted therapy.[L47676]",
+    "pharmacodynamics": "Trifluridine exhibits an antiviral effect against herpes simplex virus, types 1 and 2 and vacciniavirus both in vitro and in vivo [A35271]. Some strains of adenovirus that contribute to the pathology of keratoconjunctivitis were shown to be susceptible to trifluridine _in vitro_ [A35271]. While there is evidence from a study that cross-resistance may develop between trifluridine and [idoxuridine] or [vidarabine], trifluridine was shown to effective in treating dendritic ulcers in patients with herpetic keratitis who are unresponsive to [idoxuridine] or [vidarabine] based on the results from masked comparative trials [A35271]. In nonclinical studies, trifluridine/tipiracil hydrochloride demonstrated antitumour activity against both 5-fluorouracil (5-FU) sensitive and resistant colorectal cancer cell lines [F649]. The cytotoxic activity of trifluridine and tipiracil against several human tumour xenografts show high correlation with the amount of trifluridine incorporated into DNA, indicating that the primary mechanism of action of trifluridine involves the direct incorporation into the cancer cell DNA [F649]. Trifluridine and tipiracil demonstrated anti-tumor activity against KRAS wild-type and mutant human colorectal cancer xenografts in mice [FDA Label]. \r\n\r\nIn clinical studies comprised of patients with previously treated metastatic colorectal cancer, treatment of trifluridine in combination with tipiracil in addition to best supportive care over a 5- or 7-month period resulted in increased progression-free survival (PFS), overall response rate (ORR) and disease control rate (DCR) compared to placebo [F649]. In an open-label study, administration of trifluridine at the recommended dosage in patients with advanced solid tumors had no clinically relevant effect on QT/QTc prolongation compared with placebo [FDA Label]. Two out of 48 patients displayed had QTc greater than 500 msec and 1 of 42 patients (2.4%) had a QTc increase from baseline greater than 60 msec [FDA Label]. ",
+    "mechanism-of-action": "The mechanism of action of trifluridine as an antiviral agent has not been fully elucidated, but appears to involve the inhibition of viral replication. Trifluridine gets incorporated into viral DNA during replication, which leads to the formation of defective proteins and an increased mutation rate. Trifluridine also mediates antineoplastic activities via this mechanism; following uptake into cancer cells, trifluridine is rapidly phosphorylated by thymidine kinase to its active monophosphate form [A35272]. Subsequent phosphorylation produces trifluridine triphosphate [A35272], which is readily incorporated into the DNA of tumour cells in place of thymidine bases to perturb DNA function, DNA synthesis, and tumour cell proliferation [FDA Label]. As trifluridine is subject to rapid degradation by TPase and readily metabolised by a first-pass effect following oral administration, tipiracil is added in the antineoplastic combination product as an inhibitor of TPase to increase the bioavailability of trifluridine [F649]. Trifluridine monophosphate also reversibly inhibits thymidylate synthetase (TS), an enzyme that is necessary for DNA synthesis and which levels are shown to be elevated different cancer cell lines [A35289]. Up-regulation of the expression of the TS enzyme may also lead to the resistance to antineoplastic therapies, such as 5-fluorouracil (5-FU). [A35289 However, this inhibitory effect is not considered to be sufficient enough to fully contribute to the cytotoxicity in cancer cells. [A35272]",
+    "absorption": "After oral administration of LONSURF with [14C]-trifluridine, at least 57% of the administered trifluridine was absorbed. Following a single dose of LONSURF (35 mg/m<sup>2</sup>) in patients with advanced solid tumors, the mean times to peak plasma concentrations (T<sub>max</sub>) of trifluridine was around 2 hours.[L47681] Trifluridine area under the concentration-time curve from time 0 to the last measurable concentration (AUC<sub>0-last</sub>) was approximately 3-fold higher and maximum concentration (C<sub>max</sub>) was approximately 2-fold higher after multiple dose administration (twice daily for 5 days a week with 2 days rest for 2 weeks followed by a 14-day rest, repeated every 4 weeks) than after single-dose administration.[L47681]\r\n\r\nFollowing a single oral administration of LONSURF at 35 mg/m<sup>2</sup> in patients with cancer, the mean time to peak plasma concentration (T<sub>max</sub>) of trifluridine was around 2 hours.[L47676] For the ophthalmic formulation, systemic absorption appears to be negligible.[L47671] A standardized high-fat, high-calorie meal decreased trifluridine C<sub>max</sub> by approximately 40% but did not change trifluridine AUC compared to those in a fasting state in patients with cancer following administration of a single dose of LONSURF 35 mg/m<sup>2</sup>.[L47671]\r\n\r\nIn a dose finding study (15 to 35 mg/m<sup>2</sup> twice daily), the AUC from time 0 to 10 hours (AUC0-10) of trifluridine tended to increase more than expected based on the increase in dose.[L47681]",
+    "metabolism": "Trifluridine is not metabolized by cytochrome P450 (CYP) enzymes. Trifluridine is mainly eliminated by metabolism via thymidine phosphorylase to form an inactive metabolite, 5-(trifluoromethyl) uracil (FTY). No other major metabolites were detected in plasma or urine.[L47676] Other minor metabolites, such as 5-carboxy-2'-deoxyuridine found on the endothelial side of the cornea or 5-carboxyuraci, were also detected, but only at low or trace level in plasma and urine.[A35307, L47681]",
+    "toxicity": "Intravenous LD50 in rat was 2946 mg/kg [MSDS]. Oral LD50 in rat and mouse were > 4379mg/kg [MSDS]. Overdosage via ocular instillation is unlikely. The highest dose of orally-administered Lonsurf, trifluridine in combination with tipiracil, administered in clinical studies was 180 mg/m^2 per day. The primary anticipated complication of an overdose is bone marrow suppression. There is no known antidote for trifluridine overdose: in case of an overdose, management should include customary therapeutic and supportive medical intervention aimed at correcting the presenting clinical manifestations and preventing their possible complications [F649]. Based on the findings from animal studies, trifluridine may cause fetal toxicity when administered to pregnant patients [F649].",
+    "targets": [
+        [
+            "TYMS",
+            "Thymidylate synthase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "TK1",
+            "Thymidine kinase, cytosolic",
+            "Humans"
+        ],
+        [
+            "TYMP",
+            "Thymidine phosphorylase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC28A1",
+            "Sodium/nucleoside cotransporter 1",
+            "Humans"
+        ],
+        [
+            "SLC29A1",
+            "Equilibrative nucleoside transporter 1",
+            "Humans"
+        ],
+        [
+            "SLC29A2",
+            "Equilibrative nucleoside transporter 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

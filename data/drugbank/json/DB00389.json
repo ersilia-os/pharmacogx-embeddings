@@ -1,0 +1,42 @@
+{
+    "pharmgkb_id": "PA164742970",
+    "drugbank_id": "DB00389",
+    "names": [
+        "Carbimazole",
+        "Camen",
+        "Carbimazol",
+        "Carbinom",
+        "Carbizol",
+        "Neomercazole",
+        "Neomerdin",
+        "Newmazole",
+        "Thyrocab",
+        "Thyrostat",
+        "Tyrazol",
+        "Upha Carbimazole"
+    ],
+    "description": "An imidazole antithyroid agent. Carbimazole is metabolized to methimazole, which is responsible for the antithyroid activity.",
+    "indication": "For the treatment of hyperthyroidism and thyrotoxicosis. It is also used to prepare patients for thyroidectomy.",
+    "pharmacodynamics": "Carbimazole is a carbethoxy derivative of methimazole. Its antithyroid action is due to its conversion to methimazole after absorption. It is used to treat hyperthyroidism and thyrotoxicosis.",
+    "mechanism-of-action": "Carbimazole is an aitithyroid agent that decreases the uptake and concentration of inorganic iodine by thyroid, it also reduces the formation of di-iodotyrosine and thyroxine. Once converted to its active form of methimazole, it prevents the thyroid peroxidase enzyme from coupling and iodinating the tyrosine residues on thyroglobulin, hence reducing the production of the thyroid hormones T3 and T4.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "TPO",
+            "Thyroid peroxidase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

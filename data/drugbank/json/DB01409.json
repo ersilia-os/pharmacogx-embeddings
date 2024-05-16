@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA164769056",
+    "drugbank_id": "DB01409",
+    "names": [
+        "Tiotropium"
+    ],
+    "description": "Tiotropium is a long-acting, antimuscarinic bronchodilator used in the management of chronic obstructive pulmonary disease (COPD) and asthma.[A180163,L7084,L7087,L7090,L7093] Tiotropium acts mainly on M3 muscarinic receptors located in the airways to produce smooth muscle relaxation and bronchodilation.[A180163,L7084,L7087,L7090,L7093]\r\n\r\nTiotropium is more specific for the subset of muscarinic receptors commonly found in the lungs than [ipratropium].[A180163]\r\n\r\nTiotropium was granted FDA approval on 30 January 2004.[L7084]",
+    "indication": "Tiotropium powder for inhalation is indicated for the maintenance of bronchospasm in COPD and to prevent exacerbations of COPD.[L7084] A combination tiotropium and [olodaterol] metered inhalation spray is indicated for maintenance of COPD.[L7087] A tiotropium inhalation spray is indicated for the maintenance of bronchospasm in COPD, to prevent exacerbations of COPD, and to treat asthma in patients 12 or more years old.[L7090] A tiotropium metered inhalation spray is indicated for the maintenance of bronchospasm in COPD, to prevent exacerbations of COPD, and to treat asthma in patients 6 or more years old.[L7093]",
+    "pharmacodynamics": "Tiotropium is a long acting antimuscarinic that causes bronchodilation.[A180163,L7084,L7087,L7090,L7093] The effects of tiotropium last over 24 hours and there is a wide therapeutic index as overdoses are uncommon even at doses well above the recommended maximum.[L7084,L7087,L7090,L7093]",
+    "mechanism-of-action": "Tiotropium is an antagonist of muscarinic receptors M<sub>1</sub> to M<sub>5</sub>.[A180163,L7084,L7087,L7090,L7093] Inhibition of the M<sub>3</sub> receptor in the smooth muscle of the lungs leads to relaxation of smooth muscle and bronchodilation.[A180163,L7084,L7087,L7090,L7093]",
+    "absorption": "33% of an inhaled solution reaches systemic circulation, while oral solutions have a bioavailability of 2-3%.[A180163,L7087,L7090,L7093] A dry powder for inhalation is 19.5% bioavailable.[A180163,L7084] Tiotropium metered spray for inhalation reaches a maximum concentration in 5-7 minutes.[L7087,L7090,L7093]",
+    "metabolism": "Tiotropium is not heavily metabolized in the body.[L7084,L7087,L7090,L7093] 74% of an intravenous dose is excreted in the urine as unchanged drug.[L7084,L7087,L7090,L7093] Tiotropium is nonenzymatically cleaved to the inactive metabolites N-methylscopine and dithienylglycolic acid.[L7084,L7087,L7090,L7093] _In vitro_ experiments show cytochrome P-450 dependent oxidation and glutathione conjugation to further metabolites.[L7084,L7087,L7090,L7093]",
+    "toxicity": "Symptoms of overdose include altered mental status, tremors, abdominal pain, and severe constipation.[L7084] However, doses of up to 282\u00b5g did not lead to systemic anticholinergic effects in a trial of 6 patients.[L7087,L7090,L7093]\r\nIn case of overdose, stop tiotropium and being symptomatic and supportive therapy.[L7084,L7087,L7090,L7093]",
+    "targets": [
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

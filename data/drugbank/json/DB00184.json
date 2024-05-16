@@ -1,0 +1,179 @@
+{
+    "pharmgkb_id": "PA450626",
+    "drugbank_id": "DB00184",
+    "names": [
+        "Nicotine",
+        "Habitrol",
+        "Nicoderm"
+    ],
+    "description": "Nicotine is highly toxic alkaloid. It is the prototypical agonist at nicotinic cholinergic receptors where it dramatically stimulates neurons and ultimately blocks synaptic transmission. Nicotine is also important medically because of its presence in tobacco smoke.",
+    "indication": "For the relief of nicotine withdrawal symptoms and as an aid to smoking cessation.",
+    "pharmacodynamics": "Nicotine, the primary alkaloid in tobacco products binds stereo-selectively to nicotinic-cholinergic receptors on autonomic ganglia, the adrenal medulla, neuromuscular junctions and in the brain. Nicotine exerts two effects, a stimulant effect exerted at the locus ceruleus and a reward effect in the limbic system. Itranvenous administration of nicotine causes release of acetylcholine, norepinephrine, dopamine, serotonine, vasopressin, beta-endorphin and ACTH. Nicotine is a highly addictive substance. Nicotine also induces peripheral vasoconstriction, tachycardia and elevated blood pressure. Nicotine inhalers and patches are used to treat smoking withdrawl syndrome. Nicotine is classified as a stimulant of autonomic ganglia.",
+    "mechanism-of-action": "Nicotine is a stimulant drug that acts as an agonist at nicotinic acetylcholine receptors. These are ionotropic receptors composed up of five homomeric or heteromeric subunits. In the brain, nicotine binds to nicotinic acetylcholine receptors on dopaminergic neurons in the cortico-limbic pathways. This causes the channel to open and allow conductance of multiple cations including sodium, calcium, and potassium. This leads to depolarization, which activates voltage-gated calcium channels and allows more calcium to enter the axon terminal. Calcium stimulates vesicle trafficking towards the plasma membrane and the release of dopamine into the synapse. Dopamine binding to its receptors is responsible the euphoric and addictive properties of nicotine.\r\nNicotine also binds to nicotinic acetylcholine receptors on the chromaffin cells in the adrenal medulla. Binding opens the ion channel allowing influx of sodium, causing depolarization of the cell, which activates voltage-gated calcium channels. Calcium triggers the release of epinephrine from intracellular vesicles into the bloodstream, which causes vasoconstriction, increased blood pressure, increased heart rate, and increased blood sugar.",
+    "absorption": "Absorption of nicotine through the buccal mucosa is relatively slow and the high and rapid rise followed by the decline in nicotine arterial plasma concentrations seen with cigarette smoking are not achieved with the inhaler. About 10% of absorbed nicotine is excreted unchanged in urine.",
+    "metabolism": "Primarily hepatic, cotinine is the primary metabolite.",
+    "toxicity": "Symptoms of overdose include nausea, abdominal pain, vomiting, diarrhea, diaphoresis, flushing, dizziness, disturbed hearing and vision, confusion, weakness, palpitations, altered respiration and hypotension. LD<sub>50</sub>= 24 mg/kg (orally in mice).",
+    "targets": [
+        [
+            "CHRNA4",
+            "Neuronal acetylcholine receptor subunit alpha-4",
+            "Humans"
+        ],
+        [
+            "CHRNA7",
+            "Neuronal acetylcholine receptor subunit alpha-7",
+            "Humans"
+        ],
+        [
+            "CHRNB2",
+            "Neuronal acetylcholine receptor subunit beta-2",
+            "Humans"
+        ],
+        [
+            "CHRNA2",
+            "Neuronal acetylcholine receptor subunit alpha-2",
+            "Humans"
+        ],
+        [
+            "CHRNA3",
+            "Neuronal acetylcholine receptor subunit alpha-3",
+            "Humans"
+        ],
+        [
+            "CHRNA5",
+            "Neuronal acetylcholine receptor subunit alpha-5",
+            "Humans"
+        ],
+        [
+            "CHRNA6",
+            "Neuronal acetylcholine receptor subunit alpha-6",
+            "Humans"
+        ],
+        [
+            "CHRNA9",
+            "Neuronal acetylcholine receptor subunit alpha-9",
+            "Humans"
+        ],
+        [
+            "CHRNA10",
+            "Neuronal acetylcholine receptor subunit alpha-10",
+            "Humans"
+        ],
+        [
+            "CHRNB3",
+            "Neuronal acetylcholine receptor subunit beta-3",
+            "Humans"
+        ],
+        [
+            "CHRNB4",
+            "Neuronal acetylcholine receptor subunit beta-4",
+            "Humans"
+        ],
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ],
+        [
+            "CHAT",
+            "Choline O-acetyltransferase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP2A13",
+            "Cytochrome P450 2A13",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

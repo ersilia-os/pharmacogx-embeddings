@@ -1,0 +1,137 @@
+{
+    "pharmgkb_id": "PA166163418",
+    "drugbank_id": "DB12332",
+    "names": [
+        "Rucaparib"
+    ],
+    "description": "Rucaparib is an anticancer drug and poly (ADP-ribose) polymerase (PARP) inhibitor. PARP is an enzyme that plays an essential role in DNA repair.[A18745] Rucaparib is proposed to work in several PARP-dependent and PARP-independent mechanisms of action; however, it causes a unique effect of synthetic lethality. By targeting the genetically-mutated cancer cells that lack a DNA repair mechanism, rucaparib causes cancer cell death and reduces tumour growth.[A18745,A31354]\r\n\r\nRucaparib was granted FDA Breakthrough Therapy designation in April 2015 [A18745] and accelerated approval in December 2016.[A249240] The drug was later approved by the European Commission in May 2018.[L42185] It is currently used to treat recurrent ovarian and prostate cancer in adults.[L42155,L42185]",
+    "indication": "Rucaparib is indicated for the maintenance treatment of adult patients with a deleterious BRCA mutation (germline and/or somatic)- associated recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy.[L44572]\r\n\r\nUnder accelerated approval by the FDA, rucaparib is also indicated for the treatment of adult patients with a deleterious BRCA mutation (germline and/or somatic)-associated metastatic castration-resistant prostate cancer (mCRPC) who have been treated with androgen receptor-directed therapy and a taxane-based chemotherapy.[L44572]",
+    "pharmacodynamics": "Rucaparib is an anticancer agent that exerts cytotoxic effects against cancer cells. It works by inhibiting poly (ADP-ribose) polymerase (PARP), an enzyme that plays a role in DNA repair. Rucaparib inhibits PARP-1, PARP-2, and PARP-3. It also interacts with PARP-4, PARP-10, PARP-12, PARP-15, and PARP-16, but to a lesser extent.[A18745] In mice, rucaparib accumulated and was retained in tumours, inhibiting PARP enzymes for seven days.[A249240]\r\n\r\nRucaparib decreases tumour growth in tumour cell lines with deficiencies in BRCA1/2 and other DNA repair genes.[L42155] In addition to PARP inhibition, rucaparib demonstrated PARP-independent cytotoxic mechanisms in cancer cells. When co-administered with other chemotherapeutic agents, rucaparib contributed to synergistic or additive effects _in vitro_ and _in vivo_. There is evidence that rucaparib can sensitize cancer cells to chemotherapy. Rucaparib can also cause vasodilation, which may increase tumour perfusion and enhance the accumulation of cytotoxic drugs in cancer cells.[A249240]",
+    "mechanism-of-action": "PARPs play a role in DNA repair by activating DNA damage response pathways, such as base excision repair, and facilitating DNA repair. PARPs were evaluated as novel anticancer therapeutic targets after discovering that PARP-1 inhibitors reduce tumour growth in BRCA-deficient cancers.[A18745] BRCA1 and BRCA2 are tumour suppressor genes involved in various cellular processes related to cell growth and death, including DNA repair.[A249195] More specifically, BRCA1 and BRCA2 are involved in homologous recombination (HR) DNA repair. Cancer cells with a deleterious BRCA mutation are HR-deficient, resulting in unregulated and aberrant cell repair and growth.[A18745]\r\n\r\nRucaparib inhibits PARP1, PARP2, and PARP3.[L42155] Inhibiting PARP traps the enzyme on damaged DNA, halting the repair process and forming toxic PARP\u2013DNA complexes. Alternatively, other DNA repair processes such as error-prone nonhomologous end joining (NHEJ) or alternative end-joining pathways can be initiated, leading to mutations or chromosomal change.[A31354] Further DNA damage can trigger cancer cell apoptosis and cell death.[L42155] \r\n\r\nTypically, inhibition of PARP converts single-strand breaks in DNA to double-strand breaks at replication forks. HR DNA repair pathways repair double-strand breaks; however, HR-deficient cancer cells lack this repair mechanism. Because HR-deficient cancer cells are more vulnerable to unsalvageable DNA damage, rucaparib-induced PARP inhibition leads to synthetic lethality. In this phenomenon, two non-lethal defects (HR deficiency and PARP inhibition) combine and cause cell death.[A18745,A31354]",
+    "absorption": "Rucaparib exhibits a linear pharmacokinetic profile over the dose range from 240 mg to 840 mg twice daily. The mean (coefficient of variation [CV]) steady-state rucaparib C<sub>max</sub> is 1940 ng/mL (54%) and AUC0-12h is 16900 h x ng/mL (54%) at the approved recommended dosage. The mean AUC accumulation ratio is 3.5 to 6.2 fold. The median T<sub>max</sub> at the steady state is 1.9 hours, with a range of 0 to 5.98 hours at the approved recommended dosage. The mean absolute bioavailability is 36%, with a range of 30 to 45%.[L42155]\r\n\r\nA high-fat meal increased C<sub>max</sub> and AUC<sub>0-24h</sub> by 20% and 38%, respectively. The T<sub>max</sub> was delayed by 2.5 hours.[L42155]",
+    "metabolism": "In vitro, rucaparib is primarily metabolized by CYP2D6 and, to a lesser extent, by CYP1A2 and CYP3A4. In addition to CYP-based oxidation, rucaparib also undergoes N-demethylation, N-methylation, and glucuronidation.[L42155] In one study, seven metabolites of rucaparib were identified in plasma, urine, and feces.[A249245]",
+    "toxicity": "There is no information regarding the LD50 and overdose of rucaparib.",
+    "targets": [
+        [
+            "PARP1",
+            "Poly [ADP-ribose] polymerase 1",
+            "Humans"
+        ],
+        [
+            "PARP2",
+            "Poly [ADP-ribose] polymerase 2",
+            "Humans"
+        ],
+        [
+            "PARP3",
+            "Poly [ADP-ribose] polymerase 3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A43",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

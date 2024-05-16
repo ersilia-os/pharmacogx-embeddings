@@ -1,0 +1,32 @@
+{
+    "pharmgkb_id": "PA164776964",
+    "drugbank_id": "DB00967",
+    "names": [
+        "Desloratadine",
+        "Claramax"
+    ],
+    "description": "Desloratadine is a second generation, tricyclic antihistamine that which has a selective and peripheral H1-antagonist action. It is the active descarboethoxy metabolite of loratidine (a second generation histamine). Desloratidine has a long-lasting effect and does not cause drowsiness because it does not readily enter the central nervous system.",
+    "indication": "For the relief of symptoms of seasonal allergic rhinitis, perennial (non-seasonal) allergic rhinitis. Desloratidine is also used for the sympomatic treatment of pruritus and urticaria (hives) associated with chronic idiopathic urticaria.",
+    "pharmacodynamics": "Desloratadine is a long-acting second-generation H<sub>1</sub>-receptor antagonist which has a selective and peripheral H1-antagonist action. Histamine is a chemical that causes many of the signs that are part of allergic reactions, such as the swelling of tissues. Histamine is released from histamine-storing cells (mast cells) and attaches to other cells that have receptors for histamine. The attachment of the histamine to the receptors causes the cell to be \"activated,\" releasing other chemicals which produce the effects that we associate with allergies. Desloratadine blocks one type of receptor for histamine (the H1 receptor) and thus prevents activation of cells by histamine. Unlike most other antihistamines, Desloratadine does not enter the brain from the blood and, therefore, does not cause drowsiness.",
+    "mechanism-of-action": "Like other H1-blockers, Desloratadine competes with free histamine for binding at H<sub>1</sub>-receptors in the GI tract, uterus, large blood vessels, and bronchial smooth muscle. This blocks the action of endogenous histamine, which subsequently leads to temporary relief of the negative symptoms (eg. nasal congestion, watery eyes) brought on by histamine.",
+    "absorption": "Desloratadine administered orally for ten days to healthy volunteers as a 5 mg tablet once daily resulted in a mean T<sub>max</sub> of approximately 3 hours, a mean steady-state C<sub>max</sub> of 4 ng/ml, and a mean steady-state AUC of 56.9 ng\\*hr/ml. A similar profile was observed using 10 ml of an oral solution containing 5 mg of desloratadine. Food was found not to affect desloratadine absorption. ",
+    "metabolism": "Desloratadine is metabolized to the active metabolite 3-hydroxydesloratadine, which is subsequently glucuronidated. ",
+    "toxicity": "Information regarding desloratadine overdose is limited, although somnolence has been reported. In case of overdose, symptomatic and supportive treatment, including removing the unabsorbed drug, is recommended; note, however, that desloratadine and its active metabolite 3-hydroxydesloratadine cannot be eliminated by hemodialysis. \r\n\r\nIn animal studies, lethality was observed at or above doses of 250 mg/kg in rats and of 353 mg/kg in mice (oral LD<sub>50</sub>), doses that represent 120 and 290 times the human exposure based on the recommended daily oral dose. In monkey, no deaths occurred at doses up to 250 mg/kg, representing an exposure roughly 810 times that of the recommended dose in humans.",
+    "targets": [
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

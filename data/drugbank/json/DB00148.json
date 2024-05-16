@@ -1,0 +1,56 @@
+{
+    "pharmgkb_id": "PA164778930",
+    "drugbank_id": "DB00148",
+    "names": [
+        "Creatine"
+    ],
+    "description": "An amino acid derivative that occurs in vertebrate tissues and in urine. In muscle tissue, creatine generally occurs as phosphocreatine. Creatine is excreted as creatinine in the urine.",
+    "indication": "For nutritional supplementation, also for treating dietary shortage or imbalance.",
+    "pharmacodynamics": "Creatine is a essential, non-proteinaceous amino acid derivative found in all animals. It is synthesized in the kidney, liver, and pancreas from L-arginine, glycine and L-methionine. Following its biosynthesis, creatine is transported to the skeletal muscle, heart, brain and other tissues. Most of the creatine is metabolized in these tissues to phosphocreatine (creatine phosphate). Phosphocreatine is a major energy storage form in the body. Supplemental creatine may have an energy-generating action during anaerobic exercise and may also have neuroprotective and cardioprotective actions.",
+    "mechanism-of-action": "In the muscles, a fraction of the total creatine binds to phosphate - forming creatine phosphate. The reaction is catalysed by creatine kinase, and the result is phosphocreatine (PCr). Phosphocreatine binds with adenosine diphosphate to convert it back to ATP (adenosine triphosphate), an important cellular energy source for short term ATP needs prior to oxidative phosphorylation.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "CKM",
+            "Creatine kinase M-type",
+            "Humans"
+        ],
+        [
+            "CKMT1A",
+            "Creatine kinase U-type, mitochondrial",
+            "Humans"
+        ],
+        [
+            "CKB",
+            "Creatine kinase B-type",
+            "Humans"
+        ],
+        [
+            "CKMT2",
+            "Creatine kinase S-type, mitochondrial",
+            "Humans"
+        ],
+        [
+            "SLC6A8",
+            "Sodium- and chloride-dependent creatine transporter 1",
+            "Humans"
+        ],
+        [
+            "GAMT",
+            "Guanidinoacetate N-methyltransferase",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

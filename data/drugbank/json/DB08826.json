@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA166118041",
+    "drugbank_id": "DB08826",
+    "names": [
+        "Deferiprone"
+    ],
+    "description": "Deferiprone is an oral iron chelator used as a second line agent in thalassemia syndromes when iron overload from blood transfusions occurs. Thalassemias are a type of hereditary anaemia due a defect in the production of hemoglobin. As a result, erythropoiesis, the production of new red blood cells, is impaired. FDA approved on October 14, 2011.",
+    "indication": "Deferiprone is indicated in thalassemia syndromes when first line chelation agents are not adequate to treat transfusional iron overload.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Deferiprone is an iron chelator that binds to ferric ions (iron III) and forms a 3:1 (deferiprone:iron) stable complex and is then eliminated in the urine. Deferiprone is more selective for iron in which other metals such as zinc, copper, and aluminum have a lower affinity for deferiprone.",
+    "absorption": "Deferiprone is absorbed in the upper gastrointestinal tract. Absorption is rapid with maximum plasma concentrations occurring after 1 hour in the fasted state and after 2 hours in the fed state.",
+    "metabolism": "Deferiprone is mainly metabolized by UGT1A6 to the 3-O-glucuronide metabolite. This metabolite cannot chelate iron.",
+    "toxicity": "Agranulocytosis and neutropenia may occur, which can lead to fatal infections. Hepatoxicity is also possible. Most common side effects that lead to discontinuation of therapy were the gastrointestinal adverse effects (diarrhea, ulcer, nausea, gastrointestinal disturbances) ",
+    "targets": null,
+    "enzymes": [
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferase 1-6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

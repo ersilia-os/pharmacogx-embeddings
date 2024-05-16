@@ -1,0 +1,249 @@
+{
+    "pharmgkb_id": "PA450428",
+    "drugbank_id": "DB00563",
+    "names": [
+        "Methotrexate",
+        "Abitrexate",
+        "Alltrex",
+        "Artrait",
+        "Atrexel",
+        "Bendatrexat",
+        "Carditrex",
+        "Dermotrex",
+        "Ebetrex",
+        "Emtexate",
+        "Ledertrexate",
+        "Maxtrex",
+        "Meisusheng",
+        "Mexate",
+        "Rheumatrex",
+        "Trexan",
+        "Zexate"
+    ],
+    "description": "Methotrexate is a folate derivative that inhibits several enzymes responsible for nucleotide synthesis.[A180322] This inhibition leads to suppression of inflammation as well as prevention of cell division.[A180322] Because of these effects, methotrexate is often used to treat inflammation caused by arthritis or to control cell division in neoplastic diseases such as breast cancer and non-Hodgkin's lymphoma.[A180322,L7144,L7147,L7150,L7180]\r\n\r\nDue to the toxic effects of methotrexate, it is indicated for treatment of some forms of arthritis and severe psoriasis only if first line treatment has failed or patients are intolerant of those treatments.[L7180]\r\n\r\nMethotrexate was granted FDA approval on 7 December 1953.[L7198]",
+    "indication": "Methotrexate oral solution is indicated for pediatric acute lymphoblastic leukemia and pediatric polyarticular juvenile idiopathic arthritis.[L7144] Methotrexate injections for subcutaneous use are indicated for severe active rheumatoid arthritis, polyarticular juvenile idiopathic arthritis and severe, recalcitrant, disabling psoriasis.[L7147,L7150,L10457] It has also been approved by the EMA for the treatment of adult patients requiring systemic therapy for moderate-to-severe plaque psoriasis.[L48796]\r\n\r\nOther formulations are indicated to treat gestational choriocarcinoma, chorioadenoma destruens, hydatiform mole, breast cancer, epidermoid cancer of the head and neck, advanced mycosis fungoides, lung cancer, and advanced non-Hodgkin's lymphoma.[L7180] It is also used in the maintenance of acute lymphocytic leukemia.[L7180] Methotrexate is also given before treatment with leucovorin to prolong relapse-free survival following surgical removal of a tumour in non-metastatic osteosarcoma.[L7180]",
+    "pharmacodynamics": "Methotrexate inhibits enzymes responsible for nucleotide synthesis which prevents cell division and leads to anti-inflammatory actions.[A180322] It has a long duration of action and is generally given to patients once weekly.[A180322,L7144,L7147,L7150] Methotrexate has a narrow therapeutic index.[A180325]\r\n\r\nDo not take methotrexate daily.[L7147,L7150]",
+    "mechanism-of-action": "Methotrexate enters tissues and is converted to a methotrexate polyglutamate by folylpolyglutamate.[A180322]\r\n\r\nMethotrexate's mechanism of action is due to its inhibition of enzymes responsible for nucleotide synthesis including  dihydrofolate reductase, thymidylate synthase, aminoimidazole caboxamide ribonucleotide transformylase (AICART), and amido phosphoribosyltransferase.[A180322] Inhibtion of nucleotide synthesis prevents cell division.\r\n\r\nIn rheumatoid arthritis, methotrexate polyglutamates inhibit AICART more than methotrexate.[A180322] This inhibition leads to accumulation of AICART ribonucleotide, which inhibits adenosine deaminase, leading to an accumulation of adenosine triphosphate and adenosine in the extracellular space, stimulating adenosine receptors, leading to anti-inflammatory action.[A180322]",
+    "absorption": "Methotrexate has a bioavailability of 64-90%, though this decreases at oral doses above 25mg due to saturation of the carrier mediated transport of methotrexate.[A180322]. Methotrexate has a T<sub>max</sub> of 1 to 2 hours.[A180322] oral doses of 10-15\u00b5g reach serum levels of 0.01-0.1\u00b5M.[A180322]",
+    "metabolism": "Methotrexate is metabolized by folylpolyglutamate synthase to methotrexate polyglutamate in the liver as well as in tissues.[A180322,L7180] Gamma-glutamyl hydrolase hydrolyzes the glutamyl chains of methotrexate polyglutamates converting them back to methotrexate.[A180322,L7180] A small amount of methotrexate is also converted to 7-hydroxymethotrexate.[A180322,L7180]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is 135mg/kg and in mice is 146mg/kg.[L7204]\r\n\r\nSymptoms of overdose include hematologic and gastrointestinal reactions like leukopenia, thombocytopenia, anemia, pancytopenia, bone marrow suppression, mucositis, stomatitis, oral ulceration, nausea, vomiting, gastrointestinal ulceration, and gastrointestinal bleeding.[L7180] In the event of an overdose, patients should be treated with glucarpidase and not be given leucovorin for 2 hours before or after glucarpidase.[L7180]",
+    "targets": [
+        [
+            "TYMS",
+            "Thymidylate synthase",
+            "Humans"
+        ],
+        [
+            "ATIC",
+            "Bifunctional purine biosynthesis protein PURH",
+            "Humans"
+        ],
+        [
+            "DHFR",
+            "Dihydrofolate reductase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "DHFR",
+            "Dihydrofolate reductase",
+            "Humans"
+        ],
+        [
+            "AOX1",
+            "Aldehyde oxidase",
+            "Humans"
+        ],
+        [
+            "MTHFR",
+            "Methylenetetrahydrofolate reductase",
+            "Humans"
+        ],
+        [
+            "PGD",
+            "6-phosphogluconate dehydrogenase, decarboxylating",
+            "Humans"
+        ],
+        [
+            "FPGS",
+            "Folylpolyglutamate synthase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "TYMS",
+            "Thymidylate synthase",
+            "Humans"
+        ],
+        [
+            "ATIC",
+            "Bifunctional purine biosynthesis protein PURH",
+            "Humans"
+        ],
+        [
+            "GGH",
+            "Gamma-glutamyl hydrolase",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "cpg2",
+            "Carboxypeptidase G2",
+            "Pseudomonas sp. (strain RS-16)"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "ABCC10",
+            "Multidrug resistance-associated protein 7",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "SLC16A1",
+            "Monocarboxylate transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCC11",
+            "ATP-binding cassette sub-family C member 11",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLCO1C1",
+            "Solute carrier organic anion transporter family member 1C1",
+            "Humans"
+        ],
+        [
+            "SLCO3A1",
+            "Solute carrier organic anion transporter family member 3A1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLC46A1",
+            "Proton-coupled folate transporter",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO4C1",
+            "Solute carrier organic anion transporter family member 4C1",
+            "Humans"
+        ],
+        [
+            "SLC19A1",
+            "Folate transporter 1",
+            "Humans"
+        ],
+        [
+            "FOLR1",
+            "Folate receptor alpha",
+            "Humans"
+        ],
+        [
+            "FOLR2",
+            "Folate receptor beta",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC36A1",
+            "Proton-coupled amino acid transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00563",
+            "Drug Name": "Methotrexate",
+            "Gene Symbol": "ABCC2",
+            "RS ID (Genotype)": null,
+            "Adverse Reaction Description": "Patients with this genotype have increased risk of toxicity with methotrexate."
+        },
+        {
+            "DrugBank ID": "DB00563",
+            "Drug Name": "Methotrexate",
+            "Gene Symbol": "MTHFR",
+            "RS ID (Genotype)": "rs1801133",
+            "Adverse Reaction Description": "Patients with this genotype have increased risk of toxicity with methotrexate."
+        }
+    ]
+}

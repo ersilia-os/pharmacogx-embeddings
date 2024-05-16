@@ -1,0 +1,124 @@
+{
+    "pharmgkb_id": "PA450322",
+    "drugbank_id": "DB00934",
+    "names": [
+        "Maprotiline",
+        "Deprilept",
+        "Psymion"
+    ],
+    "description": "Maprotiline is a tetracyclic antidepressant with similar pharmacological properties to tricyclic antidepressants (TCAs). Similar to TCAs, maprotiline inhibits neuronal norepinephrine reuptake, possesses some anticholinergic activity, and does not affect monoamine oxidase activity. It differs from TCAs in that it does not appear to block serotonin reuptake. Maprotiline may be used to treat depressive affective disorders, including dysthymic disorder (depressive neurosis) and major depressive disorder. Maprotiline is effective at reducing symptoms of anxiety associated with depression.",
+    "indication": "For treatment of depression, including the depressed phase of bipolar depression, psychotic depression, and involutional melancholia, and may also be helpful in treating certain patients suffering severe depressive neurosis.",
+    "pharmacodynamics": "Maprotiline is a tetracyclic antidepressant. Although its main therapeutic use is in the treatment of depression, it has also been shown to exert a sedative effect on the anxiety component that often accompanies depression. In one sleep study, it was shown that maprotiline increases the duration of the REM sleep phase in depressed patients, compared to imipramine which reduced the REM sleep phase. Maprotiline is a strong inhibitor of noradrenaline reuptake in the brain and peripheral tissues, however it is worthy to note that it is a weak inhibitor of serotonergic uptake. In addition, it displays strong antihistaminic action (which may explain its sedative effects) as well as weak anticholinergic action. Maprotiline also has lower alpha adrenergic blocking activity than amitriptyline.",
+    "mechanism-of-action": "Maprotiline exerts its antidepressant action by inhibition of presynaptic uptake of catecholamines, thereby increasing their concentration at the synaptic clefts of the brain. In single doses, the effect of maprotiline on the EEG revealed a rise in the alpha-wave density, a reduction of the alpha-wave frequency and an increase in the alpha-wave amplitude. However, as with other tricyclic antidepressants, maprotiline lowers the convulsive threshold. Maprotiline acts as an antagonist at central presynaptic &alpha;<sub>2</sub>-adrenergic inhibitory autoreceptors and hetero-receptors, an action that is postulated to result in an increase in central noradrenergic and serotonergic activity. Maprotiline is also a moderate peripheral &alpha;<sub>1</sub> adrenergic antagonist, which may explain the occasional orthostatic hypotension reported in association with its use. Maprotiline also inhibits the amine transporter, delaying the reuptake of noradrenaline and norepinephrine. Lastly, maprotiline is a strong inhibitor of the histamine H<sub>1</sub> receptor, which explains its sedative actions.",
+    "absorption": "Slowly, but completely absorbed from the GI tract following oral administration. ",
+    "metabolism": "Hepatic. Maprotiline is metabolized by <i>N</i>-demethylation, deamination, aliphatic and aromatic hydroxylations and by formation of aromatic methoxy derivatives. It is slowly metabolized primarily to desmethylmaprotiline, a pharmacologically active metabolite. Desmethylmaprotiline may undergo further metabolism to maprotiline-<i>N</i>-oxide. ",
+    "toxicity": "LD<sub>50</sub>=~900 mg/kg (Orally in rats); LD<sub>50</sub>=90 mg/kg (Orally in women); Signs of overdose include motor unrest, muscular twitching and rigidity, tremor, ataxia, convulsions, hyperpyrexia, vertigo, mydriasis, vomiting, cyanosis, hypotension, shock, tachycardia, cardiac arrhythmias, impaired cardiac conduction, respiratory depression, and disturbances of consciousness up to deep coma.",
+    "targets": [
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "HTR7",
+            "5-hydroxytryptamine receptor 7",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

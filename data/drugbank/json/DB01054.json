@@ -1,0 +1,179 @@
+{
+    "pharmgkb_id": "PA146096020",
+    "drugbank_id": "DB01054",
+    "names": [
+        "Nitrendipine",
+        "Bayotensin",
+        "Baypress",
+        "Bylotensin",
+        "Deiten",
+        "Nidrel",
+        "Nitrepin",
+        "Nitrezic"
+    ],
+    "description": "Nitrendipine is a calcium channel blocker with marked vasodilator action. It is an effective antihypertensive agent and differs from other calcium channel blockers in that it does not reduce glomerular filtration rate and is mildly natriuretic, rather than sodium retentive.",
+    "indication": "For the treatment of mild to moderate hypertension",
+    "pharmacodynamics": "Nitrendipine, a dihydropyridine calcium-channel blocker, is used alone or with an angiotensin-converting enzyme inhibitor, to treat hypertension, chronic stable angina pectoris, and Prinzmetal's variant angina. Nitrendipine is similar to other peripheral vasodilators. Nitrendipine inhibits the influx of extra cellular calcium across the myocardial and vascular smooth muscle cell membranes possibly by deforming the channel, inhibiting ion-control gating mechanisms, and/or interfering with the release of calcium from the sarcoplasmic reticulum. The decrease in intracellular calcium inhibits the contractile processes of the myocardial smooth muscle cells, causing dilation of the coronary and systemic arteries, increased oxygen delivery to the myocardial tissue, decreased total peripheral resistance, decreased systemic blood pressure, and decreased afterload.",
+    "mechanism-of-action": "By deforming the channel, inhibiting ion-control gating mechanisms, and/or interfering with the release of calcium from the sarcoplasmic reticulum, Nitrendipine inhibits the influx of extracellular calcium across the myocardial and vascular smooth muscle cell membranes The decrease in intracellular calcium inhibits the contractile processes of the myocardial smooth muscle cells, causing dilation of the coronary and systemic arteries, increased oxygen delivery to the myocardial tissue, decreased total peripheral resistance, decreased systemic blood pressure, and decreased afterload.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "CACNA1C",
+            "Voltage-dependent L-type calcium channel subunit alpha-1C",
+            "Humans"
+        ],
+        [
+            "CACNA2D1",
+            "Voltage-dependent calcium channel subunit alpha-2/delta-1",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage-dependent L-type calcium channel subunit beta-2",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage-dependent L-type calcium channel subunit alpha-1D",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage-dependent L-type calcium channel subunit alpha-1S",
+            "Humans"
+        ],
+        [
+            "CACNA2D2",
+            "Voltage-dependent calcium channel subunit alpha-2/delta-2",
+            "Humans"
+        ],
+        [
+            "CACNA1H",
+            "Voltage-dependent T-type calcium channel subunit alpha-1H",
+            "Humans"
+        ],
+        [
+            "CACNA1C",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1F",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB1",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB3",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNB4",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1A",
+            "Voltage-dependent L-type calcium channel",
+            "Humans"
+        ],
+        [
+            "KCNMA1",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNMB1",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNMB2",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNMB3",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNMB4",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNN4",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNN1",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNN2",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ],
+        [
+            "KCNN3",
+            "Calcium-activated potassium channel",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,45 @@
+{
+    "pharmgkb_id": "PA452616",
+    "drugbank_id": "DB04840",
+    "names": [
+        "Debrisoquine",
+        "Bonipress",
+        "Declinax",
+        "Tendor"
+    ],
+    "description": "An adrenergic neuron-blocking drug similar in effects to guanethidine. It is also noteworthy in being a substrate for a polymorphic cytochrome P-450 enzyme. Persons with certain isoforms of this enzyme are unable to properly metabolize this and many other clinically important drugs. They are commonly referred to as having a debrisoquin 4-hydroxylase polymorphism.",
+    "indication": "For the treatment of moderate and severe hypertension, either alone or as an adjunct, and for the treatment of renal hypertension.",
+    "pharmacodynamics": "Debrisoquin is an adrenergic neuron-blocking drug similar in effects to guanethidine. It is a substrate for a polymorphic cytochrome P-450 enzyme. Persons with certain isoforms of this enzyme are unable to properly metabolize this and many other clinically important drugs. They are commonly referred to as having a debrisoquin 4-hydroxylase polymorphism.",
+    "mechanism-of-action": "Debrisoquin acts at the sympathetic neuroeffector junction by inhibiting or interfering with the release and/or distribution of norepinephrine, rather than acting at the effector cell by inhibiting the association of norepinephrine with its receptors. It is taken up by norepinephrine transporters. It becomes concentrated in NE transmitter vesicles, replacing NE in these vesicles. This leads to a gradual depletion of NE stores in the nerve endings. Once inside the terminal it blocks the release of noradrenaline in response to arrival of an action potential. In contrast to ganglionic blocking agents, debrisoquin suppresses equally the responses mediated by alpha-and beta-adrenergic receptors but does not produce parasympathetic blockade. Since sympathetic blockade results in modest decreases in peripheral resistance and cardiac output, debrisoquin lowers blood pressure in the supine position. It further reduces blood pressure by decreasing the degree of vasoconstriction that normally results from reflex sympathetic nervous activity upon assumption of the upright posture, thus reducing venous return and cardiac output more.",
+    "absorption": null,
+    "metabolism": "Hepatic.",
+    "toxicity": null,
+    "targets": [
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

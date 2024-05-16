@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA450354",
+    "drugbank_id": "DB01042",
+    "names": [
+        "Melphalan"
+    ],
+    "description": "Melphalan is a nitrogen mustard or bischloroethylamine type alkylating agent.[L40928] It was first synthesized in the early 1950s by substituting L-phenylalanine for the methyl group on nitrogen mustard.[A261150, A261155] Melphalan is used in the treatment of multiple myeloma and ovarian carcinoma.[L40928] It is also used for high-conditioning before hematopoietic stem cell transplant.[L47890] It is also used to treat uveal melanoma with unresectable hepatic metastases.[L47895]",
+    "indication": "Melphalan is indicated for use as a high-dose conditioning treatment prior to hematopoietic stem cell transplantation in patients with multiple myeloma.[L47890] It is also indicated for the palliative treatment of multiple myeloma and for the palliation of non-resectable epithelial carcinoma of the ovary.[L40928]\r\n\r\nMelphalan is a component of HEPZATO KIT, a liver-directed therapy indicated for the treatment of adults with uveal melanoma with unresectable hepatic metastases affecting less than 50% of the liver and no extrahepatic disease or extrahepatic disease limited to the bone, lymph nodes, subcutaneous tissues, or lung that is amenable to resection or radiation.[L47895]",
+    "pharmacodynamics": "Melphalan possesses cytotoxic, immunosuppressive, and myeloablative activities.[A261150, L40928] Melphalan produces chromosomal aberrations _in vitro_ and _in vivo_; thus, it is considered to be potentially leukemogenic in humans. It also causes dose-limiting bone marrow suppression. The peak mean heart rate increased by 20 bpm from baseline following melphalan 100 mg/m<sup>2</sup> for two consecutive days in multiple myeloma patients undergoing autologous stem cell transplantation.[L47890]",
+    "mechanism-of-action": "Melphalan is an alkylating agent of the bischloroethylamine type.[L47890] It is believed to be taken up by tumour cells via a neutral amino acid active pathway shared by leucine.[A261155] Melphalan binds at the N7 position of guanine and induces inter-strand cross-links in DNA, disrupting DNA synthesis or transcription. It can also cause DNA-protein cross-linking and induce lesions in RNA, proteins, and lipids.[A1635, A230158, A230163, A261155, A261171, L47890] Melphalan is cytotoxic in resting and rapidly dividing tumour cells.[L47890]",
+    "absorption": "The absorption of oral melphalan is highly variable concerning both the time to the first appearance of the drug in plasma (range: 0 to 6 hours) and peak plasma concentration (C<sub>max</sub>). The average absolute bioavailability of melphalan ranges from 56% to 93%. High variability in bioavailability may be due to incomplete intestinal absorption, variable first-pass hepatic metabolism, or rapid hydrolysis. T<sub>max</sub> was one hour in patients who received single oral doses of 0.2 mg/kg to 0.25 mg/kg of melphalan. Oral administration of melphalan with a high-fat meal may reduce melphalan exposure (AUC) by 36% to 54%.[L40928]\r\n\r\nMean (\u00b1 SD) C<sub>max</sub> and AUC<sub>0-inf</sub> were 5.8 \u00b1 1.5 mcg/mL and 451 \u00b1 109 mcg x min/mL, respectively, following intravenous administration of 100 mg/m<sup>2</sup> in multiple myeloma patients.[L47890]",
+    "metabolism": "Melphalan primarily undergoes chemical hydrolysis to inactive metabolites, monohydroxymelphalan and dihydroxymelphalan.[L40928, L47890] No other melphalan metabolites have been observed in humans.[L40928]",
+    "toxicity": "The oral and intraperitoneal LD<sub>50</sub> in rats is 4484 \u00b5g/kg and 11200 \u00b5g/kg, respectively. The subcutaneous LD<sub>50</sub> in mice is 32 mg/kg.[L47900]\r\n\r\nOverdoses resulting in death have been reported with melphalan. Overdoses, including intravenous doses up to 290 mg/m<sup>2</sup> and oral doses up to 50 mg/day for 16 days, have been reported. Symptoms of overdose include severe nausea and vomiting, decreased consciousness, convulsions, muscular paralysis, cholinomimetic effects, mucositis, stomatitis, colitis, diarrhea, and hemorrhage of the gastrointestinal tract. Elevations in liver enzymes and veno-occlusive disease occur infrequently. Significant hyponatremia, caused by an associated inappropriate secretion of ADH syndrome, has been observed. Nephrotoxicity and adult respiratory distress syndrome have been reported rarely. The principal toxic effect is bone marrow suppression. Melphalan is not removed from plasma via hemodialysis, and overdose is typically managed by general supportive measures, with appropriate blood transfusions and antibiotics.[L40928, L47890]",
+    "targets": null,
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "SLC7A5",
+            "Large neutral amino acids transporter small subunit 1",
+            "Humans"
+        ],
+        [
+            "SLC7A10",
+            "Asc-type amino acid transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

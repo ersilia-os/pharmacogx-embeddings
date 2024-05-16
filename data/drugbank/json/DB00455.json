@@ -1,0 +1,124 @@
+{
+    "pharmgkb_id": "PA450266",
+    "drugbank_id": "DB00455",
+    "names": [
+        "Loratadine",
+        "Aerotina",
+        "Alavert",
+        "Biloina",
+        "Civeran",
+        "Fristamin",
+        "Histaloran",
+        "Lomilan",
+        "Loracert",
+        "Loradex",
+        "Loranox",
+        "Lorastine",
+        "Loratyne",
+        "Loritine",
+        "Nularef",
+        "Restamine",
+        "Roletra",
+        "Sensibit"
+    ],
+    "description": "Loratadine is a second generation antihistamine used to manage symptoms of allergic rhinitis.[A176435] A lack of sedative and CNS adverse effects make loratadine, along with other second generation antihistamines, preferable over their 1st generation counterparts in many clinical situations.[A176441]",
+    "indication": "Loratadine is a 2nd generation antihistamine and is used to manage symptoms of allergic rhinitis, wheal formation, urticaria, and other allergic dermatologic conditions.[A176435][A176438][L8486] ",
+    "pharmacodynamics": "Like other 2nd generation antihistamines, loratadine is selective for peripheral H1 receptors.[A5506] Loratadine does not penetrate effectively into the central nervous system and has poor affinity for CNS H1-receptors.[A5506] These qualities result in a lack of CNS depressant effects such as drowsiness, sedation, and impaired psychomotor function.[A5506]",
+    "mechanism-of-action": "Histamine release is a key mediator in allergic rhinitis and urticaria.[A185312][A176441][A175060] As a result, loratadine exerts it's effect by targeting H1 histamine receptors.\r\n\r\nLoratadine binds to H1 histamine receptors found on the surface of epithelial cells, endothelial cells, eosinophils, neutrophils, airway cells, and vascular smooth muscle cells among others.[A176441] H1 histamine receptors fall under the wider umbrella of G-protein coupled receptors, and exist in a state of equilibrium between the active and inactive forms.[A176441][A175060] Histamine binding to the H1-receptor facilitates cross linking between transmembrane domains III and V, stabilizing the active form of the receptor.[A176441][A175060] On the other hand, antihistamines bind to a different site on the H1 receptor favouring the inactive form.[A176441][A175060]\r\n\r\nHence, loratadine can more accurately be classified as an \"inverse agonist\" as opposed to a \"histamine antagonist\", and can prevent or reduce the severity of histamine mediated symptoms.[A176441][A175060][L8486]    ",
+    "absorption": "Loratadine is rapidly absorbed and achieves peak plasma concentration in 1-2 hours, while it's main metabolite achieves peak plasma concentration in 3-4 hours.[A176438]\r\n\r\nIn the rapid dissolve formulation, the pharmacokinetic parameters of loratadine are as follows[L8486]: Cmax = 2.56 ng/ml, Tmax = 1.14 hrs, AUC = 6.14 ng x hr/ml.\r\n\r\nIn the rapid dissolve formulation, the pharmacokinetic parameters of descarboethoxyloratadine are as follows[L8486]: Cmax = 3.72 ng/ml, Tmax = 1.97 hr, AUC = 49.1 ng x hr/ml.\r\n\r\nIn the conventional formulation, the pharmacokinetic parameters of loratadine are as follows[L8486]: Cmax = 2.11 ng/ml, Tmax = 1.00 hr, AUC = 4.64 ng x hr/ml\r\n\r\nIn the conventional formulation, the pharmacokinetic parameters of descarboethoxyloratadine are as follows[L8486]: Cmax = 3.66 ng/ml, Tmax = 1.97 hr, AUC = 48.4 ng x hr/ml",
+    "metabolism": "Loratadine undergoes extensive first pass metabolism in the liver and is primarily metabolized by CYP3A4, CYP2D6, CYP1A1 and CYP2C19. Less involved CYP enzymes include CYP1A2, CYP2B6, CYP2C8, CYP2C9 and CYP3A5.[A38842][A176444] CYP3A4 and CYP2D6 are mainly responsible for metabolizing loratadine to descarboethoxyloratadine.[A176444] This primary metabolite is 4 times more pharmacologically active than loratadine.[A176438] \r\n\r\nIn addition, a study demonstrates that descarboethoxyloratadine is first glucuronidated by UGT2B10, then hydroxylated by CYP2C8 to form 3-hydroxydesloratadine.[A185855] Further glucuronidation of 3-hydroxydesloratadine facilitates excretion.[A185843] \r\n",
+    "toxicity": "Second generation antihistamines such as loratadine have very few adverse effects; however, insomnia, headache, fatigue, drowsiness and rash have been reported.[A176441] Symptoms of loratadine overdose include gastrointestinal side effects, agitation, drowsiness, tachycardia, and headache.[A176441] It is advised to obtain an ECG in the event of loratadine overdose.[A176441]",
+    "targets": [
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "UGT2B10",
+            "UDP-glucuronosyltransferase 2B10",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

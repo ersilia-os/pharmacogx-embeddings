@@ -1,0 +1,77 @@
+{
+    "pharmgkb_id": "PA450633",
+    "drugbank_id": "DB00393",
+    "names": [
+        "Nimodipine",
+        "Periplum"
+    ],
+    "description": "Nimodipine is a 1,4-dihydropyridine calcium channel blocker. It acts primarily on vascular smooth muscle cells by stabilizing voltage-gated L-type calcium channels in their inactive conformation. By inhibiting the influx of calcium in smooth muscle cells, nimodipine prevents calcium-dependent smooth muscle contraction and subsequent vasoconstriction. Compared to other calcium channel blocking agents, nimodipine exhibits greater effects on cerebral circulation than on peripheral circulation. Nimodipine is used to as an adjunct to improve the neurologic outcome following subarachnoid hemorrhage from ruptured intracranial aneurysm.",
+    "indication": "For use as an adjunct to improve neurologic outcome following subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms by reducing the incidence and severity of ischemic deficits.",
+    "pharmacodynamics": "Nimodipine belongs to the class of pharmacological agents known as calcium channel blockers. Nimodipine is indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in patients with subarachnoid hemorrhage from ruptured congenital aneurysms who are in good neurological condition post-ictus (e.g., Hunt and Hess Grades I-III). The contractile processes of smooth muscle cells are dependent upon calcium ions, which enter these cells during depolarization as slow ionic transmembrane currents. Nimodipine inhibits calcium ion transfer into these cells and thus inhibits contractions of vascular smooth muscle. In animal experiments, nimodipine had a greater effect on cerebral arteries than on arteries elsewhere in the body perhaps because it is highly lipophilic, allowing it to cross the blood brain barrier. ",
+    "mechanism-of-action": "Although the precise mechanism of action is not known, nimodipine blocks intracellular influx of calcium through voltage-dependent and receptor-operated slow calcium channels across the membranes of myocardial, vascular smooth muscle, and neuronal cells. By specifically binding to L-type voltage-gated calcium channels, nimodipine inhibits the calcium ion transfer, resulting in the inhibition of vascular smooth muscle contraction. Evidence suggests that the dilation of small cerebral resistance vessels, with a resultant increase in collateral circulation, and/or a direct effect involving the prevention of calcium overload in neurons may be responsible for nimodipine's clinical effect in patients with subarachnoid hemorrhage.",
+    "absorption": "In humans, nimodipine is rapidly absorbed after oral administration, and peak concentrations are generally attained within one hour. Bioavailability is 100% following intravenous administration and 3-30% following oral administration due to extensive first-pass metabolism. ",
+    "metabolism": "Hepatic metabolism via CYP 3A4. ",
+    "toxicity": "Symptoms of overdosage would be expected to be related to cardiovascular effects such as excessive peripheral vasodilation with marked systemic hypotension.",
+    "targets": [
+        [
+            "CACNA1C",
+            "Voltage-dependent L-type calcium channel subunit alpha-1C",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage-dependent L-type calcium channel subunit alpha-1D",
+            "Humans"
+        ],
+        [
+            "CACNA1F",
+            "Voltage-dependent L-type calcium channel subunit alpha-1F",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage-dependent L-type calcium channel subunit alpha-1S",
+            "Humans"
+        ],
+        [
+            "CACNB1",
+            "Voltage-dependent L-type calcium channel subunit beta-1",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage-dependent L-type calcium channel subunit beta-2",
+            "Humans"
+        ],
+        [
+            "CACNB3",
+            "Voltage-dependent L-type calcium channel subunit beta-3",
+            "Humans"
+        ],
+        [
+            "CACNB4",
+            "Voltage-dependent L-type calcium channel subunit beta-4",
+            "Humans"
+        ],
+        [
+            "NR3C2",
+            "Mineralocorticoid receptor",
+            "Humans"
+        ],
+        [
+            "AHR",
+            "Aryl hydrocarbon receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,58 @@
+{
+    "pharmgkb_id": "PA450721",
+    "drugbank_id": "DB00198",
+    "names": [
+        "Oseltamivir",
+        "Tamiflu"
+    ],
+    "description": "Oseltamivir (marketed as the product Tamiflu\u24c7), is an antiviral neuraminidase inhibitor used for the treatment and prophylaxis of infection with influenza viruses A (including pandemic H1N1) and B. Oseltamivir exerts its antiviral activity by inhibiting the activity of the viral neuraminidase enzyme found on the surface of the virus, which prevents budding from the host cell, viral replication, and infectivity.\r\n\r\nThe clinical benefit of use of oseltamivir is greatest when administered within 48 hours of the onset of influenza symptoms since effectiveness decreases significantly after that point in time; there is generally no benefit in use beyond 48 hours for healthy, low-risk individuals as influenza is a self-limiting illness.[A180574, L7267, A180580] However, antiviral treatment might be beneficial when initiated after 48 hours for patients with severe, complicated or progressive illness or for hospitalized patients.[A180583] According to the CDC, data from clinical trials and observational studies have demonstrated that early antiviral treatment can shorten the duration of fever and illness symptoms, and may reduce the risk of some complications (including pneumonia and respiratory failure). They recommend the use of oseltamivir in people with a higher risk of developing complications including children younger than 2 years, people over 65 years, people with some chronic conditions or immunosuppression, pregnant women, residents of long term care facilities, and indigenous communities for example.[L7264]\r\n\r\nThe benefits of oseltamivir use are controversial; a 2014 Cochrane Review of the evidence found that oseltamivir treatment had limited benefit. The authors concluded that oseltamivir use in healthy adults had small, non-specific effects on symptoms (where the time to first alleviation of symptoms was only reduced from 7 to 6.3 days), it had no effect on hospitalizations, and that there was no evidence for any reductions in complications of influenza such as pneumonia.[A179962, A179965, A179968] Due to the risk of adverse effects such as nausea, vomiting, psychiatric effects and renal adverse events in adults and vomiting in children, the harms are generally considered to outweigh the small clinical benefit of use of oseltamivir. \r\n\r\nNotably, in 2017, the World Health Organization downgraded oseltamivir from its essential medicines list from a \"core\" drug to a \"complementary\" drug, due to limited cost-effectiveness.[A179086] Yearly vaccination with the influenza vaccine is still considered the best preventative measure.",
+    "indication": "According to FDA prescribing information, oseltamivir is indicated for the treatment of acute, uncomplicated illness due to influenza A and B infection in patients 2 weeks of age and older who have been symptomatic for no more than 48 hours [F3094]. In particular, this agent is indicated in adults and children including full-term neonates who present with symptoms typical of influenza when influenza virus is circulating in the community. Efficacy has been demonstrated when treatment is initiated within two days of the first onset of symptoms.[F3097]\r\n\r\nOseltamivir is also indicated for the prophylaxis of influenza in patients one year and older [F3094]. Specifically, post-exposure prevention in individuals one year of age or older following contact with a clinically diagnosed influenza case when influenza virus is circulating in the community qualifies for such prophylactic therapy. Oseltamivir would only be indicated for post-exposure prevention of influenza in infants less than 1 year of age during a pandemic influenza outbreak. [F3097]",
+    "pharmacodynamics": "There have been postmarketing reports of delirium and abnormal behavior leading to injury, and in some cases resulting in fatal outcomes, in patients with influenza who were receiving oseltamivir. Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made but they appear to be uncommon based on oseltamivir. These events were reported primarily among pediatric patients and often had an abrupt onset and rapid resolution. The contribution of oseltamivir to these events has not been established. Influenza can be associated with a variety of neurologic and behavioral symptoms that can include events such as hallucinations, delirium, and abnormal behavior, in some cases resulting in fatal outcomes. These events may occur in the setting of encephalitis or encephalopathy but can occur without obvious severe disease.[F3097, A180586, A180589]",
+    "mechanism-of-action": "Oseltamivir phosphate is a pro-drug of the active metabolite (oseltamivir carboxylate) which is a potent and selective inhibitor of influenza virus neuraminidase enzymes, which are glycoproteins found on the virion surface. Viral neuraminidase enzyme activity is important for viral entry into uninfected cells, for the release of recently formed virus particles from infected cells, and for the further spread of the infectious virus in the body.[F3097, L5161, F3115] Oseltamivir activity reduces viral shedding and infectivity.\r\n\r\nOseltamivir is effective agaisnt viral neuraminidases of influenza A (including pandemic H1N1) and influenza B.[F3097, L5161, F3115] ",
+    "absorption": "Oseltamivir is readily absorbed from the gastrointestinal tract after oral administration of oseltamivir phosphate and is extensively converted by predominantly hepatic esterases to the active metabolite oseltamivir carboxylate. At least 75 % of an oral dose reaches the systemic circulation as the active metabolite. Exposure to the pro-drug is less than 5 % relative to the active metabolite. Plasma concentrations of both pro-drug and active metabolite are proportional to dose and are unaffected by co-administration with food.[F3094, F3097, L5161, F3115] Pharmacokinetic parameters following twice daily dosing of oseltamivir 75mg capsules are as follows: Cmax of oseltamivir and oseltamivir carboxylate were found to be 65ng/mL and 348ng/mL, respectively, while AUC (0-12h) of oseltamivir and oseltamivir carboxylate were found to be 112ng\u00b7h/mL and 2719ng\u00b7h/mL, respectively.[F3097]",
+    "metabolism": "Oseltamivir is extensively converted to the active metabolite, oseltamivir carboxylate, by esterases located predominantly in the liver. Oseltamivir carboxylate is not further metabolized. Neither oseltamivir nor oseltamivir carboxylate is a substrate for, or inhibitor of, cytochrome P450 isoforms. No phase 2 conjugates of either compound have been identified in vivo.[F3094, F3097, L5161, F3115]",
+    "toxicity": "Reports of overdoses with oseltamivir have been received from clinical trials and during postmarketing experience. In the majority of cases reporting overdose, no adverse reactions were reported. Adverse reactions reported following overdose were similar in nature to those observed with therapeutic doses of oseltamivir.",
+    "targets": [
+        [
+            "NA",
+            "Neuraminidase",
+            "Influenza A virus (strain A/Chile/1/1983 H1N1)"
+        ],
+        [
+            "NEU1",
+            "Sialidase-1",
+            "Humans"
+        ],
+        [
+            "NEU2",
+            "Sialidase-2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

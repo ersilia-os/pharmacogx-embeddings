@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA164771236",
+    "drugbank_id": "DB04895",
+    "names": [
+        "Pegaptanib"
+    ],
+    "description": "Pegaptanib is a polynucleotide aptamer. Pegatinib aids neovascular age-related macular degeneration by binding to VEGF which in order reduces angiogenesis and vessel permeability.\r\n\r\nPegaptanib was granted FDA approval on 17 September 2004.[L17903]",
+    "indication": "For the treatment of neovascular (wet) age-related macular degeneration.",
+    "pharmacodynamics": "Pegaptanib is a selective vascular endothelial growth factor (VEGF) antagonist. VEGF is a secreted protein that selectively binds and activates its receptors located primarily on the surface of vascular endothelial cells. VEGF induces angiogenesis, and increases vascular permeability and inflammation, all of which are thought to contribute to the progression of the neovascular (wet) form of age-related macular degeneration (AMD), a leading cause of blindness. VEGF has been implicated in blood retinal barrier breakdown and pathological ocular neovascularization.",
+    "mechanism-of-action": "VEGF-A promotes angiogenesis.[A222238] Patients with certain ocular conditions, such as the wet form of age related macular degeneration (AMD), have increased levels of VEGF-A.[A222238,L17903] VEGF-A, in patients with wet AMD, also increases vascular permeability and inflammation in the eye, leading to progression of the condition.[L17903] Pegaptanib is a pegylated oligonucleotide that selectively binds VEGF165, the isoform most responsible for VEGF-A's pathological action in wet AMD.[L17903] This binding prevents VEGF165 from binding to its receptors, slowing or preventing further progression of wet AMD.[L17903] Pegaptanib does not inhibit VEGF121, the physiological isoform.[A222238]",
+    "absorption": "In animals, pegaptanib is slowly absorbed into the systemic circulation from the eye after intravitreous administration.",
+    "metabolism": "Based on preclinical data, pegaptanib is metabolized by endo- and exonucleases.",
+    "toxicity": "It is not known if pegaptanib is safe in pregnant women or if it is excreted in breast milk. Likewise, no studies have been done in the pediatric population. Most adverse events elated to the drug are ocular however non-ocular adverse events related to the drug or the injection procedure also occurred, among which headaches and rhinorrhoea appeared in more than 1% of patients. Pegaptanib is contraindicated when the patient has an ocular or periocular infection.",
+    "targets": [
+        [
+            "VEGFA",
+            "Vascular endothelial growth factor A",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

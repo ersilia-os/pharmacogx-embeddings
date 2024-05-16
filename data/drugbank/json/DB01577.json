@@ -1,0 +1,100 @@
+{
+    "pharmgkb_id": "PA450403",
+    "drugbank_id": "DB01577",
+    "names": [
+        "Metamfetamine"
+    ],
+    "description": "Metamfetamine (methamphetamine) is a psychostimulant and sympathomimetic drug, and a member of the amphetamine group of sympathomimetic amines. Methamphetamine can induce effects such as euphoria, increased alertness and energy, and enhanced self-esteem. It is a scheduled drug in most countries due to its high potential for addiction and abuse. \r\n\r\nThe FDA withdrew its approval for the use of all parenteral drug products containing methamphetamine hydrochloride, a metamfetamine salt.[L43942]",
+    "indication": "For the treatment of Attention Deficit Disorder with Hyperactivity (ADHD) and exogenous obesity.",
+    "pharmacodynamics": "Methamphetamine is a potent central nervous system stimulant which affects neurochemical mechanisms responsible for regulating heart rate, body temperature, blood pressure, appetite, attention, mood and responses associated with alertness or alarm conditions. The acute effects of the drug closely resemble the physiological and psychological effects of an epinephrine-provoked fight-or-flight response, including increased heart rate and blood pressure, vasoconstriction (constriction of the arterial walls), bronchodilation, and hyperglycemia (increased blood sugar). Users experience an increase in focus, increased mental alertness, and the elimination of fatigue, as well as a decrease in appetite. ",
+    "mechanism-of-action": "Methamphetamine enters the brain and triggers a cascading release of norepinephrine, dopamine and serotonin. To a lesser extent methamphetamine acts as a dopaminergic and adrenergic reuptake inhibitor and in high concentrations as a monamine oxidase inhibitor (MAOI). The mechanism of action involved in producing the beneficial behavioral changes seen in hyperkinetic children receiving methamphetamine is unknown.",
+    "absorption": "Methamphetamine is rapidly absorbed from the gastrointestinal tract with peak methamphetamine concentrations occurring in 3.13 to 6.3 hours post ingestion. Moreover, when administered intranasally or as an inhalation, methamphetamine also demonstrates a high degree of absorption. It is distributed to most parts of the body. Because methamphetamine has a high lipophilicity it is distributed across the blood brain barrier and crosses the placenta.",
+    "metabolism": "Hepatic. The primary site of metabolism is in the liver by aromatic hydroxylation, N-dealkylation and deamination. At least seven metabolites have been identified in the urine, with the main metabolites being amphetamine (active) and 4-hydroxymethamphetamine. Other minor metabolites include 4-hydroxyamphetamine, norephedrine, and 4-hydroxynorephedrine.",
+    "toxicity": "Manifestations of acute overdosage with methamphetamine include restlessness, tremor, hyperreflexia, rapid respiration, confusion, assaultiveness, hallucinations, panic states, hyperpyrexia, and rhabdomyolysis. Fatigue and depression usually follow the central stimulation. Cardiovascular effects include arrhythmias, hypertension or hypotension, and circulatory collapse. Gastrointestinal symptoms include nausea, vomiting, diarrhea, and abdominal cramps. Fatal poisoning usually terminates in convulsions and coma.",
+    "targets": [
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC18A2",
+            "Synaptic vesicular amine transporter",
+            "Humans"
+        ],
+        [
+            "SLC18A1",
+            "Chromaffin granule amine transporter",
+            "Humans"
+        ],
+        [
+            "TAAR1",
+            "Trace amine-associated receptor 1",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01577",
+            "Drug Name": "Metamfetamine",
+            "Gene Symbol": "PICK1",
+            "RS ID (Genotype)": "rs713729",
+            "Adverse Reaction Description": "The prescence of this polymorphism in PICK1 is associated with increased susceptibility to drug-related psychosis and addiction when using methamphetamine."
+        }
+    ]
+}

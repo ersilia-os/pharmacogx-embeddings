@@ -1,0 +1,49 @@
+{
+    "pharmgkb_id": "nan-2b15062b-9e70-452d-bf7b-eb623e2d07a0",
+    "drugbank_id": "DB00233",
+    "names": [
+        "Aminosalicylic acid",
+        "Pamisyl",
+        "Rexipas",
+        "Rezipas"
+    ],
+    "description": "An antitubercular agent often administered in association with isoniazid. The sodium salt of the drug is better tolerated than the free acid.",
+    "indication": "For the treatment of tuberculosis",
+    "pharmacodynamics": "Aminosalicylic acid is an anti-mycobacterial agent used with other anti-tuberculosis drugs (most often isoniazid) for the treatment of all forms of active tuberculosis due to susceptible strains of tubercle bacilli. The two major considerations in the clinical pharmacology of aminosalicylic acid are the prompt production of a toxic inactive metabolite under acid conditions and the short serum half life of one hour for the free drug. Aminosalicylic acid is bacteriostatic against <i>Mycobacterium tuberculosis</i> (prevents the multiplying of bacteria without destroying them). It also inhibits the onset of bacterial resistance to streptomycin and isoniazid.",
+    "mechanism-of-action": "There are two mechanisms responsible for aminosalicylic acid's bacteriostatic action against <i>Mycobacterium tuberculosis</i>. Firstly, aminosalicylic acid inhibits folic acid synthesis (without potentiation with antifolic compounds). The binding of para-aminobenzoic acid to pteridine synthetase acts as the first step in folic acid synthesis. Aminosalicylic acid binds pteridine synthetase with greater affinity than para-aminobenzoic acid, effectively inhibiting the synthesis of folic acid. As bacteria are unable to use external sources of folic acid, cell growth and multiplication slows. Secondly, aminosalicylic acid may inhibit the synthesis of the cell wall component, mycobactin, thus reducing iron uptake by <i>M. tuberculosis</i>.",
+    "absorption": null,
+    "metabolism": "Hepatic.",
+    "toxicity": "LD<sub>50</sub>=4 gm/kg (orally in mice); LD<sub>50</sub>=3650 mg/kg (orally in rabbits)",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "CHUK",
+            "Inhibitor of nuclear factor kappa-B kinase subunit alpha",
+            "Humans"
+        ],
+        [
+            "ALOX5",
+            "Arachidonate 5-lipoxygenase",
+            "Humans"
+        ],
+        [
+            "PLA2G2E",
+            "Group IIE secretory phospholipase A2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "MPO",
+            "Myeloperoxidase",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

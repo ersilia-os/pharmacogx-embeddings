@@ -1,0 +1,304 @@
+{
+    "pharmgkb_id": "PA451581",
+    "drugbank_id": "DB00675",
+    "names": [
+        "Tamoxifen",
+        "Adifen",
+        "Adopan",
+        "Bilem",
+        "Caditam",
+        "Citofen",
+        "Crisafeno",
+        "Doctamoxifene",
+        "Ebefen",
+        "Fenahex",
+        "Genox",
+        "Gynatam",
+        "Istubal",
+        "Mammonex",
+        "Neophedan",
+        "Noltam",
+        "Nolvadex-D",
+        "Novofen",
+        "Oncomox",
+        "Tadex",
+        "Tamifen",
+        "Tamizam",
+        "Tamofen",
+        "Tamoneprin",
+        "Tamoplex",
+        "Tamoxen",
+        "Tamoxilon",
+        "Tamtero",
+        "Tecnotax",
+        "Tomifen",
+        "Valodex",
+        "Zemide"
+    ],
+    "description": "Tamoxifen is a non-steroidal antiestrogen used to treat estrogen receptor positive breast cancers as well as prevent the incidence of breast cancer in high risk populations.[A1025,L7799,L7802] Tamoxifen is used alone or as an adjuvant in these treatments.[L7799,L7802] Tamoxifen may no longer be the preferred treatment for these types of cancers as patients generally have better survival, side effect profiles, and compliance with [anastrozole].[A1026]\r\n\r\nTamoxifen was granted FDA approval on 30 December 1977.[L7799]",
+    "indication": "Tamoxifen is indicated to treat estrogen receptor positive metastatic breast cancer in adults, as an adjuvant in the treatment of early stage estrogen receptor positive breast cancer in adults, to reduce the risk of invasive breast cancer after surgery and radiation in adult women with ductal carcinoma in situ.[L7802]",
+    "pharmacodynamics": "Tamoxifen is a selective estrogen receptor modulator that inhibits growth and promotes apoptosis in estrogen receptor positive tumors.[A1025,A182195] It has a long duration of action as the active metabolite N-desmethyltamoxifen has a half life of approximately 2 weeks.[L7799,L7802] It has a narrow therapeutic index as higher doses can lead to breathing difficulty or convulsions.[L7799,L7802] Tamoxifen administration is also associated with an increased incidence of uterine malignancies.[L7799,L7802]",
+    "mechanism-of-action": "Tamoxifen competitively inhibits estrogen binding to its receptor, which is critical for it's activity in breast cancer cells.[A1025] Tamoxifen leads to a decrease in tumor growth factor \u03b1 and insulin-like growth factor 1, and an increase in sex hormone binding globulin.[A1025] The increase in sex hormon binding globulin limits the amount of freely available estradiol.[A1025] These changes reduce levels of factors that stimulate tumor growth.[A1025]\r\n\r\nTamoxifen has also been shown to induce apoptosis in estrogen receptor positive cells.[A182195] This action is thought to be the result of inhibition of protein kinase C, which prevents DNA synthesis.[A182195] Alternate theories for the apoptotic effect of tamoxifen comes from the approximately 3 fold increase in intracellular and mitochondrial calcium ion levels after administration or the induction of tumor growth factor \u03b2.[A182195]",
+    "absorption": "An oral dose of 20mg reaches a C<sub>max</sub> of 40ng/mL with a T<sub>max</sub> of 5 hours.[L7799,L7802] The metabolite N-desmethyltamoxifen reaches a C<sub>max</sub> of 15ng/mL.[L7799,L7802] 10mg of tamoxifen orally twice daily for 3 months results in a C<sub>ss</sub> of 120ng/mL and a C<sub>ss</sub> of 336ng/mL.[L7799,L7802]",
+    "metabolism": "Tamoxifen can by hydroxylated to \u03b1-hydroxytamoxifen which is then glucuronidated or undergoes sulfate conjugation by sulfotransferase 2A1.[A182102,A182108] Tamoxifen can also undergo N-oxidation by flavin monooxygenases 1 and 3 to tamoxifen N-oxide.[A182102,A182108,A182111] Tamoxifen is N-dealkylated to N-desmethyltamoxifen by CYP2D6, CYP1A1, CYP1A2, CYP3A4, CYP1B1, CYP2C9, CYP2C19, and CYP3A5.[A14873,A182102,A182105,A182108,A182111] N-desmethyltamoxifen can be sulfate conjugated to form N-desmethyltamoxifen sulfate, 4-hydroxylated by CYP2D6 to form endoxifen, or N-dealkylated again by CYP3A4 and CYP3A5 to N,N-didesmethyltamoxifen.[A182102,A182105,A182183] N,N-didesmethyltamoxifen undergoes a substitution reaction to form tamoxifen metabolite Y, followed by ether cleavage to metabolite E, which can then be sulfate conjugated by sulfotransferase 1A1 and 1E1 or O-glucuronidated.[A182183,A182249]\r\n\r\nTamoxifen can also by 4-hydroxylated by CYP2D6, CYP2B6, CYP3A4, CYP2C9, and CYP2C19 to form 4-hydroxytamoxifen.[A14873,A182102,A182105,A182108] 4-hydroxytamoxifen can undergo glucuronidation by UGT1A8, UGT1A10, UGT2B7, and UGT2B17 to tamoxifen glucuronides, sulfate conjugation by sulfotransferase 1A1 and 1E1 to 4-hydroxytamoxifen sulfate, or N-dealkylation by CYP3A4 and CYP3A5 to endoxifen.[A182102,A182105]\r\n\r\nEndoxifen undergoes demethylation to norendoxifen, a reversible sulfate conjugation reaction via sulfotransferase 1A1 and 1E1 to 4-hydroxytamoxifen sulfate, sulfate conjugation via sulfotransferase 2A1 to 4-endoxifen sulfate, or glucuronidation via UGT1A8, UGT1A10, UGT2B7, or UGT2B15 to tamoxifen glucuronides.[A182183,A182102,A182105]",
+    "toxicity": "High doses of tamoxifen in animals lead to respiratory difficulty and convulsions.[L7799,L7802] High doses in advanced metastatic cancer patients resulted in acute neurotoxicity seen by tremor, hyperreflexia, unsteady gait, and dizziness.[L7799,L7802] Patients experiencing and overdose should be given supportive treatment as no specific treatment for overdose is suggested.[L7799,L7802]",
+    "targets": [
+        [
+            "ESR1",
+            "Estrogen receptor alpha",
+            "Humans"
+        ],
+        [
+            "ESR2",
+            "Estrogen receptor beta",
+            "Humans"
+        ],
+        [
+            "PRKCA",
+            "Protein kinase C",
+            "Humans"
+        ],
+        [
+            "PRKCB",
+            "Protein kinase C",
+            "Humans"
+        ],
+        [
+            "PRKCD",
+            "Protein kinase C",
+            "Humans"
+        ],
+        [
+            "PRKCE",
+            "Protein kinase C",
+            "Humans"
+        ],
+        [
+            "PRKCG",
+            "Protein kinase C",
+            "Humans"
+        ],
+        [
+            "PRKCI",
+            "Protein kinase C",
+            "Humans"
+        ],
+        [
+            "PRKCQ",
+            "Protein kinase C",
+            "Humans"
+        ],
+        [
+            "PRKCZ",
+            "Protein kinase C",
+            "Humans"
+        ],
+        [
+            "SHBG",
+            "Sex hormone-binding globulin",
+            "Humans"
+        ],
+        [
+            "EBP",
+            "3-beta-hydroxysteroid-Delta(8),Delta(7)-isomerase",
+            "Humans"
+        ],
+        [
+            "AR",
+            "Androgen receptor",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ],
+        [
+            "ESRRG",
+            "Estrogen-related receptor gamma",
+            "Humans"
+        ],
+        [
+            "MAPK8",
+            "Mitogen-activated protein kinase 8",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ],
+        [
+            "FMO1",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 1",
+            "Humans"
+        ],
+        [
+            "FMO3",
+            "Dimethylaniline monooxygenase [N-oxide-forming] 3",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CES1",
+            "Liver carboxylesterase 1",
+            "Humans"
+        ],
+        [
+            "CYP19A1",
+            "Cytochrome P450 19A1",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferase 1-10",
+            "Humans"
+        ],
+        [
+            "SULT1A1",
+            "Sulfotransferase 1A1",
+            "Humans"
+        ],
+        [
+            "SULT2A1",
+            "Bile salt sulfotransferase",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT2B17",
+            "UDP-glucuronosyltransferase 2B17",
+            "Humans"
+        ],
+        [
+            "SULT1E1",
+            "Estrogen sulfotransferase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCA1",
+            "ATP-binding cassette sub-family A member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "SERPINA7",
+            "Thyroxine-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00675",
+            "Drug Name": "Tamoxifen",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs3892097",
+            "Effect Description": "Patients with this genotype have reduced metabolism of tamoxifen resulting in reduced plasma concentrations its active form endoxifen."
+        },
+        {
+            "DrugBank ID": "DB00675",
+            "Drug Name": "Tamoxifen",
+            "Gene Symbol": "F5",
+            "RS ID (Genotype)": "rs6025",
+            "Adverse Reaction Description": "Patients with this genotype have increased risk of a thromboembolic event with tamoxifen."
+        }
+    ]
+}

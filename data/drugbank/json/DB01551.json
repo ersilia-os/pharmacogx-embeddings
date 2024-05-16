@@ -1,0 +1,37 @@
+{
+    "pharmgkb_id": "PA166176885",
+    "drugbank_id": "DB01551",
+    "names": [
+        "Dihydrocodeine",
+        "Codidol",
+        "Contugesic",
+        "Dehace",
+        "DF-118 Forte",
+        "Dicogesic",
+        "Hydrocodin",
+        "Remedacen"
+    ],
+    "description": "Dihydrocodeine is an opioid analgesic used as an alternative or adjunct to codeine to treat moderate to severe pain, severe dyspnea, and cough. \r\n\r\nIt is semi-synthetic, and was developed in Germany in 1908 during an international search to find a more effective antitussive agent to help reduce the spread of airborne infectious diseases such as tuburculosis. It was marketed in 1911.",
+    "indication": "Dihydrocodeine is used for the treatment of moderate to severe pain, including post-operative and dental pain [2]. It  can also be used to treat chronic pain [1], breathlessness and coughing. \r\n\r\nIn heroin addicts, dihydrocodeine has been used as a substitute drug, in doses up to 2500mg/day to treat addiction. [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2014322/]\r\n ",
+    "pharmacodynamics": "Possible opioid related side effects include, but are not limited to, drowsiness, nausea, headache, dry mouth, constipation, difficulty passing urine, and mild euphoria. ",
+    "mechanism-of-action": "Dihydrocodeine is metabolized to dihydromorphine -- a highly active metabolite with a high affinity for mu opioid receptors. [3]",
+    "absorption": "Bioavailability is low (approximately 20%) if administered orally. This may be due to poor gastrointestinal absorption. It is also likely due to pre-systemic metabolism by the liver and intestinal wall. [2] \r\n\r\nThe AUCs after oral and intravenous administration are similar (3203ug/l/h and 3401ug/l/h, respectively). [2]\r\n\r\n\r\nTime to peak values are 1.6 and 1.8hours for a 30mg and 60mg dose, respectively. The concentrations achieved were 71.8 ug/1 and 146 ug/1, respectively. [2]",
+    "metabolism": "Metabolized in the liver by CYP 2D6 into an active metabolite, dihydromorphine, and by CYP 3A4 into secondary primary metabolite, nordihydrocodeine. A third primary metabolite is dihydrocodeine-6-glucuronide. [1] \r\n\r\nThe time for mean peak concentration in acid metabolites is 1.76h and 1.98h for a 30 and 60mg dose, respectively. The concentrations achieved were 563 ug/1 and 1476 ug/1, respectively. [2]\r\n\r\n",
+    "toxicity": null,
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

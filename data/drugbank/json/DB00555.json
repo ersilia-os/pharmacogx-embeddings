@@ -1,0 +1,371 @@
+{
+    "pharmgkb_id": "PA450164",
+    "drugbank_id": "DB00555",
+    "names": [
+        "Lamotrigine",
+        "Convulsan",
+        "Crisomet",
+        "Dafex",
+        "Daksol",
+        "Danoptin",
+        "Dezepil",
+        "Elmendos",
+        "Epilepax",
+        "Epimil",
+        "Epiral",
+        "Epitec",
+        "Epitrigine",
+        "Labileno",
+        "Lambipol",
+        "Lamect",
+        "Lameptil",
+        "Lameptil S",
+        "Lametec",
+        "Lamez",
+        "Lamictal CD",
+        "Lamictin",
+        "Lamotrix",
+        "Larig",
+        "Medotrigin",
+        "Mogine",
+        "Trimolep",
+        "Trogine",
+        "Xebarin"
+    ],
+    "description": "Lamotrigine is an antiepileptic drug belonging in the phenyltriazine class. It is used in the treatment of both epilepsy and as a mood stabilizer in bipolar disorder. Lamotrigine is the first medication since lithium granted Food and Drug Administration (FDA) approval for the maintenance treatment of bipolar type I. It is approved for use in more than 30 countries.[A191350]\r\n\r\nLamotrigine has relatively few side-effects and does not require laboratory monitoring. While it is indicated for epilepsy and bipolar disorders, there is evidence that lamotrigine could have some clinical efficacy in certain neuropathic pain states.[A849,A850]",
+    "indication": "Lamotrigine is indicated as adjunctive therapy for the following seizure types in patients \u22652 years of age: partial seizures, primary generalized tonic-clonic seizures, and generalized seizures due to Lennox-Gastaut syndrome.[L9404]\r\n\r\nIt is also indicated for the process of conversion to drug monotherapy for those at least 16 years of age or older with partial seizures and currently are receiving treatment with carbamazepine, phenytoin, phenobarbital, primidone, or valproate as the single antiepileptic drug (AED).[L9404]\r\n\r\nIn addition to the above, lamotrigine is also indicated for the maintenance treatment of bipolar I disorder, delaying the time to mood episodes (which may include mania, hypomania, depression, mixed episodes) in adults at least 18 years or older, who have been treated for acute mood symptoms with standard therapy.[L9404]\r\n\r\nLimitations of use\r\n\r\nIt is important to note that lamotirigine should not be used in the treatment of acute mood episodes, as efficacy has not been established in this context.[L9404]",
+    "pharmacodynamics": "Lamotrigine likely prevents seizures and prevents mood symptoms via stabilizing presynaptic neuronal membranes and preventing the release of excitatory neurotransmitters such as glutamate, which contribute to seizure activity.[A191350,L9404] \r\n\r\nA note on cardiovascular effects\r\n\r\nThe metabolite of lamotrigine, 2-N-methyl metabolite (formed by glucuronidation), is reported to cause dose-dependent prolongations of the PR interval, widening of the QRS complex, and at higher doses, complete AV block. Although this harmful metabolite is only found in trace amounts in humans, plasma concentrations may increase in conditions that cause decreased drug glucuronidation, such as liver disease.[A191335,L9404,L12183]",
+    "mechanism-of-action": "The exact mechanism of action of lamotrigine is not fully elucidated, as it may exert cellular activities that contribute to its efficacy in a range of conditions. Although chemically unrelated, lamotrigine actions resemble those of phenytoin and carbamazepine, inhibiting voltage-sensitive sodium channels, stabilizing neuronal membranes, thereby modulating the release of presynaptic excitatory neurotransmitters.[A191335,A191350,L9404] \r\n\r\nLamotrigine likely acts by inhibiting sodium currents by selective binding to the inactive sodium channel, suppressing the release of the excitatory amino acid, glutamate. The mechanism of action of lamotrigine in reducing anticonvulsant activity is likely the same in managing bipolar disorder. Studies on lamotrigine have identified its binding to sodium channels in a fashion similar to local anesthetics, which could explain the demonstrated clinical benefit of lamotrigine in some neuropathic pain states.[T28] \r\n\r\nLamotrigine displays binding properties to several different receptors. In laboratory binding assays, it demonstrates weak inhibitory effect on the serotonin 5-HT3 receptor. Lamotrigine also weakly binds to Adenosine A1/A2 receptors, \u03b11/\u03b12/\u03b2 adrenergic receptors, dopamine D1/D2 receptors, GABA A/B receptors, histamine H1 receptors, \u03ba-opioid receptor (KOR), mACh receptors and serotonin 5-HT2 receptors with an IC50>100 \u00b5M. Weak inhibitory effects were observed at sigma opioid receptors.[L9404] An in vivo study revealed evidence that lamotrigine inhibits Cav2.3 (R-type) calcium currents, which may also contribute to its anticonvulsant effects.[A31737] ",
+    "absorption": "Lamotrigine is rapidly and entirely absorbed with minimal first-pass metabolism effects, with a bioavailability estimated at 98%. Cmax is reached in the range of 1.4 to 4.8 hours post-dose, but this depends on the dose administered, concomitant medications, and epileptic status. The rate and extent of lamictal absorption is considered equivalent between the compressed tablet form taken with water to that of the chewable dispersible tablets, taken with or without water.[L9404,L12183]",
+    "metabolism": "Lamotrigine is mainly glucuronidated, forming 2-N-glucuronide conjugate, a pharmacologically inactive metabolite.[A192027] The total radioactivity detected after a 240mg radiolabeled dose of lamotrigine during clinical trials were as follows: lamotrigine as unchanged drug(10%), a 2-N-glucuronide (76%), a 5-N-glucuronide (10%), a 2-N-methyl metabolite (0.14%), as well as various other minor metabolites (4%).[L9404]",
+    "toxicity": "The oral LD50 in mouse and rat is 205 mg/kg and 245 mg/kg, respectively.[MSDS]\r\n\r\nFatal cases of overdose of up to 15g of lamotrigine have been reported. Overdose with lamotrigine has been manifested by ataxia, nystagmus, increased seizures, decreased level of consciousness, coma, and intraventricular conduction delay. Though no known antidote exists for lamotrigine, hospitalization and general supportive measures should be employed in the case of a suspected lamotrigine overdose. Gastric lavage and emesis may be warranted with simultaneous protection of the airway. It is uncertain at this time whether hemodialysis is an effective means of removing lamotrigine from the sytemic circulation.[L12183,L9404]",
+    "targets": [
+        [
+            "CACNA1E",
+            "Voltage-dependent R-type calcium channel subunit alpha-1E (CACNA1E)",
+            "Humans"
+        ],
+        [
+            "SCN1A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN10A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN11A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN2A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN3A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN4A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN5A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN7A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN8A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "SCN9A",
+            "Voltage-gated sodium channel alpha subunit",
+            "Humans"
+        ],
+        [
+            "ADORA1",
+            "Adenosine receptor A1",
+            "Humans"
+        ],
+        [
+            "ADORA2A",
+            "Adenosine receptor A2a",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "DRD1",
+            "D(1) dopamine receptor",
+            "Humans"
+        ],
+        [
+            "DRD5",
+            "D(1) dopamine receptor",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "CHRNA1",
+            "Acetylcholine receptor subunit alpha",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ],
+        [
+            "GRIA1",
+            "Glutamate receptor 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "DHFR",
+            "Dihydrofolate reductase",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A10",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferases (UGTs)",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

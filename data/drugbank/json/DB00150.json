@@ -1,0 +1,88 @@
+{
+    "pharmgkb_id": "PA10323",
+    "drugbank_id": "DB00150",
+    "names": [
+        "Tryptophan",
+        "Alti-Tryptophan"
+    ],
+    "description": "An essential amino acid that is necessary for normal growth in infants and for nitrogen balance in adults. It is a precursor of indole alkaloids in plants. It is a precursor of serotonin (hence its use as an antidepressant and sleep aid). It can be a precursor to niacin, albeit inefficiently, in mammals.",
+    "indication": "Tryptophan may be useful in increasing serotonin production, promoting healthy sleep, managing depression by enhancing mental and emotional well-being, managing pain tolerance, and managing weight.",
+    "pharmacodynamics": "Tryptophan is critical for the production of the body's proteins, enzymes and muscle tissue. It is also essential for the production of niacin, the synthesis of the neurotransmitter serotonin and melatonin. Tryptophan supplements can be used as natural relaxants to help relieve insomnia. Tryptophan can also reduce anxiety and depression and has been shown to reduce the intensity of migraine headaches. Other promising indications include the relief of chronic pain, reduction of impulsivity or mania and the treatment of obsessive or compulsive disorders. Tryptophan also appears to help the immune system and can reduce the risk of cardiac spasms. Tryptophan deficiencies may lead to coronary artery spasms. Tryptophan is used as an essential nutrient in infant formulas and intravenous feeding. Tryptophan is marketed as a prescription drug (Tryptan) for those who do not seem to respond well to conventional antidepressants. It may also be used to treat those afflicted with seasonal affective disorder (a winter-onset depression). Tryptopan serves as the precursor for the synthesis of serotonin (5-hydroxytryptamine, 5-HT) and melatonin (N-acetyl-5-methoxytryptamine).",
+    "mechanism-of-action": "A number of important side reactions occur during the catabolism of tryptophan on the pathway to acetoacetate. The first enzyme of the catabolic pathway is an iron porphyrin oxygenase that opens the indole ring. The latter enzyme is highly inducible, its concentration rising almost 10-fold on a diet high in tryptophan. Kynurenine is the first key branch point intermediate in the pathway. Kynurenine undergoes deamniation in a standard transamination reaction yielding kynurenic acid. Kynurenic acid and metabolites have been shown to act as antiexcitotoxics and anticonvulsives. A second side branch reaction produces anthranilic acid plus alanine. Another equivalent of alanine is produced further along the main catabolic pathway, and it is the production of these alanine residues that allows tryptophan to be classified among the glucogenic and ketogenic amino acids. The second important branch point converts kynurenine into 2-amino-3-carboxymuconic semialdehyde, which has two fates. The main flow of carbon elements from this intermediate is to glutarate. An important side reaction in liver is a transamination and several rearrangements to produce limited amounts of nicotinic acid, which leads to production of a small amount of NAD<sup>+</sup> and NADP<sup>+</sup>.",
+    "absorption": null,
+    "metabolism": "Hepatic.",
+    "toxicity": "Oral rat LD<sub>50</sub>: > 16 gm/kg. Investigated as a tumorigen, mutagen, reproductive effector. Symptoms of overdose include agitation, confusion, diarrhea, fever, overactive reflexes, poor coordination, restlessness, shivering, sweating, talking or acting with excitement you cannot control, trembling or shaking, twitching, and vomiting.",
+    "targets": [
+        [
+            "WARS",
+            "Tryptophan--tRNA ligase, cytoplasmic",
+            "Humans"
+        ],
+        [
+            "trpS",
+            "Tryptophan--tRNA ligase",
+            "Geobacillus stearothermophilus"
+        ],
+        [
+            "WARS2",
+            "Tryptophan--tRNA ligase, mitochondrial",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "trpS",
+            "Tryptophan--tRNA ligase",
+            "Geobacillus stearothermophilus"
+        ],
+        [
+            "WARS2",
+            "Tryptophan--tRNA ligase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "TPH1",
+            "Tryptophan 5-hydroxylase 1",
+            "Humans"
+        ],
+        [
+            "TPH2",
+            "Tryptophan 5-hydroxylase 2",
+            "Humans"
+        ],
+        [
+            "WARS",
+            "Tryptophan--tRNA ligase, cytoplasmic",
+            "Humans"
+        ],
+        [
+            "IDO1",
+            "Indoleamine 2,3-dioxygenase 1",
+            "Humans"
+        ],
+        [
+            "TDO2",
+            "Tryptophan 2,3-dioxygenase",
+            "Humans"
+        ],
+        [
+            "DDC",
+            "Aromatic-L-amino-acid decarboxylase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC16A2",
+            "Monocarboxylate transporter 8",
+            "Humans"
+        ],
+        [
+            "SLC16A10",
+            "Monocarboxylate transporter 10",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

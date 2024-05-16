@@ -1,0 +1,26 @@
+{
+    "pharmgkb_id": "PA166129535",
+    "drugbank_id": "DB12523",
+    "names": [
+        "Mizolastine",
+        "Mizollen"
+    ],
+    "description": "Mizolastine is under investigation in clinical trial NCT01928316 (A Bioequivalence Study of Domestic (Made in China) and Imported Mizolastine Tablets in Healthy Volunteers).",
+    "indication": null,
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": null,
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

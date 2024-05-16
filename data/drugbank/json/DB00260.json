@@ -1,0 +1,44 @@
+{
+    "pharmgkb_id": "nan-393b660e-ea90-458d-af12-ab04e004e28d",
+    "drugbank_id": "DB00260",
+    "names": [
+        "Cycloserine",
+        "Oxamycin",
+        "Tisomycin"
+    ],
+    "description": "Antibiotic substance produced by Streptomyces garyphalus.",
+    "indication": "Used in combination with up to 5 other drugs as a treatment for Mycobacterium avium complex (MAC) and is also used to treat tuberculosis (TB).",
+    "pharmacodynamics": "Cycloserine, a broad-spectrum antibiotic, may be bactericidal or bacteriostatic, depending on its concentration at the site of infection and the susceptibility of the organism. Cycloserine works by blocking the formation of these peptidoglycans. By doing this the walls of the bacteria become weak and it results in the death of the bacteria",
+    "mechanism-of-action": "Cycloserine is an analog of the amino acid D-alanine. It interferes with an early step in bacterial cell wall synthesis in the cytoplasm by competitive inhibition of two enzymes, L-alanine racemase, which forms D-alanine from L-alanine, and D-alanylalanine synthetase, which incorporates D-alanine into the pentapeptide necessary for peptidoglycan formation and bacterial cell wall synthesis.",
+    "absorption": "Rapidly and almost completely absorbed (70 to 90%) from the gastrointestinal tract following oral administration.",
+    "metabolism": null,
+    "toxicity": "Oral LD<sub>50</sub> in mouse is 5290 mg/kg, and in rat is over 5000 mg/kg. Symptoms of a cycloserine overdose include drowsiness, confusion, headache, dizziness, irritability, numbness and tingling, difficulty speaking, paralysis, abnormal behavior, seizures, and unconsciousness.",
+    "targets": [
+        [
+            "ddlA",
+            "D-alanine--D-alanine ligase A",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "alr",
+            "Alanine racemase",
+            "Mycobacterium avium"
+        ]
+    ],
+    "enzymes": [
+        [
+            "DDC",
+            "Aromatic-L-amino-acid decarboxylase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC36A2",
+            "Proton-coupled amino acid transporter 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

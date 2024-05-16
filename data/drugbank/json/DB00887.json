@@ -1,0 +1,85 @@
+{
+    "pharmgkb_id": "PA448682",
+    "drugbank_id": "DB00887",
+    "names": [
+        "Bumetanide",
+        "Burinex",
+        "Fordiuran",
+        "Lunetoron"
+    ],
+    "description": "Bumetanide  is a sulfamyl diuretic.",
+    "indication": "For the treatment of edema associated with congestive heart failure, hepatic and renal disease including the nephrotic syndrome.",
+    "pharmacodynamics": "Bumetanide is a loop diuretic of the sulfamyl category to treat heart failure. It is often used in patients in whom high doses of furosemide are ineffective. There is however no reason not to use bumetanide as a first choice drug. The main difference between the two substances is in bioavailability. Bumetanide has more predictable pharmacokinetic properties as well as clinical effect. In patients with normal renal function, bumetanide is 40 times more effective than furosemide.",
+    "mechanism-of-action": "Bumetanide interferes with renal cAMP and/or inhibits the sodium-potassium ATPase pump. Bumetanide appears to block the active reabsorption of chloride and possibly sodium in the ascending loop of Henle, altering electrolyte transfer in the proximal tubule. This results in excretion of sodium, chloride, and water and, hence, diuresis.",
+    "absorption": "Bumetanide is completely absorbed (80%), and the absorption is not altered when taken with food. Bioavailability is almost complete.",
+    "metabolism": "45% is secreted unchanged. Urinary and biliary metabolites are formed by oxidation of the N-butyl side chain.",
+    "toxicity": "Overdosage can lead to acute profound water loss, volume and electrolyte depletion, dehydration, reduction of blood volume and circulatory collapse with a possibility of vascular thrombosis and embolism. Electrolyte depletion may be manifested by weakness, dizziness, mental confusion, anorexia, lethargy, vomiting and cramps. Treatment consists of replacement of fluid and electrolyte losses by careful monitoring of the urine and electrolyte output and serum electrolyte levels.",
+    "targets": [
+        [
+            "SLC12A1",
+            "Solute carrier family 12 member 1",
+            "Humans"
+        ],
+        [
+            "SLC12A2",
+            "Solute carrier family 12 member 2",
+            "Humans"
+        ],
+        [
+            "SLC12A4",
+            "Solute carrier family 12 member 4",
+            "Humans"
+        ],
+        [
+            "SLC12A5",
+            "Solute carrier family 12 member 5",
+            "Humans"
+        ],
+        [
+            "CFTR",
+            "Cystic fibrosis transmembrane conductance regulator",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC10A1",
+            "Sodium/bile acid cotransporter",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A11",
+            "Solute carrier family 22 member 11",
+            "Humans"
+        ],
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,97 @@
+{
+    "pharmgkb_id": "PA448803",
+    "drugbank_id": "DB00958",
+    "names": [
+        "Carboplatin",
+        "Paraplatin-AQ"
+    ],
+    "description": "Carboplatin is an organoplatinum antineoplastic alkylating agent used in the treatment of advanced ovarian carcinoma.[L32253] Early clinical studies of carboplatin were performed in 1982.[A230523] Carboplatin was developed as an analog of [cisplatin] with reduced nephrotoxicity and vomiting.[A230463,A230523]\r\n\r\nCarboplatin was granted FDA approval on 3 March 1989.[L32248]",
+    "indication": "Carboplatin is indicated in combination with an established combination of chemotherapeutic agents for the initial treatment of advanced ovarian carcinoma.[L32253] Carboplatin is also indicated for the palliative treatment of ovarian carcinoma, recurrent after prior chemotherapy.[L32253]",
+    "pharmacodynamics": "Carboplatin is an organoplatinum antineoplastic alkylating agent used in the treatment of advanced ovarian carcinoma.[L32253] Carboplatin has a long duration of action as it is given every 4 weeks, and a narrow therapeutic index.[L32253] Patients should be counselled regarding bone marrow suppression and anemia.[L32253]",
+    "mechanism-of-action": "Carboplatin predominantly acts by attaching alkyl groups to the nucleotides, leading to the formation of monoadducts, and DNA fragmenting when repair enzymes attempt to correct the error.[A230158,L32253] 2% of carboplatin's activity comes from DNA cross-linking from a base on one strand to a base on another, preventing DNA strands from separating for synthesis or transcription.[A230158,A1472] Finally, carboplatin can induce a number of different mutations.[A230158]",
+    "absorption": "The C<sub>max</sub> and AUC of carboplatin increase proportionally with increasing doses.[L32253] A 75 mg/m<sup>2</sup> dose reaches a C<sub>max</sub> of 9.06 \u00b1 0.74 \u00b5g/mL, with an AUC of 27.18 \u00b1 11.28 h\\*\u00b5g/mL.[A230463,L32253] A 450 mg/m<sup>2</sup> dose reaches a C<sub>max</sub> of 55.39 \u00b1 18.30 \u00b5g/mL, with an AUC of 224.41 \u00b1 69.07 h\\*\u00b5g/mL.[A230463,L32253]",
+    "metabolism": "Carboplatin is predominantly eliminated as the unchanged parent compound.[A230158,A230473]",
+    "toxicity": "Patients experiencing an overdose of carboplatin may present with pronounced neutropenia and hepatotoxicity.[A230478,L32253] Treat patients with symptomatic and supportive measures, which may include delaying their next treatment.[A230478]",
+    "targets": null,
+    "enzymes": [
+        [
+            "XDH",
+            "Xanthine dehydrogenase/oxidase",
+            "Humans"
+        ],
+        [
+            "MPO",
+            "Myeloperoxidase",
+            "Humans"
+        ],
+        [
+            "GSTT1",
+            "Glutathione S-transferase theta-1",
+            "Humans"
+        ],
+        [
+            "MT1A",
+            "Metallothionein-1A",
+            "Humans"
+        ],
+        [
+            "MT2A",
+            "Metallothionein-2",
+            "Humans"
+        ],
+        [
+            "SOD1",
+            "Superoxide dismutase [Cu-Zn]",
+            "Humans"
+        ],
+        [
+            "GSTP1",
+            "Glutathione S-transferase P",
+            "Humans"
+        ],
+        [
+            "GSTM1",
+            "Glutathione S-transferase Mu 1",
+            "Humans"
+        ],
+        [
+            "NQO1",
+            "NAD(P)H dehydrogenase [quinone] 1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC31A1",
+            "High affinity copper uptake protein 1",
+            "Humans"
+        ],
+        [
+            "SLC31A2",
+            "Probable low affinity copper uptake protein 2",
+            "Humans"
+        ],
+        [
+            "ATP7A",
+            "Copper-transporting ATPase 1",
+            "Humans"
+        ],
+        [
+            "ATP7B",
+            "Copper-transporting ATPase 2",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

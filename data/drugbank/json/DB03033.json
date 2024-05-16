@@ -1,0 +1,30 @@
+{
+    "pharmgkb_id": "PA451991",
+    "drugbank_id": "DB03033",
+    "names": [
+        "4-methoxybenzenesulfinate"
+    ],
+    "description": null,
+    "indication": null,
+    "pharmacodynamics": null,
+    "mechanism-of-action": null,
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "MMP13",
+            "Collagenase 3",
+            "Humans"
+        ],
+        [
+            "MMP3",
+            "Stromelysin-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

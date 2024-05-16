@@ -1,0 +1,130 @@
+{
+    "pharmgkb_id": "PA449009",
+    "drugbank_id": "DB00537",
+    "names": [
+        "Ciprofloxacin",
+        "Bacquinor",
+        "Baycip",
+        "Ciflox",
+        "Cifloxin",
+        "Ciprinol",
+        "Ciprobay",
+        "Ciprocinol",
+        "Ciprodar",
+        "Ciproxan",
+        "Ciproxin",
+        "Flociprin",
+        "Proquin"
+    ],
+    "description": "Ciprofloxacin is a second generation fluoroquinolone that has spawned many derivative antibiotics.[A178870] It is formulated for oral, intravenous, intratympanic, ophthalmic, and otic administration for a number of bacterial infections.[L6469,L6472,L6475,L6478,L6481,L6484,L6487,L6490,L6493]\r\n\r\nThe first ciprofloxacin containing product was FDA approved on 22 October 1987.[L6463]",
+    "indication": "Ciprofloxacin is only indicated in infections caused by susceptible bacteria.[L6469,L6472,L6475,L6478,L6481,L6484,L6487,L6490,L6493]\r\n\r\nCiprofloxacin immediate release tablets, oral suspensions, and intravenous injections are indicated for the treatment of skin and skin structure infections, bone and joint infections, complicated intra-abdominal infections, nosocomial pneumonia, febrile neutropenia, adults who have inhaled anthrax, plague, chronic bacterial prostatitis, lower respiratory tract infections including acute exacerbations of chronic bronchitis, urinary tract infections, complicated urinary tract infections in pediatrics, complicated pyelonephritis in pediatrics, and acute sinusitis.[L6481,L6478]\r\n\r\nA ciprofloxacin otic solution and otic suspension with hydrocortisone are indicated for acute otitis externa.[L6469,L6484] Ciprofloxacin suspension with dexamethasone is indicated for acute otitis media in pediatric patients with tympanostomy tubes or acute otitis externa.[L6490] A ciprofloxacin intratympanic injection is indicated for pediatric patients with bilateral otitis media with effusion who are having tympanostomy tubes placed or pediatric patients 6 months or older with acute otitis externa.[L6493]\r\n\r\nA ciprofloxacin eye drop is indicated for bacterial corneal ulcers and conjunctivitis.[L6472] A ciprofloxacin eye ointment is indicated for bacterial conjunctivitis.[L6475]\r\n\r\nA ciprofloxacin extended release tablet is indicated for uncomplicated urinary tract infections, complicated urinary tract infections, and acute uncomplicated pyelonephritis.[L6487]",
+    "pharmacodynamics": "Ciprofloxacin is a second generation fluoroquinolone that is active against many Gram negative and Gram positive bacteria.[A178870,L6469,L6472,L6475,L6478,L6481,L6484,L6487,L6490,L6493] It produces its action through inhibition of bacterial DNA gyrase and topoisomerase IV.[A178885] Ciprofloxacin binds to bacterial DNA gyrase with 100 times the affinity of mammalian DNA gyrase.[A178894] There is no cross resistance between fluoroquinolones and other classes of antibiotics, so it may be of clinical value when other antibiotics are no longer effective.[A178894] Ciprofloxain and its derivatives are also being investigated for its action against malaria, cancers, and AIDS.[A178885]",
+    "mechanism-of-action": "Ciprofloxacin acts on bacterial topoisomerase II (DNA gyrase) and topoisomerase IV.[A178885] Ciprofloxacin's targeting of the alpha subunits of DNA gyrase prevents it from supercoiling the bacterial DNA which prevents DNA replication.[A178876,A178882]",
+    "absorption": "A 250mg oral dose of ciprofloxacin reaches an average maximum concentration of 0.94mg/L in 0.81 hours with an average area under the curve of 1.013L/h\\*kg.[A178858] The FDA reports an oral bioavailability of 70-80%[Label,A820] while other studies report it to be approximately 60%.[A178858] An early review of ciprofloxacin reported an oral bioavailability of 64-85% but recommends 70% for all practical uses.[A178876]",
+    "metabolism": "Ciprofloxacin is primarily metabolized by CYP1A2.[L6481] The primary metabolites oxociprofloxacin and sulociprofloxacin make up 3-8% of the total dose each.[L6487] Ciprofloxacin is also converted to the minor metabolites desethylene ciprofloxacin and formylciprofloxacin.[L6487] These 4 metabolites account for 15% of a total oral dose.[L6481]\r\n\r\nThere is a lack of available data on the enzymes and types of reactions involved in forming these metabolites.[A178822,A178819,A178828,A178831]",
+    "toxicity": "Patients experiencing an overdose may present with nausea, vomiting, abdominal pain, crystalluria, nephrotoxicity, and oliguria.[A178954,A178957,A178960] Ciprofloxacin overdose typically leads to acute renal failure.[A178960] An overdose may progress over the next 6 days with rising serum creatinine and BUN, as well as anuria.[A178957] Patients may require prednisone therapy, urgent hemodialysis, or supportive therapy.[A178954,A178960] Depending on the degree of overdose, patients may recover normal kidney function or progress to chronic kidney failure.[A178960]\r\n\r\nThe oral LD50 in rats is >2000mg/kg.[L6529]\r\n\r\nCiprofloxacin for intratympanic injection or otic use has low systemic absorption and so it unlikely to be a risk in pregnancy or lactation.[L6493] There is generally no harm to the fetus in animal studies, however high doses may lead to gastrointestinal disturbances in the mother which may increase the incidence of abortion.[L6490,L6472,L6484,L6475] In human studies there was no increase in fetal malformations above background rates.[L6478,L6481] The risk and benefit of ciprofloxacin should be weighed in pregnancy and breast feeding.[L6490,L6472,L6484,L6478,L6481,L6487,L6475,L6469]\r\n\r\n2/8 in vitro tests and 0/3 in vivo tests of mutagenicity of ciprofloxacin have yielded a positive result.[L6493,L6490,L6472,L6484,L6478,L6481,L6487,L6475,L6469]\r\n\r\nOral doses of 200 and 300 times the maximum recommended clinical dose in rats and mice have shown no carcinogenicity or tumorigenicity.[L6493,L6472,L6484,L6478,L6481,L6487,L6475,L6469]\r\n\r\nOral doses above the maximum recommended clinical dose have shown no effects on fertility in rats.[L6493,L6484,L6478,L6481,L6487,L6475,L6469]",
+    "targets": [
+        [
+            "parC",
+            "DNA topoisomerase 4 subunit A",
+            "Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)"
+        ],
+        [
+            "gyrA",
+            "DNA gyrase subunit A",
+            "Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)"
+        ],
+        [
+            "TOP2A",
+            "DNA topoisomerase 2-alpha",
+            "Humans"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "gyrA",
+            "DNA gyrase subunit A",
+            "Escherichia coli (strain K12)"
+        ],
+        [
+            "parC",
+            "DNA topoisomerase 4 subunit A",
+            "Staphylococcus aureus"
+        ],
+        [
+            "parE",
+            "DNA topoisomerase 4 subunit B",
+            "Bacillus subtilis (strain 168)"
+        ],
+        [
+            "gyrA",
+            "DNA gyrase subunit A",
+            "Bacillus subtilis (strain 168)"
+        ],
+        [
+            "mdtK",
+            "Multidrug resistance protein MdtK",
+            "Escherichia coli"
+        ],
+        [
+            null,
+            "Gyrase A",
+            "Mycobacterium tuberculosis"
+        ],
+        [
+            "gyrA",
+            "DNA gyrase subunit A",
+            "Staphylococcus aureus"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,61 @@
+{
+    "pharmgkb_id": "PA451544",
+    "drugbank_id": "DB01015",
+    "names": [
+        "Sulfamethoxazole",
+        "Gantanol",
+        "Sinomin",
+        "Urobak"
+    ],
+    "description": "Sulfamethoxazole is a bacteriostatic sulfonamide antibiotic that interferes with folic acid synthesis in susceptible bacteria.[L11830] It is generally given in combination with [trimethoprim], which inhibits a sequential step in bacterial folic acid synthesis - these agents work synergistically to block two consecutive steps in the biosynthesis of nucleic acids and proteins which are necessary for bacterial growth and division, and using them in conjunction helps to slow the development of bacterial resistance.[L11830] In this combination, sulfamethoxazole is useful for the treatment of a variety of bacterial infections, including those of the urinary, respiratory, and gastrointestinal tracts.",
+    "indication": "Sulfamethoxazole is indicated in combination with trimethoprim, in various formulations, for the following infections caused by bacteria with documented susceptibility: urinary tract infections, acute otitis media in pediatric patients (when clinically indicated), acute exacerbations of chronic bronchitis in adults, enteritis caused by susceptible _Shigella_, prophylaxis and treatment of _Pneumocystis jiroveci_ pneumonia, and travelers' diarrhea caused by enterotoxigenic _E. coli_.[L11830,L11863]\r\n\r\nIn Canada, additional indications include the adjunctive treatment of cholera, treatment of bacillary dysentery, nocardiosis, and second-line treatment of brucellosis in combination with [gentamicin] or [rifampicin].[L11851]",
+    "pharmacodynamics": "Sulfamethoxazole is a bacteriostatic sulfonamide antibiotic that inhibits a critical step in bacterial folate synthesis. It is generally given in combination with [trimethoprim], a dihydrofolate reductase inhibitor, which inhibits the reduction of dihydrofolic acid to tetrahydrofolic acid.[L11830] Studies have shown that bacterial resistance develops more slowly with the combination of the two drugs than with either trimethoprim or sulfamethoxazole alone, as together they inhibit sequential steps in the bacterial folate synthesis pathway.[L11830]\r\n\r\nSulfonamides, including sulfamethoxazole, have been implicated in hypersensitivity reactions - these agents should be discontinued at the first sign of a developing rash, as this may signal the start of a more severe reaction such as Stevens-Johnson syndrome or toxic epidermal necrolysis. Sulfamethoxazole treatment may contribute to folate deficiency and should therefore be used with caution in patients at a higher risk of developing a deficiency. Hemolysis has been observed in patients with glucose-6-phosphate dehydrogenase deficiency who are using sulfamethoxazole/trimethoprim.[L11830]",
+    "mechanism-of-action": "Sulfamethoxazole is a sulfonamide that inhibits bacterial dihydrofolic acid synthesis due to its structural similarity to an endogenous substrate, para-aminobenzoic acid (PABA).[A187343,A187364] Most bacteria meet their need for folic acid by synthesizing it from PABA, as opposed to Animalia that require exogenous folic acid sources.[L11851] Sulfamethoxazole competitively inhibits dihydropteroate synthase, the enzyme responsible for bacterial conversion of PABA to dihydrofolic acid.[A112882] Inhibition of this pathway prevents the synthesis of tetrahydrofolate and, ultimately, the synthesis of bacterial purines and DNA, resulting in a bacteriostatic effect.[A187340]",
+    "absorption": "Sulfamethoxazole is rapidly absorbed following oral administration and has a bioavailability of 85-90%.[A179830] The T<sub>max</sub> is approximately 1-4 hours following oral administration, and the C<sub>max</sub> at steady-state is 57.4 - 68.0 \u03bcg/mL.[L11830]",
+    "metabolism": "Sulfamethoxazole metabolism is mediated primarily by arylamine N-acetyltransferase (NAT) enzymes, which are responsible for acetylation of sulfamethoxazole at its N4 position.[A415,L11830] Sulfamethoxazole may also undergo oxidation at its C5 and N4 atoms, the latter of which is catalyzed by CYP2C9.[L11830] Glucuronidation of the N4 atom, likely mediated by unspecified UGT enzymes, is an additional minor route of metabolism.[A415] None of the identified metabolites of sulfamethoxazole appear to carry antimicrobial activity.[L11830]\r\n\r\nThe hydroxylamine metabolite of sulfamethoxazole, generated via oxidation by CYP2C9, may be further converted to a more reactive nitroso- metabolite.[A415]",
+    "toxicity": "The oral LD<sub>50</sub> of sulfamethoxazole in mice and rats is 2300 mg/kg and 6200 mg/kg, respectively.[L11866]\r\n\r\nSigns or symptoms of sulfonamide overdose include anorexia, colic, nausea, vomiting, dizziness, headache, drowsiness, and unconsciousness. Less common symptoms may include pyrexia, hematuria, and crystalluria. Later manifestations of overdose may include blood dyscrasias and jaundice.[L11830] Treatment should be symptomatic and supportive, and may include gastric lavage or forced emesis if applicable. Monitor patient lab work for evidence of blood dyscrasias or electrolyte imbalances.[L11830]",
+    "targets": [
+        [
+            "folP",
+            "Dihydropteroate synthase",
+            "Escherichia coli (strain K12)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "NAT1",
+            "Arylamine N-acetyltransferase 1",
+            "Humans"
+        ],
+        [
+            "NAT2",
+            "Arylamine N-acetyltransferase 2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

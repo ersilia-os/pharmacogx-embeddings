@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA166153470",
+    "drugbank_id": "DB11730",
+    "names": [
+        "Ribociclib"
+    ],
+    "description": "Ribociclib is a selective cyclin-dependent kinase inhibitor, a class of drugs that help slow the progression of cancer by inhibiting two proteins called cyclin-dependent kinase 4 and 6 (CDK4/6). These proteins, when over-activated, can enable cancer cells to grow and divide too quickly. Targeting CDK4/6 with enhanced precision may play a role in ensuring that cancer cells do not continue to replicate uncontrollably. Ribociclib was approved by the U.S. FDA in March, 2017 as Kisqali.",
+    "indication": "Kisqali (ribociclib) is a selective cyclin-dependent kinase inhibitor, a class of drugs that help slow the progression of cancer by inhibiting two proteins called cyclin-dependent kinase 4 and 6 (CDK4/6). These proteins, when over-activated, can enable cancer cells to grow and divide too quickly. Targeting CDK4/6 with enhanced precision may play a role in ensuring that cancer cells do not continue to replicate uncontrollably.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Inhibition of cyclin-dependent kinase 4 and 6 (CDK4/6) may provide protection against oncogenic processes in specific tissue types. For example, CDK4 is not required for normal mammary tissue development based on knockout mouse studies, but it is needed for growth of Ras-induced mammary tumors, suggesting a potential therapeutic window for treatment with lower toxicity.\r\nRibociclib was reported to be a most selective CDK4/6 inhibitor and to have dose dependent antitumor activity in a number of preclinical models. It  inhibited growth of tumor cells by arresting the cells at the G1 checkpoint, which prevents the tumor cells from proliferating.",
+    "absorption": "Ribociclib is orally bioavailable, highly selective inhibitor of CDK4/6 kinases with inhibitory IC50 concentrations in the low nanomolar range. \r\nFollowing oral dosing, ribociclib was rapidly absorbed with median Tmax ranging from 1 to 5 hours. Plasma concentrations increased approximately 2- to 3-fold from Cycle 1 Day 1 to Cycle 1 Day 18/21 due to accumulation, with steady state reached by approximately Day 8 on the basis of trough concentrations after repeated daily dosing. Dose-proportionality analyses demonstrated that exposure to ribociclib increased with dose, with both Cmax and area under the curve (AUC) increasing slightly more than proportional to dose, over the dose range 50\u20131,200 mg/day",
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "CDK4",
+            "Cyclin-dependent kinase 4",
+            "Humans"
+        ],
+        [
+            "CDK6",
+            "Cyclin-dependent kinase 6",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

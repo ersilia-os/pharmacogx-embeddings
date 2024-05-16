@@ -1,0 +1,293 @@
+{
+    "pharmgkb_id": "PA164749650",
+    "drugbank_id": "DB00114",
+    "names": [
+        "Pyridoxal phosphate",
+        "Biosechs",
+        "Himitan",
+        "Vitazechs"
+    ],
+    "description": "This is the active form of vitamin B6 serving as a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. During transamination of amino acids, pyridoxal phosphate is transiently converted into pyridoxamine phosphate (pyridoxamine).",
+    "indication": "For nutritional supplementation and for treating dietary shortage or imbalance.",
+    "pharmacodynamics": "The two major forms of vitamin B6 are pyridoxine and pyridoxamine. In the liver they are converted to pyridoxal phosphate (PLP) which is a cofactor in many reactions of amino acid metabolism. PLP also is necessary for the enzymatic reaction governing the release of glucose from glycogen. Pyroluria is one potential cause of vitamin B6 deficiency.",
+    "mechanism-of-action": "Pyridoxal Phosphate is a coenzyme of many enzymatic reactions. It is the active form of vitamin B6 which comprises three natural organic compounds, pyridoxal, pyridoxamine and pyridoxine. Pyridoxal phosphate acts as a coenzyme in all transamination reactions, and in some \r\noxylation and deamination reactions of amino acids. The aldehyde group of pyridoxal phosphate forms a Schiff-base linkage with the epsilon-amino group of a specific lysine group of the aminotransferase enzyme. The alpha-amino group of the amino acid substrate displaces the epsilon-amino group of the active-site lysine residue. The resulting aldimine becomes deprotonated to become a quinoid intermediate, which in turn accepts a proton at a different position to become a ketimine. Ketimine becomes hydrolyzed so that the amino group remains on the protein complex. ",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "AGXT2",
+            "Alanine--glyoxylate aminotransferase 2, mitochondrial",
+            "Humans"
+        ],
+        [
+            "GAD1",
+            "Glutamate decarboxylase 1",
+            "Humans"
+        ],
+        [
+            "CBS",
+            "Cystathionine beta-synthase",
+            "Humans"
+        ],
+        [
+            "KYNU",
+            "Kynureninase",
+            "Humans"
+        ],
+        [
+            "SHMT1",
+            "Serine hydroxymethyltransferase, cytosolic",
+            "Humans"
+        ],
+        [
+            "NFS1",
+            "Cysteine desulfurase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "GOT1",
+            "Aspartate aminotransferase, cytoplasmic",
+            "Humans"
+        ],
+        [
+            "OAT",
+            "Ornithine aminotransferase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "ODC1",
+            "Ornithine decarboxylase",
+            "Humans"
+        ],
+        [
+            "AADAT",
+            "Kynurenine/alpha-aminoadipate aminotransferase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "ABAT",
+            "4-aminobutyrate aminotransferase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "PNPO",
+            "Pyridoxine-5'-phosphate oxidase",
+            "Humans"
+        ],
+        [
+            "SGPL1",
+            "Sphingosine-1-phosphate lyase 1",
+            "Humans"
+        ],
+        [
+            "TAT",
+            "Tyrosine aminotransferase",
+            "Humans"
+        ],
+        [
+            "CCBL1",
+            "Kynurenine--oxoglutarate transaminase 1",
+            "Humans"
+        ],
+        [
+            "SPTLC2",
+            "Serine palmitoyltransferase 2",
+            "Humans"
+        ],
+        [
+            "CSAD",
+            "Cysteine sulfinic acid decarboxylase",
+            "Humans"
+        ],
+        [
+            "HDC",
+            "Histidine decarboxylase",
+            "Humans"
+        ],
+        [
+            "AZIN2",
+            "Arginine decarboxylase",
+            "Humans"
+        ],
+        [
+            "SDS",
+            "L-serine dehydratase/L-threonine deaminase",
+            "Humans"
+        ],
+        [
+            "GCAT",
+            "2-amino-3-ketobutyrate coenzyme A ligase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "GLDC",
+            "Glycine dehydrogenase [decarboxylating], mitochondrial",
+            "Humans"
+        ],
+        [
+            "GPT",
+            "Alanine aminotransferase 1",
+            "Humans"
+        ],
+        [
+            "PSAT1",
+            "Phosphoserine aminotransferase",
+            "Humans"
+        ],
+        [
+            "ALAS1",
+            "5-aminolevulinate synthase, nonspecific, mitochondrial",
+            "Humans"
+        ],
+        [
+            "AGXT",
+            "Serine--pyruvate aminotransferase",
+            "Humans"
+        ],
+        [
+            "PDXP",
+            "Pyridoxal phosphate phosphatase",
+            "Humans"
+        ],
+        [
+            "SPTLC1",
+            "Serine palmitoyltransferase 1",
+            "Humans"
+        ],
+        [
+            "CTH",
+            "Cystathionine gamma-lyase",
+            "Humans"
+        ],
+        [
+            "BCAT1",
+            "Branched-chain-amino-acid aminotransferase, cytosolic",
+            "Humans"
+        ],
+        [
+            "BCAT2",
+            "Branched-chain-amino-acid aminotransferase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "PROSC",
+            "Proline synthase co-transcribed bacterial homolog protein",
+            "Humans"
+        ],
+        [
+            "GOT2",
+            "Aspartate aminotransferase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "PYGB",
+            "Glycogen phosphorylase, brain form",
+            "Humans"
+        ],
+        [
+            "PYGM",
+            "Glycogen phosphorylase, muscle form",
+            "Humans"
+        ],
+        [
+            "DDC",
+            "Aromatic-L-amino-acid decarboxylase",
+            "Humans"
+        ],
+        [
+            null,
+            "Serine hydroxymethyltransferase",
+            "Humans"
+        ],
+        [
+            "GAD2",
+            "Glutamate decarboxylase 2",
+            "Humans"
+        ],
+        [
+            "CCBL2",
+            "Kynurenine--oxoglutarate transaminase 3",
+            "Humans"
+        ],
+        [
+            "GADL1",
+            "Glutamate decarboxylase-like protein 1",
+            "Humans"
+        ],
+        [
+            "SCLY",
+            "Selenocysteine lyase",
+            "Humans"
+        ],
+        [
+            "IGSF10",
+            "Immunoglobulin superfamily member 10",
+            "Humans"
+        ],
+        [
+            "PHYKPL",
+            "5-phosphohydroxy-L-lysine phospho-lyase",
+            "Humans"
+        ],
+        [
+            "SHMT2",
+            "Serine hydroxymethyltransferase, mitochondrial",
+            "Humans"
+        ],
+        [
+            "ALAS2",
+            "5-aminolevulinate synthase, erythroid-specific, mitochondrial",
+            "Humans"
+        ],
+        [
+            "GPT2",
+            "Alanine aminotransferase 2",
+            "Humans"
+        ],
+        [
+            "MOCOS",
+            "Molybdenum cofactor sulfurase",
+            "Humans"
+        ],
+        [
+            "SDSL",
+            "Serine dehydratase-like",
+            "Humans"
+        ],
+        [
+            "SRR",
+            "Serine racemase",
+            "Humans"
+        ],
+        [
+            "SEPSECS",
+            "O-phosphoseryl-tRNA(Sec) selenium transferase",
+            "Humans"
+        ],
+        [
+            "SPTLC3",
+            "Serine palmitoyltransferase 3",
+            "Humans"
+        ],
+        [
+            "GAD65",
+            "Glutamic acid decarboxylase",
+            "Humans"
+        ],
+        [
+            "GOT1",
+            "Aspartate aminotransferase",
+            "Humans"
+        ],
+        [
+            "GOT2",
+            "Aspartate aminotransferase",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,72 @@
+{
+    "pharmgkb_id": "PA166225041",
+    "drugbank_id": "DB12457",
+    "names": [
+        "Rimegepant"
+    ],
+    "description": "Rimegepant is an oral antagonist of the CGRP receptor developed by Biohaven Pharmaceuticals.[L11028] It received FDA approval on February 27, 2020 for the acute treatment migraine headache,[L11974] and was subsequently approved by the European Commission in April 2022 for both the treatment and prevention of migraines.[L41640] While several parenteral antagonists of CGRP and its receptor have been approved for migraine therapy (e.g. [erenumab], [fremanezumab], [galcanezumab]), rimegepant and [ubrogepant] were the only CGRP antagonists that possessed oral bioavailability[A189207] until the approval of [atogepant] in 2021.[L38814]\r\n\r\nThe current standard of migraine therapy involves abortive treatment with \"triptans\", such as [sumatriptan], but these medications are contraindicated in patients with pre-existing cerebrovascular and cardiovascular disease due to their vasoconstrictive properties.[A189207] Antagonism of the CGRP pathway has become an attractive target for migraine therapy as, unlike the triptans, oral CGRP antagonists have no observed vasoconstrictive properties and are therefore safer for use in patients with contraindications to standard therapy.[A189330,A189207]",
+    "indication": "Rimegepant is indicated for the acute treatment of migraine with or without aura in adults. Rimegepant is also indicated for the prevention of episodic migraine in adults.[L11971]",
+    "pharmacodynamics": "Rimegepant helps to abort migraine headaches by preventing the activity of a pronociceptive molecule that has been implicated in migraine pathophysiology.[L11971] It is intended for use as an abortive migraine therapy and therefore has a relatively rapid onset of effect, with most efficacy trials evaluating for effect at the 2 hour mark.[L11971] \r\n\r\nRimegepant does not require dose adjustment in patients with mild, moderate, or severe renal impairment,[L11971] nor does it require dose adjustment in patients with mild or moderate hepatic impairment. In clinical trials, plasma concentrations of rimegepant were significantly higher in patients with severe (i.e. Child-Pugh C) hepatic impairment - it should therefore be avoided in this population.[L11971] Hypersensitivity reactions have occurred during clinical studies and patients should be made aware of this possibility. Rimegepant should be discontinued immediately if hypersensitivity reaction occurs.[L11971]",
+    "mechanism-of-action": "The currently accepted theory of migraine pathophysiology considers dysfunction of the central nervous system, in particular the trigeminal ganglion, to be the root cause behind the condition.[A189207] Activation of the trigeminal ganglion triggers the stimulation of trigeminal afferents that project to the spinal cord and synapse on various pain-sensing intra- and extracranial structures, such as the dura mater. Pain signals are then further transmitted via second-order ascending neurons to the brainstem, hypothalamus, and thalamic nuclei, and from there to several cortical regions (e.g. auditory, visual, motor cortices).[A189207] The trigeminal ganglion appears to amplify and perpetuate the migraine headache pain through the activation of perivascular fibers and the release of molecules involved in pain generation, such as calcitonin gene-related peptide (CGRP).[A189207]\r\n\r\nThe \u03b1-isoform of CGRP, expressed in primary sensory neurons, is a potent vasodilator and has been implicated in migraine pathogenesis - CGRP levels are acutely elevated during migraine attacks, return to normal following treatment with triptan medications, and intravenous infusions of CGRP have been shown to trigger migraine-like headaches in migraine patients. In addition to its vasodilatory properties, CGRP appears to be a pronociceptive factor that modulates neuronal excitability to facilitate pain responses.[A189213]\r\n\r\nRimegepant is an antagonist of the calcitonin gene-related peptide receptor[A189330] - it competes with CGRP for occupancy at these receptors, preventing the actions of CGRP and its ability to amplify and perpetuate migraine headache pain, ultimately terminating the headache.[A189213]",
+    "absorption": "The absolute oral bioavailability of rimegepant is approximately 64%.[L11971] Following oral administration of the orally disintegrating tablet, maximum plasma concentrations were achieved at 1.5 hours (T<sub>max</sub>).[L11971]\r\n\r\nWhen administered with a high-fat meal, T<sub>max</sub> is delayed by 1 hour, C<sub>max</sub> is decreased by 42-53%, and AUC is decreased by 32-38%.[L11971] The clinical significance of this difference in pharmacokinetics is unknown.",
+    "metabolism": "Rimegepant is metabolized by CYP3A4 and, to a lesser extent, CYP2C9.[L11971] Specific metabolites of rimegepant have not been characterized and no major metabolites have been detected in plasma.[L11971] Approximately 77% of an administered dose is eliminated unchanged,[L11971] suggesting metabolism is likely to be a minor means of drug elimination.",
+    "toxicity": "There is no specific antidote for rimegepant overdosage and clinical experience is limited.[L11971] Treatment should consist of general supportive and symptomatic measures including monitoring of vital signs and general observation. Hemodialysis is unlikely to be of benefit given rimegepant's high serum protein binding.[L11971]",
+    "targets": [
+        [
+            "CALCRL",
+            "Calcitonin gene-related peptide type 1 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

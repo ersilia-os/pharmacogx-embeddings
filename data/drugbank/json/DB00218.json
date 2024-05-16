@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA450555",
+    "drugbank_id": "DB00218",
+    "names": [
+        "Moxifloxacin"
+    ],
+    "description": "Moxifloxacin is a synthetic fluoroquinolone antibiotic agent. Bayer AG developed the drug (initially called BAY 12-8039) and it is marketed worldwide (as the hydrochloride) under the brand name Avelox (in some countries also Avalox) for oral treatment.",
+    "indication": "For the treatment of sinus and lung infections such as sinusitis, pneumonia, and secondary infections in chronic bronchitis. Also for the treatment of bacterial conjunctivitis (pinkeye).",
+    "pharmacodynamics": "Moxifloxacin is a quinolone/fluoroquinolone antibiotic. Moxifloxacin can be used to treat infections caused by the following bacteria: Aerobic Gram-positive microorganisms: _Corynebacterium_ species, _Micrococcus luteus_, _Staphylococcus aureus_, _Staphylococcus epidermidis_, _Staphylococcus haemolyticus_, _Staphylococcus hominis_, _Staphylococcus warneri_, _Streptococcus pneumoniae_, and _Streptococcus viridans_ group. Aerobic Gram-negative microorganisms: _Acinetobacter lwoffii_, _Haemophilus influenzae_, and _Haemophilus parainfluenzae_. Other microorganisms: _Chlamydia trachomatis_. Moxifloxacin is bactericidal and its mode of action depends on blocking of bacterial DNA replication by binding itself to an enzyme called DNA gyrase, which allows the untwisting required to replicate one DNA double helix into two. Notably the drug has 100 times higher affinity for bacterial DNA gyrase than for mammalian. Moxifloxacin is a broad-spectrum antibiotic that is active against both Gram-positive and Gram-negative bacteria.",
+    "mechanism-of-action": "The bactericidal action of moxifloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV. DNA gyrase is an essential enzyme that is involved in the replication, transcription and repair of bacterial DNA. Topoisomerase IV is an enzyme known to play a key role in the partitioning of the chromosomal DNA during bacterial cell division.",
+    "absorption": "Well absorbed from the gastrointestinal tract. Absolute oral bioavailability is approximately 90%. Food has little effect on absorption.",
+    "metabolism": "Approximately 52% or oral or intravenous dose is metabolized via glucuronide and sulphate conjugation. The cytochrome P450 system is not involved in metabolism. The sulphate conjugate accounts for 38% of the dose, and the glucuronide conjugate accounts for 14% of the dose.",
+    "toxicity": "Symptoms of overdose include CNS and gastrointestinal effects such as decreased activity, somnolence, tremor, convulsions, vomiting, and diarrhea. The minimal lethal intravenous dose in mice and rats is 100 mg/kg.",
+    "targets": [
+        [
+            "gyrA",
+            "DNA gyrase subunit A",
+            "Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)"
+        ],
+        [
+            "parC",
+            "DNA topoisomerase 4 subunit A",
+            "Haemophilus influenzae (strain ATCC 51907 / DSM 11121 / KW20 / Rd)"
+        ],
+        [
+            "TOP2A",
+            "DNA topoisomerase 2-alpha",
+            "Humans"
+        ],
+        [
+            "PON1",
+            "Serum paraoxonase/arylesterase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

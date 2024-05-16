@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA10235",
+    "drugbank_id": "DB00399",
+    "names": [
+        "Zoledronic acid"
+    ],
+    "description": "Zoledronic acid, or CGP 42'446,[A203120] is a third generation, nitrogen containing bisphosphonate similar to [ibandronic acid], [minodronic acid], and [risedronic acid].[A203111] Zoledronic acid is used to treat and prevent multiple forms of osteoporosis, hypercalcemia of malignancy, multiple myeloma, bone metastases from solid tumors, and Paget\u2019s disease of bone.[L13712,L13715,L13721] Zoledronic acid was first described in the literature in 1994.[A203120]\r\n\r\nZoledronic acid was granted FDA approval on 20 August 2001.[L13712]",
+    "indication": "Zoledronic acid is indicated to treat hypercalcemia of malignancy, multiple myeloma, bone metastases from solid tumors, osteoporosis in men and postmenopausal women, glucocorticoid induced osteoporosis, and Paget's disease of bone in men and women.[L13712,L13715,L13721] Zoledronic acid is also indicated for the prevention of osteoporosis in post menopausal women and glucocorticoid induced osteoporosis.[L13712,L13715,L13721]",
+    "pharmacodynamics": "Zoledronic acid is a third generation, nitrogen containing bisphosphonate that inhibits osteoclast function and prevents bone resorption.[A203111] The therapeutic window is wide as patients are unlikely to suffer severe effects from overdoses and the duration of action is long.[L13712,L13715,L13721] Patients should be counselled regarding the risk of electrolyte deficiencies, renal impairment, osteonecrosis of the jaw, atypical femoral fractures, bronchoconstriction, hepatic impairment, hypocalcemia, and embryo-fetal toxicity.[L13712,L13715,L13721]",
+    "mechanism-of-action": "Bisphosphonates are taken into the bone where they bind to hydroxyapatite. Bone resorption by osteoclasts causes local acidification, releasing the bisphosphonate, which is taken into the osteoclast by fluid-phase endocytosis.[A959] Endocytic vesicles become acidified, releasing bisphosphonates into the cytosol of osteoclasts where they act.[A959]\r\n\r\nOsteoclasts mediate resorption of bone.[A6366] When osteoclasts bind to bone they form podosomes, ring structures of F-actin.[A6366] Etidronic acid also inhibits V-ATPases in the osteoclast, though the exact subunits are unknown, preventing F-actin from forming podosomes.[A202229,A202247,A203360] Disruption of the podosomes causes osteoclasts to detach from bones, preventing bone resorption.[A6366]\r\n\r\nNitrogen containing bisphosphonates such as zoledronate are known to induce apoptosis of hematopoietic tumor cells by inhibiting the components of the mevalonate pathway farnesyl diphosphate synthase, farnesyl diphosphate, and geranylgeranyl diphosphate.[A202769,A203123] These components are essential for post-translational prenylation of GTP-binding proteins like Rap1.[A202769,A203123] The lack of prenylation of these proteins interferes with their function, and in the case of Rap1, leads to apoptosis.[A202769,A203123] zoledronate also activated caspases which further contribute to apoptosis.[A202769,A203123]",
+    "absorption": "A 4mg intravenous dose reaches a C<sub>max</sub> of 370\u00b178.5ng/mL, with a T<sub>max</sub> of 0.317\u00b10.014h, and an AUC of 788\u00b1181ng\\*h/mL.[A203099] A 5mg intravenous dose reaches a C<sub>max</sub> of 471\u00b176.1ng/mL, with a T<sub>max</sub> of 0.368\u00b10.005h, and an AUC of 917\u00b1226ng\\*h/mL.[A203099]",
+    "metabolism": "Zoledronic acid is not metabolized _in vivio_.[L13712,L13715,L13721]",
+    "toxicity": "Patients experiencing an overdose may present with renal impairment, hypocalcemia, hypophosphatemia, and hypomagnesemia.[L13712,L13715,L13721] Overdose should be managed through intravenous administration of the insufficient ions.[L13712,L13715,L13721]",
+    "targets": [
+        [
+            "GGPS1",
+            "Geranylgeranyl pyrophosphate synthase",
+            "Humans"
+        ],
+        [
+            "FDPS",
+            "Farnesyl pyrophosphate synthase",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

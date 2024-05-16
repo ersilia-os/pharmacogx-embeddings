@@ -1,0 +1,111 @@
+{
+    "pharmgkb_id": "PA450550",
+    "drugbank_id": "DB00295",
+    "names": [
+        "Morphine",
+        "Kapanol",
+        "MSIR",
+        "Oramorph"
+    ],
+    "description": "Morphine, the main alkaloid of opium, was first obtained from poppy seeds in 1805.[A176035] It is a potent analgesic, though its use is limited due to tolerance, withdrawal, and the risk of abuse.[A176050] Morphine is still routinely used today, though there are a number of semi-synthetic opioids of varying strength such as [codeine], [fentanyl], [methadone], [hydrocodone], [hydromorphone], [meperidine], and [oxycodone].\r\n\r\nMorphine was granted FDA approval in 1941.[L12114]",
+    "indication": "Morphine is used for the management of chronic, moderate to severe pain.[A176050]\r\n\r\nOpiods, including morphine, are effective for the short term management of pain. Patients taking opioids long term may need to be monitored for the development of physical dependence, addiction disorder, and drug abuse.[L5728]",
+    "pharmacodynamics": "Morphine binding to opioid receptors blocks transmission of nociceptive signals, signals pain-modulating neurons in the spinal cord, and inhibits primary afferent nociceptors to the dorsal horn sensory projection cells.[A176035]\r\n\r\nMorphine has a time to onset of 6-30 minutes.[A176035] Excess consumption of morphine and other opioids can lead to changes in synaptic neuroplasticity, including changes in neuron density, changes at postsynaptic sites, and changes at dendritic terminals.[A176056]\r\n\r\nIntravenous morphine's analgesic effect is sex dependent. The EC<sub>50</sub> in men is 76ng/mL and in women is 22ng/mL.[A176116]\r\n\r\nMorphine-6-glucuronide is 22 times less potent than morphine in eliciting pupil constriction.[A176116]",
+    "mechanism-of-action": "Morphine-6-glucuronide is responsible for approximately 85% of the response observed by morphine administration.[A176059] Morphine and its metabolites act as agonists of the mu and kappa opioid receptors.[A176035] The mu-opioid receptor is integral to morphine's effects on the ventral tegmental area of the brain. Morphine's activation of the reward pathway is mediated by agonism of the delta-opioid receptor in the nucleus accumbens,[A176050] while modification of the respiratory system and addiction disorder are mediated by agonism of the mu-opioid receptor.[A176056]",
+    "absorption": "Morphine is absorbed in the alkaline environments of the upper intestine and rectal mucosa.[A176119] The bioavailability of morphine is 80-100%.[A176164] There is significant first-pass metabolism, therefore oral doses are 6 times larger than parenteral doses to achieve the same effect. Morphine reaches steady-state concentrations after 24-48 hours.[A176035] Parenteral morphine has a T<sub>max</sub> of 15 minutes and oral morphine has a T<sub>max</sub> of 90 minutes, with a C<sub>max</sub> of 283nmol/L.[A176122,A176164] The AUC of morphine is 225-290nmol\\*h/L.[A176164]",
+    "metabolism": "Morphine is 90% metabolized by glucuronidation by UGT2B7 and sulfation at positions 3 and 6.[A176059] Morphine can also be metabolized to codeine, normorphine, and morphine ethereal sulfate.[A176119]",
+    "toxicity": "The LD<sub>50</sub> is 0.78\u00b5g/mL in males and 0.98\u00b5g/mL in females.[A176167]\r\n\r\nPatients experiencing an overdose present with respiratory depression, somnolence, skeletal muscle flaccidity, cold and clammy skin, miosis, and mydriasis. Symptoms of overdose can progress to pulmonary edema, bradycardia, hypotension, cardiac arrest, and death.[L12108] Treat overdose with symptomatic and supportive treatment which may include the use of oxygen, vasopressors, and naloxone.[L12108]",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "LY96",
+            "Lymphocyte antigen 96",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A8",
+            "UDP-glucuronosyltransferase 1-8",
+            "Humans"
+        ],
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferase 2B4",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00295",
+            "Drug Name": "Morphine",
+            "Gene Symbol": "ABCB1",
+            "RS ID (Genotype)": "rs1045642",
+            "Effect Description": "Patients with this genotype may have an increased analgesic response to morphine."
+        },
+        {
+            "DrugBank ID": "DB00295",
+            "Drug Name": "Morphine",
+            "Gene Symbol": "OPRM1",
+            "RS ID (Genotype)": "rs1799971",
+            "Effect Description": "Patients with this genotype may have an increased analgesic response to morphine."
+        }
+    ]
+}

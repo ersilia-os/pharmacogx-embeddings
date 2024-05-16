@@ -1,0 +1,96 @@
+{
+    "pharmgkb_id": "PA448033",
+    "drugbank_id": "DB06151",
+    "names": [
+        "Acetylcysteine",
+        "Fluimucil",
+        "Lysox",
+        "Mucolysin"
+    ],
+    "description": "Acetylcysteine is an antioxidant and glutathione inducer indicated for mucolytic therapy and the treatment of [acetaminophen] overdose.[L31378,L31383,L31388,L31478] Acetylcysteine has also been studied for a wide variety of off-label indications with mixed results.[A228158,A228163,A228168]\r\n\r\nAcetylcysteine was granted FDA approval on 14 September 1963.[L31488]",
+    "indication": "Acetylcysteine is indicated for mucolytic therapy and in the management of [acetaminophen] overdose.[L31378,L31383,L31388,L31478]",
+    "pharmacodynamics": "Acetylcysteine is indicated for mucolytic therapy and in the management of acetaminophen overdose.[L31378,L31383,L31388,L31478] It has a short duration of action as it is given every 1-8 hours depending on route of administration, and has a wide therapeutic window.[L31378,L31383,L31388,L31478] Patients should be counselled regarding diluting oral solutions in cola for taste masking,[A228153] the risk of hypersensitivity, and the risk of upper gastrointestinal hemorrhage.[L31378,L31383,L31388,L31478]",
+    "mechanism-of-action": "A number of possible mechanisms for the mucolytic activity of acetylcysteine have been proposed. Acetylcysteine's sulfhydryl groups may hydrolize disulfide bonds within mucin, breaking down the oligomers, and making the mucin less viscous.[A228173,L31388] Acetylcysteine has also been shown to reduce mucin secretion in rat models.[A228173] It is an antioxidant in its own right but is also deacetylated to cysteine, which participates in the synthesis of the antioxidant glutathione.[A228173] The antioxidant activity may also alter intracellular redox reactions, decreasing phosphorylation of EGFR and MAPK, which decrease transcription of the gene MUC5AC which produces mucin.[A228173]\r\n\r\nIn the case of acetaminophen overdoses, a portion of the drug is metabolized by CYP2E1 to form the potentially toxic metabolite N-acetyl-p-benzoquinone imine (NAPQI).[L31388] The amount of NAPQI produced in an overdose saturates and depletes glutathione stores.[L31388] The free NAPQI promiscuously binds to proteins in hepatocytes, leading to cellular necrosis.[L31388] Acetylcysteine can directly conjugate NAPQI or provide cysteine for glutathione production and NAPQI conjugation.[L31388]",
+    "absorption": "An 11 g dose in the form of an effervescent tablet for solution reaches a mean C<sub>max</sub> of 26.5 \u00b5g/mL, with a T<sub>max</sub> of 2 hours, and an AUC of 186 \u00b5g\\*h/mL.[L31478]",
+    "metabolism": "Acetylcysteine can be deacetylated by aminoacylase 1 or other undefined deacetylases before undergoing the normal metabolism of cysteine.[A228088,A18144]",
+    "toxicity": "Patients experiencing an overdose may present with vomiting, nausea, bronchospasm, periorbital angioedema, and hypotension.[A228098] Treat patients with symptomatic and supportive measures.[L31383] Hemodialysis may remove some acetylcysteine from circulation as it is somewhat protein bound.[L31383]",
+    "targets": [
+        [
+            "GSS",
+            "Glutathione synthetase",
+            "Humans"
+        ],
+        [
+            "SLC7A11",
+            "Cystine/glutamate transporter",
+            "Humans"
+        ],
+        [
+            "ACY1",
+            "Aminoacylase-1",
+            "Humans"
+        ],
+        [
+            "IKBKB",
+            "Inhibitor of nuclear factor kappa-B kinase subunit beta",
+            "Humans"
+        ],
+        [
+            "CHUK",
+            "Inhibitor of nuclear factor kappa-B kinase subunit alpha",
+            "Humans"
+        ],
+        [
+            "GRIN2B",
+            "Glutamate receptor ionotropic, NMDA 2B",
+            "Humans"
+        ],
+        [
+            "GRIN1",
+            "Glutamate receptor ionotropic, NMDA 1",
+            "Humans"
+        ],
+        [
+            "GRIN2A",
+            "Glutamate receptor ionotropic, NMDA 2A",
+            "Humans"
+        ],
+        [
+            "GRIN2D",
+            "Glutamate receptor ionotropic, NMDA 2D",
+            "Humans"
+        ],
+        [
+            "GRIN3A",
+            "Glutamate receptor ionotropic, NMDA 3A",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "ACY1",
+            "Aminoacylase-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

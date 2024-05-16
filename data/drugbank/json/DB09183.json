@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA166163411",
+    "drugbank_id": "DB09183",
+    "names": [
+        "Dasabuvir"
+    ],
+    "description": "Dasabuvir is a direct acting antiviral medication used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) such as Dasabuvir. Dasabuvir is a non-nucleoside NS5B inhibitor which binds to the palm domain of NS5B and induces a conformational change which renders the polymerase unable to elongate viral RNA [FDA Label]. The binding sites for non-nucleoside NS5B inhibitors are poorly conserved across HCV genotypes leading to the restriction of Dasabuvir's use to genotype 1 only.\r\n\r\nIn a joint recommendation published in 2016, the American Association for the Study of Liver Diseases (AASLD) and the Infectious Diseases Society of America (IDSA) recommend Dasabuvir as first line therapy in combination with [DB09296], [DB09297], and [DB00503] for genotype 1b and with [DB00811] for genotype 1a of Hepatitis C [L852]. Dasabuvir, [DB09296], [DB09297], [DB00503], and [DB00811] are used with the intent to cure, or achieve a sustained virologic response (SVR), after 12 weeks of therapy. SVR and eradication of HCV infection is associated with significant long-term health benefits including reduced liver-related damage, improved quality of life, reduced incidence of Hepatocellular Carcinoma, and reduced all-cause mortality [A19626].\r\n\r\nDasabuvir is available as a fixed dose combination product with [DB09296], [DB09297], and [DB00503] (tradename Viekira Pak) used for the treatment of chronic Hepatitis C. Approved in December 2014 by the FDA, Viekira Pak is indicated for the treatment of HCV genotype 1a with [DB00811] or genotype 1b without [DB00811] [FDA Label]. When combined together, Dasabuvir [DB09296], [DB09297], and [DB00503] as the combination product Viekira Pak have been shown to achieve a SVR of 100% for genotype 1b and 89% or 95% for genotype 1a after 12 weeks or 24 weeks of treatment including [DB00811].",
+    "indication": "Dasabuvir, in combination with [DB09296], [DB09297], and [DB00503] (as Viekira Pak) is indicated for the treatment of patients with HCV genotype 1a with [DB00811] or genotype 1b without [DB00811] including those with compensated cirrhosis [FDA Label].",
+    "pharmacodynamics": "Dasabuvir is classified as a direct-acting antiviral (DAA) and prevents viral replication in HCV genotype 1 [FDA Label].",
+    "mechanism-of-action": "Dasabuvir is a non-nucleoside inhibitor of the HCV RNA-dependent RNA polymerase encoded by the NS5B gene, which is essential for replication of the viral genome [FDA Label]. Based on drug resistance mapping studies of HCV genotypes 1a and 1b, dasabuvir targets the palm domain of the NS5B polymerase, and is therefore referred to as a non-nucleoside NS5B-palm polymerase inhibitor. The EC50 values of dasabuvir against genotype 1a-H77 and 1b-Con1 strains in HCV replicon cell culture assays were 7.7 nM and 1.8 nM, respectively.\r\n\r\n By binding to NS5b outside of the active site of the enzyme, dasabuvir induces a conformational change thereby preventing further elongation of the nascent viral genome [A19593, FDA Label]. A limitation of binding outside of the active site is that these binding sites are poorly preserved across the viral genotypes. This results in a limited potential for cross-genotypic activity and increased potential for development of resistance. Dasabuvir is therefore limited to treating genotypes 1a and 1b, and must be used in combination with other antiviral products. ",
+    "absorption": "Dasabuvir reaches peak plasma concentration 4 hours after administration [FDA Label]. The absolute bioavailability of Dasabuvir is 70%.",
+    "metabolism": "Dasabuvir is predominantly metabolized by CYP2C8, and to a lesser extent by CYP3A [FDA Label].",
+    "toxicity": "The most common adverse effects of Viekira Pak either in combination with or without [DB00811] were pruritus, nausea, insomnia, and asthenia [FDA Label].",
+    "targets": [
+        [
+            "NS5b",
+            "Nonstructural protein 5B (NS5B)",
+            null
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB5",
+            "ATP-binding cassette sub-family B member 5",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

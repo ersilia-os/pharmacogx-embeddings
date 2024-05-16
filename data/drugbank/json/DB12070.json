@@ -1,0 +1,127 @@
+{
+    "pharmgkb_id": "PA166184379",
+    "drugbank_id": "DB12070",
+    "names": [
+        "Letermovir"
+    ],
+    "description": "Letermovir recieved approval from the FDA on November 8th, 2017 for use in prophylaxis of cytomegalovirus (CMV) infection in allogeneic hematopoietic stem cell transplant patients.[L1021] It is the first of a new class of CMV anti-infectives called DNA terminase complex inhibitors.[A31290] Letermovir has recieved both priority and orphan drug status from the FDA. It is currently marketed under the brand name Prevymis.[L1021]",
+    "indication": "Letermovir is indicated for prophylaxis against cytomegalovirus (CMV) infection and disease in adult recipients of an allogeneic hematopoietic stem cell transplant (HSCT) who are CMV-seropositive.[L46807] It is also indicated for prophylaxis against CMV disease in adult kidney transplant recipients who are at risk (i.e. donor CMV-seropositive/recipient CMV-seronegative).[L46807]",
+    "pharmacodynamics": "Letermovir inhibits the activity of the DNA terminase complex of CMV thereby preventing the cutting of viral DNA into mature length genomes for packaging into viral particles.[L46807] Letemovir inhibits the DNA terminase complex with an EC50 of 2.1nM.",
+    "mechanism-of-action": "CMV relies on a DNA terminase complex consisting of multiple subunits (pUL51, pUL56, and pUL89) for processing of viral DNA. Viral DNA is produced in a single repeating strand which is then cut by the DNA terminase complex into individual viral genomes which can then be packaged into mature viral particles.[A31289] Letemovir inhibits the activity of this complex to prevent production of mature viral genomes and the production of viable viral particles. The exact nature of Letemovir's binding to this complex is not currently known. Initially, the observation of resistance-causing mutations in pUL56 suggested this subunit was the location of Letemovir binding.[A31290] However, resistance mutations have now been observed in pUL51, pUL56, and pUL89.[A31291] It is possible that changes in amino acid sequence in one subunit could result in conformational changes to interacting subunits affecting Letemovir binding or that Letemovir interacts with multiple subunits of the complex but evidence towards either of these distinctions has not yet been seen. pUL89 is known to contain the endonuclease activity of the complex but because all members of the complex are necessary for targeting as well as protection from proteosomal degradation, it is difficult to discern if Letemovir inhibits pUL89's activity directly.[A31292]",
+    "absorption": "Letermovir has a bioavailability of 94% in healthy subjects when administered without cyclosporin, 35% in HSCT recipients when administered without cyclosporin, and 85% in HSCT recipients when administered with cyclosporin.[L46807]\r\n\r\nLetermovir's Tmax is 45 min to 2.25 hours.[L46807] Time to steady state has been observed to be 9-10 days. \r\n\r\nTaking Letermovir with food increases Cmax by an average of 129.82% (range of 104.35%-161.50%).[L46807] No significant effect on AUC has been observed.",
+    "metabolism": "Letermovir undergoes a minor degree of metabolism through UGT1A1/1A3.[L46807]",
+    "toxicity": "There is no human data on the safety of Letemovir in pregnancy.[L46807] Embryo-fetal toxicity and malformations have been observed in rats at exposures 11 times the human exposure at the recommended human dose (RHD) of Letemovir. No such toxicity was noted in rats at 3 times human exposure at the RHD or in rabbits at values less than human exposure with the RHD. Total litter loss was observed in 21.7% of female rats at 2 times human exposure at RHD. This did not occur at values similar to human exposure at RHD.\r\n\r\nNo human data is available regarding lactation.[L46807] Letemovir has been observed in the milk of lactating rats and in the blood of their nursing pups.\r\n\r\nNo data is available concerning the effect of Letemovir on human fertility.[L46807] Testicular toxicity leading to reduced fertility has been observed in male rats.\r\n\r\nNo antidote exists for Letemovir overdosage.[L46807] The effectiveness of dialysis in clearing plasma of Letemovir is unknown.",
+    "targets": [
+        [
+            "TRM1",
+            "CMV DNA Terminase Complex",
+            "Human Cytomegalovirus"
+        ],
+        [
+            "TRM2",
+            "CMV DNA Terminase Complex",
+            "Human Cytomegalovirus"
+        ],
+        [
+            "TRM3",
+            "CMV DNA Terminase Complex",
+            "Human Cytomegalovirus"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A43",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A Subfamily",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

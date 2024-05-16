@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "PA450748",
+    "drugbank_id": "DB01192",
+    "names": [
+        "Oxymorphone"
+    ],
+    "description": "An opioid analgesic with actions and uses similar to those of morphine, apart from an absence of cough suppressant activity. It is used in the treatment of moderate to severe pain, including pain in obstetrics. It may also be used as an adjunct to anesthesia (From Martindale, The Extra Pharmacopoeia, 30th ed, p1092). On June 8, 2017, FDA requested Endo Pharmaceuticals to remove the medication from the market due to opioid misuse and abuse risks associated with the product's injectable reformulation.",
+    "indication": "For the treatment of moderate-to-severe pain.",
+    "pharmacodynamics": "Oxymorphone is a semi-synthetic opioid substitute for morphine. It is a potent analgesic. Opioid analgesics exert their principal pharmacologic effects on the CNS and the gastrointestinal tract. The principal actions of therapeutic value are analgesia and sedation. Opioids produce respiratory depression by direct action on brain stem respiratory centers. The mechanism of respiratory depression involves a reduction in the responsiveness of the brain stem respiratory centers to increases in carbon dioxide tension and to electrical stimulation.",
+    "mechanism-of-action": "Oxymorphone interacts predominantly with the opioid mu-receptor. These mu-binding sites are discretely distributed in the human brain, with high densities in the posterior amygdala, hypothalamus, thalamus, nucleus caudatus, putamen, and certain cortical areas. They are also found on the terminal axons of primary afferents within laminae I and II (substantia gelatinosa) of the spinal cord and in the spinal nucleus of the trigeminal nerve. Also, it has been shown that oxymorphone binds to and inhibits GABA inhibitory interneurons via mu-receptors. These interneurons normally inhibit the descending pain inhibition pathway. So, without the inhibitory signals, pain modulation can proceed downstream.",
+    "absorption": null,
+    "metabolism": "Oxymorphone undergoes extensive hepatic metabolism in humans. After a 10 mg oral dose, 49% was excreted over a five-day period in the urine. Of this, 82% was excreted in the first 24 hours after administration. The recovered drug-related products contained the oxymorphone (1.9%), the conjugate of oxymorphone (44.1%), the 6(beta)-carbinol produced by 6-keto reduction of oxymorphone (0.3%), and the conjugates of 6(beta)-carbinol (2.6%) and 6(alpha)-carbinol (0.1%).",
+    "toxicity": "Oxymorphone overdosage is characterized by respiratory depression, extreme somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, and sometimes bradycardia and hypotension. Patients experiencing an overdose may develop apnea, circulatory collapse, and cardiac arrest. Intravenous mouse LD<sub>50</sub> is 172 mg/kg.\r\n\r\n",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA451690",
+    "drugbank_id": "DB00373",
+    "names": [
+        "Timolol",
+        "Proflax",
+        "Tenopt",
+        "Timacar Depot",
+        "Timacor",
+        "Timoptol"
+    ],
+    "description": "Timolol is a nonselective beta-adrenergic antagonist given in an eye drop solution to reduce intraocular pressure, or pressure in the eyes.[L6724] It is also used in tablet form as a drug to treat hypertension.[L6727] Timolol was first approved by the FDA in 1978.[L6724] This drug is marketed by several manufacturers [L6736] and is an effective agent for the management of conditions such as open-angle glaucoma and hypertension.",
+    "indication": " Ophthalmic timolol is indicated for the treatment of increased intraocular pressure in patients with ocular hypertension or open-angle glaucoma. The oral form of this drug is used to treat high blood pressure.[L6724,L6727] In certain cases, timolol is used in the prevention of migraine headaches.[A179530,L6742] ",
+    "pharmacodynamics": "Timolol, when administered by the ophthalmic route, rapidly reduces intraocular pressure. When administered in the tablet form, it reduces blood pressure, heart rate, and cardiac output, and decreases sympathetic activity.[A179506,A179509,A179512,L6727]. This drug has a fast onset of action, usually occurring within 20 minutes of the administration of an ophthalmic dose. Timolol maleate can exert pharmacological actions for as long as 24 hours if given in the 0.5% or 0.25% doses.[L6757]\r\n\r\n",
+    "mechanism-of-action": "Timolol competes with adrenergic neurotransmitters for binding to beta(1)-adrenergic receptors in the heart and the beta(2)-receptors in the vascular and bronchial smooth muscle. This leads to diminished actions of catecholamines, which normally bind to adrenergic receptors and exert sympathetic effects leading to an increase in blood pressure and heart rate.[A179521] Beta(1)-receptor blockade by timolol leads to a decrease in both heart rate and cardiac output during rest and exercise, and a decrease in both systolic and diastolic blood pressure.[A179524,A179527] In addition to this, a reduction in reflex orthostatic hypotension may also occur. The blockade of beta(2) receptors by timolol in the blood vessels leads to a decrease in peripheral vascular resistance, reducing blood pressure.[L6724,L6727,L6733]\r\n\r\nThe exact mechanism by which timolol reduces ocular pressure is unknown at this time, however, it likely decreases the secretion of aqueous humor in the eye.[L6730] According to one study, the reduction of aqueous humor secretion may occur through the decreased blood supply to the ciliary body resulting from interference with the active transport system or interference with prostaglandin biosynthesis.[A179515]",
+    "absorption": "The systemic bioavailability of the ophthalmic eyedrop in one study of healthy volunteers was 78.0 \u00b1 24.5% [A179539], indicating that caution must be observed when this drug is administered, as it may be significantly absorbed and have various systemic effects. Another study measured the bioavailability of timolol eyedrops to be 60% in healthy volunteers.[A179548]\r\n\r\nThe peak concentration of ophthalmic timolol in plasma, Cmax was about 1.14 ng/ml in most subjects within 15 minutes following the administration of timolol by the ophthalmic route. The mean area under the curve (AUC) was about 6.46 ng/ml per hour after intravenous injection and about 4.78 ng/ml per hour following eyedrop administration.[A179539]",
+    "metabolism": "Timolol is metabolized in the liver by the cytochrome P450 2D6 enzyme, with minor contributions from CYP2C19.[A179551,L6724] 15-20% of a dose undergoes first-pass metabolism.[A179560] Despite its relatively low first pass metabolism, timolol is 90% metabolized.[A179560] Four metabolites of timolol have been identified, with a hydroxy metabolite being the most predominant.[A179551]",
+    "toxicity": "The oral LD50 for timolol maleate is 1028 mg/kg in the rat and 1137 mg/kg in the mouse.[MSDS]\r\n\r\nSymptoms of timolol overdose may include dizziness, headache, shortness of breath, bradycardia, in addition to bronchospasm. Sometimes, an overdose may lead to cardiac arrest. An overdose of timolol can be reversed with dialysis, however, patients with renal failure may not respond as well to dialysis treatment.[L6724]",
+    "targets": [
+        [
+            "ADRB1",
+            "Beta-1 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "E",
+            "Lysozyme",
+            "Enterobacteria phage T4"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

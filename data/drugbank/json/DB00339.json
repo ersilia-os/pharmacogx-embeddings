@@ -1,0 +1,42 @@
+{
+    "pharmgkb_id": "PA451182",
+    "drugbank_id": "DB00339",
+    "names": [
+        "Pyrazinamide",
+        "Piraldina",
+        "Prazina",
+        "Pyrafat",
+        "Pyrazide",
+        "Tebrazid",
+        "Tisamid"
+    ],
+    "description": "A pyrazine that is used therapeutically as an antitubercular agent.",
+    "indication": "For the initial treatment of active tuberculosis in adults and children when combined with other antituberculous agents.",
+    "pharmacodynamics": "Pyrazinamide kills or stops the growth of certain bacteria that cause tuberculosis (TB). It is used with other drugs to treat tuberculosis. It is a highly specific agent and is active only against <i>Mycobacterium tuberculosis</i>. In vitro and in vivo, the drug is active only at a slightly acid pH. Pyrazinamie gets activated to Pyrazinoic acid in the bacilli where it interferes with fatty acid synthase FAS I. This interferes with the bacteriums ability to synthesize new fatty acids, required for growth and replication.",
+    "mechanism-of-action": "Pyrazinamide diffuses into active _M. tuberculosis_ that express pyrazinamidase enzyme that converts pyrazinamide to the active form pyrazinoic acid. Pyrazinoic acid can leak out under acidic conditions to be converted to the protonated conjugate acid, which is readily diffused back into the bacilli and accumulate intracellularly. The net effect is that more pyrazinoic acid accumulates inside the bacillus at acid pH than at neutral pH. Pyrazinoic acid was thought to inhibit the enzyme fatty acid synthase (FAS) I, which is required by the bacterium to synthesise fatty acids. However, this theory was thought to have been discounted.[A512] However, further studies reproduced the results of FAS I inhibition as the putative mechanism first in whole cell assay of replicating M. tuberculosis bacilli which have shown that pyrazinoic acid and its ester inhibit the synthesis of fatty acids.[A513] This study was followed by in vitro assay of tuberculous FAS I enzyme that tested the activity with pyrazinamide, pyrazinoic acid and several classes of pyrazinamide analogs. Pyrazinamide and its analogs inhibited the activity of purified FAS I.[A514] \r\n\r\nIt has also been suggested that the accumulation of pyrazinoic acid disrupts membrane potential and interferes with energy production, necessary for survival of M. tuberculosis at an acidic site of infection. Pyrazinoic acid has also been shown to bind to the ribosomal protein S1 (RpsA) and inhibit trans-translation. This may explain the ability of the drug to kill dormant mycobacteria.[A515]",
+    "absorption": "Rapidly and well absorbed from the gastrointestinal tract.",
+    "metabolism": "Hepatic.",
+    "toxicity": "Side effects include liver injury, arthralgias, anorexia, nausea and vomiting, dysuria,malaise and fever, sideroblastic anemia, adverse effects on the blood clotting mechanism or vascular integrity, and hypersensitivity reactions such as urticaria, pruritis and skin rashes.",
+    "targets": [
+        [
+            "fas",
+            "Fatty acid synthetase",
+            "Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "AOX1",
+            "Aldehyde oxidase",
+            "Humans"
+        ],
+        [
+            "XDH",
+            "Xanthine dehydrogenase/oxidase",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,26 @@
+{
+    "pharmgkb_id": "PA450840",
+    "drugbank_id": "DB00859",
+    "names": [
+        "Penicillamine",
+        "Atamir"
+    ],
+    "description": "Penicillamine is a pharmaceutical of the chelator class. The pharmaceutical form is D-penicillamine, as L-penicillamine is toxic (it inhibits the action of pyridoxine). It is an \u03b1-amino acid metabolite of penicillin, although it has no antibiotic properties.",
+    "indication": "For treatment of Wilson's disease, cystinuria and active rheumatoid arthritis.",
+    "pharmacodynamics": "Penicillamine is a chelating agent used in the treatment of Wilson's disease. It is also used to reduce cystine excretion in cystinuria and to treat patients with severe, active rheumatoid arthritis unresponsive to conventional therapy. Penicillamine is used as a form of immunosuppression to treat rheumatoid arthritis. Penicillamine inhibits macrophages, decreases IL-1 and the number of T-lymphocytes, and prevents collagen cross linkage. In Wilson's disease it binds copper, allowing it to be eliminated in the urine.",
+    "mechanism-of-action": "Penicillamine is a chelating agent recommended for the removal of excess copper in patients with Wilson's disease. From in vitro studies which indicate that one atom of copper combines with two molecules of penicillamine. Penicillamine also reduces excess cystine excretion in cystinuria. This is done, at least in part, by disulfide interchange between penicillamine and cystine, resulting in formation of penicillamine-cysteine disulfide, a substance that is much more soluble than cystine and is excreted readily. Penicillamine interferes with the formation of cross-links between tropocollagen molecules and cleaves them when newly formed. The mechanism of action of penicillamine in rheumatoid arthritis is unknown although it appears to suppress disease activity. Unlike cytotoxic immunosuppressants, penicillamine markedly lowers IgM rheumatoid factor but produces no significant depression in absolute levels of serum immunoglobulins. Also unlike cytotoxic immunosuppressants which act on both, penicillamine in vitro depresses T-cell activity but not B-cell activity.",
+    "absorption": "rapidly but incompletely",
+    "metabolism": "Hepatic",
+    "toxicity": null,
+    "targets": null,
+    "enzymes": null,
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,43 @@
+{
+    "pharmgkb_id": "PA450767",
+    "drugbank_id": "DB00282",
+    "names": [
+        "Pamidronic acid",
+        "Aminomux",
+        "Pamimed",
+        "Ribodroat"
+    ],
+    "description": "Pamidronic acid is a second generation, nitrogen containing bisphosphonate similar to [neridronic acid] and [alendronic acid].[A203111] Pamidronic acid was first described in the literature in 1977.[A203267] The second generation bisphosphonates are less common as third generation bisphosphonates, such as [ibandronic acid], [zoledronic acid], [minodronic acid], and [risedronic acid] are becoming more popular.[A203111]\r\n\r\nPamidronic acid was granted FDA approval on 31 October 1991.[L13835]",
+    "indication": "Pamidronate is indicated to treat moderate to severe hypercalcemia of malignancy, moderate to severe Paget's disease of bone, osteolytic bone metastases of breast cancer, and osteolytic lesions of multiple myeloma.[L13838]",
+    "pharmacodynamics": "Pamidronic acid is a second generation, nitrogen containing bisphosphonate that inhibits osteoclast mediated bone loss[A203111,A959,L13838] It has a wide therapeutic index and a long duration of action as it can be given every 3-4 weeks for certain indications.[L13838] Patients should be counselled regarding the risk of elevated blood urea nitrogen, renal tubular necrosis, and nephrotoxicity.[L13838]",
+    "mechanism-of-action": "Bisphosphonates are taken into the bone where they bind to hydroxyapatite. Bone resorption by osteoclasts causes local acidification, releasing the bisphosphonate, which is taken into the osteoclast by fluid-phase endocytosis.[A959] Endocytic vesicles become acidified, releasing bisphosphonates into the cytosol of osteoclasts where they act.[A959]\r\n\r\nOsteoclasts mediate resorption of bone.[A6366] When osteoclasts bind to bone they form podosomes, ring structures of F-actin.[A6366] Disruption of the podosomes causes osteoclasts to detach from bones, preventing bone resorption.[A6366]\r\n\r\nNitrogen containing bisphosphonates such as pamidronate are known to induce apoptosis of hematopoietic tumor cells by inhibiting the components of the mevalonate pathway farnesyl diphosphate synthase, farnesyl diphosphate, and geranylgeranyl diphosphate.[A202769,A203123,A203111] These components are essential for post-translational prenylation of GTP-binding proteins like Rap1.[A202769,A203123] The lack of prenylation of these proteins interferes with their function, and in the case of Rap1, leads to apoptosis.[A202769,A203123] pamidronate also activated caspases 3 and 9 which further contribute to apoptosis.[A202769,A203123,A203177]",
+    "absorption": "In patients with a creatinine clearance >90mL/min, a 90mg intravenous dose reached a C<sub>max</sub> of 1.92\u00b11.08\u00b5g/mL, with a T<sub>max</sub> of 4h, and an AUC of 10.2\u00b16.95\u00b5g\\*h/mL.[A203264]\r\n\r\nIn patients with a creatinine clearance 61-90mL/min, a 90mg intravenous dose reached a C<sub>max</sub> of 1.86\u00b10.50\u00b5g/mL, with a T<sub>max</sub> of 4h, and an AUC of 10.7\u20143.91\u00b5g\\*h/mL.[A203264\r\n\r\nIn patients with a creatinine clearance 30-60mL/min, a 90mg intravenous dose reached a C<sub>max</sub> of 1.84\u00b10.58\u00b5g/mL, with a T<sub>max</sub> of 4h, and an AUC of 10.1\u00b13.38\u00b5g\\*h/mL.[A203264]\r\n\r\nIn patients with a creatinine clearance <30mL/min, a 90mg intravenous dose reached a C<sub>max</sub> of 1.93\u00b10.53\u00b5g/mL, with a T<sub>max</sub> of 4h, and an AUC of 34.0\u00b18.37\u00b5g\\*h/mL.[A203264]",
+    "metabolism": "Pamidronate is not metabolized _in vivo_.[L13838]",
+    "toxicity": "Patients experiencing and overdose may present with hypocalcemia, fever, hypotension, and taste perversion.[L13838] Overdose can be managed by symptomatic and supportive treatment which may include the administration of steroids and intravenous calcium.[L13838]",
+    "targets": [
+        [
+            "FDPS",
+            "Farnesyl pyrophosphate synthase",
+            "Humans"
+        ],
+        [
+            "GGPS1",
+            "Geranylgeranyl pyrophosphate synthase",
+            "Humans"
+        ],
+        [
+            "CASP3",
+            "Caspase-3",
+            "Humans"
+        ],
+        [
+            "CASP9",
+            "Caspase-9",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

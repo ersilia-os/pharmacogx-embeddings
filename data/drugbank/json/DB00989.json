@@ -1,0 +1,31 @@
+{
+    "pharmgkb_id": "PA451262",
+    "drugbank_id": "DB00989",
+    "names": [
+        "Rivastigmine",
+        "Exelon Patch"
+    ],
+    "description": "Rivastigmine is a parasympathomimetic or cholinergic agent for the treatment of mild to moderate dementia of the Alzheimer's type. Rivastigmine is a cholinesterase inhibitor that inhibits both butyrylcholinesterase and acetylcholinesterase.",
+    "indication": "For the treatment of mild to moderate dementia associated with Parkinson's disease or of the Alzheimer's type.",
+    "pharmacodynamics": "Rivastigmine is a parasympathomimetic and a reversible cholinesterase inhibitor. An early pathophysiological feature of Alzheimer's disease that is associated with memory loss and cognitive deficits is a deficiency of acetylcholine as a result of selective loss of cholinergic neurons in the cerebral cortex, nucleus basalis, and hippocampus. Tacrine is postulated to exert its therapeutic effect by enhancing cholinergic function. While the precise mechanism of rivastigmine's action is unknown, it is postulated to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase. If this proposed mechanism is correct, rivastigmine's effect may lessen as the disease progresses and fewer cholinergic neurons remain functionally intact.",
+    "mechanism-of-action": "Rivastigmine is a carbamate derivative that is structurally related to physostigmine, but not to donepezil and tacrine. The precise mechanism of rivastigmine has not been fully determined, but it is suggested that rivastigmine binds reversibly with and inactivates chlolinesterase (eg. acetylcholinesterase, butyrylcholinesterase), preventing the hydrolysis of acetycholine, and thus leading to an increased concentration of acetylcholine at cholinergic synapses. The anticholinesterase activity of rivastigmine is relatively specific for brain acetylcholinesterase and butyrylcholinesterase compared with those in peripheral tissues.",
+    "absorption": null,
+    "metabolism": "Rivastigmine is rapidly metabolized by cholinesterase-mediated hydrolysis.",
+    "toxicity": null,
+    "targets": [
+        [
+            "ACHE",
+            "Acetylcholinesterase",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

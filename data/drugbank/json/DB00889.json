@@ -1,0 +1,39 @@
+{
+    "pharmgkb_id": "PA449809",
+    "drugbank_id": "DB00889",
+    "names": [
+        "Granisetron",
+        "Kevatril",
+        "Sancuso",
+        "Sustol"
+    ],
+    "description": "A serotonin receptor (5HT-3 selective) antagonist that has been used as an antiemetic and antinauseant for cancer chemotherapy patients.",
+    "indication": "For the prevention of nausea and vomiting associated with initial and repeat courses of emetogenic cancer therapy (including high dose cisplatin), postoperation, and radiation (including total body irradiation and daily fractionated abdominal radiation).",
+    "pharmacodynamics": "Granisetron is a selective inhibitor of type 3 serotonergic (5-HT<sub>3</sub>) receptors. Granisetron has little or no affinity for other serotonin receptors, including 5-HT 1 , 5-HT 1A , 5-HT 1B/C , or 5-HT 2 ; for alpha 1 -, alpha 2 -, or beta-adrenoreceptors; for dopamine D 2 receptors; for histamine H 1 receptors; for benzodiazepine receptors; for picrotoxin receptors; or for opioid receptors. In most human studies, granisetron has had little effect on blood pressure, heart rate, or electrocardiogram (ECG). The drug is structurally and pharmacologically related to ondansetron, another selective inhibitor of 5-HT<sub>3</sub> receptors. The serontonin 5-HT<sub>3</sub> receptors are located on the nerve terminals of the vagus in the periphery, and centrally in the chemoreceptor trigger zone of the area postrema. The temporal relationship between the emetogenic action of emetogenic drugs and the release of serotonin, as well as the efficacy of antiemetic agents suggest that chemotherapeutic agents release serotonin from the enterochromaffin cells of the small intestine by causing degenerative changes in the GI tract. The serotonin then stimulates the vagal and splanchnic nerve receptors that project to the medullary vomiting center, as well as the 5-HT3 receptors in the area postrema, thus initiating the vomiting reflex, causing nausea and vomiting.",
+    "mechanism-of-action": "Granisetron is a potent, selective antagonist of 5-HT<sub>3</sub> receptors. The antiemetic activity of the drug is brought about through the inhibition of 5-HT3 receptors present both centrally (medullary chemoreceptor zone) and peripherally (GI tract). This inhibition of 5-HT3 receptors in turn inhibits the visceral afferent stimulation of the vomiting center, likely indirectly at the level of the area postrema, as well as through direct inhibition of serotonin activity within the area postrema and the chemoreceptor trigger zone.",
+    "absorption": "Absorption of is rapid and complete, though oral bioavailability is reduced to about 60% as a result of first pass metabolism.",
+    "metabolism": "Primarily hepatic; undergoes N -demethylation and aromatic ring oxidation followed by conjugation. Animal studies suggest that some of the metabolites may have 5-HT 3 receptor antagonist activity.",
+    "toxicity": "LD<sub>50</sub>&gt;2000 mg/kg (rat, oral)",
+    "targets": [
+        [
+            "HTR3A",
+            "5-hydroxytryptamine receptor 3A",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,139 @@
+{
+    "pharmgkb_id": "PA448515",
+    "drugbank_id": "DB00993",
+    "names": [
+        "Azathioprine",
+        "Azamun",
+        "Azanin",
+        "Imurek",
+        "Imurel"
+    ],
+    "description": "Azathioprine is a prodrug of 6-mercaptopurine, first synthesized in 1956 by Gertrude Elion, William Lange, and George Hitchings in an attempt to produce a derivative of 6-mercaptopurine with a better therapeutic index.[A189678,A189687,A189690] Azathioprine is used to treat inflammatory conditions like rheumatoid arthritis and as an immunosuppressant in the prevention of renal transplant rejection.[L11214]\r\n\r\nAzathiprine was granted FDA approval on 20 March 1968.[L11214]",
+    "indication": "Azathioprine is indicated to treat rheumatoid arthritis and prevent renal transplant rejection.[L11214]",
+    "pharmacodynamics": "Azathioprine is an immunosuppressive agent which functions through modulation of rac1 to induce T cell apoptosis, as well as other unknown immunosuppressive functions.[A19872] It has a long duration of action as it is given daily, and has a narrow therapeutic index.[L11214] Patients should be counselled regarding the risk of malignancies of the skin and lymphomas.[L11214]",
+    "mechanism-of-action": "Azathioprine's mechanism of action is not entirely understood but it may be related to inhibition of purine synthesis, along with inhibition of B and T cells.[A19872]\r\n\r\n6-thioguanine triphosphate, a metabolite of azathioprine, modulates activation of rac1 when costimulated with CD28, inducing T cell apoptosis.[A19872] This may be mediated through rac1's action on mitogen-activated protein kinase, NF-kappaB.[A19872]",
+    "absorption": "Oral azathioprine is well absorbed, with a T<sub>max</sub> of 1-2h.[L11214] Further data regarding the absorption of azathioprine is not readily available.[A189657,A189663]",
+    "metabolism": "Azathioprine is converted to 6-mercaptopurine nonenzymatically.[A14289] 6-mercaptopurine is then metabolized to 6-methylmercaptopurine by thiopurine methyltransferase, 6-thiouric acid by xanthine oxidase, or 6-thiosine-5'-monophosphate by hypoxanthine phosphoribosyltransferase.[A14289] 6-thiosine-5'-monophosphate is metabolized to 6-methylthiosine-5'-monophosphate by thiopurine methyltransferase or 6-thioxanthylic acid by inosine monophosphate dehydrogenase.[A14289] 6-thioxanthylic acid is metabolized by guanosine monophosphate synthetase to 6-thioguanine monophosphate, the first of the 6-thioguanine nucleotides.[A14289] 6-thioguanine monophosphate is phosphorylated to produce the remaining 6-thioguanine nucleotides, 6-thioguanine diphosphate and 6-thioguanine triphosphate.[A14289]",
+    "toxicity": "The oral LD<sub>50</sub> in mice is 2500mg/kg and in rats is 400mg/kg.[L11214]\r\n\r\nPatients experiencing an overdose may present with bone marrow hypoplasia, bleeding, and infection, which may progress to death.[L11214] Patients should be treated with supportive and symptomatic treatments. 8 hour hemodialysis may remove 45% of a dose from serum.[L11214]",
+    "targets": [
+        [
+            "RAC1",
+            "Ras-related C3 botulinum toxin substrate 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "HPRT1",
+            "Hypoxanthine-guanine phosphoribosyltransferase",
+            "Humans"
+        ],
+        [
+            "NUDT15",
+            "Nucleotide triphosphate diphosphatase NUDT15",
+            "Humans"
+        ],
+        [
+            "XDH",
+            "Xanthine dehydrogenase/oxidase",
+            "Humans"
+        ],
+        [
+            "TPMT",
+            "Thiopurine S-methyltransferase",
+            "Humans"
+        ],
+        [
+            "GSTA1",
+            "Glutathione S-transferase A1",
+            "Humans"
+        ],
+        [
+            "GSTA2",
+            "Glutathione S-transferase A2",
+            "Humans"
+        ],
+        [
+            "GSTM1",
+            "Glutathione S-transferase Mu 1",
+            "Humans"
+        ],
+        [
+            "IMPDH1",
+            "Inosine-5'-monophosphate dehydrogenase 1",
+            "Humans"
+        ],
+        [
+            "IMPDH2",
+            "Inosine-5'-monophosphate dehydrogenase 2",
+            "Humans"
+        ],
+        [
+            "GMPS",
+            "GMP synthase [glutamine-hydrolyzing]",
+            "Humans"
+        ],
+        [
+            "ITPA",
+            "Inosine triphosphate pyrophosphatase",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC29A2",
+            "Equilibrative nucleoside transporter 2",
+            "Humans"
+        ],
+        [
+            "SLC28A3",
+            "Solute carrier family 28 member 3",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC43A3",
+            "Solute carrier family 43 member 3",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00993",
+            "Drug Name": "Azathioprine",
+            "Gene Symbol": "TPMT",
+            "RS ID (Genotype)": "rs1800462",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of azathioprine resulting in increased toxicity."
+        },
+        {
+            "DrugBank ID": "DB00993",
+            "Drug Name": "Azathioprine",
+            "Gene Symbol": "TPMT",
+            "RS ID (Genotype)": "rs1800460",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of azathioprine resulting in increased toxicity."
+        },
+        {
+            "DrugBank ID": "DB00993",
+            "Drug Name": "Azathioprine",
+            "Gene Symbol": "TPMT",
+            "RS ID (Genotype)": "rs1142345",
+            "Adverse Reaction Description": "Patients with this genotype have reduced metabolism of azathioprine resulting in increased toxicity."
+        }
+    ]
+}

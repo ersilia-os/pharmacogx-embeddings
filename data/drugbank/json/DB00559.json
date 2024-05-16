@@ -1,0 +1,47 @@
+{
+    "pharmgkb_id": "PA10034",
+    "drugbank_id": "DB00559",
+    "names": [
+        "Bosentan"
+    ],
+    "description": "Bosentan is a dual endothelin receptor antagonist marketed under the trade name Tracleer by Actelion Pharmaceuticals. Bosentan is used to treat pulmonary hypertension by blocking the action of endothelin molecules that would otherwise promote narrowing of the blood vessels and lead to high blood pressure.",
+    "indication": "Used in the treatment of pulmonary arterial hypertension (PAH), to improve exercise ability and to decrease the rate of clinical worsening (in patients with WHO Class III or IV symptoms).",
+    "pharmacodynamics": "Bosentan belongs to a class of drugs known as endothelin receptor antagonists (ERAs). Patients with PAH have elevated levels of endothelin, a potent blood vessel constrictor, in their plasma and lung tissue. Bosentan blocks the binding of endothelin to its receptors, thereby negating endothelin's deleterious effects.",
+    "mechanism-of-action": "Endothelin-1 (ET-1) is a neurohormone, the effects of which are mediated by binding to ET<sub>A</sub> and ET<sub>B</sub> receptors in the endothelium and vascular smooth muscle. It displays a slightly higher affinity towards ET<sub>A</sub> receptors than ET<sub>B</sub> receptors. ET-1 concentrations are elevated in plasma and lung tissue of patients with pulmonary arterial hypertension, suggesting a pathogenic role for ET-1 in this disease. Bosentan is a specific and competitive antagonist at endothelin receptor types ET<sub>A</sub> and ET<sub>B</sub>.",
+    "absorption": "Absolute bioavailability is approximately 50% and food does not affect absorption.",
+    "metabolism": "Bosentan is metabolized in the liver by the cytochrome P450 enzymes CYP2C9 and CYP3A4 (and possibly CYP2C19), producing three metabolites, one of which, Ro 48-5033, is pharmacologically active and may contribute 10 to 20% to the total activity of the parent compound.",
+    "toxicity": "Bosentan has been given as a single dose of up to 2400 mg in normal volunteers, or up to 2000 mg/day for 2 months in patients, without any major clinical consequences. The most common side effect was headache of mild to moderate intensity. In the cyclosporine A interaction study, in which doses of 500 and 1000 mg b.i.d. of bosentan were given concomitantly with cyclosporine A, trough plasma concentrations of bosentan increased 30-fold, resulting in severe headache, nausea, and vomiting, but no serious adverse events. Mild decreases in blood pressure and increases in heart rate were observed. There is no specific experience of overdosage with bosentan beyond the doses described above. Massive overdosage may result in pronounced hypotension requiring active cardiovascular support.",
+    "targets": [
+        [
+            "EDNRB",
+            "Endothelin B receptor",
+            "Humans"
+        ],
+        [
+            "EDNRA",
+            "Endothelin-1 receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

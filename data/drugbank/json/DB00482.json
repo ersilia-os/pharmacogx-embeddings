@@ -1,0 +1,117 @@
+{
+    "pharmgkb_id": "PA448871",
+    "drugbank_id": "DB00482",
+    "names": [
+        "Celecoxib",
+        "Articox",
+        "Articoxib",
+        "Artiflex",
+        "Artilog",
+        "Artix",
+        "Artrixib",
+        "Blockten",
+        "Caditar",
+        "Cefinix",
+        "Celact",
+        "Celebra",
+        "Valdyne"
+    ],
+    "description": "Celecoxib, a selective cyclooxygenase-2 (COX-2) inhibitor, is a nonsteroidal anti-inflammatory drug (NSAID) which is known for its decreased risk of causing gastrointestinal bleeding compared to other NSAIDS.[A181544] It is used to manage symptoms of various types of arthritis pain and in familial adenomatous polyposis (FAP) to reduce precancerous polyps in the colon.[A181532] It is marketed by Pfizer under the brand name Celebrex, and was initially granted FDA approval in 1998.[L7604] \r\n\r\nInterestingly, selective COX-2 inhibitors (especially celecoxib), have been evaluated as potential cancer chemopreventive and therapeutic drugs in clinical trials for a variety of malignancies.[A34124]",
+    "indication": "Celecoxib is indicated for symptomatic treatment of adult osteoarthritis (OA) and adult rheumatoid arthritis (RA).[L7646] Celecoxib is not a substitute for aspirin for cardiovascular event prophylaxis.[L7646] \r\n\r\nIt may be also be used to treat acute pain from various sources, juvenile rheumatoid arthritis in children over 2, ankylosing spondylitis, and primary dysmenorrhea.[L7646]\r\n\r\nCelecoxib, in combination with [tramadol], is indicated for the management of acute pain in adults severe enough to require an opioid analgesic and in whom alternative treatments are inadequate.[L38949]",
+    "pharmacodynamics": "\r\nCelecoxib inhibits cyclooxygenase 2 (COX-2) enzyme, reducing pain and inflammation. It is important to note that though the risk of bleeding with celecoxib is lower than with certain other NSAIDS, it exists nonetheless and caution must be observed when it is administered to those with a high risk of gastrointestinal bleeding.[L7607]\r\n\r\n**A note on the risk of cardiovascular events**\r\n\r\nSignificant concerns regarding the safety of COX-2 selective NSAIDs emerged in the early 2000s. [Rofecoxib], another member of the COX-2 inhibitor drug class, also known as Vioxx, was withdrawn from the market due to prothrombotic cardiovascular risks.[L7622] Following an FDA Advisory Committee meeting in 2005, in which data from large clinical outcome trials were evaluated, the FDA concluded that the risk for cardiovascular thrombotic events for both COX-2 selective NSAIDs and nonselective NSAIDs was evident.[L3293] It was determined that the benefits of celecoxib treatment, however, outweighed the risks.[L7622] Postmarketing cardiovascular outcomes trial (PRECISION) revealed that the lowest possible dose of celecoxib was similar in cardiovascular safety to moderate strength doses of both naproxen and ibuprofen. Patients who had previous cardiovascular events including acute MI, coronary revascularization, or coronary stent insertion were not evaluated in the trial. It is not advisable to administer NSAIDS to these groups of patients.[L3293]\r\n",
+    "mechanism-of-action": "Unlike most NSAIDs, which inhibit both types of cyclooxygenases (COX-1 and COX-2), celecoxib is a selective noncompetitive inhibitor of cyclooxygenase-2 (COX-2) enzyme. COX-2 is expressed heavily in inflamed tissues where it is induced by inflammatory mediators.[L7646] The inhibition of this enzyme reduces the synthesis of metabolites that include prostaglandin E2 (PGE2), prostacyclin (PGI2), thromboxane (TXA2), prostaglandin D2 (PGD2), and prostaglandin F2 (PGF2). Resultant inhibition of these mediators leads to the alleviation of pain and inflammation.[A34124,L7646] \r\n\r\nBy inhibiting prostaglandin synthesis, non-steroidal anti-inflammatory drugs (NSAIDs) cause mucosal damage, ulceration and ulcer complication throughout the gastrointestinal tract.[L7646] Celecoxib poses less of an ulceration risk than other NSAIDS, owing to its decreased effect on gastric mucosal prostaglandin synthesis when compared to placebo.[A34152] \r\n\r\nCelecoxib exerts anticancer effects by binding to the cadherin-11 (CDH11)protein,  which is thought to be involved in the progression of tumors, and inhibiting the 3-phosphoinositide-dependent kinase-1 (PDK-1) signaling mechanism.[T647,A11861] In addition, celecoxib has been found to inhibit carbonic anhydrase enzymes 2 and 3, further enhancing its anticancer effects.[A28426,A20066]\r\n\r\nAs mentioned in the pharmacodynamics section of this drug entry, celecoxib may cause an increased risk of thrombotic events. The risk of thrombosis resulting from COX-2 inhibition is caused by the vasoconstricting actions of thromboxane A2, leading to enhanced platelet aggregation, which is uncontrolled when the actions of prostacyclin, a platelet aggregation inhibitor, are suppressed through the inhibition of COX-2.[L7622]",
+    "absorption": "Celecoxib is absorbed rapidly in the gastrointestinal tract.[A34124] When a single oral dose of 200 mg was given to healthy research subjects, the peak plasma levels of celecoxib occurred within 3 hours.[A34124,L7646] The Cmax is 705 ng/mL.[L3296] When multiple doses are given, steady-state concentrations are reached on or before day 5. When taken with a high-fat meal, peak plasma levels are delayed for about 1 to 2 hours with an increase in total absorption (AUC) of 10% to 20%.[L7646] The AUC of celecoxib has been shown to be significantly lower in patients with chronic renal impairment.[A4983,L7646] A meta-analysis of pharmacokinetic studies has suggested an approximately 40% higher AUC (area under the curve) of celecoxib in black patients compared to Caucasians for unknown reasons.[L3296]",
+    "metabolism": "A large part of celecoxib metabolism is mediated by cytochrome P450 2C9 in the liver with some contribution from CYP3A4 and CYP2C8 and possible contributions from CYP2D6.[A34124,A181379,A38563,T647] It is metabolized by biotransformation to carboxylic acid and glucuronide metabolites.[A4983] Three metabolites, a primary alcohol, a carboxylic acid, and a glucuronide conjugate, have been found in human plasma after celecoxib administration.[A34124] These are considered inactive metabolites in regards to COX enzyme inhibition. Patients who are known or suspected to have decreased cytochrome P450 2C9 activity or function, based on their previous history, should be administered celecoxib with caution as they may have abnormally high serum concentrations resulting from decreased metabolism celecoxib.[L7646]\r\n",
+    "toxicity": "The oral TDLo in humans 5.71 mg/kg.[L7610]\r\n\r\nIt is not advisable to administer celecoxib in patients with renal impairment or advanced hepatic impairment, as this may lead to increased serum concentrations, causing toxicity.[L7646] Symptoms of overdose may include breathing difficulties, coma, drowsiness, gastrointestinal bleeding, high blood pressure, kidney failure, nausea, sluggishness, stomach pain, and vomiting.[L3293] Because serious gastrointestinal tract ulceration and bleeding can occur without preceding symptoms, patients should be monitored for signs/symptoms of gastrointestinal bleeding. Symptomatic and supportive measures should be taken in a celecoxib overdose. The induction of emesis or administration of active charcoal should take place if the patient is seen within 4 hours of celecoxib ingestion. Diuresis, urinary alkalinization, hemodialysis, or hemoperfusion may not be useful in a celecoxib overdose due to its high level of protein binding.[L7646] \r\n\r\n",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "CA2",
+            "Carbonic anhydrase 2",
+            "Humans"
+        ],
+        [
+            "CA3",
+            "Carbonic anhydrase 3",
+            "Humans"
+        ],
+        [
+            "CDH11",
+            "Cadherin-11",
+            "Humans"
+        ],
+        [
+            "PDPK1",
+            "3-phosphoinositide-dependent protein kinase 1",
+            "Humans"
+        ],
+        [
+            "NEU1",
+            "Sialidase-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00482",
+            "Drug Name": "Celecoxib",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1057910",
+            "Effect Description": "Patients with this genotype have reduced metabolism of celecoxib."
+        }
+    ]
+}

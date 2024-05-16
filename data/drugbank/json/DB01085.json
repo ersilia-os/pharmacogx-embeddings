@@ -1,0 +1,66 @@
+{
+    "pharmgkb_id": "PA450962",
+    "drugbank_id": "DB01085",
+    "names": [
+        "Pilocarpine",
+        "Diocarpine",
+        "Miocarpine",
+        "Pilostat",
+        "Pilovisc",
+        "Timpilo"
+    ],
+    "description": "A naturally occurring alkaloid derived from the _Pilocarpus_ plants, pilocarpine is a muscarinic acetylcholine agonist.[A262016, A262036] Pilocarpine is associated with parasympathomimetic effects by selectively working on muscarinic receptors.[A262036] Pilocarpine is used to treat dry mouth and various ophthalmic conditions, including elevated intraocular pressure and glaucoma. The usage of glaucoma by pilocarpine dates back to 1875.[A262041]",
+    "indication": "Pilocarpine oral tablets are indicated for the treatment of dry mouth caused by Sjogren's Syndrome or radiotherapy for cancer of the head and neck.[L48566]\r\n\r\nPilocarpine ophthalmic formulations are used to treat presbyopia in adults,[L48556, L48631] reduce elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension, manage acute angle-closure glaucoma, prevent postoperative elevated IOP associated with laser surgery, and induce miosis.[L48561]",
+    "pharmacodynamics": "Pilocarpine is a muscarinic agent that mediates diaphoretic, miotic, and central nervous system effects. Pilocarpine stimulates the secretion of various exocrine glands, such as sweat, lacrimal, salivary, and gastrointestinal glands. Following oral administration, pilocarpine increased the mean salivary flow rate by 2- to lO-folds than placebo. Its peak levels were maintained for at least one to two hours.[A262036, L48556] Pilocarpine increases smooth muscle tone, contracts the pupillary and iris sphincter muscles, and induces miosis.[A262036, L48556, L48566, L48631]\r\n\r\nBecause pilocarpine may affect all five muscarinic receptor subtypes, it is associated with parasympathetic side effects.[A262016, A262041]",
+    "mechanism-of-action": "The muscarinic M3 receptor is expressed in various endocrine and exocrine glands, including the gastric and salivary glands.[A262041] It is also found in smooth muscle cells in pupillary sphincter and ciliary bodies. The M3 receptor is a G<sub>q</sub>-protein-coupled receptor that activates phospholipase C and upregulates inositol trisphosphate and intracellular calcium. M3 receptor activation has been implicated in smooth muscle contraction and the stimulation of salivary glands.[A262016] Pilocarpine is an agonist for M1 and M2 receptors,[A262041, A262086] and is a full and partial agonist at the M3 receptor.[A262016]",
+    "absorption": "Following oral administration of pilocarpine 5mg three times daily in healthy male subjects, peak plasma drug concentrations of 15\u03bcg/L were reached in 1.25 hours. At the dose of pilocarpine 10mg three times daily, peak plasma drug concentrations of 41\u03bcg/L were reached in 0.85 hours. The rate of absorption is increased when taken with food.[A262036]\r\n\r\nFollowing ophthalmic administration in healthy subjects, the overall median T<sub>max</sub> was 2.2 hours. The mean (SD) C<sub>max</sub> and AUC<sub>0-t</sub> were 897.2 (287.2) pg/mL and 2699 (741.4) hr x pg/mL, respectively.[L48556] In patients with presbyopia, the mean C<sub>max</sub> and AUC<sub>0-t,ss</sub> values were 1.95 ng/mL and 4.14 ng x hr/mL, respectively. The median T<sub>max</sub> was 0.3 hours postdose with a range from 0.2 to 0.5 hours post-dose.[L48631]",
+    "metabolism": "There is limited information available about the metabolism of pilocarpine in humans. Inactivation of pilocarpine can occur at neuronal synapses and probably in plasma.[L48566] Pilocarpine is reported to undergo CYP2A6-mediated 3-hydroxylation to form stereoisomers of 3-hydroxypilocaripine.[A262091] Pilocaripine also undergoes hydrolysis mediated by paraoxonase 1, a calcium-dependent esterase in plasma and the human liver.[A262091] Pilocarpic acid is a possible metabolic product of hydrolysis.[A184409] Pilocarpine metabolites are reported to possess negligible or no pharmacological activity.[L48566]",
+    "toxicity": "The oral LD<sub>50</sub> value in mice for pilocarpine hydrochloride are 200 mg/kg. The intraperitoneal and subcutaneous LD<sub>50</sub> values in rats for pilocarpine hydrochloride are 203 mg/kg and 230 mg/kg, respectively.[L48721]\r\n\r\n\r\nOverdosage can produce sweating, salivation, nausea, tremors, slowing of the pulse, and decreased blood pressure.[L48561] Fatal overdosage with pilocarpine has been reported in the scientific literature at doses presumed to be greater than 100 mg. Severe overdosage should be treated with titrated atropine (0.5 mg to 1.0 mg given subcutaneously or intravenously), which is a muscarinic antagonist. Supportive measures should be initiated to maintain respiration and circulation. Epinephrine (0.3 mg to 1.0 mg, subcutaneously or intramuscularly) may also be used in response to severe cardiovascular depression or bronchoconstriction. It is not known if pilocarpine is dialyzable.[L48566] Systemic toxicity following ophthalmic use of pilocarpine is rare, but some patients may experience sweating and gastrointestinal overactivity at therapeutic doses.[L48561] ",
+    "targets": [
+        [
+            "CHRM3",
+            "Muscarinic acetylcholine receptor M3",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "CHRM2",
+            "Muscarinic acetylcholine receptor M2",
+            "Humans"
+        ],
+        [
+            "CHRM4",
+            "Muscarinic acetylcholine receptor M4",
+            "Humans"
+        ],
+        [
+            "CHRM5",
+            "Muscarinic acetylcholine receptor M5",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "PON1",
+            "Serum paraoxonase/arylesterase 1",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

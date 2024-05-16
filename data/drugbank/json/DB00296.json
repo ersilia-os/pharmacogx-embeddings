@@ -1,0 +1,47 @@
+{
+    "pharmgkb_id": "PA451271",
+    "drugbank_id": "DB00296",
+    "names": [
+        "Ropivacaine"
+    ],
+    "description": "Ropivacaine is an aminoamide local anesthetic drug marketed by AstraZeneca under the trade name Naropin. It exists as a racemate of its S- and R-enantiomers, although the marketed form is supplied only as the purified S-enantiomer.[L42140]",
+    "indication": "Ropivacaine is indicated in adult patients for the induction of regional or local anesthesia for surgery or acute pain management.[L42140]",
+    "pharmacodynamics": "In contrast to most other local anesthetics, the presence of [epinephrine] does not affect the time of onset, duration of action, or the systemic absorption of ropivacaine.[L42140]",
+    "mechanism-of-action": "Local anesthetics like ropivacaine block the generation and conduction of nerve impulses, presumably by increasing the threshold for electrical excitation in the nerve, by slowing the propagation of the nerve impulse, and by reducing the rate of rise of the action potential. Specifically, they block the sodium channel and decrease chances of depolarization and consequent action potentials. In general, the progression of anesthesia is related to the diameter, myelination, and conduction velocity of affected nerve fibers.",
+    "absorption": "Ropivacaine pharmacokinetics are highly dependent on the dose, route of administration, and patient condition. Following epidural administration ropivacaine undergoes complete and biphasic absorption.[L42140]",
+    "metabolism": "Ropivacaine undergoes extensive metabolism, primarily via CYP1A2-mediated aromatic hydroxylation to 3-OH-ropivacaine.[L42140] The main metabolites excreted in the urine are the N-dealkylated metabolite (PPX) and 3-OH-ropivacaine. Other identified metabolites include 4-OH-ropivacaine, the 3-hydroxy-N-dealkylated (3-OH-PPX) and 4-hydroxy-N-dealkylated (4-OH-PPX) metabolites, and 2-hydroxy-methyl-ropivacaine (which has been identified but not quantified).[L42140]\r\n\r\nUnbound PPX, 3-hydroxy-, and 4-hydroxy-ropivacaine have demonstrated pharmacological activity in animal models less than that of ropivacaine.[L42140]",
+    "toxicity": "High systemic doses of ropivacaine can result in central nervous system (CNS) and cardiovascular effects, with the CNS effects usually occurring at lower blood plasma concentrations and additional cardiovascular effects occurring at higher concentrations (although cardiovascular collapse may occur at lower concentrations). CNS effects include CNS excitation involving nervousness, tingling around the mouth, tinnitus, tremor, dizziness, blurred vision, and seizures. CNS depressant effects may follow, associated with drowsiness, loss of consciousness, respiratory depression and apnea. Cardiovascular events may be caused by hypoxemia secondary to respiratory depression and include hypotension, bradycardia, arrhythmias, and/or cardiac arrest.[L42140,L42265]",
+    "targets": [
+        [
+            "SCN10A",
+            "Sodium channel protein type 10 subunit alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

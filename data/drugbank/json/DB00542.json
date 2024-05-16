@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA448561",
+    "drugbank_id": "DB00542",
+    "names": [
+        "Benazepril",
+        "Briem",
+        "Cibacen",
+        "Cibacen WS",
+        "Cibacene"
+    ],
+    "description": "Benazepril, brand name Lotensin, is a medication used to treat high blood pressure (hypertension), congestive heart failure, and chronic renal failure[A838,A837]. Upon cleavage of its ester group by the liver, benazepril is converted into its active form benazeprilat, a non-sulfhydryl angiotensin-converting enzyme (ACE) inhibitor[A836].",
+    "indication": "Benazepril is indicated for the treatment of hypertension[A840]. It may be used alone or in combination with thiazide diuretics[FDA Label].",
+    "pharmacodynamics": "Benazepril, an angiotensin-converting enzyme (ACE) inhibitor, is a prodrug which, when hydrolyzed by esterases to its active Benazeprilat[A836], is used to treat hypertension and heart failure, to reduce proteinuria and renal disease in patients with nephropathies, and to prevent stroke, myocardial infarction, and cardiac death in high-risk patients[A840,A838,A837]. Benazepril and Benazeprilat inhibit angiotensin-converting enzyme (ACE) in human subjects and animals[A840,A836]. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II[FDA Label]. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex[FDA Label].",
+    "mechanism-of-action": "Benazeprilat, the active metabolite of Benazepril, competes with angiotensin I for binding at the angiotensin-converting enzyme, blocking the conversion of angiotensin I to angiotensin II[FDA Label]. Inhibition of ACE results in decreased plasma angiotensin II[FDA Label]. As angiotensin II is a vasoconstrictor and a negative-feedback mediator for renin activity, lower concentrations result in a decrease in blood pressure and stimulation of baroreceptor reflex mechanisms, which leads to decreased vasopressor activity and to decreased aldosterone secretion[FDA Label].",
+    "absorption": "Bioavailability of oral dosing is 3% to 4% in horses[A176450]. In humans at least 37% of oral benazepril is absorbed and reaches peak plasma concentration in 0.5 hours to 1 hour[A176453]. Other studies have shown a peak plasma concentration at a median of 1.5 hours[A836].",
+    "metabolism": "Cleavage of the ester group (primarily in the liver) converts benazepril to its active metabolite, benazeprilat[FDA Label]. Benazepril and benazeprilat are conjugated to glucuronic acid prior to urinary excretion[FDA Label].",
+    "toxicity": "The most common adverse effects include headache, dizziness, fatigue, somnolence, postural dizziness, nausea, and cough[FDA Label,A839].\r\n\r\nThe most likely symptom of overdosage is severe hypotension[FDA Label].",
+    "targets": [
+        [
+            "ACE",
+            "Angiotensin-converting enzyme",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "MTHFR",
+            "Methylenetetrahydrofolate reductase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "SLC15A2",
+            "Solute carrier family 15 member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

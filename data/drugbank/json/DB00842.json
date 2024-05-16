@@ -1,0 +1,181 @@
+{
+    "pharmgkb_id": "PA450731",
+    "drugbank_id": "DB00842",
+    "names": [
+        "Oxazepam",
+        "Adumbran",
+        "Alepam",
+        "Alopam",
+        "Anxiolit",
+        "Durazepam",
+        "Limbial",
+        "Medopam",
+        "Murelax",
+        "Noripam",
+        "Opamox",
+        "Ox-Pam",
+        "Oxascand",
+        "Praxiten",
+        "Purata",
+        "Serax",
+        "Serenal",
+        "Serenid",
+        "Serepax",
+        "Seresta",
+        "Serpax",
+        "Sobril",
+        "Tazepam",
+        "Vaben",
+        "Zaxpam"
+    ],
+    "description": "Oxazepam is an intermediate-acting, 3-hydroxybenzodiazepine used in the treatment of alcohol withdrawal and anxiety disorders. Oxazepam, like related 3-hydroxybenzodiazepine [lorazepam], is considered less susceptible to pharmacokinetic variability based on patient-specific factors (e.g. age, liver disease) - this feature is advantageous as compared to other benzodiazepines, and is likely owing in part to oxazepam's relatively simple metabolism.[A203516] It is an active metabolite of both [diazepam] and [temazepam][A39486] and undergoes very little biotransformation following absorption, making it unlikely to participate in pharmacokinetic interactions.[L13895]",
+    "indication": "Oxazepam is indicated for the management of anxiety disorders and for the short-term relief of symptoms of anxiety.[L13895] It may also be used in the management of alcohol withdrawal symptoms.[L13895]",
+    "pharmacodynamics": "Benzodiazepines, including oxazepam, exert their sedative and anxiolytic effects by potentiating the effects of endogenous GABA, the primary inhibitory neurotransmitter in the CNS.[A34430] Compared to other benzodiazepines, it has relatively low potency and a moderate duration of action.[A34430] Oxazepam should be administered with caution to patients for whom a drop in blood pressure may lead to cardiac complications as, in rare cases, it may cause hypotension.[L13895]",
+    "mechanism-of-action": "Like other benzodiazepines, oxazepam exerts its anxiolytic effects by potentiating the effect of gamma-aminobutyric acid (GABA) on GABA(A) receptors, the main inhibitory neurotransmitter receptors in the mammalian brain.[A198957] GABA(A) receptors are a component of GABA-gated ionotropic chloride channels that produce inhibitory postsynaptic potentials - following activation by GABA, the channel undergoes a conformational change that allows the passage of chloride ions through the channel. The inhibitory potentials produced by GABA neurotransmission play an integral role in the suppression and control of epileptiform nerve firing such as that seen in epilepsy, which makes the GABA system a desirable target in the treatment of epilepsy.\r\n\r\nBenzodiazepines are positive allosteric modulators of GABA(A) function. They bind to the interface between alpha (\u03b1) and gamma (\u03b3) subunits on the receptor, commonly referred to as the benzodiazepine binding site, and modulate the receptor such that its inhibitory response to GABA binding is dramatically increased.[A198957]",
+    "absorption": "Following oral administration, peak plasma levels (C<sub>max</sub>) averaged 450 mg/mL and occurred approximately 3 hours (T<sub>max</sub>) after dosing.[L13895]",
+    "metabolism": "Oxazepam has a single major inactive metabolite, a glucuronide conjugate.[L13895] The glucuronidation of the S-isomer is catalyzed by UGT2B15. The glucuronidation of the R-isomer is catalyzed by UGT2B7 and UGT1A9.[A18016]",
+    "toxicity": "The oral LD<sub>50</sub> in rats and mice is >8000 mg/kg and 1540 mg/kg, respectively.[L13904]\r\n\r\nSymptoms of oxazepam overdose are likely to be consistent with its adverse effect profile and range from mild to severe, sometimes fatal, CNS depression.[L13895] Treatment should include gastric decontamination, via lavage or induced vomiting, followed by symptomatic and supportive measures. The benzodiazepine antagonist [flumazenil] may be used in hospitalized patients as an adjunct to non-pharmacological management, but may increase the risk of seizure in long-term benzodiazepine users and in cyclic antidepressant overdose.[L13895]",
+    "targets": [
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT2B15",
+            "UDP-glucuronosyltransferase 2B15",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

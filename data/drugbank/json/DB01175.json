@@ -1,0 +1,156 @@
+{
+    "pharmgkb_id": "PA10074",
+    "drugbank_id": "DB01175",
+    "names": [
+        "Escitalopram",
+        "Cipralex",
+        "Esertia"
+    ],
+    "description": "Escitalopram is a selective serotonin re-uptake inhibitor (SSRI) and the S-enantiomer of racemic [citalopram].[A185420] It is used to restore serotonergic function in the treatment of depression and anxiety.[L8513,L8516,L8522] Escitalopram is approximately 150 times more potent than citalopram\u2019s R-enantiomer and is responsible for the vast majority of citalopram\u2019s clinical activity, with some evidence suggesting that the R-enantiomer of racemic citalopram actively dampens the activity of escitalopram rather than existing simply as an inactive enantiomer.[A39738,A185819] Amongst SSRIs, escitalopram exerts the highest degree of selectivity for the serotonin transporter (SERT) relative to other off-targets which may explain its lower rates of adverse effects as compared to other agents in this class.[A185726] Escitalopram also differentiates itself from other SSRIs via allosteric action on its target - this may be the mechanism responsible for its observed superior efficacy and faster onset compared to other SSRIs.[A185825,A185726,A185822]",
+    "indication": "Escitalopram is indicated for the acute and maintenance treatment of major depressive disorder (MDD) in adults and pediatric patients 12 years old and older and for the acute treatment of generalized anxiety disorder (GAD) in adults and pediatric patients 7 years old and older.[L8513,L8513] It is additionally indicated for symptomatic relief of obsessive-compulsive disorder (OCD) in Canada.[L8516]",
+    "pharmacodynamics": "Escitalopram belongs to a class of medications called selective serotonin re-uptake inhibitors (SSRIs). These agents cause an increase in serotonin levels in neuronal synapses by preventing the re-uptake of serotonin (5-HT) into the presynaptic terminals of serotonergic neurons.[A185420,A39738,L8513,L8516] As compared to other SSRIs, it appears to have a relatively quick onset of effect due to its potency.[A185819,A185822]\r\n\r\nSSRIs as a class have been associated with abnormal bleeding, particularly in patients receiving concomitant therapy with other medications affecting hemostasis, and with the development of serotonin syndrome. Use escitalopram with caution in patients with a higher-than-baseline risk of bleeding and in patients receiving concomitant therapy with other serotonergic drugs. Escitalopram may also cause a discontinuation syndrome with abrupt removal of the drug, and should be slowly tapered if discontinuation of therapy is warranted.[L8513,L8516,L8522]",
+    "mechanism-of-action": "Escitalopram, like other selective serotonin re-uptake inhibitors, enhances serotonergic activity by binding to the orthosteric (i.e. primary) binding site on the serotonin transporter (SERT), the same site to which endogenous 5-HT binds, and thus prevents the re-uptake of serotonin into the presynaptic neuron.[A185420,A39738,A185726] Escitalopram, along with [paroxetine], is also considered an allosteric serotonin re-uptake inhibitor - it binds to a secondary allosteric site on the SERT molecule to more strongly inhibit 5-HT re-uptake. Its combination of orthosteric and allosteric activity on SERT allows for greater extracellular 5-HT levels, a faster onset of action, and greater efficacy as compared to other SSRIs. [A185825,A185726] The sustained elevation of synaptic 5-HT eventually causes desensitization of 5-HT<sub>1A</sub> auto-receptors, which normally shut down endogenous 5-HT release in the presence of excess 5-HT - this desensitization may be necessary for the full clinical effect of SSRIs and may be responsible for their typically prolonged onset of action.[A185828,A185726]\r\n\r\nEscitalopram has shown little-to-no binding affinity at a number of other receptors, such as histamine and muscarinic receptors, and minor activity at these off-targets may explain some of its adverse effects.[L8513,L8516,L8522,A185726]",
+    "absorption": "Absorption of escitalopram following oral administration is expected to be almost complete, with an estimated absolute bioavailability of approximately 80%. T<sub>max</sub> occurs after about 4-5 hours.[L8513,L8516,L8522] C<sub>max</sub> and AUC appear to follow dose proportionality - at steady state, patients receiving 10mg of escitalopram daily had a C<sub>max</sub> of 21 ng/mL and a 24h AUC of approximately 360 ng*h/mL, while patients receiving 30mg daily had a roughly 3-fold increase in both C<sub>max</sub> and 24h AUC, comparatively.[A39738]",
+    "metabolism": "The metabolism of escitalopram is mainly hepatic, mediated primarily by CYP2C19 and CYP3A4 and, to a lesser extent, CYP2D6. Oxidative N-demethylation by the CYP enzyme system results in S-desmethylcitalopram (S-DCT) and S-didesmethylcitalopram (S-DDCT) - these metabolites do not contribute to the pharmacologic activity of escitalopram, and exist in the plasma in small quantities relative to the parent compound (28-31% and <5%, respectively).[L8513,L8516,L8522]\r\n\r\nThere is also some evidence that escitalopram is metabolized to a propionic acid metabolite by monoamine oxidase A and B in the brain, and that these enzymes constitute the major route of escitalopram metabolism in the brain.[A39738]",
+    "toxicity": "Symptoms of overdose may include CNS effects (dizziness, convulsions, coma, somnolence), gastrointestinal distress (nausea, vomiting), and/or cardiac abnormalities (hypotension, tachycardia, ECG changes).[L8513,L8516,L8522] There is no specific antidote for escitalopram overdose. Management of overdose should focus on monitoring for cardiac abnormalities and changes to vital signs as well as treatment with supportive measures as indicated. As escitalopram is highly distributed into tissue following oral administration, forced diuresis, dialysis, and other methods of extracting drug from plasma are unlikely to be beneficial.",
+    "targets": [
+        [
+            "SLC6A4",
+            "Sodium-dependent serotonin transporter",
+            "Humans"
+        ],
+        [
+            "CHRM1",
+            "Muscarinic acetylcholine receptor M1",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2B",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2 adrenergic receptors",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "SLC6A2",
+            "Sodium-dependent noradrenaline transporter",
+            "Humans"
+        ],
+        [
+            "SLC6A3",
+            "Sodium-dependent dopamine transporter",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ],
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ],
+        [
+            "AOX1",
+            "Aldehyde oxidase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB01175",
+            "Drug Name": "Escitalopram",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4244285",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with poor metabolism of escitalopram."
+        },
+        {
+            "DrugBank ID": "DB01175",
+            "Drug Name": "Escitalopram",
+            "Gene Symbol": "CYP2C19",
+            "RS ID (Genotype)": "rs4986893",
+            "Effect Description": "The presence of this polymorphism in CYP2C19 is associated with reduced or poor metabolism of escitalopram."
+        },
+        {
+            "DrugBank ID": "DB01175",
+            "Drug Name": "Escitalopram",
+            "Gene Symbol": "SLC6A4",
+            "RS ID (Genotype)": "rs25531",
+            "Adverse Reaction Description": "The presence of this polymorphism in SLC6A4 may potentially be associated with increased risk of adverse events from escitalopram."
+        }
+    ]
+}

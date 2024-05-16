@@ -1,0 +1,114 @@
+{
+    "pharmgkb_id": "PA449688",
+    "drugbank_id": "DB01095",
+    "names": [
+        "Fluvastatin",
+        "Canef",
+        "Cranoc"
+    ],
+    "description": "Fluvastatin is an antilipemic agent that competitively inhibits hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase. HMG-CoA reductase catalyzes the conversion of HMG-CoA to mevalonic acid, the rate-limiting step in cholesterol biosynthesis. Fluvastatin belongs to a class of medications called statins and is used to reduce plasma cholesterol levels and prevent cardiovascular disease. It is also the first entirely synthetic HMG-CoA reductase inhibitor and is structurally distinct from the fungal derivatives of this therapeutic class. Fluvastatin is a racemate comprising equimolar amounts of (3R,5S)- and (3S,5R)-fluvastatin.",
+    "indication": "To be used as an adjunct to dietary therapy to prevent cardiovascular events. May be used as secondary prevention in patients with coronary heart disease (CHD) to reduce the risk of requiring coronary revascularization procedures, for reducing progression of coronary atherosclerosis in hypercholesterolemic patients with CHD, and for the treatment of primary hypercholesterolemia and mixed dyslidipidemia. ",
+    "pharmacodynamics": "Fluvastatin, the first synthetically-derived HMG-CoA reductase inhibitor, is a hydrophilic, acidic, antilipemic agent used to lower cholesterol and triglyceride levels associated with primary hypercholesterolemia and mixed dyslipidemia (Fredrickson types IIa and IIb), to slow the progression of coronary atherosclerosis in patients with CHD and as secondary prevention therapy in patients with CHD to reduce the risk of requiring coronary revascularization procedures. Although similar to lovastatin, simvastatin, and pravastatin, fluvastatin has a shorter half-life, no active metabolites, extensive protein binding, and minimal CSF penetration. Fluvastatin acts primarily in the liver. It is prepared as a racemate of two erythro enantiomers of which the 3R,5S enantiomer exerts the pharmacologic effect. ",
+    "mechanism-of-action": "Fluvastatin selectively and competitively inhibits the hepatic enzyme hydroxymethylglutaryl-coenzyme A (HMG-CoA) reductase. HMG-CoA reductase is responsible for converting HMG-CoA to mevalonate, the rate-limiting step in cholesterol biosynthesis. Inhibition results in a decrease in hepatic cholesterol levels which stimulates the synthesis of LDL receptors and increases hepatic uptake of LDL cholesterol. The end result is decreased levels of plasma total and LDL cholesterol. ",
+    "absorption": "Rapidly and almost completely absorbed (> 90%), but undergoes extensive first pass metabolism. Bioavailability is 24% (range 9-50%) when a 10 mg dose is given. The mean relative bioavailability of the extended-release tablet is 29% (range: 9% to 66%) compared to an immediate-release capsule administered under fasting conditions. When given orally, fluvastatin reaches peak concentrations (Tmax) in less than one hour.  Taking the extended release tablet with a high-fat meal will delay absorption (Tmax = 6 hours) and increase bioavailability by approximately 50%. However, the maximum concentration of fluvastatin sodium extended-release tablets seen after a high fat meal is less than the peak concentration following a single dose or twice daily dose of the 40 mg fluvastatin capsule.",
+    "metabolism": "Undergoes hepatic metabolism primarily via hydroxylation of the indole ring at the 5- and 6-positions to 5-hydroxy fluvastatin and 6-hydroxy fluvastatin, respectively. N-dealkylation to N-desisopropyl fluvastatin and beta-oxidation of the side chain also occurs. Metabolized primarily by the CYP2C9 isozyme system (75%), and to a lesser extent by CYP3A4 (~20%) and CYP2C8 (~5%). Hydroxylated metabolites retain some pharmcological activity, but are present as conjugates (glucuronides and sulfates) in the blood and are rapidly eliminated via bile into feces. Both enantiomers of fluvastatin are metabolized in a similar manner. Fluvastatin also undergoes glucuronidation via UGT enzymes. ",
+    "toxicity": "Generally well-tolerated. May cause gastrointestinal upset (diarrhea, nausea, constipation, gas, abdominal pain), myotoxicity (mypothy, myositis, rhabdomyolysis), and hepatotoxicity.",
+    "targets": [
+        [
+            "HMGCR",
+            "3-hydroxy-3-methylglutaryl-coenzyme A reductase",
+            "Humans"
+        ],
+        [
+            "HDAC2",
+            "Histone deacetylase 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "SLC15A1",
+            "Solute carrier family 15 member 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

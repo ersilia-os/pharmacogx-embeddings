@@ -1,0 +1,238 @@
+{
+    "pharmgkb_id": "PA448497",
+    "drugbank_id": "DB00945",
+    "names": [
+        "Acetylsalicylic acid",
+        "Acenterine",
+        "Acetophen",
+        "Adiro",
+        "Aspergum",
+        "Aspro",
+        "Easprin",
+        "Empirin",
+        "Nu-seals",
+        "Rhodine",
+        "Rhonal",
+        "Solprin",
+        "Solprin acid",
+        "St. Joseph Aspirin for Adults",
+        "Tasprin"
+    ],
+    "description": "Also known as _Aspirin_, acetylsalicylic acid (ASA) is a commonly used drug for the treatment of pain and fever due to various causes. Acetylsalicylic acid has both anti-inflammatory and antipyretic effects.  This drug also inhibits platelet aggregation and is used in the prevention of blood clots stroke, and myocardial infarction (MI) [FDA label].  \r\n\r\nInterestingly, the results of various studies have demonstrated that long-term use of acetylsalicylic acid may decrease the risk of various cancers, including colorectal, esophageal, breast, lung, prostate, liver and skin cancer [A177325]. Aspirin is classified as a _non-selective cyclooxygenase (COX) inhibitor_ [A32682, A177268] and is available in many doses and forms, including chewable tablets, suppositories, extended release formulations, and others [L5968]. \r\n\r\nAcetylsalicylic acid is a very common cause of accidental poisoning in young children. It should be kept out of reach from young children, toddlers, and infants [FDA label].",
+    "indication": "**Pain, fever, and inflammation**\r\n\r\nAcetylsalicylic acid (ASA), in the regular tablet form (immediate-release), is indicated to relieve pain, fever, and inflammation associated with many conditions, including the flu, the common cold, neck and back pain, dysmenorrhea, headache, tooth pain, sprains, fractures, myositis, neuralgia, synovitis, arthritis, bursitis, burns, and various injuries. It is also used for symptomatic pain relief after surgical and dental procedures [FDA label]. \r\n\r\nThe _extra strength_ formulation of acetylsalicylic acid is also indicated for the management migraine pain with photophobia (sensitivity to light) and phonophobia (sensitivity to sound)[FDA label].\r\n\r\n**Other indications**\r\n\r\nASA is also indicated for various other purposes, due to its ability to inhibit platelet aggregation. These include: \r\n\r\nReducing the risk of cardiovascular death in suspected cases of myocardial infarction (MI) [FDA label]. \r\n\r\nReducing the risk of a first non-fatal myocardial infarction in patients, and for reducing the risk of morbidity and mortality in cases of unstable angina and in those who have had a prior myocardial infarction [FDA label].\r\n\r\nFor reducing the risk of transient ischemic attacks (TIA) and to prevent atherothrombotic cerebral infarction (in conjunction with other treatments) [FDA label].\r\n\r\nFor the prevention of thromboembolism after hip replacement surgery [FDA label]. \r\n\r\nFor decreasing platelet to platelet adhesion following carotid endarterectomy, aiding in the prevention of transient ischemic attacks (TIA) [FDA label].\r\n\r\nUsed for patients undergoing hemodialysis with a silicone rubber arteriovenous cannula inserted to prevent thrombosis at the insertion site [FDA Label]. \r\n\r\n**Important note regarding use of the extended-release formulation [F4405]**\r\n\r\nIn the setting of acute myocardial infarction, or before percutaneous interventions, the extended-release form of acetylsalicylic acid should not be used. Use immediate-release formulations in scenarios requiring rapid onset of action [Label, F4405]. The extended-release form is taken to decrease the incidence of mortality and myocardial infarction (MI) for individuals diagnosed with chronic coronary artery disease (CAD), including patients with previous myocardial infarction (MI) or unstable angina or with chronic stable angina. Additionally, the extended-release form is used to decrease the risk of death and recurrent episodes of stroke in patients with a history of stroke or TIA [F4405].\r\n\r\n\r\n ",
+    "pharmacodynamics": "**Effects on pain and fever**\r\n\r\nAcetylsalicylic acid disrupts the production of prostaglandins throughout the body by targeting cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2) [A177241, A10989, A32682]. Prostaglandins are potent, irritating substances that have been shown to cause headaches and pain upon injection into humans.  Prostaglandins increase the sensitivity of pain receptors and substances such as histamine and bradykinin. Through the disruption of the production and prevention of release of prostaglandins in inflammation, this drug may stop their action at pain receptors, preventing symptoms of pain. Acetylsalicylic acid is considered an antipyretic agent because of its ability to interfere with the production of brain prostaglandin E1. Prostaglandin E1 is known to be an extremely powerful fever-inducing agent [FDA label]. \r\n\r\n**Effects on platelet aggregation**\r\n\r\nThe inhibition of platelet aggregation by ASA occurs because of its interference with thromboxane A2 in platelets, caused by COX-1 inhibition. Thromboxane A2 is an important lipid responsible for platelet aggregation, which can lead to clot formation and future risk of heart attack or stroke  [FDA label]. \r\n\r\n**A note on cancer prevention**\r\n\r\nASA has been studied in recent years to determine its effect on the prevention of various malignancies [A177325]. In general, acetylsalicylic acid is involved in the interference of various cancer signaling pathways, sometimes inducing or upregulating tumor suppressor genes [A177325, A177403]. Results of various studies suggest that there are beneficial effects of long-term ASA use in the prevention of several types of cancer, including stomach, colorectal, pancreatic, and liver cancers [A177400].   Research is ongoing.",
+    "mechanism-of-action": "Acetylsalicylic acid (ASA) blocks prostaglandin synthesis. It is non-selective for COX-1 and COX-2 enzymes [A177241, A10989, A32682]. Inhibition of COX-1 results in the inhibition of platelet aggregation for about 7-10 days (average platelet lifespan). The acetyl group of acetylsalicylic acid binds with a serine residue of the cyclooxygenase-1 (COX-1) enzyme, leading to irreversible inhibition. This prevents the production of pain-causing prostaglandins. This process also stops the conversion of arachidonic acid to thromboxane A2 (TXA2), which is a potent inducer of platelet aggregation [FDA label].  Platelet aggregation can result in clots and harmful venous and arterial thromboembolism, leading to conditions such as pulmonary embolism and stroke. \r\n\r\nIt is important to note that there is 60% homology between the protein structures of COX-1 and COX-2. ASA binds to serine 516 residue on the active site of COX-2 in the same fashion as its binding to the serine 530 residue located on the active site of COX-1. The active site of COX-2 is, however, slightly larger than the active site of COX-1, so that arachidonic acid (which later becomes prostaglandins) manages to bypass the aspirin molecule inactivating COX-2 [A32682, A177256].  ASA, therefore, exerts more action on the COX-1 receptor rather than on the COX-2 receptor [A177268]. A higher dose of acetylsalicylic acid is required for COX-2 inhibition [A177325]. ",
+    "absorption": "\r\nAbsorption is generally rapid and complete following oral administration but absorption may be variable depending on the route, dosage form, and other factors including but not limited to the rate of tablet dissolution, gastric contents, gastric emptying time, and gastric pH [FDA label].\r\n\r\n**Detailed absorption information**\r\n\r\nWhen ingested orally, acetylsalicylic acid is rapidly absorbed in both the stomach and proximal small intestine. The non-ionized acetylsalicylic acid passes through the stomach lining by passive diffusion. Ideal absorption of salicylate in the stomach occurs in the pH range of 2.15 - 4.10. Intestinal absorption of acetylsalicylic acid occurs at a much faster rate.  At least half of the ingested dose is hydrolyzed to salicylic acid in the first-hour post-ingestion by esterases found in the gastrointestinal tract. Peak plasma salicylate concentrations occur between 1-2  hours post-administration [FDA label].",
+    "metabolism": "\r\nAcetylsalicylic acid is hydrolyzed in the plasma to salicylic acid.  Plasma concentrations of aspirin following after administration of the extended-release form are mostly undetectable 4-8 hours after ingestion of a single dose. Salicylic acid was measured at 24 hours following a single dose of extended-release acetylsalicylic acid [F4405].\r\n\r\nSalicylate is mainly metabolized in the liver, although other tissues may also be involved in this process [FDA label]. The major metabolites of acetylsalicylic acid are salicylic acid, salicyluric acid, the ether or phenolic glucuronide and the ester or acyl glucuronide. A small portion is converted to gentisic acid and other hydroxybenzoic acids [FDA label].\r\n\r\n",
+    "toxicity": "**Lethal doses**\r\n\r\nAcute oral LD50 values have been reported as over 1.0 g/kg in humans, cats, and dogs, 0.92 g/kg - 1.48 g/kg in albino rats, 1.19 g/kg in guinea pigs, 1.1 g/kg in mice, and 1.8 g/kg in rabbit models [FDA label].\r\n\r\n**Acute toxicity**\r\n\r\nSalicylate toxicity is a problem that may develop with both acute and chronic salicylate exposure [A35408]. \r\nMultiple organ systems may be affected by salicylate toxicity, including the central nervous system, the pulmonary system, and the gastrointestinal system. Severe bleeding may occur. In the majority of cases, patients suffering from salicylate toxicity are volume-depleted at the time of presentation for medical attention. Fluid resuscitation should occur immediately and volume status should be monitored closely.  Disruptions in acid-base balance are frequent in ASA toxicity [A35408]. \r\n\r\nThe acute toxicity of acetylsalicylic in animals has been widely studied. The signs of poisoning in rats from lethal doses are mild to severe gastroenteritis, hepatitis, nephritis, pulmonary edema, encephalopathy, shock and some toxic effects on other organs and tissues. Mortality has been observed following convulsions or cardiovascular shock. An important differentiating property between various animal species is the ability to vomit toxic doses. Humans, cats and dogs have this ability, but rodents or rabbits do not [FDA label].  \r\n\r\n**Chronic toxicity and carcinogenesis**\r\n\r\nChronic ASA toxicity is frequently accompanied by atypical clinical presentations that may be similar to diabetic ketoacidosis, delirium, cerebrovascular accident (CVA), myocardial infarction (MI) or cardiac failure. Plasma salicylate concentrations should be measured if salicylate intoxication is suspected, even if there no documentation available to suggest ASA was ingested. In older age, nephrotoxicity from salicylates increases, and the risk of upper gastrointestinal hemorrhage is increased, with higher rates of mortality [A32954]. It is also important to note that ASA toxicity may  occur even with close to normal serum concentrations. Prevention of chronic ASA includes the administration of smallest possible doses, avoidance of concurrent use of salicylate drugs, and therapeutic drug monitoring. Renal function should be regularly monitored and screening for gastrointestinal bleeding should be done at regular intervals [A32954]. \r\n\r\nChronic toxicity studies were performed in rodents. ASA was administered at doses measured to be 2 to 20 times the maximum tolerated clinical dose to mice for up to one year. Negative dose-related effects were seen. These include decreased mean survival time, decreased number of births and progeny reaching an appropriate age for weaning. No evidence of carcinogenesis was found in 1-year studies [FDA label]. At daily doses of 0.24 g/kg/day given for 100 days to albino rats, ASA led to signs to excessive thirst, aciduria, diuresis, drowsiness, hyperreflexia, piloerection, changes in respiration, tachycardia, followed by soft stools, epistaxis, sialorrhea, dacryorrhea and mortality during hypothermic coma in the second study month [FDA label].\r\n\r\n**Use in pregnancy and lactation**\r\n\r\nWhile teratogenic effects were observed in animals nearly lethal doses,  no evidence suggests that this drug is teratogenic in humans [FDA label]. It is advisable, however, to avoid ASA use the first and second trimester of pregnancy, unless it is clearly required. If acetylsalicylic acid containing drugs are ingested by a patient attempting to conceive, or during the first and second trimester of pregnancy, the lowest possible dose at the shortest possible duration should be taken [FDA label]. This drug is contraindicated in the 3rd trimester of pregnancy [FDA label]. ",
+    "targets": [
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "AKR1C1",
+            "Aldo-keto reductase family 1 member C1",
+            "Humans"
+        ],
+        [
+            "PRKAA1",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAA2",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAB1",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAB2",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAG1",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAG2",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "PRKAG3",
+            "5'-AMP-activated protein kinase",
+            "Humans"
+        ],
+        [
+            "EDNRA",
+            "Endothelin-1 receptor",
+            "Humans"
+        ],
+        [
+            "TP53",
+            "Cellular tumor antigen p53",
+            "Humans"
+        ],
+        [
+            "HSPA5",
+            "78 kDa glucose-regulated protein",
+            "Humans"
+        ],
+        [
+            "RPS6KA3",
+            "Ribosomal protein S6 kinase alpha-3",
+            "Humans"
+        ],
+        [
+            "NFKBIA",
+            "NF-kappa-B inhibitor alpha",
+            "Humans"
+        ],
+        [
+            "TNFAIP6",
+            "Tumor necrosis factor-inducible gene 6 protein",
+            "Humans"
+        ],
+        [
+            "CASP1",
+            "Caspase-1",
+            "Humans"
+        ],
+        [
+            "CASP3",
+            "Caspase-3",
+            "Humans"
+        ],
+        [
+            "IKBKB",
+            "Inhibitor of nuclear factor kappa-B kinase subunit beta",
+            "Humans"
+        ],
+        [
+            "MAPK1",
+            "Extracellular signal-regulated kinase (ERK)",
+            "Humans"
+        ],
+        [
+            "MAPK15",
+            "Extracellular signal-regulated kinase (ERK)",
+            "Humans"
+        ],
+        [
+            "MAPK3",
+            "Extracellular signal-regulated kinase (ERK)",
+            "Humans"
+        ],
+        [
+            "MAPK4",
+            "Extracellular signal-regulated kinase (ERK)",
+            "Humans"
+        ],
+        [
+            "MAPK6",
+            "Extracellular signal-regulated kinase (ERK)",
+            "Humans"
+        ],
+        [
+            "MAPK7",
+            "Extracellular signal-regulated kinase (ERK)",
+            "Humans"
+        ],
+        [
+            "CCND1",
+            "G1/S-specific cyclin-D1",
+            "Humans"
+        ],
+        [
+            "MYC",
+            "Myc proto-oncogene protein",
+            "Humans"
+        ],
+        [
+            "PCNA",
+            "Proliferating cell nuclear antigen",
+            "Humans"
+        ],
+        [
+            "NEU1",
+            "Sialidase-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "UGT1A6",
+            "UDP-glucuronosyltransferase 1-6",
+            "Humans"
+        ],
+        [
+            "NAT2",
+            "Arylamine N-acetyltransferase 2",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00945",
+            "Drug Name": "Acetylsalicylic acid",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1057910",
+            "Effect Description": "Patients with this genotype have reduced metabolism of acetylsalicylic acid."
+        },
+        {
+            "DrugBank ID": "DB00945",
+            "Drug Name": "Acetylsalicylic acid",
+            "Gene Symbol": "ITGB3",
+            "RS ID (Genotype)": "rs5918",
+            "Effect Description": "Patients with this genotype have increased resistance to the anti-thrombotic effects of aspirin."
+        },
+        {
+            "DrugBank ID": "DB00945",
+            "Drug Name": "Acetylsalicylic acid",
+            "Gene Symbol": "LTC4S",
+            "RS ID (Genotype)": "rs730012",
+            "Adverse Reaction Description": "The presence of this genotype in LTC4S may indicate an increased risk of chronic urticaria when treated with acetylsalicylic acid."
+        }
+    ]
+}

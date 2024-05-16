@@ -1,0 +1,102 @@
+{
+    "pharmgkb_id": "PA166177476",
+    "drugbank_id": "DB06016",
+    "names": [
+        "Cariprazine"
+    ],
+    "description": "Cariprazine is an atypical antipsychotic agent and a piperazine derivative that was first developed in Hungary.[A247100] It works as a partial agonist at central dopamine D2, dopamine D3, and serotonin 5-HT<sub>1A</sub> receptors and as an antagonist at serotonin 5-HT<sub>2A</sub> receptors.[L40198]  Cariprazine has been investigated in a variety of psychiatric disorders, including schizophrenia, bipolar disorders, and major depressive disorder. Cariprazine gained its first global approval in the US in September 2015 [A3941] and was later approved by Health Canada in April 2022.[L41670] It is currently used to treat schizophrenia, and manic or mixed episodes and depressive episodes associated with bipolar I disorder.[L41655,L40198]",
+    "indication": "Cariprazine is indicated for the treatment of **schizophrenia** in adults to manage both positive and negative symptoms. It is also indicated to monotherapy for acute management of manic or mixed episodes associated with bipolar I disorder (**bipolar mania**) in adults, and acute management of depressive episodes associated with bipolar I disorder (**bipolar depression**) in adults.[L43307,L40198]",
+    "pharmacodynamics": "Cariprazine is an antipsychotic agent. In clinical trials, it reduced positive and negative symptoms in patients with schizophrenia and acute mania in patients with bipolar I disorder. In animal models, cariprazine showed therapeutic benefits against cognitive deficits, mania, and catalepsy.[A3941] In a meta-analysis study, cariprazine was shown to improve anxiety and depressed mood in patients with psychosis.[A247055]\r\n\r\nAs cariprazine is a partial agonist at dopamine D2 and D3 receptors, it produces an apparent lower blockade level than other antipsychotic agents that block dopamine receptors. This receptor binding profile is advantageous as dopamine receptor blockade is associated with extrapyramidal symptoms as side effects. Partial agonism would allow the dopamine receptor to be stimulated even at maximal receptor occupancy by the drug.[A247100] Antagonism at 5-HT<sub>1A</sub> [A247100] and 5-HT<sub>2A</sub> receptors by cariprazine can increase dopaminergic neurotransmission in the nigrostriatal pathway, thereby further reducing the risk of extrapyramidal symptoms.[A247055] However, cariprazine is still associated with a risk of akathisia, extrapyramidal disorder, restlessness, and tremor.[A3941,L40198] ",
+    "mechanism-of-action": "While recent research points to the involvement of multiple neurotransmitters in the development and maintenance of schizophrenia and bipolar disorders, the dopamine hypothesis has been and continues to be a key theory in understanding the pathophysiology of these psychiatric disorders. Dopamine is a neurotransmitter that plays several important roles in cells, and most importantly, it is a crucial neurotransmitter involved in reward processing and motivation. The nigrostriatal, mesolimbic, and mesocortical systems consist of dopaminergic projections. The dopamine hypothesis states that dopaminergic aberrations are observed in schizophrenia and bipolar disorders.[A189156,A247105] For example, hyperactive dopamine D2 receptor activity has been associated with positive symptoms of schizophrenia, such as hallucinations and delusions. On the other hand, alterations in dopamine D3 receptors may be involved in producing negative symptoms of schizophrenia.[A189156] It was stated that hyperdopaminergia, caused by elevations in D2/3 receptor availability and a hyperactive reward processing network, underlies the development of mania in bipolar disorder.[A247105]\r\n\r\nThe exact mechanism of action of cariprazine is not fully elucidated. Cariprazine potently binds to both of these receptors, more preferably to D3 receptors with higher affinity.[A3941] Preclinical studies suggest that D3 receptor blockade is associated with exerting pro-cognitive and antidepressant effects and attenuating negative symptoms in schizophrenia.[A247095] This unique mechanism of action differs from that of other antipsychotic agents that mostly target D2 and 5-HT<sub>2A</sub> receptors.[A247055] Cariprazine is also a partial agonist at 5-HT<sub>1A</sub> receptors, an antagonist at 5-HT<sub>2B</sub> and 5-HT<sub>2A</sub> receptors, an antagonist at histamine H1 receptors. It also binds to 5-HT<sub>2C</sub>, alpha (\u03b1)-1A adrenergic, and alpha (\u03b1)-1B adrenergic receptors with low affinity.[A3941,A247095]",
+    "absorption": "The most clinically relevant drug concentration equates to the combined systemic concentration of cariprazine plus desmethyl cariprazine (DCAR) and didesmethyl cariprazine (DDCAR), the two main pharmacologically active metabolites of cariprazine.[A3941]  After single dose administration of cariprazine, the peak plasma cariprazine concentration occurred in approximately three to six hours.[L40198] In healthy volunteers, the T<sub>max</sub> following oral administration was 3.6 hours for cariprazine, 6.5 hours for DCAR, and 18.1 hours for DDCAR. The steady-state was reached dose-proportionally within three weeks for cariprazine, DCAR, and DDCAR in patients with schizophrenia.[A3941]\r\n\r\nAdministration of a single dose of 1.5 mg cariprazine capsule with a high-fat meal did not significantly affect the C<sub>max</sub> and AUC of cariprazine or its metabolite, desmethyl cariprazine (DCAR).[L40198]",
+    "metabolism": "Cariprazine is extensively metabolized by CYP3A4 and, to a lesser extent, by CYP2D6 to form two major metabolites, desmethyl cariprazine (DCAR) and didesmethyl cariprazine (DDCAR). DCAR and DDCAR are pharmacologically active metabolites with _in vitro_ receptor binding profiles similar to the parent drug. DCAR is further metabolized into DDCAR by CYP3A4 and CYP2D6. DDCAR can be metabolized by CYP3A4 to form a hydroxylated metabolite.[A3940,A3941,L40198]",
+    "toxicity": "In pre-marketing clinical trials, an accidental acute overdosage (48 mg/day) was reported in one patient who experienced orthostasis and sedation. The patient fully recovered the same day. As there are no specific antidotes for cariprazine, supportive care, including close medical supervision and monitoring, is advised to manage overdose. The possibility of multiple drug involvement should also be considered.[L40198]",
+    "targets": [
+        [
+            "DRD3",
+            "Dopamine D3 receptor",
+            "Humans"
+        ],
+        [
+            "DRD2",
+            "Dopamine D2 receptor",
+            "Humans"
+        ],
+        [
+            "HTR1A",
+            "5-hydroxytryptamine receptor 1A",
+            "Humans"
+        ],
+        [
+            "HTR2B",
+            "5-hydroxytryptamine receptor 2B",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "HRH1",
+            "Histamine H1 receptor",
+            "Humans"
+        ],
+        [
+            "HTR2C",
+            "5-hydroxytryptamine receptor 2C",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

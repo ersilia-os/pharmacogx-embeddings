@@ -1,0 +1,40 @@
+{
+    "pharmgkb_id": "PA449661",
+    "drugbank_id": "DB00180",
+    "names": [
+        "Flunisolide",
+        "Bronalide",
+        "Nasalide",
+        "Syntaris"
+    ],
+    "description": "Flunisolide (marketed as AeroBid, Nasalide, Nasarel) is a corticosteroid with anti-inflammatory actions. It is often prescribed as treatment for allergic rhinitis and its principle mechanism of action involves activation of glucocorticoid receptors.",
+    "indication": "For the maintenance treatment of asthma as a prophylactic therapy.",
+    "pharmacodynamics": "Flunisolide is a synthetic corticosteroid. It is administered either as an oral metered-dose inhaler for the treatment of asthma or as a nasal spray for treating allergic rhinitis. Corticosteroids are naturally occurring hormones that prevent or suppress inflammation and immune responses. When given as an intranasal spray, flunisolide reduces watery nasal discharge (rhinorrhea), nasal congestion, postnasal drip, sneezing, and itching oat the back of the throat that are common allergic symptoms.",
+    "mechanism-of-action": "Flunisolide is a glucocorticoid receptor agonist. The antiinflammatory actions of corticosteroids are thought to involve lipocortins, phospholipase A2 inhibitory proteins which, through inhibition arachidonic acid, control the biosynthesis of prostaglandins and leukotrienes. The immune system is suppressed by corticosteroids due to a decrease in the function of the lymphatic system, a reduction in immunoglobulin and complement concentrations, the precipitation of lymphocytopenia, and interference with antigen-antibody binding. Flunisolide binds to plasma transcortin, and it becomes active when it is not bound to transcortin.",
+    "absorption": "Absorbed rapidly",
+    "metabolism": "Primarily hepatic, converted to the S beta-OH metabolite.",
+    "toxicity": null,
+    "targets": [
+        [
+            "NR3C1",
+            "Glucocorticoid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "SERPINA6",
+            "Corticosteroid-binding globulin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

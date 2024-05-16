@@ -1,0 +1,152 @@
+{
+    "pharmgkb_id": "PA166153472",
+    "drugbank_id": "DB09078",
+    "names": [
+        "Lenvatinib"
+    ],
+    "description": "Lenvatinib is a receptor tyrosine kinase (RTK) inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib also inhibits other RTKs that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; the platelet derived growth factor receptor alpha (PDGFR\u03b1), KIT, and RET. These receptor tyrosine kinases (RTKs) located in the cell membrane play a central role in the activation of signal transduction pathways involved in the normal regulation of cellular processes, such as cell proliferation, migration, apoptosis and differentiation, and in pathogenic angiogenesis, lymphogenesis, tumour growth and cancer progression. In particular, VEGF has been identified as a crucial regulator of both physiologic and pathologic angiogenesis and increased expression of VEGF is associated with a poor prognosis in many types of cancers.\r\n\r\nLenvatinib is indicated for the treatment of patients with locally recurrent or metastatic, progressive, radioactive iodine (RAI)-refractory differentiated thyroid cancer. Most patients with thyroid cancer have a very good prognosis with treatment (98% 5 year survival rate) involving surgery and hormone therapy. However, for patients with RAI-refractory thyroid cancer, treatment options are limited and the prognosis is poor, leading to a push for the development of more targeted therapies such as lenvatinib.",
+    "indication": "Lenvatinib is indicated for the treatment of the following cancerous conditions:[L41120]\r\n\r\n**Differentiated Thyroid Cancer (DTC)**\r\n\r\n- Treatment of locally recurrent or metastatic, progressive, radioactive iodine-refractory differentiated thyroid cancer\r\n\r\n**Renal Cell Carcinoma (RCC)**\r\n\r\n- First-line treatment, in combination with [pembrolizumab], in adult patients with advanced renal cell carcinoma (RCC) \r\n- Treatment of advanced renal cell carcinoma, in combination with [everolimus], in adult patients who have previously tried \u22651 anti-angiogenic therapy\r\n\r\n**Hepatocellular Carcinoma (HCC)**\r\n\r\n- First-line treatment of patients with unresectable hepatocellular carcinoma\r\n\r\n**Endometrial Carcinoma**\r\n\r\n- Treatment of advanced endometrial carcinoma that is not microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR), in combination with [pembrolizumab], in patients who have experienced disease progression following prior systemic therapy and are not candidates for curative surgery or radiation",
+    "pharmacodynamics": "Based on x-ray crystallography and kinetic interaction studies, lenvatinib binds to the adenosine 5'-triphosphate binding site of VEGFR2 and to a neighbouring region via a cyclopropane ring and thereby inhibits tyrosine kinase activity and associated signalling pathways. ",
+    "mechanism-of-action": "Lenvatinib is a receptor tyrosine kinase (RTK) inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib also inhibits other RTKs that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; the platelet derived growth factor receptor alpha (PDGFR\u03b1), KIT, and RET.",
+    "absorption": "Time to peak plasma concentration occurred from 1 to 4 hours post\u00addose. Administration with food did not affect the extent of absorption, but decreased the rate of absorption and delayed the median Tmax from 2 hours to 4 hours.",
+    "metabolism": "Lenvatinib is metabolized by CYP3A and aldehyde oxidase.",
+    "toxicity": "The most common adverse events that occurred in lenvatinib recipients were hypertension (67.8 vs. 9.2 % in the placebo group), diarrhea (59.4 vs. 8.4 %), fatigue or asthenia (59.0 vs. 27.5 %), decreased appetite (50.2 vs. 11.5 %), decreased bodyweight (46.4 vs. 9.2 %), nausea (41.0 vs. 13.7 %), stomatitis (35.6 vs. 3.8 %), palmar-plantar erythrodysethesia syndrome (31.8 vs. 8.0 %) and proteinuria (31.0 vs. 1.5 %). Adverse events that occurred in clinical trials and for which there is a warning/precaution in US manufacturer\u2019s pre- scribing information were hypertension, cardiac dysfunction (decreased left or right ventricular function, cardiac failure or pulmonary edema), arterial thromboembolic events, hepatotoxicity, proteinuria, renal failure and impairment, gastrointestinal perforation and fistula formation, QT interval prolongation, hypocalcaemia, reversible posterior leucoencephalopathy syndrome, haemorrhagic events, and impairment of thyroid stimulating hormone (TSH) suppression. Based on the mechanism of action of lenvatinib and results from animal reproduction studies, which showed embryotoxicity, foetotoxicity and teratogenicity at lenvatinib doses below the recommended dose in humans, females of reproductive potential should be advised to use effective contraception during treatment and for at least 2 weeks following completion of therapy. ",
+    "targets": [
+        [
+            "FLT1",
+            "Vascular endothelial growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "KDR",
+            "Vascular endothelial growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FLT4",
+            "Vascular endothelial growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "FGFR1",
+            "Fibroblast growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "FGFR2",
+            "Fibroblast growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FGFR3",
+            "Fibroblast growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "FGFR4",
+            "Fibroblast growth factor receptor 4",
+            "Humans"
+        ],
+        [
+            "PDGFRA",
+            "Platelet-derived growth factor receptor alpha",
+            "Humans"
+        ],
+        [
+            "RET",
+            "Proto-oncogene tyrosine-protein kinase receptor Ret",
+            "Humans"
+        ],
+        [
+            "KIT",
+            "Mast/stem cell growth factor receptor Kit",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "AOX1",
+            "Aldehyde oxidase",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ],
+        [
+            "SLC22A2",
+            "Solute carrier family 22 member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

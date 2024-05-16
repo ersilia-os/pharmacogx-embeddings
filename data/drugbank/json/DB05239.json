@@ -1,0 +1,73 @@
+{
+    "pharmgkb_id": "PA166160044",
+    "drugbank_id": "DB05239",
+    "names": [
+        "Cobimetinib"
+    ],
+    "description": "Cobimetinib is an orally active, potent and highly selective small molecule inhibiting mitogen-activated protein kinase kinase 1 (MAP2K1 or MEK1), and central components of the RAS/RAF/MEK/ERK signal transduction pathway. It has been approved in Switzerland and the US, in combination with vemurafenib for the treatment of patients with unresectable or metastatic BRAF V600 mutation-positive melanoma.",
+    "indication": "Cobimetinib is indicated in combination with [vemurafenib] for the treatment of unresectable or metastatic melanoma with a BRAF V600E or V600K mutation. As a single agent, cobimetinib is also indicated for the treatment of adult patients with histiocytic neoplasms.[L43717]",
+    "pharmacodynamics": "Cobimetinib is a reversible inhibitor of mitogen-activated protein kinase 1 (MAPK)/extracellular signal-regulated kinase 1 (MEK1) and MEK2. Preclinical studies have demonstrated that this agent is effective in inhibiting the growth of tumor cells bearing a BRAF mutation, which has been found to be associated with many tumor types. A threonine-tyrosine kinase and a key component of the RAS/RAF/MEK/ERK signaling pathway that is frequently activated in human tumors, MEK1 is required for the transmission of growth-promoting signals from numerous receptor tyrosine kinases. Cobimetinib is used in combination with vemurafenib because the clinical benefit of a BRAF inhibitor is limited by intrinsic and acquired resistance. Reactivation of the MAPK pathway is a major contributor to treatment failure in BRAF-mutant melanomas, approximately ~80% of melanoma tumors become BRAF-inhibitor resistant due to reactivation of MAPK signaling. BRAF-inhibitor-resistant tumor cells are sensitive to MEK inhibition, therefore cobimetinib and vemurafenib will result in dual inhibition of BRAF and its downstream target, MEK.[A3298,A3300,A3301]",
+    "mechanism-of-action": "Cobimetinib is a reversible inhibitor of mitogen-activated protein kinase (MAPK)/extracellular signal-regulated kinase 1 (MEK1) and MEK2. MEK proteins are upstream regulators of the extracellular signal-related kinase (ERK) pathway, which promotes cellular proliferation. BRAF V600E and K mutations result in constitutive activation of the BRAF pathway which includes MEK1 and MEK2. In mice implanted with tumor cell lines expressing BRAF V600E, cobimetinib inhibited tumor cell growth.[L43717] \r\n\r\nCobimetinib and vemurafenib target two different kinases in the RAS/RAF/MEK/ERK pathway. Compared to either drug alone, coadministration of cobimetinib and vemurafenib resulted in increased apoptosis in vitro and reduced tumor growth in mouse implantation models of tumor cell lines harboring BRAF V600E mutations. Cobimetinib also prevented vemurafenib-mediated growth enhancement of a wild-type BRAF tumor cell line in an in vivo mouse implantation model.[L43717]  ",
+    "absorption": "Following oral dosing of 60 mg once daily in cancer patients, the median time to achieve peak plasma levels (T<sub>max</sub>) was 2.4 (range:1\u201324) hours, geometric mean steady-state AUC<sub>0-24h</sub> was 4340 ng\u2219h/mL (61% CV) and C<sub>max</sub> was 273 ng/mL (60% CV). The absolute bioavailability of COTELLIC was 46% (90% CI: 40%, 53%) in healthy subjects. A high\u2010fat meal (comprised of approximately 150 calories from protein, 250 calories from carbohydrate, and 500\u2013600 calories from fat) had no effect on cobimetinib AUC and Cmax after a single 20 mg COTELLIC was administered to healthy subjects.[L43717] ",
+    "metabolism": "Cobimetinib is mainly metabolized via CYP3A oxidation and UGT2B7 glucuronidation with no major metabolites formed.[L43717]",
+    "toxicity": "The most common adverse effects (>20%) for cobimetinib are diarrhea, photosensitivity reactions, nausea, fever and vomiting. ",
+    "targets": [
+        [
+            "MAP2K1",
+            "Dual specificity mitogen-activated protein kinase kinase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

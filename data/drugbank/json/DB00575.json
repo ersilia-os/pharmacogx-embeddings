@@ -1,0 +1,106 @@
+{
+    "pharmgkb_id": "PA449051",
+    "drugbank_id": "DB00575",
+    "names": [
+        "Clonidine",
+        "Catapresan",
+        "Catapressan",
+        "Catarpres-TTS",
+        "Dixarit",
+        "Isoglaucon",
+        "Run Rui",
+        "Velaril",
+        "Winpress"
+    ],
+    "description": "Clonidine is an imidazole derivate that acts as an agonist of alpha-2 adrenoceptors.[A180559] This activity is useful for the treatment of hypertension, severe pain, and ADHD.[L7237,L7240,L7243,L7246]\r\n\r\nClonidine was granted FDA approval on 3 September 1974.[L7237]",
+    "indication": "Clonidine tablets and transdermal systems are indicated for the treatment of hypertension alone or in combination with other medications.[L7237,L7240] A clonidine injection is indicated for use with opiates in the treatment of severe cancer pain where opiates alone are insufficient.[L7243] An extended release tablet of clonidine is indicated for the treatment of ADHD either alone or in combination with other medications.[L7246]\r\n\r\nClonidine is also used for the diagnosis of pheochromocytoma,[A180565] treatment of nicotine dependance,[A180568] and opiate withdrawal.[A180571]",
+    "pharmacodynamics": "Clonidine functions through agonism of alpha-2 adrenoceptors which have effects such as lowering blood pressure, sedation, and hyperpolarization of nerves.[A180559] It has a long duration of action as it is given twice daily and the therapeutic window is between 0.1mg and 2.4mg daily.[L7237,L7240,L7243,L7246]",
+    "mechanism-of-action": "Clonidine is primarily an alpha-2 adrenoceptor agonist which causes central hypotensive and anti-arrhythmogenic effects.[A180559] The alpha-2 adrenoceptor is coupled to the G-proteins G<sub>o</sub> and G<sub>i</sub>.[A180559] G<sub>i</sub> inhibits adenylyl cyclase and activates opening of a potassium channel that causes hyperpolarization.[A180559] Clonidine binding to the alpha-2 adrenoceptor causes structural changes in the alpha subunit of the G-protein, reducing its affinity for GDP.[A180559] Magnesium catalyzes the replacement of GDP with GTP.[A180559] The alpha subunit dissociates from the other subunits and associates with an effector.[A180559]\r\n\r\nThe stimulation of alpha-2 adrenoceptors in the locus coeruleus may be responsible for the hypnotic effects of clonidine as this region of the brain helps regulate wakefulness.[A180559] Clonidine can also decrease transmission of pain signals at the spine.[A180559] Finally clonidine can affect regulators of blood pressure in the ventromedial and rostral-ventrolateral areas of the medulla.[A180559]",
+    "absorption": "Clonidine reaches maximum concentration in 60-90 minutes after oral administration.[A180559,A180577] Race and fasting status do not influence pharmacokinetics of clonidine.[L7237]\r\n\r\nA 100\u00b5g oral clonidine tablet reaches a C<sub>max</sub> of 400.72pg/mL with an AUC of 5606.78h\\*pg/mL and a bioavailability of 55-87%.[A180577]",
+    "metabolism": "The metabolism of clonidine is poorly understood.[A14844] The main reaction in clonidine metabolism is the 4-hydroxylation of clonidine by CYP2D6, CYP1A2, CYP3A4, CYP1A1, and CYP3A5.[A14844]\r\n\r\nClonidine is <50% metabolized in the liver to inactive metabolites.[A180559,L7237,L7240,L7243,L7246]",
+    "toxicity": "Oral LD<sub>50</sub> is 126 mg/kg in rats.[L7276] The TDLO is 70\u00b5g/kg in children, 126\u00b5g/kg in women, and 69\u00b5g/kg in men.[L7276]\r\n\r\nSymptoms of overdose include hypertension followed by hypotension, bradycardia, respiratory depression, hypothermia, drowsiness, decreased reflexes, weakness, irritability, and miosis.[L7237,L7240,L7243,L7246] Severe overdoses can cause reversible cardiac conduction defects or dysrhythmias, apnea, coma, and seizures.[L7237,L7240,L7243,L7246] Induction of vomiting is not recommended due to CNS depression but gastric lavage or activated charcoal may be useful in recent ingestion.[L7237,L7240,L7243,L7246] Dialysis is also unlikely to be beneficial.[L7237,L7240,L7243,L7246] Overdose can be treated with supportive measures such as atropine sulfate for bradycardia, intravenous fluids or vasopressors for hypotension, vasodilators for hypertension, naloxone for respiratory depression, and blood pressure monitoring.[L7237,L7240,L7243,L7246]",
+    "targets": [
+        [
+            "ADRA2B",
+            "Alpha-2B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2C",
+            "Alpha-2C adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA2A",
+            "Alpha-2A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1A",
+            "Alpha-1A adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1B",
+            "Alpha-1B adrenergic receptor",
+            "Humans"
+        ],
+        [
+            "ADRA1D",
+            "Alpha-1D adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ],
+        [
+            "SLC22A5",
+            "Solute carrier family 22 member 5",
+            "Humans"
+        ],
+        [
+            "SLC22A4",
+            "Solute carrier family 22 member 4",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

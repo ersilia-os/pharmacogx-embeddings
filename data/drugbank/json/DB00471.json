@@ -1,0 +1,75 @@
+{
+    "pharmgkb_id": "PA450546",
+    "drugbank_id": "DB00471",
+    "names": [
+        "Montelukast",
+        "Lukotas",
+        "Molly",
+        "Monocast",
+        "Monteflo",
+        "Montelo-10",
+        "Montene",
+        "Respaire",
+        "Surfair",
+        "Telumantes",
+        "Ventek",
+        "Ventilar",
+        "Xalar",
+        "Zespira"
+    ],
+    "description": "Montelukast was first approved for clinical use by the US FDA in 1998 as Merck's brand name Singulair.[L6301] The medication is a member of the leukotriene receptor antagonist (LTRA) category of drugs.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] Although capable of demonstrating effectiveness, the use of such LTRAs like montelukast is typically in addition to or complementary with the use of inhaled corticosteroids or other agents in asthma step therapy.[A178645] Regardless, in 2008-2009, there were FDA-led investigations into the possibility of montelukast to elicit neuropsychiatric effects like agitation, hallucinations, suicidal behaviour, and others in individuals who used the medication.[A178651] And although these kinds of effects are currently included in the official prescribing information for montelukast,[L6301,L6304,L6307,L6310,L6325,L6328,L6331] the drug still sees extensive use worldwide via millions of prescriptions annually and has since become available as a generic and as a brand name product.",
+    "indication": "Montelukast is indicated for:\r\n\r\n(a) the prophylaxis and chronic treatment of asthma in adults and pediatric patients who are 12 months of age and older[L6301], although other regional health authorities specifically note this indication for adults and adolescents who are 15 years and older[L6304,L6307] and also include indications for preventing day and night-time symptoms, and the treatment of acetylsalicylic acid-sensitive asthma[L6304];\r\n\r\n(b) the prevention of exercise-induced bronchoconstriction (EIB) in patients who are 6 years of age and older[L6301], although other regional health authorities specifically note this indication for adults and adolescents who are 15 years and older[L6304,L6307]; and\r\n\r\n(c) the relief of symptoms of seasonal allergic rhinitis in patients 2 years of age and older and perennial allergic rhinitis in patients 6 months of age and older[L6301], although other regional health authorities specifically note the relief of seasonal allergic rhinitis symptoms for adults and adolescents who are 15 years and older[L6304,L6307].\r\n\r\nFurthermore, some formulations like chewable montelukast tablets may also be specifically indicated by particular regulatory bodies for the prophylaxis and chronic treatment of asthma, including the prevention of day and night-time symptoms, the treatment of acetylsalicylic acid based asthma, and the prevention of exercise-induced bronchoconstriction in adult and pediatric patients aged 2 and older[L6328], between the ages 2 and 5[L6325], or between the ages of 6 and 14 years.[L6331]\r\n\r\nMoreover, when employed for such indications montelukast is considered effective as monotherapy or when combined with other medications indicated for the maintenance treatment of chronic asthma.[L6304,L6328] For instance, montelukast and inhaled corticosteroids can be used concomitantly to demonstrate additive effects to control asthma or to decrease the necessary inhaled corticosteroid dose while still maintaining clinical stability.[L6304,L6328]\r\n\r\nAdditionally, in patients who continue to experience asthma symptoms, montelukast can also be combined with an 'as required' short-acting beta-agonist, an inhaled corticosteroid, or inhaled corticosteroid paired with a long-acting beta-agonist.[L6304,L6328]",
+    "pharmacodynamics": "Montelukast is a leukotriene receptor antagonist that demonstrates a marked affinity and selectivity to the cysteinyl leukotriene receptor type-1 in preference to many other crucial airway receptors like the prostanoid, cholinergic, or beta-adrenergic receptors.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] As a consequence, the agent can elicit substantial blockage of LTD4 leukotriene-mediated bronchoconstriction with doses as low as 5 mg.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] Moreover, a placebo-controlled, crossover study (n=12) demonstrated that montelukast is capable of inhibiting early and late phase bronchoconstriction caused by antigen challenge by 75% and 57% respectively.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]\r\n\r\nIn particular, it has been documented that montelukast can cause bronchodilation as soon as within 2 hours of oral administration.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] This action can also be additive to the bronchodilation caused by the concomitant use of a beta agonist.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] Nevertheless, clinical investigations performed with adults 15 years of age and older revealed that no additional clinical benefit is obtained when doses of montelukast greater than 10 mg a day are used.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]\r\n\r\nAdditionally, in clinical trials with adults and pediatric asthmatic patients aged 6 to 14 years, it was also determined that montelukast can reduce mean peripheral blood eosinophils by about 13% to 15% from baseline in comparison to placebo during double-blind treatment periods.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] At the same time, in patients aged 15 years and older who were experiencing seasonal allergic rhinitis, the use of montelukast caused a median reduction of 13% in peripheral blood eosinophil counts when compared to placebo as well.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]",
+    "mechanism-of-action": "Cysteinyl leukotrienes (CysLT) like LTC4, LTD4, and LTE4, among others, are eicosanoids released by a variety of cells like mast cells and eosinophils.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] When such CysLT bind to corresponding CysLT receptors like CysLT type-1 receptors located on respiratory airway smooth muscle cells, airway macrophages, and on various pro-inflammatory cells like eosinophils and some specific myeloid stem cells activities that facilitate the pathophysiology of asthma and allergic rhinitis are stimulated.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]\r\n\r\nIn particular, CysLT-mediated airway bronchoconstriction, occluding mucous secretion, vascular permeability, and eosinophil recruitment are all types of effects that facilitate asthma.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] Alternatively, in allergic rhinitis, CysLTs are released by the nasal mucosa when exposed to allergens during both early and late phase reactions and participate in eliciting symptoms of allergic rhinitis like a congested nose and airway.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]\r\n\r\nSubsequently, montelukast is a leukotriene receptor antagonist that binds with high affinity and selectivity to the CysLT type 1 receptor, which consequently assists in inhibiting any physiological actions of CysLTs like LTC4, LTD4, and LTE4 at the receptor that may facilitate asthma or allergic rhinitis.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]",
+    "absorption": "It has been observed that montelukast is quickly absorbed following administration by the oral route.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] The oral bioavailability documented for the drug is 64%.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] Furthermore, it seems that having a regular meal in the morning or even a high fat snack in the evening does not affect the absorption of montelukast.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] ",
+    "metabolism": "It has been determined that montelukast is highly metabolized and typically so by the cytochrome P450 3A4, 2C8, and 2C9 isoenzymes.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] In particular, it seems that the CYP2C8 enzymes play a significant role in the metabolism of the drug.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] Nevertheless, at therapeutic doses, the plasma concentrations of montelukast metabolites are undetectable at steady state in adults and pediatric patients.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]",
+    "toxicity": "The adverse effects associated with overdosage of montelukast include abdominal pain, somnolence, thirst, headache, vomiting, psychomotor hyperactivity, and less frequently, convulsion.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]\r\n\r\nThe oral LD50 value determined for mice and rats is >5000 mg/kg.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]\r\n\r\nMontelukast has not been studied in pregnant women.[L6301,L6304,L6307,L6310,L6325,L6328,L6331] Consequently, it should be used during pregnancy only if clearly needed.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]\r\n\r\nAdditionally, as it is unknown whether montelukast is excreted into human breast milk, there is also caution regarding the use of the medication in nursing mothers.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]\r\n\r\nThe plasma half-life of montelukast is somewhat prolonged in elderly patients, although no dosage adjustment is generally necessary.[L6301,L6304,L6307,L6310,L6325,L6328,L6331]",
+    "targets": [
+        [
+            "CYSLTR1",
+            "Cysteinyl leukotriene receptor 1",
+            "Humans"
+        ],
+        [
+            "ALOX5",
+            "Arachidonate 5-lipoxygenase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

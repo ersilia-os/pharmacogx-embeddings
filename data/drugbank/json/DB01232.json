@@ -1,0 +1,108 @@
+{
+    "pharmgkb_id": "PA451305",
+    "drugbank_id": "DB01232",
+    "names": [
+        "Saquinavir"
+    ],
+    "description": "Saquinavir is an HIV-1 protease inhibitor used in combination with [ritonavir] and other antiretrovirals for the treatment of human immunodeficiency virus-1 (HIV-1) infection. In 1995 it became the first protease inhibitor approved by the FDA, followed shortly by ritonavir in 1996, and remains in clinical use today due to a relatively benign adverse effect profile as compared to other antiretroviral therapies.[A214382] While its efficacy was initially limited by exceptionally poor oral bioavailability (approximately 4%),[L3450] its current indications require the co-administration of ritonavir - a potent enzyme inhibitor - that increases the bioavailability and subsequent serum concentrations of saquinavir, thus dramatically improving antiviral activity.[A214382,L3450,L14351]",
+    "indication": "Saquinavir is indicated, in combination with ritonavir and other antiretroviral agents, for the treatment of HIV-1 infection in patients 16 years of age and older.[L3450]",
+    "pharmacodynamics": "Saquinavir exerts its antiviral activity by inhibiting an enzyme critical for the HIV-1 viral lifecycle.[L3450] Like other protease inhibitors, saquinavir has a propensity for participating in drug interactions - use caution when administering saquinavir to patients maintained on other pharmaceutical agents as pharmacodynamic and pharmacokinetic interactions are common.[L3450] Saquinavir is known to increase the QTc-interval in otherwise healthy individuals, and should therefore be used with caution in patients maintained on other QTc-prolonging medications or for whom prolongation of the QTc-interval may be of particular consequence (e.g. patients with pre-existing heart disease).[L3450] Careful and regular monitoring of patient bloodwork is recommended, as saquinavir has been associated with the development of metabolic complications (e.g. diabetes mellitus, hyperlipidemia) and worsening of pre-existing liver disease.[L3450]",
+    "mechanism-of-action": "The HIV lifecycle is comprised of 3 distinct stages: assembly, involving creation and packaging of essential viral components; budding, wherein the viral particle crosses the host cell plasma membrane and forms a lipid envelope; and maturation, wherein the viral particle alters its structure and becomes infectious.[A191712] At the center of this lifecycle is the Gag polyprotein which, along with the products of its proteolysis, coordinate these stages and function as the major structural proteins of the virus. The HIV-1 protease enzyme, a dimeric aspartic protease, is the enzyme responsible for cleaving the Gag polyprotein and thus plays a critical role in many aspects of the HIV viral lifecycle.[A191712]\r\n\r\nSaquinavir is an inhibitor of the HIV-1 protease enzyme.[L3450] Its design is based on the \"peptidomimetic\" principle, wherein the molecule contains a hydroxyethylene scaffold that mimics the normal peptide linkage (cleaved by HIV protease) but which itself cannot be cleaved.[A191757] By preventing HIV-1 protease activity, and thus the proteolysis of the Gag polyprotein, saquinavir results in the production of immature, non-infectious viral particles.",
+    "absorption": "The absolute bioavailability of orally administered saquinavir is only ~4%,[L3450] thought to be a consequence of incomplete absorption and extensive first-pass metabolism. It is co-administered with ritonavir, another protease inhibitor and a potent inhibitor of the enzymes responsible for saquinavir's first-pass metabolism, in order to dramatically boost its serum concentrations and, by extension, its therapeutic efficacy. Following administration of saquinavir 1000mg twice daily with ritonavir 100mg twice daily the AUC<sub>24h</sub> at steady-state was 39026 ng.h/mL.[L3450]",
+    "metabolism": "Saquinavir is extensively metabolized in the liver following oral administration, and _in vitro_ studies have shown that >90% of its biotransformation is mediated by the CYP3A4 isoenzyme. Saquinavir is rapidly metabolized to a number of inactive mono- and di-hydroxylated compounds.[L3450]",
+    "toxicity": "The oral LD<sub>50</sub> of saquinavir in both rats and mice is >5 g/kg.[L14354] Data regarding overdose with saquinavir are limited.[L3450] No acute toxicities or sequelae were noted in a patient ingesting 8 grams of saquinavir as a single dose, and a second subject ingesting 2.4 grams as a single dose experienced throat pain that lasted for 6 hours and subsequently resolved.[L3450] Treatment of overdose should consist of symptomatic and supportive measures. Dialysis is unlikely to be of benefit given saquinavir's extensive protein-binding.[L3450]",
+    "targets": [
+        [
+            "pol",
+            "Human immunodeficiency virus type 1 protease",
+            "Human immunodeficiency virus 1"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "SLC22A1",
+            "Solute carrier family 22 member 1",
+            "Humans"
+        ],
+        [
+            "SLCO1A2",
+            "Solute carrier organic anion transporter family member 1A2",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCC1",
+            "Multidrug resistance-associated protein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,165 @@
+{
+    "pharmgkb_id": "PA449050",
+    "drugbank_id": "DB01068",
+    "names": [
+        "Clonazepam",
+        "Antelepsin",
+        "Iktorivil",
+        "Rivotril"
+    ],
+    "description": "A benzodiazepine used to treat various seizures, including myotonic or atonic seizures, photosensitive epilepsy, and absence seizures, although tolerance may develop.[FDA Label][L5572,F3763,F3787,F3796] The agent has also been indicated for treating panic disorder.[FDA Label][A175438,L5572,F3763,F3787,F3796] The mechanism of action appears to involve the enhancement of gamma-aminobutyric acid receptor responses.[FDA Label][A175438,A175441,L5572,F3763,F3787,F3796]\r\n\r\nSince being first patented in 1960 and then released for sale from Roche in the US in 1975,[T469,T472] clonazepam has experienced a storied history in the treatment of the aforementioned medical conditions. Now available as a generic medication, the agent continues to see exceptionally high use as millions of prescriptions are written for the medication internationally every year. Unfortunately, however, like most benzodiazepines, clonazepam use has also been associated with recreational use and drug abuse.[FDA Label][L5572,F3763,F3787,F3796]",
+    "indication": "Clonazepam is indicated as monotherapy or as an adjunct in the treatment of Lennox-Gastaut syndrome (petit mal variant), akinetic, and myoclonic seizures.[FDA Label][F3787] Furthermore, clonazepam may also be of some value in patients with absence spells (petit mal) who have failed to respond to succinimides.[FDA Label][F3787] Additionally, clonazepam is also indicated for the treatment of panic disorder, with or without agoraphobia, as defined in the DSM-V.[FDA Label]\r\n\r\nAlternatively, some regional prescribing information note that clonazepam is indicated for all clinical forms of epileptic disease and seizures in adults, especially absence seizures (petit mal) including atypical absence; primary or secondarily generalised tonic-clonic (grand mal), tonic or clonic seizures; partial (focal) seizures with elementary or complex symptomatology; various forms of myoclonic seizures, myoclonus and associated abnormal movements.[L5572,F3796] Such regional label data also has clonazepam indicated for most types of epilepsy in infants and children, especially absences (petit mal), myoclonic seizures and tonic-clonic fits, whether due to primary generalized epilepsy or to secondary generalization of partial epilepsy.[F3796]                                                                                                                                                                 ",
+    "pharmacodynamics": "The pharmacodynamic properties of clonazepam are common among benzodiazepines and include anticonvulsive, sedative, muscle relaxing and anxiolytic effects [A175423, L5572, F3763, F3787]. Animal data and electroencephalographic investigations in man have shown that clonazepam rapidly suppresses many types of paroxysmal activity including the spike and wave discharge in absence seizures (petit mal), slow spike wave, generalized spike wave, spikes with temporal or other locations, as well as irregular spikes and waves [FDA Label] [A175423, L5572, F3763, F3787]. Moreover, the agent can also decrease the frequency, amplitude, duration, and spread of discharge in minor motor seizures [FDA Label] [F3763].\r\n\r\nGeneralized EEG abnormalities are more readily suppressed by clonazepam than are focal EEG abnormalities such as focal spikes [L5572]. Clonazepam has beneficial effects in generalized and focal epilepsies [L5572].",
+    "mechanism-of-action": "Gamma-Aminobutyric acid (GABA) is considered the principal inhibitory neurotransmitter in the human body [A175423, A175438, A175441]. When GABA binds to GABA(a) receptors found in neuron synapses, chloride ions are conducted across neuron cell membranes via an ion channel in the receptors [A175423, A175438, A175441, F3787]. With enough chloride ions conducted, the local, associated neuron membrane potentials are hyperpolarized - making it more difficult or less likely for action potentials to fire, ultimately resulting in less excitation of the neurons [A175423, A175438, A175441, F3787]. \r\n\r\nSubsequently, benzodiazepines like clonazepam can bind to benzodiazepine receptors that are components of various varieties of GABA(a) receptors [A175423, A175438, A175441, F3787, L5572, F3763]. This binding acts to enhance the effects of GABA by increasing GABA affinity for the GABA(a) receptor, which ultimately enhances GABA ligand binding at the receptors [A175423, A175438, A175441, F3787, L5572, F3763]. This enhanced ligand binding of the inhibitory neurotransmitter GABA to the receptors increases the aforementioned chloride ion conduction (perhaps reportedly via an increase in the frequency of the chloride channel opening), resulting in a hyperpolarized cell membrane that prevents further excitation of the associated neuron cells [A175423, A175438, A175441, F3787, L5572, F3763]. Combined with the notion that such benzodiazepine receptor associated GABA(a) receptors exist both peripherally and in the CNS, this activity consequently facilitates various effects like sedation, hypnosis, skeletal muscle relaxation, anticonvulsant activity, and anxiolytic action [A175423, A175438, A175441, F3787, L5572, F3763].\r\n\r\nIn particular, when out of the ordinary rapid and repetitive electrical signals are released in the CNS, it is proposed that the brain can become over-stimulated and ordinary functions are disrupted - resulting in seizure activity [A175441]. By enhancing the neuro-inhibitory activity of GABA, it is believed that clonazepam can facilitate in decreasing any excessive electrical nerve activity in the CNS that might be contributing to seizures [A175441]. Concurrently, it is also believed that clonazepam's actions in enhancing GABA effects may inhibit neuronal activity proposed to occur in amygdala-centered fear circuits - therefore assisting in the management of anxiety or panic [A175438].",
+    "absorption": "Clonazepam is rapidly and almost entirely absorbed after oral administration as tablets [FDA Label] [F3763, F3796]. Peak plasma concentrations of clonazepam administered by the oral route are reached within 1-4 hours and the associated absorption half-life is about 25 minutes [FDA Label] [F3763, F3796]. The absolute bioavailability is approximately 90% - but with substantially large differences between individuals [FDA Label] [F3763, F3796]. ",
+    "metabolism": "Clonazepam is metabolized principally in the liver [F3763, F3796]. The metabolic pathways include hydroxylation, reduction of the nitro groups to amine groups, and the addition of acetate to the amino grouping [F3763, F3796]. In particular, clonazepam is extensively metabolized by reduction to 7-amino-clonazepam and by N-acetylation to 7-acetamido-clonazepam [F3763, F3796]. Hydroxylation at the C-3 position also occurs [F3763, F3796]. Hepatic cytochrome P450 3A4 is implicated in the nitroreduction of clonazepam to pharmacologically inactive metabolites [F3763, F3796].",
+    "toxicity": "Benzodiazepines like clonazepam commonly cause drowsiness, ataxia, dysarthria, and nystagmus. Overdose with clonazepam is generally not life-threatening if the drug is taken alone, but may lead to areflexia, apnea, hypotension, cardiorespiratory depression, and coma. Coma, if it does occur, usually lasts a few hours but it can become more protracted and cyclical, especially in elderly patients. Increased frequency of seizures may occur in patients at supratherapeutic plasma concentrations. Benzodiazepine respiratory depressant effects are more serious when compounded in patients with respiratory disease.\r\n\r\nAn increased risk of congenital malformations associated with the use of benzodiazepine drugs like clonazepam has been suggested in several studies [FDA Label] [F3763, F3796]. There may also be non-teratogenic risks associated with the use of benzodiazepines during pregnancy [FDA Label] [F3763, F3796]. There have been reports of neonatal flaccidity, respiratory and feeding difficulties, and hypothermia in children born to mothers who have been receiving benzodiazepines late in pregnancy [FDA Label] [F3763, F3796]. In addition, children born to mothers receiving benzodiazepines late in pregnancy may be at some risk of experiencing withdrawal symptoms during the postnatal period [FDA Label] [F3763, F3796]. In general, it is best for patients who are of childbearing potential and also use benzodiazepines like clonazepam to discuss such matters with their health care professionals as careful consideration must be undertaken regarding the intersection of the risks of untreated seizure potential in the patient and any possible toxicity to the fetus [FDA Label] [F3763, F3796].\r\n\r\nAlthough the active ingredient of clonazepam has been found to pass into the maternal milk in small amounts only, mothers receiving clonazepam should not breast-feed their infants [FDA Label] [F3763, F3796].\r\n\r\nSince the possibility that adverse effects on the physical or mental development of the child could become apparent only after a number of years, the risk-benefit consideration of the long-term use of clonazepam in pediatric patients younger than five years of age is important [FDA Label] [F3763, F3796].\r\n\r\nThe pharmacological effects of benzodiazepines like clonazepam appear to be greater in elderly patients than in younger patients even at similar plasma benzodiazepine concentrations, possibly because of age-related changes in drug-receptor interactions, post-receptor mechanisms, and organ function [FDA Label] [F3763, F3796]. In general elderly patients should be started on the lowest possible dose of clonazepam and observed closely [FDA Label] [F3763, F3796]. There is an increased risk for falls and fractures among elderly and debilitated benzodiazepine users [FDA Label] [F3763, F3796]. The risk is increased in those taking concomitant sedatives, including substances like benzodiazepines, alcoholic beverages, and so on [FDA Label] [F3763, F3796].   \r\n \r\nSome oral LD50 values documented are >4000 mg/kg for the mouse model, >4000 mg/kg for the adult rat model, and >2000 mg/kg for the rabbit model [F3763].",
+    "targets": [
+        [
+            "GABRA1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA4",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA6",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRB3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRD",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRE",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRP",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRQ",
+            "GABA(A) Receptor",
+            "Humans"
+        ],
+        [
+            "GABRA1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRA5",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG1",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG2",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "GABRG3",
+            "GABA(A) Receptor Benzodiazepine Binding Site",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "NAT2",
+            "Arylamine N-acetyltransferase 2",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

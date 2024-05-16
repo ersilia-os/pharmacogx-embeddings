@@ -1,0 +1,157 @@
+{
+    "pharmgkb_id": "PA166114943",
+    "drugbank_id": "DB08896",
+    "names": [
+        "Regorafenib"
+    ],
+    "description": "Regorafenib is an orally-administered inhibitor of multiple kinases. It is used for the treatment of metastatic colorectal cancer, advanced gastrointestinal stromal tumours, and hepatocellular carcinoma. FDA approved on September 27, 2012. Approved use of Regorafenib was expanded to treat Hepatocellular Carcinoma in April 2017.",
+    "indication": "Regorafenib is indicated for the treatment of patients with metastatic colorectal cancer (CRC) who have been previously treated with fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapy, an anti-VEGF therapy, and, if KRAS wild type, an anti-EGFR therapy. Regorafenib is also indicated for the treatment of patients with locally advanced, unresectable or metastatic gastrointestinal stromal tumour (GIST) who have been previously treated with imatinib mesylate and sunitinib malate. Regorafenib is also indicated for the treatment of patients with hepatocellular carcinoma (HCC) previously treated with sorafenib.[L16835]",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Regorafenib is a small molecule inhibitor of multiple membrane-bound and intracellular kinases involved in normal cellular functions and in pathologic processes such as oncogenesis, tumor angiogenesis, and maintenance of the tumor microenvironment. In in vitro biochemical or cellular assays, regorafenib or its major human active metabolites M-2 and M-5 inhibited the activity of RET, VEGFR1, VEGFR2, VEGFR3, KIT, PDGFR-alpha, PDGFR-beta, FGFR1, FGFR2, TIE2, DDR2, TrkA, Eph2A, RAF-1, BRAF, BRAFV600E , SAPK2, PTK5, and Abl at concentrations of regorafenib that have been achieved clinically. In in vivo models, regorafenib demonstrated anti-angiogenic activity in a rat tumor model, and inhibition of tumor growth as well as anti-metastatic activity in several mouse xenograft models including some for human colorectal carcinoma.",
+    "absorption": "Cmax = 2.5 \u03bcg/mL;\r\nTmax = 4 hours; \r\nAUC = 70.4 \u03bcg*h/mL; \r\nCmax, steady-state = 3.9 \u03bcg/mL;\r\nAUC, steady-state = 58.3 \u03bcg*h/mL;\r\nThe mean relative bioavailability of tablets compared to an oral solution is 69% to 83%.",
+    "metabolism": "Regorafenib is metabolized by CYP3A4 and UGT1A9. The main circulating metabolites of regorafenib measured at steady-state in human plasma are M-2 (N-oxide) and M-5 (N-oxide and N-desmethyl), both of them having similar in vitro pharmacological activity and steady-state concentrations as regorafenib. M-2 and M-5 are highly protein bound (99.8% and 99.95%, respectively). Regorafenib is an inhibitor of P-glycoprotein [FDA Label], while its active metabolites M-2 (N-oxide) and M-5 (N-oxide and N-desmethyl) are substrates of P-glycoprotein [A36336]. ",
+    "toxicity": "The most common adverse reactions (\u226520%) are asthenia/fatigue, HFSR, diarrhea, decreased appetite/food intake, hypertension, mucositis, dysphonia, and infection, pain (not otherwise specified), decreased weight, gastrointestinal and abdominal pain, rash, fever, and nausea",
+    "targets": [
+        [
+            "FLT1",
+            "Vascular endothelial growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "KDR",
+            "Vascular endothelial growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "FLT4",
+            "Vascular endothelial growth factor receptor 3",
+            "Humans"
+        ],
+        [
+            "KIT",
+            "Mast/stem cell growth factor receptor Kit",
+            "Humans"
+        ],
+        [
+            "PDGFRA",
+            "Platelet-derived growth factor receptor alpha",
+            "Humans"
+        ],
+        [
+            "PDGFRB",
+            "Platelet-derived growth factor receptor beta",
+            "Humans"
+        ],
+        [
+            "FGFR1",
+            "Fibroblast growth factor receptor 1",
+            "Humans"
+        ],
+        [
+            "FGFR2",
+            "Fibroblast growth factor receptor 2",
+            "Humans"
+        ],
+        [
+            "TEK",
+            "Angiopoietin-1 receptor",
+            "Humans"
+        ],
+        [
+            "DDR2",
+            "Discoidin domain-containing receptor 2",
+            "Humans"
+        ],
+        [
+            "NTRK1",
+            "High affinity nerve growth factor receptor",
+            "Humans"
+        ],
+        [
+            "EPHA2",
+            "Ephrin type-A receptor 2",
+            "Humans"
+        ],
+        [
+            "RAF1",
+            "RAF proto-oncogene serine/threonine-protein kinase",
+            "Humans"
+        ],
+        [
+            "BRAF",
+            "Serine/threonine-protein kinase B-raf",
+            "Humans"
+        ],
+        [
+            "MAPK11",
+            "Mitogen-activated protein kinase 11",
+            "Humans"
+        ],
+        [
+            "FRK",
+            "Tyrosine-protein kinase FRK",
+            "Humans"
+        ],
+        [
+            "ABL1",
+            "Tyrosine-protein kinase ABL1",
+            "Humans"
+        ],
+        [
+            "RET",
+            "Proto-oncogene tyrosine-protein kinase receptor Ret",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

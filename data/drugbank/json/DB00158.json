@@ -1,0 +1,89 @@
+{
+    "pharmgkb_id": "PA449692",
+    "drugbank_id": "DB00158",
+    "names": [
+        "Folic acid",
+        "Acfol",
+        "Fefol"
+    ],
+    "description": "Folic acid, also known as folate or Vitamin B9, is a member of the B vitamin family and an essential cofactor for enzymes involved in DNA and RNA synthesis. More specifically, folic acid is required by the body for the synthesis of purines, pyrimidines, and methionine before incorporation into DNA or protein. Folic acid is particularly important during phases of rapid cell division, such as infancy, pregnancy, and erythropoiesis, and plays a protective factor in the development of cancer. As humans are unable to synthesize folic acid endogenously, diet and supplementation is necessary to prevent deficiencies. For example, folic acid is present in green vegetables, beans, avocado, and some fruits.[L5744]\r\n\r\nIn order to function within the body, folic acid must first be reduced by the enzyme dihydrofolate reductase (DHFR) into the cofactors dihydrofolate (DHF) and tetrahydrofolate (THF). This important pathway, which is required for de novo synthesis of nucleic acids and amino acids, is disrupted by anti-metabolite therapies such as [DB00563] as they function as DHFR inhibitors to prevent DNA synthesis in rapidly dividing cells, and therefore prevent the formation of DHF and THF. When used in high doses such as for cancer therapy, or in low doses such as for Rheumatoid Arthritis or psoriasis, [DB00563] impedes the body's ability to create folic acid. This results in a deficiency of coenzymes and a resultant buildup of toxic substances that are responsible for numerous adverse side effects. As a result, supplementation with 1-5mg of folic acid is recommended to prevent deficiency and a number of side effects associated with MTX therapy including mouth ulcers and gastrointestinal irritation. [DB00650] (also known as folinic acid) supplementation is typically used for high-dose MTX regimens for the treatment of cancer. Levoleucovorin and leucovorin are analogs of tetrahydrofolate (THF) and are able to bypass DHFR reduction to act as a cellular replacement for the co-factor THF.\r\n\r\nThere are also several antiepileptic drugs (AEDs) that are associated with reduced serum and red blood cell folate, including [DB00564] (CBZ), [DB00252] (PHT), or barbiturates.[A37004] Folic acid is therefore often provided as supplementation to individuals using these medications, particularly to women of child-bearing age. \r\n\r\nInadequate folate levels can result in a number of health concerns including cardiovascular disease, megaloblastic anemias, cognitive deficiencies, and neural tube defects (NTDs). Folic acid is typically supplemented during pregnancy to prevent the development of NTDs and in individuals with alcoholism to prevent the development of neurological disorders, for example.",
+    "indication": "Folic acid is indicated for the treatment of folic acid deficiency, megaloblastic anemia, and in anemias of nutritional origins, pregnancy, infancy, or childhood.",
+    "pharmacodynamics": "Folic acid is a water-soluble B-complex vitamin found in foods such as liver, kidney, yeast, and leafy, green vegetables. Also known as folate or Vitamin B9, folic acid is an essential cofactor for enzymes involved in DNA and RNA synthesis. More specifically, folic acid is required by the body for the synthesis of purines, pyrimidines, and methionine before incorporation into DNA or protein. Folic acid is the precursor of tetrahydrofolic acid, which is involved as a cofactor for transformylation reactions in the biosynthesis of purines and thymidylates of nucleic acids. Impairment of thymidylate synthesis in patients with folic acid deficiency is thought to account for the defective deoxyribonucleic acid (DNA) synthesis that leads to megaloblast formation and megaloblastic and macrocytic anemias. Folic acid is particularly important during phases of rapid cell division, such as infancy, pregnancy, and erythropoiesis, and plays a protective factor in the development of cancer. As humans are unable to synthesize folic acid endogenously, diet and supplementation is necessary to prevent deficiencies. In order to function properly within the body, folic acid must first be reduced by the enzyme dihydrofolate reductase (DHFR) into the cofactors dihydrofolate (DHF) and tetrahydrofolate (THF). This important pathway, which is required for de novo synthesis of nucleic acids and amino acids, is disrupted by anti-metabolite therapies such as [DB00563] as they function as DHFR inhibitors to prevent DNA synthesis in rapidly dividing cells, and therefore prevent the formation of DHF and THF. \r\n\r\nIn general, folate serum levels below 5 ng/mL indicate folate deficiency, and levels below 2 ng/mL usually result in megaloblastic anemia.",
+    "mechanism-of-action": "Folic acid, as it is biochemically inactive, is converted to tetrahydrofolic acid and methyltetrahydrofolate by dihydrofolate reductase (DHFR). These folic acid congeners are transported across cells by receptor-mediated endocytosis where they are needed to maintain normal erythropoiesis, synthesize purine and thymidylate nucleic acids, interconvert amino acids, methylate tRNA, and generate and use formate. Using vitamin B12 as a cofactor, folic acid can normalize high homocysteine levels by remethylation of homocysteine to methionine via methionine synthetase.",
+    "absorption": "Folic acid is absorbed rapidly from the small intestine, primarily from the proximal portion. Naturally occurring conjugated folates are reduced enzymatically to folic acid in the gastrointestinal tract prior to absorption. Folic acid appears in the plasma approximately 15 to 30 minutes after an oral dose; peak levels are generally reached within 1 hour.[FDA Label]",
+    "metabolism": "Folic acid is metabolized in the liver into the cofactors dihydrofolate (DHF) and tetrahydrofolate (THF) by the enzyme dihydrofolate reductase (DHFR).",
+    "toxicity": "IPR-MUS LD<sub>50</sub> 85 mg/kg,IVN-GPG LD<sub>50</sub> 120 mg/kg, IVN-MUS LD<sub>50</sub> 239 mg/kg, IVN-RAT LD<sub>50</sub> 500 mg/kg, IVN-RBT LD<sub>50</sub> 410 mg/kg",
+    "targets": [
+        [
+            "FOLR3",
+            "Folate receptor gamma",
+            "Humans"
+        ],
+        [
+            "FOLR2",
+            "Folate receptor beta",
+            "Humans"
+        ],
+        [
+            "FOLR1",
+            "Folate receptor alpha",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "GGH",
+            "Gamma-glutamyl hydrolase",
+            "Humans"
+        ],
+        [
+            "MTHFR",
+            "Methylenetetrahydrofolate reductase",
+            "Humans"
+        ],
+        [
+            "DHFR",
+            "Dihydrofolate reductase",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC11",
+            "ATP-binding cassette sub-family C member 11",
+            "Humans"
+        ],
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "SLC46A1",
+            "Proton-coupled folate transporter",
+            "Humans"
+        ],
+        [
+            "SLC25A32",
+            "Mitochondrial folate transporter/carrier",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

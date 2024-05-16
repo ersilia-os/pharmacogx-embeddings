@@ -1,0 +1,67 @@
+{
+    "pharmgkb_id": "PA450084",
+    "drugbank_id": "DB01029",
+    "names": [
+        "Irbesartan"
+    ],
+    "description": "Irbesartan is an angiotensin receptor blocker (ARB) indicated to treat hypertension or diabetic nephropathy.[L7456,L7459] It can also be used as part of a combination product with [hydrochlorothiazide] for patients not well controlled or not expected to be well controlled on monotherapy.[L7459] Unlike angiotensin converting enzyme inhibitors, ARBs are not associated with a dry cough.[L7456,L7459]\r\n\r\nIrbesartan was granted FDA approval on 30 September 1997.[L7456,L7459]",
+    "indication": "Irbesartan is indicated to treat hypertension and diabetic nephropathy in hypertensive patients with type 2 diabetes, elevated serum creatinine, and proteinuria.[L7456] A combination product with hydrochlorothiazide is indicated for hypertension in patients with uncontrolled hypertension with monotherapy or first line in patients not expected to be well controlled with monotherapy.[L7459]",
+    "pharmacodynamics": "Irbesartan is an angiotensin receptor blocker used to treat hypertension and diabetic nephropathy.[L7456,L7459] It has a long duration of action as it is usually taken once daily and a wide therapeutic index as doses may be as low as 150mg daily but doses of 900mg/day were well tolerated in healthy human subjects.[L7456,L7459,A181165]",
+    "mechanism-of-action": "Irbesartan prevents angiotensin II binding to the AT<sub>1</sub> receptor in tissues like vascular smooth muscle and the adrenal gland.[L7456,L7459] Irbesartan and its active metabolite bind the AT<sub>1</sub> receptor with 8500 times more affinity than they bind to the AT<sub>2</sub> receptor.[L7456,L7459] Irbesartan's prevention of angiotensin II binding causes vascular smooth muscle relaxation and prevents the secretion of aldosterone, lowering blood pressure.[L7456,L7459]\r\n\r\nAngiotensin II would otherwise bind to the AT<sub>1</sub> receptor, inducing vasoconstriction and aldosterone secretion, raising blood pressure.[L7456,L7459]",
+    "absorption": "Irbesartan is 60-80% bioavailable with a T<sub>max</sub> of 1.5-2hours.[L7456,L7459] Taking irbesartan with food does not affect the bioavailability.[L7456,L7459]\r\n\r\nIn one study, healthy subjects were given single or multiple oral doses of 150mg, 300mg, 600mg, and 900mg of irbesartan.[A181165] A single 150mg dose resulted in an AUC of 9.7\u00b13.0\u00b5g\\\u2022hr/mL, a T<sub>max</sub> of 1.5 hours, a half life of 16\u00b17 hours, and a C<sub>max</sub> of 1.9\u00b10.4\u00b5g/mL.[A181165] A single 300mg dose resulted in an AUC of 20.0\u00b15.2\u00b5g\\\u2022hr/mL, a T<sub>max</sub> of 1.5 hours, a half life of 14\u00b17 hours, and a C<sub>max</sub> of 2.9\u00b10.9\u00b5g/mL.[A181165] A single 600mg dose resulted in an AUC of 32.6\u00b111.9\u00b5g\\\u2022hr/mL, a T<sub>max</sub> of 1.5 hours, a half life of 14\u00b18 hours, and a C<sub>max</sub> of 4.9\u00b11.2\u00b5g/mL.[A181165] A single 900mg dose resulted in an AUC of 44.8\u00b120.0\u00b5g\\\u2022hr/mL, a T<sub>max</sub> of 1.5 hours, a half life of 17\u00b17 hours, and a C<sub>max</sub> of 5.3\u00b11.9\u00b5g/mL.[A181165]\r\n\r\nMultiple 150mg doses resulted in an AUC of 9.3\u00b13.0\u00b5g\\\u2022hr/mL, a T<sub>max</sub> of 1.5 hours, a half life of 11\u00b14 hours, and a C<sub>max</sub> of 2.04\u00b10.4\u00b5g/mL.[A181165] Multiple 300mg doses resulted in an AUC of 19.8\u00b15.8\u00b5g\\\u2022hr/mL, a T<sub>max</sub> of 2.0 hours, a half life of 11\u00b15 hours, and a C<sub>max</sub> of 3.3\u00b10.8\u00b5g/mL.[A181165] Multiple 600mg doses resulted in an AUC of 31.9\u00b19.7\u00b5g\\\u2022hr/mL, a T<sub>max</sub> of 1.5 hours, a half life of 15\u00b17 hours, and a C<sub>max</sub> of 4.4\u00b10.7\u00b5g/mL.[A181165] Multiple 900mg doses resulted in an AUC of 34.2\u00b19.3\u00b5g\\\u2022hr/mL, a T<sub>max</sub> of 1.8 hours, a half life of 14\u00b16 hours, and a C<sub>max</sub> of 5.6\u00b12.1\u00b5g/mL.[A181165]",
+    "metabolism": "Irbesaran is largely metabolized by glucuronidation and oxidation in the liver.[L7456,L7459] The majority of metabolism occurs through the action of CYP2C9 with a negligible contribution from CYP3A4.[L7456,L7459] Some hydroxylation also occurs in irbesartan metabolism.[A181114]\r\n\r\nIrbesartan can be glucuronidated by UGT1A3 to the M8 metabolite, oxidized to the M3 metabolite, or hydroxylated by CYP2C9 to one of the M4, M5, or M7 metabolites.[A415,A181114] The M4, M5, and M7 metabolites are all hydroxylated to become the M1 metabolite, which is then oxidized to the M2 metabolite.[A415,A181114] The M4 metabolite can also be oxidized to the M6 metabolite before hydroxylation to the M2 metabolite.[A415,A181114] Finally, the minor metabolite SR 49498 is generated from irbesartan by an unknown mechanism.[A415,A181114]",
+    "toxicity": "The oral TDLO in humans is 30mg/kg/6W.[L7477]\r\n\r\nSymptoms of overdose include hypotension and tachycardia or bradycardia.[L7456,L7459] Terlipressin may be given to treat hypotension and tachycardia if conventional vasopressors fail to control blood pressure.[A181171]",
+    "targets": [
+        [
+            "AGTR1",
+            "Type-1 angiotensin II receptor",
+            "Humans"
+        ],
+        [
+            "JUN",
+            "Transcription factor AP-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

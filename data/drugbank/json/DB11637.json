@@ -1,0 +1,41 @@
+{
+    "pharmgkb_id": "nan-dd19a3ae-626b-486b-8448-9961ea333971",
+    "drugbank_id": "DB11637",
+    "names": [
+        "Delamanid"
+    ],
+    "description": "Delamanid is an anti-tuberculosis agent derived from the nitro-dihydro-imidazooxazole class of compounds that inhibits mycolic acid synthesis of bacterial cell wall [A31965]. It is used in the treatment of multidrug-resistant and extensively drug-resistant tuberculosis (TB) in a combination regimen. Emergence of multidrug-resistant and extensively drug-resistant tuberculosis creates clinical challenges for patients, as the disease is associated with a higher mortality rate and insufficient therapeutic response to standardized antituberculosis treatments as [DB00951] and [DB01045]. Multidrug-resistant tuberculosis may also require more than 2 years of chemotherapy and second-line therapies with narrow therapeutic index [A31968]. In a clinical study involving patients with pulmonary multidrug-resistant tuberculosis or extensively drug-resistant tuberculosis, treatment of delamanid in combination with WHO-recommended optimised background treatment regimen was associated with improved treatment outcomes and reduced mortality rate [A31965]. Spontaneous resistance to delamanid was observed during treatment, where mutation in one of the 5 F420 coenzymes responsible for bioactivation of delamanid contributes to this effect [L1407]. Delamanid is approved by the EMA and is marketed under the trade name Deltyba as oral tablets. It is marketed by Otsuka Pharmaceutical Co., Ltd (Tokyo, Japan).",
+    "indication": "Indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adult patients when an effective treatment regimen cannot otherwise be composed for reasons of resistance or tolerability [L1407].",
+    "pharmacodynamics": "The minimum inhibitory concentrations (MIC) of delamanid against _Mycobacterium tuberculosis_ isolates ranges from 0.006 to 0.024 g/mL [A31966]. Among non-tuberculosis mycobacteria, delamanid has _in vitro_ activity against _M. kansasii_ and _M. bovis_ [A31966]. Delamanid has no in vitro activity against Gram negative or positive bacterial species and does not display cross-resistance to other anti-tuberculosis drugs [L1407]. In murine models of chronic tuberculosis, the reduction of _M. tuberculosis_ colony counts by delamanid was demonstrated in a dose-dependent manner [A31966]. Repeated dosing of delamanid may cause QTc-prolongation via inhibition of cardiac potassium channel (hERG channel), and this effect is mostly contributed by the main metabolite of delamanid, DM-6705 [L1407, A31966]. Animal studies indicate that delamanid may attenuate vitamin K-dependent blood clotting, increase prothrombin time (PT), and activated partial thromboplastin time (APTT) [A31966].",
+    "mechanism-of-action": "Delamanid is a prodrug that requires biotransformation via via the mycobacterial F420 coenzyme system, including the deazaflavin dependent nitroreductase (Rv3547), to mediate its antimycobacterial activity [A31966] against both growing and nongrowing mycobacteria [A31967]. Mutations in one of five coenzyme F420 genes, _fgd, Rv3547, fbiA, fbiB, and fbiC_ has been proposed as the mechanism of resistance to delamanid [A31966]. Upon activation, the radical intermediate formed between delamanid and desnitro-imidazooxazole derivative [A31978] is thought to mediate antimycobacterial actions via inhibition of methoxy-mycolic and keto-mycolic acid synthesis, leading to depletion of mycobacterial cell wall components and destruction of the mycobacteria [L1407]. Nitroimidazooxazole derivative is thought to generate reactive nitrogen species, including nitrogen oxide (NO). However unlike isoniazid, delamanid does not alpha-mycolic acid [A31966]. ",
+    "absorption": "Following a single oral dose administration of 100 mg delamanid, the peak plasma concentration was 135 ng/mL [A31968]. Steady-state concentration is reached after 10-14 days [A31978]. Delamanid plasma exposure increases less than proportionally with increasing dose. In animal models (dog, rat, mouse), the oral bioavailability of delamanid was reported to be 35%\u201360% [A31966]. The absolute oral bioavailability in humans is estimated to range from 25 to 47% [A31967]. Oral bioavailability in humans is enhanced when administered with a standard meal, by about 2.7 fold compared to fasting conditions [L1407] because delamanid exhibits poor water solubility [A31967].",
+    "metabolism": "Delamanid predominantly undergoes metabolism by albumin and to a lesser extent, CYP3A4. [L1407]. The metabolism of delamanid may also be mediated by hepatic CYP1A1, CYP2D6, and CYP2E1 to a lesser extent [31966]. Four major metabolites (M1\u2013M4) have been identified in plasma in patients receiving delamanid where M1 and M3 accounts for 13%\u201318% of the total plasma exposure in humans [A31968]. While they do not retain significant pharmacological activity, they may still contribute to QT prolongation [A31967]. This is especially true for the main metabolite of delamanid, M1 (DM-6705) [A31966, A31967].\r\n\r\nDelamanid is predominantly metabolized by serum albumin to form M1 (DM-6705) via hydrolytic cleavage of the 6-nitro-2,3-dihydroimidazo[2,1-b] oxazole moiety. The formation of this major metabolite is suggested to be a crucial starting point in the metabolic pathway of delamanid [A31968]. M1 (DM-6705) can be further catalyzed by three pathways. In the first metabolic pathway, DM-6705 undergoes hydroxylation of the oxazole moiety to form M2 ((4RS,5S)-DM-6720), followed by CYP3A4-mediated oxidation of hydroxyl group and tautomerization of oxazole to an imino-ketone metabolite, M3 ((S)-DM-6718) [A31968]. The second metabolic pathway involves the hydrolysis and deamination of the oxazole amine to form M4 (DM-6704) followed by hydroxylation to M6 ((4R,5S)-DM-6721) and M7 ((4S,5S)-DM-6722) and oxidation of oxazole to another ketone metabolite, M8 ((S)-DM-6717) [A31968]. The third pathway involves the hydrolytic cleavage of the oxazole ring to form M5 (DM-6706) [A31968].",
+    "toxicity": "While there have been no cases of delamanid overdose, some adverse reactions were observed at a higher frequency and the rate of QT prolongation increased in a dose-related manner. Treatment of overdose should involve immediate measures to remove delamanid from the gastrointestinal tract and supportive care as required. Frequent ECG monitoring should be performed [L1407].\r\n\r\nStudies of genotoxicity and carcinogenic potential reveal no significant effects on humans. Delamanid and/or its metabolites have the potential to affect cardiac repolarisation via blockade of hERG potassium channels. During repeat-dose studies in dogs, foamy macrophages were observed in lymphoid tissue of various organs with delamanid treatment although clinical relevance of this finding was not established. Repeat-dose toxicity studies in rabbits revealed an inhibitory effect of delamanid and/or its metabolites on clotting factors II, VII, IX, and X via inhibition of vitamin K production [L1407, A31966]. Embryo-fetal toxicity was observed at maternally toxic dosages in reproductive studies involving rabbits [L1407].",
+    "targets": null,
+    "enzymes": [
+        [
+            "ddn",
+            "Deazaflavin-dependent nitroreductase",
+            "Mycobacterium tuberculosis (strain ATCC 25618 / H37Rv)"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

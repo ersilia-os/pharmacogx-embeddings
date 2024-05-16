@@ -1,0 +1,82 @@
+{
+    "pharmgkb_id": "PA166128168",
+    "drugbank_id": "DB11586",
+    "names": [
+        "Asunaprevir"
+    ],
+    "description": "Asunaprevir, also named BMS-650032, is a potent hepatitis C virus (HCV) NS3 protease inhibitor. It has been shown to have a very high efficacy in dual-combination regimens with daclatasvir in patients chronically infected with HCV genotype 1b.[A32528] It was developed by Bristol-Myers Squibb Canada and approved by Health Canada on April 22, 2016. The commercialization of asunaprevir was cancelled one year later on October 16, 2017.[L1113]",
+    "indication": "Asunaprevir is indicated in combination with other agents for the treatment of chronic hepatitis C in adult patients with hepatitis C virus genotypes 1 or 4 and compensated liver cirrhosis.[L2278] \r\n\r\nHepatitis C is a liver disease caused by the hepatitis C virus. The chronic state of this condition accounts for 60-80% of the cases from which the risk of cirrhosis of the liver within 20 years is of around 15-30%.[L2281] The genotype 1 is the most common type of hepatitis C in the United States and the most difficult to treat.[L2282]",
+    "pharmacodynamics": "Studies in vitro demonstrated a significant antiviral activity in HCV replicon cell systems with an EC50 of 4nm and 1nm against the HCV genotype 1a and 1b respectively.[A32528] These studies showed a limited activity against the genotypes 2 and 3. This property makes asunaprevir a highly selective anti-HCV agent that is not effective against HCV closely related virus.[A18434] Asunaprevir produce robust declines in HCV RNA levels in patients with HCV genotype 1 infection.[A32527]In clinical studies, it has been shown that asunaprevir is well-tolerated and the mean maximum HCV RNA level reduction from baseline was of approximately 2.87 log10 IU/ml.[A32528]\r\n\r\nMonotherapy clinical studies with asunaprevir showed a mean maximum decline of HCV RNA in the range of 0.28-2.87 log10 IU/ml when administered in increasing doses from 10-600 mg. When asunaprevir was used as a combination product, it was possible to obtain a sustained virological response (aviremia 24 weeks after completion of therapy) in 83-92% of the patients.[A18434]",
+    "mechanism-of-action": "Asunaprevir is a highly active HCV NS3 protease inhibitor.[A32527] The genome of HCV has a positive polarity which allows it to be translated into a protein in the host cell without further transformation steps. However, the resultant protein needs to be divided by the enzyme NS3 protease into single proteins in order to be able to exert its enzymatic activity or structural role. Therefore, due to NS3 vital importance for viral replication, the inhibiting action of asunaprevir causes a robust antiviral activity.[A18434]",
+    "absorption": "In preclinical studies, asunaprevir showed a high liver-to-plasma AUC ratio. It is rapidly absorbed within 30 minutes of administration.[L2278] Clinical pharmacokinetic studies showed a T<sub>max</sub> of 2-4 hours.[A18434] The pharmacokinetic profile act in a dose-proportional manner and in a dose of 100 mg the steady-state C<sub>max</sub> and AUC was 572 ng/ml and 1887 ng x h/mL. The absolute bioavailability is reported to be 9.3%. The absorption of asunaprevir is increased with food.[L2293]",
+    "metabolism": "Asunaprevir is metabolized by the liver.[A18434] The metabolism is mainly marked by oxidative reactions mediated by the activity of CYP3A.[L2293] Asunaprevir seems to weakly induce its own metabolism and from the circulating dose, just about 5% of the administered dose is formed by metabolites.[L2278] The metabolites of asunaprevir are formed after mono- and bis-oxidation, N-dealkylation, loss of isoquinoline ring and O-demethylation. All the metabolic reactions form about 15 metabolites and studies have reported that the main metabolic activity is performed by CYP3A4 and CYP3A5 with some minor activity from CYP2A6, CYP2B6, CYP2C9, CYP2C19 and CYP2D6.[L2293]",
+    "toxicity": "Toxicity studies showed no carcinogenic nor genotoxic potential related to asunaprevir. In the case of overdose, clinical studies reported no unexpected adverse events.[L2293] Asunaprevir had no effects on fertility in preclinical studies. It has been shown that asunaprevir gets localized in the GI tract and liver and thus, increased hepatic transaminases were observed as well as changes in iron metabolism and decreased serum proteins. These effects are not progressive and asunaprevir was generally well tolerated.[L2278]",
+    "targets": [
+        [
+            null,
+            "Genome polyprotein",
+            "Hepatitis C virus genotype 1b (isolate BK)"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ],
+        [
+            "SLCO2B1",
+            "Solute carrier organic anion transporter family member 2B1",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

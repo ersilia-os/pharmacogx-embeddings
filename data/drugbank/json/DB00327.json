@@ -1,0 +1,57 @@
+{
+    "pharmgkb_id": "PA449918",
+    "drugbank_id": "DB00327",
+    "names": [
+        "Hydromorphone"
+    ],
+    "description": "Hydromorphone is a pure opioid,[A176468] a semi-synthetic hydrogenated ketone derivative of [morphine] that has been available clinically since 1920. Structurally, hydromorphone derived from [morphine] in the modification of the hydroxyl group in the carbon 6 to a carbonyl and the absence of a double bond between the carbon 7 and 8. Due to these modifications, it presents a very high potency and comparable side effect profile to the parent compound.[A176471] Even though hydromorphone does not present a 6-hydroxyl group, it is categorized under the family of phenanthrenes and it is considered a chemical under the schedule II (medical purposes with high addiction potential).[A176495]\r\n\r\nThe first reported approved product containing hydromorphone in the form of hydromorphone hydrochloride was developed by Fresenius Kabi USA and FDA approved in 1984.[L5795]",
+    "indication": "Hydromorphone is indicated for the management of moderate to severe acute pain and severe chronic pain. Due to its addictive potential and overdose risk, hydromorphone is only prescribed when other first-line treatments have failed.[A176468]\r\n\r\nThe WHO has proposed a three-step ladder for the management of pain in which it is suggested to start with a non-opioid medication followed by addition of weak opioids to the non-opioid treatment for moderate pain and finishing in the use of strong opioids such as hydromorphone along with the existing regimen for cases of severe pain.[A176471]\r\n\r\nOff-label, hydromorphone can be administered for the suppression of refractory cough.[A176468]",
+    "pharmacodynamics": "In clinical trials, hydromorphone has been shown to be suitable for pain relief in patients that do not tolerate the side effects of [morphine] or that suffer from renal failure or asthma. It has been shown to be 5-7 times more potent than morphine with a shorter duration of analgesia.[A176471]\r\n\r\nSome of the observed effects of the consumption of hydromorphone for acute pain are complete and longlasting pain relief when compared to other pain relief agents such as [meperidine], [morphine], [diamorphine], [bupivacaine], [indomethacin], and [fentanyl]. On the same trials, hydromorphone was shown to produce respiratory depression, lower cognitive function, miosis, mydriasis, constipation, hypotension, and vertigo but to present a reduced incidence of pruritus (which indicates a lower release of histamine) and nausea.[A176507]\r\n\r\nThe respiratory depression is known to be caused by the effect on the brain stem respiratory centers as well as to a reduction in the responsiveness of this brain stems to increase carbon dioxide tension.[L5798]",
+    "mechanism-of-action": "Hydromorphone is an opioid agonist that can bind to different types of opioid receptors. Its analgesic effect is suggested to be related to the effect on the mu-opioid receptors. It has been reported to also have a minor affinity for the delta and kappa receptor.[A176495, A176504] On the other hand, it is known to act at the level of the medulla which allows it to depress the respiratory drive and suppress cough.[A176468]\r\n\r\nThe onset of action of the immediate release form of hydromorphone is achieved in 15-20 minutes and having a lasting effect for 3-4 hours while the extended-release form onset of action is of 6 hours lasting for about 13 hours.[A176468]",
+    "absorption": "The immediate release version of hydromorphone reaches its peak concentration after 30-60 minutes while the extended-release version reaches the peak concentration after 9 hours.[A176468] When administered orally, hydromorphone is absorbed mainly in the upper small intestine with a bioavailability of 60% due to intensive first-pass metabolism. In the controlled-release version of hydromorphone, the absorption follows a biphasic pharmacokinetic profile. However, even though there are clear distinctions in the absorption pathway of hydromorphone, the AUC of both versions is reported to be of 34 ng.h/ml which indicates an equivalence.[A176471]\r\n\r\nThe parenteral administration of hydromorphone, which is the most common pathway, presents an almost immediate absorption as observed by the presence of peak plasma concentration almost immediately. This peak plasma concentration declines rapidly due to fast redistribution into liver, spleen, kidney and skeletal muscle. In the parenteral route, the pharmacokinetic profile is log-linear and dose-dependent and to present a higher bioavailability of 78%.[A176471]\r\n\r\nOther administration routes such as rectal, nasal, intraspinal and transdermal present lower bioavailability and changes in their pharmacokinetic profile.[A176471]",
+    "metabolism": "The metabolism of hydromorphone is mainly hepatic and it is represented by the generation of hydromorphone-3-glucuronide through glucuronidation reactions.[A176468] This primary metabolic pathway is done by the activity of the UDP-glucuronosyltransferase-2B7.[A176501] The first-pass hepatic metabolism is so large that it represents 62% of the initial administered dose.[A176495]\r\n\r\nOn the other hand, hydromorphone is also characterized by the presence of minor metabolic pathways such as the CYP3A4- and CYP2C9-driven generation of norhydromorphone.[A39478]",
+    "toxicity": "The reported LD50 of hydromorphone in the mouse was of 104 mg/kg when given intravenously and 84 mg/kg when given orally.[F4181] The reports of overdose with hydromorphone are characterized by respiratory depression, somnolence, skeletal muscle flaccidity,  cold and clammy skin, constricted pupils, myosis, mydriasis, bradycardia, hypotension, apnea, circulatory collapse, cardiac arrest, and even death.[FDA label]\r\n\r\nThe management of an overdose might require assisted ventilation, supportive measures, as well as cardiac massage and defibrillation. It can be recommended the use of [naloxone] solely in the cases of respiratory depression. The use of opioid antagonist should be restricted to patients that present respiratory depression as they can produce acute abstinence symptoms.[FDA label]\r\n\r\nHydromorphone was not shown to be mutagenic nor clastogenic and long-term studies of carcinogenicity studies have not been performed. On the other hand, reduced implantation sites and viable fetuses were noted at a 2X normal concentration.[FDA label]",
+    "targets": [
+        [
+            "OPRM1",
+            "Mu-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRD1",
+            "Delta-type opioid receptor",
+            "Humans"
+        ],
+        [
+            "OPRK1",
+            "Kappa-type opioid receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,112 @@
+{
+    "pharmgkb_id": "PA451906",
+    "drugbank_id": "DB00682",
+    "names": [
+        "Warfarin",
+        "Lawarin",
+        "Marevan",
+        "Waran",
+        "Warfant"
+    ],
+    "description": "Warfarin is an anticoagulant drug normally used to prevent blood clot formation as well as migration. Although originally marketed as a pesticide (d-Con, Rodex, among others), Warfarin has since become the most frequently prescribed oral anticoagulant in North America. Warfarin has several properties that should be noted when used medicinally, including its ability to cross the placental barrier during pregnancy which can result in fetal bleeding, spontaneous abortion, preterm birth, stillbirth, and neonatal death. Additional adverse effects such as necrosis, purple toe syndrome, osteoporosis, valve and artery calcification, and drug interactions have also been documented with warfarin use. Warfarin does not actually affect blood viscosity, rather, it inhibits vitamin-k dependent synthesis of biologically active forms of various clotting factors in addition to several regulatory factors.",
+    "indication": "**Indicated** for:[label,L6616]\r\n\r\n1) Prophylaxis and treatment of venous thromboembolism and related pulmonary embolism.\r\n\r\n2) Prophylaxis and treatment of thromboembolism associated with atrial fibrillation.\r\n\r\n3) Prophylaxis and treatment of thromboembolism associated with cardiac valve replacement.\r\n\r\n4) Use as adjunct therapy to reduce mortality, recurrent myocardial infarction, and thromboembolic events post myocardial infarction.\r\n\r\n**Off-label** uses include:\r\n\r\n1) Secondary prevention of stroke and transient ischemic attacks in patients with rheumatic mitral valve disease but without atrial fibrillation.[A179182]",
+    "pharmacodynamics": "Warfarin is an anticoagulant, as such it disrupts the coagulation cascade to reduce frequency and extent of thrombus formation.[label,L6616] In patients with deep vein thrombosis or atrial fibrillation there is an increased risk of thrombus formation due to the reduced movement of blood.[T622] For patients with cardiac valve disease or valve replacements this increased coagulability is due to tissue damage. Thrombi due to venous thrombosis can travel to the lungs and become pulmonary emboli, blocking circulation to a portion of lung tissue. Thrombi which form in the heart can travel to the brain and cause ischemic strokes. Prevention of these events is the primary goal of warfarin therapy.\r\n\r\nLimitation of thrombus formation is also a source of adverse effects. In patients with atheroscelotic plaques rupture typically results in thrombus formation.[A179212] When these patients are anticoagulated plaque rupture can allow the escape of cholesterol from the lipid core in the form of atheroemboli or cholesterol microemboli. These emboli are smaller than thrombi and block smaller vessels, usually less than 200 \u03bcm in diameter. The consequences of this are varied and depend on the location of the blockage. Effects include visual disturbances, acute kidney injury or worsening of chronic kidney disease, central nervous system ischemia, and purple or blue toe syndrome.[label,A179212] Blue toe syndrome can be reversed if it has not progressed to tissue necrosis but the other effects of microemboli are often permanent.\r\n\r\nAntocoagulation appears to mediate warfarin-related nephropathy, a seemingly spontaneous kidney injury or worsening of chronic kidney disease associated with warfarin therapy.[A179215] Nephropathy in this case appears to be due to increased passage of red blood cells through the glomerulus and subsequent blockage of renal tubules with red blood cell casts. This is worsened or possibly triggered by pre-existing kidney damage. Increased risk of warfarin-related nephropathy occurs at INRs over 3.0 but risk does not increase as a function of INR beyond this point.\r\n\r\nWarfarin has been linked to the development of calciphylaxis.[label] This is thought to be due to warfarin's inhibition of [vitamin K](VKA) recycling as VKA is needed for the carboxylation of matrix Gla protein.[A179218] This protein is an anti-calcification factor and its inhibition through preventing the carboxylation step in its production leads to a shift in calcification balance in favor of calciphylaxis. \r\n\r\nTissue necrosis can occur early on in warfarin therapy.[label] This is attributable to half lives of the clotting factors impacted by inhibition of vitamin K recycling.[label,A179221] Proteins C and S are anticoagulation factors with half lives of 8 and 24 hours respectively. The coagulation factors IX, X, VII, and thrombin (factor II) have half lives of 24, 36, 6, and 50 hours respectively. This means proteins C and S are inactivated sooner than pro-coagulation proteins, with the exception of factor VII, resulting in a pro-thrombotic state for the first few days of therapy. Thrombi which form in this time period can occlude arterioles in various locations, blocking blood flow and causing tissue necrosis due to ischemia.",
+    "mechanism-of-action": "Warfarin is a [vitamin K] antagonist which acts to inhibit the production of vitamin K by vitamin K epoxide reductase.[label,A179221,T116] The reduced form of vitamin K, vitamin KH<sub>2</sub> is a cofactor used in the \u03b3-carboxylation of coagulation factors VII, IX, X, and thrombin. Carboxylation induces a conformational change allowing the factors to bind Ca<sup>2+</sup> and to phospholipid surfaces. Uncarboxylated factors VII, IX, X, and thrombin are biologically inactive and therefore serve to interrupt the coagulation cascade. The endogenous anticoagulation proteins C and S also require  \u03b3-carboxylation to function. This is particularly true in the case of thrombin which must be activated in order to form a thrombus. vitamin KH<sub>2</sub> is converted to vitamin K epoxide as part of the \u03b3-carboxylation reaction catalyzed by \u03b3-glutamyl carboxylase. Vitamin K epoxide is then converted to vitamin K<sub>1</sub> by vitamin K epoxide reductase then back to vitamin KH<sub>2</sub> by vitamin K reductase. Warfarin binds to vitamin K epoxide reductase complex subunit 1 and irreversibly inhibits the enzyme thereby stopping the recycling of vitamin K by preventing the conversion of vitamin K epoxide to vitamin K<sub>1</sub>. This process creates a hypercoagulable state for a short time as proteins C and S degrade first with half lives of 8 and 24 hours, with the exception of factor VII which has a half life of 6 hours.[A179221] Factors IX, X, and finally thrombin degrade later with half lives of 24, 36, and 50 hours resulting in a dominant anticoagulation effect.[A179221] In order to reverse this anticoagulation vitamin K must be supplied, either exogenously or by removal of the vitamin K epoxide reductase inhibition, and time allowed for new coagulation factors to be synthesized.[label,A179221,T116] It takes approximately 2 days for new coagulation factors to be synthesized in the liver. Vitamin K<sub>2</sub>, functionally identical to vitamin K<sub>1</sub>, is synthesized by gut bacteria leading to interactions with antibiotics as elimination of these bacteria can reduce vitamin K<sub>2</sub supply and result in a greater anticoagulation effect.[T116]",
+    "absorption": "Completely absorbed from the GI tract. The mean Tmax for warfarin sodium tablets is 4 hours.[label,L6616,A2460]",
+    "metabolism": "Metabolism of warfarin is both stereo- and regio-selective.[A2460] The major metabolic pathway is oxidation to various hydroxywarfarins, comprising 80-85% of the total metabolites. CYP2C9 is the major enzyme catalyzing the 6- and 7-hydroxylation of S-warfarin while 4'-hydroxylation occurs through CYP2C18 with minor contributions from CYP2C19. R-warfarin is metabolized to 4'-hydroxywarfarin by CYP2C8 with some contirbuting by CYP2C19, 6- and 8-hydroxywarfarin by CYP1A2 and CYP2C19, 7-hydroxywarfarin by CYP1A2 and CYP2C8, and lastly to 10-hydroxywarfarin by CYP3A4. The 10-hydroxywarfarin metabolite as well as a benzylic alcohol metabolite undergo an elimination step to form dehydrowarfarin. The minor pathway of metabolism is the reduction of the ketone group to warfarin alcohols, comprising 20% of the metabolites. Limited conjugation occurs with sulfate and gluronic acid groups but these metabolites have only been confirmed for R-hydroxywarfarins.",
+    "toxicity": "**LD<sub>50</sub> Values**\r\n\r\nMouse: 3 mg/kg (Oral), 165 mg/kg (IV), 750 mg/kg (IP)[L6622]\r\n\r\n\r\nRat: 1.6 mg/kg (Oral), 320 mg/kg (Inhaled), 1400 mg/kg (Skin)[L6622]\r\n\r\nRabbit: 800 mg/kg (Oral)[L6622]\r\n\r\nPig: 1 mg/kg (Oral)[L6622]\r\n\r\nDog: 3 mg/kg (Oral)[L6622]\r\n\r\nCat: 6 mg/kg (Oral)[L6622]\r\n\r\nChicken: 942 mg/kg (Oral)[L6622]\r\n\r\nGuinea Pig: 180 mg/kg (Oral)[L6622]\r\n\r\n**Overdose**\r\n\r\nDoses of 1-2 mg/kg/day over a period of 15 days have been fatal in humans.[L6625] Warfarin overdose is primarily associated with major bleeding particularly from the mucous membranes, gastrointestinal tract, and genitourinary system.[label,L6625] Epistaxis, ecchymoses, as well as renal and hepatic bleeding are also associated. These symptoms become apparent within 2-4 days of overdose although increases in prothrombin time can be observed within 24 hours. Treatment for overdosed patients includes discontinuation of warfarin and administration of [vitamin K]. For more urgent reversal of anticoagulation [prothrombin] complex concentrate, blood plasma, or [coagulation factor VIIa] infusion can be used.[label] Patients can be safely re-anticoagulated after reversal of the overdose.\r\n\r\n**Carcinogenicity & Mutagenicity**\r\n\r\nThe carcinogenicity and mutagenicity of warfarin have not been thoroughly investigated.[label]\r\n\r\n**Reproductive Toxicity**\r\n\r\nWarfarin is known to be a teratogen and its use during pregnancy is contraindicated in the absence of high thrombotic risk.[label,L6625] Fetal warfarin syndrome, attributed to exposure during the 1st trimester, is characterized by nasal hypoplasia with or without stippled epiphyses, possible failure of nasal septum development, and low birth weight. Either dorsal midline dysplasia or ventral midline dysplasia can occur. Dorsal midline dysplasia includes agenisis of the corpus callosum, Dandy-Walker malformations, midline cerebellar hypoplasia. Ventral midline dysplasia is characterized by eye anomalies which can potentially include optic atrophy, blindness, and microphthalmia. Exposure during the 2nd and 3rd trimester is associated with hypoplasia of the extremities, developmental retardation, microcephaly, hydrocephaly, schizencephaly, seizures, scoliosis, deafness, congenital heart malformations, and fetal death. The critical exposure period is estimated to be week 6-9 based on case reports. Effects noted in the Canadian product monograph include developing a single kidney, asplenia, anencephaly, spina bifida, cranial nerve palsy, polydactyl malformations, corneal leukoma, diaphragm hernia, and cleft palate.[L6616]\r\n\r\n**Lactation**\r\n\r\nOfficial product monographs mention a study in 15 women.[label,L6616] Warfarin was not detected in the breast milk of any woman and 6 infants were documented as having normal prothrombin times. The remaining 9 infants were not tested. Another study in 13 women using doses of 2-12 mg also revealed no detectable warfarin in breast milk.[L6628] A woman who mistakenly took 25 mg of warfarin for 7 days while breastfeeding presented to an emergency room with an INR of 10 and prothrombin time of over 100 s. Her infant had a normal INR of 1.0 and prothrombin time of 10.3. The infant in this case has an increased prothrombin time of 33.8 s three weeks previous but this was judged not to be due to warfarin exposure.",
+    "targets": [
+        [
+            "VKORC1",
+            "Vitamin K epoxide reductase complex subunit 1",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP2C18",
+            "Cytochrome P450 2C18",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00682",
+            "Drug Name": "Warfarin",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1799853",
+            "Effect Description": "Patients with this genotype have reduced metabolism of warfarin."
+        },
+        {
+            "DrugBank ID": "DB00682",
+            "Drug Name": "Warfarin",
+            "Gene Symbol": "VKORC1",
+            "RS ID (Genotype)": "rs9923231",
+            "Effect Description": "Patients with this genotype in VKORC1 are associated with reduced metabolism of warfarin and increased risk of serious bleeding thus require lower doses."
+        },
+        {
+            "DrugBank ID": "DB00682",
+            "Drug Name": "Warfarin",
+            "Gene Symbol": "CYP4F2",
+            "RS ID (Genotype)": "rs2108622",
+            "Effect Description": "Patients with this genotype in CP4F2 may require higer doses of warfarin to attain therapeutic anticoagulant activity."
+        },
+        {
+            "DrugBank ID": "DB00682",
+            "Drug Name": "Warfarin",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1799853",
+            "Effect Description": "The presence of this polymorphism in CYP2C9 is associated with reduction in warfarin metabolism."
+        },
+        {
+            "DrugBank ID": "DB00682",
+            "Drug Name": "Warfarin",
+            "Gene Symbol": "CYP2C9",
+            "RS ID (Genotype)": "rs1057910",
+            "Effect Description": "The presence of this polymorphism in CYP2C9 is associated with reduction in warfarin metabolism."
+        }
+    ]
+}

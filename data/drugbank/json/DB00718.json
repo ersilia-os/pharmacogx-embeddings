@@ -1,0 +1,85 @@
+{
+    "pharmgkb_id": "PA10005",
+    "drugbank_id": "DB00718",
+    "names": [
+        "Adefovir dipivoxil",
+        "A Di Xian",
+        "A Gan Ding",
+        "Adesera",
+        "Adfovir",
+        "Ailuwei",
+        "Antiva",
+        "Biovir",
+        "Dai Ding",
+        "Dinghe",
+        "Infovir",
+        "Jiule",
+        "Lifuzhi",
+        "Ming Zheng",
+        "Nafasera",
+        "Preveon",
+        "Pymefovir",
+        "Xinfunuo",
+        "Yilaifen"
+    ],
+    "description": "Adefovir dipivoxil, previously called bis-POM PMEA, with trade names Preveon and Hepsera, is an orally-administered acyclic nucleotide analog reverse transcriptase inhibitor (ntRTI) used for treatment of hepatitis B. It is ineffective against HIV-1. Adefovir dipivoxil is the diester prodrug of adefovir.",
+    "indication": "Indicated for the treatment of chronic hepatitis B in adult patients with evidence of active viral replication and either evidence of persistent elevations in serum aminotransferases (ALT or AST) or histologically active disease; this is based on histological, virological, biochemical, and serological responses in adult patients with HBeAg+ and HBeAg- chronic hepatitis B with compensated liver function, and in adult patients with clinical evidence of lamivudine-resistant hepatitis B virus with either compensated or decompensated liver function.",
+    "pharmacodynamics": "Adefovir dipivoxil a diester prodrug of adefovir. Adefovir is an acyclic nucleotide analog with activity against human hepatitis B virus (HBV). The concentration of adefovir that inhibited 50% of viral DNA synthesis (IC50) in vitro ranged from 0.2 to 2.5 &mu;M in HBV transfected human hepatoma cell lines. The combination of adefovir with lamivudine showed additive anti-HBV activity.",
+    "mechanism-of-action": "Adefovir dipivoxil is a prodrug of adefovir. Adefovir is an acyclic nucleotide analog of adenosine monophosphate which is phosphorylated to the active metabolite adefovir diphosphate by cellular kinases. Adefovir diphosphate inhibits HBV DNA polymerase (reverse transcriptase) by competing with the natural substrate deoxyadenosine triphosphate and by causing DNA chain termination after its incorporation into viral DNA. The inhibition constant (Ki) for adefovir diphosphate for HBV DNA polymerase was 0.1 &mu;M. Adefovir diphosphate is a weak inhibitor of human DNA polymerases &alpha; and &gamma; with Ki values of 1.18 &mu;M and 0.97&mu;M, respectively.",
+    "absorption": "The approximate oral bioavailability of adefovir from HEPSERA is 59%. When a single oral 10 mg dose is given to chronic hepatitis B patients, the peak plasma concentration (Cmax) of adefovir was 18.4 \u00b1 6.26 ng/mL. This occurred between 0.58 - 4 hours post dose (Tmax). The adefovir area under the plasma concentration-time curve (AUC0\u2013\u221e) was 220 \u00b1 70.0 ng\u2219h/mL. Food does not affect the exposure of adeforvir. ",
+    "metabolism": "Following oral administration, adefovir dipivoxil is rapidly converted to adefovir. 45% of the dose is recovered as adefovir in the urine over 24 hours at steady state following 10 mg oral doses. Adefovir is not a substrate of the cytochrome P450 enzymes.",
+    "toxicity": "Renal tubular nephropathy characterized by histological alterations and/or increases in BUN and serum creatinine was the primary dose-limiting toxicity associated with administration of adefovir dipivoxil in animals. Nephrotoxicity was observed in animals at systemic exposures approximately 3&ndash;10 times higher than those in humans at the recommended therapeutic dose of 10 mg/day.",
+    "targets": [
+        [
+            "P",
+            "DNA polymerase/reverse transcriptase",
+            "HBV-D"
+        ]
+    ],
+    "enzymes": [
+        [
+            "AK2",
+            "Adenylate kinase 2, mitochondrial",
+            "Humans"
+        ],
+        [
+            "AK4",
+            "Adenylate kinase 4, mitochondrial",
+            "Humans"
+        ],
+        [
+            "NME1",
+            "Nucleoside diphosphate kinase A",
+            "Humans"
+        ],
+        [
+            "NME2",
+            "Nucleoside diphosphate kinase B",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "ABCC5",
+            "Multidrug resistance-associated protein 5",
+            "Humans"
+        ],
+        [
+            "SLC22A3",
+            "Solute carrier family 22 member 3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

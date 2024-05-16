@@ -1,0 +1,100 @@
+{
+    "pharmgkb_id": "PA448018",
+    "drugbank_id": "DB00819",
+    "names": [
+        "Acetazolamide",
+        "Acemit",
+        "Acemox",
+        "Acetak",
+        "Acetamide",
+        "Acetazolamax",
+        "Azm",
+        "Azol",
+        "Azomid",
+        "Carbinib",
+        "D\u00e9filtran",
+        "Diabo",
+        "Diacarb",
+        "Diamox",
+        "Diamox Depot",
+        "Diazomid",
+        "Diluran",
+        "Diuramid",
+        "Edemox",
+        "Glaumox",
+        "Glaupax",
+        "Glupax",
+        "Huma-Zolamide",
+        "Iopar-SR",
+        "Medene",
+        "Oculten",
+        "\u00d6demin",
+        "Uramox",
+        "Zolmide"
+    ],
+    "description": "One of the carbonic anhydrase inhibitors that is sometimes effective against absence seizures. It is sometimes useful also as an adjunct in the treatment of tonic-clonic, myoclonic, and atonic seizures, particularly in women whose seizures occur or are exacerbated at specific times in the menstrual cycle. However, its usefulness is transient often because of rapid development of tolerance. Its antiepileptic effect may be due to its inhibitory effect on brain carbonic anhydrase, which leads to an increased transneuronal chloride gradient, increased chloride current, and increased inhibition. (From Smith and Reynard, Textbook of Pharmacology, 1991, p337)",
+    "indication": "For adjunctive treatment of: edema due to congestive heart failure; drug-induced edema; centrencephalic epilepsies; chronic simple (open-angle) glaucoma",
+    "pharmacodynamics": "Acetazolamide is a potent carbonic anhydrase inhibitor, effective in the control of fluid secretion, in the treatment of certain convulsive disorders and in the promotion of diuresis in instances of abnormal fluid retention. Acetazolamide is not a mercurial diuretic. Rather, it is a nonbacteriostatic sulfonamide possessing a chemical structure and pharmacological activity distinctly different from the bacteriostatic sulfonamides.",
+    "mechanism-of-action": "The anticonvulsant activity of Acetazolamide may depend on a direct inhibition of carbonic anhydrase in the CNS, which decreases carbon dioxide tension in the pulmonary alveoli, thus increasing arterial oxygen tension. The diuretic effect depends on the inhibition of carbonic anhydrase, causing a reduction in the availability of hydrogen ions for active transport in the renal tubule lumen. This leads to alkaline urine and an increase in the excretion of bicarbonate, sodium, potassium, and water.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "CA1",
+            "Carbonic anhydrase 1",
+            "Humans"
+        ],
+        [
+            "CA2",
+            "Carbonic anhydrase 2",
+            "Humans"
+        ],
+        [
+            "CA4",
+            "Carbonic anhydrase 4",
+            "Humans"
+        ],
+        [
+            "CA12",
+            "Carbonic anhydrase 12",
+            "Humans"
+        ],
+        [
+            "CA14",
+            "Carbonic anhydrase 14",
+            "Humans"
+        ],
+        [
+            "CA3",
+            "Carbonic anhydrase 3",
+            "Humans"
+        ],
+        [
+            "CA7",
+            "Carbonic anhydrase 7",
+            "Humans"
+        ],
+        [
+            "AQP1",
+            "Aquaporin-1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,105 @@
+{
+    "pharmgkb_id": "PA449334",
+    "drugbank_id": "DB00343",
+    "names": [
+        "Diltiazem",
+        "Acalix",
+        "Adizem",
+        "Altiazem",
+        "Anoheal",
+        "Calcicard",
+        "Cartia",
+        "Dilacor",
+        "Dilacor-XR",
+        "Dilcontin",
+        "Dilrene",
+        "Dilticard",
+        "Dilzem",
+        "Herbesser",
+        "Incoril AP",
+        "Masdil",
+        "Surazem",
+        "TAZTIA",
+        "Tildem",
+        "Viazem"
+    ],
+    "description": "Diltiazem is a benzothiazepine derivative with antihypertensive and vasodilating properties. Approved in 1982 by the FDA, it is a member of the non-dihydropyridine calcium channel blockers drug class. It works through various mechanisms of action, but it primarily works by inhibiting the calcium influx into cardiac and vascular smooth muscle during depolarization.[L10556] Compared to dihydropyridine drugs, such as [nifedipine], that preferentially act on vascular smooth muscle and [verapamil] that directly acts on the heart muscle, diltiazem displays an intermediate specificity to target both the cardiac and vascular smooth muscle.[T28] Being a potent vasodilator, diltiazem is used clinically as an antihypertensive, anti-arrhythmic, and as an anti-anginal agent [L6289] for the management of cardiovascular conditions such as hypertension, chronic stable angina, atrial fibrillation, atrial flutter. Apart from its main FDA-approved indications, diltiazem has also been used for numerous off-label indications, such as anal fissures (in topical formulations), migraine prophylaxis, pulmonary hypertension, and rest-related cramps in the lower extremities.[L6289] Typically available in extended-release oral and intravenous formulations, diltiazem is marketed under various brand names with Cardizem and Tiazac being the most common ones.",
+    "indication": "**Oral**\r\n\r\nIndicated for the management of hypertension, to lower blood pressure, alone or in combination with other antihypertensive agents.[L10556]\r\n\r\nIndicated for use to improve exercise tolerance in patients with chronic stable angina.[L10556]\r\n\r\nIndicated for the management of variant angina (Prinzmetal's angina).[L6298]\r\n\r\n**Intravenous**\r\n\r\nIndicated for the short-term management of atrial fibrillation or atrial flutter for temporary control of rapid ventricular rate.[L6292]\r\n\r\nIndicated for the rapid conversion of paroxysmal supraventricular tachycardias (PSVT) to sinus rhythm. This includes AV nodal reentrant tachycardias and reciprocating tachycardias associated with an extranodal accessory pathway such as the WPW syndrome or short PR syndrome.[L6292]\r\n\r\n**Off-label**\r\n\r\nIndicated for off-label uses in anal fissures (as topical formulation), migraine prophylaxis, cramps in lower leg related to rest, pulmonary hypertension,[L6289] idiopathic dilated cardiomyopathy, and proteinuria associated with diabetic nephropathy.[L6298]",
+    "pharmacodynamics": "Diltiazem is an antihypertensive and vasodilating agent that works by relaxing the vascular muscle and reducing blood pressure. This is related to the long-term therapeutic effects, as lowering the blood pressure reduces the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions.[L10556] Diltiazem inhibits the influx of extracellular calcium ions across the myocardial and vascular smooth muscle cell membranes during depolarization. Diltiazem is classified as a negative inotrope (decreased force) and negative chronotrope (decreased rate).[L6289] It is also considered a rate-control drug as it reduces heart rate.[A178432,T28] Diltiazem is exerts hemodynamic actions by reducing blood pressure, systemic vascular resistance, the rate-pressure product, and coronary vascular resistance while increasing coronary blood flow.[L6292] Diltiazem decreases sinoatrial and atrioventricular conduction in isolated tissues and has a negative inotropic effect in isolated preparations.[L10556] In supraventricular tachycardia, diltiazem prolongs AV nodal refractories.[L6292]\r\n\r\nAs the magnitude of blood pressure reduction is related to the degree of hypertension, the antihypertensive effect of diltiazem is most pronounced in individuals with hypertension. In a randomized, double-blind, parallel-group, dose-response study involving patients with essential hypertension, there was a reduction in the diastolic blood pressure by 1.9, 5.4, 6.1, and 8.6 mmHg in the patients receiving diltiazem at doses of 120, 240, 360, and 540 mg, respectively. In patients receiving placebo, there was a reduction in the diastolic blood pressure by 2.6 mmHg.In a randomized, double-blind study involving patients with chronic stable angina, variable doses of diltiazem administered at night all caused an increased exercise tolerance in the after 21 hours, compared to placebo.[L10556] In the NORDIL study of patients with hypertension, the therapeutic effectiveness of diltiazem in reducing cardiovascular morbidity and mortality was assessed.[A178432] When using the combined primary endpoint as fatal and non-fatal stroke, myocardial infarction, and other cardiovascular death, fatal and non-fatal stroke was shown to be reduced by 25% in the diltiazem group. Although the clinical significance to this effect remains unclear, it is suggested that diltiazem may exert a protective role against cerebral stroke in hypertensive patients.[A178432] ",
+    "mechanism-of-action": "Excitation of cardiac muscle involves the activation of a slow calcium inward current that is induced by L-type slow calcium channels, which are voltage-sensitive, ion-selective channels[A178444] associated with a high activation threshold and slow inactivation profile.[T28] L-type calcium channels are the main current responsible for the late phase of the pacemaker potential.[A178492] Acting as the main Ca2+ source for contraction in smooth and cardiac muscle, activation of L-type calcium channels allows the influx of calcium ions into the muscles upon depolarization and excitation of the channel.[A178444] It is proposed that this cation influx may also trigger the release of additional calcium ions from intracellular storage sites.[A178444] Diltiazem is a slow calcium channel blocker that binds to the extracellular site of the alpha-1C subunit of the channel, which is thought to be the S5-6 linker region of the transmembrane domain IV and/or S6 segment of domain III.[A178492]  Diltiazem can get access to this binding site from either the intracellular or extracellular side, but it requires a voltage-induced conformational changes in the membrane.[A178492] Diltiazem inhibits the influx of extracellular calcium across the myocardial and vascular smooth muscle cell membranes.[L10556] In isolated human atrial and ventricular myocardium, diltiazem suppressed tension over the range of membrane potentials associated with calcium channel activity but had little effect on the tension-voltage relations at more positive potentials.[A178453] This effect is thought to be mediated by the voltage-dependent block of the L-type calcium channels and inhibition of calcium ion release from the ER stores, without altering the sodium-calcium coupled transport or calcium sensitivity of myofilaments.[A178453] Through inhibition of inward calcium current, diltiazem exerts a direct ionotropic and energy sparing effect on the myocardium.[A178444] Diltiazem fslows atrioventricular nodal conduction, which is due to its ability to impede slow channel function.[A178444]\r\n\r\nReduced intracellular calcium concentrations equate to increased smooth muscle relaxation resulting in arterial vasodilation and therefore, decreased blood pressure.[L6289] The decrease in intracellular calcium inhibits the contractile processes of the myocardial smooth muscle cells, causing dilation of the coronary and systemic arteries, increased oxygen delivery to the myocardial tissue, decreased total peripheral resistance, decreased systemic blood pressure, and decreased afterload.[L6289,L10556] Through its actions on reducing calcium levels in cardiac and vascular smooth muscles, diltiazem causes a reduction in the contractile processes of the myocardial smooth muscle cells and vasodilation of the coronary and systemic arteries, including epicardial and subendocardial. This subsequently leads to increased oxygen delivery to the myocardial tissue, improved cardiac output due to increased stroke volume, decreased total peripheral resistance, decreased systemic blood pressure and heart rate, and decreased afterload.[L6289,L10556] Diltiazem lowers myocardial oxygen demand through a reduction in heart rate, blood pressure, and cardiac contractility; this leads to a therapeutic effect in improving exercise tolerance in chronic stable angina.[A178432,L6289] ",
+    "absorption": "Diltiazem is readily absorbed from the gastrointestinal tract. Minimum therapeutic plasma diltiazem concentrations appear to be in the range of 50 to 200 ng/mL. Following oral administration of extended formulations of 360 mg diltiazem, the drug in plasma was detectable within 3 to 4 hours and the peak plasma concentrations were reached between 11 and 18 hours post-dose. Diltiazem peak and systemic exposures were not affected by concurrent food intake.[L10556] Due to hepatic first-pass metabolism, the absolute bioavailability following oral administration is about 40%,[L10556] with the value ranging from 24 to 74% due to high interindividual variation in the first pass effect.[A178420] The bioavailability may increase in patients with hepatic impairment.[L10556]",
+    "metabolism": "Diltiazem is subject to extensive first-pass metabolism, which explains its relatively low absolute oral bioavailability. It undergoes N-demethylation primarily mediated by CYP3A4. CYP2D6 is responsible for O-demethylation and esterases mediate deacetylation.[A39292] There was large inter-individual variability in the circulating plasma levels of metabolites in healthy volunteers.[A178516]\r\n\r\nIn healthy volunteers, the major circulating metabolites in the plasma are N-monodesmethyl diltilazem, deacetyl diltiazem, and deacetyl N-monodesmethyl diltiazem, which are all pharmacologically active.[A178516] Deacetyl diltiazem retains about 25-50% of the pharmacological activity to that of the parent compound.[L10556] Deacetyl diltiazem can be further transformed into deacetyl diltiazem N-oxide or deacetyl O-desmethyl diltiazem. N-monodesmethyl diltilazem can be further metabolized to N,O-didesmethyl diltiazem. Deacetyl N-monodesmethyl diltiazem can be further metabolized to deacetyl N,O-didesmethyl diltiazem, which can be glucuronidated or sulphated.[A178516] Diltiazem can be O-demethylated by CYP2D6 to form O-desmethyl diltiazem.[A39292]\r\n",
+    "toxicity": "**Clinical Toxicity and Overdose**\r\n\r\nThe oral LD<sub>50</sub> ranges from 415 to 740mg/kg in mice and 560 to 810 mg/kg in rats. The oral LD<sub>50</sub> in dogs is considered to be in excess of 50 mg/kg. A dose of 360 mg/kg resulted in lethality in monkeys. The intravenous LD<sub>50</sub> is 60 mg/kg in mice and 38 mg/kg in rats. \r\n\r\nCases of overdose from doses ranging from less than 1 g to 18 g have been reported with diltiazem, with several cases involving multiple drug ingestions resulting in death. Overdoses were associated with bradycardia, hypotension, heart block, and cardiac failure that may manifest as dizziness, lightheadedness, and fatigue.[L6289] Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician. Diltiazem overdose should be responded with appropriate supportive measures and gastrointestinal decontamination. Bradycardia and heart block can be treated with atropine at doses ranging from 0.60 to 1.0 mg. In the case of bradycardia, if there is no response to vagal blockage, cautious administration of isoproterenol should be considered. Cardiac pacing can also be used to treat fixed high-degree AV block. In the case of heart failure, blood pressure may be maintained with the use of fluids and vasopressors, as well as inotropic agents such as [isoproterenol], [dopamine], or [dobutamine]. Other appropriate measures include ventilatory support, gastric lavage, activated charcoal, and/or intravenous calcium. Diltiazem does not appear to be removed by peritoneal or hemodialysis.[L10556]\r\n\r\n**Non-clinical toxicity**\r\n\r\nIn a 24-month study in rats receiving oral doses of up to 100 mg/kg/day, there was no evidence of carcinogenicity. There was also no mutagenic response _in vitro_ or _in vivo_ in mammalian cell assays or _in vitro_ bacterial assays. No evidence of impaired fertility was observed in a study performed in male and female rats receiving oral doses of up to 100 mg/kg/day.[L10556]\r\n\r\n**Pregnancy and Lactation**\r\n\r\nIn reproduction studies in animals, administration of diltiazem at doses ranging from five to twenty times the daily recommended human therapeutic dose resulted in cases of the embryo and fetal lethality and skeletal abnormalities, and an increase in the risk of stillbirths. There have been no up-to-date controlled studies that investigated the use of diltiazem in pregnant women. The use of diltiazem in pregnant women should be undertaken only if the potential benefit justifies the risk to the fetus.[L10556] Diltiazem is excreted in human milk, where one report suggests that the concentrations in breast milk may approximate serum levels; therefore, the decision should be made to either discontinue nursing or the use of the drug after careful consideration of the clinical necessity of diltiazem therapy in the nursing mother.[L10556]\r\n\r\n**Use in special populations**\r\n\r\nAs there is limited information on the variable effects of diltiazem in geriatric patients, the initial therapy of diltiazem should involve the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy. Currently, there are no specific dosing guidelines for patients with renal or hepatic impairment.[L10556]",
+    "targets": [
+        [
+            "CACNA1C",
+            "Voltage-dependent L-type calcium channel subunit alpha-1C",
+            "Humans"
+        ],
+        [
+            "CACNG1",
+            "Voltage-dependent calcium channel gamma-1 subunit",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ],
+        [
+            "CYP3A7",
+            "Cytochrome P450 3A7",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM1",
+            "Alpha-1-acid glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00343",
+            "Drug Name": "Diltiazem",
+            "Gene Symbol": "ADRB1",
+            "RS ID (Genotype)": "rs1801253",
+            "Effect Description": "Patients with this genotype require a lower dosage of diltiazem to achieve a favourable rate-control response when treating atrial fibrillation."
+        }
+    ]
+}

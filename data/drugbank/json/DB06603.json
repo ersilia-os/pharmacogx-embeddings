@@ -1,0 +1,94 @@
+{
+    "pharmgkb_id": "PA166161307",
+    "drugbank_id": "DB06603",
+    "names": [
+        "Panobinostat",
+        "Faridak",
+        "Farydak"
+    ],
+    "description": "Panobinostat is an oral deacetylace (DAC) inhibitor approved on February 23, 2015 by the FDA for the treatment of multiple myeloma. The approval was accelerated based on progression-free survival, therefore confirmatory trials by the sponsor to demonstrate clinical efficacy in multiple myeloma treatment are in progress of being conducted. Panobinostat is marketed by Novartis under the brand name Farydak. Panobinostat acts as a non-selective histone deacetylase inhibitor (pan-HDAC inhibitor) and it is the most potent DAC inhibiting agent available on the market.",
+    "indication": "Panobinostat is indicated in the treatment of multiple myeloma in combination with dexamethasone and bortezomib in patients who have received 2 previous treatment regimens including bortezomib and an immunomodulatory agent. This indication is approved by accelerated approval based on progression free survival as of February 23, 2015. ",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Panobinostat is a deacetylase (DAC) inhibitor. DACs, also known as histone DACs (HDAC), are responsible for regulating the acetylation of about 1750 proteins in the body; their functions are involved in many biological processes including DNA replication and repair, chromatin remodelling, transcription of genes, progression of the cell-cycle, protein degradation and cytoskeletal reorganization. In multiple myeloma, there is an overexpression of DAC proteins. Panobinostat inhibits class I (HDACs 1, 2, 3, 8), class II (HDACs 4, 5, 6, 7, 9, 10) and class IV (HDAC 11) proteins. Panobinostat's antitumor activity is believed to be attributed to epigenetic modulation of gene expression and inhibition of protein metabolism. Panobinostat also exhibits cytotoxic synergy with bortezomib, a proteasome inhibitor concurrently used in treatment of multiple myeloma. ",
+    "absorption": "After a 20 mg dose, panobinostat was quickly absorbed with a time to maximum absorption of 2 hours. ",
+    "metabolism": "Panobinostat was extensively metabolized to 77 metabolites. Unchanged panobinostat recovered in urine and feces was 2% and 3%, respectively. Primary metabolic pathways of panobinostat are reduction, hydrolysis, oxidation, and glucuronidation processes. CYP and non-CYP enzymes were found to play significant role in metabolism, CYP2D6 and CYP2C19 playing minor roles. ",
+    "toxicity": "Farydak carries a Boxed Warning alerting patients and health care professionals that severe diarrhea and severe and fatal cardiac events, arrhythmias and electrocardiogram (ECG) changes have occurred in patients receiving Farydak. Because of these risks, Farydak is being approved with a Risk Evaluation and Mitigation Strategy (REMS) consisting of a communication plan to inform health care professionals of these risks and how to minimize them.",
+    "targets": [
+        [
+            "HDAC1",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC10",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC11",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC2",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC3",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC4",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC5",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC6",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC7",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC8",
+            "Histone deacetylase",
+            "Humans"
+        ],
+        [
+            "HDAC9",
+            "Histone deacetylase",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

@@ -1,0 +1,25 @@
+{
+    "pharmgkb_id": "PA165945763",
+    "drugbank_id": "DB06441",
+    "names": [
+        "Cangrelor"
+    ],
+    "description": "Cangrelor is an intravenous, direct-acting, reversible P2Y12 inhibitor for patients undergoing percutaneous coronary intervention (PCI) who have not been yet treated by oral P2Y12 inhibitors. An advantage Cangrelor provides over oral P2Y12 inhibitors (such as prasugrel, ticagrelor, and clopidogrel) is that it is an active drug not requiring metabolic conversion therefore providing a rapid onset and offset of action. Cangrelor was approved by the FDA in June 2015 for intravenous application.",
+    "indication": "For use as an adjunct to percutaneous coronary intervention (PCI) for reducing the risk of periprocedural myocardial infarction (MI), repeat coronary revascularization, and stent thrombosis (ST) in patients in who have not been treated with a P2Y12 platelet inhibitor and are not being given a glycoprotein IIb/IIIa inhibitor.",
+    "pharmacodynamics": null,
+    "mechanism-of-action": "Cangrelor is a selective, reversible, P2Y12 platelet receptor antagonist which inhibits ADP platelet aggregation. ADP is typically released by damaged blood vessels, red blood cells, and/or platelets due to agonists stimulating platelet activity. ADP binds to P2Y12 to stimulate and complete platelet aggregation by inhibiting adenylyl cyclase by a Gi protein, thus potentiating dense granule secretion and increasing coagulation activity. Cangrelor acts on the same target as oral irreversible inhibitors clopidogrel and ticlopidine and has a similar mechanism of action, but is reversible and provides a fast onset and offset of action. ",
+    "absorption": null,
+    "metabolism": "Cangrelor is deactivated rapidly in the circulation by dephosphorylation to its primary metabolite, a nucleoside, which has negligible anti-platelet activity. Cangrelor's metabolism is independent of hepatic function and it does not interfere with other drugs metabolized by hepatic enzymes. ",
+    "toxicity": null,
+    "targets": [
+        [
+            "P2RY12",
+            "P2Y purinoceptor 12",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}

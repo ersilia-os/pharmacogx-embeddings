@@ -1,0 +1,59 @@
+{
+    "pharmgkb_id": "nan-6db9e41e-6ed1-4c78-a35e-c50096481921",
+    "drugbank_id": "DB00601",
+    "names": [
+        "Linezolid",
+        "Antizolid",
+        "Linosept",
+        "Linozid",
+        "Lizbid",
+        "Lizemox",
+        "Lizolid",
+        "Xolid",
+        "Zenix",
+        "Zizolid",
+        "Zodlin",
+        "Zolinid",
+        "Zyvoxid"
+    ],
+    "description": "Linezolid is a synthetic antibiotic which is used for the treatment of infections caused by aerobic Gram-positive bacteria. Its effects are bacteriostatic against both enterococci and staphylococci and bactericidal against most isolates of streptococci.[L32965] Linezolid exerts its antibacterial activity by inhibiting the initiation of bacterial protein synthesis - more specifically, it binds to the 23S ribosomal RNA of the 50S subunit[A11227,A199050] and, in doing so, prevents the formation of the 70S initiation complex which is essential for bacterial reproduction.\r\n\r\nLinezolid was initially approved in 2000 and was the first member of the oxazolidinone antibiotic class.[A233425] A second member of this class, [tedizolid], was approved by the FDA in 2014 and is considered generally more effective and tolerable than its predecessor.",
+    "indication": "Linezolid is indicated in adults and children for the treatment of infections caused by susceptible Gram-positive bacteria, including nosocomial pneumonia, community-acquired pneumonia, skin and skin structure infections, and vancomycin-resistant _Enterococcus faecium_ infections.[L32965] Examples of susceptible bacteria include _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Streptococcus pyogenes_, and _Streptococcus agalactiae_.[L32965]\r\n\r\nLinezolid is not indicated for the treatment of Gram-negative infections, nor has it been evaluated for use longer than 28 days.[L32965]",
+    "pharmacodynamics": "Linezolid is an oxazolidinone antibacterial agent effective against most strains of aerobic Gram-positive bacteria and mycobacteria. It appears to be bacteriostatic against both staphylococci and enterococci and bactericidal against most isolates of streptococci.[L32965] Linezolid has shown some _in vitro_ activity against Gram-negative and anaerobic bacteria but is not considered efficacious against these organisms.[L32965]\r\n\r\nLinezolid is a reversible and non-selective inhibitor of monoamine oxidase (MAO) enzymes and can therefore contribute to the development of serotonin syndrome when administered alongside serotonergic agents such as selective serotonin re-uptake inhibitors (SSRIs) or tricyclic antidepressants (TCAs).[L32965] Linezolid should not be used for the treatment of catheter-related bloodstream infections or catheter-site infections, as the risk of therapy appears to outweigh its benefits under these circumstances.[L32965]",
+    "mechanism-of-action": "Linezolid exerts its antibacterial effects by interfering with bacterial protein translation.[A233035] It binds to a site on the bacterial 23S ribosomal RNA of the 50S subunit and prevents the formation of a functional 70S initiation complex, which is essential for bacterial reproduction, thereby preventing bacteria from dividing.[L32965]\r\n\r\nPoint mutations in the bacterial 23S rRNA can lead to linezolid resistance, and the development of linezolid-resistant _Enterococcus faecium_ and _Staphylococcus aureus_ have been documented during its clinical use.[L32965] As antimicrobial susceptibility patterns are geographically distinct, local antibiograms should be consulted to ensure adequate coverage of relevant pathogens prior to use.",
+    "absorption": "Linezolid is extensively absorbed following oral administration and has an absolute bioavailability of approximately 100%.[L32965] Maximum plasma concentrations are reached within approximately 1 to 2 hours after dosing (T<sub>max</sub>) and range from 8.1-12.9 mcg/mL after single doses and 11.0-21.2 mcg/mL after multiple dosing.[L32965]\r\n\r\nThe absorption of orally administered linezolid is not significantly affected by co-administration with food and it may therefore be given without regard to the timing of meals.[L32965]",
+    "metabolism": "Linezolid is primarily metabolized to two inactive metabolites: an aminoethoxyacetic acid metabolite (PNU-142300) and a hydroxyethyl glycine metabolite (PNU-142586), both of which are the result of morpholine ring oxidation.[L32965,A233435] The hydroxyethyl glycine metabolite - the most abundant of the two metabolites[L33135] - is likely generated via non-enzymatic processes, though further detail has not been elucidated.[L32965,A233435]\r\n\r\nWhile the specific enzymes responsible for the biotransformation of linezolid are unclear, it does not appear to be subject to metabolism via the CYP450 enzyme system, nor does it meaningfully inhibit or induce these enzymes.[L33135] Linezolid is, however, a reversible and non-selective inhibitor of monoamine oxidase enzymes.[L32965]",
+    "toxicity": "Clinical signs of overdosage observed in rats were decreased activity and ataxia (2000 mg/kg/day) and in dogs were vomiting and tremors (3000 mg/kg/day).[L32965] Treatment of overdose should involve symptomatic and supportive measures and may include hemodialysis if clinically necessary.",
+    "targets": null,
+    "enzymes": [
+        [
+            "MAOB",
+            "Amine oxidase [flavin-containing] B",
+            "Humans"
+        ],
+        [
+            "MAOA",
+            "Amine oxidase [flavin-containing] A",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ],
+        [
+            "SLC22A8",
+            "Solute carrier family 22 member 8",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

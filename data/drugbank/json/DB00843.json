@@ -1,0 +1,140 @@
+{
+    "pharmgkb_id": "PA449394",
+    "drugbank_id": "DB00843",
+    "names": [
+        "Donepezil",
+        "Alzepil",
+        "Davia",
+        "Depzil",
+        "Donecept",
+        "Donecil",
+        "Donep",
+        "Donepex",
+        "Donesyn",
+        "Dopezil",
+        "Eranz",
+        "Memac ",
+        "Nomi-Nox",
+        "Pezale",
+        "Redumas",
+        "Zolpezil"
+    ],
+    "description": "In 2016, the global burden of dementia was estimated to be 43.8 million, demonstrating a significant increase from a global prevalence of 20.2 million in 1990.[A182411] Donepezil, also known as Aricept, is a piperidine derivative acetylcholinesterase inhibitor used in the management of the dementia of Alzheimer's Disease, and in some cases, is used to manage other types of dementia. \r\n\r\nDonepezil was first approved by the FDA in 1996, and its extended-release form was approved in combination with [Memantine] in 2014 to manage moderate and severe forms of Alzheimer's dementia.[L7916,L7937] A donepezil transdermal delivery system, Adlarity, was approved by the FDA in March 2022 for the treatment of Alzheimer's dementia.[L41125] Though it does not alter the progression of Alzheimer's disease, donepezil is effective in managing the symptoms of its associated dementia.[T668]",
+    "indication": "Donepezil, administered orally[L7916] or via transdermal delivery system,[L41125] is indicated for the treatment of dementia of the Alzheimer's type. It is also available as an extended-release capsule in combination with [memantine] for the treatment of moderate-to-severe dementia of the Alzheimer's type in patients previously stabilized on 10mg of donepezil hydrochloride once daily.[L7937] \r\n\r\nOff-label uses include the management of vascular dementia, Parkinson's Disease-associated dementia, and Lewy body dementia, amongst others.[A182333,T668]",
+    "pharmacodynamics": "By inhibiting the acetylcholinesterase enzyme, donepezil improves the cognitive and behavioral signs and symptoms of Alzheimer's Disease, which may include apathy, aggression, confusion, and psychosis.[A182333,A182408]",
+    "mechanism-of-action": "\r\nThe commonly accepted cholinergic hypothesis[A182369] proposes that a portion of the cognitive and behavioral decline associated with Alzheimer's are the result of decreased cholinergic transmission in the central nervous system. Donepezil selectively and reversibly inhibits the acetylcholinesterase enzyme, which normally breaks down acetylcholine. The main pharmacological actions of this drug are believed to occur as the result of this enzyme inhibition, enhancing cholinergic transmission, which relieves the symptoms of Alzheimer's dementia. In addition to the above, other mechanisms of action of donepezil are possible, including the opposition of glutamate-induced excitatory transmission via downregulation of NMDA receptors and the regulation of amyloid proteins, which have demonstrated significant effects on the disease process of Alzheimer's.[A182333,A182351,A182444] Other possible targets for donepezil may also include the inhibition various inflammatory signaling pathways, exerting neuroprotective effects.[A182339,A182393]",
+    "absorption": "Donepezil is slowly absorbed via the gastrointestinal tract after oral administration. Tmax is 3 to 4 hours with a bioavailability of 100% and steady-state concentrations are attained within 15 to 21 days of administration.[A182333] The Tmax in one pharmacokinetic study determined a Tmax of  4.1 \u00b1 1.5 hours.[A182324] The Cmax of 5 mg donepezil tablets is estimated to be 8.34 ng/mL, according to the Canadian monograph.[L7952] The AUC of 5 mg donepezil tablets has been determined to be 221.90-225.36 ng.hr/mL.[L7952]",
+    "metabolism": "Donepezil is metabolized by first pass metabolism in the liver, primarily by CYP3A4, in addition to CYP2D6. After this, O-dealkylation, hydroxylation, N-oxidation, hydrolysis, and O-glucuronidation occur, producing various metabolites with similar half-lives to the unchanged parent drug. A study of the pharmacokinetics of radiolabeled donepezil demonstrated that about 53% of plasma radioactivity appeared as donepezil in the unchanged form, and 11% was identified as the metabolite 6-O-desmethyl donepezil, which exerts similar potency inhibition of the acetylcholinesterase enzyme.[A182333,L7916]  This drug is heavily metabolized to four primary metabolites, two of which are considered pharmacologically active, as well as to multiple inactive and unidentified metabolites.[L7916]",
+    "toxicity": "LD50\r\n\r\nThe rat oral LD50 of donepezil is 32.6 mg/kg.[L7928]\r\n\r\nOverdose information\r\n\r\nSigns and symptoms of overdose with cholinesterase inhibitors such as donepezil can include severe nausea and vomiting, bradycardia, hypotension, perspiration, seizures, muscle weakness respiratory depression, and collapse. Significant muscle weakness may result in death if the respiratory muscles are affected by donepezil overdose. To manage an overdose, anticholinergics can be employed as antidotes.  Atropine at intravenous doses of 1.0 - 2.0 mg can be administered and titrated according to the clinical response. Consult the local poison control center for the most updated guidelines on the management of a donepezil overdose. Whether donepezil can be removed from the body with dialysis is unknown at this time.[L7916]",
+    "targets": [
+        [
+            "ACHE",
+            "Acetylcholinesterase",
+            "Humans"
+        ],
+        [
+            "HTR2A",
+            "5-hydroxytryptamine receptor 2A",
+            "Humans"
+        ],
+        [
+            "BCHE",
+            "Cholinesterase",
+            "Humans"
+        ],
+        [
+            "NOS1",
+            "Nitric oxide synthase, brain",
+            "Humans"
+        ],
+        [
+            "TNFAIP6",
+            "Tumor necrosis factor-inducible gene 6 protein",
+            "Humans"
+        ],
+        [
+            "IL1B",
+            "Interleukin-1 beta",
+            "Humans"
+        ],
+        [
+            "NFKB2",
+            "Nuclear factor NF-kappa-B",
+            "Humans"
+        ],
+        [
+            "NFKB1",
+            "Nuclear factor NF-kappa-B",
+            "Humans"
+        ],
+        [
+            "GRIN1",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2A",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2B",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2C",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN2D",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3A",
+            "NMDA receptor",
+            "Humans"
+        ],
+        [
+            "GRIN3B",
+            "NMDA receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": [
+        {
+            "DrugBank ID": "DB00843",
+            "Drug Name": "Donepezil",
+            "Gene Symbol": "CYP2D6",
+            "RS ID (Genotype)": "rs1080985",
+            "Effect Description": "Patients with this genotype are have a decreased likelihood of responding to donepezil when treating Alzheimer's disease."
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "pharmgkb_id": "PA449683",
+    "drugbank_id": "DB00712",
+    "names": [
+        "Flurbiprofen",
+        "Acustop Cataplasma",
+        "Adofeed",
+        "Antadys",
+        "Cebutid",
+        "Flurofen",
+        "Ocuflur",
+        "Stayban",
+        "Strefen",
+        "Strepfen",
+        "Strepsils",
+        "Strepsils Intensive",
+        "TransAct",
+        "Urbifen",
+        "Zepolas"
+    ],
+    "description": "Flurbiprofen, a propionic acid derivative, is a nonsteroidal anti-inflammatory agent (NSAIA) with antipyretic and analgesic activity. Oral formulations of flurbiprofen may be used for the symptomatic treatment of rheumatoid arthritis, osteoarthritis and anklylosing spondylitis. Flurbiprofen may also be used topically prior to ocular surgery to prevent or reduce intraoperative miosis. Flurbiprofen is structurally and pharmacologically related to fenoprofen, ibuprofen, and ketoprofen.",
+    "indication": "Flurbiprofen tablets are indicated for the acute or long-term symptomatic treatment of rheumatoid arthritis, osteorarthritis and anklosing spondylitis. It may also be used to treat pain associated with dysmenorrhea and mild to moderate pain accompanied by inflammation (e.g. bursitis, tendonitis, soft tissue trauma). Topical ophthalmic formulations may be used pre-operatively to prevent intraoperative miosis. ",
+    "pharmacodynamics": "Flurbiprofen, a nonsteroidal anti-inflammatory agent (NSAIA) of the propionic acid class, is structually and pharmacologically related to fenoprofen, ibuprofen, and ketoprofen, and has similar pharmacological actions to other prototypica NSAIAs. Flurbiprofen exhibits antiinflammatory, analgesic, and antipyretic activities. The commercially available flurbiprofen is a racemic mixture of (+)S- and (-) R-enantiomers. The S-enantiomer appears to possess most of the anti-inflammatory, while both enantiomers may possess analgesic activity.",
+    "mechanism-of-action": "Similar to other NSAIAs, the anti-inflammatory effect of flurbiprofen occurs via reversible inhibition of cyclooxygenase (COX), the enzyme responsible for the conversion of arachidonic acid to prostaglandin G2 (PGG2) and PGG2 to prostaglandin H2 (PGH2) in the prostaglandin synthesis pathway. This effectively decreases the concentration of prostaglandins involved in inflammation, pain, swelling and fever. Flurbiprofen is a non-selective COX inhibitor and inhibits the activity of both COX-1 and -2. It is also one of the most potent NSAIAs in terms of prostaglandin inhibitory activity.",
+    "absorption": "Fluribiprofen is rapidly and almost completely absorbed following oral administration. Peak plasma concentrations are reached 0.5 - 4 hours after oral administration. ",
+    "metabolism": "Hepatic. Cytochrome P450 2C9 plays an important role in the metabolism of flurbiprofen to its major metabolite, 4&rsquo;-hydroxy-flurbiprofen. The 4&rsquo;-hydroxy-flurbiprofen metabolite showed little anti-inflammatory activity in animal models of inflammation.",
+    "toxicity": "LD<sub>50</sub>=10 mg/kg (orally in dogs).\r\n<p>Selective COX-2 inhibitors have been associated with increased risk of serious cardiovascular events (e.g. myocardial infarction, stroke) in some patients. Current data is insufficient to assess the cardiovascular risk of flurbiprofen. Flurbiprofen may increase blood pressure and/or cause fluid retention and edema. Use caution in patients with fluid retention or heart failure. Risk of GI toxicity including bleeding, ulceration and perforation. Risk of direct renal injury, including renal papillary necrosis. Anaphylactoid and serious skin reactions (e.g. exfoliative dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysis) may occur. Common adverse events include abdominal pain, constipation, diarrhea, dyspepsia, flatulence, GI bleeding, GI perforation, nausea, peptic ulcer, vomiting, renal function abnormalities, anemia, dizziness, edema, liver function test abnormalities, headache, prolonged bleeding time, pruritus, rash, tinnitus. Although rarely documented in the case of flurbiprofen, oral propionic acid derivatives have been associated with a relatively high frequency of allergic reactions.</p>",
+    "targets": [
+        [
+            "PTGS2",
+            "Prostaglandin G/H synthase 2",
+            "Humans"
+        ],
+        [
+            "PTGS1",
+            "Prostaglandin G/H synthase 1",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "UGT2B7",
+            "UDP-glucuronosyltransferase 2B7",
+            "Humans"
+        ],
+        [
+            "UGT1A1",
+            "UDP-glucuronosyltransferase 1-1",
+            "Humans"
+        ],
+        [
+            "UGT1A3",
+            "UDP-glucuronosyltransferase 1-3",
+            "Humans"
+        ],
+        [
+            "UGT1A9",
+            "UDP-glucuronosyltransferase 1-9",
+            "Humans"
+        ],
+        [
+            "UGT2B4",
+            "UDP-glucuronosyltransferase 2B4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC4",
+            "Multidrug resistance-associated protein 4",
+            "Humans"
+        ],
+        [
+            "SLC22A6",
+            "Solute carrier family 22 member 6",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

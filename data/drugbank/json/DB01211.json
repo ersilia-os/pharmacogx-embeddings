@@ -1,0 +1,83 @@
+{
+    "pharmgkb_id": "PA449028",
+    "drugbank_id": "DB01211",
+    "names": [
+        "Clarithromycin",
+        "Klacid XL",
+        "Klaricid XL",
+        "Macladin",
+        "Naxy",
+        "Veclam",
+        "Zeclar"
+    ],
+    "description": "Clarithromycin, a semisynthetic macrolide antibiotic derived from erythromycin, inhibits bacterial protein synthesis by binding to the bacterial 50S ribosomal subunit. Binding inhibits peptidyl transferase activity and interferes with amino acid translocation during the translation and protein assembly process. Clarithromycin may be bacteriostatic or bactericidal depending on the organism and drug concentration.",
+    "indication": "An alternative medication for the treatment of acute otitis media caused by <i>H. influenzae, M. catarrhalis, or S. pneumoniae</i> in patients with a history of type I penicillin hypersensitivity. Also for the treatment of pharyngitis and tonsillitis caused by susceptible <i>Streptococcus pyogenes</i>, as well as respiratory tract infections including acute maxillary sinusitis, acute bacterial exacerbations of chronic bronchitis, mild to moderate community-acquired pneuomia, Legionnaires' disease, and pertussis. Other indications include treatment of uncomplicated skin or skin structure infections, helicobacter pylori infection, duodenal ulcer disease, bartonella infections, early Lyme disease, and encephalitis caused by <i>Toxoplasma gondii</i> (in HIV infected patients in conjunction with pyrimethamine). Clarithromycin may also decrease the incidence of cryptosporidiosis, prevent the occurence of \u03b1-hemolytic (viridans group) streptococcal endocarditis, as well as serve as a primary prevention for <i>Mycobacterium avium</i> complex (MAC) bacteremia or disseminated infections (in adults, adolescents, and children with advanced HIV infection).\r\n\r\nClarithromycin is indicated in combination with [vonoprazan] and [amoxicillin] as co-packaged triple therapy to treat _Helicobacter pylori_ (_H. pylori_) infection in adults.[L41695]",
+    "pharmacodynamics": "Clarithromycin is a macrolide antibiotic whose spectrum of activity includes many gram-positive (<i>Staphylococcus aureus, S. pneumoniae, and S. pyogenes</i>) and gram-negative aerobic bacteria (<i>Haemophilus influenzae, H. parainfluenzae, and Moraxella catarrhalis</i>), many anaerobic bacteria, some mycobacteria, and some other organisms including <i>Mycoplasma, Ureaplasma, Chlamydia, Toxoplasma</i>, and <i>Borrelia</i>. Other aerobic bacteria that clarithromycin has activity against include <i>C. pneumoniae and M. pneumoniae</i>. Clarithromycin has an in-vitro activity that is similar or greater than that of erythromycin against erythromycin-susceptible organisms. Clarithromycin is usually bacteriostatic, but may be bactericidal depending on the organism and the drug concentration.",
+    "mechanism-of-action": "Clarithromycin is first metabolized to 14-OH clarithromycin, which is active and works synergistically with its parent compound. Like other macrolides, it then penetrates bacteria cell wall and reversibly binds to domain V of the 23S ribosomal RNA of the 50S subunit of the bacterial ribosome, blocking translocation of aminoacyl transfer-RNA and polypeptide synthesis. Clarithromycin also inhibits the hepatic microsomal CYP3A4 isoenzyme and P-glycoprotein, an energy-dependent drug efflux pump.",
+    "absorption": "Clarithromycin is well-absorbed, acid stable and may be taken with food. ",
+    "metabolism": "Hepatic - predominantly metabolized by CYP3A4 resulting in numerous drug interactions.",
+    "toxicity": "Symptoms of toxicity include diarrhea, nausea, abnormal taste, dyspepsia, and abdominal discomfort. Transient hearing loss with high doses has been observed. Pseudomembraneous colitis has been reported with clarithromycin use. Allergic reactions ranging from urticaria and mild skin eruptions to rare cases of anaphylaxis and Stevens-Johnson syndrome have also occurred. Rare cases of severe hepatic dysfunctions also have been reported. Hepatic failure is usually reversible, but fatalities have been reported. Clarithromycin may also cause tooth decolouration which may be removed by dental cleaning. Fetal abnormalities, such as cardiovascular defects, cleft palate and fetal growth retardation, have been observed in animals. Clarithromycin may cause QT prolongation.",
+    "targets": [
+        [
+            "rplJ",
+            "50S ribosomal protein L10",
+            "Shigella flexneri"
+        ],
+        [
+            "KCNH2",
+            "Potassium voltage-gated channel subfamily H member 2",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "SLC22A7",
+            "Solute carrier family 22 member 7",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "SLCO1B3",
+            "Solute carrier organic anion transporter family member 1B3",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

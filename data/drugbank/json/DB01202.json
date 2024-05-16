@@ -1,0 +1,36 @@
+{
+    "pharmgkb_id": "PA450206",
+    "drugbank_id": "DB01202",
+    "names": [
+        "Levetiracetam"
+    ],
+    "description": "Levetiracetam is a drug within the pyrrolidine class that is used to treat various types of seizures stemming from epileptic disorders. It was first approved for use in the United States in 1999 and is structurally and mechanistically unrelated to other anti-epileptic drugs (AEDs).[L8606,L8600,L8615] Levetiracetam possesses a wide therapeutic index[L8615,A185918] and little-to-no potential to produce, or be subject to, pharmacokinetic interactions[L8606,L8600,L8615] - these characteristics make it a desirable choice over other AEDs, a class of drugs notorious for having generally narrow therapeutic indexes and a propensity for involvement in drug interactions.[A185927]",
+    "indication": "Levetiracetam is indicated as an adjunctive therapy in the treatment of partial onset seizures in epileptic patients who are one month of age and older. Additionally, it is indicated as an adjunct in the treatment of myoclonic seizures in patients with juvenile myoclonic epilepsy who are 12 years of age and older, and in primary generalized tonic-clonic seizures in patients with idiopathic generalized epilepsy who are 6 years of age and older.[L8606]\r\n\r\nLevetiracetam is also available as an orally dissolvable tablet that is indicated as an adjunct in the treatment of partial onset seizures in patients with epilepsy who are 4 years of age and older and weigh more than 20kg.[L8609]",
+    "pharmacodynamics": "Levetiracetam appears to prevent seizure activity via the selective inhibition of hypersynchronized epileptiform burst firing without affecting normal neuronal transmission, though the exact mechanism through which this occurs is unclear.[L8606,L8615] The therapeutic index of levetiracetam is wide,[L8615,A185918] making it relatively unique amongst other anti-epileptic medications.\r\n\r\nAnti-epileptic drugs, including levetiracetam, may increase the risk of suicidal ideation or behaviour - patients taking levetiracetam should be monitored for the emergence or worsening of depressive symptoms, suicidal ideation, and behavioural abnormalities.[L8606,L8600,L8615]",
+    "mechanism-of-action": "The exact mechanism through which levetiracetam exerts its anti-epileptic effects is unclear, but is thought to be unique amongst other anti-epileptic medications. Current knowledge suggests that levetiracetam\u2019s binding to synaptic vesicle protein 2A (SV2A) is a key driver of its action. SV2A is a membrane-bound protein that is found on synaptic vesicles and is ubiquitous throughout the CNS[A12546] - it appears to play a role in vesicle exocytosis[L8606,L8615] and in the modulation of synaptic transmission by increasing the available amount of secretory vesicles available for neurotransmission.[A12552] Stimulation of pre-synaptic SV2A by levetiracetam may inhibit neurotransmitter release,[A12551] but this action does not appear to affect normal neurotransmission. This has led to the suggestion that levetiracetam exclusively modulates the function of SV2A only under pathophysiological conditions.[A12546] Levetiracetam and related analogues showed a correlation between affinity for SV2A and anti-epileptic potency, further suggesting that action at this site contributes to the anti-epileptic activity of the drug.[L8606,L8615]\r\n\r\nLevetiracetam has also been shown to indirectly affect GABAergic neurotransmission (despite having no direct effect on GABAergic or glutamatergic receptors) and modulate ionic currents.[A12552] Similarly, levetiracetam has been shown in vitro to inhibit N-type calcium channels.[A16562] How, or even if, these actions are implicated in its anti-epileptic action have yet to be elucidated.",
+    "absorption": "Levetiracetam is rapidly and nearly completely absorbed following oral administration, with a reported absolute oral bioavailability of essentially 100%.[L8615,L8606,L8600] T<sub>max</sub> is approximately 1.3 hours after dosing, and C<sub>max</sub> is 31 \u03bcg/mL following a single 1000mg dose and 43 \u03bcg/mL following repeated dosing.[L8600,L8615] Co-administration of levetiracetam with food delays T<sub>max</sub> by approximately 1.5 hours and decreases C<sub>max</sub> by 20%.[L8606,L8600]",
+    "metabolism": "Levetiracetam is minimally metabolized within the body - the major metabolic pathway appears to be the enzymatic hydrolysis of its acetamide group which produces an inactive carboxylic acid metabolite, L057, which accounts for approximately 24% of the total administered dose.[L8606,L8600] The specific enzyme(s) responsible for this reaction are unclear, but this pathway is known to be independent of hepatic CYP enzymes and has been proposed to be driven primarily by type B esterases in the blood and other tissues.[A185864] Two minor metabolites involving modifications to the pyrrolidone ring have been identified, one involving hydroxylation of the ring (constituting 1.6% of the total dose) and the other involving opening of the ring structure (constituting 0.9% of the total dose).[L8615,L8606,L8600]",
+    "toxicity": "The oral TDLO of levetiracetam in humans is 10 mg/kg.[L8612] Symptoms of levetiracetam overdose are consistent with its adverse effect profile and may include agitation, aggression, somnolence, decreased level of consciousness, respiratory depression, or coma.[L8606,L8600] There is no antidote for levetiracetam overdose, therefore management should involve general supportive measures and symptomatic treatment. Hemodialysis results in significant clearance of plasma levetiracetam (approximately 50% within 4 hours) and should be considered in cases of overdose as indicated by the patient's status.[L8606,L8600]",
+    "targets": [
+        [
+            "CACNA1B",
+            "Voltage-dependent N-type calcium channel subunit alpha-1B",
+            "Humans"
+        ],
+        [
+            "SV2A",
+            "Synaptic vesicle glycoprotein 2A",
+            "Humans"
+        ]
+    ],
+    "enzymes": null,
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

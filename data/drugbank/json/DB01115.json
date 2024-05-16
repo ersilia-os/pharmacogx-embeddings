@@ -1,0 +1,166 @@
+{
+    "pharmgkb_id": "PA450631",
+    "drugbank_id": "DB01115",
+    "names": [
+        "Nifedipine",
+        "Adapine",
+        "Afeditab",
+        "Coracten",
+        "Nifecard",
+        "Nifecor",
+        "Nifedical",
+        "NifedicalXL",
+        "Nifedipres"
+    ],
+    "description": "Nifedipine, or BAY a 1040, is a first generation dihydropyridine L-type calcium channel blocker, similar to [nicardipine].[A190210,A190273,A175390,L11383] Nifedipine was developed by Bayer and first described in the literature, along with other dihydropyridines, in 1972.[A175390,A190276] Since nifedipine's development, second and third generation dihydropyridines have been developed with slower onsets and longer durations of action.[A190273] The most popular of the third generation dihydropyridines is [amlodipine].[A190273]\r\n\r\nNifedipine was granted FDA approval on 31 December 1981.[L11383]",
+    "indication": "Nifedipine capsules are indicated to treat vasospastic angina and chronic stable angina.[L11383] Extended release tablets are indicated to treat vasospastic angina, chronic stable angina, and hypertension.[L11389,L1245]",
+    "pharmacodynamics": "Nifedipine is an inhibitor of L-type voltage gated calcium channels that reduces blood pressure and increases oxygen supply to the heart.[A190204] Immediate release nifedipine's duration of action requires dosing 3 times daily.[L11383] Nifedipine dosing is generally 10-120mg daily.[L11383] Patients should be counselled regarding the risk of excessive hypotension, angina, and myocardial infarction.[L11383]",
+    "mechanism-of-action": "Nifedipine blocks voltage gated L-type calcium channels in vascular smooth muscle and myocardial cells.[A190204] This blockage prevents the entry of calcium ions into cells during depolarization, reducing peripheral arterial vascular resistance and dilating coronary arteries.[A190204] These actions reduce blood pressure and increase the supply of oxygen to the heart, alleviating angina.[A190204]",
+    "absorption": "Sublingual dosing leads to a C<sub>max</sub> of 10ng/mL, with a T<sub>max</sub> of 50min, and an AUC of 25ng\\*h/mL.[A190264] Oral dosing leads to a C<sub>max</sub> of 82ng/mL, with a T<sub>max</sub> of 28min, and an AUC of 152ng\\*h/mL.[A190264]\r\n\r\nNifedipine is a Biopharmaceutics Classification System Class II drug, meaning it has low solubility and high intestinal permeability.[A190261] It is almost completely absorbed in the gastrointestinal tract but has a bioavilability of 45-68%, partly due to first pass metabolism.[A190210,A190261]",
+    "metabolism": "Nifedipine is predominantly metabolized by CYP3A4.[A190204,A190261,L11383,L11389,L1245] Nifedipine is predominantly metabolized to 2,6-dimethyl-4-(2-nitrophenyl)-5-methoxycarbonyl-pyridine-3-carboxylic acid, and then further metabolized to 2-hydroxymethyl-pyridine carboxylic acid.[A190228] Nifedipine is also minorly metabolized to dehydronifedipine.[A190225]",
+    "toxicity": "The oral LD<sub>50</sub> in rats is 1022mg/kg and in mice is 202mg/kg.[L11428]\r\n\r\nPatients experiencing an overdose may present with hypotension, sinus node dysfunction, atrioventricular node dysfunction, and reflex tachycardia.[A190219,A190222] Overdose may be managed by monitoring cardiovascular and respiratory function; elevating extremities; and administering vasopressors, fluids, and calcium infusions.[L11383]",
+    "targets": [
+        [
+            "CACNA1C",
+            "Voltage-dependent L-type calcium channel subunit alpha-1C",
+            "Humans"
+        ],
+        [
+            "CACNA1D",
+            "Voltage-dependent L-type calcium channel subunit alpha-1D",
+            "Humans"
+        ],
+        [
+            "CACNB2",
+            "Voltage-dependent L-type calcium channel subunit beta-2",
+            "Humans"
+        ],
+        [
+            "NR1I2",
+            "Nuclear receptor subfamily 1 group I member 2",
+            "Humans"
+        ],
+        [
+            "CALM1",
+            "Calmodulin",
+            "Humans"
+        ],
+        [
+            "CACNA1S",
+            "Voltage-dependent L-type calcium channel subunit alpha-1S",
+            "Humans"
+        ],
+        [
+            "KCND3",
+            "Potassium voltage-gated channel subfamily D member 3",
+            "Humans"
+        ],
+        [
+            "CACNA1G",
+            "Voltage-dependent T-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1H",
+            "Voltage-dependent T-type calcium channel",
+            "Humans"
+        ],
+        [
+            "CACNA1I",
+            "Voltage-dependent T-type calcium channel",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ],
+        [
+            "CYP2C8",
+            "Cytochrome P450 2C8",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP2B6",
+            "Cytochrome P450 2B6",
+            "Humans"
+        ],
+        [
+            "CYP2E1",
+            "Cytochrome P450 2E1",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP3A5",
+            "Cytochrome P450 3A5",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCC3",
+            "Canalicular multispecific organic anion transporter 2",
+            "Humans"
+        ],
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCC2",
+            "Canalicular multispecific organic anion transporter 1",
+            "Humans"
+        ],
+        [
+            "SLCO1B1",
+            "Solute carrier organic anion transporter family member 1B1",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ]
+    ],
+    "carriers": [
+        [
+            "ALB",
+            "Serum albumin",
+            "Humans"
+        ],
+        [
+            "ORM2",
+            "alpha1-acid glycoprotein",
+            "Humans"
+        ]
+    ],
+    "genomic-data": null
+}

@@ -1,0 +1,62 @@
+{
+    "pharmgkb_id": "PA166223903",
+    "drugbank_id": "DB15233",
+    "names": [
+        "Avapritinib"
+    ],
+    "description": "Avapritinib, or BLU-285,[A189327] is a selective tyrosine kinase inhibitor of KIT and platelet derived growth factor receptor alpha indicated for the treatment of unresectable, metastatic gastrointestinal stromal tumors and advanced systemic mastocytosis.[A189339,L40363] It is one of the first medications available for the treatment of multidrug resistant cancers.[A189327] Avapritinib shares a similar mechanism with [ripretinib].\r\n\r\nAvapritinib was granted FDA approval on 9 January 2020 [L40363] and EMA approval on 24 September 2020.[L41464]",
+    "indication": "Avapritinib is indicated for the treatment of adults with unresectable or metastatic GIST harboring a platelet-derived growth factor receptor alpha (PDGFRA) exon 18 mutation, including PDGFRA D842V mutations.[L40363,L45520]\r\n\r\nIt is also used to treat adult patients with advanced systemic mastocytosis (AdvSM). AdvSM includes patients with aggressive systemic mastocytosis (ASM), systemic mastocytosis with an associated hematological neoplasm (SM-AHN), and mast cell leukemia. However, it is not recommended for the treatment of patients with AdvSM with platelet counts of less than 50 X 10<sup>9</sup> L.[L40363,L45520]",
+    "pharmacodynamics": "Avapritinib is a selective kinase inhibitor that negatively modulates the action of cell transporters to resensitize them to other chemotherapies.[L40363] It has a long duration of action as it is given once daily.[L40363] Patients should be counselled regarding the risk of intracranial hemorrhage, CNS effects, and embryo-fetal toxicity.[L40363]",
+    "mechanism-of-action": "Avapritinib has a negative modulating effect on the transporters ABCB1 and ABCG2, which mediate the multidrug resistance phenotype of some cancers.[A189327] This modulation may be due to interactions of avapritinib with the drug binding pocket of these transporters.[A189327] Negative modulation of these transporters, resensitizes cancerous cells to treatment with chemotherapeutic agents like [paclitaxel].[A189327]",
+    "absorption": "A 300mg oral dose of avapritinib reaches a C<sub>max</sub> of 813ng/mL with a T<sub>max</sub> of 2.0-4.1h and an AUC of 15400h\\*ng/mL.[L40363]",
+    "metabolism": "Avapritinib is metabolized mainly by CYP3A4 and CYP2C9 _in vitro_.[L40363] A 310mg oral dose is recovered as 49% unchanged drug, 35% hydroxy glucuronide metabolite, and 14% oxidatively deaminated metabolite.[L40363]",
+    "toxicity": "Data regarding overdoses of avapritinib are not readily available.[L40363]",
+    "targets": [
+        [
+            "KIT",
+            "Mast/stem cell growth factor receptor Kit",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ],
+        [
+            "ABCG2",
+            "ATP-binding cassette sub-family G member 2",
+            "Humans"
+        ],
+        [
+            "ABCB11",
+            "Bile salt export pump",
+            "Humans"
+        ],
+        [
+            "SLC47A1",
+            "Multidrug and toxin extrusion protein 1",
+            "Humans"
+        ],
+        [
+            "SLC47A2",
+            "Multidrug and toxin extrusion protein 2",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

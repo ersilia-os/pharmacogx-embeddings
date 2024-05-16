@@ -1,0 +1,64 @@
+{
+    "pharmgkb_id": "PA451103",
+    "drugbank_id": "DB01087",
+    "names": [
+        "Primaquine",
+        "Neo-Quipenyl",
+        "Primachin"
+    ],
+    "description": "An aminoquinoline that is given by mouth to produce a radical cure and prevent relapse of vivax and ovale malarias following treatment with a blood schizontocide. It has also been used to prevent transmission of falciparum malaria by those returning to areas where there is a potential for re-introduction of malaria. Adverse effects include anemias and GI disturbances. (From Martindale, The Extra Pharmacopeia, 30th ed, p404)",
+    "indication": "For the treatment of malaria.",
+    "pharmacodynamics": "Primaquine is an antimalarial agent and is the essential co-drug with chloroquine in treating all cases of malaria. In the blood, malaria parasites break down a part of the red blood cells known as haemoglobin. When this happens haemoglobin is divided into two parts; haem and globin. Haem is toxic to the malaria parasite. To prevent it from being damaged, the malaria parasite produces an chemical which converts the toxic haem into a non-toxic product. Primaquine acts by interfering with a part of the parasite (mitochondria) that is responsible for supplying it with energy. Without energy the parasite dies. This stops the infection from continuing and allows the person to recover. Primaquine kills the intrahepatic form of <i>Plasmodium vivax</i> and <i>Plasmodium ovale</i>, and thereby prevents the development of the erythrocytic forms that are responsible for relapses (it also kills gametocytes). Primaquine is not used in the prevention of malaria, only in the treatment. It has insignificant activity against the asexual blood forms of the parasite and therefore it is always used in conjunction with a blood schizonticide and never as a single agent. Primaquine has gametocytocidal activity against all plasmodia, including <i>P. falciparum</i>.",
+    "mechanism-of-action": "Primaquine's mechanism of action is not well understood. It may be acting by generating reactive oxygen species or by interfering with the electron transport in the parasite. Also, although its mechanism of action is unclear, primaquine may bind to and alter the properties of protozoal DNA.",
+    "absorption": null,
+    "metabolism": null,
+    "toxicity": null,
+    "targets": [
+        [
+            "KRT7",
+            "Keratin, type II cytoskeletal 7",
+            "Humans"
+        ],
+        [
+            "NQO2",
+            "Ribosyldihydronicotinamide dehydrogenase [quinone]",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP3A4",
+            "Cytochrome P450 3A4",
+            "Humans"
+        ],
+        [
+            "CYP1A2",
+            "Cytochrome P450 1A2",
+            "Humans"
+        ],
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP1A1",
+            "Cytochrome P450 1A1",
+            "Humans"
+        ],
+        [
+            "CYP1B1",
+            "Cytochrome P450 1B1",
+            "Humans"
+        ]
+    ],
+    "transporters": [
+        [
+            "ABCB1",
+            "P-glycoprotein 1",
+            "Humans"
+        ]
+    ],
+    "carriers": null,
+    "genomic-data": null
+}

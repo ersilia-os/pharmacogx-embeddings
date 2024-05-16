@@ -1,0 +1,46 @@
+{
+    "pharmgkb_id": "PA164743977",
+    "drugbank_id": "DB01274",
+    "names": [
+        "Arformoterol"
+    ],
+    "description": "Arformoterol is a bronchodilator. It works by relaxing muscles in the airways to improve breathing. Arformoterol inhalation is used to prevent bronchoconstriction in people with chronic obstructive pulmonary disease, including chronic bronchitis and emphysema. The use of arformoterol is pending revision due to safety concerns in regards to an increased risk of severe exacerbation of asthma symptoms, leading to hospitalization as well as death in some patients using long-acting beta agonists for the treatment of asthma.",
+    "indication": "Arformoterol is indicated in the maintenance treatment of bronchoconstriction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema.[L43732]",
+    "pharmacodynamics": "Arformoterol, the active (R,R)-enantiomer of formoterol, is a selective long-acting \u03b22-adrenergic receptor agonist (beta2-agonist) that has two-fold greater potency than racemic formoterol (which contains both the (S,S) and (R,R)-enantiomers). The (S,S)-enantiomer is about 1,000-fold less potent as a \u03b22-agonist than the (R,R)-enantiomer. Arformoterol seems to have little or no effect on \u03b21-adrenergic receptors.",
+    "mechanism-of-action": "While it is recognized that \u03b22-receptors are the predominant adrenergic receptors in bronchial smooth muscle and \u03b21-receptors are the predominant receptors in the heart, data indicate that there are also \u03b22-receptors in the human heart comprising 10% to 50% of the total beta-adrenergic receptors. The precise function of these receptors has not been established, but they raise the possibility that even highly selective \u03b22-agonists may have cardiac effects. The pharmacologic effects of \u03b22-adrenoceptor agonist drugs, including arformoterol, are at least in part attributable to the stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3,5-adenosine monophosphate (cyclic AMP). Increased intracellular cyclic AMP levels cause relaxation of bronchial smooth muscle and inhibition of the release of proinflammatory mediators from cells, especially from mast cells. In vitro tests show that arformoterol is an inhibitor of the release of mast cell mediators, such as histamine and leukotrienes, from the human lung. Arformoterol also inhibits histamine-induced plasma albumin extravasation in anesthetized guinea pigs and inhibits allergen-induced eosinophil influx in dogs with airway hyper-response.",
+    "absorption": "In patients with COPD, the mean peak plasma concentration (C<sub>max</sub>) and AUC<sub>0-12h</sub> following twice daily administration for 14 days were 4.3 pg/mL and 34.5 pg.hr/mL, respectively.[L43732] The time to peak plasma concentration (T<sub>max</sub>) was approximately 0.5 hours.[L43732] ",
+    "metabolism": "Arformoterol was almost entirely metabolized following oral administration of 35 mcg of radiolabeled arformoterol in eight healthy subjects. Direct conjugation of arformoterol with glucuronic acid was the major metabolic pathway. O-Desmethylation is a secondary route catalyzed by the CYP enzymes CYP2D6 and CYP2C19.",
+    "toxicity": "A death was reported in dogs after a single oral dose of 5 mg/kg (approximately 4500 times the maximum recommended daily inhalation dose in adults on a mg/m2 basis). As with all inhaled sympathomimetic medications, cardiac arrest and even death may be associated with an overdose. Arformoterol should not be used more often or at higher doses than recommended, or conjunction with other medications containing long-acting beta<sub>2</sub>-agonists.[L43732]",
+    "targets": [
+        [
+            "ADRB2",
+            "Beta-2 adrenergic receptor",
+            "Humans"
+        ]
+    ],
+    "enzymes": [
+        [
+            "CYP2D6",
+            "Cytochrome P450 2D6",
+            "Humans"
+        ],
+        [
+            "CYP2C19",
+            "Cytochrome P450 2C19",
+            "Humans"
+        ],
+        [
+            "CYP2C9",
+            "Cytochrome P450 2C9",
+            "Humans"
+        ],
+        [
+            "CYP2A6",
+            "Cytochrome P450 2A6",
+            "Humans"
+        ]
+    ],
+    "transporters": null,
+    "carriers": null,
+    "genomic-data": null
+}
