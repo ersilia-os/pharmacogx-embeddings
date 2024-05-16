@@ -14,7 +14,7 @@ chemical_names = df["chemical"].unique().tolist()
 
 print(chemical_names[:10], len(chemical_names))
 
-for i, chemical_name in enumerate(chemical_names):
+for i, chemical_name in enumerate(chemical_names[27:]):
     print(i, chemical_name)
     ranker = LLMCompoundGeneReranker(df, results_dir=results_dir)
     data = ranker.run(chemical_name)

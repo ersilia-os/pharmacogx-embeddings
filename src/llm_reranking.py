@@ -139,9 +139,42 @@ class LLMCompoundGeneReranker(object):
             with open(prompt_file_name, "w") as f:
                 f.write(system_prompt + "\n" + user_prompt)
 
+    def _correct_response_into_valid_json(self, data):
+        system_prompt = "You will be given information. You should serialize this information into a valid JSON string with this structure: `{gene: GENE_SYMBOL, rank: INTEGER, explanation: TEXT}`"
+        user_prompt = "Serialize the information into a valid JSON string: {0}".format(data)
+        chat_completion = self.client.chat.completions.create(
+            messages=[
+                {
+                    "role": "system",
+                    "content": system_prompt
+                },
+                {
+                    "role": "user",
+                    "content": user_prompt
+                }
+            ],
+            model = "gpt-4",
+        )
+        response = chat_completion.choices[0].message.content
+        return response        
+
     def _save_response(self, chemical_name, response):
-        data = json.loads(response)
+        serialized = True
+        try:
+            data = json.loads(response)
+        except:
+            response = self._correct_response_into_valid_json(response)
+            try:
+                data = json.loads(response)
+            except:
+                serialized = False
+
         if self.output_responses_dir is not None:
+            if not serialized:
+                response_file_name = os.path.join(self.output_responses_dir, f"{chemical_name}.txt")
+                with open(response_file_name, "w") as f:
+                    f.write(response)
+                return
             response_file_name = os.path.join(self.output_responses_dir, f"{chemical_name}.json")
             with open(response_file_name, "w") as f:
                 json.dump(data, f, indent=4)

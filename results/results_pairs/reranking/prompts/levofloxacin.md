@@ -16,7 +16,8 @@ My drug of interest is levofloxacin.
 
 # Pre-ranked list of genes
 These are the candidate genes for this drugs, tentatively ranked by the likelihood of a pharmacogenetic relationship:
-SLCO1B1, ABCB1, ABCC2, ABCG2, UGT1A1, G6PD, HLA-DRB1, HLA-DQB1, HLA-DQA1, HLA-C, HLA-G, HLA-DPB1, HLA-DPA1, HLA-E, HLA-B, HLA-A, HLA-DRB3, HLA-DRA, HLA-DRB5, HLA-DRB4# Auxiliary information about the drug
+SLCO1B1, ABCB1, ABCC2, ABCG2, UGT1A1, G6PD, HLA-DRB1, HLA-DQB1, HLA-DQA1, HLA-C, HLA-G, HLA-DPB1, HLA-DPA1, HLA-E, HLA-B, HLA-A, HLA-DRB3, HLA-DRA, HLA-DRB5, HLA-DRB4
+# Auxiliary information about the drug
 Below is some auxiliary information about the drug of interest:
 ## Drug Summary
 Levofloxacin, traded under various names including Cravit and Tavanic, is a third-generation fluoroquinolone antibiotic identified by the optical S-(-) isomer of ofloxacin. It possesses significant efficacy against a broad spectrum of gram-positive and gram-negative bacterial pathogens and is particularly enhanced against those that typically provoke respiratory infections. It's utilized to treat infections of the respiratory tract, skin, urinary tract, prostate, and specific conditions like inhalational anthrax and plague. Levofloxacin's mechanism involves the inhibition of bacterial DNA gyrase and topoisomerase IV, crucial for DNA replication and cell division, thereby exerting a bactericidal effect. Its rapid and essentially complete oral absorption leads to interchangeable dosing with its IV form. Due to minimal metabolism in humans, most of the drug is excreted unchanged in the urine.

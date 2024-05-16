@@ -1,0 +1,37 @@
+[
+    {
+        "gene": "CYP3A4",
+        "rank": 1,
+        "explanation": "CYP3A4 is known to play a significant role in the metabolism of delamanid. As a cytochrome P450 enzyme, CYP3A4 is largely responsible for metabolizing a variety of xenobiotics, including drugs. Given its role in the clearance and detoxification of delamanid, genetic variants in the CYP3A4 gene that affect the enzyme's activity could potentially impact the pharmacokinetic and pharmacodynamic properties of the drug. This could influence aspects such as drug absorption, distribution, metabolism, and elimination (ADME). As such, CYP3A4 is likely to hold a pharmacogenetic relationship with delamanid and thus ranks first."
+    },
+    {
+        "gene": "CYP3A5",
+        "rank": 2,
+        "explanation": "CYP3A5, a member of the CYP3A subfamily, shares 85% sequence identity with CYP3A4 and exhibits overlapping substrate specificity. Given these parallels, it is plausible that CYP3A5 could partake in the metabolism of delamanid. Variations in the CYP3A5 gene could lead to a range of enzymatic activity, thus potentially altering the pharmacokinetic profile of delamanid. However, its overall role in drug metabolism is less prominent in comparison to CYP3A4, resulting in a slightly lower ranking."
+    },
+    {
+        "gene": "CYP2C9",
+        "rank": 3,
+        "explanation": "CYP2C9 is a crucial drug-metabolizing enzyme involved in the metabolism of many clinically important drugs. While no specific indication is given that delamanid is a CYP2C9 substrate, the enzyme's large role in drug metabolism presents potential for involvement in delamanid's metabolic pathways. Genetic variations in CYP2C9 could influence delamanid pharmacokinetics."
+    },
+    {
+        "gene": "CYP2C19",
+        "rank": 4,
+        "explanation": "CYP2C19 is part of the CYP2C subfamily known for metabolizing several important drugs. Like CYP2C9, no specific information indicates delamanid involvement. However, due to its overall role in drug metabolism, there is a potential for its involvement in delamanid metabolism. Variability in CYP2C19 could potentially alter delamanid's pharmacokinetic profile."
+    },
+    {
+        "gene": "CYP2D6",
+        "rank": 5,
+        "explanation": "The CYP2D6 enzyme is responsible for the metabolism of approximately 25% of clinically used drugs. Although there isn't specific evidence of it metabolizing delamanid, given its role in drug metabolism, there is a possibility for its involvement in metabolizing delamanid. Genetic polymorphisms that affect the function of CYP2D6 could potentially also influence the pharmacokinetics of delamanid."
+    },
+    {
+        "gene": "ABCB1",
+        "rank": 6,
+        "explanation": "ABCB1, also known as P-glycoprotein, plays a critical role in drug transportation across biological membranes. As a drug efflux transporter, ABCB1 can affect a drug's absorption, disposition, and central nervous system accessibility. No specific information suggests delamanid interaction with ABCB1, but such involvement might impact the pharmacokinetic profile of delamanid."
+    },
+    {
+        "gene": "CYP2D7",
+        "rank": 7,
+        "explanation": "CYP2D7 is part of the cytochrome P450 enzyme family. However, it is a pseudogene in most people. Its enzyme product does not affect drug metabolism. Thus while it is part of the original list, there's a lower likelihood of a pharmacogenetic relationship existing between CYP2D7 and delamanid."
+    }
+]
