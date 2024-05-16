@@ -53,7 +53,6 @@ def ends_with_number_and_csv(filename):
     pattern = r".*_(\d+)\.csv$"
     return bool(re.match(pattern, filename))
 
-
 for filename in tqdm(os.listdir(results_dir_chunks)):
     if ends_with_number_and_csv(filename):
         dc = pd.read_csv(os.path.join(results_dir_chunks, filename))
@@ -72,14 +71,45 @@ for i, c in enumerate(y_hat_columns):
     df[new_col_name] = list(zscores)
     new_col_names += [new_col_name]
 
-# 95% confidence in z-score
-threshold = 1.96
-df = df[df[new_col_names].gt(threshold).any(axis=1)]
+# Get top 50 genes per chemical
 
-df.to_csv(
+weights = np.array([1, 2, 3])/6
+consensus_zscores = []
+for r in df[new_col_names].values:
+    print(r)
+    consensus_zscores += [np.average(r, weights=weights)]
+
+df["consensus_zscore"] = consensus_zscores
+df = df.sort_values("consensus_zscore", ascending=False).reset_index(drop=True)
+cids = df["cid"].unique().tolist()
+df_ = None
+for cid in tqdm(cids):
+    dh = df[df["cid"] == cid].head(50)
+    if df_ is None:
+        df_ = dh
+    else:
+        df_ = pd.concat([df_, dh])
+
+df_.to_csv(
     os.path.join(
         results_dir,
-        "chemical_gene_pairs_prediction_with_zscore_and_filtered_with_variant_aggregates.csv",
+        "chemical_gene_pairs_prediction_output_focus_with_variant_aggregates_top50_filter.csv",
+    ),
+    index=False,
+)
+
+
+# Filter out rows where any of the z-scores is above the threshold
+
+# 95% confidence in z-score
+threshold = 1.96
+df_ = df[df[new_col_names].gt(threshold).any(axis=1)]
+df_ = df_.sort_values(["cid", "consensus_zscore"], ascending=[True, False]).reset_index(drop=True)
+
+df_.to_csv(
+    os.path.join(
+        results_dir,
+        "chemical_gene_pairs_prediction_output_focus_with_variant_aggregates_zscore95_filter.csv",
     ),
     index=False,
 )

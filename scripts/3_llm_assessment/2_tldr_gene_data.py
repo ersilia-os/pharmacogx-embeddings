@@ -8,13 +8,15 @@ data_dir = os.path.join(root, "..", "..", "data")
 sys.path.append(os.path.join(root, "..", "..", "src"))
 from tldr import GeneTLDR
 
-print("...Print getting the identifiers of the genes explored in this study...")
+print("...Getting the identifiers of the genes explored in this study...")
 df = pd.read_csv(os.path.join(root, "..", "..", "data", "ml_datasets_pairs", "chemical_gene_pairs_prediction_input.csv"))
 
 genes = []
 for r in df[["gid", "gene"]].values:
     genes += [(r[0], r[1])]
 genes = list(set(genes))
+
+print("...Getting TLDRs for the {0} genes...".format(len(genes)))
 
 for i, g in enumerate(genes):
     print(i, g[0], g[1])
