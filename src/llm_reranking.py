@@ -47,8 +47,9 @@ class LLMCompoundGeneReranker(object):
             - Do not include genes that are not in the pre-ranked list. Only rerank the genes that are already in the list.
             - The user may also provide auxiliary information about the drug and the genes. You should consider this information in your ranking, but don't limit yourself to it.
             - Do not focus only on known associations. Use your expertise to infer new pharmacogenetic relationships. Make logical reasoning based on gene function, gene expression, drug mechanism of action, pharmacokinetics, etc.
+            - For example, consider known pharmacogenetic relationships of similar drugs and similar genes in your reasoning.
             - You should return a ranked list of genes in JSON format. The list should be sorted in descending order of likelihood. Give me only the top 10 genes.
-            - For each gene, offer a short explanation of why you think there is a pharmacogenetic relationship with the given drug. This explanation should be between 200 and 500 words.
+            - For each gene, offer an explanation of why you think there is a pharmacogenetic relationship with the given drug. This explanation should be between 200 and 500 words. Be as detailed as possible.
             - The explanation is important. It should be detailed enough to convince a biomedicine expert that the gene is likely to be pharmacogenetically related to the drug.
             - Only return a JSON string. Do not make any other comment. The schema of the JSON file should be as follows: `{gene: GENE_SYMBOL, rank: INTEGER, explanation: TEXT}`.
             '''
@@ -153,7 +154,7 @@ class LLMCompoundGeneReranker(object):
                     "content": user_prompt
                 }
             ],
-            model = "gpt-4",
+            model = "gpt-4-turbo",
         )
         response = chat_completion.choices[0].message.content
         return response        

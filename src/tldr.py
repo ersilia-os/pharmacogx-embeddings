@@ -1,5 +1,6 @@
 import os
 import json
+import pandas as pd
 from openai import OpenAI
 from dotenv import load_dotenv
 
@@ -96,13 +97,198 @@ class GeneTLDR(object):
         return response.choices[0].message.content
 
 
+class DrugTLDRExplanation(object):
+    def __init__(self):
+        self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        self._cid2name = self._get_cid2name_mapping()
+
+    def _get_cid2name_mapping(self):
+        df = pd.read_csv(os.path.join(root, "..", "data", "ml_datasets_pairs", "chemical_gene_pairs_prediction_input.csv"))
+        cid2name = {}
+        for v in df[["cid", "chemical"]].values:
+            cid2name[v[0]] = v[1]
+        return cid2name
+
+    def _system_prompt(self):
+        prompt = """
+            - You are a pharmacogenetics expert. You are asked to provide a short summary of a given drug's pharmacogenetic interactions profile.
+            - You will be provided with a drug name and a short summary of the drug.
+            - In addition, you may be provided with a list of genes (official gene symbols) that are known to interact with the drug.
+            - If no genes are provided, you should still try to infer them based on your knowledge.
+            - You should use your own knowledge to provide a summary of the drug's pharmacogenetic interactions profile. Your answer should be between 100 and 200 words.
+            - Be as succinct as possible. Do not use full gene names. Use the official gene symbols only.
+            - Mention all genes provided in the list and try to offer an explanation for each of them. You should try to distinguish between pharmacokinetics and pharmacodynamics.
+            - If you are making an inference, please clarify that in your answer.
+            - Do not raise disclaimers or comments on further studies needed.
+            - Do not explain why understanding these interactions can be crucial. Focus on the interactions themselves.
+            - Structure your answer in one paragraph, no special formatting.
+        """
+        return prompt.rstrip().lstrip().replace("    ", "")
+
+    def _get_pharmgkb_knowledge(self, cid):
+        df = pd.read_csv(os.path.join(root, "..", "data", "ml_datasets_pairs", "df_only_pk_only_adme_genes.csv"))
+        df = df[df["cid"] == cid]
+        pk_adme_genes = set(df["gene"].unique().tolist())
+        df = pd.read_csv(os.path.join(root, "..", "data", "ml_datasets_pairs", "df_only_pk_all_genes.csv"))
+        df = df[df["cid"] == cid]
+        pk_all_genes = set(df["gene"].unique().tolist())
+        df = pd.read_csv(os.path.join(root, "..", "data", "ml_datasets_pairs", "df_all_outcomes_only_adme_genes.csv"))
+        df = df[df["cid"] == cid]
+        all_outcomes_adme_genes = set(df["gene"].unique().tolist())
+        df = pd.read_csv(os.path.join(root, "..", "data", "ml_datasets_pairs", "df_all_outcomes_all_genes.csv"))
+        df = df[df["cid"] == cid]
+        all_outcomes_all_genes = set(df["gene"].unique().tolist())
+        pk_other_genes = pk_all_genes.difference(pk_adme_genes)
+        nopk_adme_genes = all_outcomes_adme_genes.difference(pk_adme_genes)
+        nopk_other_genes = all_outcomes_all_genes.difference(pk_all_genes.union(pk_adme_genes.union(nopk_adme_genes)))
+        data = {
+            "pk_adme_genes": pk_adme_genes,
+            "pk_other_genes": pk_other_genes,
+            "nopk_adme_genes": nopk_adme_genes,
+            "nopk_other_genes": nopk_other_genes,
+        }
+        print(data)
+        return data
+
+    def _get_drug_tldr(self, cid):
+        file_name = os.path.join(root, "..", "data", "tldr", "drugs", "{0}.md".format(cid))
+        with open(file_name, "r") as f:
+            return f.read()
+
+    def _user_prompt(self, cid):
+        prompt = "# {0}\n".format(self._cid2name[cid])
+        prompt += self._get_drug_tldr(cid)
+        data = self._get_pharmgkb_knowledge(cid)
+        prompt += "\n\n## Known Pharmacogenetic Interactions\n"
+        prompt += "- **Pharmacokinetics and ADME genes**: {0}\n".format(", ".join(list(data["pk_adme_genes"])))
+        prompt += "- **Pharmacokinetics and other genes**: {0}\n".format(", ".join(list(data["pk_other_genes"])))
+        prompt += "- **Possibly Non-pharmacokinetics and ADME genes**: {0}\n".format(", ".join(list(data["nopk_adme_genes"])))
+        prompt += "- **Possibly Non-pharmacokinetics and other genes**: {0}\n".format(", ".join(list(data["nopk_other_genes"])))
+        return prompt
+
+    def _get_primary_response(self, cid):
+        messages = [
+            {"role": "system", "content": self._system_prompt()},
+            {"role": "user", "content": self._user_prompt(cid)},
+        ]
+        response = self.client.chat.completions.create(model=OPENAI_MODEL, messages=messages)
+        return response.choices[0].message.content
+    
+    def _get_oneliner(self, response):
+        messages = [
+            {"role": "system", "content": "Summarize the following text in one or two sentences. Focus on the genes and their interactions with the drug, and on the explanation. Discard all information about further information or further research needed, or why the information is crucial to understand the impact of the pharmacogenetic interaction."},
+            {"role": "user", "content": response},
+        
+        ]
+        response = self.client.chat.completions.create(model=OPENAI_MODEL, messages=messages)
+        return response.choices[0].message.content
+    
+    def get(self, cid):
+        response = self._get_primary_response(cid)
+        return self._get_oneliner(response)
+
+
+class GeneTLDRExplanation(object):
+    def __init__(self):
+        self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+        self._gid2name = self._get_gid2name_mapping()
+
+    def _get_gid2name_mapping(self):
+        df = pd.read_csv(os.path.join(root, "..", "data", "ml_datasets_pairs", "chemical_gene_pairs_prediction_input.csv"))
+        gid2name = {}
+        for v in df[["gid", "gene"]].values:
+            gid2name[v[0]] = v[1]
+        return gid2name
+
+    def _system_prompt(self):
+        prompt = """
+            - You are a pharmacogenetics expert. You are asked to provide a short summary of a given gene's pharmacogenetic interactions profile with drugs.
+            - You will be provided with a gene symbol and a short summary.
+            - In addition, you may be provided with a list of drugs that are known to interact pharmacogenetically with the gene.
+            - If no drugs are provided, you should still try to infer them based on your knowledge.
+            - You should use your own knowledge to provide a summary of the genes's pharmacogenetic interactions profile. Your answer should be between 100 and 200 words.
+            - Be as succinct as possible. Use drug names as provided.
+            - Mention all drugs provided in the list and try to offer an explanation for each of them. You should try to distinguish between pharmacokinetics and pharmacodynamics.
+            - If you are making an inference, please clarify that in your answer.
+            - Do not raise disclaimers or comments on further studies needed.
+            - Do not explain why understanding these interactions can be crucial. Focus on the interactions themselves.
+            - Structure your answer in one paragraph, no special formatting.
+        """
+        return prompt.rstrip().lstrip().replace("    ", "")
+
+    def _get_pharmgkb_knowledge(self, gid):
+        df = pd.read_csv(os.path.join(root, "..", "data", "ml_datasets_pairs", "df_only_pk_only_adme_genes.csv"))
+        df = df[df["gid"] == gid]
+        pk_adme_genes = set(df["chemical"].unique().tolist())
+        df = pd.read_csv(os.path.join(root, "..", "data", "ml_datasets_pairs", "df_only_pk_all_genes.csv"))
+        df = df[df["gid"] == gid]
+        pk_all_genes = set(df["chemical"].unique().tolist())
+        df = pd.read_csv(os.path.join(root, "..", "data", "ml_datasets_pairs", "df_all_outcomes_only_adme_genes.csv"))
+        df = df[df["gid"] == gid]
+        all_outcomes_adme_genes = set(df["chemical"].unique().tolist())
+        df = pd.read_csv(os.path.join(root, "..", "data", "ml_datasets_pairs", "df_all_outcomes_all_genes.csv"))
+        df = df[df["gid"] == gid]
+        all_outcomes_all_genes = set(df["chemical"].unique().tolist())
+        pk = pk_adme_genes.union(pk_all_genes)
+        nopk = all_outcomes_adme_genes.union(all_outcomes_all_genes).difference(pk)
+        data = {
+            "pk": pk,
+            "nopk": nopk,
+        }
+        print(data)
+        return data
+
+    def _get_gene_tldr(self, gid):
+        file_name = os.path.join(root, "..", "data", "tldr", "genes", "{0}.md".format(gid))
+        with open(file_name, "r") as f:
+            return f.read()
+
+    def _user_prompt(self, gid):
+        prompt = "# {0}\n".format(self._gid2name[gid])
+        prompt += self._get_gene_tldr(gid)
+        data = self._get_pharmgkb_knowledge(gid)
+        prompt += "\n\n## Known Pharmacogenetic Interactions\n"
+        prompt += "- **Pharmacokinetics**: {0}\n".format(", ".join(list(data["pk"])))
+        prompt += "- **Possibly Non-pharmacokinetics**: {0}\n".format(", ".join(list(data["nopk"])))
+        return prompt
+
+    def _get_primary_response(self, gid):
+        messages = [
+            {"role": "system", "content": self._system_prompt()},
+            {"role": "user", "content": self._user_prompt(gid)},
+        ]
+        response = self.client.chat.completions.create(model=OPENAI_MODEL, messages=messages)
+        return response.choices[0].message.content
+    
+    def _get_oneliner(self, response):
+        messages = [
+            {"role": "system", "content": "Summarize the following text in one or two sentences. Focus on the drugs and their interactions with the gene, and on the explanation. Discard all text about further information or further research needed, or why the information is crucial to understand the impact of the pharmacogenetic interaction."},
+            {"role": "user", "content": response},
+        
+        ]
+        response = self.client.chat.completions.create(model=OPENAI_MODEL, messages=messages)
+        return response.choices[0].message.content
+    
+    def get(self, gid):
+        response = self._get_primary_response(gid)
+        return self._get_oneliner(response)
+
+
 if __name__ == "__main__":
 
-    dt = DrugTLDR()
-    db_id = "DB00951"
-    print(dt.get(db_id))
+    #dt = DrugTLDR()
+    #db_id = "DB00951"
+    #print(dt.get(db_id))
 
-    dg = GeneTLDR()
-    gene = "CYP2D6"
-    print(dg.get(gene))
+    #dg = GeneTLDR()
+    #gene = "CYP2D6"
+    #print(dt.get(gene))
 
+    #dt = DrugTLDRExplanation()
+    #cid = "PA166153416"
+    #cid = "nan-2b15062b-9e70-452d-bf7b-eb623e2d07a0"
+    #print(dt.get(cid))
+
+    dt = GeneTLDRExplanation()
+    gid = "PA20"
+    print(dt.get(gid))

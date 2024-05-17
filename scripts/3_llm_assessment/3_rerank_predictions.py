@@ -8,7 +8,7 @@ sys.path.append(os.path.join(root, "..", "..", "src"))
 from llm_reranking import LLMCompoundGeneReranker
 
 results_dir = os.path.join(root, "..", "..", "results", "results_pairs")
-df = pd.read_csv(os.path.join(root, "..", "..", "results", "results_pairs", "chemical_gene_pairs_prediction_with_zscore_and_filtered_with_variant_aggregates.csv"))
+df = pd.read_csv(os.path.join(root, "..", "..", "results", "results_pairs", "chemical_gene_pairs_prediction_output_focus_with_variant_aggregates_top50_filter.csv"))
 
 chemical_names = df["chemical"].unique().tolist()
 
