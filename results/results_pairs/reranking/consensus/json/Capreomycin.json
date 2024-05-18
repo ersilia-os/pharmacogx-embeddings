@@ -1,0 +1,52 @@
+[
+    {
+        "gene": "ABCC2",
+        "rank": 1,
+        "explanation": "ABCC2, encoding the MRP2 protein, influences the function and pharmacokinetics of various drugs including antitubercular agents. Variations in ABCC2 can modify both drug excretion and plasma concentrations, leading to alterations in drug effectiveness and toxicity. Therefore, based on similar mechanisms, it is inferred that ABCC2 likely has a significant pharmacogenetic relationship with Capreomycin, influencing its pharmacokinetics and therapeutic outcomes."
+    },
+    {
+        "gene": "ABCB1",
+        "rank": 2,
+        "explanation": "ABCB1 encodes P-glycoprotein, a crucial efflux transporter that modulates the pharmacokinetics and efficacy of an array of drugs by regulating their absorption, distribution, and excretion. This consequently affects the bioavailability of these drugs, including Capreomycin. Variations in ABCB1 can lead to variable therapeutic outcomes and can potentially influence the toxicity of drugs due to altered drug exposures and systemic concentrations."
+    },
+    {
+        "gene": "ABCC3",
+        "rank": 3,
+        "explanation": "The ABCC3 gene significantly influences the pharmacokinetics and pharmacodynamics of various drugs, including antitubercular drugs. It primarily affects drug transport, and variants in ABCC3 can lead to altered excretion and hence the effectiveness and side effects of drugs including Capreomycin. Apart from pharmacokinetic influence, ABCC3 also has pharmacodynamic efficacy that may interact with Capreomycin, aligning with the reported auxiliary information."
+    },
+    {
+        "gene": "ABCC4",
+        "rank": 4,
+        "explanation": "ABCC4 gene variants influence the pharmacokinetics and efficacy of various drugs, including those used against mycobacteria like Capreomycin. It functions by modulating the efflux of these drugs from cells, impacting drug concentrations and hence their pharmacological effectiveness. Potential alterations in ABCC4 functioning due to genetic variations can foster variable therapy outcomes and drug resistance."
+    },
+    {
+        "gene": "ABCG2",
+        "rank": 5,
+        "explanation": "ABCG2 influences the pharmacokinetics of various drugs by serving as an efflux transporter, significantly impacting their absorption, distribution, and excretion. Given this role, ABCG2 likely affects the pharmacokinetics of Capreomycin, potentially leading to altered therapeutic efficacy and safety. Additionally, the reported sub-effect variations, such as Q141K, can further influence drug interactions and toxicity."
+    },
+    {
+        "gene": "SLC22A16",
+        "rank": 6,
+        "explanation": "SLC22A16 plays a critical role in the pharmacokinetics of various drugs by affecting their transport, hence influencing the drug's efficacy and potential for toxicity. Given the role of SLC22A16, it is inferred that Capreomycin may also be affected similarly, potentially altering their metabolism or mechanisms of action."
+    },
+    {
+        "gene": "MT-RNR1",
+        "rank": 7,
+        "explanation": "MT-RNR1, associated with ototoxic side effects of aminoglycosides, might influence Capreomycin's side-effects like nephrotoxicity and ototoxicity as mentioned in auxiliary data. Given the similar pharmacodynamics observed in aminoglycoside antibiotics, it is inferred that MT-RNR1 possibly has a pharmacogenetic relationship with Capreomycin, ultimately affecting its pharmacological toxicity profile."
+    },
+    {
+        "gene": "SLCO1B1",
+        "rank": 8,
+        "explanation": "SLCO1B1 gene, which encodes a protein involved in hepatic drug uptake, is a likely contender for having a pharmacogenetic relationship with Capreomycin. Genetic variations in SLCO1B1 can alter the drug's plasma concentrations, potentially leading to increased toxicity and altered therapeutic efficacy of Capreomycin. Thus, these genetic variations could have a substantial impact on the pharmacokinetics of Capreomycin."
+    },
+    {
+        "gene": "ABCC5",
+        "rank": 9,
+        "explanation": "ABCC5, an efflux transporter gene, impacts the pharmacokinetics and pharmacodynamics of several drugs. It notably alters the toxicity profile and the bioavailability of drugs, including potentially Capreomycin. Genetic variations leading to variable ABCC5 activity can influence Capreomycin levels and thus its therapeutic efficacy or adverse effects."
+    },
+    {
+        "gene": "ABCB7",
+        "rank": 10,
+        "explanation": "Although the ABCB7 gene might not directly interact with Capreomycin, considering its role in cellular transport processes, it's likely that it could influence the excretion of Capreomycin or Capreomycin-induced physiological responses, altering the drug efficacy and safety profile of Capreomycin."
+    }
+]

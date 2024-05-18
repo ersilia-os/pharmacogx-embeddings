@@ -318,6 +318,18 @@ class LLMCompoundGeneRerankerConsensus(object):
             '''.format(i+1, e).rstrip().lstrip().replace("    ", "") + "\n\n"
         return prompt.rstrip().lstrip().replace("    ", "") + "\n"
 
+    def _save_data(self, chemical_name, data):
+        response_file_name = os.path.join(self.output_dir, "json", f"{chemical_name}.json")
+        with open(response_file_name, "w") as f:
+            json.dump(data, f, indent=4)
+        response_file_name = os.path.join(self.output_dir, "markdown", f"{chemical_name}.md")
+        with open(response_file_name, "w") as f:
+            text = "# {0}\n\n".format(chemical_name.capitalize())
+            for d in data:
+                text += "## {0}. {1}\n".format(d["rank"], d["gene"])
+                text += "{0}\n\n".format(d["explanation"])
+            f.write(text)
+
     def run(self, chemical_name):
         data = self._get_consensus_from_rounds(chemical_name)
         data_ = []
@@ -357,6 +369,7 @@ class LLMCompoundGeneRerankerConsensus(object):
                         "explanation": response
                     }
                 ]
+        self._save_data(chemical_name, data_)
         return data_
 
 
