@@ -7,22 +7,22 @@
     {
         "gene": "ABCC2",
         "rank": 2,
-        "explanation": "ABCC2 encodes the MRP2 protein, which plays a significant role in drug excretion, affecting the pharmacokinetics of various drugs. Variations in this gene can alter plasma concentrations of drugs, leading to changes in their effectiveness and toxicity. Notably, lumefantrine is among the drugs influenced by ABCC2, making this gene an important factor to consider in personalized treatment planning for malaria. Furthermore, considering the broader role of MRP2 in efflux transport mechanisms, ABCC2 could indirectly modify interaction outcomes with additional drugs utilized alongside lumefantrine."
+        "explanation": "The ATP-binding cassette transporter ABCC2, also known as MRP2, is mainly expressed in the liver and kidney. It significantly contributes to the biliary and renal elimination of lumefantrine and its metabolites. Thus, variants in the ABCC2 gene that affect the function of this transporter can lead to altered lumefantrine levels, affecting its efficacy and safety."
     },
     {
         "gene": "CYP3A5",
         "rank": 3,
-        "explanation": "CYP3A5 contributes significantly to the metabolism of diverse therapeutic agents, including immunosuppressants, antivirals, and statins among others. Variants in this gene can lead to varying rates of drug metabolism, with implications for dosage customization. Regarding lumefantrine, changes in CYP3A5 activity could potentially affect the rate of drug metabolism, impacting treatment outcomes. Therefore, an understanding of CYP3A5 activity is crucial in predicting how different individuals might respond to lumefantrine in a therapeutic setting, reinforcing its importance as a candidate pharmacogenetic gene for this drug."
+        "explanation": "CYP3A5 plays a significant role in the metabolism of lumefantrine. As part of the larger CYP3A subfamily responsible for metabolizing a high proportion of drugs, CYP3A5 variation can induce significant changes in drug levels of lumefantrine, placing importance on further characterizing this variant in order to maximize the efficacy of lumefantrine."
     },
     {
         "gene": "CYP2D6",
         "rank": 4,
-        "explanation": "CYP2D6 is known for its role in the metabolism of a wide range of drugs impacting various therapeutic areas including cardiology, psychiatry, and oncology among others. While lumefantrine's primary metabolism is through CYP3A4, the contribution from CYP2D6 highlights the complexity of drug metabolism, as the same drug can be metabolized by multiple enzymes. Potential mutations in CYP2D6 could influence the metabolism and removal of lumefantrine from the body, thereby affecting its safety, efficacy, and drug responses, making it crucial for pharmacogenetic consideration."
+        "explanation": "CYP2D6 contributes to lumefantrine's metabolism, albeit to a lesser degree than the more prominent CYP3A4. Still, CYP2D6 polymorphisms can alter lumefantrine levels and clinical outcomes depending on an individual\u2019s metabolizer status. For instance, poor metabolizers might suffer from toxicity, while ultrarapid metabolizers could experience reduced drug efficacy. CYP2D6's contribution to lumefantrine variability should not be discounted."
     },
     {
         "gene": "ABCB1",
         "rank": 5,
-        "explanation": "ABCB1 is a transporter gene that plays a significant role in drug absorption, distribution, and excretion. It can influence therapeutic outcomes of various drugs across different therapeutic areas. Though a direct pharmacokinetic relationship with lumefantrine is not noted, with ABCB1's wide influence on drug handling, the possibility of influencing the pharmacokinetics of lumefantrine and other co-administered drugs can't be dismissed. This potential for influencing lumefantrine's safety and efficacy profiles through changes in its bioavailability or alterations in distribution patterns makes ABCB1 an important candidate gene for considering pharmacogenetic relevance."
+        "explanation": "ABCB1 encodes P-glycoprotein, an efflux transporter that can affect the distribution and excretion of lumefantrine. Variants in the ABCB1 gene causing changes in P-glycoprotein function can influence lumefantrine's bioavailability and tissue distribution, potentially affecting its efficacy and safety."
     },
     {
         "gene": "CYP2C19",
@@ -42,7 +42,7 @@
     {
         "gene": "CYP2C9",
         "rank": 9,
-        "explanation": "CYP2C9 significantly impacts the metabolism of drugs such as warfarin and losartan, resulting in the necessity of personalized dosing. Although not directly reported to be involved with the metabolism of lumefantrine, its broad involvement in the metabolism of drugs make it a plausible candidate."
+        "explanation": "CYP2C9 is part of the CYP2C subfamily known to metabolize almost 20% of all drugs. Although lumefantrine is primarily metabolized by the CYP3A enzymes, CYP2C9 could potentially contribute to a lesser extent given a particular substrate profile, presence of inducers or inhibitors, or specific genetic variants."
     },
     {
         "gene": "CYP2C8",

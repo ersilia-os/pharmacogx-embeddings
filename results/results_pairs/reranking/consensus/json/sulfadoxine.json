@@ -2,7 +2,7 @@
     {
         "gene": "G6PD",
         "rank": 1,
-        "explanation": "G6PD stands as the most likely drug-gene interaction for sulfadoxine due to direct pharmacodynamic considerations - G6PD deficiency can increase risks of hemolysis in patients treated with sulfadoxine. Given the drug's known interactions with G6PD, genetic screening is essential among users to avoid severe hemolytic reactions."
+        "explanation": "The G6PD gene has a confirmed pharmacogenetic interaction with sulfadoxine. G6PD (glucose-6-phosphate dehydrogenase) deficiency is a genetic disorder that increases the risk of hemolysis when patients are treated with sulfadoxine. Hemolysis occurs when there is destruction of red blood cells, leading to the release of hemoglobin into the bloodstream. This can lead to complications such as anemia or jaundice. Given the direct interaction and potential clinical importance of G6PD in the treatment of sulfadoxine, it rightly secures the top position in the ranking."
     },
     {
         "gene": "NAT2",
@@ -12,27 +12,27 @@
     {
         "gene": "CYP2C9",
         "rank": 3,
-        "explanation": "Although sulfadoxine's known metabolic pathway has limited documentation, potential interactions with the cytochrome P450 enzyme system, particularly CYP2C9, can likely influence the drug's metabolism. Genetic polymorphisms in this gene can alter the therapeutic effectiveness and risk of side reactions to sulfadoxine."
+        "explanation": "CYP2C9 mainly metabolizes drugs such as warfarin, phenytoin, celecoxib, losartan, and tolbutamide, and polymorphisms in the gene may affect the metabolism of sulfadoxine. Although clear-cut evidence of interaction needs exploration, it is reasonable to propose a theoretical interaction given the importance of CYP2C9 in drug metabolism."
     },
     {
         "gene": "ABCB1",
         "rank": 4,
-        "explanation": "ABCB1 dictates the pharmacokinetics of several medications by acting as an efflux transporter that affects their absorption, distribution, and excretion. Given its central role in drug transport, ABCB1 may modulate the bioavailability of sulfadoxine, and genetic variability might necessitate adjustments in drug therapy."
+        "explanation": "ABCB1 encodes for P-glycoprotein, a membrane protein involved in drug efflux and has implications in absorption, distribution, and excretion of various drugs. It is plausible to suggest that genetic variants of ABCB1 may either improve or impede the effectiveness of sulfadoxine by altering its pharmacokinetics, especially if sulfadoxine is subject to ABCB1-mediated transport."
     },
     {
         "gene": "CYP2C19",
         "rank": 5,
-        "explanation": "CYP2C19 should be considered given its major influence on the metabolism of various drugs. Even though a direct interaction with sulfadoxine is uncertain, considering CYP2C19's extensive role in pharmacokinetics, pharmacogenetic testing of this gene could significantly impact treatment with sulfadoxine."
+        "explanation": "Although its role is speculative considering sulfadoxine treatment, CYP2C19 is part of the P450 isoenzyme group that could be involved in the drug's metabolism. It is known to participate widely in drug metabolism, such as with clopidogrel and proton pump inhibitors. Consequently, genetic polymorphisms affecting the functionality of its expressed enzymes could contribute to altered metabolism, drug response, or toxicity levels of sulfadoxine."
     },
     {
         "gene": "ABCG2",
         "rank": 6,
-        "explanation": "ABCG2 plays a major role in drug pharmacokinetics by affecting absorption, distribution, and excretion. Variants like Q141K in ABCG2 could modify the interaction with sulfadoxine, potentially affecting drug efficacy, safety, and the need for dosage adjustments."
+        "explanation": "ABCG2, another efflux transporter, can potentially influence the pharmacokinetics of sulfadoxine by modulating its absorption, distribution, and excretion. Similar to ABCB1, specific gene variants in ABCG2 can further modify these drug interactions, affecting the drug's physiological availability and action."
     },
     {
         "gene": "NAT1",
         "rank": 7,
-        "explanation": "The enzyme NAT1, involved in drug metabolism and efficacy, could potentially process sulfadoxine. Genetic variations that affect NAT1 activity could alter sulfadoxine's therapeutic effects, highlighting the need for personalized medicine based on the NAT1 genetic profile."
+        "explanation": "Like NAT2, NAT1 is also involved in the process of acetylation and plays an important role in drug metabolism. As a related enzyme to NAT2, it is suggested that NAT1 may also interact with sulfadoxine, influencing its metabolism rate and further affecting its effectiveness or side effect profile in patients."
     },
     {
         "gene": "HLA-B",
@@ -42,7 +42,7 @@
     {
         "gene": "IKBKG",
         "rank": 9,
-        "explanation": "The IKBKG gene is part of the NF-kappaB signaling pathway which is crucial for the immune response in combating malaria. Mutations in the IKBKG gene can modify the immune system's response, thus potentially influencing the efficacy of antimalarials such as sulfadoxine."
+        "explanation": "IKBKG, involved in the NF-kappaB signaling pathway, indirectly influences the overall immune response to malaria. As sulfadoxine is an antimalarial drug, there might be a connection between IKBKG and the effectiveness of sulfadoxine in treating malaria. It is suggested that pharmacodynamics, instead of pharmacokinetics, is the basis for this interaction, with potential differences in drug response related to genetic variations in IKBKG."
     },
     {
         "gene": "CYP2D6",

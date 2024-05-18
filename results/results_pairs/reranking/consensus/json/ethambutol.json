@@ -2,12 +2,12 @@
     {
         "gene": "NAT2",
         "rank": 1,
-        "explanation": "Ethambutol pharmacogenetics is significantly influenced by NAT2. Given the known association of NAT2 with many drugs that require acetylation for metabolism, its crucial influence on ethambutol\u2019s metabolism is highly probable. Genetic polymorphisms leading to slow NAT2 acetylator status may increase risks for adverse effects of ethambutol, suggesting that the drug's efficacy and safety may vary significantly among individuals of different NAT2 genotypes."
+        "explanation": "NAT2, an enzyme crucial for drug metabolism through N-acetylation, has a known pharmacogenetic relationship with ethambutol. Genetic polymorphisms in NAT2 significantly influence ethambutol's metabolism, where \"slow\" NAT2 alleles can increase drug exposure and associated risks, including optic neuritis. In fact, NAT2 slow metabolizers have been reported to experience increased toxicity from ethambutol, implying an evident pharmacogenetic relationship."
     },
     {
         "gene": "ABCB1",
         "rank": 2,
-        "explanation": "The ABCB1 gene impacts ethambutol\u2019s pharmacokinetics as it encodes P-glycoprotein, a transporter affecting drug absorption and excretion. This gene significantly modulates the bioavailability and distribution of ethambutol and variations in this gene could influence the drug\u2019s distribution, affecting its therapeutic efficacy and safety profile, thereby making it important in influencing ethambutol dosage decisions."
+        "explanation": "ABCB1, encoding P-glycoprotein, has a role in controlling the pharmacokinetics of multiple drugs by influencing absorption, distribution, and excretion. Specifically, transporter genes such as ABCB1 might affect the pharmacokinetics of ethambutol, altering its distribution. Given the breadth of ABCB1's influence on various drugs' bioavailability, it is a relevant candidate gene for ethambutol pharmacogenetics."
     },
     {
         "gene": "NAT1",
@@ -17,27 +17,27 @@
     {
         "gene": "CYP2E1",
         "rank": 4,
-        "explanation": "The gene CYP2E1 plays a key role in the metabolism of many drugs and would be expected to affect ethambutol's pharmacokinetics. Differential CYP2E1 activity could lead to variations in ethambutol metabolism, affecting the drug's efficacy and risk of adverse effects. As ethambutol metabolism could be impacted by CYP2E1, this connection may directly influence ethambutol\u2019s safety and effectiveness."
+        "explanation": "Previous studies hint at CYP2E1\u2019s role in influencing ethambutol\u2019s pharmacokinetics and distribution, although the details are less understood. Given its primary involvement in drug metabolism, with variations in its activity leading to drug efficacy and adverse effects differences such as in the case of isoniazid and acetaminophen, there are reasons to consider CYP2E1 as a pertinent gene in ethambutol pharmacogenetics."
     },
     {
         "gene": "CYP2C9",
         "rank": 5,
-        "explanation": "CYP2C9 genetic polymorphisms might influence the metabolism of ethambutol, affecting its therapeutic effectiveness. Given that CYP2C9 variations often lead to altered pharmacokinetic profiles for many drugs, it's likely that ethambutol, which has been suggested to have interactions with multiple CYP enzymes, may also exhibit such a pharmacokinetic interaction with this enzyme."
+        "explanation": "CYP2C9 is another cytochrome P450 enzyme that significantly alters drug pharmacokinetics. Although the specific interaction between CYP2C9 and ethambutol is not well-documented, the gene might influence ethambutol\u2019s pharmacokinetics, indicating CYP2C9's potential significance in ethambutol pharmacogenetics."
     },
     {
         "gene": "CYP2C19",
         "rank": 6,
-        "explanation": "CYP2C19 might influence ethambutol's pharmacokinetics. Variations in CYP2C19 activity may have various effects on ethambutol metabolism, thereby influencing the drug's therapeutic effectiveness. As ethambutol pharmacokinetics is believed to potentially be influenced by various CYP enzymes, it's possible that it also interacts with CYP2C19, leading to altered metabolism."
+        "explanation": "It is plausible that CYP2C19, an enzyme that is involved in the metabolism of an array of drugs, may also metabolize ethambutol. Variations in the CYP2C19 gene can affect drug activation and metabolism, leading to different pharmacological outcomes and may impact the pharmacokinetics of ethambutol."
     },
     {
         "gene": "CYP2B6",
         "rank": 7,
-        "explanation": "CYP2B6 significantly affects drug efficacy by altering pharmacokinetics. Though an explicit effect of CYP2B6 polymorphisms on ethambutol was not reported, based on its influence on drugs like efavirenz, nevirapine, and methadone, CYP2B6 may reasonably have a role in modulating ethambutol's efficacy and safety."
+        "explanation": "CYP2B6 plays a major role in drug metabolism. Ethambutol metabolism could potentially be influenced by this gene. Genetic variations in CYP2B6 affect enzyme activity, leading to differences in drug exposure and risks of adverse reactions, underscoring its potential role in the pharmacogenetics of ethambutol."
     },
     {
         "gene": "GSTM1",
         "rank": 8,
-        "explanation": "GSTM1 has a role in drug metabolism, detoxification, and consequent changes in plasma levels and elimination rate. Being a member of glutathione S-transferase genes that contribute to drug metabolism, including that of isoniazid, GSTM1 could potentially influence ethambutol's metabolism and toxicity."
+        "explanation": "GSTM1 plays a role in the metabolism and excretion of various drugs through glutathione conjugation. Given this function, it is likely that GSTM1 may contribute to the disposition and detoxification of ethambutol, potentially implicating it in ethambutol pharmacogenetics."
     },
     {
         "gene": "TNF",
@@ -47,6 +47,6 @@
     {
         "gene": "SLC22A1",
         "rank": 10,
-        "explanation": "SLC22A1, coding for OCT1, is likely to influence the absorption and distribution of ethambutol based on its established role in regulating the hepatic uptake of many drugs. Variations in SLC22A1 can lead to differences in ethambutol efficacy and side effects, however, again this suggestion is inferential and warrants direct experimental substantiation."
+        "explanation": "SLC22A1, encoding for the organic cation transporter 1 (OCT1), significantly influences the absorption and distribution of various drugs by affecting their hepatic uptake. Given that ethambutol is positively charged at physiological pH, it is possible that this transporter may contribute to the distribution, and thus pharmacokinetics, of ethambutol."
     }
 ]

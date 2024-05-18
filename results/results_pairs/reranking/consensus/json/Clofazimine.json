@@ -7,7 +7,7 @@
     {
         "gene": "CYP3A5",
         "rank": 2,
-        "explanation": "CYP3A5 is another prominent member of the CYP3A subfamily and its genetic variations can lead to differences in drug metabolism. Individual variations in CYP3A5 activity might modulate the metabolism of clofazimine and, consequently, influence the drug's effectiveness and safety. This suggests a notable pharmacogenetic relationship between CYP3A5 and clofazimine, given that both enzymes are involved in hepatic metabolism of drugs and substrates with comparable chemical structures."
+        "explanation": "Like CYP3A4, CYP3A5 also plays a key role in drug metabolism, with genetic variants impacting metabolism rates and thereby, dosage of drugs. Therefore, genetic variations, specifically CYP3A5*3, are suggested to influence the pharmacokinetics of clofazimine. This implies that the dosage may need to be adjusted to maintain its plasma levels for those carrying the allele, potentially impacting the drug's therapeutic outcomes and risk profile."
     },
     {
         "gene": "ABCB1",
@@ -17,7 +17,7 @@
     {
         "gene": "ABCG2",
         "rank": 4,
-        "explanation": "The ABCG2 gene, an efflux transporter, can influence both the absorption and excretion of clofazimine, thus impacting its overall pharmacokinetics. Genetic variations may modify the function of the transporter and hence, impacts the systemic exposure of clofazimine, suggestive of a significant pharmacogenetic relationship."
+        "explanation": "ABCG2 is another important transporter gene which may impact the pharmacokinetics of clofazimine by inhibiting its efflux and thereby, possibly affecting its absorption, tissue distribution, and elimination. Changes in the genetic sequence of ABCG2, such as variants like Q141K, could modify these drug interactions, affecting the effectiveness and safety aspects of clofazimine, and may also influence the necessary dosage for therapeutic efficacy."
     },
     {
         "gene": "CYP2C8",
@@ -32,7 +32,7 @@
     {
         "gene": "CYP2C9",
         "rank": 7,
-        "explanation": "CYP2C9, as a part of the cytochrome P450 enzyme family, is an enzyme potentially involved in the metabolism of cloves to clofazimine. Genetic variants of CYP2C9 may modulate the activity level of the enzyme, which could impact the pharmacokinetics of clofazimine, such as exposure level, efficacy, and risk of side effects."
+        "explanation": "CYP2C9 is involved in drug metabolism and its polymorphisms affect the therapeutic effectiveness and risk side effects of multiple drugs. It is probable that genetic variations in this gene could influence the metabolism of clofazimine, possibly affecting its therapeutic effectiveness and safety. This potential impact on pharmacokinetics makes CYP2C9 a key player in the pharmacogenetic interaction with clofazimine."
     },
     {
         "gene": "CYP2D6",
@@ -42,7 +42,7 @@
     {
         "gene": "ABCC2",
         "rank": 9,
-        "explanation": "ABCC2 encodes the MRP2 protein, a crucial hepatic efflux transporter that regulates the excretion of clofazimine, thus significantly influencing clofazimine's pharmacokinetic profile. As this gene directly alters drug distribution and elimination, any genetic variations could directly impact the drug's efficacy and safety."
+        "explanation": "The ABCC2 gene encodes for the MRP2 protein and certain variants in ABCC2 could potentially alter the disposition and plasma concentrations of clofazimine, consequently influencing the effectiveness and possible toxicity of the drug. It's probable that these variations could affect the drug\u2019s pharmacokinetics, particularly regarding excretion, thus affecting the therapeutic outcomes."
     },
     {
         "gene": "UGT1A1",

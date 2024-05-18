@@ -7,42 +7,42 @@
     {
         "gene": "CYP2E1",
         "rank": 2,
-        "explanation": "The gene CYP2E1 plays a significant role in the metabolism of isoniazid. The polymorphisms present in this gene can cause variability in drug metabolism rates, thereby affecting exposure to the drug and its metabolites. Thus, CYP2E1 gene variations impact the drug's pharmacokinetics, potentially altering its efficacy and toxicity profile."
+        "explanation": "The CYP2E1 enzyme plays a leading role in the metabolism of isoniazid and other drugs such as acetaminophen. Notably, variants of CYP2E1 affecting enzyme activity can lead to variability in the rate at which isoniazid is metabolized. This altered metabolism affects the efficacy of isoniazid therapy and the toxicity profile, particularly in relation to hepatotoxicity. Variations can lead to differential risks of adverse effects as well as drug-drug interactions given the enzyme's broad substrate specificity."
     },
     {
         "gene": "GSTM1",
         "rank": 3,
-        "explanation": "The GSTM1 gene, like GSTT1, is involved in the detoxification processes of isoniazid. Polymorphisms in GSTM1 can reduce enzyme activity, leading to increased plasma drug levels and slowed elimination rates. This can result in higher drug exposure and potentially elevated toxicity. These known associations make GSTM1 a key gene in the pharmacogenetics of isoniazid."
+        "explanation": "The GSTM1 gene is key in the metabolism of several drugs including isoniazid. Numerous studies have shown an association between GSTM1 null genotype, leading to reduced enzyme activity, and increased susceptibility to isoniazid-induced hepatotoxicity. This connection ties to the role GSTM1 plays in the detoxification of isoniazid metabolites. Therefore, GSTM1 plays a crucial role in isoniazid safety and efficacy, and genetic variations can significantly alter these attributes."
     },
     {
         "gene": "GSTT1",
         "rank": 4,
-        "explanation": "The GSTT1 gene plays a crucial role in the detoxification and pharmacokinetics of isoniazid. Known polymorphisms in GSTT1 can lead to an individual having a null genotype, resulting in a lack of enzyme expression. Therefore, GSTT1 gene plays a crucial role in determining the pharmacogenetic relationship of isoniazid, and its null genotype can significantly impact isoniazid metabolism and the risk of adverse effects."
+        "explanation": "GSTT1 (Glutathione S-transferase theta 1) plays a key role in the detoxification of various drugs including isoniazid. Variations in the GSTT1 gene, particularly the null genotype, affect the activity of the GSTT1 enzyme and alter isoniazid detoxification. Individuals with the GSTT1 null genotype have no enzyme expression, which leads to differences in drug efficacy and potentially increased risk of adverse effects. Therefore, the GSTT1 gene is likely to influence the pharmacogenetics of isoniazid."
     },
     {
         "gene": "SLCO1B1",
         "rank": 5,
-        "explanation": "SLCO1B1 is involved primarily in drug transportation, the variations of which can alter the pharmacokinetics of various drugs, including isoniazid. Genetic polymorphisms in SLCO1B1 might affect hepatic uptake and plasma concentrations of drugs, thereby leading to altered efficacy and toxicity."
+        "explanation": "SLCO1B1 is a gene responsible for encoding a solute carrier protein involved in the hepatic uptake of various drugs, which significantly impacts their pharmacokinetics. It is plausible that isoniazid could be one of these drugs, thereby altering its plasma concentrations, efficacy, and safety profile."
     },
     {
         "gene": "NR1I2",
         "rank": 6,
-        "explanation": "NR1I2, or the pregnane X receptor (PXR), is involved in the regulation of genes encoding drug-metabolizing enzymes and transport systems. Despite its known interactions with a multitude of drugs, its explicit role in isoniazid pharmacogenetics is not thoroughly documented. This said, alterations in NR1I2 could potentially provoke changes in isoniazid metabolism and efficacy."
+        "explanation": "NR1I2, or PXR, regulates genes encoding drug-metabolizing enzymes and transport systems, affecting the pharmacokinetics of various drugs. Even though isoniazid is not known to directly interact with NR1I2, the gene\u2019s influence on dominant drug metabolism pathways indicates that NR1I2 genomic variants could affect the metabolism, thus the efficacy and toxicity, of isoniazid."
     },
     {
         "gene": "ABCB1",
         "rank": 7,
-        "explanation": "ABCB1, which codifies for the P-glycoprotein, is involved in the modulation of the absorption, excretion, and distribution of various drugs, potentially including isoniazid. Variations in ABCB1 might affect the efficiency of these processes, influencing the drug\u2019s bioavailability, efficacy, and adverse reaction profile."
+        "explanation": "ABCB1, encoding P-glycoprotein, modulates the pharmacokinetics of several drugs by influencing their absorption, distribution, and excretion. While isoniazid is not an ABCB1 substrate, it is possible that ABCB1 may influence other pathways affecting isoniazid's pharmacokinetics and effect."
     },
     {
         "gene": "CYP2C19",
         "rank": 8,
-        "explanation": "Like CYP2B6, CYP2C19 is involved in the metabolism of various drugs. Variations in CYP2C19 can have a significant influence on drug efficacy as well as safety. While there may not be explicit evidence for a direct interaction between CYP2C19 and isoniazid, the role of this gene in drug metabolism suggests that it might play a substantial part in isoniazid pharmacogenetics."
+        "explanation": "While no direct interaction between isoniazid and CYP2C19 has been confirmed, given the gene\u2019s significant role in drug metabolism, including drugs with similar pathways to isoniazid, it is plausible that CYP2C19 variants could influence the metabolism, efficacy, and toxicity of isoniazid."
     },
     {
         "gene": "CYP2C9",
         "rank": 9,
-        "explanation": "CYP2C9, similarly to CYP2C19 and CYP2B6, plays a central role in metabolizing and detoxifying various drugs. Genetic variation in CYP2C9, which affects drug activation and metabolism, could potentially have an effect on isoniazid pharmacokinetics and pharmacodynamics."
+        "explanation": "CYP2C9 may impact the metabolism and efficacy of isoniazid due to its role in drug metabolism. This gene, encoding for an enzyme belonging to the cytochrome P450 family, plays a crucial role in the biotransformation of many drugs. Polymorphisms in CYP2C9 can affect the metabolism rate of isoniazid, influencing its plasma levels and thereby potentially altering efficacy and toxicity."
     },
     {
         "gene": "GSTM2",

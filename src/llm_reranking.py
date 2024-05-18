@@ -4,6 +4,7 @@ import pandas as pd
 from dotenv import load_dotenv
 from openai import OpenAI
 import collections
+from tqdm import tqdm
 
 root = os.path.dirname(os.path.abspath(__file__))
 
@@ -249,6 +250,7 @@ class LLMCompoundGeneReranker(object):
 
 class LLMCompoundGeneRerankerConsensus(object):
     def __init__(self, results_dir, lazy=False):
+        self.client = OpenAI(api_key=openai_api_key)
         self.lazy = lazy
         self.results_dir = results_dir
         self.output_dir = os.path.join(self.results_dir, "reranking", "consensus")
@@ -291,31 +293,24 @@ class LLMCompoundGeneRerankerConsensus(object):
 
     def _system_prompt(self):
         prompt = '''
-        - You are a pharmacogenetics expert. Your goal is to provide an explanation of the pharmacogenetic relationship between a drug and a gene.
-        - To assist you, you will be given up to three potential explanations. Feel free to add up based on your expertise.
-        - Overlook the potential explanations if you think they are too generalistic, or not relevant to the drug, or hallucinatory.
-        - Put the focus on pharmacokinetic aspects such as drug metabolism, absortion, transport, and excretion.
-        - Make sure to provide a detailed explanation of the pharmacogenetic relationship between the drug and the gene.
-        - Do not make any other comment. Do not suggest that further research is necessary and do not say trivial or generalistic sentences about pharmacogenetics. Do not ask questions. Do not mention PharmGKB or any other database.
-        - Do not include any code or comments in your response.
-        - If you are making an inference, make it clear. If you are providing a well-known association, make it clear as well.
-        - Do not provide citations.
-        - Your explanation should be detailed enough to convince a biomedicine expert.
-        - Your ouput should be one single paragraph of 300-500 words.
+        - You are a pharmacogenetics expert. Your goal is to select the most trustworthy explanation of the pharmacogenetic relationship between a drug and a gene.
+        - You will be given a drug and a gene. You need to select the best explanation from a set of options.
+        - Options will be labeled from 1 to 3, at most.
+        - You should return the number of the best explanation. Nothing else. Do not make any other comment.
+        - The output should be a single number, from 1 to 3. The Python function int() will be used to parse the output.
         '''
         return prompt.lstrip().rstrip().replace("    ", "") + "\n"
     
     def _user_prompt(self, chemical_name, gene_name, explanations):
         prompt = '''
-        # Drug-gene relationship
-        I would like you to provide an explanation of the pharmacogenetic relationship between {0} and {1}.
-        Below are some hints that may help you in your explanation:
+        Select the most trusthworthy explanation.
+        - Drug: {0}
+        - Gene: {1}
+
+        Options:
         '''.format(chemical_name, gene_name).rstrip().lstrip().replace("    ", "") + "\n\n"
         for i, e in enumerate(explanations):
-            prompt += '''
-            ## Explanation {0}
-            {1}
-            '''.format(i+1, e).rstrip().lstrip().replace("    ", "") + "\n\n"
+            prompt += "{0}. {1}\n".format(i+1, e).rstrip().lstrip().replace("    ", "") + "\n"
         return prompt.rstrip().lstrip().replace("    ", "") + "\n"
 
     def _save_data(self, chemical_name, data):
@@ -333,7 +328,7 @@ class LLMCompoundGeneRerankerConsensus(object):
     def run(self, chemical_name):
         data = self._get_consensus_from_rounds(chemical_name)
         data_ = []
-        for d in data:
+        for d in tqdm(data):
             gene_name = d["gene"]
             explanations = d["explanations"]
             if self.lazy:
@@ -362,26 +357,18 @@ class LLMCompoundGeneRerankerConsensus(object):
                 )
                 response = chat_completion.choices[0].message.content
                 response = response.rstrip().lstrip()
+                try:
+                    response = int(response)
+                    explanation = explanations[response-1]
+                except:
+                    print("Explanation failed...")
+                    explanation = explanations[0]
                 data_ += [
                     {
                         "gene": gene_name,
                         "rank": d["rank"],
-                        "explanation": response
+                        "explanation": explanation
                     }
                 ]
         self._save_data(chemical_name, data_)
         return data_
-
-
-if __name__ == "__main__":
-    chemical_name = "isoniazid"
-    results_dir = os.path.join(root, "..", "results", "results_pairs")
-    ranker = LLMCompoundGeneRerankerConsensus(results_dir=results_dir)
-    ranker.run(chemical_name)
-    import sys
-    sys.exit(0)
-    df = pd.read_csv(os.path.join(root, "..", "results", "results_pairs", "chemical_gene_pairs_prediction_with_zscore_and_filtered_with_variant_aggregates.csv"))
-    ranker = LLMCompoundGeneReranker(df, results_dir=results_dir)
-    data = ranker.run(chemical_name)
-    print(data)
-    

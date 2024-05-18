@@ -2,42 +2,42 @@
     {
         "gene": "ABCB1",
         "rank": 1,
-        "explanation": "ABCB1 significantly impacts the absorption, distribution, and excretion of several drugs. As an efflux transporter integral in the removal of drugs, including antivirals, antipsychotics, chemotherapeutics, and cardiovascular drugs, from the body, ABCB1 profoundly influences their bioavailability and plasma concentrations. By affecting how much of the drug is accessible for therapeutic effects vs. sent for excretion, this gene helps determine the drug\u2019s half-life, duration of action, therapeutic efficacy, and side effect risk. As such, genetic changes altering the gene\u2019s function or expression can have notable repercussions on how these drugs function in the body."
+        "explanation": "The ABCB1 gene, encoding P-glycoprotein, significantly modulates the pharmacokinetics and drug effectiveness by acting as an efflux transporter. Its role in the absorption, distribution, and excretion of a multitude of medications indicates that it may similarly affect Dihydroartemisinin. Variations in ABCB1 gene could lead to alterations in the bioavailability of Dihydroartemisinin, affecting its overall therapeutic effectiveness and dose requirements."
     },
     {
         "gene": "CYP2D6",
         "rank": 2,
-        "explanation": "CYP2D6 is engaged intensely in metabolizing various drugs, such as antidepressants, antipsychotics, beta-blockers, and opioids, and it affects how these drugs are processed within the body. Genetic changes in CYP2D6 can cause variations in enzymatic activity, which affects the metabolism of these drugs and their pharmacokinetics. Different variants can result in different metabolizer phenotypes\u2014from ultrarapid to poor metabolizers. These metabolic changes can impact the amount of drug available within the body and the drug\u2019s therapeutic numbers, altering the therapeutic efficacy and side effect profile, hence necessitating dose adjustments or alternative therapy choices."
+        "explanation": "CYP2D6 is a well-studied member of the cytochrome P450 enzyme family, involved in the metabolism of several clinically used drugs. Genetic variations tend to affect CYP2D6 activity, potentially leading to variations in the therapeutic outcomes of CYP2D6 substrate drugs. The auxiliary information provided suggests a role of CYP2D6 in Artenimol's metabolism albeit less impactful than UGT1A9 and UGT2B7."
     },
     {
         "gene": "CYP2B6",
         "rank": 3,
-        "explanation": "CYP2B6 plays a significant role in the metabolism of various drugs, being involved in the biotransformation of agents like efavirenz, nevirapine, methadone, bupropion, cyclophosphamide. Genetic changes in CYP2B6 can result in different expressions or catalytic activities of the enzyme, affecting the drugs\u2019 pharmacokinetics and therapeutic outcomes. Having an altered enzyme expression can influence the amount of drug metabolized and, thus, its concentration within the body. This can lead to fluctuations in therapeutic efficacy, varying the drug\u2019s effectiveness and safety, making the gene a crucial pharmacogenetic determinant."
+        "explanation": "CYP2B6 metabolizes varied drugs and while specific interaction with Dihydroartemisinin is not established, its general role in drug metabolism makes it a potential pharmacogenetic partner to Dihydroartemisinin, calling for further detailed study."
     },
     {
         "gene": "CYP3A4",
         "rank": 4,
-        "explanation": "CYP3A4, with its extensive expression in the liver and small intestine, plays a significant role in the metabolism of many drugs, impacting their pharmacokinetics by affecting their absorption, distribution, metabolism, and excretion (ADME) properties. Enzymatic interaction with inducers or inhibitors like carbamazepine and erythromycin, respectively, can alter CYP3A4\u2019s activity affecting the metabolism of other drugs, necessitating dosage adjustments."
+        "explanation": "CYP3A4 plays a significant role in catalyzing the oxidation of organic substances, including several endogenous and exogenous compounds. It is extensively expressed, particularly in the liver and small intestine, and has a broad substrate specificity. CYP3A4 significantly impacts the effects and toxicity of many drugs. With Dihydroartemisinin being a prodrug activated in the liver, a connection with the CYP3A4 enzyme, given its critical function in hepatic drug metabolism, seems likely."
     },
     {
         "gene": "CYP2C19",
         "rank": 5,
-        "explanation": "CYP2C19 is involved in the metabolism of a diverse range of drugs like clozapine, proton pump inhibitors, antidepressants, antiepileptics, and antifungal drugs. Changes in CYP2C19 perfectly align with variations in drug activation and metabolic rates, thereby causing differences in pharmacological outcomes. Consequently, these pharmacokinetic changes may call for adjustments in dosing to optimize treatment efficacy and avoid adverse effects."
+        "explanation": "With a role in the metabolism of Dihydroartemisinin, CYP2C19 variants affecting drug activation and treatment outcomes emphasize its importance in the pharmacogenetic interplay with Dihydroartemisinin. Differences in metabolism based on the CYP2C19 genotype can lead to varying effectiveness and adverse reactions, suggesting the necessity of genotype-guided dosing."
     },
     {
         "gene": "CYP3A5",
         "rank": 6,
-        "explanation": "CYP3A5 plays a critical role in the biotransformation of numerous drugs, including immunosuppressants, antifungals, statins, anticoagulants, and synthetic opioids. These drugs are processed by the CYP3A5 enzyme, affecting their bioavailability and plasma concentrations, which directly influence their therapeutic efficacy and side effect profile. Genetic changes in CYP3A5 can lead to variations in enzymatic activity, which alter drug metabolism and determine the concentration of drug available for therapeutic action."
+        "explanation": "CYP3A5 metabolizes a variety of drugs and though the specific influence of CYP3A5 on Dihydroartemisinin metabolism is not clearly established, it's plausible to infer a potential interaction given the enzyme's general role in drug metabolism, and thus it is an important candidate for potential pharmacogenetic relationships."
     },
     {
         "gene": "UGT2B7",
         "rank": 7,
-        "explanation": "UGT2B7 is a significant player in the metabolism and clearance of several drugs, including opioids and antiretrovirals, influencing their efficacy, side effects, and toxicity. Genetic variation in this enzyme has a profound impact on the pharmacokinetics and drug therapeutic outcomes, which may necessitate personalized dosing. Given the crucial role of UGT2B7 in metabolizing Artenimol, as mentioned in the auxiliary information, and considering its influence on various other drugs, UGT2B7 stands out to be at the top in terms of pharmacogenetic importance."
+        "explanation": "UGT2B7 is involved in the glucuronidation of Dihydroartemisinin, being a crux in the drug's metabolism and clearance. Genetic variability in UGT2B7 can impact pharmacokinetics, altering the systemic availability of Dihydroartemisinin and thereby influencing therapeutic outcomes and potential side effects."
     },
     {
         "gene": "ABCG2",
         "rank": 8,
-        "explanation": "Genetic variations in ABCG2, a gene critical in drug transport, can substantially influence drug disposition within the body, affecting the drug's pharmacokinetics and therapeutic outcomes. Mutations can affect the gene's function, modifying how efficiently it removes drugs from the body, thereby altering drug exposure, effectiveness, and toxicity risk."
+        "explanation": "ABCG2 is an efflux transporter affecting absorption, distribution, and excretion of Dihydroartemisinin, thereby influencing pharmacokinetics. Variants can alter transporter function, leading to changes in drug disposition and potentially impacting Dihydroartemisinin therapeutic outcomes and safety."
     },
     {
         "gene": "NR1I2",

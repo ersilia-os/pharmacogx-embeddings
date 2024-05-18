@@ -22,7 +22,7 @@
     {
         "gene": "GSTM1",
         "rank": 5,
-        "explanation": "GSTM1 has a central role in the metabolism of Rifampin. The presence of a null genotype of GSTM1 leads to a complete loss of enzymatic activity, potentially increasing plasma levels and slowing elimination rates, which could increase drug exposure and toxicity. This suggests that the genetic status of GSTM1 influences both the effectiveness and the potential adverse effects of Rifampin."
+        "explanation": "GSTM1 is involved in detoxification pathways and metabolism of a number of drugs, including rifampin. The GSTM1 null genotype leads to decreased enzyme activity, which could impact rifampin's plasma levels, elimination rates, and potential for toxicity. Variations in GSTM1 could thus significantly influence rifampin's efficacy and adverse effects."
     },
     {
         "gene": "ABCB1",
@@ -32,12 +32,12 @@
     {
         "gene": "GSTT1",
         "rank": 7,
-        "explanation": "GSTT1 is known to influence pharmacokinetics and detoxify Rifampin via enzymatic detoxification responses. Given its involvement in the drug's metabolism, genetic variants leading to a null genotype and therefore absence of enzyme expression could alter the drug's efficacy and result in an increased risk of adverse events."
+        "explanation": "The modulatory role of GSTT1 in rifampin detoxification and pharmacokinetics is due to enzyme-level changes affecting the capacity for detoxification. Crucial to this role is the GSTT1 null genotype that results in no enzyme expression, leading to differences in drug efficacy and an elevated risk of adverse effects."
     },
     {
         "gene": "VDR",
         "rank": 8,
-        "explanation": "The Vitamin D Receptor gene (VDR), acting in vitamin D metabolism and bone health, significantly affects the pharmacokinetics and pharmacodynamics of drugs, including rifampin. On a pharmacokinetic level, rifampin metabolism may be altered depending on VDR activity or genotypes, and on a pharmacodynamics level, VDR variants have been shown to influence the efficacy of certain drugs, including rifampin."
+        "explanation": "The Vitamin D receptor, encoded by the VDR gene, interfaces with the vitamin D metabolism pathway. Given that rifampin can influence vitamin D metabolism through various routes, gene variations in VDR could potentially affect the pharmacokinetics and pharmacodynamics of drugs working in this pathway, altering rifampin's metabolism and hence, its efficacy."
     },
     {
         "gene": "CYP2B6",
@@ -47,6 +47,6 @@
     {
         "gene": "CYP27B1",
         "rank": 10,
-        "explanation": "Rifampin has shown to decrease the efficacy of Vitamin D conversion, a process facilitated by CYP27B1. Rifampin enhances the metabolism of precursors of Vitamin D through CYP27B1. Ribavirin and other drugs capable of modifying Vitamin D levels can indirectly alter the dynamic between CYP27B1 and its pharmacodynamics."
+        "explanation": "The enzyme coded by CYP27B1 plays a crucial role in the conversion of vitamin D3 to its active form. Rifampin has been shown to affect the activity of this enzyme, which can alter the metabolism of vitamin D precursors and consequently, the availability of active vitamin D. This indirect interaction between rifampin and CYP27B1 might influence the drug's impact on vitamin D metabolism."
     }
 ]

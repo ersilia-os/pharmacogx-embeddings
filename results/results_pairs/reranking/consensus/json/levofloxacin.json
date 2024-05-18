@@ -2,7 +2,7 @@
     {
         "gene": "ABCB1",
         "rank": 1,
-        "explanation": "Levofloxacin's concentration in target tissues is influenced by its efflux from cells, which is largely facilitated by P-glycoprotein, the protein product of the ABCB1 gene. The function of ABCB1 is notably crucial for several drugs, from antivirals and chemotherapeutics to cardiovascular and immunosuppressant drugs, affecting their absorption, distribution, and excretion. The interaction of ABCB1 with levofloxacin directly influences the drug\u2019s cellular efflux, and thus, effectiveness and safety."
+        "explanation": "The ABCB1 gene, which codes for P-glycoprotein, is known to modulate the pharmacokinetics of various drugs, including levofloxacin, by affecting their absorption, distribution, and excretion. Variations in ABCB1 can alter the drug's bioavailability and tissue penetration, thus impacting the drug's efficacy and safety. ABCB1 also impacts the transport of other medications such as antivirals, chemotherapeutics, cardiovascular drugs, immunosuppressants, and analgesics, suggesting its crucial role in pharmacogenetics."
     },
     {
         "gene": "ABCG2",
@@ -37,7 +37,7 @@
     {
         "gene": "CYP2D6",
         "rank": 8,
-        "explanation": "CYP2D6 is critical in metabolizing drugs such as antidepressants, antipsychotics, and beta-blockers. Differences in CYP2D6 activity can lead to different therapeutic outcomes, stressing the involvement of this gene in the potential interactions with levofloxacin."
+        "explanation": "CYP2D6 is key to the metabolism of many clinically used drugs. Variations in this gene could lead to different exposures of drugs, affecting the risk of toxicity or drug efficacy. While levofloxacin isn't classically metabolized by CYP2D6, the gene's significant impact on pharmacokinetics of other drugs proposes potential implications in levofloxacin processing."
     },
     {
         "gene": "SLCO1B1",

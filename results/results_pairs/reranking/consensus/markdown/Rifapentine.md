@@ -13,16 +13,16 @@ NR1I2 carries implications for Rifapentine's pharmacokinetics due to its role in
 This gene codes for a hepatic uptake transporter that can influence the pharmacokinetics and resulting drug levels of Rifapentine, affecting the drug's efficacy and potential toxicity. Polymorphisms such as c.521T>C can alter the function and efficiency of this transporter, possibly leading to elevated plasma levels of the drug and subsequently, increased risk of adverse effects and altered therapeutic efficacy.
 
 ## 5. NAT2
-Variations in NAT2 often impact drug response and adverse reactions due to modifications in the metabolism of Rifapentine, leading to differences in effective concentrations and overall drug exposure. This can potentially alter the duration and intensity of drug action, contributing to Rifapentine's pharmacogenetic profile.
+NAT2 is involved in drug metabolism, contributing to Rifapentine's pharmacokinetic profile. With existing evidence supporting NAT2's role in metabolizing other antituberculosis drugs like isoniazid, it would be a plausible inference that NAT2 could impact Rifapentine metabolism, thus altering drug plasma levels, exposure duration, and possible adverse effects.
 
 ## 6. CYP3A5
 CYP3A5 plays a role in the metabolism of several drugs, including Rifapentine. Variations in CYP3A5 function can contribute to interindividual differences in Rifapentine's pharmacokinetics like rate of metabolism, drug exposure, and drug clearance. This interaction can influence the therapeutic outcomes and risk profiles of Rifapentine.
 
 ## 7. ABCC2
-Changes in the function of the protein encoded by ABCC2 due to genetic variations can alter Rifapentine's pharmacokinetics by modifying its excretion and plasma concentrations. This can impact the effectiveness of the drug and potential toxicity, leading to variations in clinical outcomes and adverse effects.
+The ABCC2 gene, encoding the MRP2 protein, affects drug pharmacokinetics by influencing their excretion. Genetic variations can lead to altered drug plasma concentrations and efficacy of therapeutic outcomes, and given the structural resemblance of Rifapentine to other MRP2 substrates, it's reasonable to infer its potential role in modulating Rifapentine pharmacokinetics.
 
 ## 8. ABCB1
-ABCB1 can influence the absorption, distribution, and excretion of drugs, thereby affecting their bioavailability. As such, genetic variations in ABCB1 could potentially alter the pharmacokinetics of Rifapentine, leading to significant differences in its efficacy and toxicity.
+ABCB1 encodes P-glycoprotein, a crucial efflux transporter that influences drug absorption, distribution, and excretion. Rifapentine, being lipophilic, is a possible substrate for P-glycoprotein, which modulates Rifapentine's bioavailability and penetration into tissues, directly influencing drug efficacy and safety.
 
 ## 9. CYP2C8
 CYP2C8 affects the metabolism of Rifapentine. Any variations in CYP2C8 gene could potentially influence the metabolism and exposure to Rifapentine, which could consequently affect the efficacy and potential toxicity of the drug. As such, the CYP2C8 gene is of interest in the pharmacogenetics of Rifapentine.

@@ -7,7 +7,7 @@
     {
         "gene": "ABCB1",
         "rank": 2,
-        "explanation": "ABCB1 encodes P-glycoprotein, a crucial efflux transporter that modulates the pharmacokinetics and efficacy of an array of drugs by regulating their absorption, distribution, and excretion. This consequently affects the bioavailability of these drugs, including Capreomycin. Variations in ABCB1 can lead to variable therapeutic outcomes and can potentially influence the toxicity of drugs due to altered drug exposures and systemic concentrations."
+        "explanation": "ABCB1 encodes the P-glycoprotein, a crucial player in the pharmacokinetics of numerous medications. It acts as an efflux transporter that modifies the absorption, distribution, and excretion of various drugs. Given its broad scope of function, ABCB1 could plausibly influence the pharmacokinetics of Capreomycin, affecting the drug's bioavailability and penetration in different tissues, potentially leading to variable treatment outcomes."
     },
     {
         "gene": "ABCC3",
@@ -22,17 +22,17 @@
     {
         "gene": "ABCG2",
         "rank": 5,
-        "explanation": "ABCG2 influences the pharmacokinetics of various drugs by serving as an efflux transporter, significantly impacting their absorption, distribution, and excretion. Given this role, ABCG2 likely affects the pharmacokinetics of Capreomycin, potentially leading to altered therapeutic efficacy and safety. Additionally, the reported sub-effect variations, such as Q141K, can further influence drug interactions and toxicity."
+        "explanation": "ABCG2, an efflux transporter, influences the pharmacokinetics of various drugs by modifying their absorption, distribution and excretion. Genetic variants within this gene could modify drug interactions with Capreomycin, potentially affecting its therapeutic efficacy and safety. Genetic variations like Q141K in the ABCG2 gene can cause alterations in the pharmacokinetics of Capreomycin affecting therapeutic outcomes."
     },
     {
         "gene": "SLC22A16",
         "rank": 6,
-        "explanation": "SLC22A16 plays a critical role in the pharmacokinetics of various drugs by affecting their transport, hence influencing the drug's efficacy and potential for toxicity. Given the role of SLC22A16, it is inferred that Capreomycin may also be affected similarly, potentially altering their metabolism or mechanisms of action."
+        "explanation": "SLC22A16 is known to play a significant role in the pharmacokinetics of doxorubicin by impacting its transport and potentially impacts the pharmacokinetics of other drugs as well. Given this established role in modulating the transport of chemotherapy drugs, it is reasonable to propose a potential pharmacogenetic interaction with Capreomycin, where genetic variants in SLC22A16 could affect the absorption, distribution, or excretion of Capreomycin, potentially altering its therapeutic efficacy or increasing risk of toxicities."
     },
     {
         "gene": "MT-RNR1",
         "rank": 7,
-        "explanation": "MT-RNR1, associated with ototoxic side effects of aminoglycosides, might influence Capreomycin's side-effects like nephrotoxicity and ototoxicity as mentioned in auxiliary data. Given the similar pharmacodynamics observed in aminoglycoside antibiotics, it is inferred that MT-RNR1 possibly has a pharmacogenetic relationship with Capreomycin, ultimately affecting its pharmacological toxicity profile."
+        "explanation": "Capreomycin, like other aminoglycosides, may affect the protein synthesis in cochlear cells, leading to ototoxicity. If this ototoxicity is driven by the high sensitivity of the mitochondrial ribosomes to the drug, the genetic variations in MT-RNR1 may have a significant impact on the susceptibility to aminoglycoside-induced hearing loss. Thus, MT-RNR1 might have a pharmacogenetic relationship with Capreomycin, influencing its ototoxic potential."
     },
     {
         "gene": "SLCO1B1",

@@ -7,7 +7,7 @@
     {
         "gene": "ABCB1",
         "rank": 2,
-        "explanation": "Based on the provided information on Terizidone, ABCB1 might significantly influence the drug's pharmacokinetics. ABCB1, also known as P-glycoprotein, is fundamental in modulating the absorption, distribution, and excretion of multiple drugs, thereby affecting their bioavailability. For Terizidone, interaction with ABCB1 could alter its absorption and distribution, possibly influencing its therapeutic effectiveness and the required dosage."
+        "explanation": "The ABCB1 gene, which encodes the crucial P-glycoprotein, is directly highlighted in the auxiliary data as having a pharmacogenetic impact on terizidone. ABCB1 significantly modulates the pharmacokinetics and efficacy of a multitude of drugs by affecting their absorption, distribution, and excretion. Thus, genetic variations in ABCB1 could plausibly affect the bioavailability, distribution, and excretion of terizidone, and potentially also its effectiveness."
     },
     {
         "gene": "ABCG2",
@@ -22,7 +22,7 @@
     {
         "gene": "ABCC4",
         "rank": 5,
-        "explanation": "ABCC4 might interact with Terizidone through its effect on the pharmacokinetic and therapeutic outcomes of a broad range of drugs. Variations in ABCC4 affect drug excretion, altering their concentrations, and thereby, possibly their therapeutic results and the risk of drug resistance. For Terizidone, its interaction with ABCC4 could influence drug excretion, potentially impacting drug concentrations and ensuing therapeutic outcomes."
+        "explanation": "ABCC4, another member of the ABC transporter family implicated in pharmacogenetic interactions, also deserves high priority. Like other gene variants in this family, ABCC4 influences the pharmacokinetics and efficacy of various drugs by modifying their cellular efflux, with direct impacts on drug concentrations within the body. Given the possible effects of ABC transporters on terizidone's pharmacokinetics, variations in the ABCC4 gene might similarly affect terizidone's concentration, distribution, and therapeutic outcomes."
     },
     {
         "gene": "CYP2C19",
@@ -32,7 +32,7 @@
     {
         "gene": "UGT2B7",
         "rank": 7,
-        "explanation": "UGT2B7 might significantly influence Terizidone's pharmacogenetics through its role in metabolism and clearance of various drugs affecting their efficacy, side effects, and toxicity. Given these functions, interaction with UGT2B7 could potentially affect Terizidone's metabolism and clearance, likely impacting its therapeutic outcomes."
+        "explanation": "UGT2B7 affects the metabolism and clearance of many drugs, influencing their efficacy, side effects, and toxicity. Genetic variations in this gene can significantly impact the pharmacokinetics and therapeutic outcomes of these drugs. Although terizidone is not specifically known to interact with UGT2B7, potential interactions may exist given UGT2B7's broad influence, potentially affecting terizidone's metabolism and resultant patient impact."
     },
     {
         "gene": "G6PD",
@@ -47,6 +47,6 @@
     {
         "gene": "CYP2C9",
         "rank": 10,
-        "explanation": "Considering the potential influence of cytochrome P450 enzymes on Terizidone's pharmacokinetics, CYP2C9 might play a significant role. The variations in CYP2C9's gene can affect drug metabolism leading to distinct pharmacological outcomes. For Terizidone, interaction with the CYP2C9 enzyme may modify its metabolism, influencing its effectiveness and risk of side effects."
+        "explanation": "CYP2C9 metabolizes various drugs, where genetic variants significantly affect those drugs' therapeutic effectiveness and adverse effects. Given the direct link between terizidone and the cytochromes P450 family indicated in the auxiliary materials, CYP2C9 stands out as a potential player in terizidone's pharmacogenetic interactions, possibly influencing metabolism, efficacy, and side effects."
     }
 ]

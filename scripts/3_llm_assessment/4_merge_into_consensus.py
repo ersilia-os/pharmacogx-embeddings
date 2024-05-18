@@ -8,7 +8,7 @@ sys.path.append(os.path.join(root, "..", "..", "src"))
 from llm_reranking import LLMCompoundGeneRerankerConsensus
 
 # If lazy is True, do not use LLM for the explanation. Only for testing purposes
-lazy = True
+lazy = False
 
 results_dir = os.path.join(root, "..", "..", "results", "results_pairs")
 
@@ -17,7 +17,8 @@ df = pd.read_csv(os.path.join(results_dir, "chemical_gene_pairs_prediction_outpu
 chemicals = sorted(df["chemical"].unique().tolist())
 
 data_pairs = {}
-for chemical in chemicals:
+for i, chemical in enumerate(chemicals):
+    print(i, chemical)
     ranker = LLMCompoundGeneRerankerConsensus(results_dir=results_dir, lazy=lazy)
     data = ranker.run(chemical)
     for d in data:

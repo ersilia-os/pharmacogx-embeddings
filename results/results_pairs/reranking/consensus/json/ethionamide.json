@@ -2,12 +2,12 @@
     {
         "gene": "NAT2",
         "rank": 1,
-        "explanation": "Considering the reported pharmacokinetic role of NAT2 in acetylating various drugs, including tuberculosis medications like isoniazid, which shares a similar action mechanism with ethionamide targeting the inhA enzyme in M. tuberculosis, and its high z-score, it is inferred that NAT2 might have a substantial interaction with ethionamide. The genetic variations in NAT2 affecting acetylator phenotypes (slow, intermediate, rapid) could potentially influence ethionamide's efficacy and safety by altering its metabolic rate, exposure, and risk of adverse effects."
+        "explanation": "NAT2 is a crucial enzyme for the metabolism of various drugs, including anti-tuberculosis drugs. Ethionamide, an analogous drug to isoniazid, also used against tuberculosis, might be influenced by NAT2 activity. Increased or decreased NAT2 activity due to genetic variations could affect the metabolism and efficacy of ethionamide, influencing its therapeutic outcome, leading to differences in acetylator status (rapid, intermediate, slow) among individuals. This status impacts maximum drug plasma levels, exposure duration, and risk of adverse effects such as increased toxicity."
     },
     {
         "gene": "CYP2A6",
         "rank": 2,
-        "explanation": "While CYP2A6 has not yet been specifically implicated in ethionamide metabolism, its extensive role in metabolizing multiple clinically utilized drugs suggests a plausible interaction. Genetic variations in this gene modifying enzyme activity might influence the bioactivation of ethionamide in the liver."
+        "explanation": "CYP2A6, an enzyme from the cytochrome P450 superfamily, influences the metabolism of various drugs, impacting their efficacy and toxicity due to genetic variations. It plays a critical role in metabolizing certain drugs, necessitating dosage adjustments or changes in drug choices to optimize outcomes and minimize side effects. Given the overlapping metabolic responsibilities with the more directly implicated FMO enzymes, it serves as a candidate for a pharmacogenetic relationship with ethionamide."
     },
     {
         "gene": "CYP2C19",
@@ -22,7 +22,7 @@
     {
         "gene": "NAT1",
         "rank": 5,
-        "explanation": "The role of NAT1 in acetylating multiple substrates, reducing their pharmacological activity, implies a potential interaction with ethionamide. Genetic differences in NAT1 could modify ethionamide's metabolism, potentially influencing its effectiveness and safety, comparable to NAT2's probable pharmacogenetic relationship."
+        "explanation": "NAT1 is involved in the acetylation of various substrates affecting drug metabolism and efficacy. Given the structural and functional similarity between the NAT1 and NAT2 enzymes, which have been linked to ethionamide activation, and the effects of genetic variation on enzyme performance, a pharmacogenetic relationship between NAT1 and ethionamide reasonably exists, warranting investigation."
     },
     {
         "gene": "ABCB1",
@@ -42,7 +42,7 @@
     {
         "gene": "GSTT1",
         "rank": 9,
-        "explanation": "GSTT1 gene influences the pharmacokinetics and detoxification of various drugs. Based on its documented role, it is plausible to infer that it might affect the metabolism of ethionamide, leading to variations in drug efficacy and an increased risk of adverse effects."
+        "explanation": "GSTT1 gene influences the pharmacokinetics and detoxification of various drugs due to its role in enzymatic detoxification processes. As ethionamide's efficacy is susceptible to different hepatic metabolic activities, the GSTT1 gene's contribution to drug detoxification makes it a viable contender for pharmacogenetic relationships with ethionamide."
     },
     {
         "gene": "GSTM1",

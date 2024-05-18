@@ -22,7 +22,7 @@
     {
         "gene": "NAT2",
         "rank": 5,
-        "explanation": "Variations in NAT2 often impact drug response and adverse reactions due to modifications in the metabolism of Rifapentine, leading to differences in effective concentrations and overall drug exposure. This can potentially alter the duration and intensity of drug action, contributing to Rifapentine's pharmacogenetic profile."
+        "explanation": "NAT2 is involved in drug metabolism, contributing to Rifapentine's pharmacokinetic profile. With existing evidence supporting NAT2's role in metabolizing other antituberculosis drugs like isoniazid, it would be a plausible inference that NAT2 could impact Rifapentine metabolism, thus altering drug plasma levels, exposure duration, and possible adverse effects."
     },
     {
         "gene": "CYP3A5",
@@ -32,12 +32,12 @@
     {
         "gene": "ABCC2",
         "rank": 7,
-        "explanation": "Changes in the function of the protein encoded by ABCC2 due to genetic variations can alter Rifapentine's pharmacokinetics by modifying its excretion and plasma concentrations. This can impact the effectiveness of the drug and potential toxicity, leading to variations in clinical outcomes and adverse effects."
+        "explanation": "The ABCC2 gene, encoding the MRP2 protein, affects drug pharmacokinetics by influencing their excretion. Genetic variations can lead to altered drug plasma concentrations and efficacy of therapeutic outcomes, and given the structural resemblance of Rifapentine to other MRP2 substrates, it's reasonable to infer its potential role in modulating Rifapentine pharmacokinetics."
     },
     {
         "gene": "ABCB1",
         "rank": 8,
-        "explanation": "ABCB1 can influence the absorption, distribution, and excretion of drugs, thereby affecting their bioavailability. As such, genetic variations in ABCB1 could potentially alter the pharmacokinetics of Rifapentine, leading to significant differences in its efficacy and toxicity."
+        "explanation": "ABCB1 encodes P-glycoprotein, a crucial efflux transporter that influences drug absorption, distribution, and excretion. Rifapentine, being lipophilic, is a possible substrate for P-glycoprotein, which modulates Rifapentine's bioavailability and penetration into tissues, directly influencing drug efficacy and safety."
     },
     {
         "gene": "CYP2C8",

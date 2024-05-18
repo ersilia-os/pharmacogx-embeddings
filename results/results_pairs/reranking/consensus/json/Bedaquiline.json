@@ -2,22 +2,22 @@
     {
         "gene": "CYP3A4",
         "rank": 1,
-        "explanation": "CYP3A4 gene has crucial pharmacogenetic implications for Bedaquiline. The drug's effectiveness and safety are significantly modulated by variations in the CYP3A4 gene, affecting its metabolism. Individuals with genetic variants enhancing or reducing CYP3A4 enzyme activity may experience either reduced efficacy or heightened risk of adverse effects like QT prolongation. This consequently necessitates consideration of dose adjustment or thorough monitoring, to balance the therapeutic benefits and risks."
+        "explanation": "The CYP3A4 gene has a known pharmacogenetic interaction with Bedaquiline, which is metabolized by the CYP3A4 enzyme. Bedaquiline's pharmacokinetics, efficacy, and toxicity are influenced by the action of this gene. As individuals with variations in this gene can have modified CYP3A4 activity, this can lead to either increased risk of adverse effects or diminished therapeutic effectiveness of Bedaquiline, necessitating careful dosage adjustments. CYP3A4 is also significantly involved in the metabolism of a wide range of other drugs, hence it is crucial for optimizing therapeutic outcomes and patient safety."
     },
     {
         "gene": "ABCB1",
         "rank": 2,
-        "explanation": "ABCB1 encodes P-glycoprotein which is vital in modulating the pharmacokinetics and efficacy of Bedaquiline. It acts as an efflux transporter, influencing the absorption, distribution, and elimination of the drug. Importantly, ABCB1 can impact the bioavailability and cellular concentration of drugs. Thus, variations in the ABCB1 gene that modify transporter function may affect drug efficacy and toxicity."
+        "explanation": "ABCB1 encodes the drug efflux pump P-glycoprotein that impacts the pharmacokinetics and overall efficacy of multiple drugs. It plays a decisive role in the absorption, distribution, and elimination of various drugs. The variability in the function of P-glycoprotein due to changes in ABCB1 can lead to alterations in drug efficacy, potentially necessitating dosage adjustments for optimum therapeutic outcomes. For Bedaquiline, being a substrate of P-glycoprotein, ABCB1 is likely to be a significant player in its pharmacogenetics."
     },
     {
         "gene": "CYP3A5",
         "rank": 3,
-        "explanation": "Beyond its relationship with CYP3A4, Bedaquiline may also interact with the CYP3A5 enzymatic pathway, considering their shared roles in drug metabolism. Variants in the CYP3A5 gene that alters enzyme activity can affect the metabolism rates of Bedaquiline, which in turn can influence its therapeutic outcomes and risk profiles."
+        "explanation": "CYP3A5 is involved in the metabolism of many drugs and genetic variants in this gene can impact the metabolism rate, thereby influencing therapeutic outcomes and safety profiles of these drugs. This gene is a very probable candidate for pharmacogenetic interactions with Bedaquiline, owing to its role in the CYP3A family, the same family as CYP3A4, which is proven to interact with Bedaquiline. Potential differences in Bedaquiline metabolism due to CYP3A5 variance could affect its effectiveness and safety."
     },
     {
         "gene": "CYP2D6",
         "rank": 4,
-        "explanation": "CYP2D6 plays a critical role in metabolizing various drugs. Although no direct association of CYP2D6 with Bedaquiline is established, considering the enzyme\u2019s broad substrate specificity, there are possible interactions that may affect the pharmacokinetics of Bedaquiline."
+        "explanation": "The CYP2D6 gene is a key player in drug metabolism, with genetic variations resulting in altered enzyme activity that may lead to changes in drug effectiveness or increased risks of drug toxicity. Although the interaction of Bedaquiline with CYP2D6 is not explicitly established, considering the extensive involvement of this gene in drug metabolism, it is plausible that variations in this gene may impact bedaquiline pharmacokinetics and therapeutic efficacy."
     },
     {
         "gene": "ABCC1",
@@ -27,22 +27,22 @@
     {
         "gene": "CYP2C19",
         "rank": 6,
-        "explanation": "CYP2C19 enzymatic pathway significantly influences the metabolism of various clinically relevant drugs. Therefore, it could potentially interact with pharmacokinetic processes related to Bedaquiline. Understanding its influence may provide valuable insights into optimizing the drug's therapeutic efficacy while minimizing side effects."
+        "explanation": "CYP2C19 plays a significant role in the metabolism of a range of drugs, with variations in the gene influencing drug activation and clearance. Although not yet established, a possible interaction between CYP2C19 and Bedaquiline may exist, given that several other cytochrome P450 enzymes interact with the drug. Variations in CYP2C19 could potentially affect the therapeutic outcomes of Bedaquiline by impacting its metabolism."
     },
     {
         "gene": "UGT1A1",
         "rank": 7,
-        "explanation": "UGT1A1 is crucial for glucuronidation, a major phase II metabolic pathway. Variations in UGT1A1 can impact drug metabolism, affecting both pharmacokinetics and pharmacodynamics, and potentially contribute in tunnelling the metabolic shunts of Bedaquiline."
+        "explanation": "UGT1A1 influences drug metabolism primarily through glucuronidation, affecting drug pharmacokinetics and pharmacodynamics. Variations in this gene have been linked to changes in the clearance of drugs, leading to different levels of drug toxicity. Potentially, such effects could alter the safety and efficacy profiles of drugs like Bedaquiline."
     },
     {
         "gene": "ABCC2",
         "rank": 8,
-        "explanation": "ABCC2 gene variants influence the function of MRP2 protein affecting the pharmacokinetics of various drugs. As with ABCB1 and ABCC1, it might modulate the cellular clearance and concentration of Bedaquiline, influencing drug effectiveness and toxicity."
+        "explanation": "ABCC2, encoding the MRP2 protein, influences the pharmacokinetic profile of various drugs. Variations in this gene lead to alterations in drug excretion and plasma concentration, impacting drug effectiveness and toxicity. Given the role of ABC transporters in drug efflux and absorption, ABCC2, like ABCB1, could contribute to the pharmacokinetics and pharmacogenetics of Bedaquiline."
     },
     {
         "gene": "CYP2B6",
         "rank": 9,
-        "explanation": "Although the interaction between CYP2B6 and Bedaquiline is not well-documented, given CYP2B6\u2019s role in the metabolism of a diversity of drugs, there are potential pharmacokinetic interactions that could affect the efficacy and safety of Bedaquiline therapy."
+        "explanation": "CYP2B6 is chosen as the sixth gene due to its major role in the metabolism of several drugs. It is directly involved in the biotransformation of several drugs of diverse chemical structures. Therefore, the gene could potentially be involved in the metabolism of Bedaquiline, imparting potential pharmacokinetic alterations in relation to its efficacy, half-life, and toxicity."
     },
     {
         "gene": "CYP2C9",
