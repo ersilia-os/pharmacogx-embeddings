@@ -12,9 +12,11 @@ df = pd.read_csv(os.path.join(root, "..", "..", "results", "results_pairs", "che
 
 chemical_names = df["chemical"].unique().tolist()
 
-print(chemical_names[:10], len(chemical_names))
+print("Working on chemicals", len(chemical_names))
 
-for i, chemical_name in enumerate(chemical_names[27:]):
-    print(i, chemical_name)
-    ranker = LLMCompoundGeneReranker(df, results_dir=results_dir)
-    data = ranker.run(chemical_name)
+for round in range(3):
+    print(f"Round {round}")
+    for i, chemical_name in enumerate(chemical_names):
+        print(i, chemical_name)
+        ranker = LLMCompoundGeneReranker(df, results_dir=results_dir, round=round)
+        data = ranker.run(chemical_name)
