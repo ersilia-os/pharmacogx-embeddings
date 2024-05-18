@@ -3,6 +3,7 @@ import json
 import pandas as pd
 from dotenv import load_dotenv
 from openai import OpenAI
+import collections
 
 root = os.path.dirname(os.path.abspath(__file__))
 
@@ -62,7 +63,12 @@ class LLMCompoundGeneReranker(object):
             - Do not include any code or comments in your response.
             - Make it clear if you are making an inference.
             - Do not mention the rank explicitly in your response. The rank should be implicit in the order of the genes.
-            - Only return a JSON string. The schema of the JSON file should be strictly as follows: `{gene: GENE_SYMBOL, rank: INTEGER, explanation: TEXT}`. Make sure the JSON string is valid.
+            - Only return a JSON string. Do not make comments before or after. Your response should be directly parseable with the Python command `json.loads`. The schema of the JSON file should be strictly as follows:
+              [
+                {gene: GENE_SYMBOL, rank: INTEGER, explanation: TEXT},
+                {gene: GENE_SYMBOL, rank: INTEGER, explanation: TEXT},
+                ...
+              ]
             '''
         return prompt.lstrip().rstrip().replace("    ", "") + "\n"
     
@@ -208,6 +214,7 @@ class LLMCompoundGeneReranker(object):
             model = "gpt-4",
         )
         response = chat_completion.choices[0].message.content
+        print(response)
         return response
     
     def _get_available(self, chemical_name):
@@ -240,9 +247,126 @@ class LLMCompoundGeneReranker(object):
         return data
     
 
+class LLMCompoundGeneRerankerConsensus(object):
+    def __init__(self, results_dir, lazy=False):
+        self.lazy = lazy
+        self.results_dir = results_dir
+        self.output_dir = os.path.join(self.results_dir, "reranking", "consensus")
+        if not os.path.exists(self.output_dir):
+            os.makedirs(self.output_dir)
+        if not os.path.exists(os.path.join(self.output_dir, "json")):
+            os.makedirs(os.path.join(self.output_dir, "json"))
+        if not os.path.exists(os.path.join(self.output_dir, "markdown")):
+            os.makedirs(os.path.join(self.output_dir, "markdown"))
+
+    def _get_consensus_from_rounds(self, chemical_name):
+        data = []
+        for round in range(3):
+            response_file_name = os.path.join(self.results_dir, "reranking", "responses", "round_{0}".format(round), "json", f"{chemical_name}.json")
+            if not os.path.exists(response_file_name):
+                continue
+            with open(response_file_name, "r") as f:
+                d = json.load(f)
+            data += [d]
+        gene_scores = collections.defaultdict(list)
+        for d in data:
+            for x in d:
+                gene_scores[x["gene"]] += [10 - (x["rank"]-1)]
+        gene_scores = dict((k, sum(v)) for k, v in gene_scores.items())
+        sorted_genes = sorted(gene_scores.keys(), key=lambda x: gene_scores[x], reverse=True)[:10]
+        data_sel = []
+        for i, g in enumerate(sorted_genes):
+            explanations = []
+            for x in data:
+                for y in x:
+                    if y["gene"] == g:
+                        explanations += [y["explanation"]]
+            d = {
+                "gene": g,
+                "rank": i+1,
+                "explanations": explanations
+            }
+            data_sel += [d]
+        return data_sel
+
+    def _system_prompt(self):
+        prompt = '''
+        - You are a pharmacogenetics expert. Your goal is to provide an explanation of the pharmacogenetic relationship between a drug and a gene.
+        - To assist you, you will be given up to three potential explanations. Feel free to add up based on your expertise.
+        - Overlook the potential explanations if you think they are too generalistic, or not relevant to the drug, or hallucinatory.
+        - Put the focus on pharmacokinetic aspects such as drug metabolism, absortion, transport, and excretion.
+        - Make sure to provide a detailed explanation of the pharmacogenetic relationship between the drug and the gene.
+        - Do not make any other comment. Do not suggest that further research is necessary and do not say trivial or generalistic sentences about pharmacogenetics. Do not ask questions. Do not mention PharmGKB or any other database.
+        - Do not include any code or comments in your response.
+        - If you are making an inference, make it clear. If you are providing a well-known association, make it clear as well.
+        - Do not provide citations.
+        - Your explanation should be detailed enough to convince a biomedicine expert.
+        - Your ouput should be one single paragraph of 300-500 words.
+        '''
+        return prompt.lstrip().rstrip().replace("    ", "") + "\n"
+    
+    def _user_prompt(self, chemical_name, gene_name, explanations):
+        prompt = '''
+        # Drug-gene relationship
+        I would like you to provide an explanation of the pharmacogenetic relationship between {0} and {1}.
+        Below are some hints that may help you in your explanation:
+        '''.format(chemical_name, gene_name).rstrip().lstrip().replace("    ", "") + "\n\n"
+        for i, e in enumerate(explanations):
+            prompt += '''
+            ## Explanation {0}
+            {1}
+            '''.format(i+1, e).rstrip().lstrip().replace("    ", "") + "\n\n"
+        return prompt.rstrip().lstrip().replace("    ", "") + "\n"
+
+    def run(self, chemical_name):
+        data = self._get_consensus_from_rounds(chemical_name)
+        data_ = []
+        for d in data:
+            gene_name = d["gene"]
+            explanations = d["explanations"]
+            if self.lazy:
+                data_ += [
+                    {
+                        "gene": gene_name,
+                        "rank": d["rank"],
+                        "explanation": explanations[0]
+                    }
+                ]
+            else:
+                system_prompt = self._system_prompt()
+                user_prompt = self._user_prompt(chemical_name, gene_name, explanations)
+                chat_completion = self.client.chat.completions.create(
+                    messages=[
+                        {
+                            "role": "system",
+                            "content": system_prompt
+                        },
+                        {
+                            "role": "user",
+                            "content": user_prompt
+                        }
+                    ],
+                    model = "gpt-4-turbo",
+                )
+                response = chat_completion.choices[0].message.content
+                response = response.rstrip().lstrip()
+                data_ += [
+                    {
+                        "gene": gene_name,
+                        "rank": d["rank"],
+                        "explanation": response
+                    }
+                ]
+        return data_
+
+
 if __name__ == "__main__":
     chemical_name = "isoniazid"
     results_dir = os.path.join(root, "..", "results", "results_pairs")
+    ranker = LLMCompoundGeneRerankerConsensus(results_dir=results_dir)
+    ranker.run(chemical_name)
+    import sys
+    sys.exit(0)
     df = pd.read_csv(os.path.join(root, "..", "results", "results_pairs", "chemical_gene_pairs_prediction_with_zscore_and_filtered_with_variant_aggregates.csv"))
     ranker = LLMCompoundGeneReranker(df, results_dir=results_dir)
     data = ranker.run(chemical_name)

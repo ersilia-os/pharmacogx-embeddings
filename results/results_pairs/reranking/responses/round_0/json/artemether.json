@@ -1,0 +1,52 @@
+[
+    {
+        "gene": "CYP2B6",
+        "rank": 1,
+        "explanation": "CYP2B6 is significantly involved in the metabolism of artemether into its active metabolite, dihydroartemisinin, thereby directly affecting its antimalarial effects. Known genetic polymorphisms of CYP2B6 lead to altered enzyme activity and hence differential drug efficacy and safety. As known pharmacogenetic interactions exist with artemether, the role of CYP2B6 in the metabolism of artemether defines it as a top-ranked gene."
+    },
+    {
+        "gene": "CYP3A4",
+        "rank": 2,
+        "explanation": "CYP3A4 is another primary enzyme involved in the metabolic conversion of artemether to dihydroartemisinin. The drug's efficacy and safety are therefore linked to the individual's CYP3A4 activity, which can vary owing to genetic polymorphisms. Given the enzyme's significant influence on artemether's pharmacokinetics, CYP3A4 has a high likelihood for a pharmacogenetic relationship."
+    },
+    {
+        "gene": "CYP2C19",
+        "rank": 3,
+        "explanation": "CYP2C19 contributes to the metabolism of artemether into the active and more potent form, dihydroartemisinin. Genetic variations of CYP2C19 can considerably influence the drug's pharmacokinetics. Genetic polymorphisms affecting drug activation and metabolism can lead to variable therapeutic effects and could necessitate individualized dosing."
+    },
+    {
+        "gene": "CYP3A5",
+        "rank": 4,
+        "explanation": "As one of the enzymes involved in the metabolism of artemether to its active metabolite, CYP3A5 potentially has a significant pharmacogenetic association with the drug. Genetic variations of this gene might affect the metabolism rate and thereby influence the drug's effectiveness and risk profiles."
+    },
+    {
+        "gene": "ABCB1",
+        "rank": 5,
+        "explanation": "The ABCB1 gene, encoding P-glycoprotein, could impact the pharmacokinetics, efficacy, and potential side effects of artemether. As an efflux transporter, ABCB1 affects drug distribution and excretion, and genetic variations can modulate its influence on this drug."
+    },
+    {
+        "gene": "CYP2C9",
+        "rank": 6,
+        "explanation": "CYP2C9 aids in the metabolic breakdown of artemether to its active form. Genetic variants of CYP2C9 are known to influence metabolism rates, side effects, and therapeutic effectiveness of drugs, suggesting a strong pharmacogenetic relationship with artemether."
+    },
+    {
+        "gene": "CYP2D6",
+        "rank": 7,
+        "explanation": "The CYP2D6 gene, while it does not directly metabolize artemether, is a key cytochrome P450 enzyme in the metabolism of many other drugs. Genetic variations in this gene could potentially lead to variability in the overall metabolic processing of drugs in the body and thus could indirectly affect the metabolism and efficacy of artemether."
+    },
+    {
+        "gene": "ABCC2",
+        "rank": 8,
+        "explanation": "ABCC2 mutations can affect the disposition and excretion of drugs in hepatocytes, which could potentially impact the pharmacokinetics of artemether. Given this gene's known pharmacokinetic interactions with several drugs, it is reasonable to speculate a similar interaction with artemether."
+    },
+    {
+        "gene": "CYP2A6",
+        "rank": 9,
+        "explanation": "CYP2A6, historically crucial in metabolizing certain drugs, may influence the metabolism and consequent efficacy and toxicity of artemether due to similarities in metabolic pathways. While direct evidence of CYP2A6's interaction with artemether is lacking, based on inference, this gene may present a potential pharmacogenetic relationship."
+    },
+    {
+        "gene": "CYP1A2",
+        "rank": 10,
+        "explanation": "The CYP1A2 enzyme metabolizes a diverse range of drugs using similar metabolic pathways as those involved with artemether. Inference suggests that variants of this gene may potentially affect the metabolism and pharmacokinetics of artemether, leading to variable therapeutic and adverse effects."
+    }
+]
