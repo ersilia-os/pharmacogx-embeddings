@@ -1,0 +1,2882 @@
+cid,chemical,atc_codes,disease,is_infectious,is_noncommunicable
+C000620396,Bictegravir,,,,
+C006012,Fenofibric acid,,,,
+C010792,Testosterone undecanoate,,,,
+C081587,Strontium ranelate,,,,
+C442442,Tenofovir alafenamide,,,,
+C486592,Ingenol mebutate,,,,
+C520853,Alogliptin,,,,
+C527525,Teriflunomide,,,,
+C551441,Perampanel,,,,
+D000068876,Fingolimod,,,,
+D000068896,Canagliflozin,,,,
+D000069476,Linagliptin,,,,
+D000077602,Tolvaptan,,,,
+D001622,Glycine betaine,,,,
+D004958,Estradiol valerate,,,,
+PA10004,adalimumab,L04AB04,"Arthritis, Rheumatoid",0.0,1.0
+PA10004,adalimumab,L04AB04,Psoriasis,0.0,1.0
+PA10004,adalimumab,L04AB04,Inflammatory Bowel Diseases,0.0,1.0
+PA10004,adalimumab,L04AB04,"Arthritis, Psoriatic",0.0,1.0
+PA10004,adalimumab,L04AB04,Crohn Disease,0.0,1.0
+PA10004,adalimumab,L04AB04,,0.0,1.0
+PA10005,adefovir dipivoxil,J05AF08,,1.0,0.0
+PA10026,aripiprazole,N05AX12,Bipolar Disorder,0.0,1.0
+PA10026,aripiprazole,N05AX12,Depressive Disorder,0.0,1.0
+PA10026,aripiprazole,N05AX12,schizoaffective disorder,0.0,1.0
+PA10026,aripiprazole,N05AX12,Weight gain,0.0,1.0
+PA10026,aripiprazole,N05AX12,Schizophrenia,0.0,1.0
+PA10026,aripiprazole,N05AX12,Psychomotor Agitation,0.0,1.0
+PA10026,aripiprazole,N05AX12,Psychotic Disorders,0.0,1.0
+PA10026,aripiprazole,N05AX12,Autism Spectrum Disorder,0.0,1.0
+PA10026,aripiprazole,N05AX12,,0.0,1.0
+PA10034,bosentan,C02KX01;G01AE10,,0.0,1.0
+PA10040,cetuximab,L01FE01,Neoplasms,0.0,1.0
+PA10040,cetuximab,L01FE01,Head and Neck Neoplasms,0.0,1.0
+PA10040,cetuximab,L01FE01,Rectal Neoplasms,0.0,1.0
+PA10040,cetuximab,L01FE01,Colorectal Neoplasms,0.0,1.0
+PA10040,cetuximab,L01FE01,,0.0,1.0
+PA10066,duloxetine,N06AX21,Anxiety Disorders,0.0,1.0
+PA10066,duloxetine,N06AX21,,0.0,1.0
+PA10066,duloxetine,N06AX21,"Depressive Disorder, Major",0.0,1.0
+PA10069,emtricitabine,J05AF09;J05AR03;J05AR06;J05AR08;J05AR09;J05AR17;J05AR18;J05AR19;J05AR20;J05AR22,,1.0,0.0
+PA10072,epoetin alfa,B03XA01,,0.0,1.0
+PA10074,escitalopram,N06AB10,neuropathic pain,0.0,1.0
+PA10074,escitalopram,N06AB10,Anxiety Disorders,0.0,1.0
+PA10074,escitalopram,N06AB10,,0.0,1.0
+PA10074,escitalopram,N06AB10,"Depressive Disorder, Major",0.0,1.0
+PA10074,escitalopram,N06AB10,Mental Disorders,0.0,1.0
+PA10074,escitalopram,N06AB10,Depressive Disorder,0.0,1.0
+PA10074,escitalopram,N06AB10,Depression,0.0,1.0
+PA10075,esomeprazole,A02BC05;A02BD06;M01AE52,eosinophilic esophagitis,0.0,1.0
+PA10075,esomeprazole,A02BC01;A02BD01;A02BD05;A02BD16,eosinophilic esophagitis,0.0,1.0
+PA10075,esomeprazole,A02BC05;A02BD06;M01AE52,,0.0,1.0
+PA10075,esomeprazole,A02BC05;A02BD06;M01AE52,Helicobacter Infections,0.0,1.0
+PA10075,esomeprazole,A02BC05;A02BD06;M01AE52,Gastroesophageal Reflux,0.0,1.0
+PA10075,esomeprazole,A02BC01;A02BD01;A02BD05;A02BD16,Helicobacter Infections,0.0,1.0
+PA10075,esomeprazole,A02BC01;A02BD01;A02BD05;A02BD16,Gastroesophageal Reflux,0.0,1.0
+PA10075,esomeprazole,A02BC01;A02BD01;A02BD05;A02BD16,,0.0,1.0
+PA10079,fenoterol,G02CA03;R03AC04;R03AL01;R03CC04,,0.0,1.0
+PA10084,fosamprenavir,J05AE07,,1.0,0.0
+PA10176,rasburicase,M04AX01;V03AF07,,0.0,1.0
+PA10176,rasburicase,M04AX01;V03AF07,Methemoglobinemia,0.0,1.0
+PA10176,rasburicase,M04AX01;V03AF07,Hemolysis,0.0,1.0
+PA10202,telithromycin,J01FA15,,1.0,0.0
+PA10204,tenofovir,J05AF07;J05AR03;J05AR06;J05AR08;J05AR09;J05AR11;J05AR12;J05AR24;J05AR27,Kidney Diseases,1.0,0.0
+PA10204,tenofovir,J05AF07;J05AR03;J05AR06;J05AR08;J05AR09;J05AR11;J05AR12;J05AR24;J05AR27,HIV Infections,1.0,0.0
+PA10204,tenofovir,J05AF07;J05AR03;J05AR06;J05AR08;J05AR09;J05AR11;J05AR12;J05AR24;J05AR27,Fanconi Syndrome,1.0,0.0
+PA10204,tenofovir,J05AF07;J05AR03;J05AR06;J05AR08;J05AR09;J05AR11;J05AR12;J05AR24;J05AR27,,1.0,0.0
+PA10227,valganciclovir,J05AB14,Kidney Transplantation,1.0,0.0
+PA10227,valganciclovir,J05AB14,,1.0,0.0
+PA10229,vardenafil,G04BE09,,0.0,1.0
+PA10232,vindesine,L01CA03,,0.0,1.0
+PA10232,vindesine,L01CA03,"Lymphoma, Non-Hodgkin",0.0,1.0
+PA10233,voriconazole,J02AC03,Mycoses,1.0,0.0
+PA10233,voriconazole,J02AC03,,1.0,0.0
+PA10235,zoledronate,M05BA08;M05BB08,,0.0,1.0
+PA10235,zoledronate,M05BA08;M05BB08,Multiple Myeloma,0.0,1.0
+PA10235,zoledronate,M05BA08;M05BB08,Amenorrhea,0.0,1.0
+PA10235,zoledronate,M05BA08;M05BB08,Osteonecrosis,0.0,1.0
+PA10235,zoledronate,M05BA08;M05BB08,Neoplasms,0.0,1.0
+PA10239,clodronate,M05BA02,,0.0,1.0
+PA10239,clodronate,M05BA02,Osteitis Deformans,0.0,1.0
+PA10251,atazanavir,J05AE08;J05AR15;J05AR23,,1.0,0.0
+PA10251,atazanavir,J05AE08;J05AR15;J05AR23,HIV Infections,1.0,0.0
+PA10251,atazanavir,J05AE08;J05AR15;J05AR23,nephrolithiasis,1.0,0.0
+PA10251,atazanavir,J05AE08;J05AR15;J05AR23,Acquired Immunodeficiency Syndrome,1.0,0.0
+PA10251,atazanavir,J05AE08;J05AR15;J05AR23,Hyperbilirubinemia,1.0,0.0
+PA10252,bortezomib,L01XG01,,0.0,1.0
+PA10268,flupenthixol,N05AF01,,0.0,1.0
+PA10323,l-tryptophan,N06AX02,,0.0,1.0
+PA10344,acamprosate,N07BB03,Alcoholism,0.0,1.0
+PA10344,acamprosate,N07BB03,,0.0,1.0
+PA10352,palonosetron,A04AA05;A04AA55,Nausea,0.0,1.0
+PA10352,palonosetron,A04AA05;A04AA55,Neoplasms,0.0,1.0
+PA10352,palonosetron,A04AA05;A04AA55,,0.0,1.0
+PA10352,palonosetron,A04AA05;A04AA55,Vomiting,0.0,1.0
+PA10364,memantine,N06DA52;N06DA53;N06DX01,,0.0,1.0
+PA10364,memantine,N06DA52;N06DA53;N06DX01,Dementia,0.0,1.0
+PA10384,"antiinflammatory and antirheumatic products, non-steroids",,,,
+PA10390,"sulfonamides, urea derivatives",,,,
+PA10390,"sulfonamides, urea derivatives",,"Diabetes Mellitus, Type 2",,
+PA10390,"sulfonamides, urea derivatives",,Diabetes Mellitus,,
+PA10402,benzodiazepine derivatives,,Respiratory Insufficiency,,
+PA10402,benzodiazepine derivatives,,Overdose,,
+PA10402,benzodiazepine derivatives,,Heart Arrest,,
+PA10402,benzodiazepine derivatives,,"Depressive Disorder, Major",,
+PA10402,benzodiazepine derivatives,,,,
+PA10405,"adrenergics, inhalants",,,,
+PA10405,"adrenergics, inhalants",,Asthma,,
+PA10407,calcium channel blockers,,Headache Disorders,,
+PA10407,calcium channel blockers,,Migraine without Aura,,
+PA10407,calcium channel blockers,,Hypertension,,
+PA10407,calcium channel blockers,,,,
+PA10407,calcium channel blockers,,Essential hypertension,,
+PA10407,calcium channel blockers,,Migraine with Aura,,
+PA10505,"vitamin b-complex, plain",,Migraine with Aura,,
+PA10505,"vitamin b-complex, plain",,,,
+PA10715,sulfamethoxazole / trimethoprim,,,,
+PA10715,sulfamethoxazole / trimethoprim,,Hypersensitivity,,
+PA10715,sulfamethoxazole / trimethoprim,,adverse events,,
+PA10715,sulfamethoxazole / trimethoprim,,severe cutaneous adverse reactions,,
+PA10715,sulfamethoxazole / trimethoprim,,"Anemia, Hemolytic",,
+PA10715,sulfamethoxazole / trimethoprim,,Stevens-Johnson Syndrome,,
+PA10715,sulfamethoxazole / trimethoprim,,"Epidermal Necrolysis, Toxic",,
+PA10715,sulfamethoxazole / trimethoprim,,Hemolysis,,
+PA10715,sulfamethoxazole / trimethoprim,,Acquired Immunodeficiency Syndrome,,
+PA10715,sulfamethoxazole / trimethoprim,,Respiratory Insufficiency,,
+PA10799,anakinra,L04AC03,,0.0,1.0
+PA10804,imatinib,L01EA01,,0.0,1.0
+PA10804,imatinib,L01EA01,Neoplasms,0.0,1.0
+PA10804,imatinib,L01EA01,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",0.0,1.0
+PA10804,imatinib,L01EA01,Gastrointestinal Stromal Tumors,0.0,1.0
+PA10804,imatinib,L01EA01,Drug Toxicity,0.0,1.0
+PA10810,pemetrexed,L01BA04,Mesothelioma,0.0,1.0
+PA10810,pemetrexed,L01BA04,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA10810,pemetrexed,L01BA04,,0.0,1.0
+PA10810,pemetrexed,L01BA04,Neoplasms,0.0,1.0
+PA10816,ezetimibe,C10AX09;C10BA02;C10BA05;C10BA06;C10BA10;C10BA11;C10BA12,,0.0,1.0
+PA10832,corticosteroids,,,,
+PA10832,corticosteroids,,Crohn Disease,,
+PA10832,corticosteroids,,Asthma,,
+PA10832,corticosteroids,,Precursor Cell Lymphoblastic Leukemia-Lymphoma,,
+PA10888,clobazam,N05BA09,Epilepsy,0.0,1.0
+PA10888,clobazam,N05BA09,,0.0,1.0
+PA10892,gliclazide,A10BB09;G01AE10,Diabetes Mellitus,0.0,1.0
+PA10892,gliclazide,A10BB09;G01AE10,,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Neutropenia,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Stomach Neoplasms,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Uterine Cervical Neoplasms,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Leukopenia,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Colorectal Neoplasms,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,progression-free survival,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Neoplasms,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Rectal Neoplasms,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Colonic Neoplasms,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,"Carcinoma, Squamous Cell",0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Neoplasm Metastasis,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,"Carcinoma, Hepatocellular",0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Liver Neoplasms,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Pancreatic Neoplasms,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,overall survival,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Breast Neoplasms,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Drug Toxicity,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Ovarian Neoplasms,0.0,1.0
+PA128406956,fluorouracil,L01BC02;L01BC52,Esophageal Neoplasms,0.0,1.0
+PA130232992,bevacizumab,L01FG01;S01LA08,Breast Neoplasms,0.0,1.0
+PA130232992,bevacizumab,L01FG01;S01LA08,Neoplasms,0.0,1.0
+PA130232992,bevacizumab,L01FG01;S01LA08,Hypertension,0.0,1.0
+PA130232992,bevacizumab,L01FG01;S01LA08,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA130232992,bevacizumab,L01FG01;S01LA08,,0.0,1.0
+PA130232992,bevacizumab,L01FG01;S01LA08,Colorectal Neoplasms,0.0,1.0
+PA130232992,bevacizumab,L01FG01;S01LA08,Macular Degeneration,0.0,1.0
+PA130232992,bevacizumab,L01FG01;S01LA08,Choroidal Neovascularization,0.0,1.0
+PA130620651,anthracyclines and related substances,,,,
+PA130620651,anthracyclines and related substances,,Neoplasms,,
+PA130620651,anthracyclines and related substances,,Heart Failure,,
+PA130620651,anthracyclines and related substances,,Ovarian Neoplasms,,
+PA130620651,anthracyclines and related substances,,Precursor Cell Lymphoblastic Leukemia-Lymphoma,,
+PA130620651,anthracyclines and related substances,,Stomach Neoplasms,,
+PA130620651,anthracyclines and related substances,,Cardiomyopathies,,
+PA130620651,anthracyclines and related substances,,Breast Neoplasms,,
+PA130620651,anthracyclines and related substances,,cardiotoxicity,,
+PA131285527,oxaliplatin,L01XA03,Esophageal Neoplasms,0.0,1.0
+PA131285527,oxaliplatin,L01XA03,Colorectal Neoplasms,0.0,1.0
+PA131285527,oxaliplatin,L01XA03,Colonic Neoplasms,0.0,1.0
+PA131285527,oxaliplatin,L01XA03,Neoplasm Metastasis,0.0,1.0
+PA131285527,oxaliplatin,L01XA03,Drug Toxicity,0.0,1.0
+PA131285527,oxaliplatin,L01XA03,Gastrointestinal Neoplasms,0.0,1.0
+PA131285527,oxaliplatin,L01XA03,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA131285527,oxaliplatin,L01XA03,Stomach Neoplasms,0.0,1.0
+PA131285527,oxaliplatin,L01XA03,,0.0,1.0
+PA131285527,oxaliplatin,L01XA03,Ovarian Neoplasms,0.0,1.0
+PA131285527,oxaliplatin,L01XA03,Neoplasms,0.0,1.0
+PA131285527,oxaliplatin,L01XA03,Pancreatic Neoplasms,0.0,1.0
+PA131285527,oxaliplatin,L01XA03,Osteosarcoma,0.0,1.0
+PA131301952,gefitinib,L01EB01,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA131301952,gefitinib,L01EB01,Drug Resistance,0.0,1.0
+PA131301952,gefitinib,L01EB01,Lung Neoplasms,0.0,1.0
+PA131301952,gefitinib,L01EB01,Adenocarcinoma,0.0,1.0
+PA131301952,gefitinib,L01EB01,Drug Toxicity,0.0,1.0
+PA131301952,gefitinib,L01EB01,,0.0,1.0
+PA131301952,gefitinib,L01EB01,Exanthema,0.0,1.0
+PA131301952,gefitinib,L01EB01,Diarrhea,0.0,1.0
+PA131301952,gefitinib,L01EB01,Neoplasms,0.0,1.0
+PA131301952,gefitinib,L01EB01,Toxic liver disease,0.0,1.0
+PA131625240,raltitrexed,L01BA03,,0.0,1.0
+PA131625240,raltitrexed,L01BA03,Colorectal Neoplasms,0.0,1.0
+PA131887008,"3,4-methylenedioxymethamphetamine",,,,
+PA131890620,cannabinoids,,Marijuana Abuse,,
+PA131890620,cannabinoids,,Substance-Related Disorders,,
+PA131890620,cannabinoids,,,,
+PA131890625,tenoxicam,M01AC02,,0.0,1.0
+PA131890628,tranilast,,,,
+PA131890628,tranilast,,Hyperbilirubinemia,,
+PA132595336,calcein,,,,
+PA133822447,catecholamines,,,,
+PA133822447,catecholamines,,Coronary Artery Disease,,
+PA133950441,hmg coa reductase inhibitors,,Myalgia unspecified,,
+PA133950441,hmg coa reductase inhibitors,,Myocardial Infarction,,
+PA133950441,hmg coa reductase inhibitors,,Colonic Neoplasms,,
+PA133950441,hmg coa reductase inhibitors,,Schizophrenia,,
+PA133950441,hmg coa reductase inhibitors,,Acute coronary syndrome,,
+PA133950441,hmg coa reductase inhibitors,,Hypercholesterolemia,,
+PA133950441,hmg coa reductase inhibitors,,Diabetes Mellitus,,
+PA133950441,hmg coa reductase inhibitors,,Neoplasms,,
+PA133950441,hmg coa reductase inhibitors,,Breast Neoplasms,,
+PA133950441,hmg coa reductase inhibitors,,Menopause,,
+PA133950441,hmg coa reductase inhibitors,,Asthma,,
+PA133950441,hmg coa reductase inhibitors,,,,
+PA133950441,hmg coa reductase inhibitors,,Hyperlipidemias,,
+PA133950441,hmg coa reductase inhibitors,,statin-related myopathy,,
+PA133950441,hmg coa reductase inhibitors,,Rhabdomyolysis,,
+PA133950441,hmg coa reductase inhibitors,,Alzheimer Disease,,
+PA133950441,hmg coa reductase inhibitors,,Muscular Diseases,,
+PA133950441,hmg coa reductase inhibitors,,Coronary Artery Disease,,
+PA134308647,rosuvastatin,A10BH52;C10AA07;C10BA06;C10BA09;C10BX05;C10BX07;C10BX09;C10BX10;C10BX13;C10BX14;C10BX16;C10BX17;G01AE10,,0.0,1.0
+PA134308647,rosuvastatin,A10BH52;C10AA07;C10BA06;C10BA09;C10BX05;C10BX07;C10BX09;C10BX10;C10BX13;C10BX14;C10BX16;C10BX17;G01AE10,statin-related myopathy,0.0,1.0
+PA134308647,rosuvastatin,A10BH52;C10AA07;C10BA06;C10BA09;C10BX05;C10BX07;C10BX09;C10BX10;C10BX13;C10BX14;C10BX16;C10BX17;G01AE10,Coronary Disease,0.0,1.0
+PA134308647,rosuvastatin,A10BH52;C10AA07;C10BA06;C10BA09;C10BX05;C10BX07;C10BX09;C10BX10;C10BX13;C10BX14;C10BX16;C10BX17;G01AE10,Muscular Diseases,0.0,1.0
+PA134308647,rosuvastatin,A10BH52;C10AA07;C10BA06;C10BA09;C10BX05;C10BX07;C10BX09;C10BX10;C10BX13;C10BX14;C10BX16;C10BX17;G01AE10,Hypercholesterolemia,0.0,1.0
+PA134308647,rosuvastatin,A10BH52;C10AA07;C10BA06;C10BA09;C10BX05;C10BX07;C10BX09;C10BX10;C10BX13;C10BX14;C10BX16;C10BX17;G01AE10,Myocardial Infarction,0.0,1.0
+PA134521193,coumarin,,,,
+PA134653756,diflomotecan,,,,
+PA134687887,selective beta-2-adrenoreceptor agonists,,Asthma,,
+PA134687887,selective beta-2-adrenoreceptor agonists,,,,
+PA134687907,formoterol,R03AC13;R03AK07;R03AK08;R03AK09;R03AK11;R03AL05;R03AL07;R03AL09;R03AL10;R03AL11;R03CC15,,0.0,1.0
+PA134687924,erlotinib,L01EB02,Drug Resistance,0.0,1.0
+PA134687924,erlotinib,L01EB02,Lung Neoplasms,0.0,1.0
+PA134687924,erlotinib,L01EB02,,0.0,1.0
+PA134687924,erlotinib,L01EB02,Adenocarcinoma,0.0,1.0
+PA134687924,erlotinib,L01EB02,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA134687924,erlotinib,L01EB02,Neoplasms,0.0,1.0
+PA134687937,mianserin,N06AX03,Depression,0.0,1.0
+PA134687937,mianserin,N06AX03,,0.0,1.0
+PA134687942,levomepromazine,,,,
+PA134687947,eletriptan,N02CC06,,0.0,1.0
+PA134688071,atomoxetine,N06BA09,,0.0,1.0
+PA134688071,atomoxetine,N06BA09,Attention Deficit Disorder with Hyperactivity,0.0,1.0
+PA134852920,benzbromarone,,,,
+PA135057240,bupivacaine,N01BB01;N01BB51;N01BB59,,0.0,1.0
+PA140222719,tetrabenazine,N07XX06,,0.0,1.0
+PA142650384,pitavastatin,C10AA08,,0.0,1.0
+PA143414738,atrasentan,,,,
+PA143485705,antiepileptics,,Maculopapular Exanthema,,
+PA143485705,antiepileptics,,severe cutaneous adverse reactions,,
+PA143485705,antiepileptics,,"Epilepsy, Generalized",,
+PA143485705,antiepileptics,,Epilepsy,,
+PA143485705,antiepileptics,,Schizophrenia,,
+PA143485705,antiepileptics,,"Epidermal Necrolysis, Toxic",,
+PA143485705,antiepileptics,,Psychotic Disorders,,
+PA143485705,antiepileptics,,Headache Disorders,,
+PA143485705,antiepileptics,,Migraine with Aura,,
+PA143485705,antiepileptics,,"Epilepsies, Partial",,
+PA143485705,antiepileptics,,Stevens-Johnson Syndrome,,
+PA143485705,antiepileptics,,Migraine without Aura,,
+PA143485705,antiepileptics,,,,
+PA143487910,aliskiren,C09DX02;C09XA02;C09XA52;C09XA53;C09XA54,,0.0,1.0
+PA144614922,opipramol,N06AA05,Depression,0.0,1.0
+PA144614922,opipramol,N06AA05,,0.0,1.0
+PA146096020,nitrendipine,C08CA08;C09BB06,Essential hypertension,0.0,1.0
+PA146096020,nitrendipine,C08CA08;C09BB06,,0.0,1.0
+PA146096020,nitrendipine,C08CA08;C09BB06,Hypertension,0.0,1.0
+PA146123005,talinolol,,,,
+PA150047156,non-nucleoside reverse transcriptase inhibitors,,,,
+PA150481186,topoisomerase I inhibitors,,Neoplasms,,
+PA150481189,taxanes,,Breast Neoplasms,,
+PA150481189,taxanes,,Peripheral Nervous System Diseases,,
+PA150481189,taxanes,,,,
+PA150481189,taxanes,,Ovarian Neoplasms,,
+PA150595617,platinum,,Neoplasms,,
+PA150595617,platinum,,Pancreatic Neoplasms,,
+PA150595617,platinum,,,,
+PA150595617,platinum,,Ovarian Neoplasms,,
+PA150595617,platinum,,Colorectal Neoplasms,,
+PA150595617,platinum,,Esophageal Neoplasms,,
+PA150595617,platinum,,Osteosarcoma,,
+PA151186253,nemonapride,,,,
+PA151186253,nemonapride,,Schizophrenia,,
+PA151249535,diuretics,,Nephrosclerosis,,
+PA151249535,diuretics,,Myocardial Infarction,,
+PA151249535,diuretics,,,,
+PA151249535,diuretics,,Hypertension,,
+PA151249535,diuretics,,Heart Failure,,
+PA151917012,dactinomycin,L01DA01,,0.0,1.0
+PA151958426,nebivolol,C07AB12;C07BB12;C07FB12;C09DX05,,0.0,1.0
+PA151958574,posaconazole,J02AC04,,1.0,0.0
+PA151958596,curcumin,,Cystic Fibrosis,,
+PA151958596,curcumin,,,,
+PA152031327,geldanamycin,,Neoplasms,,
+PA152241907,lapatinib,L01EH01,Toxic liver disease,0.0,1.0
+PA152241907,lapatinib,L01EH01,,0.0,1.0
+PA152432599,itopride,A03FA07,,0.0,1.0
+PA153561371,egfr inhibitors,,"Carcinoma, Non-Small-Cell Lung",,
+PA153561371,egfr inhibitors,,Neoplasms,,
+PA153561371,egfr inhibitors,,Pancreatic Neoplasms,,
+PA153561371,egfr inhibitors,,,,
+PA153561371,egfr inhibitors,,Colorectal Neoplasms,,
+PA153619853,dronedarone,C01BD07,,0.0,1.0
+PA154410481,prasugrel,B01AC22,,0.0,1.0
+PA154410481,prasugrel,B01AC22,Acute coronary syndrome,0.0,1.0
+PA161199368,iloperidone,N05AX14,,0.0,1.0
+PA161199368,iloperidone,N05AX14,Acquired Long QT Syndrome (aLQTS),0.0,1.0
+PA161199368,iloperidone,N05AX14,Schizophrenia,0.0,1.0
+PA161925594,tropisetron,,,,
+PA161925594,tropisetron,,Vomiting,,
+PA162356187,muraglitazar,,,,
+PA162356187,muraglitazar,,Edema,,
+PA162356187,muraglitazar,,Diabetes Mellitus,,
+PA162356187,muraglitazar,,Hyperlipidemias,,
+PA162363968,lenalidomide,L04AX04,Multiple Myeloma,0.0,1.0
+PA162363968,lenalidomide,L04AX04,,0.0,1.0
+PA162363968,lenalidomide,L04AX04,progression-free survival,0.0,1.0
+PA162364313,bezafibrate,C10AB02,,0.0,1.0
+PA162372840,sunitinib,L01EX01,Neoplasms,0.0,1.0
+PA162372840,sunitinib,L01EX01,Thrombocytopenia,0.0,1.0
+PA162372840,sunitinib,L01EX01,,0.0,1.0
+PA162372840,sunitinib,L01EX01,Myelosuppression,0.0,1.0
+PA162372840,sunitinib,L01EX01,"Carcinoma, Renal Cell",0.0,1.0
+PA162372840,sunitinib,L01EX01,Neutropenia,0.0,1.0
+PA162372840,sunitinib,L01EX01,Gastrointestinal Stromal Tumors,0.0,1.0
+PA162372840,sunitinib,L01EX01,Leukopenia,0.0,1.0
+PA162372878,dasatinib,L01EA02,,0.0,1.0
+PA162373091,panitumumab,L01FE02,Colorectal Neoplasms,0.0,1.0
+PA162373091,panitumumab,L01FE02,,0.0,1.0
+PA162373091,panitumumab,L01FE02,Neoplasms,0.0,1.0
+PA162565877,amisulpride,N05AL05,schizoaffective disorder,0.0,1.0
+PA162565877,amisulpride,N05AL05,Hypertriglyceridemia,0.0,1.0
+PA162565877,amisulpride,N05AL05,Weight gain,0.0,1.0
+PA162565877,amisulpride,N05AL05,,0.0,1.0
+PA162565877,amisulpride,N05AL05,Schizophrenia,0.0,1.0
+PA162565877,amisulpride,N05AL05,Bipolar Disorder,0.0,1.0
+PA162565877,amisulpride,N05AL05,Psychotic Disorders,0.0,1.0
+PA162565877,amisulpride,N05AL05,Depressive Disorder,0.0,1.0
+PA163518919,paliperidone,N05AX13,Bipolar Disorder,0.0,1.0
+PA163518919,paliperidone,N05AX13,,0.0,1.0
+PA163518919,paliperidone,N05AX13,Psychotic Disorders,0.0,1.0
+PA163518919,paliperidone,N05AX13,Weight gain,0.0,1.0
+PA163518919,paliperidone,N05AX13,schizoaffective disorder,0.0,1.0
+PA163518919,paliperidone,N05AX13,Depressive Disorder,0.0,1.0
+PA163522472,darunavir,G01AE10;J05AE10;J05AR14;J05AR22;J05AR26,,1.0,1.0
+PA163522473,tipranavir,J05AE09,,1.0,0.0
+PA164712308,"Ace Inhibitors, Plain",,Cough,,
+PA164712308,"Ace Inhibitors, Plain",,Angioedema,,
+PA164712308,"Ace Inhibitors, Plain",,,,
+PA164712308,"Ace Inhibitors, Plain",,Heart Failure,,
+PA164712308,"Ace Inhibitors, Plain",,Coronary Artery Disease,,
+PA164712308,"Ace Inhibitors, Plain",,Hypertension,,
+PA164712326,Aldosterone antagonists,,,,
+PA164712331,Alkylating Agents,,Neoplasms,,
+PA164712331,Alkylating Agents,,,,
+PA164712362,Analgesics,,Pain,,
+PA164712362,Analgesics,,Substance Withdrawal Syndrome,,
+PA164712362,Analgesics,,,,
+PA164712363,Analgesics and anesthetics,,,,
+PA164712372,Angiotensin II Antagonists,,Heart Failure,,
+PA164712372,Angiotensin II Antagonists,,,,
+PA164712397,Antiandrogens,,,,
+PA164712406,Antibiotics,,Hypersensitivity,,
+PA164712406,Antibiotics,,,,
+PA164712419,Anticholinergic Agents,,,,
+PA164712420,Anticholinergics,,,,
+PA164712420,Anticholinergics,,Parkinson Disease,,
+PA164712435,Antifungals For Systemic Use,,,,
+PA164712445,Antihypertensives,,Coronary Artery Disease,,
+PA164712445,Antihypertensives,,Heart Diseases,,
+PA164712445,Antihypertensives,,Hypertension,,
+PA164712445,Antihypertensives,,,,
+PA164712446,Antihypertensives And Diuretics In Combination,,Hypertension,,
+PA164712446,Antihypertensives And Diuretics In Combination,,,,
+PA164712462,"Antiinflammatory agents, non-steroids",,Substance Withdrawal Syndrome,,
+PA164712462,"Antiinflammatory agents, non-steroids",,anaphylactoid reaction,,
+PA164712462,"Antiinflammatory agents, non-steroids",,Colorectal Neoplasms,,
+PA164712462,"Antiinflammatory agents, non-steroids",,Acute coronary syndrome,,
+PA164712462,"Antiinflammatory agents, non-steroids",,,,
+PA164712471,Antimycobacterials,,,,
+PA164712499,Antithyroid Preparations,,,,
+PA164712499,Antithyroid Preparations,,Agranulocytosis,,
+PA164712499,Antithyroid Preparations,,Graves Disease,,
+PA164712505,"Antivirals for treatment of HIV infections, combinations",,Hypertriglyceridemia,,
+PA164712505,"Antivirals for treatment of HIV infections, combinations",,Hyperlipidemias,,
+PA164712505,"Antivirals for treatment of HIV infections, combinations",,drug-induced liver injury,,
+PA164712505,"Antivirals for treatment of HIV infections, combinations",,HIV Infections,,
+PA164712505,"Antivirals for treatment of HIV infections, combinations",,Tuberculosis,,
+PA164712505,"Antivirals for treatment of HIV infections, combinations",,,,
+PA164712509,Arsenic compounds,,,,
+PA164712535,Beta Blocking Agents,,Coronary Artery Disease,,
+PA164712535,Beta Blocking Agents,,Heart Diseases,,
+PA164712535,Beta Blocking Agents,,Coronary Disease,,
+PA164712535,Beta Blocking Agents,,,,
+PA164712535,Beta Blocking Agents,,major adverse cardiac events (mace),,
+PA164712535,Beta Blocking Agents,,Migraine with Aura,,
+PA164712535,Beta Blocking Agents,,Death,,
+PA164712535,Beta Blocking Agents,,Migraine without Aura,,
+PA164712535,Beta Blocking Agents,,"Cardiomyopathy, Dilated",,
+PA164712535,Beta Blocking Agents,,Headache Disorders,,
+PA164712535,Beta Blocking Agents,,Heart Failure,,
+PA164712547,"Beta blocking agents, selective",,,,
+PA164712547,"Beta blocking agents, selective",,Hypertension,,
+PA164712563,Bisphosphonates,,Osteoporosis,,
+PA164712563,Bisphosphonates,,Osteonecrosis,,
+PA164712563,Bisphosphonates,,,,
+PA164712563,Bisphosphonates,,Multiple Myeloma,,
+PA164712563,Bisphosphonates,,"Osteoporosis, Postmenopausal",,
+PA164712563,Bisphosphonates,,osteonecrosis of jaw caused by drug,,
+PA164712563,Bisphosphonates,,Osteitis Deformans,,
+PA164712563,Bisphosphonates,,Coronary Disease,,
+PA164712580,Calcineurin inhibitors,,,,
+PA164712582,calcium,A11AA02;A11GB01;M05BB01;M05BB02;M05BB04;M05BB05;M05BB08,,0.0,1.0
+PA164712636,Corticosteroids For Systemic Use,,,,
+PA164712669,Coxibs,,,,
+PA164712688,Dihydropyridine derivatives,,,,
+PA164712689,Dipeptidyl peptidase 4 (DPP-4) inhibitors,,Diabetes Mellitus,,
+PA164712689,Dipeptidyl peptidase 4 (DPP-4) inhibitors,,,,
+PA164712697,Dopamine agonists,,,,
+PA164712697,Dopamine agonists,,Parkinson Disease,,
+PA164712704,Drugs For Obstructive Airway Diseases,,,,
+PA164712708,Drugs For Treatment Of Tuberculosis,,Tuberculosis,,
+PA164712708,Drugs For Treatment Of Tuberculosis,,drug-induced liver injury,,
+PA164712708,Drugs For Treatment Of Tuberculosis,,Drug Toxicity,,
+PA164712708,Drugs For Treatment Of Tuberculosis,,Toxic liver disease,,
+PA164712708,Drugs For Treatment Of Tuberculosis,,HIV Infections,,
+PA164712708,Drugs For Treatment Of Tuberculosis,,"Hepatitis, Toxic",,
+PA164712708,Drugs For Treatment Of Tuberculosis,,,,
+PA164712711,Drugs Used In Diabetes,,,,
+PA164712711,Drugs Used In Diabetes,,"Diabetes Mellitus, Type 2",,
+PA164712718,Drugs used in alcohol dependence,,,,
+PA164712718,Drugs used in alcohol dependence,,Alcoholism,,
+PA164712720,Drugs used in nicotine dependence,,Tobacco Use Disorder,,
+PA164712720,Drugs used in nicotine dependence,,,,
+PA164712732,Enzyme inhibitors,,,,
+PA164712734,Enzymes,,Stroke,,
+PA164712734,Enzymes,,,,
+PA164712741,Ergot alkaloids,,Substance Withdrawal Syndrome,,
+PA164712741,Ergot alkaloids,,,,
+PA164712781,"HMG CoA reductase inhibitors, other combinations",,Cardiovascular Diseases,,
+PA164712781,"HMG CoA reductase inhibitors, other combinations",,,,
+PA164712781,"HMG CoA reductase inhibitors, other combinations",,Rhabdomyolysis,,
+PA164712789,Hepatitis vaccines,,,,
+PA164712817,Immunoglobulins,,,,
+PA164712830,Influenza vaccines,,,,
+PA164712830,Influenza vaccines,,Narcolepsy,,
+PA164712832,Insulins And Analogues,,,,
+PA164712848,Iodine (131I) compounds,,,,
+PA164712887,Measles vaccines,,,,
+PA164712893,Melatonin receptor agonists,,,,
+PA164712898,Methyldopa,,,,
+PA164712943,Nucleoside and nucleotide reverse transcriptase inhibitors,,,,
+PA164712943,Nucleoside and nucleotide reverse transcriptase inhibitors,,HIV Infections,,
+PA164712948,Opioid anesthetics,,,,
+PA164712950,Opium alkaloids and derivatives,,Tobacco Use Disorder,,
+PA164712950,Opium alkaloids and derivatives,,,,
+PA164712950,Opium alkaloids and derivatives,,Pain,,
+PA164712951,Opium derivatives and expectorants,,,,
+PA164713083,Other general anesthetics,,,,
+PA164713150,Parathyroid Hormones And Analogues,,,,
+PA164713160,Pertussis vaccines,,,,
+PA164713175,Platelet aggregation inhibitors excl. heparin,,,,
+PA164713176,Platinum compounds,,Gastrointestinal Neoplasms,,
+PA164713176,Platinum compounds,,,,
+PA164713176,Platinum compounds,,Neoplasms,,
+PA164713176,Platinum compounds,,Dermatitis,,
+PA164713176,Platinum compounds,,Nasopharyngeal Neoplasms,,
+PA164713176,Platinum compounds,,Anemia,,
+PA164713176,Platinum compounds,,Myelosuppression,,
+PA164713176,Platinum compounds,,Colorectal Neoplasms,,
+PA164713176,Platinum compounds,,overall survival,,
+PA164713176,Platinum compounds,,Mesothelioma,,
+PA164713176,Platinum compounds,,mucositis,,
+PA164713176,Platinum compounds,,Lung Neoplasms,,
+PA164713176,Platinum compounds,,Esophageal Neoplasms,,
+PA164713176,Platinum compounds,,Osteosarcoma,,
+PA164713176,Platinum compounds,,Ovarian Neoplasms,,
+PA164713176,Platinum compounds,,Pancreatic Neoplasms,,
+PA164713176,Platinum compounds,,Drug Toxicity,,
+PA164713176,Platinum compounds,,Leukopenia,,
+PA164713176,Platinum compounds,,Nausea,,
+PA164713176,Platinum compounds,,Hematologic Diseases,,
+PA164713176,Platinum compounds,,gastrointestinal toxicity,,
+PA164713176,Platinum compounds,,Neutropenia,,
+PA164713176,Platinum compounds,,Vomiting,,
+PA164713176,Platinum compounds,,pneumonitis,,
+PA164713176,Platinum compounds,,Thrombocytopenia,,
+PA164713176,Platinum compounds,,adverse events,,
+PA164713176,Platinum compounds,,"Carcinoma, Non-Small-Cell Lung",,
+PA164713176,Platinum compounds,,Stomach Neoplasms,,
+PA164713207,Proton pump inhibitors,,,,
+PA164713217,Pyrazolones,,,,
+PA164713220,Pyrimidine analogues,,,,
+PA164713242,Rubella vaccines,,,,
+PA164713257,Selective serotonin reuptake inhibitors,,Mood Disorders,,
+PA164713257,Selective serotonin reuptake inhibitors,,Depression,,
+PA164713257,Selective serotonin reuptake inhibitors,,,,
+PA164713257,Selective serotonin reuptake inhibitors,,Depressive Disorder,,
+PA164713257,Selective serotonin reuptake inhibitors,,Obsessive-Compulsive Disorder,,
+PA164713257,Selective serotonin reuptake inhibitors,,ability to concentrate,,
+PA164713257,Selective serotonin reuptake inhibitors,,Diarrhea,,
+PA164713257,Selective serotonin reuptake inhibitors,,"Depressive Disorder, Major",,
+PA164713257,Selective serotonin reuptake inhibitors,,Dizziness,,
+PA164713257,Selective serotonin reuptake inhibitors,,Tremor,,
+PA164713301,Sympathomimetics,,,,
+PA164713301,Sympathomimetics,,Overdose,,
+PA164713301,Sympathomimetics,,Respiratory Insufficiency,,
+PA164713301,Sympathomimetics,,Heart Arrest,,
+PA164713347,"Thiazides, plain",,Hypertension,,
+PA164713347,"Thiazides, plain",,Essential hypertension,,
+PA164713347,"Thiazides, plain",,,,
+PA164713347,"Thiazides, plain",,Hypernatremia,,
+PA164713347,"Thiazides, plain",,Diabetes Mellitus,,
+PA164713366,Tumor necrosis factor alpha (TNF-alpha) inhibitors,,"Spondylitis, Ankylosing",,
+PA164713366,Tumor necrosis factor alpha (TNF-alpha) inhibitors,,,,
+PA164713366,Tumor necrosis factor alpha (TNF-alpha) inhibitors,,"Arthritis, Rheumatoid",,
+PA164713366,Tumor necrosis factor alpha (TNF-alpha) inhibitors,,Inflammatory Bowel Diseases,,
+PA164713366,Tumor necrosis factor alpha (TNF-alpha) inhibitors,,"Arthritis, Psoriatic",,
+PA164713366,Tumor necrosis factor alpha (TNF-alpha) inhibitors,,Psoriasis,,
+PA164713366,Tumor necrosis factor alpha (TNF-alpha) inhibitors,,"Colitis, Ulcerative",,
+PA164713366,Tumor necrosis factor alpha (TNF-alpha) inhibitors,,Arthritis,,
+PA164713366,Tumor necrosis factor alpha (TNF-alpha) inhibitors,,Crohn Disease,,
+PA164713397,Vitamin B-complex with vitamin C,,,,
+PA164713398,"Vitamin B-complex, Incl. Combinations",,"Depressive Disorder, Major",,
+PA164713398,"Vitamin B-complex, Incl. Combinations",,,,
+PA164713404,Vitamin K,,,,
+PA164713406,Vitamin K antagonists,,,,
+PA164742949,pramipexole,N04BC05,,0.0,1.0
+PA164742949,pramipexole,N04BC05,Parkinson Disease,0.0,1.0
+PA164742950,olmesartan,C09CA08;C09DA08;C09DB02;C09DX03,,0.0,1.0
+PA164742970,carbimazole,H03BB01,,0.0,1.0
+PA164742970,carbimazole,H03BB01,Graves Disease,0.0,1.0
+PA164742987,clavulanate,,,,
+PA164742987,clavulanate,,Drug Toxicity,,
+PA164743150,labetalol,C07AG01;C07BG01;C07CG01,,0.0,1.0
+PA164743704,antithymocyte globulin,L04AA04,,0.0,1.0
+PA164743704,antithymocyte globulin,L04AA04,Kidney Transplantation,0.0,1.0
+PA164743977,arformoterol,,,,
+PA164744372,amikacin,D06AX12;J01GB06;J01RA06;S01AA21,Ototoxicity,1.0,1.0
+PA164744510,lofexidine,N07BC04,,0.0,1.0
+PA164744571,insulin recombinant,A10AB01;A10AC01;A10AD01;A10AE01;A10AF01,,0.0,1.0
+PA164744895,gliquidone,A10BB08,,0.0,1.0
+PA164745398,butorphanol,N02AF01,,0.0,1.0
+PA164745442,penicillin v,J01CE02;J01CE10;J01CR50,Drug Hypersensitivity,1.0,0.0
+PA164745442,penicillin v,J01CE02;J01CE10;J01CR50,,1.0,0.0
+PA164745461,bacampicillin,J01CA06;J01CR50,,1.0,0.0
+PA164746007,ranolazine,C01EB18,,0.0,1.0
+PA164746012,ranibizumab,S01LA04,Choroidal Neovascularization,0.0,1.0
+PA164746012,ranibizumab,S01LA04,,0.0,1.0
+PA164746012,ranibizumab,S01LA04,Macular Degeneration,0.0,1.0
+PA164746157,mitotane,L01XX23,,0.0,1.0
+PA164746157,mitotane,L01XX23,Adrenocortical Carcinoma,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,Breast Neoplasms,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,Lymphopenia,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,heart transplantation,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,discontinuation,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,Neuroendocrine Tumors,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,progression-free survival,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,Hyperglycemia,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,Leukopenia,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,mucositis,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,pneumonitis,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,Kidney Transplantation,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,Kidney Neoplasms,0.0,1.0
+PA164746311,everolimus,L01EG02;L04AA18,lung transplantation,0.0,1.0
+PA164746334,cilostazol,B01AC23,,0.0,1.0
+PA164746384,nalidixic acid,J01MB02,,1.0,0.0
+PA164746412,tigecycline,J01AA12;J01AA20,,1.0,0.0
+PA164746538,interferon alfa-n1,L03AB06,,0.0,1.0
+PA164746560,thyrotropin alfa,H01AB01,Ovarian hyperstimulation syndrome,0.0,1.0
+PA164746560,thyrotropin alfa,H01AB01,,0.0,1.0
+PA164746560,thyrotropin alfa,H01AB01,"Infertility, Female",0.0,1.0
+PA164746757,tolterodine,G04BD07,,0.0,1.0
+PA164746820,fosphenytoin,N03AB05,,0.0,1.0
+PA164746890,temsirolimus,L01EG01,Kidney Transplantation,0.0,1.0
+PA164746890,temsirolimus,L01EG01,hematopoietic stem cell transplantation,0.0,1.0
+PA164746890,temsirolimus,L01EG01,,0.0,1.0
+PA164746890,temsirolimus,L01EG01,Myelosuppression,0.0,1.0
+PA164746890,temsirolimus,L01EG01,adverse events,0.0,1.0
+PA164746890,temsirolimus,L01EG01,Urinary Bladder Neoplasms,0.0,1.0
+PA164746890,temsirolimus,L01EG01,gastrointestinal toxicity,0.0,1.0
+PA164746899,phenazopyridine,G04BX06,"Anemia, Hemolytic",0.0,1.0
+PA164746899,phenazopyridine,G04BX06,Hemolysis,0.0,1.0
+PA164747038,sulfametopyrazine,G01AE10;J01ED02;P01BF04,Hemolysis,1.0,1.0
+PA164747170,fulvestrant,L02BA03,,0.0,1.0
+PA164747191,natalizumab,L04AA23,,0.0,1.0
+PA164747674,goserelin,L02AE03,,0.0,1.0
+PA164748726,entacapone,N04BX02,Parkinson Disease,0.0,1.0
+PA164748726,entacapone,N04BX02,,0.0,1.0
+PA164748728,mycophenolic acid,L04AA06,overall survival,0.0,1.0
+PA164748728,mycophenolic acid,L04AA06,Kidney Transplantation,0.0,1.0
+PA164748728,mycophenolic acid,L04AA06,chronic lung allograft dysfunction,0.0,1.0
+PA164748728,mycophenolic acid,L04AA06,Organ Transplantation,0.0,1.0
+PA164748728,mycophenolic acid,L04AA06,lung transplantation,0.0,1.0
+PA164748728,mycophenolic acid,L04AA06,,0.0,1.0
+PA164748728,mycophenolic acid,L04AA06,transplant rejection,0.0,1.0
+PA164748741,mepivacaine,N01BB03;N01BB53,,0.0,1.0
+PA164748978,sitagliptin,A10BD07;A10BD12;A10BD24;A10BH01;A10BH51,,0.0,1.0
+PA164748978,sitagliptin,A10BD07;A10BD12;A10BD24;A10BH01;A10BH51,"Diabetes Mellitus, Type 2",0.0,1.0
+PA164749136,desflurane,N01AB07,Malignant Hyperthermia,0.0,1.0
+PA164749136,desflurane,N01AB07,,0.0,1.0
+PA164749238,exenatide,A10BJ01,,0.0,1.0
+PA164749390,peginterferon alfa-2a,L03AB11;L03AB61,,0.0,1.0
+PA164749390,peginterferon alfa-2a,L03AB11;L03AB61,"Hepatitis B, Chronic",0.0,1.0
+PA164749390,peginterferon alfa-2a,L03AB11;L03AB61,HIV Infections,0.0,1.0
+PA164749390,peginterferon alfa-2a,L03AB11;L03AB61,Hepatitis C,0.0,1.0
+PA164749390,peginterferon alfa-2a,L03AB11;L03AB61,"Hepatitis C, Chronic",0.0,1.0
+PA164749390,peginterferon alfa-2a,L03AB11;L03AB61,Myeloproliferative Disorders,0.0,1.0
+PA164749431,gemtuzumab ozogamicin,L01FX02,"Leukemia, Myeloid, Acute",0.0,1.0
+PA164749431,gemtuzumab ozogamicin,L01FX02,,0.0,1.0
+PA164749630,pegvisomant,H01AX01,,0.0,1.0
+PA164749631,decitabine,L01BC08,,0.0,1.0
+PA164749649,dicloxacillin,J01CF01;J01CR50,Cystic Fibrosis,1.0,0.0
+PA164749649,dicloxacillin,J01CF01;J01CR50,,1.0,0.0
+PA164749650,pyridoxal phosphate,A11HA06,,0.0,1.0
+PA164750594,denileukin diftitox,L01XX29,,0.0,1.0
+PA164752425,nelarabine,L01BB07,,0.0,1.0
+PA164752812,milnacipran,N06AX17,Depressive Disorder,0.0,1.0
+PA164752812,milnacipran,N06AX17,,0.0,1.0
+PA164752812,milnacipran,N06AX17,"Depressive Disorder, Major",0.0,1.0
+PA164754753,alglucosidase alfa,A16AB07,,0.0,1.0
+PA164754754,cevimeline,N07AX03,,0.0,1.0
+PA164754755,bepridil,C08EA02,,0.0,1.0
+PA164754789,conjugated estrogens,G03CA57;G03CC07,,0.0,1.0
+PA164754789,conjugated estrogens,G03CA57;G03CC07,Endometrial Neoplasms,0.0,1.0
+PA164754814,pregabalin,N02BF02,adverse events,0.0,1.0
+PA164754814,pregabalin,N02BF02,neuropathic pain,0.0,1.0
+PA164754814,pregabalin,N02BF02,,0.0,1.0
+PA164754818,betamethasone,A07EA04;C05AA05;D07AC01;D07BC01;D07CC01;D07XC01;H02AB01;R01AD06;R03BA04;S01BA06;S01BB04;S01CA05;S01CB04;S02BA07;S03BA03;S03CA06,,0.0,1.0
+PA164754825,botulinum toxin type a,M03AX01,,0.0,1.0
+PA164754825,botulinum toxin type a,M03AX01,Migraine NOS,0.0,1.0
+PA164754992,rocuronium,M03AC09,,0.0,1.0
+PA164760843,deferasirox,V03AC03,beta-Thalassemia,0.0,1.0
+PA164760843,deferasirox,V03AC03,Drug Toxicity,0.0,1.0
+PA164760843,deferasirox,V03AC03,Thalassemia,0.0,1.0
+PA164760843,deferasirox,V03AC03,,0.0,1.0
+PA164760860,pegaspargase,L01XX24,,0.0,1.0
+PA164760860,pegaspargase,L01XX24,Osteonecrosis,0.0,1.0
+PA164760860,pegaspargase,L01XX24,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA164764583,praziquantel,P02BA01,,1.0,0.0
+PA164764584,rasagiline,N04BD02,Parkinson Disease,0.0,1.0
+PA164764584,rasagiline,N04BD02,,0.0,1.0
+PA164768738,ethionamide,J04AD03,,1.0,0.0
+PA164768820,daptomycin,J01XX09,,1.0,0.0
+PA164768835,maraviroc,J05AX09,HIV Infections,1.0,0.0
+PA164768835,maraviroc,J05AX09,,1.0,0.0
+PA164769031,lumiracoxib,M01AH06,,0.0,1.0
+PA164769056,tiotropium,R03AL06;R03AL10;R03BB04;R03BB54,,0.0,1.0
+PA164769056,tiotropium,R03AL06;R03AL10;R03BB04;R03BB54,Asthma,0.0,1.0
+PA164771236,pegaptanib,S01LA03,Choroidal Neovascularization,0.0,1.0
+PA164771236,pegaptanib,S01LA03,,0.0,1.0
+PA164774763,latanoprost,S01EE01;S01EE51,,0.0,1.0
+PA164774763,latanoprost,S01EE01;S01EE51,"Glaucoma, Open-Angle",0.0,1.0
+PA164774901,darifenacin,G04BD10,,0.0,1.0
+PA164774902,tolazamide,A10BB05;G01AE10,,0.0,1.0
+PA164776637,eculizumab,L04AA25,paroxysmal nocturnal hemoglobinuria,0.0,1.0
+PA164776637,eculizumab,L04AA25,,0.0,1.0
+PA164776671,cinacalcet,H05BX01,,0.0,1.0
+PA164776964,desloratadine,R06AX27,sedation,0.0,1.0
+PA164776964,desloratadine,R06AX27,Urticaria,0.0,1.0
+PA164776964,desloratadine,R06AX27,,0.0,1.0
+PA164777036,hydroxychloroquine,P01BA02,"Arthritis, Rheumatoid",1.0,0.0
+PA164777036,hydroxychloroquine,P01BA02,,1.0,0.0
+PA164778866,liothyronine,H03AA02;H03AA03,Depression,0.0,1.0
+PA164778866,liothyronine,H03AA02;H03AA03,,0.0,1.0
+PA164778930,creatine,,,,
+PA164778930,creatine,,Amyotrophic Lateral Sclerosis,,
+PA164779048,"interferon alfa-2a, recombinant",L03AB04,,0.0,1.0
+PA164779048,"interferon alfa-2a, recombinant",L03AB04,"Hepatitis C, Chronic",0.0,1.0
+PA164779048,"interferon alfa-2a, recombinant",L03AB04,Hepatitis C,0.0,1.0
+PA164779048,"interferon alfa-2a, recombinant",L03AB04,HIV Infections,0.0,1.0
+PA164779050,sulfapyridine,G01AE10;J01EB04,,1.0,1.0
+PA164779052,glucagon recombinant,H04AA01,,0.0,1.0
+PA164781042,flucloxacillin,J01CF05;J01CR50,Toxic liver disease,1.0,0.0
+PA164781042,flucloxacillin,J01CF05;J01CR50,drug-induced liver injury,1.0,0.0
+PA164781042,flucloxacillin,J01CF05;J01CR50,,1.0,0.0
+PA164781163,apomorphine,G04BE07;N04BC07,,0.0,1.0
+PA164781343,varenicline,N07BA03;S01XA28,,0.0,1.0
+PA164781343,varenicline,N07BA03;S01XA28,Tobacco Use Disorder,0.0,1.0
+PA164781375,ibritumomab,V10XX02,,0.0,1.0
+PA164783479,divalproex sodium,,,,
+PA164783958,alemtuzumab,L04AA34,"Leukemia, Lymphocytic, Chronic, B-Cell",0.0,1.0
+PA164783958,alemtuzumab,L04AA34,,0.0,1.0
+PA164783990,"interferon alfa-2b, recombinant",L03AB05,"Hepatitis C, Chronic",0.0,1.0
+PA164783990,"interferon alfa-2b, recombinant",L03AB05,,0.0,1.0
+PA164783990,"interferon alfa-2b, recombinant",L03AB05,HIV Infections,0.0,1.0
+PA164784002,sertindole,N05AE03,,0.0,1.0
+PA164784021,ethambutol,J04AK02;J04AM03;J04AM06;J04AM07,Tuberculosis,1.0,0.0
+PA164784021,ethambutol,J04AK02;J04AM03;J04AM06;J04AM07,,1.0,0.0
+PA164784021,ethambutol,J04AK02;J04AM03;J04AM06;J04AM07,Toxic liver disease,1.0,0.0
+PA164784021,ethambutol,J04AK02;J04AM03;J04AM06;J04AM07,Maculopapular Exanthema,1.0,0.0
+PA164784024,peginterferon alfa-2b,L03AB10;L03AB60,HIV Infections,0.0,1.0
+PA164784024,peginterferon alfa-2b,L03AB10;L03AB60,Myeloproliferative Disorders,0.0,1.0
+PA164784024,peginterferon alfa-2b,L03AB10;L03AB60,"Hepatitis C, Chronic",0.0,1.0
+PA164784024,peginterferon alfa-2b,L03AB10;L03AB60,,0.0,1.0
+PA164784024,peginterferon alfa-2b,L03AB10;L03AB60,Hepatitis C,0.0,1.0
+PA164784024,peginterferon alfa-2b,L03AB10;L03AB60,"Hepatitis B, Chronic",0.0,1.0
+PA164784024,peginterferon alfa-2b,L03AB10;L03AB60,Anemia,0.0,1.0
+PA164784025,entecavir,J05AF10,,1.0,0.0
+PA164888966,raltegravir,,,,
+PA164920420,olaparib,,,,
+PA164924493,axitinib,L01EK01,,0.0,1.0
+PA164924561,celiprolol,,,,
+PA165107052,Rupatadine,R06AX28,,0.0,1.0
+PA165107055,certolizumab pegol,L04AB05,"Arthritis, Rheumatoid",0.0,1.0
+PA165107055,certolizumab pegol,L04AB05,,0.0,1.0
+PA165107357,cycloguanil,,,,
+PA165110351,dabigatran,,,,
+PA165110351,dabigatran,,Atrial Fibrillation,,
+PA165110439,ixabepilone,,,,
+PA165110729,rhodamine 123,,,,
+PA165110775,SN-38,,,,
+PA165110775,SN-38,,"Carcinoma, Non-Small-Cell Lung",,
+PA165110775,SN-38,,Colorectal Neoplasms,,
+PA165110778,tipifarnib,,,,
+PA165110778,tipifarnib,,Neoplasms,,
+PA165111696,artemisinin,P01BE01;P01BF07;P01BF08,,1.0,0.0
+PA165111697,artesunate,,,,
+PA165111697,artesunate,,Malaria,,
+PA165111698,artemether,P01BE02;P01BF01,,1.0,0.0
+PA165111722,lumefantrine,P01BF01,,1.0,0.0
+PA165111722,lumefantrine,P01BF01,Malaria,1.0,0.0
+PA165282097,bromperidol,,,,
+PA165282097,bromperidol,,Schizophrenia,,
+PA165290926,fluticasone/salmeterol,,,,
+PA165290928,drospirenone / ethinyl estradiol,,,,
+PA165290929,ethinyl estradiol / norelgestromin,,,,
+PA165290933,pertuzumab,,,,
+PA165291472,neratinib,,,,
+PA165291492,pazopanib,,,,
+PA165291492,pazopanib,,"Carcinoma, Renal Cell",,
+PA165291492,pazopanib,,Kidney Neoplasms,,
+PA165291493,ofatumumab,,,,
+PA165291922,doxorubicinol,,Breast Neoplasms,,
+PA165292659,tocilizumab,L04AC07,,0.0,1.0
+PA165292659,tocilizumab,L04AC07,"Arthritis, Rheumatoid",0.0,1.0
+PA165374673,ticagrelor,B01AC24,,0.0,1.0
+PA165374673,ticagrelor,B01AC24,Acute coronary syndrome,0.0,1.0
+PA165815771,Farglitazar,,"Diabetes Mellitus, Type 2",,
+PA165815771,Farglitazar,,,,
+PA165823907,hydroxyphenytoin,,,,
+PA165857067,chlorproguanil,,Malaria,,
+PA165860521,ambrisentan,C02KX02;C02KX52,,0.0,1.0
+PA165860812,berberine,,,,
+PA165906891,cabozantinib,,,,
+PA165945763,cangrelor,B01AC25,,0.0,1.0
+PA165945764,bucindolol,,Heart Failure,,
+PA165945764,bucindolol,,,,
+PA165946122,crizotinib,L01ED01,,0.0,1.0
+PA165946747,hydroxyamitriptyline,,,,
+PA165946873,vemurafenib,G01AE10;L01EC01,,0.0,1.0
+PA165947835,dichloroacetic acid,,,,
+PA165948902,boceprevir,J05AP03,,1.0,0.0
+PA165948902,boceprevir,J05AP03,"Hepatitis C, Chronic",1.0,0.0
+PA165948903,brentuximab vedotin,,,,
+PA165949771,Glucarpidase,,nephrotoxicity,,
+PA165949771,Glucarpidase,,,,
+PA165950341,ivacaftor,R07AX02;R07AX30;R07AX31;R07AX32,,0.0,1.0
+PA165950341,ivacaftor,R07AX02;R07AX30;R07AX31;R07AX32,Cystic Fibrosis,0.0,1.0
+PA165958345,nilotinib,L01EA03,,0.0,1.0
+PA165958345,nilotinib,L01EA03,Hyperbilirubinemia,0.0,1.0
+PA165958346,vildagliptin,A10BD08;A10BH02,,0.0,1.0
+PA165958346,vildagliptin,A10BD08;A10BH02,"Diabetes Mellitus, Type 2",0.0,1.0
+PA165958348,indacaterol,R03AC18;R03AK14;R03AL04;R03AL12,,0.0,1.0
+PA165958354,telaprevir,J05AP02,,1.0,0.0
+PA165958354,telaprevir,J05AP02,"Hepatitis C, Chronic",1.0,0.0
+PA165958354,telaprevir,J05AP02,Hepatitis C,1.0,0.0
+PA165958358,canakinumab,,,,
+PA165958360,rivaroxaban,,,,
+PA165958363,agomelatine,N06AX22,,0.0,1.0
+PA165958363,agomelatine,N06AX22,Depressive Disorder,0.0,1.0
+PA165958364,liraglutide,A10AE56;A10BJ02,Polycystic Ovary Syndrome,0.0,1.0
+PA165958364,liraglutide,A10AE56;A10BJ02,,0.0,1.0
+PA165958364,liraglutide,A10AE56;A10BJ02,Obesity,0.0,1.0
+PA165958369,dabigatran etexilate,B01AE07,,0.0,1.0
+PA165958374,desvenlafaxine,N06AX23,,0.0,1.0
+PA165958376,fesoterodine,G04BD11,,0.0,1.0
+PA165958382,methacholine,V04CX03,Asthma,0.0,1.0
+PA165958382,methacholine,V04CX03,,0.0,1.0
+PA165958395,lornoxicam,M01AC05,,0.0,1.0
+PA165958401,cabazitaxel,L01CD04,,0.0,1.0
+PA165958402,carglumic acid,A16AA05,,0.0,1.0
+PA165958403,chenodeoxycholic acid,A05AA01,,0.0,1.0
+PA165958406,dimercaprol,V03AB09,"Lead Poisoning, Nervous System, Childhood",0.0,1.0
+PA165958406,dimercaprol,V03AB09,Hemolysis,0.0,1.0
+PA165958416,salicylamide,,,,
+PA165958441,trastuzumab emtansine,,,,
+PA165958521,febuxostat,M04AA03,,0.0,1.0
+PA165958521,febuxostat,M04AA03,Gout,0.0,1.0
+PA165963961,pegloticase,,Hemolysis,,
+PA165963961,pegloticase,,,,
+PA165963961,pegloticase,,Methemoglobinemia,,
+PA165971474,belinostat,,,,
+PA165980594,ponatinib,L01EA05,,0.0,1.0
+PA165980614,fluindione,,Thromboembolism,,
+PA165980614,fluindione,,,,
+PA165981154,afatinib,L01EB03,,0.0,1.0
+PA165981594,eltrombopag,,,,
+PA165983754,pitrakinra,,Asthma,,
+PA165983754,pitrakinra,,,,
+PA165983956,acetaminophen sulfate,,,,
+PA165984462,photodynamic therapy,,Choroidal Neovascularization,,
+PA165984462,photodynamic therapy,,,,
+PA165984462,photodynamic therapy,,Macular Degeneration,,
+PA165985534,Gadoxetic acid,V08CA10,,0.0,1.0
+PA166014703,etravirine,J05AG04,HIV Infections,1.0,0.0
+PA166014703,etravirine,J05AG04,,1.0,0.0
+PA166048654,ustekinumab,,,,
+PA166048654,ustekinumab,,Psoriasis,,
+PA166049180,loxoprofen,M02AA31,,0.0,1.0
+PA166104276,ABT-751,,Neoplasms,,
+PA166104276,ABT-751,,,,
+PA166109554,angiotensin II,,,,
+PA166110256,bufuralol,,,,
+PA166110257,dexlansoprazole,A02BC06,,0.0,1.0
+PA166114316,sodium phenylbutyrate,,,,
+PA166114414,cotinine,,Tobacco Use Disorder,,
+PA166114414,cotinine,,,,
+PA166114434,sipoglitazar,,,,
+PA166114460,icotinib,L01EB08,,0.0,1.0
+PA166114483,lumacaftor,R07AX30,Cystic Fibrosis,0.0,1.0
+PA166114483,lumacaftor,R07AX30,,0.0,1.0
+PA166114484,XK469,,,,
+PA166114904,belimumab,,,,
+PA166114906,bosutinib,,,,
+PA166114911,dabrafenib,,,,
+PA166114922,lomitapide,C10AX12,,0.0,1.0
+PA166114925,mafenide,,,,
+PA166114927,mipomersen,,,,
+PA166114929,homoharringtonine,,,,
+PA166114943,regorafenib,,,,
+PA166114943,regorafenib,,Drug Toxicity,,
+PA166114961,dolutegravir,J05AJ03;J05AR13;J05AR21;J05AR25;J05AR27,HIV Infections,1.0,0.0
+PA166114961,dolutegravir,J05AJ03;J05AR13;J05AR21;J05AR25;J05AR27,,1.0,0.0
+PA166115361,sodium nitrite,V03AB08,,0.0,1.0
+PA166115364,trametinib,L01EE01,,0.0,1.0
+PA166115366,velaglucerase alfa,,,,
+PA166115441,pridopidine,,,,
+PA166115442,tegafur / gimeracil / oteracil,,,,
+PA166115442,tegafur / gimeracil / oteracil,,Colorectal Neoplasms,,
+PA166115521,trichloroethylene,N01AB05,,0.0,1.0
+PA166115521,trichloroethylene,N01AB05,Drug Hypersensitivity,0.0,1.0
+PA166115579,pamaquine,,,,
+PA166115580,tafenoquine,P01BA07,,1.0,0.0
+PA166115580,tafenoquine,P01BA07,Malaria,1.0,0.0
+PA166118041,deferiprone,V03AC02,,0.0,1.0
+PA166118041,deferiprone,V03AC02,beta-Thalassemia,0.0,1.0
+PA166118341,vandetanib,L01EX04,,0.0,1.0
+PA166121346,ibrutinib,L01EL01,,0.0,1.0
+PA166122586,afutuzumab,,,,
+PA166122590,simeprevir,,,,
+PA166122590,simeprevir,,Hepatitis C,,
+PA166122590,simeprevir,,"Hepatitis C, Chronic",,
+PA166122593,sofosbuvir,J05AP08;J05AP51;J05AP55;J05AP56,"Hepatitis C, Chronic",1.0,0.0
+PA166122593,sofosbuvir,J05AP08;J05AP51;J05AP55;J05AP56,Recurrence,1.0,0.0
+PA166122593,sofosbuvir,J05AP08;J05AP51;J05AP55;J05AP56,,1.0,0.0
+PA166122595,vortioxetine,N06AX26,,0.0,1.0
+PA166122627,chlorocresol,,Malignant Hyperthermia,,
+PA166122986,radiotherapy,,Stomach Neoplasms,,
+PA166122986,radiotherapy,,Rectal Neoplasms,,
+PA166122986,radiotherapy,,Prostatic Neoplasms,,
+PA166122986,radiotherapy,,,,
+PA166122986,radiotherapy,,progression-free survival,,
+PA166122986,radiotherapy,,mucositis,,
+PA166122986,radiotherapy,,overall survival,,
+PA166122986,radiotherapy,,Myelosuppression,,
+PA166122986,radiotherapy,,Nasopharyngeal Neoplasms,,
+PA166122986,radiotherapy,,Dermatitis,,
+PA166122986,radiotherapy,,"Carcinoma, Squamous Cell",,
+PA166122986,radiotherapy,,Thrombocytopenia,,
+PA166122986,radiotherapy,,Anemia,,
+PA166122986,radiotherapy,,Neutropenia,,
+PA166122986,radiotherapy,,pneumonitis,,
+PA166122986,radiotherapy,,Leukopenia,,
+PA166123346,bilirubin,,Colorectal Neoplasms,,
+PA166123346,bilirubin,,,,
+PA166123386,ruxolitinib,D11AH09;L01EJ01,,0.0,1.0
+PA166123389,fampridine,N07XX07,,0.0,1.0
+PA166123407,abiraterone,L02BX03,,0.0,1.0
+PA166123407,abiraterone,L02BX03,Prostatic Neoplasms,0.0,1.0
+PA166123415,ivabradine,C01EB17;C07FX05;C07FX06,,0.0,1.0
+PA166123486,eliglustat,A16AX10,,0.0,1.0
+PA166123566,bucillamine,M01CC02,,0.0,1.0
+PA166124478,endoxifen,,,,
+PA166124615,pembrolizumab,,,,
+PA166124616,ceritinib,,,,
+PA166127651,n-desmethyltamoxifen,,,,
+PA166127652,4-hydroxytamoxifen,,,,
+PA166128130,deleobuvir,,,,
+PA166128130,deleobuvir,,"Hepatitis C, Chronic",,
+PA166128132,faldaprevir,J05AP04,,1.0,0.0
+PA166128132,faldaprevir,J05AP04,"Hepatitis C, Chronic",1.0,0.0
+PA166128166,ledipasvir,J05AP51,,1.0,0.0
+PA166128166,ledipasvir,J05AP51,"Hepatitis C, Chronic",1.0,0.0
+PA166128166,ledipasvir,J05AP51,Recurrence,1.0,0.0
+PA166128167,daclatasvir,J05AP07;J05AP58,"Hepatitis C, Chronic",1.0,0.0
+PA166128167,daclatasvir,J05AP07;J05AP58,,1.0,0.0
+PA166128168,asunaprevir,J05AP06;J05AP58,,1.0,0.0
+PA166128206,dipyrone,N02BB02;N02BB52;N02BB72,,0.0,1.0
+PA166128370,salvianolic acid b,,,,
+PA166128370,salvianolic acid b,,Coronary Disease,,
+PA166128806,edoxaban,B01AF03,,0.0,1.0
+PA166129446,simvastatin acid,,,,
+PA166129466,lonafarnib,A16AX20,,0.0,1.0
+PA166129466,lonafarnib,A16AX20,Ovarian Neoplasms,0.0,1.0
+PA166129522,nivolumab,,,,
+PA166129523,atezolizumab,,,,
+PA166129524,blinatumomab,,,,
+PA166129535,mizolastine,R06AX25,Urticaria,0.0,1.0
+PA166129535,mizolastine,R06AX25,,0.0,1.0
+PA166129536,regadenoson,C01EB21,,0.0,1.0
+PA166129539,silibinin,A05BA03,,0.0,1.0
+PA166129557,lurasidone,N05AE05,,0.0,1.0
+PA166129557,lurasidone,N05AE05,Schizophrenia,0.0,1.0
+PA166129559,hdl cholesterol,,,,
+PA166129559,hdl cholesterol,,Menopause,,
+PA166129559,hdl cholesterol,,Breast Neoplasms,,
+PA166131242,3-hydroxycotinine glucuronide,,,,
+PA166131260,clopidogrel thiol metabolite H4,,,,
+PA166131262,3-hydroxycotinine,,,,
+PA166131338,tamoxifen-n-glucuronide,,,,
+PA166131340,morphine-3-glucuronide,,,,
+PA166131342,noroxycodone,,,,
+PA166131379,o-desmethyltramadol,,,,
+PA166131388,4-hydroxycyclophosphamide,,,,
+PA166131393,6-hydroxy s-warfarin,,,,
+PA166131394,6-hydroxy r-warfarin,,,,
+PA166131493,n-desmethyltramadol,,,,
+PA166131548,noroxymorphone,,,,
+PA166131561,cotinine glucuronide,,,,
+PA166131569,difluorodeoxyuridine,,Neoplasms,,
+PA166131580,sacubitril,C09DX04,,0.0,1.0
+PA166131581,dalcetrapib,,Acute coronary syndrome,,
+PA166131581,dalcetrapib,,,,
+PA166131610,niraparib,L01XK02,,0.0,1.0
+PA166131626,osimertinib,L01EB04,,0.0,1.0
+PA166131630,volatile anesthetics,,,,
+PA166131630,volatile anesthetics,,Malignant Hyperthermia,,
+PA166151864,ataluren,M09AX03,Cystic Fibrosis,0.0,1.0
+PA166151864,ataluren,M09AX03,,0.0,1.0
+PA166151992,dapoxetine,G04BX14,,0.0,1.0
+PA166152829,flupirtine,N02BG07,,0.0,1.0
+PA166152829,flupirtine,N02BG07,drug-induced liver injury,0.0,1.0
+PA166152838,dimethyl fumarate,L04AX07,Psoriasis,0.0,1.0
+PA166152838,dimethyl fumarate,L04AX07,,0.0,1.0
+PA166152901,serotonin,,,,
+PA166152935,ivacaftor / lumacaftor,,Cystic Fibrosis,,
+PA166152935,ivacaftor / lumacaftor,,,,
+PA166152940,tolperisone,,,,
+PA166153416,coptisine,,,,
+PA166153431,flibanserin,G02CX02,,0.0,1.0
+PA166153469,palbociclib,L01EF01,,0.0,1.0
+PA166153470,ribociclib,L01EF02,,0.0,1.0
+PA166153471,abemaciclib,L01EF03,,0.0,1.0
+PA166153472,lenvatinib,L01EX08,,0.0,1.0
+PA166153473,venetoclax,L01XX52,,0.0,1.0
+PA166153491,brivaracetam,N03AX23,,0.0,1.0
+PA166159062,elosulfase alfa,,,,
+PA166159961,alirocumab,,,,
+PA166160002,dasabuvir / ombitasvir / paritaprevir / ritonavir,,,,
+PA166160006,lesinurad,M04AB05,,0.0,1.0
+PA166160027,evolocumab,,,,
+PA166160044,cobimetinib,L01EE02,,0.0,1.0
+PA166160048,lacosamide,N03AX18,,0.0,1.0
+PA166160050,alectinib,L01ED03,,0.0,1.0
+PA166160053,brexpiprazole,N05AX16,,0.0,1.0
+PA166160055,cholic acid,A05AA03,,0.0,1.0
+PA166160060,dinutuximab,,,,
+PA166160623,thioguanosine monophosphate,,,,
+PA166160632,thioguanosine diphosphate,,,,
+PA166160633,thioguanosine triphosphate,,,,
+PA166161159,rilpivirine,,,,
+PA166161216,aripiprazole lauroxil,,,,
+PA166161307,panobinostat,L01XH03,,0.0,1.0
+PA166162420,paramethoxymethamphetamine,,,,
+PA166163161,lovastatin acid,,,,
+PA166163226,cavosonstat,,Cystic Fibrosis,,
+PA166163226,cavosonstat,,,,
+PA166163260,moviprep,,,,
+PA166163408,ombitasvir / paritaprevir / ritonavir,,,,
+PA166163411,dasabuvir,J05AP09;J05AP52,,1.0,0.0
+PA166163415,velpatasvir,J05AP55;J05AP56,,1.0,0.0
+PA166163415,velpatasvir,J05AP55;J05AP56,"Hepatitis C, Chronic",1.0,0.0
+PA166163416,sofosbuvir / velpatasvir,,,,
+PA166163418,rucaparib,L01XK03,,0.0,1.0
+PA166163427,ledipasvir / sofosbuvir,,,,
+PA166163432,eteplirsen,,,,
+PA166163434,olaratumab,,,,
+PA166163437,grazoprevir,J05AP11;J05AP54,,1.0,0.0
+PA166163438,elbasvir / grazoprevir,,,,
+PA166163482,brigatinib,L01ED04,,0.0,1.0
+PA166163659,n-desmethylclozapine,,,,
+PA166163690,desmethylnaproxen,,,,
+PA166163740,apixaban,B01AF02,,0.0,1.0
+PA166163740,apixaban,B01AF02,Atrial Fibrillation,0.0,1.0
+PA166165203,carfilzomib,L01XG02,,0.0,1.0
+PA166165399,low density lipoprotein,,,,
+PA166169875,avelumab,,,,
+PA166169879,cerliponase alfa,,,,
+PA166169881,deutetrabenazine,,,,
+PA166169883,durvalumab,,,,
+PA166169917,midostaurin,,,,
+PA166170051,valbenazine,,,,
+PA166171170,tipiracil hydrochloride,,Colorectal Neoplasms,,
+PA166171170,tipiracil hydrochloride,,,,
+PA166171182,voxilaprevir,,,,
+PA166171182,voxilaprevir,,"Hepatitis C, Chronic",,
+PA166175754,tezacaftor,,Cystic Fibrosis,,
+PA166175754,tezacaftor,,,,
+PA166175791,cannabidiol,,,,
+PA166175998,dextromethorphan / quinidine,,,,
+PA166176008,erythromycin ethylsuccinate / sulfisoxazole acetyl,,,,
+PA166176017,hydralazine / isosorbide dinitrate,,Heart Failure,,
+PA166176017,hydralazine / isosorbide dinitrate,,,,
+PA166176018,lidocaine / prilocaine,,,,
+PA166176020,sodium benzoate / sodium phenylacetate,,,,
+PA166176022,isoniazid / pyrazinamide / rifampin,,,,
+PA166176027,fluoxetine / olanzapine,,,,
+PA166176033,efavirenz / emtricitabine / tenofovir disoproxil,,,,
+PA166176885,dihydrocodeine,,,,
+PA166177229,highly active antiretroviral therapy (haart),,,,
+PA166177229,highly active antiretroviral therapy (haart),,HIV Infections,,
+PA166177476,cariprazine,,,,
+PA166177484,enasidenib,,,,
+PA166177510,inotuzumab ozogamicin,,,,
+PA166177513,mirabegron,,,,
+PA166177517,sofosbuvir / velpatasvir / voxilaprevir,,,,
+PA166177519,umeclidinium,,,,
+PA166177606,S-EDDP,,Opioid-Related Disorders,,
+PA166177606,S-EDDP,,,,
+PA166177865,alpha-hydroxymetoprolol,,,,
+PA166178312,(R)-methadone,,,,
+PA166178312,(R)-methadone,,Opioid-Related Disorders,,
+PA166178378,uric acid,,,,
+PA166178387,iguratimod,,,,
+PA166178554,(S)-methadone,,,,
+PA166179660,direct acting antivirals,,,,
+PA166179660,direct acting antivirals,,sustained virological response (svr),,
+PA166179720,tapentadol,N02AX06,,0.0,1.0
+PA166179845,ivacaftor / tezacaftor,,Cystic Fibrosis,,
+PA166179845,ivacaftor / tezacaftor,,,,
+PA166179849,avatrombopag,,,,
+PA166179867,binimetinib,L01EE03,,0.0,1.0
+PA166179872,encorafenib,L01EC03,,0.0,1.0
+PA166180939,phenazepam,,,,
+PA166180939,phenazepam,,Alcoholism,,
+PA166180985,ara-CTP,,,,
+PA166182002,amifampridine phosphate,,,,
+PA166182279,dacomitinib,,,,
+PA166182348,elagolix,,,,
+PA166182624,atazanavir / ritonavir,,,,
+PA166182624,atazanavir / ritonavir,,Hyperbilirubinemia,,
+PA166182624,atazanavir / ritonavir,,HIV Infections,,
+PA166182641,buprenorphine / naloxone,,Opioid-Related Disorders,,
+PA166182707,ivosidenib,,,,
+PA166182718,ipilimumab,,,,
+PA166182720,erdafitinib,,,,
+PA166182723,eribulin,,,,
+PA166182733,larotrectinib sulfate,,,,
+PA166182735,lidocaine and tetracaine,,,,
+PA166182736,siponimod,,,,
+PA166182740,talazoparib,,,,
+PA166182743,lorlatinib,,,,
+PA166182748,lusutrombopag,,,,
+PA166182756,inotersen,,,,
+PA166182763,emapalumab,,,,
+PA166182767,gilteritinib,,,,
+PA166182783,articaine / epinephrine,,,,
+PA166182862,FOLFOX,,Neoplasms,,
+PA166182862,FOLFOX,,,,
+PA166182862,FOLFOX,,progression-free survival,,
+PA166182862,FOLFOX,,overall survival,,
+PA166182863,FOLFIRI,,overall survival,,
+PA166182863,FOLFIRI,,Diarrhea,,
+PA166182863,FOLFIRI,,Neutropenia,,
+PA166182863,FOLFIRI,,progression-free survival,,
+PA166182863,FOLFIRI,,,,
+PA166182864,XELOX,,,,
+PA166182881,migalastat,,Fabry Disease,,
+PA166182881,migalastat,,,,
+PA166182882,nusinersen,,,,
+PA166182883,ospemifene,,,,
+PA166182885,oxymetazoline and tetracaine,,,,
+PA166182939,l-methylfolate,,"Depressive Disorder, Major",,
+PA166183785,amlodipine / atorvastatin / perindopril arginine,,,,
+PA166183787,fluorouracil / salicylic acid,,,,
+PA166183788,metabutethamine,,,,
+PA166183939,dextropropoxyphene,,,,
+PA166184057,bisoprolol fumarate / perindopril arginine,,,,
+PA166184059,carbasalate calcium,,,,
+PA166184060,carbocisteine,,,,
+PA166184061,acetaminophen / codeine,,,,
+PA166184081,nicorandil,,,,
+PA166184233,vernakalant,,,,
+PA166184235,umeclidinium / vilanterol,,,,
+PA166184379,letermovir,,,,
+PA166184495,ezetimibe / simvastatin,,,,
+PA166184496,acetaminophen / tramadol,,,,
+PA166184497,"Paracetamol, combinations excl. Psycholeptics (Vicks MediNait Sirup)",,,,
+PA166184498,ezetimibe / rosuvastatin,,,,
+PA166184501,lamivudine / abacavir,,,,
+PA166184503,zidovudine / lamivudine / abacavir,,,,
+PA166184505,dolutegravir / abacavir / lamivudine,,,,
+PA166184523,alpelisib,,,,
+PA166184558,ramucirumab,,,,
+PA166184562,tafamidis,,,,
+PA166184566,tipiracil / trifluridine,,,,
+PA166184711,mephedrone,,,,
+PA166185150,amifampridine,,,,
+PA166185163,pitolisant,,,,
+PA166185677,FEC100,,,,
+PA166185677,FEC100,,Amenorrhea,,
+PA166185957,estrone sulfate,,,,
+PA166186040,tianeptine,,"Depressive Disorder, Major",,
+PA166186040,tianeptine,,suicidal ideation,,
+PA166186040,tianeptine,,,,
+PA166186245,acetaldehyde,,,,
+PA166187141,lacidipine,,,,
+PA166189801,crizanlizumab-tmca,,,,
+PA166189802,voxelotor,,,,
+PA166189803,upadacitinib,,,,
+PA166190001,luspatercept-aamt,,,,
+PA166190041,elexacaftor / tezacaftor / ivacaftor,,,,
+PA166190121,enfortumab vedotin,,,,
+PA166190161,entrectinib,,,,
+PA166190221,estradiol / progesterone,,,,
+PA166190621,trastuzumab deruxtecan,,,,
+PA166190681,givosiran,,,,
+PA166190721,golodirsen,,,,
+PA166197521,desethyl hydroxychloroquine,,,,
+PA166197681,Vitamin K1,,,,
+PA166201941,tenofovir disoproxil fumarate,,,,
+PA166201941,tenofovir disoproxil fumarate,,nephrotoxicity,,
+PA166201941,tenofovir disoproxil fumarate,,HIV Infections,,
+PA166204001,zanubrutinib,,,,
+PA166208561,ulinastatin,,,,
+PA166210801,ethylmorphine,,,,
+PA166211181,tepotinib,,,,
+PA166212681,piritramide,,,,
+PA166212682,tilidine,,,,
+PA166213481,raloxifene-4′-glucuronide,,,,
+PA166213482,raloxifene 6-glucuronide,,,,
+PA166220606,bazedoxifene,,,,
+PA166222281,evinacumab,,,,
+PA166223601,oliceridine,,,,
+PA166223903,avapritinib,,,,
+PA166224201,capmatinib,,,,
+PA166224921,inebilizumab-cdon,,,,
+PA166224941,isatuximab,,,,
+PA166224981,lutetium (177Lu) oxodotreotide,,,,
+PA166225041,rimegepant,,,,
+PA166225061,sacituzumab govitecan-hziy,,,,
+PA166225084,selpercatinib,,,,
+PA166225141,tucatinib,,,,
+PA166226561,hydroxybupropion,,,,
+PA166230961,combination nicotine replacement therapy,,,,
+PA166235241,margetuximab,,,,
+PA166235281,lumasiran,,,,
+PA166235301,metreleptin,,,,
+PA166235321,pralsetinib,,,,
+PA166235322,risdiplam,,,,
+PA166235323,satralizumab,,,,
+PA166235341,setmelanotide,,,,
+PA166236421,viltolarsen,,,,
+PA166236501,sodium oxybate,,,,
+PA166238763,"synthetic conjugated estrogens, A",,,,
+PA166240141,FOLFIRINOX,,Thrombocytopenia,,
+PA166240141,FOLFIRINOX,,,,
+PA166240141,FOLFIRINOX,,Pancreatic Neoplasms,,
+PA166241781,isepamicin,,Ototoxicity,,
+PA166241801,micronomicin,,Ototoxicity,,
+PA166242461,dihydrostreptomycin,,Ototoxicity,,
+PA166246281,acetaminophen / caffeine / dihydrocodeine,,,,
+PA166246441,sotorasib,,,,
+PA166247601,2-hydroxyatorvastatin,,,,
+PA166249401,teneligliptin,,,,
+PA166249521,nintedanib,,,,
+PA166251381,cabotegravir / rilpivirine,,,,
+PA166251401,cemiplimab-rwlc,,,,
+PA166251541,casimersen,,,,
+PA166251581,viloxazine,,,,
+PA166252061,infigratinib,,,,
+PA166252761,fosdenopterin,,,,
+PA166256441,rilonacept,,,,
+PA166258723,tenofovir alafenamide,,,,
+PA166268761,belzutifan,L01XX74,,0.0,1.0
+PA166268781,efgartigimod alfa,,,,
+PA166268801,glycerol phenylbutyrate,,,,
+PA166268802,inclisiran,,,,
+PA166268803,maralixibat,A05AX04,,0.0,1.0
+PA166268804,mobocertinib,,,,
+PA166268805,odevixibat,A05AX05,,0.0,1.0
+PA166268841,asciminib,L01EA06,,0.0,1.0
+PA166268921,ropeginterferon alfa-2b,,,,
+PA166272921,abrocitinib,,,,
+PA166272922,mavacamten,C01EB24,,0.0,1.0
+PA166277621,vutrisiran,,,,
+PA166277641,anifrolumab,,,,
+PA166277741,tebentafusp,,,,
+PA166277861,ravulizumab,,,,
+PA166277902,nivolumab / relatlimab,,,,
+PA166278021,mitapivat,,,,
+PA166278141,lutetium (177lu) vipivotide tetraxetan,,,,
+PA166278301,ganaxolone,N03AX27,,0.0,1.0
+PA166278341,dextromethorphan hydrobromide / bupropion hydrochloride,,,,
+PA448004,abacavir,J05AF06;J05AR02;J05AR04;J05AR13,Drug Hypersensitivity,1.0,0.0
+PA448004,abacavir,J05AF06;J05AR02;J05AR04;J05AR13,HIV Infections,1.0,0.0
+PA448004,abacavir,J05AF06;J05AR02;J05AR04;J05AR13,,1.0,0.0
+PA448010,acarbose,A10BD17;A10BF01,,0.0,1.0
+PA448015,acetaminophen,N02AJ01;N02AJ06;N02AJ13;N02AJ17;N02BE01;N02BE51;N02BE71,severe cutaneous adverse reactions,0.0,1.0
+PA448015,acetaminophen,N02AJ01;N02AJ06;N02AJ13;N02AJ17;N02BE01;N02BE51;N02BE71,Pain,0.0,1.0
+PA448015,acetaminophen,N02AJ01;N02AJ06;N02AJ13;N02AJ17;N02BE01;N02BE51;N02BE71,neuropathic pain,0.0,1.0
+PA448015,acetaminophen,N02AJ01;N02AJ06;N02AJ13;N02AJ17;N02BE01;N02BE51;N02BE71,,0.0,1.0
+PA448015,acetaminophen,N02AJ01;N02AJ06;N02AJ13;N02AJ17;N02BE01;N02BE51;N02BE71,"Liver Failure, Acute",0.0,1.0
+PA448018,acetazolamide,G01AE10;S01EC01,Stevens-Johnson Syndrome,0.0,1.0
+PA448031,acetylcholine,S01EB09,,0.0,1.0
+PA448033,acetylcysteine,R05CB01;S01XA08;V03AB23,,0.0,1.0
+PA448033,acetylcysteine,R05CB01;S01XA08;V03AB23,Pulmonary Fibrosis,0.0,1.0
+PA448039,acitretin,D05BB02,,0.0,1.0
+PA448045,acyclovir,D06BB03;D06BB53;J05AB01;S01AD03,,1.0,1.0
+PA448068,salbutamol,R03AC02;R03AK04;R03AK13;R03AL02;R03CC02,Asthma,0.0,1.0
+PA448068,salbutamol,R03AC02;R03AK04;R03AK13;R03AL02;R03CC02,,0.0,1.0
+PA448073,ethanol,D08AX08;V03AB16;V03AZ01,Substance-Related Disorders,0.0,1.0
+PA448073,ethanol,D08AX08;V03AB16;V03AZ01,Bipolar Disorder,0.0,1.0
+PA448073,ethanol,D08AX08;V03AB16;V03AZ01,Attention Deficit Disorder with Hyperactivity,0.0,1.0
+PA448073,ethanol,D08AX08;V03AB16;V03AZ01,,0.0,1.0
+PA448073,ethanol,D08AX08;V03AB16;V03AZ01,Death,0.0,1.0
+PA448073,ethanol,D08AX08;V03AB16;V03AZ01,Alcoholism,0.0,1.0
+PA448082,alendronate,M05BA04;M05BB03;M05BB05;M05BB06,Osteoporosis,0.0,1.0
+PA448082,alendronate,M05BA04;M05BB03;M05BB05;M05BB06,Bone Diseases,0.0,1.0
+PA448082,alendronate,M05BA04;M05BB03;M05BB05;M05BB06,,0.0,1.0
+PA448084,alfentanil,N01AH02,Pain,0.0,1.0
+PA448084,alfentanil,N01AH02,,0.0,1.0
+PA448320,allopurinol,M04AA01;M04AA51,,0.0,1.0
+PA448320,allopurinol,M04AA01;M04AA51,Gout,0.0,1.0
+PA448320,allopurinol,M04AA01;M04AA51,Drug Hypersensitivity,0.0,1.0
+PA448320,allopurinol,M04AA01;M04AA51,Exanthema,0.0,1.0
+PA448320,allopurinol,M04AA01;M04AA51,severe cutaneous adverse reactions,0.0,1.0
+PA448320,allopurinol,M04AA01;M04AA51,Stevens-Johnson Syndrome,0.0,1.0
+PA448320,allopurinol,M04AA01;M04AA51,drug reaction with eosinophilia and systemic symptoms,0.0,1.0
+PA448320,allopurinol,M04AA01;M04AA51,"Epidermal Necrolysis, Toxic",0.0,1.0
+PA448333,alprazolam,N05BA12,Alcoholism,0.0,1.0
+PA448333,alprazolam,N05BA12,,0.0,1.0
+PA448333,alprazolam,N05BA12,adverse events,0.0,1.0
+PA448333,alprazolam,N05BA12,Anxiety Disorders,0.0,1.0
+PA448360,amantadine,N04BB01,Parkinson Disease,0.0,1.0
+PA448360,amantadine,N04BB01,,0.0,1.0
+PA448368,amiloride,C03DB01,Hypertension,0.0,1.0
+PA448368,amiloride,C03DB01,,0.0,1.0
+PA448383,amiodarone,C01BD01,Long QT Syndrome,0.0,1.0
+PA448383,amiodarone,C01BD01,Torsades de Pointes,0.0,1.0
+PA448383,amiodarone,C01BD01,,0.0,1.0
+PA448385,amitriptyline,N06AA09;N06CA01,Depressive Disorder,0.0,1.0
+PA448385,amitriptyline,N06AA09;N06CA01,Depression,0.0,1.0
+PA448385,amitriptyline,N06AA09;N06CA01,Mental Disorders,0.0,1.0
+PA448385,amitriptyline,N06AA09;N06CA01,"Depressive Disorder, Major",0.0,1.0
+PA448385,amitriptyline,N06AA09;N06CA01,,0.0,1.0
+PA448388,amlodipine,C07FB07;C07FB12;C07FB13;C08CA01;C08CA51;C08GA02;C09BB03;C09BB04;C09BB07;C09BB13;C09BX01;C09BX03;C09BX04;C09DB01;C09DB02;C09DB04;C09DB05;C09DB06;C09DB07;C09DB09;C09DX01;C09DX03;C09DX06;C09DX07;C09DX08;C09XA53;C09XA54;C10BX03;C10BX07;C10BX09;C10BX11;C10BX14;C10BX18;C10BX19,Stroke,0.0,1.0
+PA448388,amlodipine,C07FB07;C07FB12;C07FB13;C08CA01;C08CA51;C08GA02;C09BB03;C09BB04;C09BB07;C09BB13;C09BX01;C09BX03;C09BX04;C09DB01;C09DB02;C09DB04;C09DB05;C09DB06;C09DB07;C09DB09;C09DX01;C09DX03;C09DX06;C09DX07;C09DX08;C09XA53;C09XA54;C10BX03;C10BX07;C10BX09;C10BX11;C10BX14;C10BX18;C10BX19,Cardiovascular Diseases,0.0,1.0
+PA448388,amlodipine,C07FB07;C07FB12;C07FB13;C08CA01;C08CA51;C08GA02;C09BB03;C09BB04;C09BB07;C09BB13;C09BX01;C09BX03;C09BX04;C09DB01;C09DB02;C09DB04;C09DB05;C09DB06;C09DB07;C09DB09;C09DX01;C09DX03;C09DX06;C09DX07;C09DX08;C09XA53;C09XA54;C10BX03;C10BX07;C10BX09;C10BX11;C10BX14;C10BX18;C10BX19,,0.0,1.0
+PA448388,amlodipine,C07FB07;C07FB12;C07FB13;C08CA01;C08CA51;C08GA02;C09BB03;C09BB04;C09BB07;C09BB13;C09BX01;C09BX03;C09BX04;C09DB01;C09DB02;C09DB04;C09DB05;C09DB06;C09DB07;C09DB09;C09DX01;C09DX03;C09DX06;C09DX07;C09DX08;C09XA53;C09XA54;C10BX03;C10BX07;C10BX09;C10BX11;C10BX14;C10BX18;C10BX19,Coronary Disease,0.0,1.0
+PA448388,amlodipine,C07FB07;C07FB12;C07FB13;C08CA01;C08CA51;C08GA02;C09BB03;C09BB04;C09BB07;C09BB13;C09BX01;C09BX03;C09BX04;C09DB01;C09DB02;C09DB04;C09DB05;C09DB06;C09DB07;C09DB09;C09DX01;C09DX03;C09DX06;C09DX07;C09DX08;C09XA53;C09XA54;C10BX03;C10BX07;C10BX09;C10BX11;C10BX14;C10BX18;C10BX19,Hypertension,0.0,1.0
+PA448404,amodiaquine,P01BA06;P01BF03,,1.0,0.0
+PA448404,amodiaquine,P01BA06;P01BF03,"Malaria, Falciparum",1.0,0.0
+PA448404,amodiaquine,P01BA06;P01BF03,Malaria,1.0,0.0
+PA448405,amoxapine,N06AA17,,0.0,1.0
+PA448406,amoxicillin,A02BD01;A02BD03;A02BD04;A02BD05;A02BD06;A02BD07;A02BD10;A02BD11;A02BD12;A02BD13;A02BD14;A02BD15;A02BD16;J01CA04;J01CR50,,1.0,1.0
+PA448406,amoxicillin,A02BD01;A02BD03;A02BD04;A02BD05;A02BD06;A02BD07;A02BD10;A02BD11;A02BD12;A02BD13;A02BD14;A02BD15;A02BD16;J01CA04;J01CR50,Drug Toxicity,1.0,1.0
+PA448408,amphetamine,N06BA01,Substance-Related Disorders,0.0,1.0
+PA448408,amphetamine,N06BA01,,0.0,1.0
+PA448419,ampicillin,J01CA01;J01CA51;J01CR50;S01AA19,,1.0,1.0
+PA448422,amprenavir,J05AE05,HIV Infections,1.0,0.0
+PA448422,amprenavir,J05AE05,,1.0,0.0
+PA448432,anastrozole,L02BG03,,0.0,1.0
+PA448432,anastrozole,L02BG03,Arthralgia,0.0,1.0
+PA448432,anastrozole,L02BG03,Breast Neoplasms,0.0,1.0
+PA448432,anastrozole,L02BG03,Neoplasms,0.0,1.0
+PA448486,arsenic trioxide,L01XX27,,0.0,1.0
+PA448492,asparaginase,L01XX02,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA448492,asparaginase,L01XX02,Pancreatitis,0.0,1.0
+PA448492,asparaginase,L01XX02,,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,Colonic Neoplasms,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,major adverse cardiac events (mace),0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,adverse events,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,Coronary Artery Disease,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,Acute coronary syndrome,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,"Diabetes Mellitus, Type 2",0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,Asthma,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,Urticaria,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,Hemolysis,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,Prostatic Neoplasms,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,Myocardial Infarction,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,aspirin-induced asthma,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,Colorectal Neoplasms,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,Coronary Disease,0.0,1.0
+PA448497,aspirin,A01AD05;B01AC06;B01AC56;C07FX02;C07FX03;C07FX04;C10BX01;C10BX02;C10BX04;C10BX05;C10BX06;C10BX08;C10BX12;M01BA03;N02AJ02;N02AJ07;N02AJ18;N02BA01;N02BA51;N02BA71,Peptic Ulcer,0.0,1.0
+PA448499,atenolol,C07AB03;C07BB03;C07CB03;C07CB53;C07DB01;C07FB03,Tachycardia,0.0,1.0
+PA448499,atenolol,C07AB03;C07BB03;C07CB03;C07CB53;C07DB01;C07FB03,,0.0,1.0
+PA448499,atenolol,C07AB03;C07BB03;C07CB03;C07CB53;C07DB01;C07FB03,Coronary Artery Disease,0.0,1.0
+PA448499,atenolol,C07AB03;C07BB03;C07CB03;C07CB53;C07DB01;C07FB03,Diabetes Mellitus,0.0,1.0
+PA448499,atenolol,C07AB03;C07BB03;C07CB03;C07CB53;C07DB01;C07FB03,Essential hypertension,0.0,1.0
+PA448499,atenolol,C07AB03;C07BB03;C07CB03;C07CB53;C07DB01;C07FB03,"Hypertrophy, Left Ventricular",0.0,1.0
+PA448499,atenolol,C07AB03;C07BB03;C07CB03;C07CB53;C07DB01;C07FB03,Hyperglycemia,0.0,1.0
+PA448499,atenolol,C07AB03;C07BB03;C07CB03;C07CB53;C07DB01;C07FB03,Hypertension,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,Hyperlipidemias,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,Coronary Artery Disease,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,Myocardial Infarction,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,statin-related myopathy,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,Hypercholesterolemia,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,familial hypercholesterolemia,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,Myalgia unspecified,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,Acute coronary syndrome,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,Osteoporosis,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,Cardiovascular Diseases,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,Coronary Disease,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,Hyperlipoproteinemia Type II,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,Muscular Diseases,0.0,1.0
+PA448500,atorvastatin,C10AA05;C10BA05;C10BX03;C10BX06;C10BX08;C10BX11;C10BX12;C10BX15;C10BX18;C10BX19,,0.0,1.0
+PA448502,atovaquone,P01AX06;P01BB51,,1.0,0.0
+PA448505,atropine,A03BA01;A03CB03;S01FA01,,0.0,1.0
+PA448515,azathioprine,L04AX01,Crohn Disease,0.0,1.0
+PA448515,azathioprine,L04AX01,Pancytopenia,0.0,1.0
+PA448515,azathioprine,L04AX01,Drug Toxicity,0.0,1.0
+PA448515,azathioprine,L04AX01,Myelosuppression,0.0,1.0
+PA448515,azathioprine,L04AX01,"Colitis, Ulcerative",0.0,1.0
+PA448515,azathioprine,L04AX01,,0.0,1.0
+PA448515,azathioprine,L04AX01,Neutropenia,0.0,1.0
+PA448515,azathioprine,L04AX01,Pancreatitis,0.0,1.0
+PA448515,azathioprine,L04AX01,Irritable Bowel Syndrome,0.0,1.0
+PA448515,azathioprine,L04AX01,Inflammatory Bowel Diseases,0.0,1.0
+PA448515,azathioprine,L04AX01,Transplantation,0.0,1.0
+PA448515,azathioprine,L04AX01,Leukopenia,0.0,1.0
+PA448515,azathioprine,L04AX01,"Lupus Erythematosus, Systemic",0.0,1.0
+PA448515,azathioprine,L04AX01,Thrombocytopenia,0.0,1.0
+PA448515,azathioprine,L04AX01,dose reduction,0.0,1.0
+PA448519,azithromycin,J01FA10;J01RA07;J01RA16;S01AA26,,1.0,1.0
+PA448547,beclomethasone,A07EA07;D07AC15;D07CC04;R01AD01;R03AK08;R03AK13;R03AL09;R03BA01,,0.0,1.0
+PA448561,benazepril,C09AA07;C09BA07;C09BB13,Diabetes Mellitus,0.0,1.0
+PA448561,benazepril,C09AA07;C09BA07;C09BB13,Hypertension,0.0,1.0
+PA448561,benazepril,C09AA07;C09BA07;C09BB13,,0.0,1.0
+PA448561,benazepril,C09AA07;C09BA07;C09BB13,Essential hypertension,0.0,1.0
+PA448641,bisoprolol,C07AB07;C07BB07;C07FB07;C07FX04;C09BX02;C09BX04;C09BX05,Hypertension,0.0,1.0
+PA448641,bisoprolol,C07AB07;C07BB07;C07FB07;C07FX04;C09BX02;C09BX04;C09BX05,,0.0,1.0
+PA448645,bleomycin,L01DC01,"Lymphoma, Non-Hodgkin",0.0,1.0
+PA448645,bleomycin,L01DC01,Leukopenia,0.0,1.0
+PA448645,bleomycin,L01DC01,Pain,0.0,1.0
+PA448645,bleomycin,L01DC01,,0.0,1.0
+PA448645,bleomycin,L01DC01,Infection,0.0,1.0
+PA448645,bleomycin,L01DC01,Nausea,0.0,1.0
+PA448645,bleomycin,L01DC01,Vomiting,0.0,1.0
+PA448645,bleomycin,L01DC01,febrile neutropenia,0.0,1.0
+PA448645,bleomycin,L01DC01,Anemia,0.0,1.0
+PA448645,bleomycin,L01DC01,Testicular Neoplasms,0.0,1.0
+PA448645,bleomycin,L01DC01,Alopecia,0.0,1.0
+PA448681,budesonide,A07EA06;D07AC09;R01AD05;R03AK07;R03AK12;R03AL11;R03BA02,Asthma,0.0,1.0
+PA448681,budesonide,A07EA06;D07AC09;R01AD05;R03AK07;R03AK12;R03AL11;R03BA02,,0.0,1.0
+PA448682,bumetanide,C03CA02;C03CB02;C03EB02;G01AE10,,0.0,1.0
+PA448685,buprenorphine,N02AE01;N07BC01;N07BC51,Neonatal Abstinence Syndrome,0.0,1.0
+PA448685,buprenorphine,N02AE01;N07BC01;N07BC51,,0.0,1.0
+PA448685,buprenorphine,N02AE01;N07BC01;N07BC51,Exanthema,0.0,1.0
+PA448685,buprenorphine,N02AE01;N07BC01;N07BC51,"Sexual Dysfunctions, Psychological",0.0,1.0
+PA448685,buprenorphine,N02AE01;N07BC01;N07BC51,adverse events,0.0,1.0
+PA448685,buprenorphine,N02AE01;N07BC01;N07BC51,Pain,0.0,1.0
+PA448685,buprenorphine,N02AE01;N07BC01;N07BC51,Opioid-Related Disorders,0.0,1.0
+PA448687,bupropion,A08AA62;N06AX12,"Depressive Disorder, Major",0.0,1.0
+PA448687,bupropion,A08AA62;N06AX12,,0.0,1.0
+PA448687,bupropion,A08AA62;N06AX12,Obesity,0.0,1.0
+PA448687,bupropion,A08AA62;N06AX12,Tobacco Use Disorder,0.0,1.0
+PA448691,busulfan,L01AB01,Transplantation,0.0,1.0
+PA448691,busulfan,L01AB01,,0.0,1.0
+PA448691,busulfan,L01AB01,"Leukemia, Myeloid, Acute",0.0,1.0
+PA448691,busulfan,L01AB01,hemopoietic stem cell transplant,0.0,1.0
+PA448710,caffeine,D11AX26;N06BC01;R03DA20;V04CG30,insomnia,0.0,1.0
+PA448710,caffeine,D11AX26;N06BC01;R03DA20;V04CG30,Anxiety Disorders,0.0,1.0
+PA448710,caffeine,D11AX26;N06BC01;R03DA20;V04CG30,Malignant Hyperthermia,0.0,1.0
+PA448710,caffeine,D11AX26;N06BC01;R03DA20;V04CG30,"Abortion, Spontaneous",0.0,1.0
+PA448710,caffeine,D11AX26;N06BC01;R03DA20;V04CG30,Myocardial Infarction,0.0,1.0
+PA448710,caffeine,D11AX26;N06BC01;R03DA20;V04CG30,,0.0,1.0
+PA448717,calcitriol,A11CC04;D05AX03,,0.0,1.0
+PA448765,candesartan,C09CA06;C09DA06;C09DB07;C09DX06;C10BX19,Hypertension,0.0,1.0
+PA448765,candesartan,C09CA06;C09DA06;C09DB07;C09DX06;C10BX19,,0.0,1.0
+PA448765,candesartan,C09CA06;C09DA06;C09DB07;C09DX06;C10BX19,Heart Failure,0.0,1.0
+PA448765,candesartan,C09CA06;C09DA06;C09DB07;C09DX06;C10BX19,Essential hypertension,0.0,1.0
+PA448771,capecitabine,L01BC06,Drug Toxicity,0.0,1.0
+PA448771,capecitabine,L01BC06,Diarrhea,0.0,1.0
+PA448771,capecitabine,L01BC06,Vomiting,0.0,1.0
+PA448771,capecitabine,L01BC06,Nausea,0.0,1.0
+PA448771,capecitabine,L01BC06,Asthenia,0.0,1.0
+PA448771,capecitabine,L01BC06,Hyperbilirubinemia,0.0,1.0
+PA448771,capecitabine,L01BC06,,0.0,1.0
+PA448771,capecitabine,L01BC06,Rectal Neoplasms,0.0,1.0
+PA448771,capecitabine,L01BC06,Breast Neoplasms,0.0,1.0
+PA448771,capecitabine,L01BC06,Neoplasm Metastasis,0.0,1.0
+PA448771,capecitabine,L01BC06,Colonic Neoplasms,0.0,1.0
+PA448771,capecitabine,L01BC06,Neoplasms,0.0,1.0
+PA448771,capecitabine,L01BC06,hand-foot syndrome,0.0,1.0
+PA448771,capecitabine,L01BC06,Colorectal Neoplasms,0.0,1.0
+PA448780,captopril,C09AA01;C09BA01,"Diabetes Mellitus, Type 2",0.0,1.0
+PA448780,captopril,C09AA01;C09BA01,Hypertension,0.0,1.0
+PA448780,captopril,C09AA01;C09BA01,Heart Failure,0.0,1.0
+PA448780,captopril,C09AA01;C09BA01,"Pulmonary Disease, Chronic Obstructive",0.0,1.0
+PA448780,captopril,C09AA01;C09BA01,Alzheimer Disease,0.0,1.0
+PA448780,captopril,C09AA01;C09BA01,,0.0,1.0
+PA448785,carbamazepine,N03AF01,"Epidermal Necrolysis, Toxic",0.0,1.0
+PA448785,carbamazepine,N03AF01,Drug Hypersensitivity,0.0,1.0
+PA448785,carbamazepine,N03AF01,Hypersensitivity,0.0,1.0
+PA448785,carbamazepine,N03AF01,Epilepsy,0.0,1.0
+PA448785,carbamazepine,N03AF01,Maculopapular Exanthema,0.0,1.0
+PA448785,carbamazepine,N03AF01,,0.0,1.0
+PA448785,carbamazepine,N03AF01,Stevens-Johnson Syndrome,0.0,1.0
+PA448785,carbamazepine,N03AF01,erythema exudativum multiforme,0.0,1.0
+PA448785,carbamazepine,N03AF01,drug reaction with eosinophilia and systemic symptoms,0.0,1.0
+PA448785,carbamazepine,N03AF01,severe cutaneous adverse reactions,0.0,1.0
+PA448794,carbidopa,,,,
+PA448803,carboplatin,L01XA02,Neoplasms,0.0,1.0
+PA448803,carboplatin,L01XA02,,0.0,1.0
+PA448803,carboplatin,L01XA02,Thrombocytopenia,0.0,1.0
+PA448803,carboplatin,L01XA02,Ovarian Neoplasms,0.0,1.0
+PA448803,carboplatin,L01XA02,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA448803,carboplatin,L01XA02,Neutropenia,0.0,1.0
+PA448803,carboplatin,L01XA02,Leukopenia,0.0,1.0
+PA448803,carboplatin,L01XA02,Breast Neoplasms,0.0,1.0
+PA448803,carboplatin,L01XA02,Uterine Cervical Neoplasms,0.0,1.0
+PA448803,carboplatin,L01XA02,Lung Neoplasms,0.0,1.0
+PA448809,carisoprodol,M03BA02;M03BA52;M03BA72,,0.0,1.0
+PA448817,carvedilol,C07AG02;C07FX06,Heart Failure,0.0,1.0
+PA448817,carvedilol,C07AG02;C07FX06,,0.0,1.0
+PA448817,carvedilol,C07AG02;C07FX06,Angina Pectoris,0.0,1.0
+PA448817,carvedilol,C07AG02;C07FX06,Heart Diseases,0.0,1.0
+PA448852,cefotaxime,J01DD01,,1.0,0.0
+PA448866,ceftriaxone,J01DD04;J01DD54,,1.0,0.0
+PA448866,ceftriaxone,J01DD04;J01DD54,Central Nervous System Infections,1.0,0.0
+PA448871,celecoxib,C08CA51;G01AE10;L01XX33;M01AH01;N02AJ16,Colorectal Neoplasms,0.0,1.0
+PA448871,celecoxib,C08CA51;G01AE10;L01XX33;M01AH01;N02AJ16,,0.0,1.0
+PA448883,cephalexin,J01DB01,,1.0,0.0
+PA448883,cephalexin,J01DB01,adverse events,1.0,0.0
+PA448897,cerivastatin,C10AA06,,0.0,1.0
+PA448897,cerivastatin,C10AA06,Rhabdomyolysis,0.0,1.0
+PA448926,chlorambucil,L01AA02,"Leukemia, Lymphocytic, Chronic, B-Cell",0.0,1.0
+PA448926,chlorambucil,L01AA02,,0.0,1.0
+PA448927,chloramphenicol,D06AX02;D10AF03;G01AA05;J01BA01;S01AA01;S02AA01;S03AA08,Hemolysis,1.0,1.0
+PA448927,chloramphenicol,D06AX02;D10AF03;G01AA05;J01BA01;S01AA01;S02AA01;S03AA08,"Anemia, Hemolytic",1.0,1.0
+PA448927,chloramphenicol,D06AX02;D10AF03;G01AA05;J01BA01;S01AA01;S02AA01;S03AA08,,1.0,1.0
+PA448946,chloroprocaine,N01BA04,,0.0,1.0
+PA448948,chloroquine,P01BA01;P01BB52,"Anemia, Hemolytic",1.0,0.0
+PA448948,chloroquine,P01BA01;P01BB52,,1.0,0.0
+PA448953,chlorothiazide,C03AA04;C03AB04;C03AH01;G01AE10,Hypertension,0.0,1.0
+PA448953,chlorothiazide,C03AA04;C03AB04;C03AH01;G01AE10,Hyperglycemia,0.0,1.0
+PA448953,chlorothiazide,C03AA04;C03AB04;C03AH01;G01AE10,,0.0,1.0
+PA448964,chlorpromazine,N05AA01,,0.0,1.0
+PA448964,chlorpromazine,N05AA01,Schizophrenia,0.0,1.0
+PA448966,chlorpropamide,A10BB02;G01AE10,,0.0,1.0
+PA448970,chlorthalidone,C03BA04;C03BB04;C03EA06;G01AE10,Cardiovascular Diseases,0.0,1.0
+PA448970,chlorthalidone,C03BA04;C03BB04;C03EA06;G01AE10,,0.0,1.0
+PA448970,chlorthalidone,C03BA04;C03BB04;C03EA06;G01AE10,Stroke,0.0,1.0
+PA448970,chlorthalidone,C03BA04;C03BB04;C03EA06;G01AE10,Hypertension,0.0,1.0
+PA448970,chlorthalidone,C03BA04;C03BB04;C03EA06;G01AE10,Coronary Disease,0.0,1.0
+PA448997,cidofovir,J05AB12,,1.0,0.0
+PA449001,cimetidine,A02BA01;A02BA51,,0.0,1.0
+PA449009,ciprofloxacin,J01MA02;J01RA10;J01RA11;J01RA12;S01AE03;S02AA15;S03AA07,,1.0,1.0
+PA449009,ciprofloxacin,J01MA02;J01RA10;J01RA11;J01RA12;S01AE03;S02AA15;S03AA07,"Anemia, Hemolytic",1.0,1.0
+PA449014,cisplatin,L01XA01,febrile neutropenia,0.0,1.0
+PA449014,cisplatin,L01XA01,Testicular Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,nephrotoxicity,0.0,1.0
+PA449014,cisplatin,L01XA01,Ototoxicity,0.0,1.0
+PA449014,cisplatin,L01XA01,Brain Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,Drug Toxicity,0.0,1.0
+PA449014,cisplatin,L01XA01,cardiotoxicity,0.0,1.0
+PA449014,cisplatin,L01XA01,Medulloblastoma,0.0,1.0
+PA449014,cisplatin,L01XA01,progression-free survival,0.0,1.0
+PA449014,cisplatin,L01XA01,Leukopenia,0.0,1.0
+PA449014,cisplatin,L01XA01,Lung Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,,0.0,1.0
+PA449014,cisplatin,L01XA01,Vomiting,0.0,1.0
+PA449014,cisplatin,L01XA01,Urinary Bladder Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,Infection,0.0,1.0
+PA449014,cisplatin,L01XA01,Uterine Cervical Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,Mesothelioma,0.0,1.0
+PA449014,cisplatin,L01XA01,Liver Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,Osteosarcoma,0.0,1.0
+PA449014,cisplatin,L01XA01,Deafness,0.0,1.0
+PA449014,cisplatin,L01XA01,Neutropenia,0.0,1.0
+PA449014,cisplatin,L01XA01,Thrombocytopenia,0.0,1.0
+PA449014,cisplatin,L01XA01,Esophageal Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,mucositis,0.0,1.0
+PA449014,cisplatin,L01XA01,Pancreatic Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,Colorectal Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,Ovarian Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,Alopecia,0.0,1.0
+PA449014,cisplatin,L01XA01,Anemia,0.0,1.0
+PA449014,cisplatin,L01XA01,overall survival,0.0,1.0
+PA449014,cisplatin,L01XA01,Stomach Neoplasms,0.0,1.0
+PA449014,cisplatin,L01XA01,Nausea,0.0,1.0
+PA449014,cisplatin,L01XA01,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA449014,cisplatin,L01XA01,"Carcinoma, Hepatocellular",0.0,1.0
+PA449014,cisplatin,L01XA01,"Carcinoma, Small Cell",0.0,1.0
+PA449014,cisplatin,L01XA01,"Carcinoma, Squamous Cell",0.0,1.0
+PA449014,cisplatin,L01XA01,Pain,0.0,1.0
+PA449014,cisplatin,L01XA01,Gastrointestinal Neoplasms,0.0,1.0
+PA449015,citalopram,N06AB04,suicide,0.0,1.0
+PA449015,citalopram,N06AB04,Depressive Disorder,0.0,1.0
+PA449015,citalopram,N06AB04,Vomiting,0.0,1.0
+PA449015,citalopram,N06AB04,"Sexual Dysfunctions, Psychological",0.0,1.0
+PA449015,citalopram,N06AB04,Anxiety Disorders,0.0,1.0
+PA449015,citalopram,N06AB04,"Depressive Disorder, Major",0.0,1.0
+PA449015,citalopram,N06AB04,Depression,0.0,1.0
+PA449015,citalopram,N06AB04,Nausea,0.0,1.0
+PA449015,citalopram,N06AB04,,0.0,1.0
+PA449015,citalopram,N06AB04,Obsessive-Compulsive Disorder,0.0,1.0
+PA449027,cladribine,L01BB04;L04AA40,,0.0,1.0
+PA449027,cladribine,L01BB04;L04AA40,"Leukemia, Myeloid, Acute",0.0,1.0
+PA449028,clarithromycin,A02BD04;A02BD05;A02BD06;A02BD07;A02BD09;A02BD11;A02BD12;A02BD14;J01FA09,,1.0,1.0
+PA449035,clindamycin,D10AF01;D10AF51;G01AA10;J01FF01,,1.0,1.0
+PA449048,clomipramine,N06AA04,,0.0,1.0
+PA449048,clomipramine,N06AA04,Depression,0.0,1.0
+PA449048,clomipramine,N06AA04,"Depressive Disorder, Major",0.0,1.0
+PA449048,clomipramine,N06AA04,Mental Disorders,0.0,1.0
+PA449050,clonazepam,N03AE01,,0.0,1.0
+PA449051,clonidine,C02AC01;C02LC01;C02LC51;N02CX02;S01EA04,,0.0,1.0
+PA449051,clonidine,C02AC01;C02LC01;C02LC51;N02CX02;S01EA04,Liver Cirrhosis,0.0,1.0
+PA449053,clopidogrel,B01AC04,Angina Pectoris,0.0,1.0
+PA449053,clopidogrel,B01AC04,Stroke,0.0,1.0
+PA449053,clopidogrel,B01AC04,,0.0,1.0
+PA449053,clopidogrel,B01AC04,"Ischemic Attack, Transient",0.0,1.0
+PA449053,clopidogrel,B01AC04,"Constriction, Pathologic",0.0,1.0
+PA449053,clopidogrel,B01AC04,Myocardial Ischemia,0.0,1.0
+PA449053,clopidogrel,B01AC04,Hemorrhage,0.0,1.0
+PA449053,clopidogrel,B01AC04,major adverse cardiac events (mace),0.0,1.0
+PA449053,clopidogrel,B01AC04,Thrombosis,0.0,1.0
+PA449053,clopidogrel,B01AC04,Myocardial Infarction,0.0,1.0
+PA449053,clopidogrel,B01AC04,Cardiovascular Diseases,0.0,1.0
+PA449053,clopidogrel,B01AC04,Acute coronary syndrome,0.0,1.0
+PA449053,clopidogrel,B01AC04,"Diabetes Mellitus, Type 2",0.0,1.0
+PA449053,clopidogrel,B01AC04,platelet reactivity,0.0,1.0
+PA449053,clopidogrel,B01AC04,Coronary Artery Disease,0.0,1.0
+PA449053,clopidogrel,B01AC04,Coronary Disease,0.0,1.0
+PA449061,clozapine,N05AH02,Schizophrenia,0.0,1.0
+PA449061,clozapine,N05AH02,Psychotic Disorders,0.0,1.0
+PA449061,clozapine,N05AH02,Bipolar Disorder,0.0,1.0
+PA449061,clozapine,N05AH02,Tachycardia,0.0,1.0
+PA449061,clozapine,N05AH02,Seizures,0.0,1.0
+PA449061,clozapine,N05AH02,Headache,0.0,1.0
+PA449061,clozapine,N05AH02,Muscle Rigidity,0.0,1.0
+PA449061,clozapine,N05AH02,Drug Toxicity,0.0,1.0
+PA449061,clozapine,N05AH02,Confusion,0.0,1.0
+PA449061,clozapine,N05AH02,,0.0,1.0
+PA449061,clozapine,N05AH02,Depressive Disorder,0.0,1.0
+PA449061,clozapine,N05AH02,Mental Disorders,0.0,1.0
+PA449061,clozapine,N05AH02,sedation,0.0,1.0
+PA449061,clozapine,N05AH02,Metabolic Syndrome,0.0,1.0
+PA449061,clozapine,N05AH02,Weight gain,0.0,1.0
+PA449061,clozapine,N05AH02,schizoaffective disorder,0.0,1.0
+PA449061,clozapine,N05AH02,Neutropenia,0.0,1.0
+PA449061,clozapine,N05AH02,Autism Spectrum Disorder,0.0,1.0
+PA449061,clozapine,N05AH02,Agranulocytosis,0.0,1.0
+PA449072,cocaine,N01BC01;R02AD03;S01HA01;S02DA02,Cocaine-Related Disorders,0.0,1.0
+PA449072,cocaine,N01BC01;R02AD03;S01HA01;S02DA02,Heroin Dependence,0.0,1.0
+PA449072,cocaine,N01BC01;R02AD03;S01HA01;S02DA02,,0.0,1.0
+PA449072,cocaine,N01BC01;R02AD03;S01HA01;S02DA02,Substance-Related Disorders,0.0,1.0
+PA449088,codeine,N02AA59;N02AA79;N02AJ06;N02AJ07;N02AJ08;R05DA04,Pain,0.0,1.0
+PA449088,codeine,N02AA59;N02AA79;N02AJ06;N02AJ07;N02AJ08;R05DA04,,0.0,1.0
+PA449088,codeine,N02AA59;N02AA79;N02AJ06;N02AJ07;N02AJ08;R05DA04,Opioid-Related Disorders,0.0,1.0
+PA449088,codeine,N02AA59;N02AA79;N02AJ06;N02AJ07;N02AJ08;R05DA04,adverse events,0.0,1.0
+PA449095,colesevelam,C10AC04,,0.0,1.0
+PA449130,cortisone acetate,,,,
+PA449165,cyclophosphamide,L01AA01,,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Lupus Nephritis,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,"Lymphoma, Large B-Cell, Diffuse",0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Neoplasms,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Stomach Neoplasms,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Hepatic Veno-Occlusive Disease,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Osteosarcoma,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Ovarian Neoplasms,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Cystitis,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,"Leukemia, Lymphocytic, Chronic, B-Cell",0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Lupus erythematosus,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,"Lymphoma, Non-Hodgkin",0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Anemia,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Leukopenia,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Neutropenia,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Drug Toxicity,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Prostatic Neoplasms,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Osteonecrosis,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,hemopoietic stem cell transplant,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Transplantation,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Breast Neoplasms,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,"Lymphoma, B-Cell",0.0,1.0
+PA449165,cyclophosphamide,L01AA01,Multiple Myeloma,0.0,1.0
+PA449165,cyclophosphamide,L01AA01,"Lupus Erythematosus, Systemic",0.0,1.0
+PA449167,cyclosporine,L04AD01;S01XA18,Organ Transplantation,0.0,1.0
+PA449167,cyclosporine,L04AD01;S01XA18,transplant rejection,0.0,1.0
+PA449167,cyclosporine,L04AD01;S01XA18,Transplantation,0.0,1.0
+PA449167,cyclosporine,L04AD01;S01XA18,Myasthenia Gravis,0.0,1.0
+PA449167,cyclosporine,L04AD01;S01XA18,hematopoietic stem cell transplantation,0.0,1.0
+PA449167,cyclosporine,L04AD01;S01XA18,Cystic Fibrosis,0.0,1.0
+PA449167,cyclosporine,L04AD01;S01XA18,Neurotoxicity Syndromes,0.0,1.0
+PA449167,cyclosporine,L04AD01;S01XA18,"Colitis, Ulcerative",0.0,1.0
+PA449167,cyclosporine,L04AD01;S01XA18,Kidney Transplantation,0.0,1.0
+PA449167,cyclosporine,L04AD01;S01XA18,liver transplantation,0.0,1.0
+PA449167,cyclosporine,L04AD01;S01XA18,,0.0,1.0
+PA449171,cysteamine,A16AA04;S01XA21,Cystic Fibrosis,0.0,1.0
+PA449171,cysteamine,A16AA04;S01XA21,,0.0,1.0
+PA449177,cytarabine,L01BC01;L01XY01,Lymphoma,0.0,1.0
+PA449177,cytarabine,L01BC01;L01XY01,,0.0,1.0
+PA449177,cytarabine,L01BC01;L01XY01,Neoplasms,0.0,1.0
+PA449177,cytarabine,L01BC01;L01XY01,Leukemia,0.0,1.0
+PA449177,cytarabine,L01BC01;L01XY01,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA449177,cytarabine,L01BC01;L01XY01,Osteonecrosis,0.0,1.0
+PA449177,cytarabine,L01BC01;L01XY01,"Leukemia, Myeloid",0.0,1.0
+PA449177,cytarabine,L01BC01;L01XY01,"Leukemia, Myeloid, Acute",0.0,1.0
+PA449197,dacarbazine,L01AX04,,0.0,1.0
+PA449211,dapsone,D10AX05;J04BA02;J04BA50;J04BA51,Malaria,1.0,1.0
+PA449211,dapsone,D10AX05;J04BA02;J04BA50;J04BA51,Drug Hypersensitivity,1.0,1.0
+PA449211,dapsone,D10AX05;J04BA02;J04BA50;J04BA51,Maculopapular Exanthema,1.0,1.0
+PA449211,dapsone,D10AX05;J04BA02;J04BA50;J04BA51,Leprosy,1.0,1.0
+PA449211,dapsone,D10AX05;J04BA02;J04BA50;J04BA51,,1.0,1.0
+PA449211,dapsone,D10AX05;J04BA02;J04BA50;J04BA51,Stevens-Johnson Syndrome,1.0,1.0
+PA449211,dapsone,D10AX05;J04BA02;J04BA50;J04BA51,severe cutaneous adverse reactions,1.0,1.0
+PA449211,dapsone,D10AX05;J04BA02;J04BA50;J04BA51,drug reaction with eosinophilia and systemic symptoms,1.0,1.0
+PA449212,daunorubicin,L01DB02;L01XY01,"Leukemia, Myeloid, Acute",0.0,1.0
+PA449212,daunorubicin,L01DB02;L01XY01,Osteonecrosis,0.0,1.0
+PA449212,daunorubicin,L01DB02;L01XY01,,0.0,1.0
+PA449212,daunorubicin,L01DB02;L01XY01,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA449212,daunorubicin,L01DB02;L01XY01,Drug Toxicity,0.0,1.0
+PA449233,desipramine,N06AA01,Depression,0.0,1.0
+PA449233,desipramine,N06AA01,"Depressive Disorder, Major",0.0,1.0
+PA449233,desipramine,N06AA01,Mental Disorders,0.0,1.0
+PA449233,desipramine,N06AA01,Depressive Disorder,0.0,1.0
+PA449233,desipramine,N06AA01,,0.0,1.0
+PA449247,dexamethasone,A01AC02;C05AA09;D07AB19;D07CB04;D07XB05;D10AA03;H02AB02;R01AD03;R01AD53;S01BA01;S01CA01;S01CB01;S02BA06;S02CA06;S03BA01;S03CA01,,0.0,1.0
+PA449247,dexamethasone,A01AC02;C05AA09;D07AB19;D07CB04;D07XB05;D10AA03;H02AB02;R01AD03;R01AD53;S01BA01;S01CA01;S01CB01;S02BA06;S02CA06;S03BA01;S03CA01,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA449247,dexamethasone,A01AC02;C05AA09;D07AB19;D07CB04;D07XB05;D10AA03;H02AB02;R01AD03;R01AD53;S01BA01;S01CA01;S01CB01;S02BA06;S02CA06;S03BA01;S03CA01,Multiple Myeloma,0.0,1.0
+PA449247,dexamethasone,A01AC02;C05AA09;D07AB19;D07CB04;D07XB05;D10AA03;H02AB02;R01AD03;R01AD53;S01BA01;S01CA01;S01CB01;S02BA06;S02CA06;S03BA01;S03CA01,progression-free survival,0.0,1.0
+PA449247,dexamethasone,A01AC02;C05AA09;D07AB19;D07CB04;D07XB05;D10AA03;H02AB02;R01AD03;R01AD53;S01BA01;S01CA01;S01CB01;S02BA06;S02CA06;S03BA01;S03CA01,Osteonecrosis,0.0,1.0
+PA449256,dexmedetomidine,N05CM18,,0.0,1.0
+PA449256,dexmedetomidine,N05CM18,"Pain, Postoperative",0.0,1.0
+PA449259,dexrazoxane,V03AF02,"Leukemia, Myeloid, Acute",0.0,1.0
+PA449269,dextroamphetamine,N06BA02,,0.0,1.0
+PA449269,dextroamphetamine,N06BA02,Attention Deficit Disorder with Hyperactivity,0.0,1.0
+PA449273,dextromethorphan,N07XX59;R05DA09,,0.0,1.0
+PA449283,diazepam,N05BA01,,0.0,1.0
+PA449293,diclofenac,D11AX18;M01AB05;M01AB55;M02AA15;S01BC03;S01CC01,,0.0,1.0
+PA449301,didanosine,J05AF02,HIV Infections,1.0,0.0
+PA449301,didanosine,J05AF02,,1.0,0.0
+PA449319,digoxin,C01AA05,,0.0,1.0
+PA449319,digoxin,C01AA05,Heart Failure,0.0,1.0
+PA449319,digoxin,C01AA05,Shortened QT interval,0.0,1.0
+PA449334,diltiazem,C05AE03;C08DB01,Hypertension,0.0,1.0
+PA449334,diltiazem,C05AE03;C08DB01,,0.0,1.0
+PA449373,disopyramide,C01BA03,short qt syndrome 1,0.0,1.0
+PA449376,disulfiram,N07BB01;P03AA04;P03AA54,,1.0,1.0
+PA449376,disulfiram,N07BB01;P03AA04;P03AA54,Cocaine-Related Disorders,1.0,1.0
+PA449381,dobutamine,C01CA07,,0.0,1.0
+PA449383,docetaxel,L01CD02,,0.0,1.0
+PA449383,docetaxel,L01CD02,Neutropenia,0.0,1.0
+PA449383,docetaxel,L01CD02,Amenorrhea,0.0,1.0
+PA449383,docetaxel,L01CD02,Nasopharyngeal Neoplasms,0.0,1.0
+PA449383,docetaxel,L01CD02,Anemia,0.0,1.0
+PA449383,docetaxel,L01CD02,Neoplasms,0.0,1.0
+PA449383,docetaxel,L01CD02,Breast Neoplasms,0.0,1.0
+PA449383,docetaxel,L01CD02,Ovarian Neoplasms,0.0,1.0
+PA449383,docetaxel,L01CD02,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA449383,docetaxel,L01CD02,Prostatic Neoplasms,0.0,1.0
+PA449390,dolasetron,A04AA04,Postoperative Nausea and Vomiting,0.0,1.0
+PA449390,dolasetron,A04AA04,,0.0,1.0
+PA449394,donepezil,N06DA02;N06DA52;N06DA53,cognitive dysfunction,0.0,1.0
+PA449394,donepezil,N06DA02;N06DA52;N06DA53,Alzheimer Disease,0.0,1.0
+PA449394,donepezil,N06DA02;N06DA52;N06DA53,,0.0,1.0
+PA449407,doxazosin,C02CA04;G04CA55,,0.0,1.0
+PA449409,doxepin,D04AX01;N06AA12,,0.0,1.0
+PA449412,doxorubicin,L01DB01,,0.0,1.0
+PA449412,doxorubicin,L01DB01,Anemia,0.0,1.0
+PA449412,doxorubicin,L01DB01,"Lymphoma, Large B-Cell, Diffuse",0.0,1.0
+PA449412,doxorubicin,L01DB01,mucositis,0.0,1.0
+PA449412,doxorubicin,L01DB01,nephrotoxicity,0.0,1.0
+PA449412,doxorubicin,L01DB01,Sarcoma,0.0,1.0
+PA449412,doxorubicin,L01DB01,cardiotoxicity,0.0,1.0
+PA449412,doxorubicin,L01DB01,Ovarian Neoplasms,0.0,1.0
+PA449412,doxorubicin,L01DB01,"Arrhythmias, Cardiac",0.0,1.0
+PA449412,doxorubicin,L01DB01,Breast Neoplasms,0.0,1.0
+PA449412,doxorubicin,L01DB01,"Lymphoma, Non-Hodgkin",0.0,1.0
+PA449412,doxorubicin,L01DB01,Neutropenia,0.0,1.0
+PA449412,doxorubicin,L01DB01,Multiple Myeloma,0.0,1.0
+PA449412,doxorubicin,L01DB01,Neoplasms,0.0,1.0
+PA449412,doxorubicin,L01DB01,Osteosarcoma,0.0,1.0
+PA449412,doxorubicin,L01DB01,Drug Toxicity,0.0,1.0
+PA449412,doxorubicin,L01DB01,Stomach Neoplasms,0.0,1.0
+PA449412,doxorubicin,L01DB01,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA449412,doxorubicin,L01DB01,Osteonecrosis,0.0,1.0
+PA449412,doxorubicin,L01DB01,Leukopenia,0.0,1.0
+PA449421,dronabinol,A04AD10,,0.0,1.0
+PA449441,efavirenz,J05AG03;J05AR06;J05AR11,,1.0,0.0
+PA449441,efavirenz,J05AG03;J05AR06;J05AR11,HIV Infections,1.0,0.0
+PA449441,efavirenz,J05AG03;J05AR06;J05AR11,Tuberculosis,1.0,0.0
+PA449456,enalapril,C09AA02;C09BA02;C09BB02;C09BB06,"Glomerulonephritis, IGA",0.0,1.0
+PA449456,enalapril,C09AA02;C09BA02;C09BB02;C09BB06,Arteriosclerosis,0.0,1.0
+PA449456,enalapril,C09AA02;C09BA02;C09BB02;C09BB06,,0.0,1.0
+PA449456,enalapril,C09AA02;C09BA02;C09BB02;C09BB06,Hypertension,0.0,1.0
+PA449456,enalapril,C09AA02;C09BA02;C09BB02;C09BB06,glomerular disease,0.0,1.0
+PA449456,enalapril,C09AA02;C09BA02;C09BB02;C09BB06,Essential hypertension,0.0,1.0
+PA449456,enalapril,C09AA02;C09BA02;C09BB02;C09BB06,Cough,0.0,1.0
+PA449456,enalapril,C09AA02;C09BA02;C09BB02;C09BB06,Kidney Diseases,0.0,1.0
+PA449456,enalapril,C09AA02;C09BA02;C09BB02;C09BB06,"Hypertrophy, Left Ventricular",0.0,1.0
+PA449456,enalapril,C09AA02;C09BA02;C09BB02;C09BB06,Coronary Disease,0.0,1.0
+PA449461,enflurane,N01AB04,Malignant Hyperthermia,0.0,1.0
+PA449461,enflurane,N01AB04,,0.0,1.0
+PA449466,ephedrine,A08AA56;C01CA26;R01AA03;R01AB05;R03CA02;S01FB02,,0.0,1.0
+PA449470,epinephrine,A01AD01;B02BC09;C01CA24;R01AA14;R03AA01;R03AK01;S01EA01;S01EA51,,0.0,1.0
+PA449476,epirubicin,L01DB03,Ovarian Neoplasms,0.0,1.0
+PA449476,epirubicin,L01DB03,Neoplasm Metastasis,0.0,1.0
+PA449476,epirubicin,L01DB03,Leukopenia,0.0,1.0
+PA449476,epirubicin,L01DB03,Stomach Neoplasms,0.0,1.0
+PA449476,epirubicin,L01DB03,,0.0,1.0
+PA449476,epirubicin,L01DB03,Drug Toxicity,0.0,1.0
+PA449476,epirubicin,L01DB03,Neoplasms,0.0,1.0
+PA449476,epirubicin,L01DB03,Neutropenia,0.0,1.0
+PA449476,epirubicin,L01DB03,Breast Neoplasms,0.0,1.0
+PA449476,epirubicin,L01DB03,Colorectal Neoplasms,0.0,1.0
+PA449479,prostaglandin I2,B01AC09,,0.0,1.0
+PA449493,erythromycin,D10AF02;D10AF52;J01FA01;S01AA17,,1.0,1.0
+PA449493,erythromycin,D10AF02;D10AF52;J01FA01;S01AA17,Neoplasms,1.0,1.0
+PA449503,estradiol,G02BB01;G03AA14;G03AA17;G03AB08;G03CA03;G03CA53;G03EA01;G03EA02;G03EA03;G03FA01;G03FA02;G03FA03;G03FA04;G03FA05;G03FA06;G03FA07;G03FA08;G03FA09;G03FA10;G03FA11;G03FA12;G03FA13;G03FA14;G03FA15;G03FA16;G03FA17;G03FB01;G03FB02;G03FB03;G03FB04;G03FB05;G03FB06;G03FB07;G03FB08;G03FB09;G03FB10;G03FB11;G03FB12;G03HB01;H01CC53;H01CC54,,0.0,1.0
+PA449512,estrone,G03CA07;G03CC04,,0.0,1.0
+PA449515,etanercept,L04AB01,"Arthritis, Rheumatoid",0.0,1.0
+PA449515,etanercept,L04AB01,,0.0,1.0
+PA449515,etanercept,L04AB01,"Spondylitis, Ankylosing",0.0,1.0
+PA449515,etanercept,L04AB01,Crohn Disease,0.0,1.0
+PA449515,etanercept,L04AB01,Inflammation,0.0,1.0
+PA449515,etanercept,L04AB01,"Arthritis, Psoriatic",0.0,1.0
+PA449515,etanercept,L04AB01,Psoriasis,0.0,1.0
+PA449533,ethosuximide,N03AD01;N03AD51,Epilepsy,0.0,1.0
+PA449533,ethosuximide,N03AD01;N03AD51,,0.0,1.0
+PA449548,etidronic acid,M05BA01;M05BB01,,0.0,1.0
+PA449548,etidronic acid,M05BA01;M05BB01,Osteitis Deformans,0.0,1.0
+PA449552,etoposide,L01CB01,Leukopenia,0.0,1.0
+PA449552,etoposide,L01CB01,Alopecia,0.0,1.0
+PA449552,etoposide,L01CB01,Pain,0.0,1.0
+PA449552,etoposide,L01CB01,Testicular Neoplasms,0.0,1.0
+PA449552,etoposide,L01CB01,Anemia,0.0,1.0
+PA449552,etoposide,L01CB01,Vomiting,0.0,1.0
+PA449552,etoposide,L01CB01,febrile neutropenia,0.0,1.0
+PA449552,etoposide,L01CB01,Nausea,0.0,1.0
+PA449552,etoposide,L01CB01,,0.0,1.0
+PA449552,etoposide,L01CB01,"Leukemia, Myeloid, Acute",0.0,1.0
+PA449552,etoposide,L01CB01,Infection,0.0,1.0
+PA449552,etoposide,L01CB01,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA449563,exemestane,L02BG06,,0.0,1.0
+PA449563,exemestane,L02BG06,Breast Neoplasms,0.0,1.0
+PA449586,famotidine,A02BA03;A02BA53,,0.0,1.0
+PA449591,felodipine,C07FB02;C08CA02;C09BB05,,0.0,1.0
+PA449594,fenofibrate,C10AB05;C10BA03;C10BA04;C10BA09;C10BA12,,0.0,1.0
+PA449594,fenofibrate,C10AB05;C10BA03;C10BA04;C10BA09;C10BA12,Hypertriglyceridemia,0.0,1.0
+PA449594,fenofibrate,C10AB05;C10BA03;C10BA04;C10BA09;C10BA12,Metabolic Syndrome,0.0,1.0
+PA449594,fenofibrate,C10AB05;C10BA03;C10BA04;C10BA09;C10BA12,Diabetes Mellitus,0.0,1.0
+PA449594,fenofibrate,C10AB05;C10BA03;C10BA04;C10BA09;C10BA12,Cardiovascular Diseases,0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,"Sexual Dysfunctions, Psychological",0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,Nausea,0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,Neoplasms,0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,"Pain, Postoperative",0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,Pain,0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,Respiratory Insufficiency,0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,Opioid-Related Disorders,0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,Exanthema,0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,adverse events,0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,Vomiting,0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,,0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,Hypotension,0.0,1.0
+PA449599,fentanyl,N01AH01;N01AH51;N02AB03,somnolence,0.0,1.0
+PA449621,fexofenadine,R06AX26,,0.0,1.0
+PA449627,finasteride,D11AX10;G04CA51;G04CA55;G04CB01;G04CB51,,0.0,1.0
+PA449646,flecainide,C01BC04,,0.0,1.0
+PA449646,flecainide,C01BC04,Myotonic Disorders,0.0,1.0
+PA449646,flecainide,C01BC04,"Arrhythmias, Cardiac",0.0,1.0
+PA449646,flecainide,C01BC04,Myotonia,0.0,1.0
+PA449653,fluconazole,D01AC15;J01RA07;J02AC01,,1.0,1.0
+PA449654,flucytosine,D01AE21;J02AX01,,1.0,1.0
+PA449655,fludarabine,L01BB05,,0.0,1.0
+PA449655,fludarabine,L01BB05,"Leukemia, Myeloid, Acute",0.0,1.0
+PA449655,fludarabine,L01BB05,"Leukemia, Lymphocytic, Chronic, B-Cell",0.0,1.0
+PA449661,flunisolide,R01AD04;R03BA03,Asthma,0.0,1.0
+PA449661,flunisolide,R01AD04;R03BA03,,0.0,1.0
+PA449673,fluoxetine,N06AB03;N06CA03,"Depressive Disorder, Major",0.0,1.0
+PA449673,fluoxetine,N06AB03;N06CA03,Mental Disorders,0.0,1.0
+PA449673,fluoxetine,N06AB03;N06CA03,,0.0,1.0
+PA449673,fluoxetine,N06AB03;N06CA03,Depression,0.0,1.0
+PA449673,fluoxetine,N06AB03;N06CA03,Anxiety Disorders,0.0,1.0
+PA449673,fluoxetine,N06AB03;N06CA03,Depressive Disorder,0.0,1.0
+PA449673,fluoxetine,N06AB03;N06CA03,Mood Disorders,0.0,1.0
+PA449676,fluphenazine,N05AB02,,0.0,1.0
+PA449676,fluphenazine,N05AB02,Schizophrenia,0.0,1.0
+PA449683,flurbiprofen,M01AE09;M02AA19;R02AX01;S01BC04,,0.0,1.0
+PA449685,flutamide,L02BB01,,0.0,1.0
+PA449686,fluticasone propionate,,Asthma,,
+PA449686,fluticasone propionate,,,,
+PA449688,fluvastatin,C10AA04,Hypercholesterolemia,0.0,1.0
+PA449688,fluvastatin,C10AA04,Coronary Artery Disease,0.0,1.0
+PA449688,fluvastatin,C10AA04,,0.0,1.0
+PA449688,fluvastatin,C10AA04,statin-related myopathy,0.0,1.0
+PA449690,fluvoxamine,N06AB08,"Depressive Disorder, Major",0.0,1.0
+PA449690,fluvoxamine,N06AB08,Depressive Disorder,0.0,1.0
+PA449690,fluvoxamine,N06AB08,Depression,0.0,1.0
+PA449690,fluvoxamine,N06AB08,,0.0,1.0
+PA449692,folic acid,B03AD01;B03AD02;B03AD03;B03AD04;B03AD05;B03AE01;B03AE02;B03BB01;B03BB51;V04CX02,Neoplasms,0.0,1.0
+PA449692,folic acid,B03AD01;B03AD02;B03AD03;B03AD04;B03AD05;B03AE01;B03AE02;B03BB01;B03BB51;V04CX02,Migraine with Aura,0.0,1.0
+PA449692,folic acid,B03AD01;B03AD02;B03AD03;B03AD04;B03AD05;B03AE01;B03AE02;B03BB01;B03BB51;V04CX02,"Arthritis, Rheumatoid",0.0,1.0
+PA449692,folic acid,B03AD01;B03AD02;B03AD03;B03AD04;B03AD05;B03AE01;B03AE02;B03BB01;B03BB51;V04CX02,,0.0,1.0
+PA449693,follitropin beta,G03GA05;G03GA06;G03GA10,Ovarian hyperstimulation syndrome,0.0,1.0
+PA449693,follitropin beta,G03GA05;G03GA06;G03GA10,"Infertility, Female",0.0,1.0
+PA449693,follitropin beta,G03GA05;G03GA06;G03GA10,,0.0,1.0
+PA449719,furosemide,C03CA01;C03CB01;C03EB01;G01AE10,,0.0,1.0
+PA449719,furosemide,C03CA01;C03CB01;C03EB01;G01AE10,Heart Failure,0.0,1.0
+PA449719,furosemide,C03CA01;C03CB01;C03EB01;G01AE10,Liver Cirrhosis,0.0,1.0
+PA449720,gabapentin,N02BF01,,0.0,1.0
+PA449720,gabapentin,N02BF01,adverse events,0.0,1.0
+PA449720,gabapentin,N02BF01,neuropathic pain,0.0,1.0
+PA449726,galantamine,N06DA04,Dementia,0.0,1.0
+PA449726,galantamine,N06DA04,Alzheimer Disease,0.0,1.0
+PA449726,galantamine,N06DA04,,0.0,1.0
+PA449748,gemcitabine,L01BC05,,0.0,1.0
+PA449748,gemcitabine,L01BC05,Amenorrhea,0.0,1.0
+PA449748,gemcitabine,L01BC05,Mesothelioma,0.0,1.0
+PA449748,gemcitabine,L01BC05,Neutropenia,0.0,1.0
+PA449748,gemcitabine,L01BC05,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA449748,gemcitabine,L01BC05,Thrombocytopenia,0.0,1.0
+PA449748,gemcitabine,L01BC05,Nausea,0.0,1.0
+PA449748,gemcitabine,L01BC05,Breast Neoplasms,0.0,1.0
+PA449748,gemcitabine,L01BC05,Neoplasms,0.0,1.0
+PA449748,gemcitabine,L01BC05,Pancreatic Neoplasms,0.0,1.0
+PA449748,gemcitabine,L01BC05,Leukopenia,0.0,1.0
+PA449750,gemfibrozil,C10AB04,,0.0,1.0
+PA449753,gentamicin,D06AX07;J01GB03;S01AA11;S02AA14;S03AA06,,1.0,1.0
+PA449753,gentamicin,D06AX07;J01GB03;S01AA11;S02AA14;S03AA06,Ototoxicity,1.0,1.0
+PA449760,glatiramer acetate,L03AX13,,0.0,1.0
+PA449761,glimepiride,A10BB12;A10BD04;A10BD06,,0.0,1.0
+PA449761,glimepiride,A10BB12;A10BD04;A10BD06,"Diabetes Mellitus, Type 2",0.0,1.0
+PA449761,glimepiride,A10BB12;A10BD04;A10BD06,Hypoglycemia,0.0,1.0
+PA449762,glipizide,A10BB07,Hypoglycemia,0.0,1.0
+PA449762,glipizide,A10BB07,"Diabetes Mellitus, Type 2",0.0,1.0
+PA449762,glipizide,A10BB07,,0.0,1.0
+PA449773,glucose,,,,
+PA449782,glyburide,A10BB01,,0.0,1.0
+PA449782,glyburide,A10BB01,"Anemia, Hemolytic",0.0,1.0
+PA449782,glyburide,A10BB01,Hypoglycemia,0.0,1.0
+PA449782,glyburide,A10BB01,"Diabetes Mellitus, Type 2",0.0,1.0
+PA449809,granisetron,A04AA02,Nausea,0.0,1.0
+PA449809,granisetron,A04AA02,Neoplasms,0.0,1.0
+PA449809,granisetron,A04AA02,Vomiting,0.0,1.0
+PA449809,granisetron,A04AA02,,0.0,1.0
+PA449809,granisetron,A04AA02,Postoperative Nausea and Vomiting,0.0,1.0
+PA449841,haloperidol,N05AD01,Psychotic Disorders,0.0,1.0
+PA449841,haloperidol,N05AD01,Weight gain,0.0,1.0
+PA449841,haloperidol,N05AD01,,0.0,1.0
+PA449841,haloperidol,N05AD01,Hypertriglyceridemia,0.0,1.0
+PA449841,haloperidol,N05AD01,Schizophrenia,0.0,1.0
+PA449841,haloperidol,N05AD01,schizoaffective disorder,0.0,1.0
+PA449841,haloperidol,N05AD01,Autism Spectrum Disorder,0.0,1.0
+PA449845,halothane,N01AB01,,0.0,1.0
+PA449845,halothane,N01AB01,Malignant Hyperthermia,0.0,1.0
+PA449855,heparin,B01AB01;B01AB51;C05BA03;C05BA53;S01XA14,heparin-induced thrombocytopenia,0.0,1.0
+PA449855,heparin,B01AB01;B01AB51;C05BA03;C05BA53;S01XA14,,0.0,1.0
+PA449894,hydralazine,C02DB02;C02LG02,Hypertension,0.0,1.0
+PA449894,hydralazine,C02DB02;C02LG02,,0.0,1.0
+PA449899,hydrochlorothiazide,C03AA03;C03AB03;C03AX01;C03EA01;C09BX03;C09DX01;C09DX03;C09DX06;C09DX07;C09DX08;C09XA52;C09XA54;G01AE10,Essential hypertension,0.0,1.0
+PA449899,hydrochlorothiazide,C03AA03;C03AB03;C03AX01;C03EA01;C09BX03;C09DX01;C09DX03;C09DX06;C09DX07;C09DX08;C09XA52;C09XA54;G01AE10,Diabetes Mellitus,0.0,1.0
+PA449899,hydrochlorothiazide,C03AA03;C03AB03;C03AX01;C03EA01;C09BX03;C09DX01;C09DX03;C09DX06;C09DX07;C09DX08;C09XA52;C09XA54;G01AE10,Hyperglycemia,0.0,1.0
+PA449899,hydrochlorothiazide,C03AA03;C03AB03;C03AX01;C03EA01;C09BX03;C09DX01;C09DX03;C09DX06;C09DX07;C09DX08;C09XA52;C09XA54;G01AE10,,0.0,1.0
+PA449899,hydrochlorothiazide,C03AA03;C03AB03;C03AX01;C03EA01;C09BX03;C09DX01;C09DX03;C09DX06;C09DX07;C09DX08;C09XA52;C09XA54;G01AE10,Hypertension,0.0,1.0
+PA449900,hydrocodone,R05DA03,Opioid-Related Disorders,0.0,1.0
+PA449900,hydrocodone,R05DA03,Pain,0.0,1.0
+PA449900,hydrocodone,R05DA03,adverse events,0.0,1.0
+PA449900,hydrocodone,R05DA03,Constipation,0.0,1.0
+PA449900,hydrocodone,R05DA03,dry mouth,0.0,1.0
+PA449900,hydrocodone,R05DA03,Respiratory Insufficiency,0.0,1.0
+PA449900,hydrocodone,R05DA03,,0.0,1.0
+PA449900,hydrocodone,R05DA03,Drug Toxicity,0.0,1.0
+PA449905,hydrocortisone,A01AC03;A07EA02;C05AA01;D07AA02;D07BA04;D07CA01;D07XA01;H02AB09;R01AD60;S01BA02;S01BB01;S01CA03;S01CB03;S02BA01;S02CA03;S03CA04,,0.0,1.0
+PA449918,hydromorphone,N02AA03;N02AA53;N02AG04,,0.0,1.0
+PA449924,hydroquinone,D11AX11,,0.0,1.0
+PA449942,hydroxyurea,L01XX05,,0.0,1.0
+PA449942,hydroxyurea,L01XX05,Thalassemia,0.0,1.0
+PA449957,ibuprofen,C01EB16;G02CC01;M01AE01;M01AE51;M02AA13;N02AJ08;N02AJ19;R02AX02,"Pain, Postoperative",0.0,1.0
+PA449957,ibuprofen,C01EB16;G02CC01;M01AE01;M01AE51;M02AA13;N02AJ08;N02AJ19;R02AX02,,0.0,1.0
+PA449958,ibutilide,C01BD05,,0.0,1.0
+PA449961,idarubicin,L01DB06,Neoplasms,0.0,1.0
+PA449961,idarubicin,L01DB06,"Leukemia, Myeloid, Acute",0.0,1.0
+PA449961,idarubicin,L01DB06,,0.0,1.0
+PA449964,ifosfamide,L01AA06,,0.0,1.0
+PA449969,imipramine,N06AA02,Depressive Disorder,0.0,1.0
+PA449969,imipramine,N06AA02,,0.0,1.0
+PA449969,imipramine,N06AA02,Mental Disorders,0.0,1.0
+PA449969,imipramine,N06AA02,"Depressive Disorder, Major",0.0,1.0
+PA449972,imiquimod,D06BB10,,0.0,1.0
+PA449972,imiquimod,D06BB10,"Carcinoma, Basal Cell",0.0,1.0
+PA449977,indinavir,J05AE02,HIV Infections,1.0,0.0
+PA449977,indinavir,J05AE02,,1.0,0.0
+PA449982,indomethacin,C01EB03;M01AB01;M01AB51;M02AA23;S01BC01;S01CC02,,0.0,1.0
+PA450037,interferon beta-1a,L03AB07,Multiple Sclerosis,0.0,1.0
+PA450037,interferon beta-1a,L03AB07,drug-induced liver injury,0.0,1.0
+PA450037,interferon beta-1a,L03AB07,,0.0,1.0
+PA450039,interferon beta-1b,L03AB08,drug-induced liver injury,0.0,1.0
+PA450039,interferon beta-1b,L03AB08,Multiple Sclerosis,0.0,1.0
+PA450039,interferon beta-1b,L03AB08,,0.0,1.0
+PA450084,irbesartan,C09CA04;C09DA04;C09DB05;C09DX07,Hypertension,0.0,1.0
+PA450084,irbesartan,C09CA04;C09DA04;C09DB05;C09DX07,,0.0,1.0
+PA450084,irbesartan,C09CA04;C09DA04;C09DB05;C09DX07,Essential hypertension,0.0,1.0
+PA450084,irbesartan,C09CA04;C09DA04;C09DB05;C09DX07,"Hypertrophy, Left Ventricular",0.0,1.0
+PA450085,irinotecan,L01CE02,Colonic Neoplasms,0.0,1.0
+PA450085,irinotecan,L01CE02,Lymphoma,0.0,1.0
+PA450085,irinotecan,L01CE02,Colorectal Neoplasms,0.0,1.0
+PA450085,irinotecan,L01CE02,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA450085,irinotecan,L01CE02,Neoplasms,0.0,1.0
+PA450085,irinotecan,L01CE02,Neutropenia,0.0,1.0
+PA450085,irinotecan,L01CE02,Diarrhea,0.0,1.0
+PA450085,irinotecan,L01CE02,,0.0,1.0
+PA450085,irinotecan,L01CE02,"Carcinoma, Small Cell",0.0,1.0
+PA450106,isoflurane,N01AB06,,0.0,1.0
+PA450106,isoflurane,N01AB06,Malignant Hyperthermia,0.0,1.0
+PA450112,isoniazid,J04AC01;J04AC51;J04AM01;J04AM02;J04AM03;J04AM04;J04AM05;J04AM06;J04AM07;J04AM08,"Hepatitis, Toxic",1.0,0.0
+PA450112,isoniazid,J04AC01;J04AC51;J04AM01;J04AM02;J04AM03;J04AM04;J04AM05;J04AM06;J04AM07;J04AM08,Drug Toxicity,1.0,0.0
+PA450112,isoniazid,J04AC01;J04AC51;J04AM01;J04AM02;J04AM03;J04AM04;J04AM05;J04AM06;J04AM07;J04AM08,Drug interaction with drug,1.0,0.0
+PA450112,isoniazid,J04AC01;J04AC51;J04AM01;J04AM02;J04AM03;J04AM04;J04AM05;J04AM06;J04AM07;J04AM08,Maculopapular Exanthema,1.0,0.0
+PA450112,isoniazid,J04AC01;J04AC51;J04AM01;J04AM02;J04AM03;J04AM04;J04AM05;J04AM06;J04AM07;J04AM08,,1.0,0.0
+PA450112,isoniazid,J04AC01;J04AC51;J04AM01;J04AM02;J04AM03;J04AM04;J04AM05;J04AM06;J04AM07;J04AM08,drug-induced liver injury,1.0,0.0
+PA450112,isoniazid,J04AC01;J04AC51;J04AM01;J04AM02;J04AM03;J04AM04;J04AM05;J04AM06;J04AM07;J04AM08,Toxic liver disease,1.0,0.0
+PA450112,isoniazid,J04AC01;J04AC51;J04AM01;J04AM02;J04AM03;J04AM04;J04AM05;J04AM06;J04AM07;J04AM08,Tuberculosis,1.0,0.0
+PA450121,isoproterenol,C01CA02;R03AB02;R03AK02;R03CB01;R03CB51,,0.0,1.0
+PA450125,isosorbide dinitrate,C01DA08;C01DA58;C05AE02,,0.0,1.0
+PA450126,isosorbide mononitrate,C01DA14,,0.0,1.0
+PA450128,isotretinoin,D10AD04;D10AD54;D10BA01,,0.0,1.0
+PA450132,itraconazole,J02AC02,,1.0,0.0
+PA450133,ivermectin,D11AX22;P02CF01,,1.0,1.0
+PA450137,kanamycin,A07AA08;J01GB04;S01AA24,Ototoxicity,1.0,1.0
+PA450144,ketamine,N01AX03,,0.0,1.0
+PA450144,ketamine,N01AX03,Neoplasms,0.0,1.0
+PA450144,ketamine,N01AX03,Pain,0.0,1.0
+PA450146,ketoconazole,H02CA04,,0.0,1.0
+PA450146,ketoconazole,D01AC08;G01AF11;G01AF20;H02CA03;J02AB02,,1.0,1.0
+PA450149,ketoprofen,M01AE03;M01AE53;M02AA10,,0.0,1.0
+PA450149,ketoprofen,M01AE03;M01AE53;M02AA10,"Pain, Postoperative",0.0,1.0
+PA450149,ketoprofen,M01AE03;M01AE53;M02AA10,Dyspepsia,0.0,1.0
+PA450150,ketorolac,M01AB15;S01BC05;S01FB51,,0.0,1.0
+PA450150,ketorolac,M01AB15;S01BC05;S01FB51,"Pain, Postoperative",0.0,1.0
+PA450163,lamivudine,J05AF05;J05AR01;J05AR02;J05AR04;J05AR05;J05AR07;J05AR11;J05AR12;J05AR13;J05AR16;J05AR24;J05AR25;J05AR27,HIV Infections,1.0,0.0
+PA450163,lamivudine,J05AF05;J05AR01;J05AR02;J05AR04;J05AR05;J05AR07;J05AR11;J05AR12;J05AR13;J05AR16;J05AR24;J05AR25;J05AR27,,1.0,0.0
+PA450164,lamotrigine,N03AX09,,0.0,1.0
+PA450164,lamotrigine,N03AX09,"Epidermal Necrolysis, Toxic",0.0,1.0
+PA450164,lamotrigine,N03AX09,Maculopapular Exanthema,0.0,1.0
+PA450164,lamotrigine,N03AX09,severe cutaneous adverse reactions,0.0,1.0
+PA450164,lamotrigine,N03AX09,Stevens-Johnson Syndrome,0.0,1.0
+PA450164,lamotrigine,N03AX09,Epilepsy,0.0,1.0
+PA450180,lansoprazole,A02BC03;A02BC53;A02BD02;A02BD03;A02BD07;A02BD09;A02BD10,Transplantation,0.0,1.0
+PA450180,lansoprazole,A02BC03;A02BC53;A02BD02;A02BD03;A02BD07;A02BD09;A02BD10,Helicobacter Infections,0.0,1.0
+PA450180,lansoprazole,A02BC03;A02BC53;A02BD02;A02BD03;A02BD07;A02BD09;A02BD10,,0.0,1.0
+PA450180,lansoprazole,A02BC03;A02BC53;A02BD02;A02BD03;A02BD07;A02BD09;A02BD10,Gastroesophageal Reflux,0.0,1.0
+PA450192,leflunomide,L04AA13,,0.0,1.0
+PA450192,leflunomide,L04AA13,"Arthritis, Rheumatoid",0.0,1.0
+PA450196,letrozole,L02BG04,Breast Neoplasms,0.0,1.0
+PA450196,letrozole,L02BG04,Menopause,0.0,1.0
+PA450196,letrozole,L02BG04,,0.0,1.0
+PA450196,letrozole,L02BG04,Neoplasms,0.0,1.0
+PA450198,leucovorin,V03AF03;V03AF06,,0.0,1.0
+PA450198,leucovorin,V03AF04;V03AF10,Neoplasms,0.0,1.0
+PA450198,leucovorin,V03AF03;V03AF06,Neoplasms,0.0,1.0
+PA450198,leucovorin,V03AF04;V03AF10,Colonic Neoplasms,0.0,1.0
+PA450198,leucovorin,V03AF04;V03AF10,Colorectal Neoplasms,0.0,1.0
+PA450198,leucovorin,V03AF03;V03AF06,Colorectal Neoplasms,0.0,1.0
+PA450198,leucovorin,V03AF04;V03AF10,,0.0,1.0
+PA450198,leucovorin,V03AF03;V03AF06,Colonic Neoplasms,0.0,1.0
+PA450205,levamisole,P02CE01,,1.0,0.0
+PA450206,levetiracetam,N03AX14,,0.0,1.0
+PA450206,levetiracetam,N03AX14,Epilepsy,0.0,1.0
+PA450206,levetiracetam,N03AX14,adverse events,0.0,1.0
+PA450213,levodopa,N04BA01;N04BA02;N04BA03,Hallucinations,0.0,1.0
+PA450213,levodopa,N04BA01;N04BA02;N04BA03,Cocaine-Related Disorders,0.0,1.0
+PA450213,levodopa,N04BA01;N04BA02;N04BA03,Parkinson Disease,0.0,1.0
+PA450213,levodopa,N04BA01;N04BA02;N04BA03,gastrointestinal toxicity,0.0,1.0
+PA450213,levodopa,N04BA01;N04BA02;N04BA03,,0.0,1.0
+PA450214,levofloxacin,A02BD10;J01MA12;J01RA05;S01AE05,,1.0,1.0
+PA450218,levonorgestrel,G03AA07;G03AB03;G03AC03;G03AD01;G03FA11;G03FB09,,0.0,1.0
+PA450226,lidocaine,C01BB01;C05AD01;D04AB01;N01BB02;N01BB52;R02AD02;S01HA07;S02DA01,,0.0,1.0
+PA450242,lisinopril,C09AA03;C09BA03;C09BB03;C10BX07,Heart Failure,0.0,1.0
+PA450242,lisinopril,C09AA03;C09BA03;C09BB03;C10BX07,"Diabetes Mellitus, Type 1",0.0,1.0
+PA450242,lisinopril,C09AA03;C09BA03;C09BB03;C10BX07,Hypertension,0.0,1.0
+PA450242,lisinopril,C09AA03;C09BA03;C09BB03;C10BX07,Cough,0.0,1.0
+PA450242,lisinopril,C09AA03;C09BA03;C09BB03;C10BX07,Essential hypertension,0.0,1.0
+PA450242,lisinopril,C09AA03;C09BA03;C09BB03;C10BX07,,0.0,1.0
+PA450243,lithium,,Depression,,
+PA450243,lithium,,Bipolar Disorder,,
+PA450243,lithium,,Depressive Disorder,,
+PA450243,lithium,,,,
+PA450243,lithium,,schizoaffective disorder,,
+PA450243,lithium,,Psychotic Disorders,,
+PA450262,loperamide,A07DA03;A07DA53,,0.0,1.0
+PA450264,lopinavir,J05AR10,,1.0,0.0
+PA450264,lopinavir,J05AR10,HIV Infections,1.0,0.0
+PA450266,loratadine,R06AX13,,0.0,1.0
+PA450267,lorazepam,N05BA06;N05BA56,,0.0,1.0
+PA450268,losartan,C09CA01;C09DA01;C09DB06,,0.0,1.0
+PA450268,losartan,C09CA01;C09DA01;C09DB06,Essential hypertension,0.0,1.0
+PA450268,losartan,C09CA01;C09DA01;C09DB06,Liver Cirrhosis,0.0,1.0
+PA450268,losartan,C09CA01;C09DA01;C09DB06,Hypertension,0.0,1.0
+PA450272,lovastatin,C10AA02;C10BA01,Arteriosclerosis,0.0,1.0
+PA450272,lovastatin,C10AA02;C10BA01,,0.0,1.0
+PA450272,lovastatin,C10AA02;C10BA01,statin-related myopathy,0.0,1.0
+PA450272,lovastatin,C10AA02;C10BA01,Hyperlipidemias,0.0,1.0
+PA450322,maprotiline,N06AA21,,0.0,1.0
+PA450322,maprotiline,N06AA21,Depression,0.0,1.0
+PA450338,meclizine,R06AE05;R06AE55,,0.0,1.0
+PA450344,medroxyprogesterone,G03AA08;G03AA17;G03AC06;G03DA02;G03FA12;G03FB06;L02AB02,,0.0,1.0
+PA450348,mefloquine,P01BC02;P01BF02,Malaria,1.0,0.0
+PA450348,mefloquine,P01BC02;P01BF02,,1.0,0.0
+PA450353,meloxicam,M01AC06;M01AC56;N01BB59,,0.0,1.0
+PA450354,melphalan,L01AA03,,0.0,1.0
+PA450354,melphalan,L01AA03,Multiple Myeloma,0.0,1.0
+PA450369,meperidine,N02AB02;N02AB52;N02AB72;N02AG03,adverse events,0.0,1.0
+PA450369,meperidine,N02AB02;N02AB52;N02AB72;N02AG03,,0.0,1.0
+PA450373,mephenytoin,N03AB04;N03AB54,,0.0,1.0
+PA450374,methylphenobarbital,N03AA01;N05CB01,,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,Leukopenia,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,Pancreatitis,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,Myelosuppression,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,Crohn Disease,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,gastrointestinal toxicity,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,"Lupus Erythematosus, Systemic",0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,"Colitis, Ulcerative",0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,Irritable Bowel Syndrome,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,Inflammatory Bowel Diseases,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,Pancytopenia,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,Thrombocytopenia,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,dose reduction,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,Neutropenia,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,,0.0,1.0
+PA450379,mercaptopurine,L01BB02;R03DA20,Drug Toxicity,0.0,1.0
+PA450384,mesalazine,A07EC02,,0.0,1.0
+PA450395,metformin,A10BA02;A10BD02;A10BD03;A10BD05;A10BD07;A10BD08;A10BD10;A10BD11;A10BD13;A10BD14;A10BD15;A10BD16;A10BD17;A10BD18;A10BD20;A10BD22;A10BD23;A10BD25;A10BD26;A10BD27,Polycystic Ovary Syndrome,0.0,1.0
+PA450395,metformin,A10BA02;A10BD02;A10BD03;A10BD05;A10BD07;A10BD08;A10BD10;A10BD11;A10BD13;A10BD14;A10BD15;A10BD16;A10BD17;A10BD18;A10BD20;A10BD22;A10BD23;A10BD25;A10BD26;A10BD27,,0.0,1.0
+PA450395,metformin,A10BA02;A10BD02;A10BD03;A10BD05;A10BD07;A10BD08;A10BD10;A10BD11;A10BD13;A10BD14;A10BD15;A10BD16;A10BD17;A10BD18;A10BD20;A10BD22;A10BD23;A10BD25;A10BD26;A10BD27,"Diabetes Mellitus, Type 2",0.0,1.0
+PA450395,metformin,A10BA02;A10BD02;A10BD03;A10BD05;A10BD07;A10BD08;A10BD10;A10BD11;A10BD13;A10BD14;A10BD15;A10BD16;A10BD17;A10BD18;A10BD20;A10BD22;A10BD23;A10BD25;A10BD26;A10BD27,Diabetes Mellitus,0.0,1.0
+PA450398,methacholine chloride,,,,
+PA450401,methadone,N02AC52;N07BC02,Sleep Disorders,0.0,1.0
+PA450401,methadone,N02AC52;N07BC02,Heroin Dependence,0.0,1.0
+PA450401,methadone,N02AC52;N07BC02,,0.0,1.0
+PA450401,methadone,N02AC52;N07BC02,Pain,0.0,1.0
+PA450401,methadone,N02AC52;N07BC02,Substance-Related Disorders,0.0,1.0
+PA450401,methadone,N02AC52;N07BC02,Opioid-Related Disorders,0.0,1.0
+PA450401,methadone,N02AC52;N07BC02,Pruritus,0.0,1.0
+PA450401,methadone,N02AC52;N07BC02,Neonatal Abstinence Syndrome,0.0,1.0
+PA450403,methamphetamine,N06BA03,,0.0,1.0
+PA450403,methamphetamine,N06BA03,HIV Infections,0.0,1.0
+PA450403,methamphetamine,N06BA03,Psychotic Disorders,0.0,1.0
+PA450403,methamphetamine,N06BA03,Substance-Related Disorders,0.0,1.0
+PA450403,methamphetamine,N06BA03,methamphetamine dependence,0.0,1.0
+PA450413,methazolamide,G01AE10;S01EC05,,0.0,1.0
+PA450413,methazolamide,G01AE10;S01EC05,Stevens-Johnson Syndrome,0.0,1.0
+PA450413,methazolamide,G01AE10;S01EC05,"Epidermal Necrolysis, Toxic",0.0,1.0
+PA450422,methimazole,H03BB02;H03BB52,Graves Disease,0.0,1.0
+PA450422,methimazole,H03BB02;H03BB52,,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,"Leukemia, Lymphoid",0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,cardiotoxicity,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Ovarian Neoplasms,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Stomach Neoplasms,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Anemia,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,nephrotoxicity,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Agranulocytosis,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,gastrointestinal toxicity,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,"Arthritis, Rheumatoid",0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Hematologic Neoplasms,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Brain Diseases,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Burkitt Lymphoma,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Leukemia,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,"Lymphoma, T-Cell",0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Graft vs Host Disease,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Osteonecrosis,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,"Leukemia, B-Cell, Acute",0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Toxic liver disease,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Thrombocytopenia,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,primary central nervous system lymphoma,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Osteosarcoma,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Psoriasis,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Neutropenia,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,mucositis,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Breast Neoplasms,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,"Lymphoma, Non-Hodgkin",0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,adverse events,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,drug-induced liver injury,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Neoplasms,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Mesothelioma,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,hematopoietic stem cell transplantation,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Drug Toxicity,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,hematotoxicity,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Leukopenia,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,Lymphoma,0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,"Arthritis, Juvenile Rheumatoid",0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,"Arthritis, Psoriatic",0.0,1.0
+PA450428,methotrexate,L01BA01;L04AX03,"Neoplasm, Residual",0.0,1.0
+PA450433,methoxsalen,D05AD02;D05BA02,,0.0,1.0
+PA450434,methoxyflurane,N02BG09,Malignant Hyperthermia,0.0,1.0
+PA450434,methoxyflurane,N02BG09,,0.0,1.0
+PA450457,methylene blue,,"Anemia, Hemolytic",,
+PA450457,methylene blue,,,,
+PA450457,methylene blue,,Protein Deficiency,,
+PA450457,methylene blue,,Hemolysis,,
+PA450464,methylphenidate,,Attention Deficit Disorder with Hyperactivity,,
+PA450464,methylphenidate,,Autism Spectrum Disorder,,
+PA450464,methylphenidate,,,,
+PA450466,methylprednisolone,D07AA01;D07CA02;D10AA02;H02AB04;H02BX01;S01CA08;S03CA07,,0.0,1.0
+PA450466,methylprednisolone,D07AA01;D07CA02;D10AA02;H02AB04;H02BX01;S01CA08;S03CA07,Kidney Transplantation,0.0,1.0
+PA450475,metoclopramide,A03FA01,,0.0,1.0
+PA450480,metoprolol,C07AB02;C07BB02;C07BB52;C07CB02;C07FB02;C07FB13;C07FX03;C07FX05,,0.0,1.0
+PA450480,metoprolol,C07AB02;C07BB02;C07BB52;C07CB02;C07FB02;C07FB13;C07FX03;C07FX05,Nephrosclerosis,0.0,1.0
+PA450480,metoprolol,C07AB02;C07BB02;C07BB52;C07CB02;C07FB02;C07FB13;C07FX03;C07FX05,Heart Failure,0.0,1.0
+PA450480,metoprolol,C07AB02;C07BB02;C07BB52;C07CB02;C07FB02;C07FB13;C07FX03;C07FX05,Kidney Diseases,0.0,1.0
+PA450480,metoprolol,C07AB02;C07BB02;C07BB52;C07CB02;C07FB02;C07FB13;C07FX03;C07FX05,hypertensive nephrosclerosis,0.0,1.0
+PA450480,metoprolol,C07AB02;C07BB02;C07BB52;C07CB02;C07FB02;C07FB13;C07FX03;C07FX05,Hypertension,0.0,1.0
+PA450480,metoprolol,C07AB02;C07BB02;C07BB52;C07CB02;C07FB02;C07FB13;C07FX03;C07FX05,Tachycardia,0.0,1.0
+PA450484,metronidazole,A01AB17;A02BD01;A02BD02;A02BD03;A02BD08;A02BD11;A02BD13;A02BD15;D06BX01;G01AF01;G01AF20;J01RA03;J01RA04;J01RA10;J01RA14;J01XD01;P01AB01;P01AB51;P01AB52,,1.0,1.0
+PA450488,mexiletine,C01BB02,Myotonia,0.0,1.0
+PA450488,mexiletine,C01BB02,Myotonic Disorders,0.0,1.0
+PA450488,mexiletine,C01BB02,,0.0,1.0
+PA450496,midazolam,N05CD08,Neoplasms,0.0,1.0
+PA450496,midazolam,N05CD08,,0.0,1.0
+PA450519,minocycline,A01AB23;D10AF07;J01AA08;J01AA20,drug-induced liver injury,1.0,1.0
+PA450519,minocycline,A01AB23;D10AF07;J01AA08;J01AA20,,1.0,1.0
+PA450522,mirtazapine,N06AX11,"Depressive Disorder, Major",0.0,1.0
+PA450522,mirtazapine,N06AX11,Depression,0.0,1.0
+PA450522,mirtazapine,N06AX11,,0.0,1.0
+PA450522,mirtazapine,N06AX11,Psychotic Disorders,0.0,1.0
+PA450522,mirtazapine,N06AX11,schizoaffective disorder,0.0,1.0
+PA450522,mirtazapine,N06AX11,Depressive Disorder,0.0,1.0
+PA450522,mirtazapine,N06AX11,Mood Disorders,0.0,1.0
+PA450522,mirtazapine,N06AX11,Bipolar Disorder,0.0,1.0
+PA450523,misoprostol,A02BB01;G02AD06;M01AE56,,0.0,1.0
+PA450524,mitomycin,L01DC03,,0.0,1.0
+PA450526,mitoxantrone,L01DB07,,0.0,1.0
+PA450526,mitoxantrone,L01DB07,"Leukemia, Myeloid, Acute",0.0,1.0
+PA450526,mitoxantrone,L01DB07,Liver Neoplasms,0.0,1.0
+PA450526,mitoxantrone,L01DB07,"Carcinoma, Hepatocellular",0.0,1.0
+PA450528,mivacurium,M03AC10,,0.0,1.0
+PA450530,modafinil,N06BA07,,0.0,1.0
+PA450530,modafinil,N06BA07,methamphetamine dependence,0.0,1.0
+PA450530,modafinil,N06BA07,Narcolepsy,0.0,1.0
+PA450546,montelukast,R03DC03;R03DC53,Asthma,0.0,1.0
+PA450546,montelukast,R03DC03;R03DC53,,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Neonatal Abstinence Syndrome,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Pain,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Sleep Apnea Syndromes,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Lung Neoplasms,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Constipation,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,"Anemia, Sickle Cell",0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Neoplasms,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Vomiting,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,adverse events,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Urinary Retention,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,somnolence,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Delirium,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Dizziness,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,"Pain, Postoperative",0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Nausea,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Pruritus,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Postoperative Nausea and Vomiting,0.0,1.0
+PA450550,morphine,A07DA52;N02AA01;N02AA51;N02AG01,Respiratory Insufficiency,0.0,1.0
+PA450555,moxifloxacin,J01MA14;S01AE07,,1.0,1.0
+PA450566,mycophenolate mofetil,,Leukopenia,,
+PA450566,mycophenolate mofetil,,,,
+PA450566,mycophenolate mofetil,,Kidney Transplantation,,
+PA450566,mycophenolate mofetil,,Organ Transplantation,,
+PA450576,nafcillin,J01CF06;J01CR50,,1.0,0.0
+PA450586,naloxone,A06AH04;N02AA53;N02AA55;N02AX51;V03AB15,Erythema,0.0,1.0
+PA450586,naloxone,A06AH04;N02AA53;N02AA55;N02AX51;V03AB15,,0.0,1.0
+PA450586,naloxone,A06AH04;N02AA53;N02AA55;N02AX51;V03AB15,Vomiting,0.0,1.0
+PA450588,naltrexone,A08AA62;N02AA56;N07BB04,Alcoholism,0.0,1.0
+PA450588,naltrexone,A08AA62;N02AA56;N07BB04,hypersexuality state,0.0,1.0
+PA450588,naltrexone,A08AA62;N02AA56;N07BB04,,0.0,1.0
+PA450588,naltrexone,A08AA62;N02AA56;N07BB04,Tobacco Use Disorder,0.0,1.0
+PA450588,naltrexone,A08AA62;N02AA56;N07BB04,Obesity,0.0,1.0
+PA450595,naproxen,G02CC02;M01AE02;M01AE52;M01AE56;M02AA12,,0.0,1.0
+PA450600,nateglinide,A10BX03,,0.0,1.0
+PA450601,nedocromil,R01AC07;R03BC03;S01GX04,Asthma,0.0,1.0
+PA450603,nefazodone,N06AX06,,0.0,1.0
+PA450603,nefazodone,N06AX06,Depression,0.0,1.0
+PA450606,nelfinavir,J05AE04,HIV Infections,1.0,0.0
+PA450606,nelfinavir,J05AE04,Pancreatic Neoplasms,1.0,0.0
+PA450606,nelfinavir,J05AE04,,1.0,0.0
+PA450608,neomycin,A01AB08;A07AA01;A07AA51;B05CA09;D06AX04;J01GB05;R02AB01;S01AA03;S02AA07;S03AA01,,1.0,1.0
+PA450608,neomycin,D09AA01;R01AX08;S01AA07,,0.0,1.0
+PA450608,neomycin,A01AB08;A07AA01;A07AA51;B05CA09;D06AX04;J01GB05;R02AB01;S01AA03;S02AA07;S03AA01,Ototoxicity,1.0,1.0
+PA450608,neomycin,D09AA01;R01AX08;S01AA07,Ototoxicity,0.0,1.0
+PA450616,nevirapine,J05AG01;J05AR05;J05AR07,Hypersensitivity,1.0,0.0
+PA450616,nevirapine,J05AG01;J05AR05;J05AR07,Toxic liver disease,1.0,0.0
+PA450616,nevirapine,J05AG01;J05AR05;J05AR07,,1.0,0.0
+PA450616,nevirapine,J05AG01;J05AR05;J05AR07,Exanthema,1.0,0.0
+PA450616,nevirapine,J05AG01;J05AR05;J05AR07,Drug Hypersensitivity,1.0,0.0
+PA450616,nevirapine,J05AG01;J05AR05;J05AR07,drug reaction with eosinophilia and systemic symptoms,1.0,0.0
+PA450616,nevirapine,J05AG01;J05AR05;J05AR07,"Epidermal Necrolysis, Toxic",1.0,0.0
+PA450616,nevirapine,J05AG01;J05AR05;J05AR07,HIV Infections,1.0,0.0
+PA450616,nevirapine,J05AG01;J05AR05;J05AR07,Stevens-Johnson Syndrome,1.0,0.0
+PA450616,nevirapine,J05AG01;J05AR05;J05AR07,Acquired Immunodeficiency Syndrome,1.0,0.0
+PA450617,niacin,C04AC01;C10AD02;C10AD52;C10BA01,,0.0,1.0
+PA450626,nicotine,N07BA01,Pregnancy,0.0,1.0
+PA450626,nicotine,N07BA01,Substance-Related Disorders,0.0,1.0
+PA450626,nicotine,N07BA01,,0.0,1.0
+PA450626,nicotine,N07BA01,Pain,0.0,1.0
+PA450626,nicotine,N07BA01,Tobacco Use Disorder,0.0,1.0
+PA450626,nicotine,N07BA01,cessation,0.0,1.0
+PA450631,nifedipine,C07FB03;C08CA05;C08CA55;C08GA01,Pregnancy,0.0,1.0
+PA450631,nifedipine,C07FB03;C08CA05;C08CA55;C08GA01,,0.0,1.0
+PA450631,nifedipine,C07FB03;C08CA05;C08CA55;C08GA01,Hypertension,0.0,1.0
+PA450633,nimodipine,C08CA06,,0.0,1.0
+PA450635,nitric oxide,R07AX01,,0.0,1.0
+PA450640,nitrofurantoin,J01XE01;J01XE51,"Anemia, Hemolytic",1.0,0.0
+PA450640,nitrofurantoin,J01XE01;J01XE51,Hemolysis,1.0,0.0
+PA450640,nitrofurantoin,J01XE01;J01XE51,,1.0,0.0
+PA450644,nitroglycerin,C01DA02;C01DA52;C05AE01,,0.0,1.0
+PA450645,nitrous oxide,N01AX13;N01AX63,,0.0,1.0
+PA450654,norfloxacin,J01MA06;J01RA13;J01RA14;S01AE02,,1.0,1.0
+PA450657,nortriptyline,N06AA10,Depressive Disorder,0.0,1.0
+PA450657,nortriptyline,N06AA10,"Depressive Disorder, Major",0.0,1.0
+PA450657,nortriptyline,N06AA10,Pain,0.0,1.0
+PA450657,nortriptyline,N06AA10,Depression,0.0,1.0
+PA450657,nortriptyline,N06AA10,Hypotension,0.0,1.0
+PA450657,nortriptyline,N06AA10,,0.0,1.0
+PA450684,ofloxacin,J01MA01;J01RA09;S01AE01;S02AA16,,1.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Autism Spectrum Disorder,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Schizophrenia,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Psychotic Disorders,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,somnolence,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Asthenia,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Depression,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Fatigue,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,schizoaffective disorder,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Hypotension,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Depressive Disorder,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Bipolar Disorder,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Alzheimer Disease,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Weight gain,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,Mental Disorders,0.0,1.0
+PA450688,olanzapine,N05AH03;N05AH53,"Arrhythmias, Cardiac",0.0,1.0
+PA450702,omega-3 polyunsaturated fatty acids,,,,
+PA450704,omeprazole,,,,
+PA450704,omeprazole,,Helicobacter Infections,,
+PA450704,omeprazole,,Gastroesophageal Reflux,,
+PA450704,omeprazole,,Esophagitis,,
+PA450704,omeprazole,,Peptic Ulcer,,
+PA450705,ondansetron,A04AA01,Alcoholism,0.0,1.0
+PA450705,ondansetron,A04AA01,Postoperative Nausea and Vomiting,0.0,1.0
+PA450705,ondansetron,A04AA01,Vomiting,0.0,1.0
+PA450705,ondansetron,A04AA01,,0.0,1.0
+PA450721,oseltamivir,J05AH02,,1.0,0.0
+PA450731,oxazepam,N05BA04,,0.0,1.0
+PA450732,oxcarbazepine,N03AF02,Stevens-Johnson Syndrome,0.0,1.0
+PA450732,oxcarbazepine,N03AF02,Epilepsy,0.0,1.0
+PA450732,oxcarbazepine,N03AF02,Maculopapular Exanthema,0.0,1.0
+PA450732,oxcarbazepine,N03AF02,,0.0,1.0
+PA450732,oxcarbazepine,N03AF02,Seizures,0.0,1.0
+PA450732,oxcarbazepine,N03AF02,drug reaction with eosinophilia and systemic symptoms,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,Neoplasms,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,adverse events,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,cns depression,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,Drug Toxicity,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,Erythema,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,Opioid-Related Disorders,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,Pain,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,Vomiting,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,"Pain, Postoperative",0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,Constipation,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,Urinary Retention,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,Delirium,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,Nausea,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,somnolence,0.0,1.0
+PA450741,oxycodone,N02AA05;N02AA55;N02AA56;N02AJ17;N02AJ18;N02AJ19,Pruritus,0.0,1.0
+PA450748,oxymorphone,N02AA11,,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Ovarian Neoplasms,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Breast Neoplasms,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Neoplasms,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Leukopenia,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Neurotoxicity Syndromes,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Pancreatic Neoplasms,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Peripheral Nervous System Diseases,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Lung Neoplasms,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Toxic liver disease,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Neutropenia,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Drug Toxicity,0.0,1.0
+PA450761,paclitaxel,L01CD01;L01CD51,Nausea,0.0,1.0
+PA450767,pamidronate,M05BA03,Multiple Myeloma,0.0,1.0
+PA450767,pamidronate,M05BA03,Osteonecrosis,0.0,1.0
+PA450774,pantoprazole,A02BC02;A02BD04;A02BD11,Ulcer,0.0,1.0
+PA450774,pantoprazole,A02BC02;A02BD04;A02BD11,,0.0,1.0
+PA450774,pantoprazole,A02BC02;A02BD04;A02BD11,Helicobacter Infections,0.0,1.0
+PA450801,paroxetine,N06AB05,Bipolar Disorder,0.0,1.0
+PA450801,paroxetine,N06AB05,,0.0,1.0
+PA450801,paroxetine,N06AB05,Mood Disorders,0.0,1.0
+PA450801,paroxetine,N06AB05,Depression,0.0,1.0
+PA450801,paroxetine,N06AB05,Panic Disorder,0.0,1.0
+PA450801,paroxetine,N06AB05,"Depressive Disorder, Major",0.0,1.0
+PA450801,paroxetine,N06AB05,Depressive Disorder,0.0,1.0
+PA450801,paroxetine,N06AB05,Mental Disorders,0.0,1.0
+PA450840,penicillamine,M01CC01,,0.0,1.0
+PA450842,penicillin g,J01CE01;J01CE08;J01CR50;S01AA14,,1.0,1.0
+PA450842,penicillin g,J01CE01;J01CE08;J01CR50;S01AA14,Drug Hypersensitivity,1.0,1.0
+PA450877,perindopril,C09AA04;C09BA04;C09BB04;C09BX01;C09BX02;C09BX04;C10BX11;C10BX12;C10BX13;C10BX14;C10BX15,Coronary Artery Disease,0.0,1.0
+PA450877,perindopril,C09AA04;C09BA04;C09BB04;C09BX01;C09BX02;C09BX04;C10BX11;C10BX12;C10BX13;C10BX14;C10BX15,,0.0,1.0
+PA450877,perindopril,C09AA04;C09BA04;C09BB04;C09BX01;C09BX02;C09BX04;C10BX11;C10BX12;C10BX13;C10BX14;C10BX15,Diabetes Mellitus,0.0,1.0
+PA450877,perindopril,C09AA04;C09BA04;C09BB04;C09BX01;C09BX02;C09BX04;C10BX11;C10BX12;C10BX13;C10BX14;C10BX15,Hypertension,0.0,1.0
+PA450882,perphenazine,N05AB03,,0.0,1.0
+PA450882,perphenazine,N05AB03,Schizophrenia,0.0,1.0
+PA450911,phenobarbital,N03AA02;N05CB01,Epilepsy,0.0,1.0
+PA450911,phenobarbital,N03AA02;N05CB01,,0.0,1.0
+PA450911,phenobarbital,N03AA02;N05CB01,Stevens-Johnson Syndrome,0.0,1.0
+PA450911,phenobarbital,N03AA02;N05CB01,Psychotic Disorders,0.0,1.0
+PA450921,phenprocoumon,B01AA04,,0.0,1.0
+PA450921,phenprocoumon,B01AA04,Hemorrhage,0.0,1.0
+PA450921,phenprocoumon,B01AA04,time above therapeutic range,0.0,1.0
+PA450921,phenprocoumon,B01AA04,over-anticoagulation,0.0,1.0
+PA450931,l-phenylalanine,,,,
+PA450935,phenylephrine,C01CA06;R01AA04;R01AB01;R01BA03;R01BA53;S01FB01;S01FB51;S01GA05;S01GA55,,0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,severe cutaneous adverse reactions,0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,Maculopapular Exanthema,0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,"Epidermal Necrolysis, Toxic",0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,Stevens-Johnson Syndrome,0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,,0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,Craniofacial Abnormalities,0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,Psychotic Disorders,0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,Epilepsy,0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,Congenital Abnormalities,0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,drug reaction with eosinophilia and systemic symptoms,0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,Drug interaction with drug,0.0,1.0
+PA450947,phenytoin,N03AB02;N03AB52,Drug Toxicity,0.0,1.0
+PA450962,pilocarpine,N07AX01;S01EB01;S01EB51,,0.0,1.0
+PA450965,pimozide,N05AG02,,0.0,1.0
+PA450970,pioglitazone,A10BD05;A10BD06;A10BD09;A10BD12;A10BG03,,0.0,1.0
+PA450970,pioglitazone,A10BD05;A10BD06;A10BD09;A10BD12;A10BG03,Diabetes Mellitus,0.0,1.0
+PA450970,pioglitazone,A10BD05;A10BD06;A10BD09;A10BD12;A10BG03,"Diabetes Mellitus, Type 2",0.0,1.0
+PA450985,piroxicam,M01AC01;M02AA07;S01BC06,,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,Vascular Diseases,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,Hypertension,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,Myalgia unspecified,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,Coronary Artery Disease,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,statin-related myopathy,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,Myocardial Infarction,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,Coronary Disease,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,Hypercholesterolemia,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,Hyperlipoproteinemia Type II,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,Acute coronary syndrome,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,Hyperlipidemias,0.0,1.0
+PA451089,pravastatin,C10AA03;C10BA03;C10BA11;C10BA12;C10BX02,Diabetes Mellitus,0.0,1.0
+PA451096,prednisolone,A01AC04;A01AC54;A07EA01;C05AA04;D07AA03;D07BA01;D07CA03;D07XA02;H02AB06;R01AD02;R01AD52;S01BA04;S01BB02;S01CA02;S01CB02;S02BA03;S02CA01;S03BA02;S03CA02;V03AB05,Kidney Transplantation,0.0,1.0
+PA451096,prednisolone,A01AC04;A01AC54;A07EA01;C05AA04;D07AA03;D07BA01;D07CA03;D07XA02;H02AB06;R01AD02;R01AD52;S01BA04;S01BB02;S01CA02;S01CB02;S02BA03;S02CA01;S03BA02;S03CA02;V03AB05,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA451096,prednisolone,A01AC04;A01AC54;A07EA01;C05AA04;D07AA03;D07BA01;D07CA03;D07XA02;H02AB06;R01AD02;R01AD52;S01BA04;S01BB02;S01CA02;S01CB02;S02BA03;S02CA01;S03BA02;S03CA02;V03AB05,Prostatic Neoplasms,0.0,1.0
+PA451096,prednisolone,A01AC04;A01AC54;A07EA01;C05AA04;D07AA03;D07BA01;D07CA03;D07XA02;H02AB06;R01AD02;R01AD52;S01BA04;S01BB02;S01CA02;S01CB02;S02BA03;S02CA01;S03BA02;S03CA02;V03AB05,,0.0,1.0
+PA451100,prednisone,A07EA03;H02AB07,Organ Transplantation,0.0,1.0
+PA451100,prednisone,A07EA03;H02AB07,Osteonecrosis,0.0,1.0
+PA451100,prednisone,A07EA03;H02AB07,"Leukemia, Lymphocytic, Chronic, B-Cell",0.0,1.0
+PA451100,prednisone,A07EA03;H02AB07,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA451100,prednisone,A07EA03;H02AB07,,0.0,1.0
+PA451100,prednisone,A07EA03;H02AB07,Transplantation,0.0,1.0
+PA451100,prednisone,A07EA03;H02AB07,"Lymphoma, Large B-Cell, Diffuse",0.0,1.0
+PA451100,prednisone,A07EA03;H02AB07,"Lymphoma, Non-Hodgkin",0.0,1.0
+PA451101,prilocaine,N01BB04;N01BB54,,0.0,1.0
+PA451103,primaquine,P01BA03,,1.0,0.0
+PA451105,primidone,N03AA03;N05CB01,,0.0,1.0
+PA451106,probenecid,G01AE10;M04AB01,,0.0,1.0
+PA451108,procainamide,C01BA02,,0.0,1.0
+PA451112,procarbazine,L01XB01,,0.0,1.0
+PA451114,prochlorperazine,N05AB04,Nausea,0.0,1.0
+PA451114,prochlorperazine,N05AB04,,0.0,1.0
+PA451123,progesterone,G03DA04;G03FA04,,0.0,1.0
+PA451124,proguanil,P01BB01;P01BB51;P01BB52,,1.0,0.0
+PA451131,propafenone,C01BC03,"Arrhythmias, Cardiac",0.0,1.0
+PA451131,propafenone,C01BC03,,0.0,1.0
+PA451131,propafenone,C01BC03,Tachycardia,0.0,1.0
+PA451140,propionic acid derivatives,,,,
+PA451141,propofol,N01AX10,Hypotension,0.0,1.0
+PA451141,propofol,N01AX10,,0.0,1.0
+PA451145,propranolol,C07AA05;C07BA05;C07FX01,Temporomandibular joint-pain-dysfunction syndrome,0.0,1.0
+PA451145,propranolol,C07AA05;C07BA05;C07FX01,,0.0,1.0
+PA451145,propranolol,C07AA05;C07BA05;C07FX01,Liver Cirrhosis,0.0,1.0
+PA451156,propylthiouracil,H03BA02,Agranulocytosis,0.0,1.0
+PA451156,propylthiouracil,H03BA02,,0.0,1.0
+PA451156,propylthiouracil,H03BA02,Graves Disease,0.0,1.0
+PA451159,protease inhibitors,,Hepatitis C,,
+PA451159,protease inhibitors,,,,
+PA451168,protriptyline,N06AA11,,0.0,1.0
+PA451182,pyrazinamide,J04AK01;J04AM05;J04AM06,,1.0,0.0
+PA451182,pyrazinamide,J04AK01;J04AM05;J04AM06,Toxic liver disease,1.0,0.0
+PA451182,pyrazinamide,J04AK01;J04AM05;J04AM06,Maculopapular Exanthema,1.0,0.0
+PA451182,pyrazinamide,J04AK01;J04AM05;J04AM06,Tuberculosis,1.0,0.0
+PA451193,pyrimethamine,P01BD01;P01BD51;P01BF04;P01BF09,,1.0,0.0
+PA451193,pyrimethamine,P01BD01;P01BD51;P01BF04;P01BF09,Malaria,1.0,0.0
+PA451193,pyrimethamine,P01BD01;P01BD51;P01BF04;P01BF09,"Malaria, Falciparum",1.0,0.0
+PA451201,quetiapine,N05AH04,Schizophrenia,0.0,1.0
+PA451201,quetiapine,N05AH04,schizoaffective disorder,0.0,1.0
+PA451201,quetiapine,N05AH04,Drug Toxicity,0.0,1.0
+PA451201,quetiapine,N05AH04,,0.0,1.0
+PA451201,quetiapine,N05AH04,Hypertriglyceridemia,0.0,1.0
+PA451201,quetiapine,N05AH04,Bipolar Disorder,0.0,1.0
+PA451201,quetiapine,N05AH04,Depressive Disorder,0.0,1.0
+PA451201,quetiapine,N05AH04,Weight gain,0.0,1.0
+PA451201,quetiapine,N05AH04,Autism Spectrum Disorder,0.0,1.0
+PA451201,quetiapine,N05AH04,Psychotic Disorders,0.0,1.0
+PA451205,quinapril,C09AA06;C09BA06,,0.0,1.0
+PA451205,quinapril,C09AA06;C09BA06,Coronary Artery Disease,0.0,1.0
+PA451209,quinidine,C01BA01;C01BA51;C01BA71,short qt syndrome 1,0.0,1.0
+PA451209,quinidine,C01BA01;C01BA51;C01BA71,,0.0,1.0
+PA451213,quinine,M09AA72;P01BC01,,1.0,1.0
+PA451216,rabeprazole,A02BC04;A02BC54;A02BD12;A02BD13;M01AA05;M02AA03,Peptic Ulcer,0.0,1.0
+PA451216,rabeprazole,A02BC04;A02BC54;A02BD12;A02BD13;M01AA05;M02AA03,Helicobacter Infections,0.0,1.0
+PA451216,rabeprazole,A02BC04;A02BC54;A02BD12;A02BD13;M01AA05;M02AA03,,0.0,1.0
+PA451216,rabeprazole,A02BC04;A02BC54;A02BD12;A02BD13;M01AA05;M02AA03,Gastroesophageal Reflux,0.0,1.0
+PA451221,raloxifene,G03XC01,bone density,0.0,1.0
+PA451221,raloxifene,G03XC01,Menopause,0.0,1.0
+PA451221,raloxifene,G03XC01,Schizophrenia,0.0,1.0
+PA451221,raloxifene,G03XC01,,0.0,1.0
+PA451221,raloxifene,G03XC01,Breast Neoplasms,0.0,1.0
+PA451221,raloxifene,G03XC01,Osteoporosis,0.0,1.0
+PA451223,ramipril,C09AA05;C09BA05;C09BB05;C09BB07;C09BX03;C09BX05;C10BX04;C10BX06;C10BX17;C10BX18,,0.0,1.0
+PA451223,ramipril,C09AA05;C09BA05;C09BB05;C09BB07;C09BX03;C09BX05;C10BX04;C10BX06;C10BX17;C10BX18,Hypertension,0.0,1.0
+PA451232,remifentanil,N01AH06,tonsillectomy,0.0,1.0
+PA451232,remifentanil,N01AH06,Pain,0.0,1.0
+PA451232,remifentanil,N01AH06,,0.0,1.0
+PA451232,remifentanil,N01AH06,Hypotension,0.0,1.0
+PA451234,repaglinide,A10BD14;A10BX02,,0.0,1.0
+PA451234,repaglinide,A10BD14;A10BX02,Diabetes Mellitus,0.0,1.0
+PA451234,repaglinide,A10BD14;A10BX02,"Diabetes Mellitus, Type 2",0.0,1.0
+PA451241,ribavirin,J05AP01,Anemia,1.0,0.0
+PA451241,ribavirin,J05AP01,,1.0,0.0
+PA451241,ribavirin,J05AP01,HIV Infections,1.0,0.0
+PA451241,ribavirin,J05AP01,Hepatitis C,1.0,0.0
+PA451241,ribavirin,J05AP01,"Hepatitis C, Chronic",1.0,0.0
+PA451249,rifabutin,A02BD16;J04AB04,,1.0,1.0
+PA451250,rifampin,J04AB02;J04AM02;J04AM05;J04AM06;J04AM07;J04BA50;J04BA51,drug-induced liver injury,1.0,0.0
+PA451250,rifampin,J04AB02;J04AM02;J04AM05;J04AM06;J04AM07;J04BA50;J04BA51,Tuberculosis,1.0,0.0
+PA451250,rifampin,J04AB02;J04AM02;J04AM05;J04AM06;J04AM07;J04BA50;J04BA51,Toxic liver disease,1.0,0.0
+PA451250,rifampin,J04AB02;J04AM02;J04AM05;J04AM06;J04AM07;J04BA50;J04BA51,Maculopapular Exanthema,1.0,0.0
+PA451250,rifampin,J04AB02;J04AM02;J04AM05;J04AM06;J04AM07;J04BA50;J04BA51,,1.0,0.0
+PA451251,riluzole,N07XX02,,0.0,1.0
+PA451255,risedronate,M05BA07;M05BB02;M05BB04;M05BB07,Osteitis Deformans,0.0,1.0
+PA451257,risperidone,N05AX08,Psychotic Disorders,0.0,1.0
+PA451257,risperidone,N05AX08,Mental Disorders,0.0,1.0
+PA451257,risperidone,N05AX08,Hyperprolactinemia,0.0,1.0
+PA451257,risperidone,N05AX08,Metabolic Syndrome,0.0,1.0
+PA451257,risperidone,N05AX08,Weight gain,0.0,1.0
+PA451257,risperidone,N05AX08,Depression,0.0,1.0
+PA451257,risperidone,N05AX08,schizoaffective disorder,0.0,1.0
+PA451257,risperidone,N05AX08,Substance-Related Disorders,0.0,1.0
+PA451257,risperidone,N05AX08,Alzheimer Disease,0.0,1.0
+PA451257,risperidone,N05AX08,Schizophrenia,0.0,1.0
+PA451257,risperidone,N05AX08,Depressive Disorder,0.0,1.0
+PA451257,risperidone,N05AX08,Autism Spectrum Disorder,0.0,1.0
+PA451257,risperidone,N05AX08,Bipolar Disorder,0.0,1.0
+PA451257,risperidone,N05AX08,Autistic Disorder,0.0,1.0
+PA451257,risperidone,N05AX08,Mood Disorders,0.0,1.0
+PA451257,risperidone,N05AX08,,0.0,1.0
+PA451257,risperidone,N05AX08,Drug Toxicity,0.0,1.0
+PA451258,ritodrine,G02CA01,,0.0,1.0
+PA451258,ritodrine,G02CA01,adverse events,0.0,1.0
+PA451258,ritodrine,G02CA01,Premature Birth,0.0,1.0
+PA451260,ritonavir,J05AE03;J05AE30;J05AP52;J05AP53;J05AR10;J05AR23;J05AR26,Hypertriglyceridemia,1.0,0.0
+PA451260,ritonavir,J05AE03;J05AE30;J05AP52;J05AP53;J05AR10;J05AR23;J05AR26,,1.0,0.0
+PA451260,ritonavir,J05AE03;J05AE30;J05AP52;J05AP53;J05AR10;J05AR23;J05AR26,Hyperbilirubinemia,1.0,0.0
+PA451260,ritonavir,J05AE03;J05AE30;J05AP52;J05AP53;J05AR10;J05AR23;J05AR26,nephrolithiasis,1.0,0.0
+PA451260,ritonavir,J05AE03;J05AE30;J05AP52;J05AP53;J05AR10;J05AR23;J05AR26,HIV Infections,1.0,0.0
+PA451260,ritonavir,J05AE03;J05AE30;J05AP52;J05AP53;J05AR10;J05AR23;J05AR26,Hyperlipidemias,1.0,0.0
+PA451261,rituximab,L01FA01,"Arthritis, Rheumatoid",0.0,1.0
+PA451261,rituximab,L01FA01,"Lymphoma, Non-Hodgkin",0.0,1.0
+PA451261,rituximab,L01FA01,Neuromyelitis Optica,0.0,1.0
+PA451261,rituximab,L01FA01,"Lupus Erythematosus, Systemic",0.0,1.0
+PA451261,rituximab,L01FA01,"Lymphoma, Large B-Cell, Diffuse",0.0,1.0
+PA451261,rituximab,L01FA01,Vasculitis,0.0,1.0
+PA451261,rituximab,L01FA01,,0.0,1.0
+PA451261,rituximab,L01FA01,"Leukemia, Lymphocytic, Chronic, B-Cell",0.0,1.0
+PA451262,rivastigmine,N06DA03,,0.0,1.0
+PA451262,rivastigmine,N06DA03,Lewy Body Disease,0.0,1.0
+PA451262,rivastigmine,N06DA03,Alzheimer Disease,0.0,1.0
+PA451268,rofecoxib,M01AH02,,0.0,1.0
+PA451271,ropivacaine,N01BB09,,0.0,1.0
+PA451283,rosiglitazone,A10BD03;A10BD04;A10BG02,Weight gain,0.0,1.0
+PA451283,rosiglitazone,A10BD03;A10BD04;A10BG02,,0.0,1.0
+PA451283,rosiglitazone,A10BD03;A10BD04;A10BG02,"Diabetes Mellitus, Type 2",0.0,1.0
+PA451300,salmeterol,R03AC12;R03AK06;R03AK12,Asthma,0.0,1.0
+PA451300,salmeterol,R03AC12;R03AK06;R03AK12,,0.0,1.0
+PA451305,saquinavir,J05AE01,,1.0,0.0
+PA451316,selegiline,N04BD01,,0.0,1.0
+PA451316,selegiline,N04BD01,Parkinson Disease,0.0,1.0
+PA451333,sertraline,N06AB06,"Sexual Dysfunctions, Psychological",0.0,1.0
+PA451333,sertraline,N06AB06,"Depressive Disorder, Major",0.0,1.0
+PA451333,sertraline,N06AB06,Depressive Disorder,0.0,1.0
+PA451333,sertraline,N06AB06,Depression,0.0,1.0
+PA451333,sertraline,N06AB06,Mental Disorders,0.0,1.0
+PA451333,sertraline,N06AB06,,0.0,1.0
+PA451341,sevoflurane,N01AB08,Malignant Hyperthermia,0.0,1.0
+PA451341,sevoflurane,N01AB08,Hypotension,0.0,1.0
+PA451341,sevoflurane,N01AB08,tonsillectomy,0.0,1.0
+PA451341,sevoflurane,N01AB08,,0.0,1.0
+PA451344,sibutramine,A08AA10,Obesity,0.0,1.0
+PA451344,sibutramine,A08AA10,,0.0,1.0
+PA451346,sildenafil,G01AE10;G04BE03,Erectile Dysfunction,0.0,1.0
+PA451346,sildenafil,G01AE10;G04BE03,,0.0,1.0
+PA451346,sildenafil,G01AE10;G04BE03,Heart Failure,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,statin-related myopathy,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,Hypercholesterolemia,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,Chronic Disease,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,Coronary Disease,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,Myocardial Ischemia,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,Cardiovascular Diseases,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,Hyperlipidemias,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,Hyperlipoproteinemia Type II,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,Myalgia unspecified,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,Muscular Diseases,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,Myocardial Infarction,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,adverse events,0.0,1.0
+PA451363,simvastatin,A10BH51;C10AA01;C10BA02;C10BA04;C10BX01;C10BX04,,0.0,1.0
+PA451365,sirolimus,L01EG04;L04AA10;S01XA23,adverse events,0.0,1.0
+PA451365,sirolimus,L01EG04;L04AA10;S01XA23,gastrointestinal toxicity,0.0,1.0
+PA451365,sirolimus,L01EG04;L04AA10;S01XA23,Myelosuppression,0.0,1.0
+PA451365,sirolimus,L01EG04;L04AA10;S01XA23,Urinary Bladder Neoplasms,0.0,1.0
+PA451365,sirolimus,L01EG04;L04AA10;S01XA23,Kidney Transplantation,0.0,1.0
+PA451365,sirolimus,L01EG04;L04AA10;S01XA23,hematopoietic stem cell transplantation,0.0,1.0
+PA451365,sirolimus,L01EG04;L04AA10;S01XA23,,0.0,1.0
+PA451365,sirolimus,L01EG04;L04AA10;S01XA23,liver transplantation,0.0,1.0
+PA451365,sirolimus,L01EG04;L04AA10;S01XA23,Transplantation,0.0,1.0
+PA451406,nitroprusside,C02DD01,,0.0,1.0
+PA451446,somatropin recombinant,H01AC01,,0.0,1.0
+PA451446,somatropin recombinant,H01AC01,Turner Syndrome,0.0,1.0
+PA451457,sotalol,C07AA07;C07BA07;C07FX02,,0.0,1.0
+PA451483,spironolactone,C03DA01,Heart Failure,0.0,1.0
+PA451483,spironolactone,C03DA01,Hypertension,0.0,1.0
+PA451483,spironolactone,C03DA01,,0.0,1.0
+PA451483,spironolactone,C03DA01,Liver Cirrhosis,0.0,1.0
+PA451494,stavudine,J05AF04;J05AR07,Peripheral Nervous System Diseases,1.0,0.0
+PA451494,stavudine,J05AF04;J05AR07,,1.0,0.0
+PA451494,stavudine,J05AF04;J05AR07,HIV Infections,1.0,0.0
+PA451512,streptomycin,A07AA04;A07AA54;J01GA01;J04AM01,Tuberculosis,1.0,1.0
+PA451512,streptomycin,A07AA04;A07AA54;J01GA01;J04AM01,,1.0,1.0
+PA451512,streptomycin,A07AA04;A07AA54;J01GA01;J04AM01,Ototoxicity,1.0,1.0
+PA451521,succimer,,,,
+PA451522,succinylcholine,M03AB01,Apnea,0.0,1.0
+PA451522,succinylcholine,M03AB01,,0.0,1.0
+PA451522,succinylcholine,M03AB01,Malignant Hyperthermia,0.0,1.0
+PA451522,succinylcholine,M03AB01,postanesthesia apnea,0.0,1.0
+PA451527,sufentanil,N01AH03,,0.0,1.0
+PA451527,sufentanil,N01AH03,Respiratory Insufficiency,0.0,1.0
+PA451527,sufentanil,N01AH03,adverse events,0.0,1.0
+PA451527,sufentanil,N01AH03,"Pain, Postoperative",0.0,1.0
+PA451527,sufentanil,N01AH03,Pain,0.0,1.0
+PA451539,sulfadiazine,G01AE10;J01EC02;J01EE02;J01EE06,,1.0,1.0
+PA451540,sulfadoxine,G01AE10;P01BF09,Hemolysis,1.0,1.0
+PA451540,sulfadoxine,G01AE10;P01BF09,"Malaria, Falciparum",1.0,1.0
+PA451540,sulfadoxine,G01AE10;P01BF09,,1.0,1.0
+PA451540,sulfadoxine,G01AE10;P01BF09,Malaria,1.0,1.0
+PA451544,sulfamethoxazole,G01AE10;J01EC01;J01EE01;J04AM08,Hemolysis,1.0,1.0
+PA451544,sulfamethoxazole,G01AE10;J01EC01;J01EE01;J04AM08,,1.0,1.0
+PA451544,sulfamethoxazole,G01AE10;J01EC01;J01EE01;J04AM08,HIV Infections,1.0,1.0
+PA451545,sulfanilamide,D06BA05;G01AE10;J01EB06,,1.0,1.0
+PA451547,sulfasalazine,A07EC01;G01AE10,Hemolysis,0.0,1.0
+PA451547,sulfasalazine,A07EC01;G01AE10,,0.0,1.0
+PA451547,sulfasalazine,A07EC01;G01AE10,drug reaction with eosinophilia and systemic symptoms,0.0,1.0
+PA451547,sulfasalazine,A07EC01;G01AE10,"Arthritis, Rheumatoid",0.0,1.0
+PA451550,sulfinpyrazone,M04AB02,,0.0,1.0
+PA451565,sulindac,M01AB02,,0.0,1.0
+PA451566,sumatriptan,G01AE10;N02CC01,Cluster Headache,0.0,1.0
+PA451566,sumatriptan,G01AE10;N02CC01,,0.0,1.0
+PA451566,sumatriptan,G01AE10;N02CC01,Substance Withdrawal Syndrome,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,transplant rejection,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,"Diabetes Mellitus, Type 2",0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Gastroesophageal Reflux,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,hematopoietic stem cell transplantation,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,hemopoietic stem cell transplant,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Kidney Failure,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,heart transplantation,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Organ Transplantation,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,"Colitis, Ulcerative",0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Proteinuria,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,liver transplantation,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,nephrotoxicity,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Neurotoxicity Syndromes,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Hyperlipidemias,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Kidney Transplantation,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Toxic liver disease,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Transplantation,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,laparoscopic sleeve gastrectomy,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Nephrotic Syndrome,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Hypertension,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,lung transplantation,0.0,1.0
+PA451578,tacrolimus,D11AH01;L04AD02,Infection,0.0,1.0
+PA451581,tamoxifen,L02BA01,Breast Neoplasms,0.0,1.0
+PA451581,tamoxifen,L02BA01,Menopause,0.0,1.0
+PA451581,tamoxifen,L02BA01,,0.0,1.0
+PA451583,tamsulosin,G01AE10;G04CA02;G04CA52;G04CA53;G04CA54,,0.0,1.0
+PA451605,telmisartan,C09CA07;C09DA07;C09DB04;C09DX08,,0.0,1.0
+PA451605,telmisartan,C09CA07;C09DA07;C09DB04;C09DX08,Essential hypertension,0.0,1.0
+PA451609,temozolomide,L01AX03,Glioma,0.0,1.0
+PA451609,temozolomide,L01AX03,,0.0,1.0
+PA451614,terbinafine,D01AE15;D01BA02,,0.0,1.0
+PA451616,terbutaline,R03AC03;R03CC03;R03CC53,,0.0,1.0
+PA451627,testosterone,G03BA03;G03EA02,,0.0,1.0
+PA451632,tetanus antitoxin,,,,
+PA451644,thalidomide,L04AX02,Prostatic Neoplasms,0.0,1.0
+PA451644,thalidomide,L04AX02,Multiple Myeloma,0.0,1.0
+PA451644,thalidomide,L04AX02,,0.0,1.0
+PA451647,theophylline,R03DA04;R03DA20;R03DA54;R03DA74;R03DB04,,0.0,1.0
+PA451663,thioguanine,L01BB03,Crohn Disease,0.0,1.0
+PA451663,thioguanine,L01BB03,Thrombocytopenia,0.0,1.0
+PA451663,thioguanine,L01BB03,Neutropenia,0.0,1.0
+PA451663,thioguanine,L01BB03,Inflammatory Bowel Diseases,0.0,1.0
+PA451663,thioguanine,L01BB03,Osteonecrosis,0.0,1.0
+PA451663,thioguanine,L01BB03,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA451663,thioguanine,L01BB03,,0.0,1.0
+PA451663,thioguanine,L01BB03,Myelosuppression,0.0,1.0
+PA451666,thioridazine,N05AC02,Schizophrenia,0.0,1.0
+PA451666,thioridazine,N05AC02,,0.0,1.0
+PA451668,thiotepa,L01AC01,Neoplasms,0.0,1.0
+PA451668,thiotepa,L01AC01,,0.0,1.0
+PA451686,ticlopidine,B01AC05,,0.0,1.0
+PA451686,ticlopidine,B01AC05,Toxic liver disease,0.0,1.0
+PA451688,tiludronate,M05BA05,Osteitis Deformans,0.0,1.0
+PA451690,timolol,C07AA06;C07BA06;C07DA06;S01ED01;S01ED51,,0.0,1.0
+PA451690,timolol,C07AA06;C07BA06;C07DA06;S01ED01;S01ED51,Bradycardia,0.0,1.0
+PA451704,tobramycin,J01GB01;S01AA12,Ototoxicity,1.0,1.0
+PA451718,tolbutamide,A10BB03;G01AE10;V04CA01,,0.0,1.0
+PA451720,tolcapone,N04BX01,,0.0,1.0
+PA451728,topiramate,A08AA51;N03AX11,,0.0,1.0
+PA451728,topiramate,A08AA51;N03AX11,Alcohol-Related Disorders,0.0,1.0
+PA451728,topiramate,A08AA51;N03AX11,Epilepsy,0.0,1.0
+PA451729,topotecan,L01CE01,,0.0,1.0
+PA451729,topotecan,L01CE01,Brain Neoplasms,0.0,1.0
+PA451731,toremifene,L02BA02,,0.0,1.0
+PA451733,torasemide,C03CA04;G01AE10,,0.0,1.0
+PA451735,tramadol,N02AJ13;N02AJ14;N02AJ16;N02AX02,,0.0,1.0
+PA451735,tramadol,N02AJ13;N02AJ14;N02AJ16;N02AX02,Opioid-Related Disorders,0.0,1.0
+PA451735,tramadol,N02AJ13;N02AJ14;N02AJ16;N02AX02,Respiratory Insufficiency,0.0,1.0
+PA451735,tramadol,N02AJ13;N02AJ14;N02AJ16;N02AX02,neuropathic pain,0.0,1.0
+PA451735,tramadol,N02AJ13;N02AJ14;N02AJ16;N02AX02,cardiotoxicity,0.0,1.0
+PA451735,tramadol,N02AJ13;N02AJ14;N02AJ16;N02AX02,"Pain, Postoperative",0.0,1.0
+PA451735,tramadol,N02AJ13;N02AJ14;N02AJ16;N02AX02,adverse events,0.0,1.0
+PA451735,tramadol,N02AJ13;N02AJ14;N02AJ16;N02AX02,"Fractures, Bone",0.0,1.0
+PA451735,tramadol,N02AJ13;N02AJ14;N02AJ16;N02AX02,"Sexual Dysfunctions, Psychological",0.0,1.0
+PA451735,tramadol,N02AJ13;N02AJ14;N02AJ16;N02AX02,Pain,0.0,1.0
+PA451735,tramadol,N02AJ13;N02AJ14;N02AJ16;N02AX02,Exanthema,0.0,1.0
+PA451737,trandolapril,C09AA10;C09BB10,,0.0,1.0
+PA451737,trandolapril,C09AA10;C09BB10,Hypertension,0.0,1.0
+PA451743,trastuzumab,L01FD01;L01XY02,Drug Toxicity,0.0,1.0
+PA451743,trastuzumab,L01FD01;L01XY02,,0.0,1.0
+PA451743,trastuzumab,L01FD01;L01XY02,Breast Neoplasms,0.0,1.0
+PA451743,trastuzumab,L01FD01;L01XY02,Amenorrhea,0.0,1.0
+PA451744,trazodone,N06AX05,,0.0,1.0
+PA451746,tretinoin,,,,
+PA451749,triamcinolone,A01AC01;C05AA12;D07AB09;D07BB03;D07CB01;D07XB02;H02AB08;R01AD11;R03BA06;S01BA05;S02CA04,Asthma,0.0,1.0
+PA451749,triamcinolone,A01AC01;C05AA12;D07AB09;D07BB03;D07CB01;D07XB02;H02AB08;R01AD11;R03BA06;S01BA05;S02CA04,Retinal Diseases,0.0,1.0
+PA451749,triamcinolone,A01AC01;C05AA12;D07AB09;D07BB03;D07CB01;D07XB02;H02AB08;R01AD11;R03BA06;S01BA05;S02CA04,,0.0,1.0
+PA451771,trifluoperazine,N05AB06,Schizophrenia,0.0,1.0
+PA451771,trifluoperazine,N05AB06,,0.0,1.0
+PA451775,trifluridine,L01BC59;S01AD02,Colorectal Neoplasms,0.0,1.0
+PA451775,trifluridine,L01BC59;S01AD02,,0.0,1.0
+PA451776,triglycerides,,,,
+PA451776,triglycerides,,Menopause,,
+PA451776,triglycerides,,Breast Neoplasms,,
+PA451791,trimipramine,N06AA06,Mental Disorders,0.0,1.0
+PA451791,trimipramine,N06AA06,,0.0,1.0
+PA451799,troglitazone,A10BG01,"Diabetes Mellitus, Type 2",0.0,1.0
+PA451799,troglitazone,A10BG01,,0.0,1.0
+PA451835,urofollitropin,G03GA04,"Infertility, Female",0.0,1.0
+PA451835,urofollitropin,G03GA04,Ovarian hyperstimulation syndrome,0.0,1.0
+PA451835,urofollitropin,G03GA04,,0.0,1.0
+PA451837,ursodeoxycholic acid,A05AA02,,0.0,1.0
+PA451846,valproic acid,N03AG01,schizoaffective disorder,0.0,1.0
+PA451846,valproic acid,N03AG01,Psychotic Disorders,0.0,1.0
+PA451846,valproic acid,N03AG01,,0.0,1.0
+PA451846,valproic acid,N03AG01,Depressive Disorder,0.0,1.0
+PA451846,valproic acid,N03AG01,Bipolar Disorder,0.0,1.0
+PA451846,valproic acid,N03AG01,Toxic liver disease,0.0,1.0
+PA451846,valproic acid,N03AG01,Epilepsy,0.0,1.0
+PA451850,vancomycin,A07AA09;J01XA01;S01AA28,drug reaction with eosinophilia and systemic symptoms,1.0,1.0
+PA451850,vancomycin,A07AA09;J01XA01;S01AA28,,1.0,1.0
+PA451866,venlafaxine,N06AX16,Edema,0.0,1.0
+PA451866,venlafaxine,N06AX16,Anxiety Disorders,0.0,1.0
+PA451866,venlafaxine,N06AX16,Drug Toxicity,0.0,1.0
+PA451866,venlafaxine,N06AX16,"Depressive Disorder, Major",0.0,1.0
+PA451866,venlafaxine,N06AX16,Narcolepsy,0.0,1.0
+PA451866,venlafaxine,N06AX16,,0.0,1.0
+PA451866,venlafaxine,N06AX16,cardiotoxicity,0.0,1.0
+PA451866,venlafaxine,N06AX16,Alcohol-Related Disorders,0.0,1.0
+PA451866,venlafaxine,N06AX16,Depressive Disorder,0.0,1.0
+PA451866,venlafaxine,N06AX16,agitation,0.0,1.0
+PA451866,venlafaxine,N06AX16,Nausea,0.0,1.0
+PA451866,venlafaxine,N06AX16,dysphoria,0.0,1.0
+PA451866,venlafaxine,N06AX16,Tachycardia,0.0,1.0
+PA451866,venlafaxine,N06AX16,Obsessive-Compulsive Disorder,0.0,1.0
+PA451866,venlafaxine,N06AX16,Vomiting,0.0,1.0
+PA451866,venlafaxine,N06AX16,Depression,0.0,1.0
+PA451868,verapamil,C08DA01;C08DA51;C09BB10,Coronary Artery Disease,0.0,1.0
+PA451868,verapamil,C08DA01;C08DA51;C09BB10,Hypertension,0.0,1.0
+PA451868,verapamil,C08DA01;C08DA51;C09BB10,Acquired Long QT Syndrome (aLQTS),0.0,1.0
+PA451868,verapamil,C08DA01;C08DA51;C09BB10,,0.0,1.0
+PA451868,verapamil,C08DA01;C08DA51;C09BB10,Diabetes Mellitus,0.0,1.0
+PA451871,verteporfin,S01LA01,,0.0,1.0
+PA451877,vinblastine,L01CA01,,0.0,1.0
+PA451879,vincristine,L01CA02,Osteosarcoma,0.0,1.0
+PA451879,vincristine,L01CA02,"Lymphoma, Non-Hodgkin",0.0,1.0
+PA451879,vincristine,L01CA02,"Leukemia, Lymphocytic, Chronic, B-Cell",0.0,1.0
+PA451879,vincristine,L01CA02,Osteonecrosis,0.0,1.0
+PA451879,vincristine,L01CA02,"Lymphoma, Large B-Cell, Diffuse",0.0,1.0
+PA451879,vincristine,L01CA02,,0.0,1.0
+PA451879,vincristine,L01CA02,Neurotoxicity Syndromes,0.0,1.0
+PA451879,vincristine,L01CA02,Drug Toxicity,0.0,1.0
+PA451879,vincristine,L01CA02,Precursor Cell Lymphoblastic Leukemia-Lymphoma,0.0,1.0
+PA451879,vincristine,L01CA02,Multiple Myeloma,0.0,1.0
+PA451881,vinorelbine,L01CA04,"Carcinoma, Non-Small-Cell Lung",0.0,1.0
+PA451881,vinorelbine,L01CA04,,0.0,1.0
+PA451892,cyanocobalamin,B03AE01;B03BA01;B03BA51,Neoplasms,0.0,1.0
+PA451892,cyanocobalamin,B03AE01;B03BA01;B03BA51,,0.0,1.0
+PA451898,vitamin c,A11GA01;A11GB01;G01AD03;S01XA15,,0.0,1.0
+PA451900,vitamin e,,,,
+PA451906,warfarin,B01AA03,over-anticoagulation,0.0,1.0
+PA451906,warfarin,B01AA03,Cardiovascular Diseases,0.0,1.0
+PA451906,warfarin,B01AA03,time in therapeutic range,0.0,1.0
+PA451906,warfarin,B01AA03,,0.0,1.0
+PA451906,warfarin,B01AA03,time to therapeutic inr,0.0,1.0
+PA451906,warfarin,B01AA03,Thrombosis,0.0,1.0
+PA451906,warfarin,B01AA03,Hemorrhage,0.0,1.0
+PA451906,warfarin,B01AA03,Atrial Fibrillation,0.0,1.0
+PA451906,warfarin,B01AA03,heart valve replacement,0.0,1.0
+PA451906,warfarin,B01AA03,venous thromboembolism,0.0,1.0
+PA451949,zafirlukast,R03DC01,,0.0,1.0
+PA451954,zidovudine,J05AF01;J05AR01;J05AR04;J05AR05,HIV Infections,1.0,0.0
+PA451954,zidovudine,J05AF01;J05AR01;J05AR04;J05AR05,,1.0,0.0
+PA451955,zileuton,,Asthma,,
+PA451955,zileuton,,,,
+PA451961,zinc acetate,,,,
+PA451974,ziprasidone,N05AE04,,0.0,1.0
+PA451974,ziprasidone,N05AE04,Schizophrenia,0.0,1.0
+PA451976,zolpidem,N05CF02,,0.0,1.0
+PA451978,zonisamide,G01AE10;N03AX15,Stevens-Johnson Syndrome,0.0,1.0
+PA451978,zonisamide,G01AE10;N03AX15,,0.0,1.0
+PA451978,zonisamide,G01AE10;N03AX15,"Epidermal Necrolysis, Toxic",0.0,1.0
+PA451991,benzene,,,,
+PA451996,azacitidine,L01BC07,,0.0,1.0
+PA451999,interferons,,"Carcinoma, Renal Cell",,
+PA451999,interferons,,Hepatitis C,,
+PA451999,interferons,,"Hepatitis C, Chronic",,
+PA451999,interferons,,,,
+PA452167,aminoglycoside antibacterials,,Ototoxicity,,
+PA452167,aminoglycoside antibacterials,,,,
+PA452200,antithrombotic agents,,,,
+PA452229,antidepressants,,Bipolar Disorder,,
+PA452229,antidepressants,,Respiratory Insufficiency,,
+PA452229,antidepressants,,Migraine with Aura,,
+PA452229,antidepressants,,Overdose,,
+PA452229,antidepressants,,Headache Disorders,,
+PA452229,antidepressants,,Depressive Disorder,,
+PA452229,antidepressants,,,,
+PA452229,antidepressants,,adverse events,,
+PA452229,antidepressants,,Depression,,
+PA452229,antidepressants,,Mood Disorders,,
+PA452229,antidepressants,,Heart Arrest,,
+PA452229,antidepressants,,"Depressive Disorder, Major",,
+PA452229,antidepressants,,Migraine without Aura,,
+PA452233,antipsychotics,,Overdose,,
+PA452233,antipsychotics,,Weight gain,,
+PA452233,antipsychotics,,Heart Arrest,,
+PA452233,antipsychotics,,,,
+PA452233,antipsychotics,,tardive dyskinesia,,
+PA452233,antipsychotics,,Schizophrenia,,
+PA452233,antipsychotics,,Respiratory Insufficiency,,
+PA452233,antipsychotics,,Psychotic Disorders,,
+PA452233,antipsychotics,,Autism Spectrum Disorder,,
+PA452233,antipsychotics,,Mood Disorders,,
+PA452233,antipsychotics,,Mental Disorders,,
+PA452233,antipsychotics,,Dystonia,,
+PA452249,"antiarrhythmics, class i and iii",,,,
+PA452347,glucocorticoids,,Asthma,,
+PA452347,glucocorticoids,,"Arthritis, Rheumatoid",,
+PA452347,glucocorticoids,,,,
+PA452610,sparteine,C01BA04,,0.0,1.0
+PA452615,moclobemide,N06AG02,,0.0,1.0
+PA452616,debrisoquine,C02CC04,,0.0,1.0
+PA452618,opioids,,Death,,
+PA452618,opioids,,Sleep Disorders,,
+PA452618,opioids,,adverse events,,
+PA452618,opioids,,Overdose,,
+PA452618,opioids,,Opioid-Related Disorders,,
+PA452618,opioids,,Nausea,,
+PA452618,opioids,,Vomiting,,
+PA452618,opioids,,"Pain, Postoperative",,
+PA452618,opioids,,Pain,,
+PA452618,opioids,,Heroin Dependence,,
+PA452618,opioids,,Substance-Related Disorders,,
+PA452618,opioids,,Heart Arrest,,
+PA452618,opioids,,,,
+PA452618,opioids,,"Sexual Dysfunctions, Psychological",,
+PA452618,opioids,,Dizziness,,
+PA452618,opioids,,Low Back Pain,,
+PA452618,opioids,,Respiratory Insufficiency,,
+PA452618,opioids,,Hyperalgesia,,
+PA452618,opioids,,Neoplasms,,
+PA452618,opioids,,Substance Withdrawal Syndrome,,
+PA452619,heroin,N07BC06,Heroin Dependence,0.0,1.0
+PA452619,heroin,N07BC06,Cocaine-Related Disorders,0.0,1.0
+PA452619,heroin,N07BC06,Memory Disorders,0.0,1.0
+PA452619,heroin,N07BC06,,0.0,1.0
+PA452619,heroin,N07BC06,Opioid-Related Disorders,0.0,1.0
+PA452619,heroin,N07BC06,Substance-Related Disorders,0.0,1.0
+PA452620,tegafur,,Neoplasms,,
+PA452620,tegafur,,,,
+PA452620,tegafur,,Drug Toxicity,,
+PA452620,tegafur,,Colorectal Neoplasms,,
+PA452621,antineoplastic agents,,Pancreatic Neoplasms,,
+PA452621,antineoplastic agents,,Breast Neoplasms,,
+PA452621,antineoplastic agents,,Neoplasms,,
+PA452621,antineoplastic agents,,Drug Toxicity,,
+PA452621,antineoplastic agents,,,,
+PA452629,zuclopenthixol,N05AF05,,0.0,1.0
+PA452629,zuclopenthixol,N05AF05,Schizophrenia,0.0,1.0
+PA452631,thiazolidinediones,,,,
+PA452631,thiazolidinediones,,"Diabetes Mellitus, Type 2",,
+PA452632,acenocoumarol,B01AA07,,0.0,1.0
+PA452632,acenocoumarol,B01AA07,Hemorrhage,0.0,1.0
+PA452632,acenocoumarol,B01AA07,over-anticoagulation,0.0,1.0
+PA452632,acenocoumarol,B01AA07,venous thromboembolism,0.0,1.0
+PA452632,acenocoumarol,B01AA07,Atrial Fibrillation,0.0,1.0
+PA452633,morphine-6-glucuronide,,,,
+PA452634,purine analogues,,,,
+PA452634,purine analogues,,"Lupus Erythematosus, Systemic",,
+PA452637,hormonal contraceptives for systemic use,,Thrombosis,,
+PA452637,hormonal contraceptives for systemic use,,,,
+PA452637,hormonal contraceptives for systemic use,,Stroke,,
+PA452637,hormonal contraceptives for systemic use,,Venous Thrombosis,,
+PA452638,arsenite,,,,
+PA452639,infliximab,L04AB02,Psoriasis,0.0,1.0
+PA452639,infliximab,L04AB02,"Arthritis, Rheumatoid",0.0,1.0
+PA452639,infliximab,L04AB02,"Arthritis, Psoriatic",0.0,1.0
+PA452639,infliximab,L04AB02,,0.0,1.0
+PA452639,infliximab,L04AB02,Crohn Disease,0.0,1.0
+PA452639,infliximab,L04AB02,drug-induced liver injury,0.0,1.0
+PA452640,imidapril,C09AA16,Essential hypertension,0.0,1.0
+PA452640,imidapril,C09AA16,Cough,0.0,1.0
+PA452640,imidapril,C09AA16,Hypertension,0.0,1.0
+PA452640,imidapril,C09AA16,,0.0,1.0
+PA7000,sorafenib,L01EX02,Drug Toxicity,0.0,1.0
+PA7000,sorafenib,L01EX02,Hyperbilirubinemia,0.0,1.0
+PA7000,sorafenib,L01EX02,"Carcinoma, Renal Cell",0.0,1.0
+PA7000,sorafenib,L01EX02,Diarrhea,0.0,1.0
+PA7000,sorafenib,L01EX02,Neoplasms,0.0,1.0
+PA7000,sorafenib,L01EX02,Exanthema,0.0,1.0
+PA7000,sorafenib,L01EX02,Hepatitis C,0.0,1.0
+PA7000,sorafenib,L01EX02,Liver Neoplasms,0.0,1.0
+PA7000,sorafenib,L01EX02,,0.0,1.0
+PA7000,sorafenib,L01EX02,hand-foot syndrome,0.0,1.0
+PA7000,sorafenib,L01EX02,Thrombocytopenia,0.0,1.0
+PA7000,sorafenib,L01EX02,Hypertension,0.0,1.0
+PA7000,sorafenib,L01EX02,"Carcinoma, Hepatocellular",0.0,1.0
