@@ -5,19 +5,23 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.pipeline import Pipeline
 import joblib
 import topicwizard
+import seaborn as sns
+import matplotlib.pyplot as plt
 
-TFIDF = False
-PORT = 5151
+TFIDF = True
+
+SCOPE = "all_outcomes_all_genes"
 
 root = os.path.dirname(os.path.abspath(__file__))
 data_dir = os.path.abspath(os.path.join(root, "..", "..", "data"))
-results_dir = os.path.abspath(os.path.join(root, "..", "..", "results", "topicmodeling"))
+results_dir = os.path.abspath(os.path.join(root, "..", "..", "results", "topicmodeling", SCOPE))
 if not os.path.exists(results_dir):
     os.makedirs(results_dir, exist_ok=True)
 
-df = pd.read_csv(os.path.join(data_dir, "ml_datasets_matrix", "df_only_pk_only_adme_genes.csv"))
+df = pd.read_csv(os.path.join(data_dir, "ml_datasets_matrix", "df_{0}.csv".format(SCOPE)))
 
 print(df.columns)
+print(df.shape)
 
 prot_names_df = pd.read_csv(os.path.join(data_dir, "other", "pgkb_gene_uniprot_mapping.tsv"), sep="\t")
 
@@ -64,8 +68,6 @@ create_documents()
 
 # Topic modeling
 
-num_topic_trials = [10, 11, 12, 13, 14, 15, 16]
-
 def tokenizer(x):
     return x.split(" ")
 
@@ -88,7 +90,7 @@ texts = get_texts()
 doc_names = get_doc_names()
  
 def fit_topic_pipeline(num_topics):
-    mdl = NMF(n_components=num_topics, max_iter=1000)
+    mdl = NMF(n_components=num_topics, max_iter=10000)
     topic_pipeline = Pipeline(
        [
           ("vec", vectorizer),
@@ -180,8 +182,7 @@ joblib.dump(processed_topicwizard_data, os.path.join(results_dir, "processed_top
 W = document_topic_matrix
 
 ## Plotting
-import seaborn as sns
-import matplotlib.pyplot as plt
+print("Plotting")
 
 sns.clustermap(pd.DataFrame(W, index=document_names, columns=topic_names), cmap="YlGnBu")
 

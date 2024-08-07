@@ -20,8 +20,19 @@ df = pd.read_csv(os.path.join(root, "..", "..", "results", "results_pairs", "che
 print(df.columns)
 print(df.head())
 
+print(len(set(df["chemical"])))
+
+print("Reshaping dataframes into documents, each drug, one document")
+
+documents_list = []
+
+
+
+
 import sys
 sys.exit()
+
+
 
 prot_names_df = pd.read_csv(os.path.join(data_dir, "other", "pgkb_gene_uniprot_mapping.tsv"), sep="\t")
 
