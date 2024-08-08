@@ -1,0 +1,33 @@
+chemical,Enzyme,Transporter,Excretion,SMILES,cid,disease
+artemether,CYP2B6,,,C[C@@H]1CC[C@H]2[C@H]([C@H](O[C@H]3[C@@]24[C@H]1CC[C@@](O3)(OO4)C)OC)C,PA165111698,malaria
+lumefantrine,"CYP3A4, CYP3A5",,,CCCCN(CCCC)CC(C1=C2C3=C(C=C(C=C3)Cl)/C(=C/C4=CC=C(C=C4)Cl)/C2=CC(=C1)Cl)O,PA165111722,malaria
+quinine,CYP3A4 ,,,COC1=CC2=C(C=CN=C2C=C1)[C@H]([C@@H]3CC4CCN3C[C@@H]4C=C)O,PA451213,malaria
+artesunate,Esterase,,,C[C@@H]1CC[C@H]2[C@H]([C@H](O[C@H]3[C@@]24[C@H]1CCC(O3)(OO4)C)OC(=O)CCC(=O)O)C,PA165111697,malaria
+sulfadoxine,NAT2,,Glomerular filtration,COC1=C(N=CN=C1OC)NS(=O)(=O)C2=CC=C(C=C2)N,PA451540,malaria
+pyrimethamine,Cytochrome P450,,Glomerular filtration,CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl,PA451193,malaria
+amodiaquine,CYP2C8,,,CCN(CC)CC1=C(C=CC(=C1)NC2=C3C=CC(=CC3=NC=C2)Cl)O,PA448404,malaria
+dihydroartemisinin,"UGT1A9, UGT2B7",,,C[C@@H]1CC[C@H]2[C@H](C(O[C@H]3[C@@]24[C@H]1CC[C@@](O3)(OO4)C)O)C,PA166131280,malaria
+piperaquine,"CYP3A4, CYP2C9, CYP2C19",,,C1CN(CCN1CCCN2CCN(CC2)C3=C4C=CC(=CC4=NC=C3)Cl)C5=C6C=CC(=CC6=NC=C5)Cl,PA166104279,malaria
+doxycycline,,,Glomerular filtration,C[C@@H]1[C@H]2[C@@H]([C@H]3[C@@H](C(=O)/C(=C(\N)/O)/C(=O)[C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)N(C)C)O,PA449415,malaria
+clindamycin,"CYP3A4, CYP3A5",,,CCC[C@@H]1C[C@H](N(C1)C)C(=O)NC([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)O)O)O)C(C)Cl,PA449035,malaria
+chloroquine,"CYP2C8, CYP3A4, CYP3A5, CYP2D6, CYP1A1",,,CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl,PA448948,malaria
+primaquine,CYP2D6,,,CC(CCCN)NC1=C2C(=CC(=C1)OC)C=CC=N2,PA451103,malaria
+mefloquine,CYP3A4,,,C1CCNC(C1)C(C2=CC(=NC3=C2C=CC=C3C(F)(F)F)C(F)(F)F)O,PA450348,malaria
+streptomycin,,,Glomerular filtration,C[C@H]1[C@@]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H]([C@@H]([C@H]2O)O)N=C(N)N)O)N=C(N)N)O[C@H]3[C@H]([C@@H]([C@H]([C@@H](O3)CO)O)O)NC)(C=O)O,PA451512,tuberculosis
+rifampin,Carboxylesterase 2 (CES2),OATP1B1 (SLCO1B1),,C[C@H]1/C=C/C=C(\C(=O)NC\2=C(C3=C(C(=C4C(=C3C(=O)/C2=C/NN5CCN(CC5)C)C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C,PA451250,tuberculosis
+isoniazid,NAT2,,,C1=CN=CC=C1C(=O)NN,PA450112,tuberculosis
+pyrazinamide,"Xanthine oxidase, microsomal deamidase",,,C1=CN=C(C=N1)C(=O)N,PA451182,tuberculosis
+ethambutol,Aldehyde dehydrogenase,,Glomerular filtration,CCC(CO)NCCNC(CC)CO,PA164784021,tuberculosis
+ethionamide,"FMO2, FMO3",,,CCC1=NC=CC(=C1)C(=S)N,PA164768738,tuberculosis
+rifapentine,Esterases,,,C[C@H]1/C=C/C=C(\C(=O)NC\2=C(C3=C(C(=C4C(=C3C(=O)/C2=C/NN5CCN(CC5)C6CCCC6)C(=O)[C@](O4)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C)O)O)/C,PA164783809,tuberculosis
+moxifloxacin,UGT1A1,,Glomerular filtration,COC1=C2C(=CC(=C1N3C[C@@H]4CCCN[C@@H]4C3)F)C(=O)C(=CN2C5CC5)C(=O)O,PA450555,tuberculosis
+levofloxacin,,"ABCB1, ABCG2",Glomerular filtration,C[C@H]1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O,PA450214,tuberculosis
+bedaquiline,"CYP3A4, CYP2C8, CYP2C19",,,CN(C)CC[C@@](C1=CC=CC2=CC=CC=C21)([C@H](C3=CC=CC=C3)C4=C(N=C5C=CC(=CC5=C4)Br)OC)O,PA166182604,tuberculosis
+linezolid,,,Glomerular filtration,CC(=O)NC[C@H]1CN(C(=O)O1)C2=CC(=C(C=C2)N3CCOCC3)F,PA450233,tuberculosis
+clofazimine,"CYP1A2, CYP3A, UGT1A1, 1A3, 1A4, 1A9, 2B4",,,CC(C)N=C1C=C2C(=NC3=CC=CC=C3N2C4=CC=C(C=C4)Cl)C=C1NC5=CC=C(C=C5)Cl,PA164748759,tuberculosis
+cycloserine,Alanine racemase,,Glomerular filtration,C1C(C(=O)NO1)N,PA164764600,tuberculosis
+terizidone,Hydrolase,,,C1C(C(=O)NO1)N=CC2=CC=C(C=C2)C=NC3CONC3=O,,tuberculosis
+delamanid,"Serum albumin, CYP3A4",,,C[C@@]1(CN2C=C(N=C2O1)[N+](=O)[O-])COC3=CC=C(C=C3)N4CCC(CC4)OC5=CC=C(C=C5)OC(F)(F)F,PA166324861,tuberculosis
+aminosalicylic acid,,,,C1=CC(=C(C=C1N)O)C(=O)O,PA448382,tuberculosis
+pretomanid, CYP3A4 ,,"Glomerular filtration, faeces",C1[C@@H](COC2=NC(=CN21)[N+](=O)[O-])OCC3=CC=C(C=C3)OC(F)(F)F,,tuberculosis
+capreomycin,,,Glomerular filtration,C[C@H]1C(=O)N[C@H](C(=O)N/C(=C/NC(=O)N)/C(=O)N[C@H](C(=O)NC[C@@H](C(=O)N1)N)[C@H]2CCN=C(N2)N)CNC(=O)C[C@H](CCCN)N,PA164746226,tuberculosis
