@@ -20,7 +20,6 @@ if not os.path.exists(results_dir):
 
 df = pd.read_csv(os.path.join(data_dir, "ml_datasets_matrix", "df_{0}.csv".format(SCOPE)))
 
-print(df.columns)
 print(df.shape)
 
 prot_names_df = pd.read_csv(os.path.join(data_dir, "other", "pgkb_gene_uniprot_mapping.tsv"), sep="\t")
@@ -33,6 +32,7 @@ df.rename(columns=prot2gene, inplace=True)
 
 inchikeys = list(df["Unnamed: 0"])
 df = df.drop(columns=["Unnamed: 0"], inplace=False)
+df.index = inchikeys
 
 # Create documents
 
@@ -41,7 +41,8 @@ df = df.drop(columns=["Unnamed: 0"], inplace=False)
 # 50+: weight 3
 documents_list = []
 cols = list(df.columns)
-for v in df.values:
+kept_idxs = []
+for j, v in enumerate(df.values):
     document = []
     for i, x in enumerate(v):
         if x == 0:
@@ -53,6 +54,9 @@ for v in df.values:
         else:
             n = 3
         document += [cols[i]] * n
+    if len(set(document)) < 5:
+        continue
+    kept_idxs.append(j)
     documents_list += [" ".join(document)]
 
 def create_documents():
@@ -60,7 +64,7 @@ def create_documents():
     f1 = open("{0}/inchikeys.txt".format(results_dir), "w")
     for i, g in enumerate(documents_list):
         f0.write(g + "\n")
-        f1.write(inchikeys[i] + "\n")
+        f1.write(inchikeys[kept_idxs[i]] + "\n")
     f0.close()
     f1.close()
 
