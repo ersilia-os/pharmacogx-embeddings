@@ -1,0 +1,32 @@
+metapath	source	auroc_average	auroc_std	covered_edges	covered_CPD	covered_GEN	CPD_nodes	GEN_nodes
+CPD-int-GEN	drugbank	0.696	0.009	160 (50.0%)	17 (53.12%)	41 (67.21%)	4977	2148
+CPD-int-GEN	drugbank_pk	0.656	0.009	152 (47.5%)	17 (53.12%)	37 (60.66%)	1895	368
+CPD-cau-DIS-upr-GEN	offsides+sider-creeds_disease_curated	0.606	0.019	84 (26.25%)	9 (28.12%)	34 (55.74%)	1331	14419
+CPD-int-GEN-ppi-GEN	curated_targets-string	0.599	0.01	96 (30.0%)	10 (31.25%)	38 (62.3%)	5098	11588
+CPD-int-GEN	drugbank_pd	0.588	0.007	79 (24.69%)	10 (31.25%)	24 (39.34%)	4338	1932
+CPD-sim-CPD-int-GEN	fp2d_CC-curated_targets	0.586	0.013	66 (20.62%)	9 (28.12%)	20 (32.79%)	11991	1552
+CPD-cau-DIS-dwr-GEN	offsides+sider-creeds_disease_curated	0.569	0.011	84 (26.25%)	9 (28.12%)	33 (54.1%)	1331	14694
+CPD-cau-DIS-ass-GEN	offsides+sider-opentargets	0.546	0.013	84 (26.25%)	9 (28.12%)	34 (55.74%)	1357	14852
+CPD-int-GEN-cex-GEN	curated_targets-coexpressdb	0.544	0.012	94 (29.38%)	10 (31.25%)	35 (57.38%)	4937	14040
+CPD-sim-CPD-dwr-GEN	cc_sim-lincs_hetionet	0.537	0.012	51 (15.94%)	21 (65.62%)	16 (26.23%)	53970	5645
+CPD-int-GEN-ppi-GEN	curated_targets-intact	0.527	0.012	84 (26.25%)	10 (31.25%)	32 (52.46%)	5019	13021
+CPD-trt-DIS-upr-GEN	repodb-creeds_disease_curated	0.525	0.011	131 (40.94%)	14 (43.75%)	43 (70.49%)	1106	14572
+CPD-int-GEN	repohub	0.51	0.022	58 (18.12%)	9 (28.12%)	20 (32.79%)	3512	1080
+CPD-upr-GEN-ppi-GEN	lincs_hetionet-string	0.509	0.013	87 (27.19%)	9 (28.12%)	27 (44.26%)	10655	14695
+CPD-trt-DIS-dwr-GEN	repodb-creeds_disease_curated	0.503	0.013	131 (40.94%)	14 (43.75%)	43 (70.49%)	1106	14944
+CPD-sim-CPD-int-GEN	cc_sim-curated_targets	0.498	0.008	152 (47.5%)	18 (56.25%)	36 (59.02%)	35601	2330
+CPD-int-GEN	curated_targets	0.496	0.017	116 (36.25%)	14 (43.75%)	32 (52.46%)	7338	2244
+CPD-trt-DIS-ass-GEN	repodb-opentargets	0.493	0.013	129 (40.31%)	14 (43.75%)	42 (68.85%)	1148	14832
+CPD-dwr-GEN-cex-GEN	lincs_hetionet-coexpressdb	0.48	0.014	96 (30.0%)	12 (37.5%)	25 (40.98%)	11181	13610
+CPD-upr-GEN-cex-GEN	lincs_hetionet-coexpressdb	0.477	0.015	75 (23.44%)	9 (28.12%)	24 (39.34%)	10597	14420
+CPD-sim-CPD-upr-GEN	cc_sim-lincs_hetionet	0.474	0.009	59 (18.44%)	19 (59.38%)	16 (26.23%)	53108	6102
+CPD-cau-DIS-ass-GEN	offsides+sider-disgenet_curated+disgenet_inferred	0.47	0.014	90 (28.12%)	9 (28.12%)	37 (60.66%)	1361	10718
+CPD-trt-DIS-ass-GEN	repodb-disgenet_curated+disgenet_inferred	0.468	0.009	137 (42.81%)	14 (43.75%)	45 (73.77%)	1152	10745
+CPD-dwr-GEN-ppi-GEN	lincs_hetionet-string	0.463	0.013	113 (35.31%)	12 (37.5%)	30 (49.18%)	11118	14603
+CPD-upr-GEN-ppi-GEN	lincs_hetionet-intact	0.451	0.013	73 (22.81%)	9 (28.12%)	26 (42.62%)	10632	15080
+CPD-dwr-GEN-ppi-GEN	lincs_hetionet-intact	0.427	0.008	94 (29.38%)	12 (37.5%)	28 (45.9%)	11246	14976
+CPD-int-GEN-cdp-GEN	curated_targets-depmap_agreement_ccr			48 (15.0%)	8 (25.0%)	15 (24.59%)	4279	7100
+CPD-int-GEN	drugcentral			47 (14.69%)	9 (28.12%)	19 (31.15%)	1389	911
+CPD-upr-GEN-cdp-GEN	lincs_hetionet-depmap_agreement_ccr			47 (14.69%)	9 (28.12%)	11 (18.03%)	9772	9915
+CPD-dwr-GEN-cdp-GEN	lincs_hetionet-depmap_agreement_ccr			43 (13.44%)	11 (34.38%)	9 (14.75%)	10671	9415
+CPD-sim-CPD-upr-GEN	fp2d_CC-lincs_hetionet			37 (11.56%)	13 (40.62%)	12 (19.67%)	30168	5720

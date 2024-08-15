@@ -1,0 +1,49 @@
+metapath	source	auroc_average	auroc_std	covered_edges	covered_GEN	n1_nodes	n2_nodes
+GEN-int-CPD	drugbank_pk	0.711	0.017	87 (67.97%)	43 (75.44%)	368	1895
+GEN-int-CPD	drugbank	0.685	0.02	104 (81.25%)	49 (85.96%)	2148	4977
+GEN-ass-DIS	disgenet_curated+disgenet_inferred	0.643	0.013	115 (89.84%)	53 (92.98%)	10831	5810
+GEN-ass-DIS	disgenet_curated+disgenet_inferred+disgenet_befree	0.637	0.012	124 (96.88%)	56 (98.25%)	15715	7154
+GEN-int-CPD	drugbank_pd	0.637	0.026	59 (46.09%)	33 (57.89%)	1932	4338
+GEN-dws-CPD	pharmacodb_associations	0.63	0.022	58 (45.31%)	38 (66.67%)	13916	598
+GEN-_upr-GEN	dorothea_AB+dorothea_CD	0.62	0.021	55 (42.97%)	35 (61.4%)	6190	6190
+GEN-int-CPD	curated_targets	0.618	0.013	74 (57.81%)	39 (68.42%)	2244	7338
+GEN-ppi-GEN	string	0.611	0.011	110 (85.94%)	53 (92.98%)	16468	16468
+GEN-has-MFN	gomf_goa_curated	0.611	0.012	121 (94.53%)	55 (96.49%)	13062	4208
+GEN-ass-PWY	reactome	0.607	0.014	114 (89.06%)	53 (92.98%)	10696	1848
+GEN-has-CMP	jensencompartmentcurated	0.606	0.014	113 (88.28%)	54 (94.74%)	16840	1962
+GEN-cnd-CLL	cclecnv_HMZ	0.602	0.015	124 (96.88%)	56 (98.25%)	18706	1010
+GEN-ass-DIS	disgenet_curated	0.6	0.02	99 (77.34%)	48 (84.21%)	8416	5427
+GEN-upr_-GEN	dorothea_AB+dorothea_CD	0.599	0.033	55 (42.97%)	35 (61.4%)	6190	6190
+GEN-cnu-CLL	cclecnv_HMZ	0.598	0.014	124 (96.88%)	56 (98.25%)	18707	1007
+GEN-ppi-GEN	omnipath	0.571	0.014	69 (53.91%)	41 (71.93%)	10546	10546
+GEN-ass-DIS	ctddisease	0.569	0.026	97 (75.78%)	47 (82.46%)	7575	4558
+GEN-_reg-GEN	dorothea_AB+dorothea_CD	0.564	0.03	58 (45.31%)	37 (64.91%)	7216	7216
+GEN-upr-TIS	gtextissue_HMZ	0.562	0.014	110 (85.94%)	53 (92.98%)	17834	28
+GEN-ass-DIS	opentargets	0.554	0.011	96 (75.0%)	50 (87.72%)	14893	4155
+GEN-upr-TIS	hpa_rna_cons	0.551	0.013	51 (39.84%)	32 (56.14%)	5325	60
+GEN-cex-GEN	coexpressdb	0.546	0.013	104 (81.25%)	50 (87.72%)	16277	16277
+GEN-ppi-GEN	intact	0.544	0.026	93 (72.66%)	46 (80.7%)	16329	16329
+GEN-upr-DIS	creeds_disease_curated	0.542	0.015	108 (84.38%)	52 (91.23%)	14659	690
+GEN-ass-TIS	jensentissuecurated	0.536	0.015	107 (83.59%)	52 (91.23%)	16206	437
+GEN-upr-CLL	gdsc1000_mrna	0.533	0.027	57 (44.53%)	33 (57.89%)	10327	934
+GEN-reg_-GEN	dorothea_AB+dorothea_CD	0.521	0.018	58 (45.31%)	37 (64.91%)	7216	7216
+GEN-ups-CPD	pharmacodb_associations	0.502	0.037	78 (60.94%)	44 (77.19%)	16143	598
+GEN-dwr-DIS	creeds_disease_curated	0.484	0.018	106 (82.81%)	51 (89.47%)	14997	690
+GEN-mut-CLL	ccle_mut	0.479	0.018	90 (70.31%)	48 (84.21%)	17133	1736
+GEN-dwr-TIS	gtextissue_HMZ	0.475	0.02	91 (71.09%)	50 (87.72%)	17761	28
+GEN-has-DOM	interpro			39 (30.47%)	29 (50.88%)	14105	11367
+GEN-pab-CLL	ccle_proteome			35 (27.34%)	28 (49.12%)	8437	366
+GEN-upr-CLL	ccle_rna			44 (34.38%)	28 (49.12%)	5106	1198
+GEN-_reg-GEN	dorothea_AB			42 (32.81%)	27 (47.37%)	2563	2563
+GEN-int-CPD	repohub			40 (31.25%)	27 (47.37%)	1080	3512
+GEN-cdp-GEN	depmap_agreement_ccr			32 (25.0%)	27 (47.37%)	12199	12199
+GEN-reg_-GEN	dorothea_AB			42 (32.81%)	27 (47.37%)	2563	2563
+GEN-pab-TIS	hpa_proteome			37 (28.91%)	25 (43.86%)	7560	46
+GEN-pdf-TIS	hpa_proteome			36 (28.12%)	25 (43.86%)	8959	44
+GEN-pdf-CLL	ccle_proteome			30 (23.44%)	25 (43.86%)	8285	366
+GEN-dwr-CLL	gdsc1000_mrna			28 (21.88%)	25 (43.86%)	11791	934
+GEN-ngi-GEN	eytan_2018			24 (18.75%)	23 (40.35%)	8369	8369
+GEN-int-CPD	drugcentral			27 (21.09%)	23 (40.35%)	911	1389
+GEN-_upr-GEN	dorothea_AB			29 (22.66%)	22 (38.6%)	2147	2147
+GEN-upr_-GEN	dorothea_AB			29 (22.66%)	22 (38.6%)	2147	2147
+GEN-upr-CPD	lincs_hetionet			20 (15.62%)	20 (35.09%)	6117	10711
