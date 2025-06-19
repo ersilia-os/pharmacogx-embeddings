@@ -6,3 +6,7 @@ data/variants/1000_Genomes/100000_subset_snvs_coding_1kGPhg38.tsv filter=lfs dif
 data/gwas_ebi/gwas_catalog*.tsv filter=lfs diff=lfs merge=lfs -text
 data/gwas_ebi/gwas_catalog_biogpt_embeddings.h5 filter=lfs diff=lfs merge=lfs -text
 embeddings/protein-sequence---uniprot.joblib filter=lfs diff=lfs merge=lfs -text
+paper_revision/data/ml_datasets_pairs_ev3/chemical_gene_pairs_prediction_input.csv filter=lfs diff=lfs merge=lfs -text
+paper_revision/data/ml_datasets_pairs_ev2/chemical_gene_pairs_prediction_input.csv filter=lfs diff=lfs merge=lfs -text
+paper_revision/results/results_pairs_ev3/chemical_gene_pairs_prediction_output_focus.csv filter=lfs diff=lfs merge=lfs -text
+paper_revision/results/results_pairs_ev3/chemical_gene_pairs_prediction_output_focus_with_variant_aggregates.csv filter=lfs diff=lfs merge=lfs -text

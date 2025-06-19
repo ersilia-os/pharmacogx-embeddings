@@ -7,6 +7,10 @@ data/variants/residue_level_embeddings/human_proteome_uniprot_per_residue.h5
 data/drugbank/full_database.xml
 development.py
 .DS_Store
+paper_revision/models/models_pairs_ev3/
+paper_revision/models/models_pairs_ev2/
+paper_revision/results/results_pairs_ev3/chunks/
+paper_revision/results/results_pairs_ev2/chunks/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
