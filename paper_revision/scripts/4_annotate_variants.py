@@ -2,6 +2,9 @@ import os
 import pandas as pd
 import collections
 import numpy as np
+import sys
+
+exp = sys.argv[1]
 
 root = os.path.dirname(os.path.abspath(__file__))
 
@@ -9,7 +12,7 @@ file_path = os.path.join(
     root,
     "..",
     "results",
-    "results_pairs_ev2",
+    f"results_pairs_{exp}",
     "chemical_gene_pairs_prediction_output_focus.csv",
 )
 
@@ -100,7 +103,7 @@ df_final.to_csv(
         root,
         "..",
         "results",
-        "results_pairs_ev2",
+        f"results_pairs_{exp}",
         "chemical_gene_pairs_prediction_output_focus_with_variant_aggregates.csv",
     ),
     index=False,

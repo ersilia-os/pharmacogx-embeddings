@@ -10,3 +10,5 @@ paper_revision/data/ml_datasets_pairs_ev3/chemical_gene_pairs_prediction_input.c
 paper_revision/data/ml_datasets_pairs_ev2/chemical_gene_pairs_prediction_input.csv filter=lfs diff=lfs merge=lfs -text
 paper_revision/results/results_pairs_ev3/chemical_gene_pairs_prediction_output_focus.csv filter=lfs diff=lfs merge=lfs -text
 paper_revision/results/results_pairs_ev3/chemical_gene_pairs_prediction_output_focus_with_variant_aggregates.csv filter=lfs diff=lfs merge=lfs -text
+paper_revision/results/results_pairs_ev2/chemical_gene_pairs_prediction_output_focus.csv filter=lfs diff=lfs merge=lfs -text
+paper_revision/results/results_pairs_ev2/chemical_gene_pairs_prediction_output_focus_with_variant_aggregates.csv filter=lfs diff=lfs merge=lfs -text

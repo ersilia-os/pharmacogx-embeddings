@@ -1,13 +1,17 @@
 import pandas as pd
 import os
 import re
+import sys
 import numpy as np
 from tqdm import tqdm
 
+exp = sys.argv[1]
+
 root = os.path.dirname(os.path.abspath(__file__))
 
-results_dir = os.path.abspath(os.path.join(root, "..", "results", "results_pairs_ev2"))
+results_dir = os.path.abspath(os.path.join(root, "..", "results", f"results_pairs_{exp}"))
 results_dir_chunks = os.path.join(results_dir, "chunks")
+
 
 
 class DynamicCalculator:

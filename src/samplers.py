@@ -67,8 +67,8 @@ class PairPositiveNegativeSamplerMiscl(object):
 
     def sample(self):
         neg_pairs = set()
-        n_pos_to_misclassify = int(len(self.pairs) * self.misc_perc)
-        misclassified_positive = random.sample(self.pairs, n_pos_to_misclassify) #do we want to be more refined? to avoid dups? To select evidence levels?
+        n_pos_to_misclassify = int(len(self.pairs) * self.misc_perc)+1
+        misclassified_positive = random.sample(self.pairs, n_pos_to_misclassify) #do we want to be more refined? To select evidence levels?
         pairs_positive = [p for p in self.pairs if p not in misclassified_positive]
         expected_negatives = int(len(set(pairs_positive)) * self.neg_ratio) + 1
         for _ in range(self._sampling_trials):

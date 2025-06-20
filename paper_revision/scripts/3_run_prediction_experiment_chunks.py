@@ -7,6 +7,7 @@ root = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(os.path.join(root, "..", "..", "src"))
 from bimodal_model import EnsembleBimodalStackedModel, get_embedding_names
 
+exp = sys.argv[1]
 ENSEMBLE_SIZE = 30
 
 df = pd.read_csv(
@@ -14,7 +15,7 @@ df = pd.read_csv(
         root,
         "..",
         "data",
-        "ml_datasets_pairs_ev2",
+        f"ml_datasets_pairs_{exp}",
         "chemical_gene_pairs_prediction_input.csv",
     )
 )
