@@ -19,7 +19,7 @@ parser.add_argument(
     "--only_pk", action="store_true", help="Flag to indicate if only PK should be used."
 )
 
-parser.add_argument("--exp", type=int, default=10)
+parser.add_argument("--exp", type=str, default=10)
 
 args = parser.parse_args()
 only_adme_genes = args.only_adme_genes
@@ -193,9 +193,12 @@ if only_pk:
     table_statistics(df)
     print("")
 
-df = df[df["evidence"] != "4"] #this is the original
+#df = df[df["evidence"] != "4"] #this is the original
 #df = df[df["evidence"].isin(["1A", "1B", "2", "3"])] #this is ev3
 #df = df[df["evidence"].isin(["1A", "1B", "2"])] #this is ev2
+#df = df[df["evidence"].isin(["1A", "1B", "2", "5", "6"])] #this is ev5
+df = df[df["evidence"].isin(["1A", "1B", "2", "6"])] #this is ev6
+
 print("> Evidence filter")
 table_statistics(df)
 print("")

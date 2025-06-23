@@ -22,6 +22,7 @@ parser.add_argument(
 )
 parser.add_argument("--negative_ratio", type=int, default=10)
 parser.add_argument("--n_folds", type=int, default=5)
+parser.add_argument("--exp", type=str, default=10)
 
 args = parser.parse_args()
 model_name = args.model_name
@@ -29,6 +30,7 @@ only_pk = args.only_pk
 only_adme_genes = args.only_adme_genes
 negative_ratio = args.negative_ratio
 n_folds = args.n_folds
+exp = args.exp
 
 if only_pk:
     sufix_0 = "only_pk"
@@ -44,7 +46,7 @@ input_csv = os.path.join(
     root,
     "..",
     "data",
-    "ml_datasets_pairs_ten",
+    f"ml_datasets_pairs_{exp}",
     "df_{0}_{1}.csv".format(sufix_0, sufix_1),
 )
 
@@ -55,10 +57,10 @@ model_base = os.path.join(root, "..", "models")
 if not os.path.exists(model_base):
     os.mkdir(model_base)
 
-if not os.path.exists(os.path.join(model_base, "models_pairs_ten")):
-    os.mkdir(os.path.join(model_base, "models_pairs_ten"))
+if not os.path.exists(os.path.join(model_base, f"models_pairs_{exp}")):
+    os.mkdir(os.path.join(model_base, f"models_pairs_{exp}"))
 
-model_folder = os.path.join(model_base, "models_pairs_ten", model_name)
+model_folder = os.path.join(model_base, f"models_pairs_{exp}", model_name)
 if not os.path.exists(model_folder):
     os.mkdir(model_folder)
 
