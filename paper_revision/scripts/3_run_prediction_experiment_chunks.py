@@ -43,7 +43,7 @@ def split_dataframe(df, chunk_size):
 chunks = split_dataframe(df, 50000)
 print("Number of chunks:", len(chunks))
 
-results_folder = os.path.join(root, "..", "results", "results_pairs_ev2", "chunks")
+results_folder = os.path.join(root, "..", "results", f"results_pairs_{exp}", "chunks")
 if not os.path.exists(results_folder):
     os.makedirs(results_folder, exist_ok=True)
 chunk_number = []
@@ -56,7 +56,7 @@ for chunk_count, df_chunk in tqdm(enumerate(chunks)):
         model_name = "model_{0}_{1}".format(sufix_0, sufix_1)
         print(model_name)
         model_folder = os.path.join(
-            root, "..", "models", "models_pairs_ev2", model_name
+            root, "..", "models", f"models_pairs_{exp}", model_name
         )
         n_folds = 0
         for l in os.listdir(model_folder):
@@ -120,7 +120,7 @@ for i in chunk_number:
 df_merged = pd.concat(df_all, ignore_index=True)
 df_merged.to_csv(
     os.path.join(
-        root, "..", "results", "results_pairs_ev2", 
+        root, "..", "results", f"results_pairs_{exp}", 
         "chemical_gene_pairs_prediction_output_focus.csv"
     ),
     index=False,

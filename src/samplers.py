@@ -88,7 +88,7 @@ class PairPositiveNegativeSamplerMiscl(object):
         # Update negatives with missclassified positives
         neg_pairs_to_remove = random.sample(neg_pairs, n_pos_to_misclassify)
         neg_pairs = [p for p in neg_pairs if p not in neg_pairs_to_remove]
-        neg_pairs.update(misclassified_positive)
+        neg_pairs+misclassified_positive
         #reshuffle the pairs
         all_pairs = pairs_positive + neg_pairs
         y = [1] * len(pairs_positive) + [0] * len(neg_pairs)
