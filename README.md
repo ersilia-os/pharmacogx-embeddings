@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/592667117.svg)](https://doi.org/10.5281/zenodo.16905958)
+
 # PharmacoGx Embeddings
 
 Use drug and gene embeddings to predict drug-gene interactions, with a focus on Africa.
